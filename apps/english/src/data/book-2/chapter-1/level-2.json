@@ -1,0 +1,76 @@
+{
+  "id": "level-2",
+  "title": "Days and Months 1",
+  "words": [
+    {
+      "word": "Saturday",
+      "gujaratiPronunciation": "સેટરડે",
+      "hindiPronunciation": "सैटरडे",
+      "gujaratiMeaning": "શનિવાર",
+      "hindiMeaning": "शनिवार",
+      "exampleSentences": [
+        {
+          "sentence": "I relax on Saturday.",
+          "gujaratiTranslation": "હું શનિવારે આરામ કરું છું.",
+          "hindiTranslation": "मैं शनिवार को आराम करता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "gujaratiPronunciation": "સન્ડે",
+      "hindiPronunciation": "संडे",
+      "gujaratiMeaning": "રવિવાર",
+      "hindiMeaning": "रविवार",
+      "exampleSentences": [
+        {
+          "sentence": "Sunday is a holiday.",
+          "gujaratiTranslation": "રવિવાર રજાનો દિવસ છે.",
+          "hindiTranslation": "रविवार छुट्टी का दिन है।"
+        }
+      ]
+    },
+    {
+      "word": "January",
+      "gujaratiPronunciation": "જાન્યુઅરી",
+      "hindiPronunciation": "जनवरी",
+      "gujaratiMeaning": "જાન્યુઆરી",
+      "hindiMeaning": "जनवरी",
+      "exampleSentences": [
+        {
+          "sentence": "My birthday is in January.",
+          "gujaratiTranslation": "મારો જન્મદિવસ જાન્યુઆરીમાં છે.",
+          "hindiTranslation": "मेरा जन्मदिन जनवरी में है।"
+        }
+      ]
+    },
+    {
+      "word": "February",
+      "gujaratiPronunciation": "ફેબ્રુઅરી",
+      "hindiPronunciation": "फरवरी",
+      "gujaratiMeaning": "ફેબ્રુઆરી",
+      "hindiMeaning": "फरवरी",
+      "exampleSentences": [
+        {
+          "sentence": "Valentine's Day is in February.",
+          "gujaratiTranslation": "વેલેન્ટાઇન ડે ફેબ્રુઆરીમાં આવે છે.",
+          "hindiTranslation": "वैलेंटाइन डे फरवरी में आता है।"
+        }
+      ]
+    },
+    {
+      "word": "March",
+      "gujaratiPronunciation": "માર્ચ",
+      "hindiPronunciation": "मार्च",
+      "gujaratiMeaning": "માર્ચ",
+      "hindiMeaning": "मार्च",
+      "exampleSentences": [
+        {
+          "sentence": "The exams start in March.",
+          "gujaratiTranslation": "પરીક્ષાઓ માર્ચમાં શરૂ થાય છે.",
+          "hindiTranslation": "परीक्षाएं मार्च में शुरू होती हैं।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+
+{
+  "id": "level-5",
+  "title": "Electronics 1",
+  "words": [
+    {
+      "word": "Television",
+      "icon": "📺",
+      "gujaratiPronunciation": "ટેલિવિઝન",
+      "hindiPronunciation": "टेलीविजन",
+      "gujaratiMeaning": "ટેલિવિઝન",
+      "hindiMeaning": "टेलीविजन"
+    },
+    {
+      "word": "Computer",
+      "icon": "💻",
+      "gujaratiPronunciation": "કમ્પ્યુટર",
+      "hindiPronunciation": "कंप्यूटर",
+      "gujaratiMeaning": "કમ્પ્યુટર",
+      "hindiMeaning": "कंप्यूटर"
+    },
+    {
+      "word": "Laptop",
+      "icon": "💻",
+      "gujaratiPronunciation": "લેપટોપ",
+      "hindiPronunciation": "लैपटॉप",
+      "gujaratiMeaning": "લેપટોપ",
+      "hindiMeaning": "लैपटॉप"
+    },
+    {
+      "word": "Telephone",
+      "icon": "☎️",
+      "gujaratiPronunciation": "ટેલિફોન",
+      "hindiPronunciation": "टेलीफोन",
+      "gujaratiMeaning": "ટેલિફોન",
+      "hindiMeaning": "टेलीफोन"
+    },
+    {
+      "word": "Refrigerator",
+      "icon": "🧊",
+      "gujaratiPronunciation": "રેફ્રિજરેટર",
+      "hindiPronunciation": "रेफ्रिजरेटर",
+      "gujaratiMeaning": "ફ્રિજ",
+      "hindiMeaning": "फ्रिज"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "level-1",
+    "title": "Everyday Wear",
+    "words": [
+        { "word": "Shirt", "icon": "👕", "gujaratiMeaning": "શર્ટ", "hindiMeaning": "कमीज", "gujaratiPronunciation": "શર્ટ", "hindiPronunciation": "शर्ट" },
+        { "word": "Pant", "icon": "👖", "gujaratiMeaning": "પેન્ટ", "hindiMeaning": "पतलून", "gujaratiPronunciation": "પેન્ટ", "hindiPronunciation": "पैंट" },
+        { "word": "Dress", "icon": "👗", "gujaratiMeaning": "ડ્રેસ", "hindiMeaning": "पोशाक", "gujaratiPronunciation": "ડ્રેસ", "hindiPronunciation": "ड्रेस" },
+        { "word": "Skirt", "icon": "👚", "gujaratiMeaning": "સ્કર્ટ", "hindiMeaning": "स्कर्ट", "gujaratiPronunciation": "સ્કર્ટ", "hindiPronunciation": "स्कर्ट" },
+        { "word": "T-shirt", "icon": "👕", "gujaratiMeaning": "ટી-શર્ટ", "hindiMeaning": "टी-शर्ट", "gujaratiPronunciation": "ટી-શર્ટ", "hindiPronunciation": "टी-शर्ट" }
+    ]
+}

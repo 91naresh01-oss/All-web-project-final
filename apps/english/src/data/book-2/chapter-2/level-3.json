@@ -1,0 +1,77 @@
+
+{
+  "id": "level-3",
+  "title": "Seasons",
+  "words": [
+    {
+      "word": "Spring",
+      "gujaratiPronunciation": "સ્પ્રિંગ",
+      "hindiPronunciation": "स्प्रिंग",
+      "gujaratiMeaning": "વસંત",
+      "hindiMeaning": "वसंत",
+      "exampleSentences": [
+        {
+          "sentence": "Flowers bloom in spring.",
+          "gujaratiTranslation": "વસંતમાં ફૂલો ખીલે છે.",
+          "hindiTranslation": "वसंत में फूल खिलते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Summer",
+      "gujaratiPronunciation": "સમર",
+      "hindiPronunciation": "समर",
+      "gujaratiMeaning": "ઉનાળો",
+      "hindiMeaning": "गर्मी",
+      "exampleSentences": [
+        {
+          "sentence": "I love swimming in the summer.",
+          "gujaratiTranslation": "મને ઉનાળામાં તરવું ગમે છે.",
+          "hindiTranslation": "मुझे गर्मियों में तैरना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Autumn",
+      "gujaratiPronunciation": "ઓટમ",
+      "hindiPronunciation": "ऑटम",
+      "gujaratiMeaning": "પાનખર",
+      "hindiMeaning": "पतझड़",
+      "exampleSentences": [
+        {
+          "sentence": "Leaves fall from trees in autumn.",
+          "gujaratiTranslation": "પાનખરમાં ઝાડ પરથી પાંદડા ખરી પડે છે.",
+          "hindiTranslation": "पतझड़ में पेड़ों से पत्ते गिरते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Winter",
+      "gujaratiPronunciation": "વિન્ટર",
+      "hindiPronunciation": "विंटर",
+      "gujaratiMeaning": "શિયાળો",
+      "hindiMeaning": "सर्दी",
+      "exampleSentences": [
+        {
+          "sentence": "We wear warm clothes in winter.",
+          "gujaratiTranslation": "અમે શિયાળામાં ગરમ કપડાં પહેરીએ છીએ.",
+          "hindiTranslation": "हम सर्दियों में गर्म कपड़े पहनते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Monsoon",
+      "gujaratiPronunciation": "મોન્સૂન",
+      "hindiPronunciation": "मानसून",
+      "gujaratiMeaning": "ચોમાસું",
+      "hindiMeaning": "मानसून",
+      "exampleSentences": [
+        {
+          "sentence": "It rains a lot during the monsoon.",
+          "gujaratiTranslation": "ચોમાસા દરમિયાન ઘણો વરસાદ પડે છે.",
+          "hindiTranslation": "मानसून के दौरान बहुत बारिश होती है।"
+        }
+      ]
+    }
+  ]
+}

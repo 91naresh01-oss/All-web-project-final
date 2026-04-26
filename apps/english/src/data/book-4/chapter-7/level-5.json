@@ -1,0 +1,376 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Stipulate",
+      "gujaratiPronunciation": "સ્ટિપ્યુલેટ",
+      "hindiPronunciation": "स्टिप्युलेट",
+      "gujaratiMeaning": "શરત રાખવી",
+      "hindiMeaning": "शर्त रखना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Stipulate",
+          "gujaratiMeaning": "શરત રાખવી",
+          "hindiMeaning": "शर्त रखना"
+        },
+        "V2 (Past)": {
+          "word": "Stipulated",
+          "gujaratiMeaning": "શરત રાખી",
+          "hindiMeaning": "शर्त रखी"
+        },
+        "V3 (Past Participle)": {
+          "word": "Stipulated",
+          "gujaratiMeaning": "શરત રાખેલી",
+          "hindiMeaning": "शर्त रखी हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Stipulating",
+          "gujaratiPronunciation": "સ્ટિપ્યુલેટિંગ",
+          "hindiPronunciation": "स्टिप्युलेटिंग",
+          "gujaratiMeaning": "શરત રાખી રહ્યું",
+          "hindiMeaning": "शर्त रख रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Specify",
+          "gujaratiMeaning": "નિર્દિષ્ટ કરવું",
+          "hindiMeaning": "निर्दिष्ट करना"
+        },
+        {
+          "word": "Demand",
+          "gujaratiMeaning": "માંગણી કરવી",
+          "hindiMeaning": "मांग करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Imply",
+          "gujaratiMeaning": "સૂચિત કરવું",
+          "hindiMeaning": "संकेत देना"
+        },
+        {
+          "word": "Suggest",
+          "gujaratiMeaning": "સૂચન કરવું",
+          "hindiMeaning": "सुझाव देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Stimulate",
+          "gujaratiPronunciation": "સ્ટિમ્યુલેટ",
+          "hindiPronunciation": "स्टिम्युलेट",
+          "gujaratiMeaning": "ઉત્તેજિત કરવું",
+          "hindiMeaning": "प्रोत्साहित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The contract stipulates a penalty for late payment.",
+          "gujaratiTranslation": "કરારમાં વિલંબિત ચુકવણી માટે દંડની શરત રાખવામાં આવી છે.",
+          "hindiTranslation": "अनुबंध में देर से भुगतान के लिए दंड की शर्त रखी गई है।",
+          "gujaratiPronunciation": "ધ કોન્ટ્રાક્ટ સ્ટિપ્યુલેટ્સ અ પેનલ્ટી ફોર લેટ પેમેન્ટ.",
+          "hindiPronunciation": "द कॉन्ट्रैक्ट स्टिप्युलेट्स अ पेनल्टी फॉर लेट पेमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Sanction",
+      "gujaratiPronunciation": "સેન્ક્શન",
+      "hindiPronunciation": "सैंक्शन",
+      "gujaratiMeaning": "મંજૂરી આપવી",
+      "hindiMeaning": "मंजूरी देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Sanction",
+          "gujaratiMeaning": "મંજૂરી આપવી",
+          "hindiMeaning": "मंजूरी देना"
+        },
+        "V2 (Past)": {
+          "word": "Sanctioned",
+          "gujaratiMeaning": "મંજૂરી આપી",
+          "hindiMeaning": "मंजूरी दी"
+        },
+        "V3 (Past Participle)": {
+          "word": "Sanctioned",
+          "gujaratiMeaning": "મંજૂર થયેલું",
+          "hindiMeaning": "मंजूर किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Sanctioning",
+          "gujaratiPronunciation": "સેન્ક્શનિંગ",
+          "hindiPronunciation": "सैंक्शनिंग",
+          "gujaratiMeaning": "મંજૂરી આપી રહ્યું",
+          "hindiMeaning": "मंजूरी दे रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Authorize",
+          "gujaratiMeaning": "અધિકૃત કરવું",
+          "hindiMeaning": "अधिकृत करना"
+        },
+        {
+          "word": "Approve",
+          "gujaratiMeaning": "મંજૂર કરવું",
+          "hindiMeaning": "मंजूर करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Prohibit",
+          "gujaratiMeaning": "પ્રતિબંધ મૂકવો",
+          "hindiMeaning": "प्रतिबंध लगाना"
+        },
+        {
+          "word": "Forbid",
+          "gujaratiMeaning": "મનાઈ કરવી",
+          "hindiMeaning": "मना करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Suction",
+          "gujaratiPronunciation": "સક્શન",
+          "hindiPronunciation": "सक्शन",
+          "gujaratiMeaning": "ચૂસવાની ક્રિયા",
+          "hindiMeaning": "चूषण"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government sanctioned the new construction project.",
+          "gujaratiTranslation": "સરકારે નવા બાંધકામ પ્રોજેક્ટને મંજૂરી આપી.",
+          "hindiTranslation": "सरकार ने नई निर्माण परियोजना को मंजूरी दी।",
+          "gujaratiPronunciation": "ધ ગવર્નમેન્ટ સેન્ક્શન્ડ ધ ન્યુ કન્સ્ટ્રક્શન પ્રોજેક્ટ.",
+          "hindiPronunciation": "द गवर्नमेंट सैंक्शंड द न्यू कंस्ट्रक्शन प्रोजेक्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Indict",
+      "gujaratiPronunciation": "ઇન્ડાઇટ",
+      "hindiPronunciation": "इंडाइट",
+      "gujaratiMeaning": "આરોપ મૂકવો",
+      "hindiMeaning": "आरोप लगाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Indict",
+          "gujaratiMeaning": "આરોપ મૂકવો",
+          "hindiMeaning": "आरोप लगाना"
+        },
+        "V2 (Past)": {
+          "word": "Indicted",
+          "gujaratiMeaning": "આરોપ મૂક્યો",
+          "hindiMeaning": "आरोप लगाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Indicted",
+          "gujaratiMeaning": "આરોપ મૂકેલો",
+          "hindiMeaning": "आरोपित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Indicting",
+          "gujaratiPronunciation": "ઇન્ડાઇટિંગ",
+          "hindiPronunciation": "इंडाइटिंग",
+          "gujaratiMeaning": "આરોપ મૂકી રહ્યું",
+          "hindiMeaning": "आरोप लगा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Charge",
+          "gujaratiMeaning": "આરોપ મૂકવો",
+          "hindiMeaning": "आरोप लगाना"
+        },
+        {
+          "word": "Accuse",
+          "gujaratiMeaning": "આરોપ મૂકવો",
+          "hindiMeaning": "आरोप लगाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Acquit",
+          "gujaratiMeaning": "નિર્દોષ છોડી મૂકવું",
+          "hindiMeaning": "निर्दोष बरी करना"
+        },
+        {
+          "word": "Exonerate",
+          "gujaratiMeaning": "નિર્દોષ જાહેર કરવું",
+          "hindiMeaning": "दोषमुक्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Indite",
+          "gujaratiPronunciation": "ઇન્ડાઇટ",
+          "hindiPronunciation": "इंडाइट",
+          "gujaratiMeaning": "લખવું",
+          "hindiMeaning": "लिखना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The grand jury indicted him for fraud.",
+          "gujaratiTranslation": "ગ્રાન્ડ જ્યુરીએ તેના પર છેતરપિંડીનો આરોપ મૂક્યો.",
+          "hindiTranslation": "ग्रैंड जूरी ने उस पर धोखाधड़ी का आरोप लगाया।",
+          "gujaratiPronunciation": "ધ ગ્રાન્ડ જ્યુરી ઇન્ડાઇટેડ હિમ ફોર ફ્રોડ.",
+          "hindiPronunciation": "द ग्रैंड जूरी इंडाइटेड हिम फॉर फ्रॉड।"
+        }
+      ]
+    },
+    {
+      "word": "Veto",
+      "gujaratiPronunciation": "વીટો",
+      "hindiPronunciation": "वीटो",
+      "gujaratiMeaning": "નિષેધાધિકારનો ઉપયોગ કરવો",
+      "hindiMeaning": "वीटो का उपयोग करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Veto",
+          "gujaratiMeaning": "નિષેધાધિકાર કરવો",
+          "hindiMeaning": "वीटो करना"
+        },
+        "V2 (Past)": {
+          "word": "Vetoed",
+          "gujaratiMeaning": "નિષેધાધિકાર કર્યો",
+          "hindiMeaning": "वीटो किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Vetoed",
+          "gujaratiMeaning": "નિષેધાધિકાર કરેલો",
+          "hindiMeaning": "वीटो किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Vetoing",
+          "gujaratiPronunciation": "વીટોિંગ",
+          "hindiPronunciation": "वीटोिंग",
+          "gujaratiMeaning": "નિષેધાધિકાર કરી રહ્યું",
+          "hindiMeaning": "वीटो कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Reject",
+          "gujaratiMeaning": "નકારવું",
+          "hindiMeaning": "अस्वीकार करना"
+        },
+        {
+          "word": "Forbid",
+          "gujaratiMeaning": "મનાઈ કરવી",
+          "hindiMeaning": "मना करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Approve",
+          "gujaratiMeaning": "મંજૂર કરવું",
+          "hindiMeaning": "मंजूर करना"
+        },
+        {
+          "word": "Sanction",
+          "gujaratiMeaning": "મંજૂરી આપવી",
+          "hindiMeaning": "मंजूरी देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Vote",
+          "gujaratiPronunciation": "વોટ",
+          "hindiPronunciation": "वोट",
+          "gujaratiMeaning": "મત",
+          "hindiMeaning": "वोट"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The president vetoed the bill.",
+          "gujaratiTranslation": "રાષ્ટ્રપતિએ બિલ પર વીટોનો ઉપયોગ કર્યો.",
+          "hindiTranslation": "राष्ट्रपति ने बिल पर वीटो कर दिया।",
+          "gujaratiPronunciation": "ધ પ્રેસિડેન્ટ વીટોડ ધ બિલ.",
+          "hindiPronunciation": "द प्रेसिडेंट वीटोड द बिल।"
+        }
+      ]
+    },
+    {
+      "word": "Plead",
+      "gujaratiPronunciation": "પ્લીડ",
+      "hindiPronunciation": "प्लीड",
+      "gujaratiMeaning": "વિનંતી કરવી",
+      "hindiMeaning": "निवेदन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Plead",
+          "gujaratiMeaning": "વિનંતી કરવી",
+          "hindiMeaning": "निवेदन करना"
+        },
+        "V2 (Past)": {
+          "word": "Pleaded/Pled",
+          "gujaratiMeaning": "વિનંતી કરી",
+          "hindiMeaning": "निवेदन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Pleaded/Pled",
+          "gujaratiMeaning": "વિનંતી કરેલી",
+          "hindiMeaning": "निवेदन किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Pleading",
+          "gujaratiPronunciation": "પ્લીડિંગ",
+          "hindiPronunciation": "प्लीडिंग",
+          "gujaratiMeaning": "વિનંતી કરી રહ્યું",
+          "hindiMeaning": "निवेदन कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Beg",
+          "gujaratiMeaning": "ભીખ માંગવી",
+          "hindiMeaning": "भीख मांगना"
+        },
+        {
+          "word": "Appeal",
+          "gujaratiMeaning": "અપીલ કરવી",
+          "hindiMeaning": "अपील करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Refuse",
+          "gujaratiMeaning": "ના પાડવી",
+          "hindiMeaning": "मना करना"
+        },
+        {
+          "word": "Demand",
+          "gujaratiMeaning": "માંગ કરવી",
+          "hindiMeaning": "मांग करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Bleed",
+          "gujaratiPronunciation": "બ્લીડ",
+          "hindiPronunciation": "ब्लीड",
+          "gujaratiMeaning": "લોહી નીકળવું",
+          "hindiMeaning": "खून बहना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He pleaded guilty to the charges.",
+          "gujaratiTranslation": "તેણે આરોપો માટે દોષ કબૂલ કર્યો.",
+          "hindiTranslation": "उसने आरोपों के लिए अपना दोष स्वीकार कर लिया।",
+          "gujaratiPronunciation": "હી પ્લીડેડ ગિલ્ટી ટુ ધ ચાર્જીસ.",
+          "hindiPronunciation": "ही प्लीडेड गिल्टी टू द चार्जेज़।"
+        }
+      ]
+    }
+  ]
+}

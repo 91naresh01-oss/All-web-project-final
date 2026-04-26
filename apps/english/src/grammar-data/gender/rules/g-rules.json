@@ -1,0 +1,208 @@
+
+{
+  "id": "gender-gu",
+  "title": "Gender (જાતિ)",
+  "description": "આ વિભાગમાં, આપણે અંગ્રેજી વ્યાકરણમાં જાતિના પ્રકારો અને તેને લગતા નિયમો શીખીશું.",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": "અંગ્રેજી ભાષામાં, Nouns (નામ) ને તેમની જાતિના આધારે ચાર મુખ્ય પ્રકારોમાં વહેંચવામાં આવે છે. આ પ્રકારો સમજવાથી વાક્ય રચના અને સર્વનામ (Pronoun) નો સાચો ઉપયોગ કરવામાં મદદ મળે છે."
+    },
+    {
+      "type": "heading",
+      "content": "જાતિના પ્રકારો (Types of Gender)"
+    },
+    {
+      "type": "part_of_speech_section",
+      "content": {
+        "title": "1. Masculine Gender (પુલિંગ)",
+        "english_title": "Masculine Gender",
+        "icon_type": "Noun",
+        "description": "જે નામ નર (male) જાતિનો ઉલ્લેખ કરે છે, તેને Masculine Gender કહેવાય છે.",
+        "examples": {
+          "items": ["Boy (છોકરો)", "Man (માણસ)", "King (રાજા)", "Father (પિતા)", "Lion (સિંહ)"]
+        }
+      }
+    },
+    {
+      "type": "part_of_speech_section",
+      "content": {
+        "title": "2. Feminine Gender (સ્ત્રીલિંગ)",
+        "english_title": "Feminine Gender",
+        "icon_type": "Adjective",
+        "description": "જે નામ માદા (female) જાતિનો ઉલ્લેખ કરે છે, તેને Feminine Gender કહેવાય છે.",
+        "examples": {
+          "items": ["Girl (છોકરી)", "Woman (સ્ત્રી)", "Queen (રાણી)", "Mother (માતા)", "Lioness (સિંહણ)"]
+        }
+      }
+    },
+    {
+      "type": "part_of_speech_section",
+      "content": {
+        "title": "3. Common Gender (ઉભયલિંગ)",
+        "english_title": "Common Gender",
+        "icon_type": "Pronoun",
+        "description": "જે નામ નર અને માદા બંને માટે વાપરી શકાય છે, તેને Common Gender કહેવાય છે.",
+        "examples": {
+          "items": ["Student (વિદ્યાર્થી)", "Teacher (શિક્ષક)", "Doctor (ડૉક્ટર)", "Parent (માતાપિતા)", "Child (બાળક)"]
+        }
+      }
+    },
+    {
+      "type": "part_of_speech_section",
+      "content": {
+        "title": "4. Neuter Gender (નાન્યતર જાતિ)",
+        "english_title": "Neuter Gender",
+        "icon_type": "Preposition",
+        "description": "જે નામ નિર્જીવ વસ્તુઓનો ઉલ્લેખ કરે છે, તેને Neuter Gender કહેવાય છે. આમાં નર કે માદાનો ભેદ હોતો નથી.",
+        "examples": {
+          "items": ["Book (પુસ્તક)", "Chair (ખુરશી)", "Table (ટેબલ)", "Pen (પેન)", "House (ઘર)"]
+        }
+      }
+    },
+    {
+      "type": "heading",
+      "content": "Masculine માંથી Feminine બનાવવાના નિયમો"
+    },
+    {
+      "type": "paragraph",
+      "content": "અંગ્રેજીમાં પુલિંગ નામ પરથી સ્ત્રીલિંગ નામ બનાવવા માટે કેટલાક સામાન્ય નિયમો છે, જે નીચે મુજબ છે:"
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "નિયમ 1: Masculine શબ્દના અંતે '-ess' ઉમેરીને",
+        "headers": ["Masculine (પુલિંગ)", "Feminine (સ્ત્રીલિંગ)"],
+        "rows": [
+          ["Author", "Authoress"],
+          ["Host", "Hostess"],
+          ["Lion", "Lioness"],
+          ["Poet", "Poetess"],
+          ["Priest", "Priestess"],
+          ["Heir", "Heiress"],
+          ["Baron", "Baroness"],
+          ["Giant", "Giantess"],
+          ["Shepherd", "Shepherdess"],
+          ["Patron", "Patroness"]
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "નિયમ 2: Masculine શબ્દના અંતિમ Vowel ને દૂર કરી '-ess' ઉમેરીને",
+        "headers": ["Masculine (પુલિંગ)", "Feminine (સ્ત્રીલિંગ)"],
+        "rows": [
+          ["Actor", "Actress"],
+          ["Emperor", "Empress"],
+          ["Master", "Mistress"],
+          ["Tiger", "Tigress"],
+          ["Waiter", "Waitress"],
+          ["Hunter", "Huntress"],
+          ["Prince", "Princess"],
+          ["Duke", "Duchess"],
+          ["Conductor", "Conductress"],
+          ["Benefactor", "Benefactress"]
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "નિયમ 3: અનિયમિત રીતે (Irregularly)",
+        "headers": ["Masculine (પુલિંગ)", "Feminine (સ્ત્રીલિંગ)"],
+        "rows": [
+          ["Boy", "Girl"],
+          ["Father", "Mother"],
+          ["Brother", "Sister"],
+          ["Husband", "Wife"],
+          ["King", "Queen"],
+          ["Man", "Woman"],
+          ["Sir", "Madam"],
+          ["Uncle", "Aunt"],
+          ["Horse", "Mare"],
+          ["Dog", "Bitch"],
+          ["Monk", "Nun"],
+          ["Gentleman", "Lady"],
+          ["Nephew", "Niece"],
+          ["Bridegroom", "Bride"],
+          ["Wizard", "Witch"],
+          ["Fox", "Vixen"]
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "નિયમ 4: સંયુક્ત શબ્દોમાં (In Compound Words)",
+        "headers": ["Masculine (પુલિંગ)", "Feminine (સ્ત્રીલિંગ)"],
+        "rows": [
+          ["Grandfather", "Grandmother"],
+          ["Landlord", "Landlady"],
+          ["Peacock", "Peahen"],
+          ["Salesman", "Saleswoman"],
+          ["Milkman", "Milkmaid"],
+          ["Manservant", "Maidservant"],
+          ["Step-father", "Step-mother"],
+          ["Godfather", "Godmother"]
+        ]
+      }
+    },
+    {
+        "type": "heading",
+        "content": "Common અને Neuter Gender ના વધુ ઉદાહરણો"
+    },
+    {
+        "type": "table",
+        "content": {
+            "title": "Common Gender (ઉભયલિંગ)",
+            "headers": ["શબ્દ (Word)", "ગુજરાતી અર્થ"],
+            "rows": [
+                ["Artist", "કલાકાર"],
+                ["Baby", "બાળક"],
+                ["Cousin", "પિતરાઈ"],
+                ["Dancer", "નૃત્યકાર"],
+                ["Engineer", "ઈજનેર"],
+                ["Friend", "મિત્ર"],
+                ["Guest", "મહેમાન"],
+                ["Lawyer", "વકીલ"],
+                ["Musician", "સંગીતકાર"],
+                ["Neighbor", "પડોશી"],
+                ["Orphan", "અનાથ"],
+                ["Person", "વ્યક્તિ"],
+                ["Player", "ખેલાડી"],
+                ["Singer", "ગાયક"],
+                ["Writer", "લેખક"]
+            ]
+        }
+    },
+    {
+        "type": "table",
+        "content": {
+            "title": "Neuter Gender (નાન્યતર જાતિ)",
+            "headers": ["શબ્દ (Word)", "ગુજરાતી અર્થ"],
+            "rows": [
+                ["Ball", "દડો"],
+                ["Car", "ગાડી"],
+                ["Computer", "કમ્પ્યુટર"],
+                ["Door", "દરવાજો"],
+                ["Flower", "ફૂલ"],
+                ["Glass", "ગ્લાસ"],
+                ["Hill", "પર્વત"],
+                ["Key", "ચાવી"],
+                ["Light", "પ્રકાશ"],
+                ["Mountain", "પર્વત"],
+                ["Paper", "કાગળ"],
+                ["River", "નદી"],
+                ["School", "શાળા"],
+                ["Street", "શેરી"],
+                ["Water", "પાણી"]
+            ]
+        }
+    },
+    {
+      "type": "note",
+      "content": "<strong>યાદ રાખો:</strong> અમુક પ્રાણીઓના નામ (દા.ત. dog, cat, horse) ને પણ Common Gender ગણવામાં આવે છે, સિવાય કે તેમની જાતિ સ્પષ્ટ રીતે દર્શાવવી હોય (દા.ત. stallion/mare)."
+    }
+  ]
+}

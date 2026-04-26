@@ -1,0 +1,461 @@
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Sculpt",
+            "gujaratiPronunciation": "સ્કલ્પટ",
+            "hindiPronunciation": "स्कल्प्ट",
+            "gujaratiMeaning": "મૂર્તિ બનાવવી",
+            "hindiMeaning": "मूर्ति बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Sculpt",
+                    "gujaratiPronunciation": "સ્કલ્પટ",
+                    "hindiPronunciation": "स्कल्प्ट",
+                    "gujaratiMeaning": "મૂર્તિ બનાવવી",
+                    "hindiMeaning": "मूर्ति बनाना"
+                },
+                "V2 (Past)": {
+                    "word": "Sculpted",
+                    "gujaratiPronunciation": "સ્કલ્પટેડ",
+                    "hindiPronunciation": "स्कulpted",
+                    "gujaratiMeaning": "મૂર્તિ બનાવી",
+                    "hindiMeaning": "मूर्ति बनाई"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Sculpted",
+                    "gujaratiPronunciation": "સ્કલ્પટેડ",
+                    "hindiPronunciation": "स्कulpted",
+                    "gujaratiMeaning": "મૂર્તિ બનાવેલી",
+                    "hindiMeaning": "मूर्ति बनाई हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Sculpting",
+                    "gujaratiPronunciation": "સ્કલ્પટિંગ",
+                    "hindiPronunciation": "स्कल्पटिंग",
+                    "gujaratiMeaning": "મૂર્તિ બનાવી રહ્યું છે",
+                    "hindiMeaning": "मूर्ति बना रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Carve",
+                    "gujaratiPronunciation": "કાર્વ",
+                    "hindiPronunciation": "कार्व",
+                    "gujaratiMeaning": "કોતરવું",
+                    "hindiMeaning": "तराशना"
+                },
+                {
+                    "word": "Shape",
+                    "gujaratiPronunciation": "શેપ",
+                    "hindiPronunciation": "शेप",
+                    "gujaratiMeaning": "આકાર આપવો",
+                    "hindiMeaning": "आकार देना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Destroy",
+                    "gujaratiPronunciation": "ડિસ્ટ્રોય",
+                    "hindiPronunciation": "डिस्ट्रॉय",
+                    "gujaratiMeaning": "નાશ કરવો",
+                    "hindiMeaning": "नष्ट करना"
+                },
+                {
+                    "word": "Demolish",
+                    "gujaratiPronunciation": "ડેમોલિશ",
+                    "hindiPronunciation": "डेमोलिश",
+                    "gujaratiMeaning": "તોડી પાડવું",
+                    "hindiMeaning": "ध्वस्त करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Sculpt",
+                    "gujaratiMeaning": "મૂર્તિ બનાવવી",
+                    "hindiMeaning": "मूर्ति बनाना"
+                },
+                {
+                    "word": "Scalp",
+                    "gujaratiMeaning": "માથાની ચામડી",
+                    "hindiMeaning": "खोपड़ी की त्वचा"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He learned to sculpt marble at a young age.",
+                    "gujaratiPronunciation": "હી લર્ન્ડ ટુ સ્કલ્પટ માર્બલ એટ અ યંગ એજ.",
+                    "hindiPronunciation": "ही लर्नड टू स्कल्प्ट मार्बल एट अ यंग एज।",
+                    "gujaratiTranslation": "તેણે નાની ઉંમરે માર્બલની મૂર્તિ બનાવવાનું શીખી લીધું.",
+                    "hindiTranslation": "उसने कम उम्र में संगमरमर की मूर्ति बनाना सीख लिया।"
+                }
+            ]
+        },
+        {
+            "word": "Improvise",
+            "gujaratiPronunciation": "ઇમ્પ્રોવાઇઝ",
+            "hindiPronunciation": "इम्प्रोવાइज",
+            "gujaratiMeaning": "તાત્કાલિક બનાવવું",
+            "hindiMeaning": "तत्काल सुधार करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Improvise",
+                    "gujaratiPronunciation": "ઇમ્પ્રોવાઇઝ",
+                    "hindiPronunciation": "इम्प्रोવાइज",
+                    "gujaratiMeaning": "તાત્કાલિક બનાવવું",
+                    "hindiMeaning": "तत्काल सुधार करना"
+                },
+                "V2 (Past)": {
+                    "word": "Improvised",
+                    "gujaratiPronunciation": "ઇમ્પ્રોવાઇઝ્ડ",
+                    "hindiPronunciation": "इम्प्रोवाइज्ड",
+                    "gujaratiMeaning": "તાત્કાલિક બનાવ્યું",
+                    "hindiMeaning": "तत्काल सुधार किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Improvised",
+                    "gujaratiPronunciation": "ઇમ્પ્રોવાઇઝ્ડ",
+                    "hindiPronunciation": "इम्प्रोवाइज्ड",
+                    "gujaratiMeaning": "તાત્કાલિક બનાવેલું",
+                    "hindiMeaning": "तत्काल सुधार किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Improvising",
+                    "gujaratiPronunciation": "ઇમ્પ્રોવાઇઝિંગ",
+                    "hindiPronunciation": "इम्प्रोवाइजિંગ",
+                    "gujaratiMeaning": "તાત્કાલિક બનાવી રહ્યું છે",
+                    "hindiMeaning": "तत्काल सुधार कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Ad-lib",
+                    "gujaratiPronunciation": "એડ-લિબ",
+                    "hindiPronunciation": "एड-लिब",
+                    "gujaratiMeaning": "તરત જ બોલવું",
+                    "hindiMeaning": "बिना तैयारी के बोलना"
+                },
+                {
+                    "word": "Extemporize",
+                    "gujaratiPronunciation": "એક્સટેમ્પોરાઇઝ",
+                    "hindiPronunciation": "एक्सटेम्पोराइज़",
+                    "gujaratiMeaning": "વિના તૈયારીએ બોલવું",
+                    "hindiMeaning": "बिना तैयारी के भाषण देना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Plan",
+                    "gujaratiPronunciation": "પ્લાન",
+                    "hindiPronunciation": "प्लान",
+                    "gujaratiMeaning": "યોજના બનાવવી",
+                    "hindiMeaning": "योजना बनाना"
+                },
+                {
+                    "word": "Prepare",
+                    "gujaratiPronunciation": "પ્રિપેર",
+                    "hindiPronunciation": "प्रिपेयर",
+                    "gujaratiMeaning": "તૈયારી કરવી",
+                    "hindiMeaning": "तैयारी करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Improvise",
+                    "gujaratiMeaning": "તાત્કાલિક બનાવવું",
+                    "hindiMeaning": "तत्काल सुधार करना"
+                },
+                {
+                    "word": "Improve",
+                    "gujaratiMeaning": "સુધારો કરવો",
+                    "hindiMeaning": "सुधार करना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "When the speaker forgot his lines, he had to improvise.",
+                    "gujaratiPronunciation": "વ્હેન ધ સ્પીકર ફોરગોટ હીઝ લાઇન્સ, હી હેડ ટુ ઇમ્પ્રોવાઇઝ.",
+                    "hindiPronunciation": "व्हेन द स्पीकर फॉरगॉट हिज लाइन्स, ही हैड टू इम्प्रोવાइज।",
+                    "gujaratiTranslation": "જ્યારે વક્તા તેની લાઈનો ભૂલી ગયો, ત્યારે તેણે તાત્કાલિક બનાવવું પડ્યું.",
+                    "hindiTranslation": "जब वक्ता अपनी पंक्तियाँ भूल गया, तो उसे तत्काल सुधार करना पड़ा।"
+                }
+            ]
+        },
+        {
+            "word": "Curate",
+            "gujaratiPronunciation": "ક્યુરેટ",
+            "hindiPronunciation": "क्यूरेट",
+            "gujaratiMeaning": "સંગ્રહ કરવો અને ગોઠવવું",
+            "hindiMeaning": "संग્રहित और व्यवस्थित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Curate",
+                    "gujaratiPronunciation": "ક્યુરેટ",
+                    "hindiPronunciation": "क्यूरेट",
+                    "gujaratiMeaning": "સંગ્રહ કરવો અને ગોઠવવું",
+                    "hindiMeaning": "संग्रहित और व्यवस्थित کرنا"
+                },
+                "V2 (Past)": {
+                    "word": "Curated",
+                    "gujaratiPronunciation": "ક્યુરેટેડ",
+                    "hindiPronunciation": "क्यूरेटेड",
+                    "gujaratiMeaning": "સંગ્રહ કર્યો અને ગોઠવ્યો",
+                    "hindiMeaning": "संग्रहित और व्यवस्थित किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Curated",
+                    "gujaratiPronunciation": "ક્યુરેટેડ",
+                    "hindiPronunciation": "क्यूरेटेड",
+                    "gujaratiMeaning": "સંગ્રહ કરેલો અને ગોઠવેલો",
+                    "hindiMeaning": "संग्रहित और व्यवस्थित किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Curating",
+                    "gujaratiPronunciation": "ક્યુરેટિંગ",
+                    "hindiPronunciation": "क्यूरेटिंग",
+                    "gujaratiMeaning": "સંગ્રહ કરી અને ગોઠવી રહ્યું છે",
+                    "hindiMeaning": "संग्रहित और व्यवस्थित कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Select",
+                    "gujaratiPronunciation": "સિલેક્ટ",
+                    "hindiPronunciation": "सिलेक्ट",
+                    "gujaratiMeaning": "પસંદ કરવું",
+                    "hindiMeaning": "चुनना"
+                },
+                {
+                    "word": "Organize",
+                    "gujaratiPronunciation": "ઓર્ગેનાઇઝ",
+                    "hindiPronunciation": "ऑर्गेनाइज",
+                    "gujaratiMeaning": "આયોજન કરવું",
+                    "hindiMeaning": "आयोजित करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Disorganize",
+                    "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ",
+                    "hindiPronunciation": "डिसऑर्गेनाइज",
+                    "gujaratiMeaning": "અસ્તવ્યસ્ત કરવું",
+                    "hindiMeaning": "अव्यवस्थित करना"
+                },
+                {
+                    "word": "Jumble",
+                    "gujaratiPronunciation": "જમ્બલ",
+                    "hindiPronunciation": "जंबल",
+                    "gujaratiMeaning": "ગડબડ કરવી",
+                    "hindiMeaning": "गड़बड़ کرنا"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Curate",
+                    "gujaratiMeaning": "સંગ્રહ કરવો",
+                    "hindiMeaning": "संग્રहित करना"
+                },
+                {
+                    "word": "Cure",
+                    "gujaratiMeaning": "ઈલાज",
+                    "hindiMeaning": "इलाज"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She was asked to curate an exhibition of modern art.",
+                    "gujaratiPronunciation": "શી વોઝ આસ્ક્ડ ટુ ક્યુરેટ એન એક્ઝિબિશન ઓફ મોડર્ન આર્ટ.",
+                    "hindiPronunciation": "शी वॉज आस्क्ड टू क्यूरेट एन एग्जीबिशन ऑफ मॉडर्न आर्ट।",
+                    "gujaratiTranslation": "તેને આધુનિક કલાના પ્રદર્શનને ક્યુરેટ કરવા માટે કહેવામાં આવ્યું હતું.",
+                    "hindiTranslation": "उसे आधुनिक कला की एक प्रदर्शनी को क्यूरेट करने के लिए कहा गया था।"
+                }
+            ]
+        },
+        {
+            "word": "Exhibit",
+            "gujaratiPronunciation": "એક્ઝિબિટ",
+            "hindiPronunciation": "एగ్జిబిట్",
+            "gujaratiMeaning": "પ્રદર્શિત કરવું",
+            "hindiMeaning": "प्रदर्शित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Exhibit",
+                    "gujaratiPronunciation": "એક્ઝિબિટ",
+                    "hindiPronunciation": "एగ్జిబిట్",
+                    "gujaratiMeaning": "પ્રદર્શિત કરવું",
+                    "hindiMeaning": "प्रदर्शित करना"
+                },
+                "V2 (Past)": {
+                    "word": "Exhibited",
+                    "gujaratiPronunciation": "એક્ઝિબિટેડ",
+                    "hindiPronunciation": "एగ్జిబిటెడ్",
+                    "gujaratiMeaning": "પ્રદર્શિત કર્યું",
+                    "hindiMeaning": "प्रदर्शित किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Exhibited",
+                    "gujaratiPronunciation": "એક્ઝિબિટેડ",
+                    "hindiPronunciation": "एగ్జిబిటెడ్",
+                    "gujaratiMeaning": "પ્રદર્શિત કરેલું",
+                    "hindiMeaning": "प्रदर्शित किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Exhibiting",
+                    "gujaratiPronunciation": "એક્ઝિબિટિંગ",
+                    "hindiPronunciation": "एగ్జిబిటింగ్",
+                    "gujaratiMeaning": "પ્રદર્શિત કરી રહ્યું છે",
+                    "hindiMeaning": "प्रदर्शित कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Display",
+                    "gujaratiPronunciation": "ડિસ્પ્લે",
+                    "hindiPronunciation": "डिस्प्ले",
+                    "gujaratiMeaning": "પ્રદર્શન કરવું",
+                    "hindiMeaning": "प्रदर्शन करना"
+                },
+                {
+                    "word": "Show",
+                    "gujaratiPronunciation": "શો",
+                    "hindiPronunciation": "शो",
+                    "gujaratiMeaning": "બતાવવું",
+                    "hindiMeaning": "दिखाना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Hide",
+                    "gujaratiPronunciation": "હાઇડ",
+                    "hindiPronunciation": "हाइड",
+                    "gujaratiMeaning": "છુપાવવું",
+                    "hindiMeaning": " छिपाना"
+                },
+                {
+                    "word": "Conceal",
+                    "gujaratiPronunciation": "કન્સીલ",
+                    "hindiPronunciation": "कंसील",
+                    "gujaratiMeaning": "સંતાડવું",
+                    "hindiMeaning": "छुपाना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Exhibit",
+                    "gujaratiMeaning": "પ્રદર્શન",
+                    "hindiMeaning": "प्रਦਰ्शन"
+                },
+                {
+                    "word": "Inhibit",
+                    "gujaratiMeaning": "અટકાવવું",
+                    "hindiMeaning": "रोकना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The museum will exhibit paintings by local artists.",
+                    "gujaratiPronunciation": "ધ મ્યુઝિયમ વિલ એક્ઝિબિટ પેઇન્ટિંગ્સ બાય લોકલ આર્ટિસ્ટ્સ.",
+                    "hindiPronunciation": "द म्यूजियम विल एग्जीबिट पेंटिंग्स बाय लोकल आर्टिस्ट્સ।",
+                    "gujaratiTranslation": "આ સંગ્રહાલય સ્થાનિક કલાકારોના ચિત્રોનું પ્રદર્શન કરશે.",
+                    "hindiTranslation": "यह संग्रहालय स्थानीय कलाकारों के चित्रों का प्रदर्शन करेगा।"
+                }
+            ]
+        },
+        {
+            "word": "Mastermind",
+            "gujaratiPronunciation": "માસ્ટરમાઇન્ડ",
+            "hindiPronunciation": "मास्टरमाइंड",
+            "gujaratiMeaning": "યોજના ઘડવી",
+            "hindiMeaning": "योजना बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Mastermind",
+                    "gujaratiPronunciation": "માસ્ટરમાઇન્ડ",
+                    "hindiPronunciation": "मास्टरमाइंड",
+                    "gujaratiMeaning": "યોજના ઘડવી",
+                    "hindiMeaning": "योजना बनाना"
+                },
+                "V2 (Past)": {
+                    "word": "Masterminded",
+                    "gujaratiPronunciation": "માસ્ટરમાઇન્ડેડ",
+                    "hindiPronunciation": "मास्टरमाइंडेड",
+                    "gujaratiMeaning": "યોજના ઘડી",
+                    "hindiMeaning": "योजना बनाई"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Masterminded",
+                    "gujaratiPronunciation": "માસ્ટરમાઇન્ડેડ",
+                    "hindiPronunciation": "मास्टरमाइंडेड",
+                    "gujaratiMeaning": "યોજના ઘડેલી",
+                    "hindiMeaning": "योजना बनाई हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Masterminding",
+                    "gujaratiPronunciation": "માસ્ટરમાઇન્ડિંગ",
+                    "hindiPronunciation": "मास्टरमाइंडिंग",
+                    "gujaratiMeaning": "યોજના ઘડી રહ્યું છે",
+                    "hindiMeaning": "योजना बना रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Orchestrate",
+                    "gujaratiPronunciation": "ઓર્કેસ્ટ્રેટ",
+                    "hindiPronunciation": "ऑर्केस्ट्रेट",
+                    "gujaratiMeaning": "સંચાલન કરવું",
+                    "hindiMeaning": "संचालन करना"
+                },
+                {
+                    "word": "Engineer",
+                    "gujaratiPronunciation": "એન્જિનિયર",
+                    "hindiPronunciation": "इंजीनियर",
+                    "gujaratiMeaning": "રચના કરવી",
+                    "hindiMeaning": "योजना बनाना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Follow",
+                    "gujaratiPronunciation": "ફોલો",
+                    "hindiPronunciation": "फॉलो",
+                    "gujaratiMeaning": "અનુસરવું",
+                    "hindiMeaning": "अनुसरण करना"
+                },
+                {
+                    "word": "Obey",
+                    "gujaratiPronunciation": "ઓબે",
+                    "hindiPronunciation": "ओबे",
+                    "gujaratiMeaning": "આજ્ઞા પાળવી",
+                    "hindiMeaning": "आज्ञा का पालन करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Mastermind",
+                    "gujaratiMeaning": "મુખ્ય સૂત્રધાર",
+                    "hindiMeaning": "मुख्य सूत्रधार"
+                },
+                {
+                    "word": "Master find",
+                    "gujaratiMeaning": "શ્રેષ્ઠ શોધ",
+                    "hindiMeaning": "उत्तम खोज"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He was known to mastermind complex heists.",
+                    "gujaratiPronunciation": "હી વોઝ નોન ટુ માસ્ટરમાઇન્ડ કોમ્પ્લેક્ષ હાઇસ્ટ્સ.",
+                    "hindiPronunciation": "ही वॉज नोन टू मास्टरमाइंड कॉम्प्लेक्स हाइस्ट्स।",
+                    "gujaratiTranslation": "તે જટિલ લૂંટની યોજના ઘડવા માટે જાણીતો હતો.",
+                    "hindiTranslation": "वह जटिल चोरियों की योजना बनाने के लिए जाना जाता था।"
+                }
+            ]
+        }
+    ]
+}

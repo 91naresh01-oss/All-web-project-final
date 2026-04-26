@@ -1,0 +1,381 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Transfer",
+      "gujaratiPronunciation": "ટ્રાન્સફર",
+      "hindiPronunciation": "ट्रांसफर",
+      "gujaratiMeaning": "સ્થાનાંતરિત કરવું, બદલી કરવી",
+      "hindiMeaning": "स्थानांतरित करना, तबादला करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Transfer",
+          "pronunciation": "ટ્રાન્સફર",
+          "meaning": "સ્થાનાંતરિત કરવું"
+        },
+        "V2 (Past)": {
+          "word": "Transferred",
+          "pronunciation": "ટ્રાન્સફર્ડ",
+          "meaning": "સ્થાનાંતરિત કર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Transferred",
+          "pronunciation": "ટ્રાન્સફર્ડ",
+          "meaning": "સ્થાનાંતરિત કરેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Transferring",
+          "pronunciation": "ટ્રાન્સફરિંગ",
+          "meaning": "સ્થાનાંતરિત કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Move",
+          "pronunciation": "મૂવ",
+          "meaning": "ખસેડવું"
+        },
+        {
+          "word": "Relocate",
+          "pronunciation": "રિલોકેટ",
+          "meaning": "સ્થળ બદલવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Keep",
+          "pronunciation": "કીપ",
+          "meaning": "રાખવું"
+        },
+        {
+          "word": "Hold",
+          "pronunciation": "હોલ્ડ",
+          "meaning": "પકડી રાખવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Transformer",
+          "pronunciation": "ટ્રાન્સફોર્મર",
+          "meaning": "વિદ્યુત ઉપકરણ"
+        },
+        {
+          "word": "Transmit",
+          "pronunciation": "ટ્રાન્સમિટ",
+          "meaning": "પ્રસારિત કરવું"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I need to transfer money to my savings account.",
+          "gujaratiTranslation": "મારે મારા બચત ખાતામાં પૈસા ટ્રાન્સફર કરવાની જરૂર છે.",
+          "hindiTranslation": "मुझे अपने बचत खाते में पैसे ट्रांसफर करने हैं।",
+          "gujaratiPronunciation": "આઈ નીડ ટુ ટ્રાન્સફર મની ટુ માય સેવિંગ્સ એકાઉન્ટ.",
+          "hindiPronunciation": "आई नीड टू ट्रांसफर मनी टू माय सेविंग्स अकाउंट।"
+        }
+      ]
+    },
+    {
+      "word": "Confer",
+      "gujaratiPronunciation": "કન્ફર",
+      "hindiPronunciation": "कन्फर",
+      "gujaratiMeaning": "પ્રદાન કરવું, એનાયત કરવું, ચર્ચા કરવી",
+      "hindiMeaning": "प्रदान करना, प्रदान करना, चर्चा करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Confer",
+          "pronunciation": "કન્ફર",
+          "meaning": "પ્રદાન કરવું"
+        },
+        "V2 (Past)": {
+          "word": "Conferred",
+          "pronunciation": "કન્ફર્ડ",
+          "meaning": "પ્રદાન કર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Conferred",
+          "pronunciation": "કન્ફર્ડ",
+          "meaning": "પ્રદાન કરેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Conferring",
+          "pronunciation": "કન્ફરિંગ",
+          "meaning": "પ્રદાન કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Bestow",
+          "pronunciation": "બિસ્ટો",
+          "meaning": "અર્પણ કરવું"
+        },
+        {
+          "word": "Grant",
+          "pronunciation": "ગ્રાન્ટ",
+          "meaning": "મંજૂર કરવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Withhold",
+          "pronunciation": "વિથહોલ્ડ",
+          "meaning": "રોકી રાખવું"
+        },
+        {
+          "word": "Deny",
+          "pronunciation": "ડિનાય",
+          "meaning": "નકારવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Confirm",
+          "pronunciation": "કન્ફર્મ",
+          "meaning": "પુષ્ટિ કરવી"
+        },
+        {
+          "word": "Cover",
+          "pronunciation": "કવર",
+          "meaning": "ઢાંકવું"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The university will confer degrees upon the graduates.",
+          "gujaratiTranslation": "યુનિવર્સિટી સ્નાતકોને ડિગ્રી પ્રદાન કરશે.",
+          "hindiTranslation": "विश्वविद्यालय स्नातकों को डिग्री प्रदान करेगा।",
+          "gujaratiPronunciation": "ધ યુનિવર્સિટી વિલ કન્ફર ડિગ્રીઝ અપોન ધ ગ્રેજ્યુએટ્સ.",
+          "hindiPronunciation": "द यूनिवर्सिटी विल कन्फर डिग्रीज अपॉन द ग्रेजुएट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Subsidize",
+      "gujaratiPronunciation": "સબસિડાઇઝ",
+      "hindiPronunciation": "सब्सिडाइज",
+      "gujaratiMeaning": "આર્થિક સહાય આપવી, સબસિડી આપવી",
+      "hindiMeaning": "आर्थिक सहायता देना, सब्सिडी देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Subsidize",
+          "pronunciation": "સબસિડાઇઝ",
+          "meaning": "સહાય આપવી"
+        },
+        "V2 (Past)": {
+          "word": "Subsidized",
+          "pronunciation": "સબસિડાઇઝ્ડ",
+          "meaning": "સહાય આપી"
+        },
+        "V3 (Past Participle)": {
+          "word": "Subsidized",
+          "pronunciation": "સબસિડાઇઝ્ડ",
+          "meaning": "સહાય આપેલી"
+        },
+        "V4 (Present Participle)": {
+          "word": "Subsidizing",
+          "pronunciation": "સબસિડાઇઝિંગ",
+          "meaning": "સહાય આપી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Fund",
+          "pronunciation": "ફંડ",
+          "meaning": "ભંડોળ આપવું"
+        },
+        {
+          "word": "Support",
+          "pronunciation": "સપોર્ટ",
+          "meaning": "આધાર આપવો"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Tax",
+          "pronunciation": "ટેક્સ",
+          "meaning": "કર લગાવવો"
+        },
+        {
+          "word": "Defund",
+          "pronunciation": "ડિફંડ",
+          "meaning": "ભંડોળ પાછું ખેંચવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Subside",
+          "pronunciation": "સબસાઇડ",
+          "meaning": "ઓછું થવું"
+        },
+        {
+          "word": "Surprise",
+          "pronunciation": "સરપ્રાઇઝ",
+          "meaning": "આશ્ચર્ય"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government subsidizes the cost of basic food items.",
+          "gujaratiTranslation": "સરકાર મૂળભૂત ખાદ્ય ચીજોના ખર્ચ પર સબસિડી આપે છે.",
+          "hindiTranslation": "सरकार बुनियादी खाद्य पदार्थों की लागत पर सब्सिडी देती है।",
+          "gujaratiPronunciation": "ધ ગવર્નમેન્ટ સબસિડાઇઝિસ ધ કોસ્ટ ઓફ બેઝિક ફૂડ આઇટમ્સ.",
+          "hindiPronunciation": "द गवर्नमेंट सब्सिडाइज द कॉस्ट ऑफ बेसिक फूड आइटम्स।"
+        }
+      ]
+    },
+    {
+      "word": "Grant",
+      "gujaratiPronunciation": "ગ્રાન્ટ",
+      "hindiPronunciation": "ग्रांट",
+      "gujaratiMeaning": "મંજૂર કરવું, અનુદાન આપવું",
+      "hindiMeaning": "मंज़ूर करना, अनुदान देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Grant",
+          "pronunciation": "ગ્રાન્ટ",
+          "meaning": "મંજૂર કરવું"
+        },
+        "V2 (Past)": {
+          "word": "Granted",
+          "pronunciation": "ગ્રાન્ટેડ",
+          "meaning": "મંજૂર કર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Granted",
+          "pronunciation": "ગ્રાન્ટેડ",
+          "meaning": "મંજૂર કરેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Granting",
+          "pronunciation": "ગ્રાન્ટિંગ",
+          "meaning": "મંજૂર કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Allow",
+          "pronunciation": "અલાઉ",
+          "meaning": "પરવાનગી આપવી"
+        },
+        {
+          "word": "Award",
+          "pronunciation": "અવોર્ડ",
+          "meaning": "પુરસ્કાર આપવો"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Refuse",
+          "pronunciation": "રિફ્યુઝ",
+          "meaning": "નકારવું"
+        },
+        {
+          "word": "Deny",
+          "pronunciation": "ડિનાય",
+          "meaning": "ઇનકાર કરવો"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Grand",
+          "pronunciation": "ગ્રાન્ડ",
+          "meaning": "ભવ્ય"
+        },
+        {
+          "word": "Plant",
+          "pronunciation": "પ્લાન્ટ",
+          "meaning": "છોડ"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The foundation will grant funds to the research project.",
+          "gujaratiTranslation": "ફાઉન્ડેશન સંશોધન પ્રોજેક્ટને અનુદાન આપશે.",
+          "hindiTranslation": "फाउंडेशन अनुसंधान परियोजना को अनुदान देगा।",
+          "gujaratiPronunciation": "ધ ફાઉન્ડેશન વિલ ગ્રાન્ટ ફંડ્સ ટુ ધ રિસર્ચ પ્રોજેક્ટ.",
+          "hindiPronunciation": "द फाउंडेशन विल ग्रांट फंड्स टू द रिसर्च प्रोजेक्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Reciprocate",
+      "gujaratiPronunciation": "રેસિપ્રોકેટ",
+      "hindiPronunciation": "रेसिप्रोकेट",
+      "gujaratiMeaning": "આપ-લે કરવી, બદલો વાળવો (સારી રીતે)",
+      "hindiMeaning": "पारस्परिक व्यवहार करना, बदला चुकाना (अच्छे अर्थ में)",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Reciprocate",
+          "pronunciation": "રેસિપ્રોકેટ",
+          "meaning": "બદલો વાળવો"
+        },
+        "V2 (Past)": {
+          "word": "Reciprocated",
+          "pronunciation": "રેસિપ્રોકેટેડ",
+          "meaning": "બદલો વાળ્યો"
+        },
+        "V3 (Past Participle)": {
+          "word": "Reciprocated",
+          "pronunciation": "રેસિપ્રોકેટેડ",
+          "meaning": "બદલો વાળેલો"
+        },
+        "V4 (Present Participle)": {
+          "word": "Reciprocating",
+          "pronunciation": "રેસિપ્રોકેટિંગ",
+          "meaning": "બદલો વાળી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Respond",
+          "pronunciation": "રિસ્પોન્ડ",
+          "meaning": "પ્રતિભાવ આપવો"
+        },
+        {
+          "word": "Return",
+          "pronunciation": "રિટર્ન",
+          "meaning": "પાછું આપવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "pronunciation": "ઇગ્નોર",
+          "meaning": "અવગણના કરવી"
+        },
+        {
+          "word": "Take",
+          "pronunciation": "ટેક",
+          "meaning": "લેવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Recipe",
+          "pronunciation": "રેસિપી",
+          "meaning": "વાનગી બનાવવાની રીત"
+        },
+        {
+          "word": "Recite",
+          "pronunciation": "રિસાઇટ",
+          "meaning": "પઠન કરવું"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She did not reciprocate his feelings.",
+          "gujaratiTranslation": "તેણીએ તેની લાગણીઓનો બદલો વાળ્યો નહીં.",
+          "hindiTranslation": "उसने उसकी भावनाओं का प्रतिदान नहीं किया।",
+          "gujaratiPronunciation": "શી ડિડ નોટ રેસિપ્રોકેટ હીઝ ફીલિંગ્સ.",
+          "hindiPronunciation": "शी डिड नॉट रेसिप्रोकेट हिज फीलिंग्स।"
+        }
+      ]
+    }
+  ]
+}

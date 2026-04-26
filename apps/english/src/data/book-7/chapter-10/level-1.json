@@ -1,0 +1,181 @@
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Win",
+            "gujaratiPronunciation": "વિન",
+            "hindiPronunciation": "विन",
+            "gujaratiMeaning": "જીતવું",
+            "hindiMeaning": "जीतना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Win", "gujaratiPronunciation": "વિન", "hindiPronunciation": "विन", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+                "V2": { "word": "Won", "gujaratiPronunciation": "વન", "hindiPronunciation": "वोन", "gujaratiMeaning": "જીત્યું", "hindiMeaning": "जीता" },
+                "V3": { "word": "Won", "gujaratiPronunciation": "વન", "hindiPronunciation": "वोन", "gujaratiMeaning": "જીતેલું", "hindiMeaning": "जीता हुआ" },
+                "V4": { "word": "Winning", "gujaratiPronunciation": "વિનિંગ", "hindiPronunciation": "विनिंग", "gujaratiMeaning": "જીતી રહ્યું છે", "hindiMeaning": "जीत रहा है" }
+            },
+            "synonyms": [
+                { "word": "Triumph", "gujaratiPronunciation": "ટ્રાયમ્ફ", "hindiPronunciation": "ट्राइंफ", "gujaratiMeaning": "વિજય", "hindiMeaning": "विजय" },
+                { "word": "Succeed", "gujaratiPronunciation": "સક્સીડ", "hindiPronunciation": "सक्सीड", "gujaratiMeaning": "સફળ થવું", "hindiMeaning": "सफल होना" }
+            ],
+            "antonyms": [
+                { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज", "gujaratiMeaning": "હારવું", "hindiMeaning": "हारना" },
+                { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ થવું", "hindiMeaning": "असफल होना" }
+            ],
+            "confusingWords": [
+                { "word": "Wine", "gujaratiPronunciation": "વાઈન", "hindiPronunciation": "वाइन", "gujaratiMeaning": "દારૂ", "hindiMeaning": "शराब" },
+                { "word": "When", "gujaratiPronunciation": "વેન", "hindiPronunciation": "व्हेन", "gujaratiMeaning": "ક્યારે", "hindiMeaning": "कब" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She trained hard to win the race.",
+                    "gujaratiPronunciation": "શી ટ્રેઇન્ડ હાર્ડ ટુ વિન ધ રેસ.",
+                    "hindiPronunciation": "शी ट्रेन्ड हार्ड टु विन द रेस।",
+                    "gujaratiTranslation": "તેણીએ રેસ જીતવા માટે સખત તાલીમ લીધી.",
+                    "hindiTranslation": "उसने दौड़ जीतने के लिए कड़ी मेहनत की।"
+                }
+            ]
+        },
+        {
+            "word": "Get",
+            "gujaratiPronunciation": "ગેટ",
+            "hindiPronunciation": "गेट",
+            "gujaratiMeaning": "મેળવવું",
+            "hindiMeaning": "पाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Get", "gujaratiPronunciation": "ગેટ", "hindiPronunciation": "गेट", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "पाना" },
+                "V2": { "word": "Got", "gujaratiPronunciation": "ગોટ", "hindiPronunciation": "गॉट", "gujaratiMeaning": "મેળવ્યું", "hindiMeaning": "पाया" },
+                "V3": { "word": "Got/Gotten", "gujaratiPronunciation": "ગોટ/ગોટન", "hindiPronunciation": "गॉट/गॉटन", "gujaratiMeaning": "મેળવેલું", "hindiMeaning": "पाया हुआ" },
+                "V4": { "word": "Getting", "gujaratiPronunciation": "ગેટિંગ", "hindiPronunciation": "गेटिंग", "gujaratiMeaning": "મેળવી રહ્યું છે", "hindiMeaning": "पा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Obtain", "gujaratiPronunciation": "ઓબ્ટેન", "hindiPronunciation": "ऑब्टेन", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "प्राप्त करना" },
+                { "word": "Receive", "gujaratiPronunciation": "રિસીવ", "hindiPronunciation": "रिसीव", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "प्राप्त करना" }
+            ],
+            "antonyms": [
+                { "word": "Give", "gujaratiPronunciation": "ગીવ", "hindiPronunciation": "गिव", "gujaratiMeaning": "આપવું", "hindiMeaning": "देना" },
+                { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज", "gujaratiMeaning": "ગુમાવવું", "hindiMeaning": "खोना" }
+            ],
+            "confusingWords": [
+                { "word": "Gate", "gujaratiPronunciation": "ગેટ", "hindiPronunciation": "गेट", "gujaratiMeaning": "દરવાજો", "hindiMeaning": "दरवाजा" },
+                { "word": "Jet", "gujaratiPronunciation": "જેટ", "hindiPronunciation": "जेट", "gujaratiMeaning": "વિમાન", "hindiMeaning": "जेट विमान" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Did you get my email?",
+                    "gujaratiPronunciation": "ડીડ યુ ગેટ માય ઈમેલ?",
+                    "hindiPronunciation": "डिड यू गेट माय ईमेल?",
+                    "gujaratiTranslation": "શું તમને મારો ઈમેલ મળ્યો?",
+                    "hindiTranslation": "क्या तुम्हें मेरा ईमेल मिला?"
+                }
+            ]
+        },
+        {
+            "word": "Achieve",
+            "gujaratiPronunciation": "અચીવ",
+            "hindiPronunciation": "अचीव",
+            "gujaratiMeaning": "હાંસલ કરવું",
+            "hindiMeaning": "हासिल करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Achieve", "gujaratiPronunciation": "અચીવ", "hindiPronunciation": "अचीव", "gujaratiMeaning": "હાંસલ કરવું", "hindiMeaning": "हासिल करना" },
+                "V2": { "word": "Achieved", "gujaratiPronunciation": "અચીવ્ડ", "hindiPronunciation": "अचीव्ड", "gujaratiMeaning": "હાંસલ કર્યું", "hindiMeaning": "हासिल किया" },
+                "V3": { "word": "Achieved", "gujaratiPronunciation": "અચીવ્ડ", "hindiPronunciation": "अचीव्ड", "gujaratiMeaning": "હાંસલ કરેલું", "hindiMeaning": "हासिल किया हुआ" },
+                "V4": { "word": "Achieving", "gujaratiPronunciation": "અચીવિંગ", "hindiPronunciation": "अचीविंग", "gujaratiMeaning": "હાંસલ કરી રહ્યું છે", "hindiMeaning": "हासिल कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Attain", "gujaratiPronunciation": "અટેન", "hindiPronunciation": "अटेन", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "प्राप्त करना" },
+                { "word": "Accomplish", "gujaratiPronunciation": "અકમ્પ્લિશ", "hindiPronunciation": "अकम्प्लिश", "gujaratiMeaning": "પાર પાડવું", "hindiMeaning": "पूरा करना" }
+            ],
+            "antonyms": [
+                { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ થવું", "hindiMeaning": "विफल होना" },
+                { "word": "Forfeit", "gujaratiPronunciation": "ફોર્ફિટ", "hindiPronunciation": "फोरफिट", "gujaratiMeaning": "જપ્ત કરવું", "hindiMeaning": "छोड़ देना" }
+            ],
+            "confusingWords": [
+                { "word": "Archive", "gujaratiPronunciation": "આર્કાઇવ", "hindiPronunciation": "आर्काइव", "gujaratiMeaning": "દફતર", "hindiMeaning": "पुरालेख" },
+                { "word": "Ache", "gujaratiPronunciation": "એક", "hindiPronunciation": "एक", "gujaratiMeaning": "પીડા", "hindiMeaning": "दर्द" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He worked hard to achieve his goals.",
+                    "gujaratiPronunciation": "હી વર્ક્ડ હાર્ડ ટુ અચીવ હીઝ ગોલ્સ.",
+                    "hindiPronunciation": "ही वर्क्ड हार्ड टु अचीव हिज गोल्स।",
+                    "gujaratiTranslation": "તેણે તેના લક્ષ્યો હાંસલ કરવા માટે સખત મહેનત કરી.",
+                    "hindiTranslation": "उसने अपने लक्ष्यों को प्राप्त करने के लिए कड़ी मेहनत की।"
+                }
+            ]
+        },
+        {
+            "word": "Reach",
+            "gujaratiPronunciation": "રીચ",
+            "hindiPronunciation": "रीच",
+            "gujaratiMeaning": "પહોંચવું",
+            "hindiMeaning": "पहुँचना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Reach", "gujaratiPronunciation": "રીચ", "hindiPronunciation": "रीच", "gujaratiMeaning": "પહોંચવું", "hindiMeaning": "पहुँचना" },
+                "V2": { "word": "Reached", "gujaratiPronunciation": "રીચ્ડ", "hindiPronunciation": "रीच्ड", "gujaratiMeaning": "પહોંચ્યું", "hindiMeaning": "पहुँचा" },
+                "V3": { "word": "Reached", "gujaratiPronunciation": "રીચ્ડ", "hindiPronunciation": "रीच्ड", "gujaratiMeaning": "પહોંચેલું", "hindiMeaning": "पहुँचा हुआ" },
+                "V4": { "word": "Reaching", "gujaratiPronunciation": "રીચિંગ", "hindiPronunciation": "रीचिंग", "gujaratiMeaning": "પહોંચી રહ્યું છે", "hindiMeaning": "पहुँच रहा है" }
+            },
+            "synonyms": [
+                { "word": "Arrive", "gujaratiPronunciation": "અરાઈવ", "hindiPronunciation": "अराइव", "gujaratiMeaning": "આગમન થવું", "hindiMeaning": "पहुँचना" },
+                { "word": "Attain", "gujaratiPronunciation": "અટેન", "hindiPronunciation": "अटेन", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "प्राप्त करना" }
+            ],
+            "antonyms": [
+                { "word": "Depart", "gujaratiPronunciation": "ડિપાર્ટ", "hindiPronunciation": "डिपार्ट", "gujaratiMeaning": "રવાના થવું", "hindiMeaning": "प्रस्थान करना" },
+                { "word": "Leave", "gujaratiPronunciation": "લીવ", "hindiPronunciation": "लीव", "gujaratiMeaning": "છોડવું", "hindiMeaning": "छोड़ना" }
+            ],
+            "confusingWords": [
+                { "word": "Rich", "gujaratiPronunciation": "રિચ", "hindiPronunciation": "रिच", "gujaratiMeaning": "ધનવાન", "hindiMeaning": "अमीर" },
+                { "word": "Wretch", "gujaratiPronunciation": "રેચ", "hindiPronunciation": "रेच", "gujaratiMeaning": "દુર્ભાગી", "hindiMeaning": "अभागा" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "We will reach the destination by evening.",
+                    "gujaratiPronunciation": "વી વિલ રીચ ધ ડેસ્ટિનેશન બાય ઇવનિંગ.",
+                    "hindiPronunciation": "वी विल रीच द डेस्टिनेशन बाय इवनिंग।",
+                    "gujaratiTranslation": "અમે સાંજ સુધીમાં ગંતવ્ય સ્થાને પહોંચીશું.",
+                    "hindiTranslation": "हम शाम तक गंतव्य पर पहुँच जाएँगे।"
+                }
+            ]
+        },
+        {
+            "word": "Acquire",
+            "gujaratiPronunciation": "અક્વાયર",
+            "hindiPronunciation": "एक्वायर",
+            "gujaratiMeaning": "પ્રાપ્ત કરવું",
+            "hindiMeaning": "अधिग्रहित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Acquire", "gujaratiPronunciation": "અક્વાયર", "hindiPronunciation": "एक्वायर", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "अधिग्रहित करना" },
+                "V2": { "word": "Acquired", "gujaratiPronunciation": "અક્વાયર્ડ", "hindiPronunciation": "एक्वायर्ड", "gujaratiMeaning": "પ્રાપ્ત કર્યું", "hindiMeaning": "अधिग्रहित किया" },
+                "V3": { "word": "Acquired", "gujaratiPronunciation": "અક્વાયર્ડ", "hindiPronunciation": "एक्वायर्ड", "gujaratiMeaning": "પ્રાપ્ત કરેલું", "hindiMeaning": "अधिग्रहित किया हुआ" },
+                "V4": { "word": "Acquiring", "gujaratiPronunciation": "અક્વાયરિંગ", "hindiPronunciation": "एक्वायरिंग", "gujaratiMeaning": "પ્રાપ્ત કરી રહ્યું છે", "hindiMeaning": "अधिग्रहित कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Obtain", "gujaratiPronunciation": "ઓબ્ટેન", "hindiPronunciation": "ऑब्टेन", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" },
+                { "word": "Gain", "gujaratiPronunciation": "ગેઇન", "hindiPronunciation": "गेन", "gujaratiMeaning": "લાભ મેળવવો", "hindiMeaning": "लाभ प्राप्त करना" }
+            ],
+            "antonyms": [
+                { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज", "gujaratiMeaning": "ગુમાવવું", "hindiMeaning": "खोना" },
+                { "word": "Forfeit", "gujaratiPronunciation": "ફોર્ફિટ", "hindiPronunciation": "फोरफिट", "gujaratiMeaning": "જપ્ત કરવું", "hindiMeaning": "त्याग देना" }
+            ],
+            "confusingWords": [
+                { "word": "Inquire", "gujaratiPronunciation": "ઇન્ક્વાયર", "hindiPronunciation": "इन्क्वायर", "gujaratiMeaning": "પૂછપરછ કરવી", "hindiMeaning": "पूछताछ करना" },
+                { "word": "Require", "gujaratiPronunciation": "રિક્વાયર", "hindiPronunciation": "रिक्वायर", "gujaratiMeaning": "જરૂર હોવી", "hindiMeaning": "आवश्यकता होना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The museum hopes to acquire the painting.",
+                    "gujaratiPronunciation": "ધ મ્યુઝિયમ હોપ્સ ટુ અક્વાયર ધ પેઇન્ટિંગ.",
+                    "hindiPronunciation": "द म्यूजियम होप्स टु एक्वायर द पेंटिंग।",
+                    "gujaratiTranslation": "સંગ્રહાલયને આ ચિત્ર પ્રાપ્ત કરવાની આશા છે.",
+                    "hindiTranslation": "संग्रहालय को यह पेंटिंग हासिल करने की उम्मीद है।"
+                }
+            ]
+        }
+    ]
+}

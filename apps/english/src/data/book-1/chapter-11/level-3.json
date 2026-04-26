@@ -1,0 +1,11 @@
+{
+    "id": "level-3",
+    "title": "Spices 3",
+    "words": [
+        { "word": "Fennel", "icon": "🌿", "gujaratiPronunciation": "ફેનલ", "hindiPronunciation": "फेनल", "gujaratiMeaning": "વરિયાળી", "hindiMeaning": "सौंफ" },
+        { "word": "Fenugreek", "icon": "🌿", "gujaratiPronunciation": "ફેનુગ્રીક", "hindiPronunciation": "फेनुગ્રીક", "gujaratiMeaning": "મેથી", "hindiMeaning": "मेथी" },
+        { "word": "Saffron", "icon": "🌿", "gujaratiPronunciation": "સેફ્રોન", "hindiPronunciation": "सैफ्रॉन", "gujaratiMeaning": "કેસર", "hindiMeaning": "केसर" },
+        { "word": "Asafoetida (Hing)", "icon": "🌿", "gujaratiPronunciation": "એસફોએટિડા (હિંગ)", "hindiPronunciation": "एसफोएटिडा (हींग)", "gujaratiMeaning": "હિંગ", "hindiMeaning": "हींग" },
+        { "word": "Bay Leaf", "icon": "🌿", "gujaratiPronunciation": "બે લીફ", "hindiPronunciation": "बे लीफ", "gujaratiMeaning": "તમાલપત્ર", "hindiMeaning": "तेज पत्ता" }
+    ]
+}

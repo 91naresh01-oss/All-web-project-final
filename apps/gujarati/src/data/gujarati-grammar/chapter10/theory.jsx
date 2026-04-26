@@ -1,0 +1,225 @@
+import React from 'react';
+import {
+    TheoryCard,
+    GradientCard,
+    TheoryHeading,
+    TheorySubHeading,
+    TheoryText,
+    TheoryGrid,
+    HighlightBox,
+    TheoryTable,
+    TheoryTableHeader,
+    TheoryTableRow,
+    TheoryList,
+    TheoryListItem
+} from '../../../components/TheoryComponents';
+
+export const chapter10Theory = [
+    {
+        title: "૧૦. વિશેષણ (Adjective)",
+        content: (
+            <div className="modern-theory-wrapper">
+                {/* Introduction Section */}
+                <GradientCard
+                    heading="૧૦. વિશેષણ (Adjective)"
+                    description="નામના અર્થમાં વધારો કરે તે વિશેષણ"
+                    theme="teal"
+                >
+                    <div style={{ marginTop: '15px' }}>
+                        <TheorySubHeading glass>વિશેષણ એટલે શું?</TheorySubHeading>
+                        <TheoryList color="#000000">
+                            <TheoryListItem>
+                                જે શબ્દ પ્રાણી કે પદાર્થના <strong>ગુણનું કે સંખ્યાનું વર્ણન</strong> કરી તેના અર્થમાં વધારો કરે તેને <strong>'વિશેષણ'</strong> કહેવાય છે.
+                            </TheoryListItem>
+                            <TheoryListItem>
+                                વિશેષણ એટલે માત્ર વધારાનો અર્થ આપનાર જ ઘટક નહીં, પણ સંજ્ઞાના અર્થને વધુ ચોક્કસ કરનાર ઘટક.
+                            </TheoryListItem>
+                            <TheoryListItem>
+                                <strong>વિશેષ્ય:</strong> જે શબ્દ નામના અર્થમાં વધારો કરે છે તે વિશેષણ કહેવાય, અને વિશેષણ જેનો ગુણ બતાવે તે <strong>'વિશેષ્ય'</strong> કહેવાય.
+                            </TheoryListItem>
+                        </TheoryList>
+                        <HighlightBox type="translucent-white" title="ઉદાહરણ">
+                            આકાશમાં <strong>ઝગમગતા</strong> તારા પ્રકાશે છે.<br />
+                            • <strong>ઝગમગતા</strong> – વિશેષણ<br />
+                            • <strong>તારા</strong> – વિશેષ્ય
+                        </HighlightBox>
+                    </div>
+                </GradientCard>
+
+                {/* Classification Table */}
+                <TheoryCard>
+                    <TheoryHeading>વિશેષણના પ્રકારો (વર્ગીકરણ)</TheoryHeading>
+                    <TheoryText>નીચે મુજબ ત્રણ દૃષ્ટિએ વિશેષણના પ્રકાર પડે છે:</TheoryText>
+                    <TheoryTable>
+                        <TheoryTableHeader theme="rose" headers={['અર્થની દૃષ્ટિએ', 'સ્વરૂપની દૃષ્ટિએ', 'સ્થાનની દૃષ્ટિએ']} />
+                        <TheoryTableRow cells={['૧. ગુણવાચક વિશેષણ', '૧. વિકારી વિશેષણ', '૧. અનુવાદ્ય વિશેષણ']} />
+                        <TheoryTableRow cells={['૨. સંખ્યાવાચક વિશેષણ', '૨. અવિકારી વિશેષણ', '૨. વિધેય વિશેષણ']} isEven />
+                        <TheoryTableRow cells={['૩. પરિમાણવાચક વિશેષણ', '', '']} />
+                        <TheoryTableRow cells={['૪. સાર્વનામિક વિશેષણ', '', '']} isEven />
+                        <TheoryTableRow cells={['૫. સંબંધવાચક વિશેષણ', '', '']} />
+                        <TheoryTableRow cells={['૬. વિશેષણનું વિશેષણ', '', '']} isEven />
+                    </TheoryTable>
+                </TheoryCard>
+
+                <div className="section-divider" style={{ margin: '20px 0', borderBottom: '2px dashed #e5e7eb' }}></div>
+
+                {/* 1. Meaning Based Types */}
+                <TheoryHeading>1️⃣ અર્થની દૃષ્ટિએ વિશેષણના પ્રકાર</TheoryHeading>
+
+                <TheoryGrid>
+                    <TheoryCard>
+                        <TheorySubHeading>૧. ગુણવાચક વિશેષણ</TheorySubHeading>
+                        <TheoryText>
+                            પ્રાણી કે પદાર્થનો ગુણ બતાવે તે ‘ગુણવાચક વિશેષણ’ કહેવાય છે. તે સંજ્ઞાના આકાર, કદ, રંગ, ગુણ, કાર્ય આદિના અર્થમાં વધારો કરે છે.
+                        </TheoryText>
+                        <HighlightBox type="info">
+                            <strong>પેટા પ્રકાર:</strong> રંગવાચક, સ્વાદવાચક, આકારવાચક, કર્તૃવાચક વિશેષણ.
+                        </HighlightBox>
+                        <div style={{ marginTop: '10px' }}>
+                            <strong>ઉદાહરણો:</strong>
+                            <ul style={{ paddingLeft: '20px', marginTop: '5px' }}>
+                                <li>શીલવંત સાધુને વારે વારે નમીએ.</li>
+                                <li><strong>ગોળ</strong> ટેબલ, <strong>સફેદ</strong> ટોપી.</li>
+                                <li><strong>હોશિયાર</strong> છોકરો, <strong>કડક</strong> આચાર્ય.</li>
+                            </ul>
+                        </div>
+                    </TheoryCard>
+
+                    <TheoryCard>
+                        <TheorySubHeading>૨. સંખ્યાવાચક વિશેષણ</TheorySubHeading>
+                        <TheoryText>વિશેષ્યની સંખ્યા બતાવે છે. તેના ચાર પ્રકાર છે:</TheoryText>
+
+                        <div style={{ display: 'grid', gap: '10px' }}>
+                            <div style={{ background: '#f8fafc', padding: '10px', borderRadius: '6px' }}>
+                                <strong style={{ color: '#2563eb' }}>નિશ્ચિત:</strong> એક, ત્રણ, ડઝન, કોડી.<br />
+                                <small>ઉદા: ગાયનું <strong>પાશેર</strong> ઘી મંગાવ્યું.</small>
+                            </div>
+                            <div style={{ background: '#f8fafc', padding: '10px', borderRadius: '6px' }}>
+                                <strong style={{ color: '#2563eb' }}>અનિશ્ચિત:</strong> આશરે, થોડા, પુષ્કળ.<br />
+                                <small>ઉદા: વર્ગમાં <strong>પુષ્કળ</strong> વિદ્યાર્થીઓ હતા.</small>
+                            </div>
+                            <div style={{ background: '#f8fafc', padding: '10px', borderRadius: '6px' }}>
+                                <strong style={{ color: '#2563eb' }}>ક્રમિક:</strong> પહેલું, બીજું, પ્રથમ.<br />
+                                <small>ઉદા: રવિએ <strong>પ્રથમ</strong> નંબર મેળવ્યો.</small>
+                            </div>
+                            <div style={{ background: '#f8fafc', padding: '10px', borderRadius: '6px' }}>
+                                <strong style={{ color: '#2563eb' }}>માત્રાસૂચક:</strong> ખૂબ, તદ્દન, સર્વ.<br />
+                                <small>ઉદા: તળાવમાં <strong>ભરપૂર</strong> પાણી છે.</small>
+                            </div>
+                        </div>
+                    </TheoryCard>
+                </TheoryGrid>
+
+                <TheoryGrid>
+                    <TheoryCard>
+                        <TheorySubHeading>૩. સાર્વનામિક વિશેષણ</TheorySubHeading>
+                        <TheoryText>જે વાક્યમાં સર્વનામ વિશેષણ તરીકે વપરાય.</TheoryText>
+                        <p><strong>ઉદાહરણ:</strong> <strong>કશું</strong> બોલો તો ખરા! અમારી ટૂકડી, મારું ઘર.</p>
+                    </TheoryCard>
+
+                    <TheoryCard>
+                        <TheorySubHeading>૪. સંબંધવાચક વિશેષણ</TheorySubHeading>
+                        <TheoryText>ષષ્ઠી વિભક્તિના પ્રત્યય (ના, ની, નું, નો) થી સંજ્ઞાની વિશેષતા દર્શાવે.</TheoryText>
+                        <p><strong>ઉદાહરણ:</strong> <strong>સોનાની</strong> થાળી, <strong>લાકડાની</strong> પાટ, <strong>દોરીનો</strong> છેડો.</p>
+                    </TheoryCard>
+
+                    <TheoryCard>
+                        <TheorySubHeading>૫. વિશેષણનું વિશેષણ</TheorySubHeading>
+                        <TheoryText>વિશેષણ માટે પણ વિશેષણ વપરાય તેને ‘પ્રવિશેષણ’ કહેવાય.</TheoryText>
+                        <p><strong>ઉદાહરણ:</strong> તે <strong>ઘણો</strong> ખરાબ માણસ છે. આ <strong>સુંદરમાં સુંદર</strong> છોકરો છે.</p>
+                    </TheoryCard>
+                </TheoryGrid>
+
+                {/* 2. Format Based Types */}
+                <TheoryHeading>2️⃣ સ્વરૂપની દૃષ્ટિએ વિશેષણના પ્રકાર</TheoryHeading>
+                <TheoryGrid>
+                    <TheoryCard>
+                        <TheorySubHeading bg="#f0fdf4" color="#166534">૧. વિકારી વિશેષણ</TheorySubHeading>
+                        <TheoryText>સંજ્ઞાના લિંગ-વચન અનુસાર જેનું રૂપ બદલાય.</TheoryText>
+                        <HighlightBox type="success">
+                            <strong>શબ્દો:</strong> નાનું, મોટું, ખુલ્લું, સારું, આખું, ઉઘાડું.
+                        </HighlightBox>
+                        <ul style={{ fontSize: '0.95rem', marginTop: '5px' }}>
+                            <li><strong>ઉઘાડી</strong> થાળી (સ્ત્રીલિંગ)</li>
+                            <li><strong>ઉઘાડો</strong> ખોરાક (પુંલ્લિંગ)</li>
+                            <li><strong>ઉઘાડું</strong> બારણું (નપુંસકલિંગ)</li>
+                        </ul>
+                    </TheoryCard>
+
+                    <TheoryCard>
+                        <TheorySubHeading bg="#fef2f2" color="#991b1b">૨. અવિકારી વિશેષણ</TheorySubHeading>
+                        <TheoryText>લિંગ-વચન બદલાવા છતાં જેનું રૂપ ન બદલાય.</TheoryText>
+                        <HighlightBox type="error">
+                            <strong>શબ્દો:</strong> ચાલાક, હોશિયાર, સુંદર, મૂર્ખ, પ્રામાણિક.
+                        </HighlightBox>
+                        <ul style={{ fontSize: '0.95rem', marginTop: '5px' }}>
+                            <li><strong>ચાલાક</strong> ચોર (પુંલ્લિંગ)</li>
+                            <li><strong>ચાલાક</strong> શિયાળ (નપુંસકલિંગ)</li>
+                        </ul>
+                    </TheoryCard>
+                </TheoryGrid>
+
+                {/* 3. Position Based Types */}
+                <TheoryHeading>3️⃣ સ્થાનની દૃષ્ટિએ વિશેષણના પ્રકાર</TheoryHeading>
+                <TheoryGrid>
+                    <TheoryCard>
+                        <TheorySubHeading bg="#fff7ed" color="#9a3412">૧. અનુવાદ્ય વિશેષણ</TheorySubHeading>
+                        <TheoryText>નામની <strong>પહેલાં</strong> આવતાં વિશેષણ.</TheoryText>
+                        <p><strong>ઉદાહરણ:</strong> તે <strong>હોશિયાર</strong> વિદ્યાર્થી છે. તે <strong>કાળી</strong> ગાડી છે.</p>
+                    </TheoryCard>
+
+                    <TheoryCard>
+                        <TheorySubHeading bg="#fff7ed" color="#9a3412">૨. વિધેય વિશેષણ</TheorySubHeading>
+                        <TheoryText>નામની <strong>પછી</strong> આવતાં વિશેષણ.</TheoryText>
+                        <p><strong>ઉદાહરણ:</strong> તે વિધાર્થી <strong>હોશિયાર</strong> છે. તે બગીચો <strong>સુંદર</strong> છે.</p>
+                    </TheoryCard>
+                </TheoryGrid>
+
+                {/* Other Types & List */}
+                <TheoryHeading>🌟 અન્ય મહત્વના પ્રકારો & યાદી</TheoryHeading>
+                <TheoryGrid>
+                    <TheoryCard>
+                        <TheorySubHeading>દર્શક વિશેષણ</TheorySubHeading>
+                        <p>નામનો નિર્દેશ કરે છે. (આ, તે, પેલું)</p>
+                        <small>ઉદા: <strong>આ</strong> ચોપડી સરસ છે.</small>
+                    </TheoryCard>
+                    <TheoryCard>
+                        <TheorySubHeading>પ્રશ્નવાચક વિશેષણ</TheorySubHeading>
+                        <p>પ્રશ્ન પૂછવા વપરાય. (શું, કયું)</p>
+                        <small>ઉદા: તમારે <strong>કયું</strong> પુસ્તક જોઈએ?</small>
+                    </TheoryCard>
+                    <TheoryCard>
+                        <TheorySubHeading>કૃદંત વિશેષણ</TheorySubHeading>
+                        <p>કૃદંત વિશેષણ તરીકે. (દોડતો, દોરેલું)</p>
+                        <small>ઉદા: <strong>દોડતો</strong> છોકરો.</small>
+                    </TheoryCard>
+                </TheoryGrid>
+
+                <TheoryCard>
+                    <TheorySubHeading>નામ પરથી બનતા વિશેષણો (યાદી)</TheorySubHeading>
+                    <div style={{ maxHeight: '300px', overflowY: 'auto' }}>
+                        <TheoryTable>
+                            <TheoryTableHeader theme="rose" headers={['નામ', 'વિશેષણ', 'નામ', 'વિશેષણ']} />
+                            <TheoryTableRow cells={['જ્ઞાન', 'જ્ઞાની', 'આબરૂ', 'આબરૂદાર']} />
+                            <TheoryTableRow cells={['રસ', 'રસિક', 'માર', 'મારકણું']} isEven />
+                            <TheoryTableRow cells={['સમાજ', 'સામાજિક', 'રાષ્ટ્ર', 'રાષ્ટ્રીય']} />
+                            <TheoryTableRow cells={['કૃપા', 'કૃપાળુ', 'શરીર', 'શારીરિક']} isEven />
+                            <TheoryTableRow cells={['રીસ', 'રિસાળ', 'લોક', 'લૌકિક']} />
+                            <TheoryTableRow cells={['ચિંતન', 'ચિંતનીય', 'મનન', 'મનનીય']} isEven />
+                            <TheoryTableRow cells={['માનસ', 'માનસિક', 'માણસ', 'માણસાઇ']} />
+                            <TheoryTableRow cells={['હિન્દુસ્તાન', 'હિન્દુસ્તાની', 'નગર', 'નાગરિક']} isEven />
+                            <TheoryTableRow cells={['પક્ષ', 'પાક્ષિક', 'ભાગ્ય', 'ભાગ્યશાળી']} />
+                            <TheoryTableRow cells={['ગુજરાત', 'ગુજરાતી', 'પ્રારંભ', 'પ્રારંભિક']} isEven />
+                            <TheoryTableRow cells={['નીતિ', 'નૈતિક', 'ભાષા', 'ભાષાકીય']} />
+                            <TheoryTableRow cells={['નિશ્ચય', 'નિશ્ચિત', 'વિશ્વ', 'વૈશ્વિક']} isEven />
+                            <TheoryTableRow cells={['ઉપયોગ', 'ઉપયોગી', 'માન', 'માનનીય']} />
+                            <TheoryTableRow cells={['પૈસા', 'પૈસાદાર', 'પ્રસ્તાવ', 'પ્રાસ્તાવિક']} isEven />
+                            <TheoryTableRow cells={['ધન', 'ધનિક', 'વ્યવસ્થા', 'વ્યવસ્થિત']} />
+                            <TheoryTableRow cells={['કુટુંબ', 'કૌટુંબિક', '-', '-']} isEven />
+                        </TheoryTable>
+                    </div>
+                </TheoryCard>
+            </div>
+        )
+    }
+];

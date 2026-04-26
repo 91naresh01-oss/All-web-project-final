@@ -1,0 +1,481 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Fast-track",
+      "gujaratiPronunciation": "ફાસ્ટ-ટ્રેક",
+      "hindiPronunciation": "फास्ट-ट्रैक",
+      "gujaratiMeaning": "ઝડપી બનાવવું",
+      "hindiMeaning": "तेजी लाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Fast-track",
+          "gujaratiPronunciation": "ફાસ્ટ-ટ્રેક",
+          "hindiPronunciation": "फास्ट-ट्रैक",
+          "gujaratiMeaning": "ઝડપી બનાવવું",
+          "hindiMeaning": "तेजी लाना"
+        },
+        "v2": {
+          "word": "Fast-tracked",
+          "gujaratiPronunciation": "ફાસ્ટ-ટ્રેક્ડ",
+          "hindiPronunciation": "फास्ट-ट्रैक्ड",
+          "gujaratiMeaning": "ઝડપી બનાવ્યું",
+          "hindiMeaning": "तेजी लाई"
+        },
+        "v3": {
+          "word": "Fast-tracked",
+          "gujaratiPronunciation": "ફાસ્ટ-ટ્રેક્ડ",
+          "hindiPronunciation": "फास्ट-ट्रैक्ड",
+          "gujaratiMeaning": "ઝડપી બનાવેલ",
+          "hindiMeaning": "तेजी लाई हुई"
+        },
+        "v4": {
+          "word": "Fast-tracking",
+          "gujaratiPronunciation": "ફાસ્ટ-ટ્રેકિંગ",
+          "hindiPronunciation": "फास्ट-ट्रैकिंग",
+          "gujaratiMeaning": "ઝડપી બનાવી રહ્યા છે",
+          "hindiMeaning": "तेजी ला रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Accelerate",
+          "gujaratiPronunciation": "એક્સેલરેટ",
+          "hindiPronunciation": "एक्सेलरेट",
+          "gujaratiMeaning": "ગતિ વધારવી",
+          "hindiMeaning": "गति बढ़ाना"
+        },
+        {
+          "word": "Expedite",
+          "gujaratiPronunciation": "એક્સપિડાઇટ",
+          "hindiPronunciation": "एक्सपेडाइट",
+          "gujaratiMeaning": "શીઘ્ર કરવું",
+          "hindiMeaning": "शीघ्र करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Delay",
+          "gujaratiPronunciation": "ડિલે",
+          "hindiPronunciation": "डिले",
+          "gujaratiMeaning": "વિલંબ કરવો",
+          "hindiMeaning": "देरी करना"
+        },
+        {
+          "word": "Slow down",
+          "gujaratiPronunciation": "સ્લો ડાઉન",
+          "hindiPronunciation": "स्लो डाउन",
+          "gujaratiMeaning": "ધીમું કરવું",
+          "hindiMeaning": "धीमा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Track",
+          "gujaratiPronunciation": "ટ્રેક",
+          "hindiPronunciation": "ट्रैक",
+          "gujaratiMeaning": "માર્ગ",
+          "hindiMeaning": "मार्ग"
+        },
+        {
+          "word": "Fact",
+          "gujaratiPronunciation": "ફેક્ટ",
+          "hindiPronunciation": "फैक्ट",
+          "gujaratiMeaning": "હકીકત",
+          "hindiMeaning": "तथ्य"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The project was fast-tracked to meet the deadline.",
+          "gujaratiTranslation": "સમયમર્યાદા પૂરી કરવા માટે પ્રોજેક્ટને ઝડપી બનાવવામાં આવ્યો હતો.",
+          "hindiTranslation": "समय सीमा को पूरा करने के लिए परियोजना को तेजी से आगे बढ़ाया गया।",
+          "gujaratiPronunciation": "ધ પ્રોજેક્ટ વોઝ ફાસ્ટ-ટ્રેક્ડ ટુ મીટ ધ ડેડલાઇન.",
+          "hindiPronunciation": "द प्रोजेक्ट वाज़ फास्ट-ट्रैक्ड टू मीट द डेडलाइन।"
+        }
+      ]
+    },
+    {
+      "word": "Procrastinate",
+      "gujaratiPronunciation": "પ્રોક્રાસ્ટિનેટ",
+      "hindiPronunciation": "प्रोक्रैस्टिनेट",
+      "gujaratiMeaning": "ટાળવું",
+      "hindiMeaning": "टालमटोल करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Procrastinate",
+          "gujaratiPronunciation": "પ્રોક્રાસ્ટિનેટ",
+          "hindiPronunciation": "प्रोक्रैस्टिनेट",
+          "gujaratiMeaning": "ટાળવું",
+          "hindiMeaning": "टालमटोल करना"
+        },
+        "v2": {
+          "word": "Procrastinated",
+          "gujaratiPronunciation": "પ્રોક્રાસ્ટિનેટેડ",
+          "hindiPronunciation": "प्रोक्रैस्टिनेटेड",
+          "gujaratiMeaning": "ટાળ્યું",
+          "hindiMeaning": "टालमटोल की"
+        },
+        "v3": {
+          "word": "Procrastinated",
+          "gujaratiPronunciation": "પ્રોક્રાસ્ટિનેટેડ",
+          "hindiPronunciation": "प्रोक्रैस्टिनेटेड",
+          "gujaratiMeaning": "ટાળેલું",
+          "hindiMeaning": "टालमटोल किया हुआ"
+        },
+        "v4": {
+          "word": "Procrastinating",
+          "gujaratiPronunciation": "પ્રોક્રાસ્ટિનેટિંગ",
+          "hindiPronunciation": "प्रोक्रैस्टिनेटिंग",
+          "gujaratiMeaning": "ટાળી રહ્યા છે",
+          "hindiMeaning": "टालमटोल कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Delay",
+          "gujaratiPronunciation": "ડિલે",
+          "hindiPronunciation": "डिले",
+          "gujaratiMeaning": "વિલંબ કરવો",
+          "hindiMeaning": "देरी करना"
+        },
+        {
+          "word": "Postpone",
+          "gujaratiPronunciation": "પોસ્ટપોન",
+          "hindiPronunciation": "पोस्टपोन",
+          "gujaratiMeaning": "મુલતવી રાખવું",
+          "hindiMeaning": "स्थगित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Hasten",
+          "gujaratiPronunciation": "હેસન",
+          "hindiPronunciation": "हेसन",
+          "gujaratiMeaning": "ઉતાવળ કરવી",
+          "hindiMeaning": "जल्दी करना"
+        },
+        {
+          "word": "Act",
+          "gujaratiPronunciation": "એક્ટ",
+          "hindiPronunciation": "एक्ट",
+          "gujaratiMeaning": "કાર્ય કરવું",
+          "hindiMeaning": "कार्य करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Procreate",
+          "gujaratiPronunciation": "પ્રોક્રિએટ",
+          "hindiPronunciation": "प्रोक्रिएट",
+          "gujaratiMeaning": "સંતાન ઉત્પન્ન કરવું",
+          "hindiMeaning": "संतान उत्पन्न करना"
+        },
+        {
+          "word": "Crate",
+          "gujaratiPronunciation": "ક્રેટ",
+          "hindiPronunciation": "क्रेट",
+          "gujaratiMeaning": "લાકડાની પેટી",
+          "hindiMeaning": "लकड़ी का बक्सा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "If you procrastinate, you will fall behind schedule.",
+          "gujaratiTranslation": "જો તમે ટાળમટોળ કરશો, તો તમે સમયપત્રકથી પાછળ રહી જશો.",
+          "hindiTranslation": "यदि आप टालमटोल करेंगे, तो आप समय-सारणी से पीछे रह जाएंगे।",
+          "gujaratiPronunciation": "ઇફ યુ પ્રોક્રાસ્ટિનેટ, યુ વિલ ફોલ બિહાઇન્ડ શેડ્યૂલ.",
+          "hindiPronunciation": "इफ यू प्रोक्रैस्टिनेट, यू विल फॉल बिहाइंड शेड्यूल।"
+        }
+      ]
+    },
+    {
+      "word": "Terminate",
+      "gujaratiPronunciation": "ટર્મિનેટ",
+      "hindiPronunciation": "टर्मिनेट",
+      "gujaratiMeaning": "સમાપ્ત કરવું",
+      "hindiMeaning": "समाप्त करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Terminate",
+          "gujaratiPronunciation": "ટર્મિનેટ",
+          "hindiPronunciation": "टर्मिनेट",
+          "gujaratiMeaning": "સમાપ્ત કરવું",
+          "hindiMeaning": "समाप्त करना"
+        },
+        "v2": {
+          "word": "Terminated",
+          "gujaratiPronunciation": "ટર્મિનેટેડ",
+          "hindiPronunciation": "टर्मिनेटेड",
+          "gujaratiMeaning": "સમાપ્ત કર્યું",
+          "hindiMeaning": "समाप्त किया"
+        },
+        "v3": {
+          "word": "Terminated",
+          "gujaratiPronunciation": "ટર્મિનેટેડ",
+          "hindiPronunciation": "टर्मिनेटेड",
+          "gujaratiMeaning": "સમાપ્ત કરેલ",
+          "hindiMeaning": "समाप्त किया हुआ"
+        },
+        "v4": {
+          "word": "Terminating",
+          "gujaratiPronunciation": "ટર્મિનેટિંગ",
+          "hindiPronunciation": "टर्मिनेटिंग",
+          "gujaratiMeaning": "સમાપ્ત કરી રહ્યા છે",
+          "hindiMeaning": "समाप्त कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "End",
+          "gujaratiPronunciation": "એન્ડ",
+          "hindiPronunciation": "एंड",
+          "gujaratiMeaning": "અંત લાવવો",
+          "hindiMeaning": "अंत करना"
+        },
+        {
+          "word": "Abolish",
+          "gujaratiPronunciation": "એબોલિશ",
+          "hindiPronunciation": "अबोलिश",
+          "gujaratiMeaning": "નાબૂદ કરવું",
+          "hindiMeaning": "समाप्त करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Begin",
+          "gujaratiPronunciation": "બિગિન",
+          "hindiPronunciation": "बिगिन",
+          "gujaratiMeaning": "શરૂ કરવું",
+          "hindiMeaning": "शुरू करना"
+        },
+        {
+          "word": "Initiate",
+          "gujaratiPronunciation": "ઇનિશિએટ",
+          "hindiPronunciation": "इनिशिएट",
+          "gujaratiMeaning": "પ્રારંભ કરવો",
+          "hindiMeaning": "प्रारंभ करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Determine",
+          "gujaratiPronunciation": "ડિટર્માઇન",
+          "hindiPronunciation": "डिटरमाइन",
+          "gujaratiMeaning": "નક્કી કરવું",
+          "hindiMeaning": "निर्धारित करना"
+        },
+        {
+          "word": "Dominate",
+          "gujaratiPronunciation": "ડોમિનેટ",
+          "hindiPronunciation": "डामिनेट",
+          "gujaratiMeaning": "પ્રભુત્વ જમાવવું",
+          "hindiMeaning": "हावी होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company decided to terminate the contract.",
+          "gujaratiTranslation": "કંપનીએ કરાર સમાપ્ત કરવાનો નિર્ણય કર્યો.",
+          "hindiTranslation": "कंपनी ने अनुबंध समाप्त करने का निर्णय लिया।",
+          "gujaratiPronunciation": "ધ કંપની ડિસાઇડેડ ટુ ટર્મિનેટ ધ કોન્ટ્રેક્ટ.",
+          "hindiPronunciation": "द कंपनी डिसाइडेड टू टर्मिनेट द कॉन्ट्रैक्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Defer",
+      "gujaratiPronunciation": "ડિફર",
+      "hindiPronunciation": "डेफर",
+      "gujaratiMeaning": "ટાળવું",
+      "hindiMeaning": "टालना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Defer",
+          "gujaratiPronunciation": "ડિફર",
+          "hindiPronunciation": "डेफर",
+          "gujaratiMeaning": "ટાળવું",
+          "hindiMeaning": "टालना"
+        },
+        "v2": {
+          "word": "Deferred",
+          "gujaratiPronunciation": "ડિફર્ડ",
+          "hindiPronunciation": "डेफर्ड",
+          "gujaratiMeaning": "ટાળ્યું",
+          "hindiMeaning": "टाला"
+        },
+        "v3": {
+          "word": "Deferred",
+          "gujaratiPronunciation": "ડિફર્ડ",
+          "hindiPronunciation": "डेफर्ड",
+          "gujaratiMeaning": "ટાળેલું",
+          "hindiMeaning": "टाला हुआ"
+        },
+        "v4": {
+          "word": "Deferring",
+          "gujaratiPronunciation": "ડિફરિંગ",
+          "hindiPronunciation": "डेफरिंग",
+          "gujaratiMeaning": "ટાળી રહ્યા છે",
+          "hindiMeaning": "टाल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Postpone",
+          "gujaratiPronunciation": "પોસ્ટપોન",
+          "hindiPronunciation": "पोस्टपोन",
+          "gujaratiMeaning": "મુલતવી રાખવું",
+          "hindiMeaning": "स्थगित करना"
+        },
+        {
+          "word": "Delay",
+          "gujaratiPronunciation": "ડિલે",
+          "hindiPronunciation": "डिले",
+          "gujaratiMeaning": "વિલંબ કરવો",
+          "hindiMeaning": "देरी करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Expedite",
+          "gujaratiPronunciation": "એક્સપિડાઇટ",
+          "hindiPronunciation": "एक्सपेडाइट",
+          "gujaratiMeaning": "ઝડપ કરવી",
+          "hindiMeaning": "शीघ्र करना"
+        },
+        {
+          "word": "Advance",
+          "gujaratiPronunciation": "એડવાન્સ",
+          "hindiPronunciation": "एडवांस",
+          "gujaratiMeaning": "આગળ વધારવું",
+          "hindiMeaning": "आगे बढ़ाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Differ",
+          "gujaratiPronunciation": "ડિફર",
+          "hindiPronunciation": "डिफर",
+          "gujaratiMeaning": "અલગ હોવું",
+          "hindiMeaning": "भिन्न होना"
+        },
+        {
+          "word": "Refer",
+          "gujaratiPronunciation": "રેફર",
+          "hindiPronunciation": "रेफर",
+          "gujaratiMeaning": "સંદર્ભ આપવો",
+          "hindiMeaning": "संदर्भ देना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He decided to defer his studies for a year.",
+          "gujaratiTranslation": "તેણે એક વર્ષ માટે પોતાનો અભ્યાસ ટાળવાનો નિર્ણય કર્યો.",
+          "hindiTranslation": "उसने अपनी पढ़ाई एक साल के लिए टालने का फैसला किया।",
+          "gujaratiPronunciation": "હી ડિસાઇડેડ ટુ ડિફર હિઝ સ્ટડીઝ ફોર અ યર.",
+          "hindiPronunciation": "ही डिसाइडेड टू डेफर हिज़ स्टडीज़ फॉर अ ईयर।"
+        }
+      ]
+    },
+    {
+      "word": "Pace",
+      "gujaratiPronunciation": "પેસ",
+      "hindiPronunciation": "पेस",
+      "gujaratiMeaning": "ગતિ જાળવવી",
+      "hindiMeaning": "गति बनाए रखना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Pace",
+          "gujaratiPronunciation": "પેસ",
+          "hindiPronunciation": "पेस",
+          "gujaratiMeaning": "ગતિ જાળવવી",
+          "hindiMeaning": "गति बनाए रखना"
+        },
+        "v2": {
+          "word": "Paced",
+          "gujaratiPronunciation": "પેસ્ડ",
+          "hindiPronunciation": "पेस्ड",
+          "gujaratiMeaning": "ગતિ જાળવી",
+          "hindiMeaning": "गति बनाए रखी"
+        },
+        "v3": {
+          "word": "Paced",
+          "gujaratiPronunciation": "પેસ્ડ",
+          "hindiPronunciation": "पेस्ड",
+          "gujaratiMeaning": "ગતિ જાળવેલ",
+          "hindiMeaning": "गति बनाए रखी हुई"
+        },
+        "v4": {
+          "word": "Pacing",
+          "gujaratiPronunciation": "પેસિંગ",
+          "hindiPronunciation": "पेसिंग",
+          "gujaratiMeaning": "ગતિ જાળવી રહ્યા છે",
+          "hindiMeaning": "गति बनाए रख रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Regulate",
+          "gujaratiPronunciation": "રેગ્યુલેટ",
+          "hindiPronunciation": "रेगुलेट",
+          "gujaratiMeaning": "નિયમન કરવું",
+          "hindiMeaning": "विनियमित करना"
+        },
+        {
+          "word": "Moderate",
+          "gujaratiPronunciation": "મૉડરેટ",
+          "hindiPronunciation": "मॉडरेट",
+          "gujaratiMeaning": "મધ્યમ રાખવું",
+          "hindiMeaning": "संयमित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Rush",
+          "gujaratiPronunciation": "રશ",
+          "hindiPronunciation": "रश",
+          "gujaratiMeaning": "ઉતાવળ કરવી",
+          "hindiMeaning": "जल्दी करना"
+        },
+        {
+          "word": "Halt",
+          "gujaratiPronunciation": "હોલ્ટ",
+          "hindiPronunciation": "हाल्ट",
+          "gujaratiMeaning": "થોભવું",
+          "hindiMeaning": "रुकना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Pass",
+          "gujaratiPronunciation": "પાસ",
+          "hindiPronunciation": "पास",
+          "gujaratiMeaning": "પસાર થવું",
+          "hindiMeaning": "गुजरना"
+        },
+        {
+          "word": "Peace",
+          "gujaratiPronunciation": "પીસ",
+          "hindiPronunciation": "पीस",
+          "gujaratiMeaning": "શાંતિ",
+          "hindiMeaning": "शांति"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to pace yourself to finish the marathon.",
+          "gujaratiTranslation": "મેરેથોન પૂરી કરવા માટે તમારે તમારી ગતિ જાળવવાની જરૂર છે.",
+          "hindiTranslation": "मैराथन पूरी करने के लिए आपको अपनी गति बनाए रखनी होगी।",
+          "gujaratiPronunciation": "યુ નીડ ટુ પેસ યોરસેલ્ફ ટુ ફિનિશ ધ મેરેથોન.",
+          "hindiPronunciation": "यू नीड टू पेस योरसेल्फ टू फिनिश द मैराथन।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Reconcile",
+      "gujaratiPronunciation": "રેકન્સાઇલ",
+      "hindiPronunciation": "रेकंसाइल",
+      "gujaratiMeaning": "સમાધાન કરવું",
+      "hindiMeaning": "सुलह करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Reconcile",
+          "gujaratiPronunciation": "રેકન્સાઇલ",
+          "hindiPronunciation": "रेकंसाइल",
+          "gujaratiMeaning": "સમાધાન કરવું",
+          "hindiMeaning": "सुलह करना"
+        },
+        "V2 (Past)": {
+          "word": "Reconciled",
+          "gujaratiPronunciation": "રેકન્સાઇલ્ડ",
+          "hindiPronunciation": "रेकंसाइल्ड",
+          "gujaratiMeaning": "સમાધાન કર્યું",
+          "hindiMeaning": "सुलह किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Reconciled",
+          "gujaratiPronunciation": "રેકન્સાઇલ્ડ",
+          "hindiPronunciation": "रेकंसाइल्ड",
+          "gujaratiMeaning": "સમાધાન કરેલું",
+          "hindiMeaning": "सुलह किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Reconciling",
+          "gujaratiPronunciation": "રેકન્સાઇલિંગ",
+          "hindiPronunciation": "रेकंसाइलिंग",
+          "gujaratiMeaning": "સમાધાન કરી રહ્યું છે",
+          "hindiMeaning": "सुलह कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Harmonize",
+          "gujaratiPronunciation": "હાર્મોનાઇઝ",
+          "hindiPronunciation": "हार्मोनाइज़",
+          "gujaratiMeaning": "સામંજસ્ય સ્થાપવું",
+          "hindiMeaning": "सामंजस्य स्थापित करना"
+        },
+        {
+          "word": "Settle",
+          "gujaratiPronunciation": "સેટલ",
+          "hindiPronunciation": "सेटल",
+          "gujaratiMeaning": "પતાવટ કરવી",
+          "hindiMeaning": "समझौता करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Estrange",
+          "gujaratiPronunciation": "એસ્ટ્રેન્જ",
+          "hindiPronunciation": "एस्ट्रेंज",
+          "gujaratiMeaning": "વિમુખ કરવું",
+          "hindiMeaning": "विमुख करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Council",
+          "gujaratiPronunciation": "કાઉન્સિલ",
+          "hindiPronunciation": "काउंसिल",
+          "gujaratiMeaning": "પરિષદ",
+          "hindiMeaning": "परिषद"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is sometimes difficult to reconcile science and religion.",
+          "gujaratiPronunciation": "ઇટ ઇઝ સમટાઇમ્સ ડિફિકલ્ટ ટુ રેકન્સાઇલ સાયન્સ એન્ડ રિલિજન.",
+          "hindiPronunciation": "इट इज समटाइम्स डिफिकल्ट टू रेकंसाइल साइंस एंड रिलिजन।",
+          "gujaratiMeaning": "વિજ્ઞાન અને ધર્મ વચ્ચે સમાધાન કરવું ક્યારેક મુશ્કેલ હોય છે.",
+          "hindiMeaning": "विज्ञान और धर्म के बीच सुलह करना कभी-कभी मुश्किल होता है।"
+        }
+      ]
+    },
+    {
+      "word": "Align",
+      "gujaratiPronunciation": "અલાઇન",
+      "hindiPronunciation": "अलाइन",
+      "gujaratiMeaning": "એક રેખામાં ગોઠવવું",
+      "hindiMeaning": "एक पंक्ति में करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Align",
+          "gujaratiPronunciation": "અલાઇન",
+          "hindiPronunciation": "अलाइन",
+          "gujaratiMeaning": "ગોઠવવું",
+          "hindiMeaning": "संरेखित करना"
+        },
+        "V2 (Past)": {
+          "word": "Aligned",
+          "gujaratiPronunciation": "અલાઇન્ડ",
+          "hindiPronunciation": "अलाइंड",
+          "gujaratiMeaning": "ગોઠવ્યું",
+          "hindiMeaning": "संरेखित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Aligned",
+          "gujaratiPronunciation": "અલાઇન્ડ",
+          "hindiPronunciation": "अलाइंड",
+          "gujaratiMeaning": "ગોઠવેલું",
+          "hindiMeaning": "संरेखित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Aligning",
+          "gujaratiPronunciation": "અલાઇનિંગ",
+          "hindiPronunciation": "अलाइनिंग",
+          "gujaratiMeaning": "ગોઠવી રહ્યું છે",
+          "hindiMeaning": "संरेखित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Line up",
+          "gujaratiPronunciation": "લાઇન અપ",
+          "hindiPronunciation": "लाइन अप",
+          "gujaratiMeaning": "હારમાં ગોઠવવું",
+          "hindiMeaning": "पंक्ति में लगाना"
+        },
+        {
+          "word": "Arrange",
+          "gujaratiPronunciation": "અરેન્જ",
+          "hindiPronunciation": "अरेंज",
+          "gujaratiMeaning": "ગોઠવણ કરવી",
+          "hindiMeaning": "व्यवस्था करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Misalign",
+          "gujaratiPronunciation": "મિસઅલાઇન",
+          "hindiPronunciation": "मिसअलाइन",
+          "gujaratiMeaning": "ખોટી રીતે ગોઠવવું",
+          "hindiMeaning": "गलत तरीके से संरेखित करना"
+        },
+        {
+          "word": "Disorder",
+          "gujaratiPronunciation": "ડિસઓર્ડર",
+          "hindiPronunciation": "डिसऑर्डर",
+          "gujaratiMeaning": "અવ્યવસ્થા",
+          "hindiMeaning": "अव्यवस्था"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Alien",
+          "gujaratiPronunciation": "એલિયન",
+          "hindiPronunciation": "एलियन",
+          "gujaratiMeaning": "પરગ્રહવાસી",
+          "hindiMeaning": "परदेशी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Make sure the columns align in the document.",
+          "gujaratiPronunciation": "મેક શ્યોર ધ કોલમ્સ અલાઇન ઇન ધ ડોક્યુમેન્ટ.",
+          "hindiPronunciation": "मेक श्योर द कॉलम्स अलाइन इन द डॉक्यूमेंट।",
+          "gujaratiMeaning": "ખાતરી કરો કે દસ્તાવેજમાં કૉલમ એક રેખામાં ગોઠવાયેલ છે.",
+          "hindiMeaning": "सुनिश्चित करें कि दस्तावेज़ में कॉलम संरेखित हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Interlock",
+      "gujaratiPronunciation": "ઇન્ટરલોક",
+      "hindiPronunciation": "इंटरलॉक",
+      "gujaratiMeaning": "એકબીજા સાથે જોડાવું",
+      "hindiMeaning": "एक दूसरे से जुड़ना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Interlock",
+          "gujaratiPronunciation": "ઇન્ટરલોક",
+          "hindiPronunciation": "इंटरलॉक",
+          "gujaratiMeaning": "જોડાવું",
+          "hindiMeaning": "जुड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Interlocked",
+          "gujaratiPronunciation": "ઇન્ટરલોક્ડ",
+          "hindiPronunciation": "इंटरलॉक्ड",
+          "gujaratiMeaning": "જોડાયું",
+          "hindiMeaning": "जुड़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Interlocked",
+          "gujaratiPronunciation": "ઇન્ટરલોક્ડ",
+          "hindiPronunciation": "इंटरलॉक्ड",
+          "gujaratiMeaning": "જોડાયેલું",
+          "hindiMeaning": "जुड़ा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Interlocking",
+          "gujaratiPronunciation": "ઇન્ટરલોકિંગ",
+          "hindiPronunciation": "इंटरलॉकिंग",
+          "gujaratiMeaning": "જોડાઈ રહ્યું છે",
+          "hindiMeaning": "जुड़ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Interconnect",
+          "gujaratiPronunciation": "ઇન્ટરકનેક્ટ",
+          "hindiPronunciation": "इंटरकानेक्ट",
+          "gujaratiMeaning": "આંતરિક જોડાણ",
+          "hindiMeaning": "परस्पर जुड़ना"
+        },
+        {
+          "word": "Engage",
+          "gujaratiPronunciation": "એન્ગેજ",
+          "hindiPronunciation": "एंगेज",
+          "gujaratiMeaning": "જોડાવું",
+          "hindiMeaning": "संलग्न होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Separate",
+          "gujaratiPronunciation": "સેપરેટ",
+          "hindiPronunciation": "सेपरेट",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        },
+        {
+          "word": "Disconnect",
+          "gujaratiPronunciation": "ડિસ્કનેક્ટ",
+          "hindiPronunciation": "डिस्कनेक्ट",
+          "gujaratiMeaning": "જોડાણ તોડવું",
+          "hindiMeaning": "संबंध तोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Outlook",
+          "gujaratiPronunciation": "આઉટલૂક",
+          "hindiPronunciation": "आउटलुक",
+          "gujaratiMeaning": "દૃષ્ટિકોણ",
+          "hindiMeaning": "दृष्टिकोण"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The pieces of the puzzle interlock to form a picture.",
+          "gujaratiPronunciation": "ધ પીસીસ ઓફ ધ પઝલ ઇન્ટરલોક ટુ ફોર્મ અ પિક્ચર.",
+          "hindiPronunciation": "द पीसेज ऑफ द पज़ल इंटरलॉक टू फॉर्म अ पिक्चर।",
+          "gujaratiMeaning": "પઝલના ટુકડાઓ એકબીજા સાથે જોડાઈને એક ચિત્ર બનાવે છે.",
+          "hindiMeaning": "पहेली के टुकड़े एक दूसरे से जुड़कर एक तस्वीर बनाते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Coddle",
+      "gujaratiPronunciation": "કોડલ",
+      "hindiPronunciation": "कॉडल",
+      "gujaratiMeaning": "વધુ પડતો લાડ લડાવવો",
+      "hindiMeaning": "बहुत ज़्यादा लाड़ प्यार करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Coddle",
+          "gujaratiPronunciation": "કોડલ",
+          "hindiPronunciation": "कॉडल",
+          "gujaratiMeaning": "લાડ લડાવવો",
+          "hindiMeaning": "लाड़ प्यार करना"
+        },
+        "V2 (Past)": {
+          "word": "Coddled",
+          "gujaratiPronunciation": "કોડલ્ડ",
+          "hindiPronunciation": "कॉडल्ड",
+          "gujaratiMeaning": "લાડ લડાવ્યો",
+          "hindiMeaning": "लाड़ प्यार किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Coddled",
+          "gujaratiPronunciation": "કોડલ્ડ",
+          "hindiPronunciation": "कॉडल्ड",
+          "gujaratiMeaning": "લાડ લડાવેલો",
+          "hindiMeaning": "लाड़ प्यार किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Coddling",
+          "gujaratiPronunciation": "કોડલિંગ",
+          "hindiPronunciation": "कॉडलिंग",
+          "gujaratiMeaning": "લાડ લડાવી રહ્યું છે",
+          "hindiMeaning": "लाड़ प्यार कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Pamper",
+          "gujaratiPronunciation": "પેમ્પર",
+          "hindiPronunciation": "पैम्पर",
+          "gujaratiMeaning": "વધુ પડતી સંભાળ રાખવી",
+          "hindiMeaning": "अत्यधिक देखभाल करना"
+        },
+        {
+          "word": "Spoil",
+          "gujaratiPronunciation": "સ્પોઇલ",
+          "hindiPronunciation": "स्पॉइल",
+          "gujaratiMeaning": "બગાડવું",
+          "hindiMeaning": "बिगाड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "અવગણના કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Toughen",
+          "gujaratiPronunciation": "ટફન",
+          "hindiPronunciation": "टफन",
+          "gujaratiMeaning": "કઠોર બનાવવું",
+          "hindiMeaning": "कठोर बनाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Cuddle",
+          "gujaratiPronunciation": "કડલ",
+          "hindiPronunciation": "कडल",
+          "gujaratiMeaning": "આલિંગન કરવું",
+          "hindiMeaning": "गले लगाना"
+        },
+        {
+          "word": "Cobble",
+          "gujaratiPronunciation": "કોબલ",
+          "hindiPronunciation": "कॉबल",
+          "gujaratiMeaning": "પથ્થર જડવા",
+          "hindiMeaning": "पत्थर जड़ना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't coddle your children; they need to learn to be independent.",
+          "gujaratiPronunciation": "ડોન્ટ કોડલ યોર ચિલ્ડ્રન; ધે નીડ ટુ લર્ન ટુ બી ઇન્ડિપેન્ડન્ટ.",
+          "hindiPronunciation": "डोंट कॉडल योर चिल्ड्रन; दे नीड टू लर्न टू बी इंडिपेंडेंट।",
+          "gujaratiMeaning": "તમારા બાળકોને વધુ પડતો લાડ ન લડાવો; તેમને સ્વતંત્ર બનતા શીખવાની જરૂર છે.",
+          "hindiMeaning": "अपने बच्चों को ज़्यादा लाड़-प्यार न करें; उन्हें स्वतंत्र होना सीखने की ज़रूरत है।"
+        }
+      ]
+    },
+    {
+      "word": "Consort",
+      "gujaratiPronunciation": "કન્સોર્ટ",
+      "hindiPronunciation": "कंसोर्ट",
+      "gujaratiMeaning": "સાથ આપવો, સંગત કરવી",
+      "hindiMeaning": "साथ देना, संगति करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Consort",
+          "gujaratiPronunciation": "કન્સોર્ટ",
+          "hindiPronunciation": "कंसोर्ट",
+          "gujaratiMeaning": "સાથ આપવો",
+          "hindiMeaning": "साथ देना"
+        },
+        "V2 (Past)": {
+          "word": "Consorted",
+          "gujaratiPronunciation": "કન્સોર્ટેડ",
+          "hindiPronunciation": "कंसोर्टेड",
+          "gujaratiMeaning": "સાથ આપ્યો",
+          "hindiMeaning": "साथ दिया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Consorted",
+          "gujaratiPronunciation": "કન્સોર્ટેડ",
+          "hindiPronunciation": "कंसोर्टेड",
+          "gujaratiMeaning": "સાથ આપેલો",
+          "hindiMeaning": "साथ दिया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Consorting",
+          "gujaratiPronunciation": "કન્સોર્ટિંગ",
+          "hindiPronunciation": "कंसोर्टिंग",
+          "gujaratiMeaning": "સાથ આપી રહ્યું છે",
+          "hindiMeaning": "साथ दे रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Associate",
+          "gujaratiPronunciation": "એસોસિએટ",
+          "hindiPronunciation": "एसोसिएट",
+          "gujaratiMeaning": "જોડાવું",
+          "hindiMeaning": "जुड़ना"
+        },
+        {
+          "word": "Fraternize",
+          "gujaratiPronunciation": "ફ્રેટરનાઇઝ",
+          "hindiPronunciation": "फ्रैटरनाइज़",
+          "gujaratiMeaning": "ભાઈચારો કરવો",
+          "hindiMeaning": "भाईचारा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Avoid",
+          "gujaratiPronunciation": "અવોઇડ",
+          "hindiPronunciation": "अवॉयड",
+          "gujaratiMeaning": "ટાળવું",
+          "hindiMeaning": "टालना"
+        },
+        {
+          "word": "Shun",
+          "gujaratiPronunciation": "શન",
+          "hindiPronunciation": "शन",
+          "gujaratiMeaning": "દૂર રહેવું",
+          "hindiMeaning": "दूर रहना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Concert",
+          "gujaratiPronunciation": "કોન્સર્ટ",
+          "hindiPronunciation": "कॉन्सर्ट",
+          "gujaratiMeaning": "સંગીત કાર્યક્રમ",
+          "hindiMeaning": "संगीत कार्यक्रम"
+        },
+        {
+          "word": "Resort",
+          "gujaratiPronunciation": "રિઝોર્ટ",
+          "hindiPronunciation": "रिज़ॉर्ट",
+          "gujaratiMeaning": "આશરો લેવો",
+          "hindiMeaning": "सहारा लेना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He was known to consort with criminals.",
+          "gujaratiPronunciation": "હી વોઝ નોન ટુ કન્સોર્ટ વિથ ક્રિમિનલ્સ.",
+          "hindiPronunciation": "ही वॉज़ नोन टू कंसोर्ट विद क्रिमिनल्स।",
+          "gujaratiMeaning": "તે ગુનેગારો સાથે સંગત કરવા માટે જાણીતો હતો.",
+          "hindiMeaning": "वह अपराधियों के साथ संगति करने के लिए जाना जाता था।"
+        }
+      ]
+    }
+  ]
+}
+
+    

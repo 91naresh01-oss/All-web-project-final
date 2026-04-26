@@ -1,0 +1,449 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1: Grow | Raise | Improve | Expand | Study",
+  "words": [
+    {
+      "word": "Grow",
+      "gujaratiPronunciation": "ગ્રો",
+      "hindiPronunciation": "ग्रो",
+      "gujaratiMeaning": "વધવું, ઉગાડવું",
+      "hindiMeaning": "बढ़ना, उगाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Grow",
+          "gujaratiPronunciation": "ગ્રો",
+          "hindiPronunciation": "ग्रो",
+          "gujaratiMeaning": "વધવું, ઉગાડવું",
+          "hindiMeaning": "बढ़ना, उगाना"
+        },
+        "V2": {
+          "word": "Grew",
+          "gujaratiPronunciation": "ગ્રૂ",
+          "hindiPronunciation": "ग्रू",
+          "gujaratiMeaning": "વધ્યું",
+          "hindiMeaning": "बढ़ा"
+        },
+        "V3": {
+          "word": "Grown",
+          "gujaratiPronunciation": "ગ્રોન",
+          "hindiPronunciation": "ग्रोन",
+          "gujaratiMeaning": "વધેલું",
+          "hindiMeaning": "बढ़ा हुआ"
+        },
+        "V4": {
+          "word": "Growing",
+          "gujaratiPronunciation": "ગ્રોઇંગ",
+          "hindiPronunciation": "ग्रोइंग",
+          "gujaratiMeaning": "વધી રહ્યું છે",
+          "hindiMeaning": "बढ़ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Develop",
+          "gujaratiPronunciation": "ડેવલપ",
+          "hindiPronunciation": "डेवलप",
+          "gujaratiMeaning": "વિકસવું",
+          "hindiMeaning": "विकसित होना"
+        },
+        {
+          "word": "Increase",
+          "gujaratiPronunciation": "ઇન્ક્રીઝ",
+          "hindiPronunciation": "इन्क्रीज़",
+          "gujaratiMeaning": "વધારો કરવો",
+          "hindiMeaning": "बढ़ाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Shrink",
+          "gujaratiPronunciation": "શ્રિન્ક",
+          "hindiPronunciation": "श्रिंक",
+          "gujaratiMeaning": "સંકોચાવું",
+          "hindiMeaning": "सिकुड़ना"
+        },
+        {
+          "word": "Decrease",
+          "gujaratiPronunciation": "ડીક્રીઝ",
+          "hindiPronunciation": "डिक्रीज़",
+          "gujaratiMeaning": "ઘટાડો કરવો",
+          "hindiMeaning": "कम होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Grown-up",
+          "gujaratiPronunciation": "ગ્રોન-અપ",
+          "hindiPronunciation": "ग्रोन-अप",
+          "gujaratiMeaning": "પુખ્ત વ્યક્તિ",
+          "hindiMeaning": "वयस्क व्यक्ति"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Plants need water to grow.",
+          "gujaratiTranslation": "છોડને વધવા માટે પાણીની જરૂર હોય છે.",
+          "hindiTranslation": "पौधों को बढ़ने के लिए पानी की आवश्यकता होती है।",
+          "gujaratiPronunciation": "પ્લાન્ટ્સ નીડ વોટર ટુ ગ્રો.",
+          "hindiPronunciation": "प्लांट्स नीड वॉटर टू ग्रो।"
+        }
+      ]
+    },
+    {
+      "word": "Raise",
+      "gujaratiPronunciation": "રેઇઝ",
+      "hindiPronunciation": "रेज़",
+      "gujaratiMeaning": "ઉછેરવું, વધારવું",
+      "hindiMeaning": "पालना, बढ़ाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Raise",
+          "gujaratiPronunciation": "રેઇઝ",
+          "hindiPronunciation": "रेज़",
+          "gujaratiMeaning": "ઉછેરવું",
+          "hindiMeaning": "पालना"
+        },
+        "V2": {
+          "word": "Raised",
+          "gujaratiPronunciation": "રેઇઝ્ડ",
+          "hindiPronunciation": "रेज़्ड",
+          "gujaratiMeaning": "ઉછેર્યું",
+          "hindiMeaning": "पाला"
+        },
+        "V3": {
+          "word": "Raised",
+          "gujaratiPronunciation": "રેઇઝ્ડ",
+          "hindiPronunciation": "रेज़्ड",
+          "gujaratiMeaning": "ઉછેરેલું",
+          "hindiMeaning": "पाला हुआ"
+        },
+        "V4": {
+          "word": "Raising",
+          "gujaratiPronunciation": "રેઇઝિંગ",
+          "hindiPronunciation": "रेज़िंग",
+          "gujaratiMeaning": "ઉછેરી રહ્યું છે",
+          "hindiMeaning": "पाल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Lift",
+          "gujaratiPronunciation": "લિફ્ટ",
+          "hindiPronunciation": "लिफ्ट",
+          "gujaratiMeaning": "ઉંચકવું",
+          "hindiMeaning": "उठाना"
+        },
+        {
+          "word": "Elevate",
+          "gujaratiPronunciation": "એલિવેટ",
+          "hindiPronunciation": "एलिवेट",
+          "gujaratiMeaning": "ઉન્નત કરવું",
+          "hindiMeaning": "उन्नत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Lower",
+          "gujaratiPronunciation": "લોઅર",
+          "hindiPronunciation": "लोअर",
+          "gujaratiMeaning": "નીચું કરવું",
+          "hindiMeaning": "नीचा करना"
+        },
+        {
+          "word": "Decrease",
+          "gujaratiPronunciation": "ડીક્રીઝ",
+          "hindiPronunciation": "डिक्रीज़",
+          "gujaratiMeaning": "ઘટાડવું",
+          "hindiMeaning": "घटाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Rise",
+          "gujaratiPronunciation": "રાઇઝ",
+          "hindiPronunciation": "राइज़",
+          "gujaratiMeaning": "ઉગવું, ઉઠવું",
+          "hindiMeaning": "उगना, उठना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She had to raise her voice to be heard.",
+          "gujaratiTranslation": "તેને સંભળાવા માટે પોતાનો અવાજ ઉંચો કરવો પડ્યો.",
+          "hindiTranslation": "उसे सुनने के लिए अपनी आवाज़ उठानी पड़ी।",
+          "gujaratiPronunciation": "શી હેડ ટુ રેઇઝ હર વોઇસ ટુ બી હર્ડ.",
+          "hindiPronunciation": "शी हैड टू रेज़ हर वॉइस टू बी हर्ड।"
+        }
+      ]
+    },
+    {
+      "word": "Improve",
+      "gujaratiPronunciation": "ઇમ્પ્રુવ",
+      "hindiPronunciation": "इम्प्रूव",
+      "gujaratiMeaning": "સુધારવું",
+      "hindiMeaning": "सुधारना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Improve",
+          "gujaratiPronunciation": "ઇમ્પ્રુવ",
+          "hindiPronunciation": "इम्प्रूव",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "सुधारना"
+        },
+        "V2": {
+          "word": "Improved",
+          "gujaratiPronunciation": "ઇમ્પ્રુવ્ડ",
+          "hindiPronunciation": "इम्प्रूव्ड",
+          "gujaratiMeaning": "સુધાર્યું",
+          "hindiMeaning": "सुधारा"
+        },
+        "V3": {
+          "word": "Improved",
+          "gujaratiPronunciation": "ઇમ્પ્રુવ્ડ",
+          "hindiPronunciation": "इम्प्रूव्ड",
+          "gujaratiMeaning": "સુધારેલું",
+          "hindiMeaning": "सुधारा हुआ"
+        },
+        "V4": {
+          "word": "Improving",
+          "gujaratiPronunciation": "ઇમ્પ્રુવિંગ",
+          "hindiPronunciation": "इम्प्रूविंग",
+          "gujaratiMeaning": "સુધારી રહ્યું છે",
+          "hindiMeaning": "सुधार रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Enhance",
+          "gujaratiPronunciation": "એન્હાન્સ",
+          "hindiPronunciation": "एन्हान्स",
+          "gujaratiMeaning": "વધારવું",
+          "hindiMeaning": "बढ़ाना"
+        },
+        {
+          "word": "Better",
+          "gujaratiPronunciation": "બેટર",
+          "hindiPronunciation": "बेटर",
+          "gujaratiMeaning": "વધુ સારું કરવું",
+          "hindiMeaning": "बेहतर बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Worsen",
+          "gujaratiPronunciation": "વર્સન",
+          "hindiPronunciation": "वर्सन",
+          "gujaratiMeaning": "વધુ ખરાબ કરવું",
+          "hindiMeaning": "बिगाड़ना"
+        },
+        {
+          "word": "Decline",
+          "gujaratiPronunciation": "ડીકલાઇન",
+          "hindiPronunciation": "डिक्लाइन",
+          "gujaratiMeaning": "પતન થવું",
+          "hindiMeaning": "पतन होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Approve",
+          "gujaratiPronunciation": "અપ્રુવ",
+          "hindiPronunciation": "अप्रूव",
+          "gujaratiMeaning": "મંજૂરી આપવી",
+          "hindiMeaning": "मंज़ूरी देना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I want to improve my English.",
+          "gujaratiTranslation": "હું મારી અંગ્રેજી સુધારવા માંગુ છું.",
+          "hindiTranslation": "मैं अपनी अंग्रेजी सुधारना चाहता हूँ।",
+          "gujaratiPronunciation": "આઈ વોન્ટ ટુ ઇમ્પ્રુવ માય ઇંગ્લિશ.",
+          "hindiPronunciation": "आई वांट टू इम्प्रूव माय इंग्लिश।"
+        }
+      ]
+    },
+    {
+      "word": "Expand",
+      "gujaratiPronunciation": "એક્સપાન્ડ",
+      "hindiPronunciation": "एक्सपैंड",
+      "gujaratiMeaning": "વિસ્તાર કરવો",
+      "hindiMeaning": "विस्तार करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Expand",
+          "gujaratiPronunciation": "એક્સપાન્ડ",
+          "hindiPronunciation": "एक्सपैंड",
+          "gujaratiMeaning": "વિસ્તાર કરવો",
+          "hindiMeaning": "विस्तार करना"
+        },
+        "V2": {
+          "word": "Expanded",
+          "gujaratiPronunciation": "એક્સપાન્ડેડ",
+          "hindiPronunciation": "एक्सपैंडेड",
+          "gujaratiMeaning": "વિસ્તાર કર્યો",
+          "hindiMeaning": "विस्तार किया"
+        },
+        "V3": {
+          "word": "Expanded",
+          "gujaratiPronunciation": "એક્સપાન્ડેડ",
+          "hindiPronunciation": "एक्सपैंडेड",
+          "gujaratiMeaning": "વિસ્તાર કરેલો",
+          "hindiMeaning": "विस्तारित"
+        },
+        "V4": {
+          "word": "Expanding",
+          "gujaratiPronunciation": "એક્સપાન્ડિંગ",
+          "hindiPronunciation": "एक्सपैंडिंग",
+          "gujaratiMeaning": "વિસ્તાર કરી રહ્યું છે",
+          "hindiMeaning": "विस्तार कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Enlarge",
+          "gujaratiPronunciation": "એનલાર્જ",
+          "hindiPronunciation": "एनलार्ज",
+          "gujaratiMeaning": "મોટું કરવું",
+          "hindiMeaning": "बड़ा करना"
+        },
+        {
+          "word": "Broaden",
+          "gujaratiPronunciation": "બ્રોડન",
+          "hindiPronunciation": "ब्रॉडन",
+          "gujaratiMeaning": "પહોળું કરવું",
+          "hindiMeaning": "चौड़ा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Contract",
+          "gujaratiPronunciation": "કોન્ટ્રેક્ટ",
+          "hindiPronunciation": "कॉन्ट्रैक्ट",
+          "gujaratiMeaning": "સંકોચવું",
+          "hindiMeaning": "सिकुड़ना"
+        },
+        {
+          "word": "Shrink",
+          "gujaratiPronunciation": "શ્રિન્ક",
+          "hindiPronunciation": "श्रिंक",
+          "gujaratiMeaning": "સંકોચાવું",
+          "hindiMeaning": "सिकुड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Expend",
+          "gujaratiPronunciation": "એક્સપેન્ડ",
+          "hindiPronunciation": "एक्सपेंड",
+          "gujaratiMeaning": "ખર્ચ કરવો",
+          "hindiMeaning": "खर्च करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We are planning to expand our business.",
+          "gujaratiTranslation": "અમે અમારા વ્યવસાયનો વિસ્તાર કરવાની યોજના બનાવી રહ્યા છીએ.",
+          "hindiTranslation": "हम अपने व्यवसाय का विस्तार करने की योजना बना रहे हैं।",
+          "gujaratiPronunciation": "વી આર પ્લાનિંગ ટુ એક્સપાન્ડ અવર બિઝનેસ.",
+          "hindiPronunciation": "वी आर प्लानिंग टू एक्सपैंड अवर बिज़नेस।"
+        }
+      ]
+    },
+    {
+      "word": "Study",
+      "gujaratiPronunciation": "સ્ટડી",
+      "hindiPronunciation": "स्टडी",
+      "gujaratiMeaning": "અભ્યાસ કરવો",
+      "hindiMeaning": "पढ़ाई करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Study",
+          "gujaratiPronunciation": "સ્ટડી",
+          "hindiPronunciation": "स्टडी",
+          "gujaratiMeaning": "અભ્યાસ કરવો",
+          "hindiMeaning": "पढ़ाई करना"
+        },
+        "V2": {
+          "word": "Studied",
+          "gujaratiPronunciation": "સ્ટડીડ",
+          "hindiPronunciation": "स्टडीड",
+          "gujaratiMeaning": "અભ્યાસ કર્યો",
+          "hindiMeaning": "पढ़ाई की"
+        },
+        "V3": {
+          "word": "Studied",
+          "gujaratiPronunciation": "સ્ટડીડ",
+          "hindiPronunciation": "स्टडीड",
+          "gujaratiMeaning": "અભ્યાસ કરેલો",
+          "hindiMeaning": "पढ़ा हुआ"
+        },
+        "V4": {
+          "word": "Studying",
+          "gujaratiPronunciation": "સ્ટડીઇંગ",
+          "hindiPronunciation": "स्टडीइंग",
+          "gujaratiMeaning": "અભ્યાસ કરી રહ્યું છે",
+          "hindiMeaning": "पढ़ाई कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Learn",
+          "gujaratiPronunciation": "લર્ન",
+          "hindiPronunciation": "लर्न",
+          "gujaratiMeaning": "શીખવું",
+          "hindiMeaning": "सीखना"
+        },
+        {
+          "word": "Examine",
+          "gujaratiPronunciation": "એક્ઝામિન",
+          "hindiPronunciation": "एक्ज़ामिन",
+          "gujaratiMeaning": "તપાસવું",
+          "hindiMeaning": "जांचना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नजरअंदाज करना"
+        },
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગલેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Steady",
+          "gujaratiPronunciation": "સ્ટેડી",
+          "hindiPronunciation": "स्टेडी",
+          "gujaratiMeaning": "સ્થિર",
+          "hindiMeaning": "स्थिर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to study hard to pass the exam.",
+          "gujaratiTranslation": "પરીક્ષા પાસ કરવા માટે તમારે સખત અભ્યાસ કરવાની જરૂર છે.",
+          "hindiTranslation": "परीक्षा पास करने के लिए आपको कड़ी मेहनत करनी होगी।",
+          "gujaratiPronunciation": "યુ નીડ ટુ સ્ટડી હાર્ડ ટુ પાસ ધ એક્ઝામ.",
+          "hindiPronunciation": "यू नीड टू स्टडी हार्ड टू पास द एग्जाम।"
+        }
+      ]
+    }
+  ]
+}
+
+    

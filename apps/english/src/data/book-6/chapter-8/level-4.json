@@ -1,0 +1,467 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Orchestrate",
+      "gujaratiPronunciation": "ઓર્કેસ્ટ્રેટ",
+      "hindiPronunciation": "ऑर्केस्ट्रेट",
+      "gujaratiMeaning": "આયોજન કરવું",
+      "hindiMeaning": "आयोजन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Orchestrate",
+          "gujaratiPronunciation": "ઓર્કેસ્ટ્રેટ",
+          "hindiPronunciation": "ऑर्केस्ट्रेट",
+          "gujaratiMeaning": "આયોજન કરવું",
+          "hindiMeaning": "आयोजन करना"
+        },
+        "V2 (Past)": {
+          "word": "Orchestrated",
+          "gujaratiPronunciation": "ઓર્કેસ્ટ્રેટેડ",
+          "hindiPronunciation": "ऑर्केस्ट्रेटेड",
+          "gujaratiMeaning": "આયોજન કર્યું",
+          "hindiMeaning": "आयोजन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Orchestrated",
+          "gujaratiPronunciation": "ઓર્કેસ્ટ્રેટેડ",
+          "hindiPronunciation": "ऑर्केस्ट्रेटेड",
+          "gujaratiMeaning": "આયોજિત",
+          "hindiMeaning": "आयोजित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Orchestrating",
+          "gujaratiPronunciation": "ઓર્કેસ્ટ્રેટિંગ",
+          "hindiPronunciation": "ऑर्केस्ट्रेटिंग",
+          "gujaratiMeaning": "આયોજન કરી રહ્યું છે",
+          "hindiMeaning": "आयोजन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Arrange",
+          "gujaratiPronunciation": "અરેન્જ",
+          "hindiPronunciation": "अरेंज",
+          "gujaratiMeaning": "ગોઠવવું",
+          "hindiMeaning": "व्यवस्था करना"
+        },
+        {
+          "word": "Coordinate",
+          "gujaratiPronunciation": "કોઓર્ડિનેટ",
+          "hindiPronunciation": "कोऑर्डिनेट",
+          "gujaratiMeaning": "સંકલન કરવું",
+          "hindiMeaning": "समन्वय करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Disorganize",
+          "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ",
+          "hindiPronunciation": "डिसऑर्गेनाइज",
+          "gujaratiMeaning": "અવ્યવસ્થિત કરવું",
+          "hindiMeaning": "अव्यवस्थित करना"
+        },
+        {
+          "word": "Improvise",
+          "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ",
+          "hindiPronunciation": "इम्प्रोवाइज",
+          "gujaratiMeaning": "તાત્કાલિક ગોઠવવું",
+          "hindiMeaning": "तत्काल व्यवस्था करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Orchestra",
+          "gujaratiPronunciation": "ઓર્કેસ્ટ્રા",
+          "hindiPronunciation": "ऑर्केस्ट्रा",
+          "gujaratiMeaning": "વાદ્યવૃંદ (સંજ્ઞા)",
+          "hindiMeaning": "वाद्यवृंद (संज्ञा)",
+          "difference": "Orchestrate એ ક્રિયા છે, જ્યારે Orchestra એ સંગીતકારોનું જૂથ છે."
+        },
+        {
+          "word": "Frustrate",
+          "gujaratiPronunciation": "ફ્રસ્ટ્રેટ",
+          "hindiPronunciation": "फ्रस्ट्रेट",
+          "gujaratiMeaning": "નિરાશ કરવું",
+          "hindiMeaning": "निराश करना",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The marketing campaign was carefully orchestrated by a team of experts.",
+          "gujaratiPronunciation": "ધ માર્કેટિંગ કેમ્પેન વોઝ કેરફુલી ઓર્કેસ્ટ્રેટેડ બાય અ ટીમ ઓફ એક્સપર્ટ્સ.",
+          "hindiPronunciation": "द मार्केटिंग कैंपेन वॉज केयरफुली ऑर्केस्ट्रेटेड बाय अ टीम ऑफ एक्सपर्ट्स।",
+          "gujaratiTranslation": "માર્કેટિંગ અભિયાન નિષ્ણાતોની એક ટીમ દ્વારા કાળજીપૂર્વક આયોજિત કરવામાં આવ્યું હતું.",
+          "hindiTranslation": "विपणन अभियान विशेषज्ञों की एक टीम द्वारा सावधानीपूर्वक आयोजित किया गया था।"
+        }
+      ]
+    },
+    {
+      "word": "Cacophony",
+      "gujaratiPronunciation": "કેકોફની",
+      "hindiPronunciation": "कैकफनी",
+      "gujaratiMeaning": "કઠોર અવાજ/ઘોંઘાટ",
+      "hindiMeaning": "कर्कश ध्वनि/शोर",
+      "partOfSpeech": "Noun",
+      "verbForms": {
+        "V1 (Present)": { "word": "N/A", "gujaratiMeaning": "લાગુ નથી", "hindiMeaning": "लागू नहीं" },
+        "V2 (Past)": { "word": "N/A", "gujaratiMeaning": "લાગુ નથી", "hindiMeaning": "लागू नहीं" },
+        "V3 (Past Participle)": { "word": "N/A", "gujaratiMeaning": "લાગુ નથી", "hindiMeaning": "लागू नहीं" },
+        "V4 (Present Participle)": { "word": "N/A", "gujaratiMeaning": "લાગુ નથી", "hindiMeaning": "लागू नहीं" }
+      },
+      "synonyms": [
+        {
+          "word": "Dissonance",
+          "gujaratiPronunciation": "ડિસોનન્સ",
+          "hindiPronunciation": "डिसोनेंस",
+          "gujaratiMeaning": "બેસૂરો અવાજ",
+          "hindiMeaning": "बेसुरापन"
+        },
+        {
+          "word": "Din",
+          "gujaratiPronunciation": "ડિન",
+          "hindiPronunciation": "डिन",
+          "gujaratiMeaning": "તીવ્ર ઘોંઘાટ",
+          "hindiMeaning": "तीव्र शोर"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Harmony",
+          "gujaratiPronunciation": "હાર્મની",
+          "hindiPronunciation": "हार्मनी",
+          "gujaratiMeaning": "સુરમેળ",
+          "hindiMeaning": "सामंजस्य"
+        },
+        {
+          "word": "Euphony",
+          "gujaratiPronunciation": "યુફોની",
+          "hindiPronunciation": "यूफोनी",
+          "gujaratiMeaning": "મધુર અવાજ",
+          "hindiMeaning": "मधुर ध्वनि"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Symphony",
+          "gujaratiPronunciation": "સિમ્ફની",
+          "hindiPronunciation": "सिम्फनी",
+          "gujaratiMeaning": "સંગીત રચના",
+          "hindiMeaning": "संगीत रचना",
+          "difference": "Cacophony એટલે કઠોર અવાજ, જ્યારે Symphony એટલે સુરીલી સંગીત રચના."
+        },
+        {
+          "word": "Canopy",
+          "gujaratiPronunciation": "કેનોપી",
+          "hindiPronunciation": "कैनोपी",
+          "gujaratiMeaning": "છત્ર/ચંદરવો",
+          "hindiMeaning": "छत्र/चंदवा",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The cacophony of car horns filled the city street.",
+          "gujaratiPronunciation": "ધ કેકોફની ઓફ કાર હોર્ન્સ ફિલ્ડ ધ સિટી સ્ટ્રીટ.",
+          "hindiPronunciation": "द कैकफनी ऑफ कार हॉर्न्स फिल्ड द सिटी स्ट्रीट।",
+          "gujaratiTranslation": "શહેરના રસ્તા પર કારના હોર્નનો કર્કશ અવાજ ભરાઈ ગયો હતો.",
+          "hindiTranslation": "शहर की सड़क पर कार के हॉर्न की कर्कश ध्वनि भर गई थी।"
+        }
+      ]
+    },
+    {
+      "word": "Propagate",
+      "gujaratiPronunciation": "પ્રોપગેટ",
+      "hindiPronunciation": "प्रोपगेट",
+      "gujaratiMeaning": "પ્રચાર કરવો/ફેલાવવું",
+      "hindiMeaning": "प्रचार करना/फैलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Propagate",
+          "gujaratiPronunciation": "પ્રોપગેટ",
+          "hindiPronunciation": "प्रोपगेट",
+          "gujaratiMeaning": "પ્રચાર કરવો",
+          "hindiMeaning": "प्रचार करना"
+        },
+        "V2 (Past)": {
+          "word": "Propagated",
+          "gujaratiPronunciation": "પ્રોપગેટેડ",
+          "hindiPronunciation": "प्रोपगेटेड",
+          "gujaratiMeaning": "પ્રચાર કર્યો",
+          "hindiMeaning": "प्रचार किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Propagated",
+          "gujaratiPronunciation": "પ્રોપગેટેડ",
+          "hindiPronunciation": "प्रोपगेटेड",
+          "gujaratiMeaning": "પ્રચારિત",
+          "hindiMeaning": "प्रचारित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Propagating",
+          "gujaratiPronunciation": "પ્રોપગેટિંગ",
+          "hindiPronunciation": "प्रोपगेटिंग",
+          "gujaratiMeaning": "પ્રચાર કરી રહ્યું છે",
+          "hindiMeaning": "प्रचार कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Spread",
+          "gujaratiPronunciation": "સ્પ્રેડ",
+          "hindiPronunciation": "स्प्रेड",
+          "gujaratiMeaning": "ફેલાવવું",
+          "hindiMeaning": "फैलाना"
+        },
+        {
+          "word": "Disseminate",
+          "gujaratiPronunciation": "ડિસેમિનેટ",
+          "hindiPronunciation": "डिसेमिनेट",
+          "gujaratiMeaning": "વિતરણ કરવું",
+          "hindiMeaning": "वितरित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Suppress",
+          "gujaratiPronunciation": "સપ્રેસ",
+          "hindiPronunciation": "सप्रेस",
+          "gujaratiMeaning": "દબાવવું",
+          "hindiMeaning": "दबाना"
+        },
+        {
+          "word": "Conceal",
+          "gujaratiPronunciation": "કન્સીલ",
+          "hindiPronunciation": "कंसील",
+          "gujaratiMeaning": "છુપાવવું",
+          "hindiMeaning": "छिपाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Propose",
+          "gujaratiPronunciation": "પ્રપોઝ",
+          "hindiPronunciation": "प्रपोज",
+          "gujaratiMeaning": "પ્રસ્તાવ મૂકવો",
+          "hindiMeaning": "प्रस्ताव रखना",
+          "difference": "Propagate એટલે ફેલાવવું, Propose એટલે પ્રસ્તાવ મૂકવો."
+        },
+        {
+          "word": "Proper gate",
+          "gujaratiPronunciation": "પ્રોપર ગેટ",
+          "hindiPronunciation": "प्रोपर गेट",
+          "gujaratiMeaning": "યોગ્ય દરવાજો (શબ્દસમૂહ)",
+          "hindiMeaning": "उचित दरवाज़ा (वाक्यांश)",
+          "difference": "Propagate એક શબ્દ છે, જ્યારે 'Proper gate' બે અલગ શબ્દો છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Sound propagates through the air.",
+          "gujaratiPronunciation": "સાઉન્ડ પ્રોપગેટ્સ થ્રુ ધ એર.",
+          "hindiPronunciation": "साउंड प्रोपगेट्स थ्रू द एयर।",
+          "gujaratiTranslation": "ધ્વનિ હવા દ્વારા ફેલાય છે.",
+          "hindiTranslation": "ध्वनि हवा के माध्यम से फैलती है।"
+        }
+      ]
+    },
+    {
+      "word": "Mute",
+      "gujaratiPronunciation": "મ્યુટ",
+      "hindiPronunciation": "म्यूट",
+      "gujaratiMeaning": "અવાજ બંધ કરવો/મૌન",
+      "hindiMeaning": "आवाज़ बंद करना/मौन",
+      "partOfSpeech": "Verb/Adjective",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Mute",
+          "gujaratiPronunciation": "મ્યુટ",
+          "hindiPronunciation": "म्यूट",
+          "gujaratiMeaning": "અવાજ બંધ કરવો",
+          "hindiMeaning": "आवाज़ बंद करना"
+        },
+        "V2 (Past)": {
+          "word": "Muted",
+          "gujaratiPronunciation": "મ્યુટેડ",
+          "hindiPronunciation": "म्यूटेड",
+          "gujaratiMeaning": "અવાજ બંધ કર્યો",
+          "hindiMeaning": "आवाज़ बंद की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Muted",
+          "gujaratiPronunciation": "મ્યુટેડ",
+          "hindiPronunciation": "म्यूटेड",
+          "gujaratiMeaning": "અવાજ બંધ કરેલો",
+          "hindiMeaning": "आवाज़ बंद की हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Muting",
+          "gujaratiPronunciation": "મ્યુટિંગ",
+          "hindiPronunciation": "म्यूटिंग",
+          "gujaratiMeaning": "અવાજ બંધ કરી રહ્યું છે",
+          "hindiMeaning": "आवाज़ बंद कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Silence",
+          "gujaratiPronunciation": "સાઈલન્સ",
+          "hindiPronunciation": "साइलेंस",
+          "gujaratiMeaning": "શાંત કરવું",
+          "hindiMeaning": "शांत करना"
+        },
+        {
+          "word": "Dampen",
+          "gujaratiPronunciation": "ડેમ્પન",
+          "hindiPronunciation": "डैम्पन",
+          "gujaratiMeaning": "ધીમું કરવું",
+          "hindiMeaning": "धीमा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Unmute",
+          "gujaratiPronunciation": "અનમ્યુટ",
+          "hindiPronunciation": "अनम्यूट",
+          "gujaratiMeaning": "અવાજ ચાલુ કરવો",
+          "hindiMeaning": "आवाज़ चालू करना"
+        },
+        {
+          "word": "Amplify",
+          "gujaratiPronunciation": "એમ્પ્લીફાય",
+          "hindiPronunciation": "एम्प्लीफाई",
+          "gujaratiMeaning": "અવાજ વધારવો",
+          "hindiMeaning": "आवाज़ बढ़ाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Moat",
+          "gujaratiPronunciation": "મોટ",
+          "hindiPronunciation": "मोट",
+          "gujaratiMeaning": "ખાઈ",
+          "hindiMeaning": "खाई",
+          "difference": "Mute એટલે અવાજ બંધ કરવો, Moat એટલે કિલ્લાની આસપાસની ખાઈ."
+        },
+        {
+          "word": "Cute",
+          "gujaratiPronunciation": "ક્યુટ",
+          "hindiPronunciation": "क्यूट",
+          "gujaratiMeaning": "સુંદર/આકર્ષક",
+          "hindiMeaning": "प्यारा/आकर्षक",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please mute your microphone during the meeting.",
+          "gujaratiPronunciation": "પ્લીઝ મ્યુટ યોર માઇક્રોફોન ડ્યુરિંગ ધ મીટિંગ.",
+          "hindiPronunciation": "प्लीज म्यूट योर माइक्रोफोन ड्यूरिंग द मीटिंग।",
+          "gujaratiTranslation": "મહેરબાની કરીને મીટિંગ દરમિયાન તમારો માઇક્રોફોન મ્યુટ કરો.",
+          "hindiTranslation": "कृपया बैठक के दौरान अपना माइक्रोफोन म्यूट करें।"
+        }
+      ]
+    },
+    {
+      "word": "Hush",
+      "gujaratiPronunciation": "હશ",
+      "hindiPronunciation": "हश",
+      "gujaratiMeaning": "શાંત થવું/કરાવવું",
+      "hindiMeaning": "शांत होना/कराना",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Hush",
+          "gujaratiPronunciation": "હશ",
+          "hindiPronunciation": "हश",
+          "gujaratiMeaning": "શાંત કરવું",
+          "hindiMeaning": "शांत करना"
+        },
+        "V2 (Past)": {
+          "word": "Hushed",
+          "gujaratiPronunciation": "હશ્ડ",
+          "hindiPronunciation": "हश्ड",
+          "gujaratiMeaning": "શાંત કર્યું",
+          "hindiMeaning": "शांत किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Hushed",
+          "gujaratiPronunciation": "હશ્ડ",
+          "hindiPronunciation": "हश्ड",
+          "gujaratiMeaning": "શાંત કરેલું",
+          "hindiMeaning": "शांत किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Hushing",
+          "gujaratiPronunciation": "હશિંગ",
+          "hindiPronunciation": "हशिंग",
+          "gujaratiMeaning": "શાંત કરી રહ્યું છે",
+          "hindiMeaning": "शांत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Quiet",
+          "gujaratiPronunciation": "ક્વાયટ",
+          "hindiPronunciation": "क्वाइट",
+          "gujaratiMeaning": "શાંત કરવું",
+          "hindiMeaning": "शांत करना"
+        },
+        {
+          "word": "Silence",
+          "gujaratiPronunciation": "સાઈલન્સ",
+          "hindiPronunciation": "साइलेंस",
+          "gujaratiMeaning": "ચૂપ કરાવવું",
+          "hindiMeaning": "चुप कराना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Noise",
+          "gujaratiPronunciation": "નોઇઝ",
+          "hindiPronunciation": "नॉइज़",
+          "gujaratiMeaning": "ઘોંઘાટ",
+          "hindiMeaning": "शोर"
+        },
+        {
+          "word": "Clamor",
+          "gujaratiPronunciation": "ક્લેમર",
+          "hindiPronunciation": "क्लैमर",
+          "gujaratiMeaning": "કોલાહલ",
+          "hindiMeaning": "कोलाहल"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Hash",
+          "gujaratiPronunciation": "હેશ",
+          "hindiPronunciation": "हैश",
+          "gujaratiMeaning": "એક પ્રકારની વાનગી/કમ્પ્યુટર કોડ",
+          "hindiMeaning": "एक प्रकार का व्यंजन/कंप्यूटर कोड",
+          "difference": "Hush એટલે શાંત થવું, જ્યારે Hash ના ઘણા અર્થો છે."
+        },
+        {
+          "word": "Rush",
+          "gujaratiPronunciation": "રશ",
+          "hindiPronunciation": "रश",
+          "gujaratiMeaning": "ઉતાવળ/ભીડ",
+          "hindiMeaning": "जल्दी/भीड़",
+          "difference": "Hush અને Rush ના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A hush fell over the crowd.",
+          "gujaratiPronunciation": "અ હશ ફેલ ઓવર ધ ક્રાઉડ.",
+          "hindiPronunciation": "अ हश फेल ओवर द क्राउड।",
+          "gujaratiTranslation": "ભીડ પર શાંતિ છવાઈ ગઈ.",
+          "hindiTranslation": "भीड़ में सन्नाटा छा गया।"
+        }
+      ]
+    }
+  ]
+}

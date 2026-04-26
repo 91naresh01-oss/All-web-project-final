@@ -1,0 +1,489 @@
+{
+  "id": "subject-verb-agreement-gu",
+  "title": "Subject-Verb Agreement (કર્તા-ક્રિયાપદની સુસંગતતા)",
+  "lang": "gu",
+  "description": "કર્તા અને ક્રિયાપદ વચ્ચેના સંબંધના નિયમો.",
+  "content": [
+    {
+      "type": "section",
+      "title": "1. Need અને Dare (Auxiliary Verbs)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "**Need** અને **Dare** સાદા વર્તમાનકાળના પ્રશ્નાર્થ અને નકાર વાક્યમાં જ સહાયકારક ક્રિયાપદ તરીકે વપરાય છે. આવા વાક્યોમાં **'to'** વગરનું ક્રિયાપદમૂળવામાં આવે છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Need</b> she finish her work today? (શું તેણીને આજે કામ પૂરું કરવાની જરૂર છે?)",
+            "<b>Dare</b> you speak during the boss's presentation? (શું તમે બોસના પ્રેઝન્ટેશન દરમિયાન બોલવાની હિંમત કરો છો?)",
+            "<b>Need</b> he revise this topic again? (શું તેને આ ટોપિક ફરીથી રિવાઇઝ કરવાની જરૂર છે?)",
+            "I <b>needn't</b> talk to her. (મારે તેની સાથે વાત કરવાની જરૂર નથી.)",
+            "He <b>dare not</b> oppose his father. (તે તેના પિતાનો વિરોધ કરવાની હિંમત નથી કરતો.)",
+            "She <b>needn't</b> go there. (તેણીને ત્યાં જવાની જરૂર નથી.)"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "<b>Need / Dare (Main Verbs):</b> Need/Dare મુખ્ય ક્રિયાપદ તરીકે વપરાય ત્યારે કર્તા તથા કાળ અનુસાર ક્રિયાપદમાં ફેરફાર થાય. એટલે કે તેને 's' કે 'es' અથવા 'ed' પણ લાગવી શકાય. તેની પાછળ <b>to + verb</b> આવે છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "He needs <b>to pass</b> his driving test to get the license.",
+            "The child dared <b>to climb</b> the tall tree alone.",
+            "Does he dare <b>to ask</b> for a raise after that mistake?",
+            "You didn't need <b>to buy</b> me such an expensive gift.",
+            "She needs <b>to come</b> here."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "2. If, As if, As though (ધારણા દર્શાવતા વાક્યો)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "ધારણા દર્શાવતાં વાક્યો <b>if, as if, as though, if only, suppose, I wish, he wishes, she wishes</b> થી શરૂ થતાં વાક્ય કલ્પના દર્શાવતાં હોવાથી તેવા વાક્યોમાં I, he, she, it પછી ક્રિયાપદ <b>were</b> વપરાય છે. (વ્યક્તિ કંઈક એવું દર્શાવવા <b>to be</b> વપરાય છે.)"
+        },
+        {
+          "type": "list",
+          "content": [
+            "I wish this hotel <b>were</b> closer to the beach.",
+            "If I <b>were</b> you, I wouldn't accept that job offer.",
+            "She acts as if she <b>were</b> the only person in the world who matters.",
+            "Suppose it <b>were</b> necessary to start over, what would you do differently?",
+            "He speaks as though he <b>were</b> a professional astronomer."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "વ્યક્તિ પાસે કંઈક હશે એવી ધારણા દર્શાવવા બધા જ કર્તા સાથે <b>had</b> વપરાય છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "He behaved as though he <b>had</b> a large farmhouse.",
+            "I wish I <b>had</b> a bigger house."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "<b>If, as if, as though</b> થી શરૂ થતાં વાક્યો ધારણા દર્શાવતાં હોય તો અને to be ના રૂપ સિવાયનું ક્રિયાપદ આવતું હોય તો કાળ અનુસાર જ ક્રિયાપદ મુકાય છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "If you <b>study</b> hard, you will pass the exam.",
+            "She talks as though she <b>had traveled</b> the whole world."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "3. શુભેચ્છાદર્શક વાક્યો (Subjunctive Mood)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "શુભેચ્છાદર્શક વાક્યોમાં એકવચનના કર્તા સાથે પણ બહુવચનનું ક્રિયાપદ જ વપરાય છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "God <b>bless</b> you! (May God bless you!)",
+            "Come what <b>may</b>! (May whatever happens, happen!)"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "અહીં <b>may</b> વપરાયું હોવા છતાં તેમાં <b>may</b> વપરાયું છે તેવું સમજવું."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "4. બે એકવચનના કર્તા 'and' થી જોડાયેલા",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "બે એકવચનના કર્તા <b>and</b> થી જોડાયેલા હોય તો તેની સાથે બહુવચનનું ક્રિયાપદ જ મુકાય છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "Sita and Gita <b>are</b> close friends.",
+            "A pen and a notebook <b>are</b> necessary for class."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "જો વાક્યમાં નીચેની <b>pairs</b> (જોડી) કર્તા તરીકે હોય તો તે એક જ વસ્તુનું સૂચન કરે છે. તેથી તેની સાથે એકવચનનું ક્રિયાપદ જ વપરાય છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Common Pairs (સામાન્ય જોડકાં)",
+            "headers": [
+              "English Pair",
+              "ગુજરાતી અર્થ"
+            ],
+            "rows": [
+              [
+                "bread and butter",
+                "બ્રેડ અને બટર"
+              ],
+              [
+                "eggs and bacon",
+                "ઈંડા અને સુવરનું માંસ"
+              ],
+              [
+                "rice and curry",
+                "કઢી ભાત"
+              ],
+              [
+                "ham and eggs",
+                "બકરાની જોંગ અને ઈંડા"
+              ],
+              [
+                "hammer and sickle",
+                "છીણી અને હથોડી"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "5. Adjective Phrase/Clause સાથે",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "કર્તા તરીકે કોઈ નામ કે સર્વનામ હોય અને તેના અર્થમાં વધારો કરતા શબ્દસમૂહ <b>Adjective Phrase</b>, that, wh – થી શરૂ થતું વિશેષણરૂપ ઉપવાક્ય (<b>Adjective Clause</b>) હોય તો ક્રિયાપદ જે તે <b>wh</b> - શબ્દની આગળ આપેલા નામ કે સર્વનામ પ્રમાણે આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "The books that <b>are</b> lying on the table belong to me.",
+            "The mango, which <b>is</b> on the table, is ripe.",
+            "They, my students, <b>are</b> eager to learn.",
+            "I, a simple man, <b>am</b> content with my life.",
+            "The house that <b>has</b> a red roof is mine."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "6. Adjective clause માં who, which, that",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>Adjective clause</b> માં (વિશેષણ રૂપ ઉપવાક્યમાં) <b>who, which, that</b> સાથેનું ક્રિયાપદ તેની પહેલાં આવતા નામ પ્રમાણે આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "It is they who <b>are</b> waiting for the bus.",
+            "I, who <b>am</b> a doctor, know the risks.",
+            "The report, which <b>was</b> published yesterday, is very accurate."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "7. Infinitive, Gerund, Clause કર્તા તરીકે",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જો કોઈ એક <b>infinitive (to મૂળરૂપ)</b>, એક <b>Gerund (ક્રિયાપદ + ing)</b> અથવા કોઈ એક <b>clause</b> (ઉપવાક્ય) કર્તા તરીકે હોય તો ક્રિયાપદ એકવચનમાં આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "Dancing <b>is</b> a popular form of exercise. (Gerund)",
+            "To sing a solo <b>is</b> my biggest dream. (Infinitive)",
+            "That she is honest <b>is</b> evident to everyone. (Clause)",
+            "To learn new languages <b>is</b> a great advantage. (Infinitive)"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "પણ જો કર્તા સ્થાને બે <b>infinitive</b> બે <b>gerund</b> અથવા બે <b>clause</b> હોય તો ક્રિયાપદ બહુવચનનું વપરાય."
+        },
+        {
+          "type": "list",
+          "content": [
+            "To read and to write <b>are</b> essential life skills.",
+            "Studying and working <b>are</b> his main priorities.",
+            "What he dreams and what he does <b>are</b> two different things."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "8. with, along with, as well as, together with...",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જ્યારે કર્તા <b>with, along with, as well as, together with, in addition to, like, unlike, including, excluding, but, besides, except, rather, than</b>થી અન્ય નામ સાથે જોડાયેલું હોય તો પ્રથમ સ્થાને આવેલા કર્તા અનુસાર ક્રિયાપદ વપરાય. એટલે કે ઉપરના શબ્દોથી જોડાયેલાં બે નામમાંથી ક્રિયાપદ પ્રથમ નામ કે સર્વનામ મુજબ વપરાય."
+        },
+        {
+          "type": "list",
+          "content": [
+            "The captain, as well as the players, <b>is</b> ready for the match.",
+            "The car, including the tires, <b>was</b> damaged in the accident."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "9. Neither...nor, Either...or, Not only...but also",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જો બે કર્તા <b>Neither – – – nor, Either – – – or, Not only – – – but also</b> કે or થી જોડાયા હોય તો પછીના કર્તા પ્રમાણે ક્રિયાપદ વપરાય."
+        },
+        {
+          "type": "list",
+          "content": [
+            "Neither the manager nor the employees <b>are</b> aware of the changes.",
+            "Either the phone or the tablets <b>were</b> misplaced.",
+            "Not only the students but also the professor <b>is</b> coming late."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "10. સંખ્યાવાચક વિશેષણાણું બહુવચન નામ",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જો કર્તા સ્થાને સંખ્યાવાચક વિશેષણાણું બહુવચન નામ હોય અને તે એક જ એકમ સૂચવતું હોય તો એકવચનનું ક્રિયાપદ વપરાય."
+        },
+        {
+          "type": "list",
+          "content": [
+            "Five years <b>is</b> a long time to wait.",
+            "Ten kilometres <b>is</b> a comfortable distance to run.",
+            "Fifty rupees <b>is</b> a fair price for a coffee."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "પરંતુ જો કર્તા સ્થાને સંખ્યાવાચક વિશેષણાણું બહુવચન – અલગ-અલગ એકમ સૂચવતું હોય તો ક્રિયાપદ બહુવચનમાં વપરાય."
+        },
+        {
+          "type": "list",
+          "content": [
+            "Two dozen apples <b>were</b> bought from the market.",
+            "Five hundred books <b>have</b> been sold this week."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "11. A + સમૂહવાચક નામ of (A group of, A panel of...)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જો કર્તા સ્થાને <b>A સમૂહવાચક નામ of</b> (A + સમૂહવાચક નામ + of બહુવચનનું નામ) બહુવચન નામ હોય તો ક્રિયાપદ એકવચનમાં આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "A panel of experts <b>has</b> decided on the new policy.",
+            "A stack of papers <b>was</b> left on the table.",
+            "A group of singers <b>is</b> performing tonight.",
+            "A bouquet of roses <b>was</b> sent to her."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "12. A number of / The number of",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>A number of / A large number of / a great number of</b> (ઘણા જ, બહુ જ) જો કર્તા સ્થાને આવે તો ક્રિયાપદ બહુવચનમાં આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "A number of complaints <b>were</b> lodged against the company.",
+            "A large number of volunteers <b>have</b> joined the campaign."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "<b>The number of</b> (સંખ્યા) જો કર્તા સ્થાને આવે તો ક્રિયાપદ એકવચનમાં આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "The number of accidents <b>is</b> decreasing this year.",
+            "The number of pages <b>is</b> exactly one hundred."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "13. The amount of / A great deal of / A good deal of",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>The amount of / A large amount of / A great deal of / A good deal of</b> જો કર્તા સ્થાને હોય તો એકવચન ક્રિયાપદ આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "A great deal of time <b>was</b> wasted on arguing.",
+            "The amount of water <b>is</b> regulated by the valve."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "14. There (Existential Sentences)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "વાક્યની શરૂઆતમાં <b>There</b> કર્તા તરીકે હોય તો તેની પાછળ આવતા ક્રિયાપદ નામની સંખ્યા પ્રમાણે એકવચન કે બહુવચનમાં મુકાય છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "There <b>are</b> three dogs in the garden. (બહુવચન)",
+            "There <b>is</b> a single cloud in the sky. (એકવચન)"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "<b>There</b> વાળી વાક્ય રચનામાં ક્રિયાપદના સ્થાન પછી જો કોઈ ચોક્કસ સંખ્યા, વજન, સમયગાળો કે ઊંચાઈનું એકમ હોય તો એકવચનનું ક્રિયાપદ આવે છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "There <b>is</b> only twenty kilometers to the nearest city.",
+            "There <b>is</b> fifty kilograms of rice in the sack.",
+            "There <b>is</b> ten rupees to pay."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "<b>There</b> વાળી વાક્યરચનામાં ક્રિયાપદના સ્થાન પછી જો બે નામ <b>and</b> થી જોડાયેલાં હોય અને તે અગાઉ દર્શાવ્યા મુજબની જોડી (pair) નું સૂચન કરતાં હોય તો એકવચનનું ક્રિયાપદ આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "There <b>was</b> coffee and sugar for the guests.",
+            "There <b>is</b> fish and chips for lunch."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "15. 'and' વડે જોડાયેલા બે નામ",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "A black and a white goat, A new and a used car જેવા કર્તામાં બે અલગ-અલગ વસ્તુઓનો ઉલ્લેખ છે, તેથી ક્રિયાપદ બહુવચનમાં આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "A black and a white goat <b>are</b> tied to the pole.",
+            "A new and a used car <b>are</b> parked outside."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "16. each સાથે બહુવચનના સર્વનામ",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "પરંતુ જો બહુવચનના સર્વનામ કે બહુવચનના નામ પછી <b>each</b> કર્તા તરીકે હોય તો બહુવચનનું ક્રિયાપદ વપરાય."
+        },
+        {
+          "type": "list",
+          "content": [
+            "We each <b>carry</b> a heavy bag.",
+            "The students each <b>get</b> a certificate."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "17. Either, Neither (એકલા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જો કર્તા તરીકે <b>either</b> કે <b>neither</b> સાથે એકવચન નામ અથવા <b>Either of</b> કે <b>Neither of</b> સાથે બહુવચન નામ હોય તો એકવચન ક્રિયાપદ વપરાય."
+        },
+        {
+          "type": "list",
+          "content": [
+            "Neither laptop <b>works</b> properly.",
+            "Neither of my two brothers <b>is</b> rich.",
+            "Either of the routes <b>is</b> acceptable.",
+            "Either shoe <b>was</b> damaged during the rain."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "18. Many, Several, A few, The few, Very few, Both...",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "નીચેના શબ્દો નામ સાથે કર્તા સ્થાને હોય તો ક્રિયાપદ બહુવચનમાં આવે: <b>Many, several, a few, the few, very few, both, a great many, a good many, various</b>."
+        },
+        {
+          "type": "list",
+          "content": [
+            "Several of the documents <b>were</b> approved by the committee.",
+            "Both the computers <b>are</b> running slowly today.",
+            "Very few companies <b>are</b> offering such generous benefits.",
+            "Many birds <b>were</b> migrating south for the winter.",
+            "A good many of the students <b>have</b> submitted their assignments."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "19. બે કે ત્રણ સર્વનામ 'and' થી જોડાયેલાં",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જો કર્તા તરીકે બે કે ત્રણ સર્વનામ કે નામ <b>and</b> થી જોડાયેલાં હોય તો બહુવચનનું ક્રિયાપદ આવે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "I, you, and he <b>are</b> partners in this project.",
+            "Rita and I <b>are</b> decorating the room.",
+            "She and I <b>were</b> running a marathon.",
+            "He and I <b>have</b> finished our work.",
+            "You and I <b>were</b> singing a duet."
+          ]
+        }
+      ]
+    }
+  ]
+}

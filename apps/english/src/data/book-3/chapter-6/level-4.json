@@ -1,0 +1,175 @@
+{
+  "id": "level-4",
+  "title": "Level 4: Advanced Creation",
+  "words": [
+    {
+      "word": "Fabricate",
+      "gujaratiPronunciation": "ફેબ્રિકેટ",
+      "hindiPronunciation": "फैब्रिकेट",
+      "gujaratiMeaning": "બનાવવું, ઘડી કાઢવું",
+      "hindiMeaning": "निर्माण करना, गढ़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Fabricate", "gujaratiPronunciation": "ફેબ્રિકેટ", "hindiPronunciation": "फैब्रिकेट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "निर्माण करना" },
+        "V2 (Past)": { "word": "Fabricated", "gujaratiPronunciation": "ફેબ્રિકેટેડ", "hindiPronunciation": "फैब्रिकेटेड", "gujaratiMeaning": "બનાવ્યું", "hindiMeaning": "निर्माण किया" },
+        "V3 (Past Participle)": { "word": "Fabricated", "gujaratiPronunciation": "ફેબ્રિકેટેડ", "hindiPronunciation": "फैब्रिकेटेड", "gujaratiMeaning": "બનાવેલું", "hindiMeaning": "निर्मित" },
+        "V4 (Present Participle)": { "word": "Fabricating", "gujaratiPronunciation": "ફેબ્રિકેટિંગ", "hindiPronunciation": "फैब्रिकेटिंग", "gujaratiMeaning": "બનાવી રહ્યું છે", "hindiMeaning": "निर्माण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Manufacture", "gujaratiPronunciation": "મેન્યુફેક્ચર", "hindiPronunciation": "मैन्युफैक्चर", "gujaratiMeaning": "ઉત્પાદન કરવું", "hindiMeaning": "उत्पादन करना" },
+        { "word": "Construct", "gujaratiPronunciation": "કન્સ્ટ્રક્ટ", "hindiPronunciation": "कंस्ट्रक्ट", "gujaratiMeaning": "બાંધકામ કરવું", "hindiMeaning": "निर्माण करना" }
+      ],
+      "antonyms": [
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Demolish", "gujaratiPronunciation": "ડિમોલિશ", "hindiPronunciation": "डिमोलिश", "gujaratiMeaning": "તોડી પાડવું", "hindiMeaning": "ध्वस्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Facilitate", "gujaratiPronunciation": "ફેસિલિટેટ", "hindiPronunciation": "फैसिलिटेट", "gujaratiMeaning": "સરળ બનાવવું", "hindiMeaning": "सुविधा देना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They fabricate the parts in this factory.",
+          "gujaratiTranslation": "તેઓ આ ફેક્ટરીમાં ભાગો બનાવે છે.",
+          "hindiTranslation": "वे इस फैक्ट्री में पुर्जे बनाते हैं।",
+          "gujaratiPronunciation": "ધે ફેબ્રિકેટ ધ પાર્ટ્સ ઇન ધિસ ફેક્ટરી.",
+          "hindiPronunciation": "दे फैब्रिकेट द पार्ट्स इन दिस फैक्ट्री।"
+        }
+      ]
+    },
+    {
+      "word": "Revamp",
+      "gujaratiPronunciation": "રિવેમ્પ",
+      "hindiPronunciation": "रिवैंप",
+      "gujaratiMeaning": "નવીનીકરણ કરવું, સુધારીને નવું બનાવવું",
+      "hindiMeaning": "नवीनीकरण करना, सुधार कर नया बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Revamp", "gujaratiPronunciation": "રિવેમ્પ", "hindiPronunciation": "रिवैंप", "gujaratiMeaning": "નવીનીકરણ કરવું", "hindiMeaning": "नवीनीकरण करना" },
+        "V2 (Past)": { "word": "Revamped", "gujaratiPronunciation": "રિવેમ્પ્ડ", "hindiPronunciation": "रिवैम्प्ड", "gujaratiMeaning": "નવીનીકરણ કર્યું", "hindiMeaning": "नवीनीकरण किया" },
+        "V3 (Past Participle)": { "word": "Revamped", "gujaratiPronunciation": "રિવેમ્પ્ડ", "hindiPronunciation": "रिवैम्प्ड", "gujaratiMeaning": "નવીનીકરણ કરેલ", "hindiMeaning": "नवीनीकृत" },
+        "V4 (Present Participle)": { "word": "Revamping", "gujaratiPronunciation": "રિવેમ્પિંગ", "hindiPronunciation": "रिवैंपिंग", "gujaratiMeaning": "નવીનીકરણ કરી રહ્યું છે", "hindiMeaning": "नवीनीकरण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Renovate", "gujaratiPronunciation": "રેનોવેટ", "hindiPronunciation": "रेनोवेट", "gujaratiMeaning": "નવીનીકરણ કરવું", "hindiMeaning": "नवीनीकरण करना" },
+        { "word": "Modernize", "gujaratiPronunciation": "મોર્ડનાઇઝ", "hindiPronunciation": "मॉडर्नाइज़", "gujaratiMeaning": "આધુનિક બનાવવું", "hindiMeaning": "आधुनिक बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Ruin", "gujaratiPronunciation": "રુઇન", "hindiPronunciation": "रुइन", "gujaratiMeaning": "બરબાદ કરવું", "hindiMeaning": "बर्बाद करना" }
+      ],
+      "confusingWords": [
+        { "word": "Revolt", "gujaratiPronunciation": "રિવોલ્ટ", "hindiPronunciation": "रिवोल्ट", "gujaratiMeaning": "બળવો", "hindiMeaning": "विद्रोह" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to revamp the entire system.",
+          "gujaratiTranslation": "આપણે આખી સિસ્ટમનું નવીનીકરણ કરવાની જરૂર છે.",
+          "hindiTranslation": "हमें पूरी प्रणाली का नवीनीकरण करने की आवश्यकता है।",
+          "gujaratiPronunciation": "વી નીડ ટુ રિવેમ્પ ધ એન્ટાયર સિસ્ટમ.",
+          "hindiPronunciation": "वी नीड टू रिवैंप द एंटायर सिस्टम।"
+        }
+      ]
+    },
+    {
+      "word": "Transcribe",
+      "gujaratiPronunciation": "ટ્રાન્સક્રાઇબ",
+      "hindiPronunciation": "ट्रांसक्राइब",
+      "gujaratiMeaning": "લિપ્યંતર કરવું",
+      "hindiMeaning": "प्रतिलिपि बनाना, लिप्यंतरण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Transcribe", "gujaratiPronunciation": "ટ્રાન્સક્રાઇબ", "hindiPronunciation": "ट्रांसक्राइब", "gujaratiMeaning": "લિપ્યંતર કરવું", "hindiMeaning": "लिप्यंतरण करना" },
+        "V2 (Past)": { "word": "Transcribed", "gujaratiPronunciation": "ટ્રાન્સક્રાઇબ્ડ", "hindiPronunciation": "ट्रांसक्राइब्ड", "gujaratiMeaning": "લિપ્યંતર કર્યું", "hindiMeaning": "लिप्यंतरण किया" },
+        "V3 (Past Participle)": { "word": "Transcribed", "gujaratiPronunciation": "ટ્રાન્સક્રાઇબ્ડ", "hindiPronunciation": "ट्रांसक्राइब्ड", "gujaratiMeaning": "લિપ્યંતર કરેલ", "hindiMeaning": "लिप्यंतरित" },
+        "V4 (Present Participle)": { "word": "Transcribing", "gujaratiPronunciation": "ટ્રાન્સક્રાઇબિંગ", "hindiPronunciation": "ट्रांसक्राइबिंग", "gujaratiMeaning": "લિપ્યંતર કરી રહ્યું છે", "hindiMeaning": "लिप्यंतरण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Write down", "gujaratiPronunciation": "રાઇટ ડાઉન", "hindiPronunciation": "राइट डाउन", "gujaratiMeaning": "લખી લેવું", "hindiMeaning": "लिखना" },
+        { "word": "Copy", "gujaratiPronunciation": "કોપી", "hindiPronunciation": "कॉपी", "gujaratiMeaning": "નકલ કરવી", "hindiMeaning": "नकल करना" }
+      ],
+      "antonyms": [
+        { "word": "Originate", "gujaratiPronunciation": "ઓરિજિનેટ", "hindiPronunciation": "ओरिजिनेट", "gujaratiMeaning": "ઉત્પન્ન કરવું", "hindiMeaning": "उत्पन्न करना" }
+      ],
+      "confusingWords": [
+        { "word": "Subscribe", "gujaratiPronunciation": "સબ્સ્ક્રાઇબ", "hindiPronunciation": "सब्सक्राइब", "gujaratiMeaning": "સભ્યપદ લેવું", "hindiMeaning": "सदस्यता लेना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She was asked to transcribe the audio recording.",
+          "gujaratiTranslation": "તેણીને ઓડિયો રેકોર્ડિંગનું લિપ્યંતર કરવા માટે કહેવામાં આવ્યું હતું.",
+          "hindiTranslation": "उसे ऑडियो रिकॉर्डिंग को लिखने के लिए कहा गया था।",
+          "gujaratiPronunciation": "શી વોઝ આસ્ક્ડ ટુ ટ્રાન્સક્રાઇબ ધ ઓડિયો રેકોર્ડિંગ.",
+          "hindiPronunciation": "शी वॉज़ आस्क्ड टू ट्रांसक्राइब द ऑडियो रिकॉर्डिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Devise",
+      "gujaratiPronunciation": "ડિવાઇસ",
+      "hindiPronunciation": "डिवाइस",
+      "gujaratiMeaning": "યોજના બનાવવી, શોધવું",
+      "hindiMeaning": "योजना बनाना, आविष्कार करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Devise", "gujaratiPronunciation": "ડિવાઇસ", "hindiPronunciation": "डिवाइस", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" },
+        "V2 (Past)": { "word": "Devised", "gujaratiPronunciation": "ડિવાઇસ્ડ", "hindiPronunciation": "डिवाइस्ड", "gujaratiMeaning": "યોજના બનાવી", "hindiMeaning": "योजना बनाई" },
+        "V3 (Past Participle)": { "word": "Devised", "gujaratiPronunciation": "ડિવાઇસ્ડ", "hindiPronunciation": "डिवाइस्ड", "gujaratiMeaning": "યોજના બનાવેલ", "hindiMeaning": "योजित" },
+        "V4 (Present Participle)": { "word": "Devising", "gujaratiPronunciation": "ડિવાઇઝિંગ", "hindiPronunciation": "डिवाइसिंग", "gujaratiMeaning": "યોજના બનાવી રહ્યું છે", "hindiMeaning": "योजना बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Invent", "gujaratiPronunciation": "ઇન્વેન્ટ", "hindiPronunciation": "इन्वेंट", "gujaratiMeaning": "શોધ કરવી", "hindiMeaning": "आविष्कार करना" },
+        { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "hindiPronunciation": "प्लान", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Copy", "gujaratiPronunciation": "કોપી", "hindiPronunciation": "कॉपी", "gujaratiMeaning": "નકલ કરવી", "hindiMeaning": "नकल करना" },
+        { "word": "Imitate", "gujaratiPronunciation": "ઇમિટેટ", "hindiPronunciation": "इमिटेट", "gujaratiMeaning": "નકલ કરવી", "hindiMeaning": "नकल करना" }
+      ],
+      "confusingWords": [
+        { "word": "Device", "gujaratiPronunciation": "ડિવાઇસ", "hindiPronunciation": "डिवाइस", "gujaratiMeaning": "ઉપકરણ", "hindiMeaning": "उपकरण" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They must devise a new strategy to win.",
+          "gujaratiTranslation": "જીતવા માટે તેઓએ નવી વ્યૂહરચના બનાવવી જ પડશે.",
+          "hindiTranslation": "जीतने के लिए उन्हें एक नई रणनीति बनानी होगी।",
+          "gujaratiPronunciation": "ધે મસ્ટ ડિવાઇસ અ ન્યૂ સ્ટ્રેટેજી ટુ વિન.",
+          "hindiPronunciation": "दे मस्ट डिवाइस अ न्यू स्ट्रेटेजी टू विन।"
+        }
+      ]
+    },
+    {
+      "word": "Master",
+      "gujaratiPronunciation": "માસ્ટર",
+      "hindiPronunciation": "मास्टर",
+      "gujaratiMeaning": "નિપુણતા મેળવવી",
+      "hindiMeaning": "महारत हासिल करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Master", "gujaratiPronunciation": "માસ્ટર", "hindiPronunciation": "मास्टर", "gujaratiMeaning": "નિપુણતા મેળવવી", "hindiMeaning": "महारत हासिल करना" },
+        "V2 (Past)": { "word": "Mastered", "gujaratiPronunciation": "માસ્ટર્ડ", "hindiPronunciation": "मास्टर्ड", "gujaratiMeaning": "નિપુણતા મેળવી", "hindiMeaning": "महारत हासिल की" },
+        "V3 (Past Participle)": { "word": "Mastered", "gujaratiPronunciation": "માસ્ટર્ડ", "hindiPronunciation": "मास्टर्ड", "gujaratiMeaning": "નિપુણતા મેળવેલ", "hindiMeaning": "महारत हासिल किया हुआ" },
+        "V4 (Present Participle)": { "word": "Mastering", "gujaratiPronunciation": "માસ્ટરિંગ", "hindiPronunciation": "मास्टरिंग", "gujaratiMeaning": "નિપુણતા મેળવી રહ્યું છે", "hindiMeaning": "महारत हासिल कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Learn", "gujaratiPronunciation": "લર્ન", "hindiPronunciation": "लर्न", "gujaratiMeaning": "શીખવું", "hindiMeaning": "सीखना" },
+        { "word": "Excel at", "gujaratiPronunciation": "એક્સેલ એટ", "hindiPronunciation": "एक्सेल ऐट", "gujaratiMeaning": "માં ઉત્કૃષ્ટ થવું", "hindiMeaning": "में उत्कृष्टता प्राप्त करना" }
+      ],
+      "antonyms": [
+        { "word": "Struggle", "gujaratiPronunciation": "સ્ટ્રગલ", "hindiPronunciation": "स्ट्रगल", "gujaratiMeaning": "સંઘર્ષ કરવો", "hindiMeaning": "संघर्ष करना" },
+        { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ જવું", "hindiMeaning": "असफल होना" }
+      ],
+      "confusingWords": [
+        { "word": "Monster", "gujaratiPronunciation": "મોન્સ્ટર", "hindiPronunciation": "मॉन्स्टर", "gujaratiMeaning": "રાક્ષસ", "hindiMeaning": "राक्षस" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It takes years to master a musical instrument.",
+          "gujaratiTranslation": "સંગીતનું સાધન માસ્ટર કરવામાં વર્ષો લાગે છે.",
+          "hindiTranslation": "एक संगीत वाद्ययंत्र में महारत हासिल करने में सालों लग जाते हैं।",
+          "gujaratiPronunciation": "ઇટ ટેક્સ યર્સ ટુ માસ્ટર અ મ્યુઝિકલ ઇન્સ્ટ્રુમેન્ટ.",
+          "hindiPronunciation": "इट टेक्स इयर्स टू मास्टर अ म्यूजिकल इंस्ट्रूमेंट।"
+        }
+      ]
+    }
+  ]
+}

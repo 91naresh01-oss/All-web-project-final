@@ -1,0 +1,181 @@
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Triumph",
+            "gujaratiPronunciation": "ટ્રાયમ્ફ",
+            "hindiPronunciation": "ट्राइंफ",
+            "gujaratiMeaning": "વિજય",
+            "hindiMeaning": "विजय",
+            "partOfSpeech": "noun/verb",
+            "verbForms": {
+                "V1": { "word": "Triumph", "gujaratiPronunciation": "ટ્રાયમ્ફ", "hindiPronunciation": "ट्राइंफ", "gujaratiMeaning": "વિજય મેળવવો", "hindiMeaning": "विजय प्राप्त करना" },
+                "V2": { "word": "Triumphed", "gujaratiPronunciation": "ટ્રાયમ્ફ્ડ", "hindiPronunciation": "ट्राइंफ्ड", "gujaratiMeaning": "વિજય મેળવ્યો", "hindiMeaning": "विजय प्राप्त किया" },
+                "V3": { "word": "Triumphed", "gujaratiPronunciation": "ટ્રાયમ્ફ્ડ", "hindiPronunciation": "ट्राइंफ्ड", "gujaratiMeaning": "વિજય મેળવેલો", "hindiMeaning": "विजय प्राप्त किया हुआ" },
+                "V4": { "word": "Triumphing", "gujaratiPronunciation": "ટ્રાયમ્ફિંગ", "hindiPronunciation": "ट्राइंफिंग", "gujaratiMeaning": "વિજય મેળવી રહ્યું છે", "hindiMeaning": "विजय प्राप्त कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Victory", "gujaratiPronunciation": "વિક્ટરી", "hindiPronunciation": "विक्ट्री", "gujaratiMeaning": "જીત", "hindiMeaning": "जीत" },
+                { "word": "Success", "gujaratiPronunciation": "સક્સેસ", "hindiPronunciation": "सक्सेस", "gujaratiMeaning": "સફળતા", "hindiMeaning": "सफलता" }
+            ],
+            "antonyms": [
+                { "word": "Defeat", "gujaratiPronunciation": "ડિફીટ", "hindiPronunciation": "डिफीट", "gujaratiMeaning": "હાર", "hindiMeaning": "हार" },
+                { "word": "Failure", "gujaratiPronunciation": "ફેલિયર", "hindiPronunciation": "फेलियर", "gujaratiMeaning": "નિષ્ફળતા", "hindiMeaning": "असफलता" }
+            ],
+            "confusingWords": [
+                { "word": "Trump", "gujaratiPronunciation": "ટ્રમ્પ", "hindiPronunciation": "ट्रंप", "gujaratiMeaning": "એક્કો (પત્તામાં)", "hindiMeaning": "तुरूप का पत्ता" },
+                { "word": "Tramp", "gujaratiPronunciation": "ટ્રેમ્પ", "hindiPronunciation": "ट्रैंप", "gujaratiMeaning": "રખડુ", "hindiMeaning": "आवारा" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Their victory was a great triumph for the nation.",
+                    "gujaratiPronunciation": "ધેર વિક્ટરી વોઝ અ ગ્રેટ ટ્રાયમ્ફ ફોર ધ નેશન.",
+                    "hindiPronunciation": "देयर विक्ट्री वॉज अ ग्रेट ट्राइंफ फॉर द नेशन।",
+                    "gujaratiTranslation": "તેમનો વિજય રાષ્ટ્ર માટે એક મોટી જીત હતી.",
+                    "hindiTranslation": "उनकी जीत राष्ट्र के लिए एक बड़ी विजय थी।"
+                }
+            ]
+        },
+        {
+            "word": "Realize",
+            "gujaratiPronunciation": "રિયલાઇઝ",
+            "hindiPronunciation": "रियलाइज",
+            "gujaratiMeaning": "ભાન થવું",
+            "hindiMeaning": "एहसास होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Realize", "gujaratiPronunciation": "રિયલાઇઝ", "hindiPronunciation": "रियलाइज", "gujaratiMeaning": "ભાન થવું", "hindiMeaning": "एहसास होना" },
+                "V2": { "word": "Realized", "gujaratiPronunciation": "રિયલાઇઝ્ડ", "hindiPronunciation": "रियलाइज्ड", "gujaratiMeaning": "ભાન થયું", "hindiMeaning": "एहसास हुआ" },
+                "V3": { "word": "Realized", "gujaratiPronunciation": "રિયલાઇઝ્ડ", "hindiPronunciation": "रियलाइज्ड", "gujaratiMeaning": "ભાન થયેલું", "hindiMeaning": "एहसास हुआ" },
+                "V4": { "word": "Realizing", "gujaratiPronunciation": "રિયલાઇઝિંગ", "hindiPronunciation": "रियलाइजिंग", "gujaratiMeaning": "ભાન થઈ રહ્યું છે", "hindiMeaning": "एहसास हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Understand", "gujaratiPronunciation": "અન્ડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+                { "word": "Recognize", "gujaratiPronunciation": "રેકગ્નાઇઝ", "hindiPronunciation": "रेकग्नाइज", "gujaratiMeaning": "ઓળખવું", "hindiMeaning": "पहचानना" }
+            ],
+            "antonyms": [
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "नजरअंदाज करना" },
+                { "word": "Overlook", "gujaratiPronunciation": "ઓવરલૂક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "ધ્યાન ન આપવું", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Real", "gujaratiPronunciation": "રિયલ", "hindiPronunciation": "रियल", "gujaratiMeaning": "વાસ્તવિક", "hindiMeaning": "वास्तविक" },
+                { "word": "Relax", "gujaratiPronunciation": "રિલેક્સ", "hindiPronunciation": "रिलैक्स", "gujaratiMeaning": "આરામ કરવો", "hindiMeaning": "आराम करना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "I didn't realize how late it was.",
+                    "gujaratiPronunciation": "આઈ ડીડન્ટ રિયલાઇઝ હાઉ લેટ ઇટ વોઝ.",
+                    "hindiPronunciation": "आई डिडन्ट रियलाइज हाउ लेट इट वॉज।",
+                    "gujaratiTranslation": "મને ભાન ન રહ્યું કે કેટલું મોડું થઈ ગયું હતું.",
+                    "hindiTranslation": "मुझे एहसास नहीं हुआ कि कितनी देर हो चुकी थी।"
+                }
+            ]
+        },
+        {
+            "word": "Pioneer",
+            "gujaratiPronunciation": "પાયોનિયર",
+            "hindiPronunciation": "पायनियर",
+            "gujaratiMeaning": "પહેલ કરનાર",
+            "hindiMeaning": "अग्रणी",
+            "partOfSpeech": "noun/verb",
+            "verbForms": {
+                "V1": { "word": "Pioneer", "gujaratiPronunciation": "પાયોનિયર", "hindiPronunciation": "पायनियर", "gujaratiMeaning": "પહેલ કરવી", "hindiMeaning": "पहल करना" },
+                "V2": { "word": "Pioneered", "gujaratiPronunciation": "પાયોનિયર્ડ", "hindiPronunciation": "पायनियर्ड", "gujaratiMeaning": "પહેલ કરી", "hindiMeaning": "पहल की" },
+                "V3": { "word": "Pioneered", "gujaratiPronunciation": "પાયોનિયર્ડ", "hindiPronunciation": "पायनियर्ड", "gujaratiMeaning": "પહેલ કરેલી", "hindiMeaning": "पहल की हुई" },
+                "V4": { "word": "Pioneering", "gujaratiPronunciation": "પાયોનિયરિંગ", "hindiPronunciation": "पायनियरिंग", "gujaratiMeaning": "પહેલ કરી રહ્યું છે", "hindiMeaning": "पहल कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Innovator", "gujaratiPronunciation": "ઇનોવેટર", "hindiPronunciation": "इनोवेटर", "gujaratiMeaning": "નવીનતા કરનાર", "hindiMeaning": "आविष्कारक" },
+                { "word": "Trailblazer", "gujaratiPronunciation": "ટ્રેલબ્લેઝર", "hindiPronunciation": "ट्रेलब्लेजर", "gujaratiMeaning": "માર્ગદર્શક", "hindiMeaning": "पथप्रदर्शक" }
+            ],
+            "antonyms": [
+                { "word": "Follower", "gujaratiPronunciation": "ફોલોઅર", "hindiPronunciation": "फॉलोअर", "gujaratiMeaning": "અનુયાયી", "hindiMeaning": "अनुयायी" },
+                { "word": "Successor", "gujaratiPronunciation": "સક્સેસર", "hindiPronunciation": "सक्सेसर", "gujaratiMeaning": "ઉત્તરાધિકારી", "hindiMeaning": "उत्तराधिकारी" }
+            ],
+            "confusingWords": [
+                { "word": "Piano", "gujaratiPronunciation": "પિયાનો", "hindiPronunciation": "पियानो", "gujaratiMeaning": "પિયાનો (વાદ્ય)", "hindiMeaning": "पियानो" },
+                { "word": "Pirate", "gujaratiPronunciation": "પાઇરેટ", "hindiPronunciation": "पाइरेट", "gujaratiMeaning": "ચાંચિયો", "hindiMeaning": "समुद्री डाकू" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He was a pioneer in the field of modern medicine.",
+                    "gujaratiPronunciation": "હી વોઝ અ પાયોનિયર ઇન ધ ફિલ્ડ ઓફ મોડર્ન મેડિસિન.",
+                    "hindiPronunciation": "ही वॉज अ पायनियर इन द फील्ड ऑफ मॉडर्न मेडिसिन।",
+                    "gujaratiTranslation": "તેઓ આધુનિક દવાના ક્ષેત્રમાં પહેલ કરનાર હતા.",
+                    "hindiTranslation": "वह आधुनिक चिकित्सा के क्षेत्र में एक अग्रणी थे।"
+                }
+            ]
+        },
+        {
+            "word": "Zenith",
+            "gujaratiPronunciation": "ઝેનિથ",
+            "hindiPronunciation": "जेनिथ",
+            "gujaratiMeaning": "શિખર",
+            "hindiMeaning": "शिखर",
+            "partOfSpeech": "noun",
+            "verbForms": {
+                 "V1": { "word": "N/A", "gujaratiPronunciation": "N/A", "hindiPronunciation": "N/A", "gujaratiMeaning": "લાગુ પડતું નથી", "hindiMeaning": "लागू नहीं" },
+                 "V2": { "word": "N/A", "gujaratiPronunciation": "N/A", "hindiPronunciation": "N/A", "gujaratiMeaning": "લાગુ પડતું નથી", "hindiMeaning": "लागू नहीं" },
+                 "V3": { "word": "N/A", "gujaratiPronunciation": "N/A", "hindiPronunciation": "N/A", "gujaratiMeaning": "લાગુ પડતું નથી", "hindiMeaning": "लागू नहीं" },
+                 "V4": { "word": "N/A", "gujaratiPronunciation": "N/A", "hindiPronunciation": "N/A", "gujaratiMeaning": "લાગુ પડતું નથી", "hindiMeaning": "लागू नहीं" }
+            },
+            "synonyms": [
+                { "word": "Peak", "gujaratiPronunciation": "પીક", "hindiPronunciation": "पीक", "gujaratiMeaning": "ટોચ", "hindiMeaning": "शिखर" },
+                { "word": "Apex", "gujaratiPronunciation": "એપેક્સ", "hindiPronunciation": "एपेक्स", "gujaratiMeaning": "ઉચ્ચતમ બિંદુ", "hindiMeaning": "चरमबिंदु" }
+            ],
+            "antonyms": [
+                { "word": "Nadir", "gujaratiPronunciation": "નાદિર", "hindiPronunciation": "नादिर", "gujaratiMeaning": "સૌથી નીચું બિંદુ", "hindiMeaning": "निम्नतम बिंदु" },
+                { "word": "Bottom", "gujaratiPronunciation": "બોટમ", "hindiPronunciation": "बॉटम", "gujaratiMeaning": "તળિયું", "hindiMeaning": "तल" }
+            ],
+            "confusingWords": [
+                { "word": "Zen", "gujaratiPronunciation": "ઝેન", "hindiPronunciation": "जेन", "gujaratiMeaning": "ધ્યાનની એક શાખા", "hindiMeaning": "ध्यान की एक शाखा" },
+                { "word": "Genie", "gujaratiPronunciation": "જીની", "hindiPronunciation": "जीनी", "gujaratiMeaning": "જિન", "hindiMeaning": "जिन्न" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The band was at the zenith of its popularity in the 90s.",
+                    "gujaratiPronunciation": "ધ બેન્ડ વોઝ એટ ધ ઝેનિથ ઓફ ઇટ્સ પોપ્યુલારિટી ઇન ધ 90s.",
+                    "hindiPronunciation": "द बैंड वॉज एट द जेनिथ ऑफ इट्स पॉपुलैरिटी इन द 90s।",
+                    "gujaratiTranslation": "આ બેન્ડ 90ના દાયકામાં તેની લોકપ્રિયતાના શિખર પર હતું.",
+                    "hindiTranslation": "यह बैंड 90 के दशक में अपनी लोकप्रियता के शिखर पर था।"
+                }
+            ]
+        },
+        {
+            "word": "Excel",
+            "gujaratiPronunciation": "એક્સેલ",
+            "hindiPronunciation": "एक्सेल",
+            "gujaratiMeaning": "શ્રેષ્ઠ હોવું",
+            "hindiMeaning": "उत्कृष्ट होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Excel", "gujaratiPronunciation": "એક્સેલ", "hindiPronunciation": "एक्सेल", "gujaratiMeaning": "શ્રેષ્ઠ હોવું", "hindiMeaning": "उत्कृष्ट होना" },
+                "V2": { "word": "Excelled", "gujaratiPronunciation": "એક્સેલ્ડ", "hindiPronunciation": "एक्सेल्ड", "gujaratiMeaning": "શ્રેષ્ઠ હતું", "hindiMeaning": "उत्कृष्ट था" },
+                "V3": { "word": "Excelled", "gujaratiPronunciation": "એક્સેલ્ડ", "hindiPronunciation": "एक्सेल्ड", "gujaratiMeaning": "શ્રેષ્ઠ રહેલું", "hindiMeaning": "उत्कृष्ट रहा" },
+                "V4": { "word": "Excelling", "gujaratiPronunciation": "એક્સેલિંગ", "hindiPronunciation": "एक्सेलिंग", "gujaratiMeaning": "શ્રેષ્ઠ થઈ રહ્યું છે", "hindiMeaning": "उत्कृष्ट हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Shine", "gujaratiPronunciation": "શાઇન", "hindiPronunciation": "शाइन", "gujaratiMeaning": "ચમકવું", "hindiMeaning": "चमकना" },
+                { "word": "Surpass", "gujaratiPronunciation": "સરપાસ", "hindiPronunciation": "सरपास", "gujaratiMeaning": "વટાવી જવું", "hindiMeaning": "आगे निकल जाना" }
+            ],
+            "antonyms": [
+                { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ થવું", "hindiMeaning": "विफल होना" },
+                { "word": "Struggle", "gujaratiPronunciation": "સ્ટ્રગલ", "hindiPronunciation": "स्ट्रगल", "gujaratiMeaning": "સંઘર્ષ કરવો", "hindiMeaning": "संघर्ष करना" }
+            ],
+            "confusingWords": [
+                { "word": "Exile", "gujaratiPronunciation": "એક્ઝાઇલ", "hindiPronunciation": "एग्जाइल", "gujaratiMeaning": "દેશનિકાલ", "hindiMeaning": "निर्वासन" },
+                { "word": "Axle", "gujaratiPronunciation": "એક્સલ", "hindiPronunciation": "एक्सल", "gujaratiMeaning": "ધરી", "hindiMeaning": "धुरा" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She has always excelled in mathematics.",
+                    "gujaratiPronunciation": "શી હેઝ ઓલ્વેઝ એક્સેલ્ડ ઇન મેથેમેટિક્સ.",
+                    "hindiPronunciation": "शी हैज ऑलवेज एक्सेल्ड इन मैथमेटिक्स।",
+                    "gujaratiTranslation": "તેણી હંમેશા ગણિતમાં શ્રેષ્ઠ રહી છે.",
+                    "hindiTranslation": "वह हमेशा गणित में उत्कृष्ट रही है।"
+                }
+            ]
+        }
+    ]
+}

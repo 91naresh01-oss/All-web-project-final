@@ -1,0 +1,110 @@
+{
+    "id": "word-formation-h",
+    "title": "Word Formation - शब्द रचना",
+    "description": "अंग्रेजी में शब्दों की रचना और उसके प्रकारों के बारे में जानें।",
+    "content": [
+        {
+            "type": "heading",
+            "content": "शब्द निर्माण (Word Formation)"
+        },
+        {
+            "type": "paragraph",
+            "content": "अंग्रेजी व्याकरण में शब्द निर्माण (Word Formation) एक रोचक और महत्वपूर्ण विषय है। इस प्रक्रिया में, हम मूल शब्द (Root Word) में उपसर्ग (Prefix) या प्रत्यय (Suffix) जोड़कर नए शब्द बनाते हैं। इससे शब्द का अर्थ या उसका प्रकार (जैसे संज्ञा, क्रिया, विशेषण) बदल सकता है। चलिए, संज्ञा (Noun), क्रिया (Verb), विशेषण (Adjective), और क्रियाविशेषण (Adverb) जैसे शब्द एक-दूसरे से कैसे बनते हैं, इसे विस्तार से समझते हैं।"
+        },
+        {
+            "type": "heading",
+            "content": "प्रत्यय (Suffix) द्वारा शब्द निर्माण"
+        },
+        {
+            "type": "paragraph",
+            "content": "शब्द निर्माण का सबसे आम तरीका शब्द के अंत में प्रत्यय (Suffix) जोड़ना है। अलग-अलग प्रत्यय शब्द को अलग-अलग प्रकार में बदलते हैं।"
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "1. क्रिया से संज्ञा (Noun from Verb)",
+                "headers": ["Suffix (प्रत्यय)", "Verb (क्रिया)", "Noun (संज्ञा)"],
+                "rows": [
+                    ["-ance / -ence", "Accept (स्वीकार करना)", "Acceptance (स्वीकृति)"],
+                    ["-ion / -tion", "Act (कार्य करना)", "Action (कार्य)"],
+                    ["-ment", "Govern (शासन करना)", "Government (सरकार)"],
+                    ["-al", "Arrive (आना)", "Arrival (आगमन)"],
+                    ["-er / -or", "Teach (सिखाना)", "Teacher (शिक्षक)"],
+                    ["-ure", "Fail (असफल होना)", "Failure (असफलता)"],
+                    ["-age", "Marry (विवाह करना)", "Marriage (विवाह)"]
+                ]
+            }
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "2. विशेषण से संज्ञा (Noun from Adjective)",
+                "headers": ["Suffix (प्रत्यय)", "Adjective (विशेषण)", "Noun (संज्ञा)"],
+                "rows": [
+                    ["-ness", "Happy (खुश)", "Happiness (खुशी)"],
+                    ["-ity / -ty", "Able (सक्षम)", "Ability (क्षमता)"],
+                    ["-ance / -ence", "Important (महत्वपूर्ण)", "Importance (महत्व)"],
+                    ["-th", "Long (लंबा)", "Length (लंबाई)"],
+                    ["-dom", "Free (स्वतंत्र)", "Freedom (स्वतंत्रता)"]
+                ]
+            }
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "3. विशेषण से क्रिया (Verb from Adjective)",
+                "headers": ["Suffix (प्रत्यय)", "Adjective (विशेषण)", "Verb (क्रिया)"],
+                "rows": [
+                    ["-en", "Weak (कमजोर)", "Weaken (कमजोर करना)"],
+                    ["-ify", "Simple (सरल)", "Simplify (सरल बनाना)"],
+                    ["-ize / -ise", "Modern (आधुनिक)", "Modernize (आधुनिक बनाना)"]
+                ]
+            }
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "4. संज्ञा से विशेषण (Adjective from Noun)",
+                "headers": ["Suffix (प्रत्यय)", "Noun (संज्ञा)", "Adjective (विशेषण)"],
+                "rows": [
+                    ["-ful", "Beauty (सुंदरता)", "Beautiful (सुंदर)"],
+                    ["-less", "Care (परवाह)", "Careless (लापरवाह)"],
+                    ["-ous", "Danger (खतरा)", "Dangerous (खतरनाक)"],
+                    ["-al", "Nation (राष्ट्र)", "National (राष्ट्रीय)"],
+                    ["-y", "Dirt (गंदगी)", "Dirty (गंदा)"],
+                    ["-ic", "History (इतिहास)", "Historic (ऐतिहासिक)"],
+                    ["-ish", "Child (बच्चा)", "Childish (बचकाना)"]
+                ]
+            }
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "5. क्रिया से विशेषण (Adjective from Verb)",
+                "headers": ["Suffix (प्रत्यय)", "Verb (क्रिया)", "Adjective (विशेषण)"],
+                "rows": [
+                    ["-able / -ible", "Read (पढ़ना)", "Readable (पठनीय)"],
+                    ["-ive", "Attract (आकर्षित करना)", "Attractive (आकर्षक)"],
+                    ["-ing", "Interest (रुचि लेना)", "Interesting (दिलचस्प)"],
+                    ["-ed", "Tire (थकना)", "Tired (थका हुआ)"]
+                ]
+            }
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "6. विशेषण से क्रियाविशेषण (Adverb from Adjective)",
+                "headers": ["Suffix (प्रत्यय)", "Adjective (विशेषण)", "Adverb (क्रियाविशेषण)"],
+                "rows": [
+                    ["-ly", "Slow (धीमा)", "Slowly (धीरे से)"],
+                    ["-ly", "Quick (तेज)", "Quickly (तेजी से)"],
+                    ["-ily (y के बदले)", "Happy (खुश)", "Happily (खुशी से)"]
+                ]
+            }
+        },
+        {
+            "type": "note",
+            "content": "याद रखें कि सभी शब्द इन नियमों का पालन नहीं करते। अंग्रेजी में कई अनियमित शब्द भी हैं। हालांकि, इन नियमों को समझने से आपकी शब्दावली और व्याकरण की समझ में महत्वपूर्ण सुधार होगा।"
+        }
+    ]
+}

@@ -1,0 +1,753 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e7]:
+        - generic:
+          - generic:
+            - button "Go back" [ref=e8]:
+              - img [ref=e9]
+            - generic:
+              - generic [ref=e11]: SQUARE POWER
+              - heading "વર્ગ (1-30)" [level=1]
+              - paragraph: Memorize squares with a cleaner flow and instant tracking.
+            - generic [ref=e12]:
+              - generic [ref=e13]: Solved
+              - generic [ref=e14]:
+                - generic [ref=e15]: "0"
+                - generic [ref=e16]: /30
+          - generic:
+            - generic [ref=e17]:
+              - generic [ref=e18]: Answered
+              - generic [ref=e19]: "0"
+              - generic [ref=e20]: Out of 30 questions
+            - generic [ref=e21]:
+              - generic [ref=e22]: Accuracy
+              - generic [ref=e23]: 0%
+              - generic [ref=e24]: Based on attempted answers
+            - generic [ref=e25]:
+              - generic [ref=e26]: Hints Used
+              - generic [ref=e27]: "0"
+              - generic [ref=e28]: Keep it low for mastery
+          - generic [ref=e29]:
+            - generic:
+              - generic [ref=e30]:
+                - generic [ref=e31]: Progress
+                - generic [ref=e32]: Press Enter to jump to the next question.
+              - generic [ref=e33]: 0%
+      - main [ref=e34]:
+        - generic [ref=e35]:
+          - generic:
+            - generic [ref=e36]:
+              - generic [ref=e37]: Questions
+              - heading "Focused answer flow" [level=2] [ref=e38]
+            - generic [ref=e39]: 30 total questions
+          - generic:
+            - article [ref=e40]:
+              - generic:
+                - generic [ref=e41]: "01"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 1
+                      - generic:
+                        - generic [ref=e42]: "1"
+                        - superscript: "2"
+                    - generic [ref=e43]:
+                      - img [ref=e44]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e47]:
+                      - generic [ref=e48]: Answer
+                      - generic [ref=e49]:
+                        - generic [ref=e50]: =
+                        - textbox "Answer =" [ref=e51]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e52]:
+                      - img [ref=e53]
+                      - text: Show Hint
+            - article [ref=e55]:
+              - generic:
+                - generic [ref=e56]: "02"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 2
+                      - generic:
+                        - generic [ref=e57]: "2"
+                        - superscript: "2"
+                    - generic [ref=e58]:
+                      - img [ref=e59]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e62]:
+                      - generic [ref=e63]: Answer
+                      - generic [ref=e64]:
+                        - generic [ref=e65]: =
+                        - textbox "Answer =" [ref=e66]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e67]:
+                      - img [ref=e68]
+                      - text: Show Hint
+            - article [ref=e70]:
+              - generic:
+                - generic [ref=e71]: "03"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 3
+                      - generic:
+                        - generic [ref=e72]: "3"
+                        - superscript: "2"
+                    - generic [ref=e73]:
+                      - img [ref=e74]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e77]:
+                      - generic [ref=e78]: Answer
+                      - generic [ref=e79]:
+                        - generic [ref=e80]: =
+                        - textbox "Answer =" [ref=e81]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e82]:
+                      - img [ref=e83]
+                      - text: Show Hint
+            - article [ref=e85]:
+              - generic:
+                - generic [ref=e86]: "04"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 4
+                      - generic:
+                        - generic [ref=e87]: "4"
+                        - superscript: "2"
+                    - generic [ref=e88]:
+                      - img [ref=e89]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e92]:
+                      - generic [ref=e93]: Answer
+                      - generic [ref=e94]:
+                        - generic [ref=e95]: =
+                        - textbox "Answer =" [ref=e96]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e97]:
+                      - img [ref=e98]
+                      - text: Show Hint
+            - article [ref=e100]:
+              - generic:
+                - generic [ref=e101]: "05"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 5
+                      - generic:
+                        - generic [ref=e102]: "5"
+                        - superscript: "2"
+                    - generic [ref=e103]:
+                      - img [ref=e104]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e107]:
+                      - generic [ref=e108]: Answer
+                      - generic [ref=e109]:
+                        - generic [ref=e110]: =
+                        - textbox "Answer =" [ref=e111]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e112]:
+                      - img [ref=e113]
+                      - text: Show Hint
+            - article [ref=e115]:
+              - generic:
+                - generic [ref=e116]: "06"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 6
+                      - generic:
+                        - generic [ref=e117]: "6"
+                        - superscript: "2"
+                    - generic [ref=e118]:
+                      - img [ref=e119]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e122]:
+                      - generic [ref=e123]: Answer
+                      - generic [ref=e124]:
+                        - generic [ref=e125]: =
+                        - textbox "Answer =" [ref=e126]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e127]:
+                      - img [ref=e128]
+                      - text: Show Hint
+            - article [ref=e130]:
+              - generic:
+                - generic [ref=e131]: "07"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 7
+                      - generic:
+                        - generic [ref=e132]: "7"
+                        - superscript: "2"
+                    - generic [ref=e133]:
+                      - img [ref=e134]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e137]:
+                      - generic [ref=e138]: Answer
+                      - generic [ref=e139]:
+                        - generic [ref=e140]: =
+                        - textbox "Answer =" [ref=e141]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e142]:
+                      - img [ref=e143]
+                      - text: Show Hint
+            - article [ref=e145]:
+              - generic:
+                - generic [ref=e146]: "08"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 8
+                      - generic:
+                        - generic [ref=e147]: "8"
+                        - superscript: "2"
+                    - generic [ref=e148]:
+                      - img [ref=e149]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e152]:
+                      - generic [ref=e153]: Answer
+                      - generic [ref=e154]:
+                        - generic [ref=e155]: =
+                        - textbox "Answer =" [ref=e156]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e157]:
+                      - img [ref=e158]
+                      - text: Show Hint
+            - article [ref=e160]:
+              - generic:
+                - generic [ref=e161]: "09"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 9
+                      - generic:
+                        - generic [ref=e162]: "9"
+                        - superscript: "2"
+                    - generic [ref=e163]:
+                      - img [ref=e164]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e167]:
+                      - generic [ref=e168]: Answer
+                      - generic [ref=e169]:
+                        - generic [ref=e170]: =
+                        - textbox "Answer =" [ref=e171]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e172]:
+                      - img [ref=e173]
+                      - text: Show Hint
+            - article [ref=e175]:
+              - generic:
+                - generic [ref=e176]: "10"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 10
+                      - generic:
+                        - generic [ref=e177]: "10"
+                        - superscript: "2"
+                    - generic [ref=e178]:
+                      - img [ref=e179]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e182]:
+                      - generic [ref=e183]: Answer
+                      - generic [ref=e184]:
+                        - generic [ref=e185]: =
+                        - textbox "Answer =" [ref=e186]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e187]:
+                      - img [ref=e188]
+                      - text: Show Hint
+            - article [ref=e190]:
+              - generic:
+                - generic [ref=e191]: "11"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 11
+                      - generic:
+                        - generic [ref=e192]: "11"
+                        - superscript: "2"
+                    - generic [ref=e193]:
+                      - img [ref=e194]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e197]:
+                      - generic [ref=e198]: Answer
+                      - generic [ref=e199]:
+                        - generic [ref=e200]: =
+                        - textbox "Answer =" [ref=e201]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e202]:
+                      - img [ref=e203]
+                      - text: Show Hint
+            - article [ref=e205]:
+              - generic:
+                - generic [ref=e206]: "12"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 12
+                      - generic:
+                        - generic [ref=e207]: "12"
+                        - superscript: "2"
+                    - generic [ref=e208]:
+                      - img [ref=e209]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e212]:
+                      - generic [ref=e213]: Answer
+                      - generic [ref=e214]:
+                        - generic [ref=e215]: =
+                        - textbox "Answer =" [ref=e216]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e217]:
+                      - img [ref=e218]
+                      - text: Show Hint
+            - article [ref=e220]:
+              - generic:
+                - generic [ref=e221]: "13"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 13
+                      - generic:
+                        - generic [ref=e222]: "13"
+                        - superscript: "2"
+                    - generic [ref=e223]:
+                      - img [ref=e224]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e227]:
+                      - generic [ref=e228]: Answer
+                      - generic [ref=e229]:
+                        - generic [ref=e230]: =
+                        - textbox "Answer =" [ref=e231]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e232]:
+                      - img [ref=e233]
+                      - text: Show Hint
+            - article [ref=e235]:
+              - generic:
+                - generic [ref=e236]: "14"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 14
+                      - generic:
+                        - generic [ref=e237]: "14"
+                        - superscript: "2"
+                    - generic [ref=e238]:
+                      - img [ref=e239]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e242]:
+                      - generic [ref=e243]: Answer
+                      - generic [ref=e244]:
+                        - generic [ref=e245]: =
+                        - textbox "Answer =" [ref=e246]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e247]:
+                      - img [ref=e248]
+                      - text: Show Hint
+            - article [ref=e250]:
+              - generic:
+                - generic [ref=e251]: "15"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 15
+                      - generic:
+                        - generic [ref=e252]: "15"
+                        - superscript: "2"
+                    - generic [ref=e253]:
+                      - img [ref=e254]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e257]:
+                      - generic [ref=e258]: Answer
+                      - generic [ref=e259]:
+                        - generic [ref=e260]: =
+                        - textbox "Answer =" [ref=e261]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e262]:
+                      - img [ref=e263]
+                      - text: Show Hint
+            - article [ref=e265]:
+              - generic:
+                - generic [ref=e266]: "16"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 16
+                      - generic:
+                        - generic [ref=e267]: "16"
+                        - superscript: "2"
+                    - generic [ref=e268]:
+                      - img [ref=e269]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e272]:
+                      - generic [ref=e273]: Answer
+                      - generic [ref=e274]:
+                        - generic [ref=e275]: =
+                        - textbox "Answer =" [ref=e276]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e277]:
+                      - img [ref=e278]
+                      - text: Show Hint
+            - article [ref=e280]:
+              - generic:
+                - generic [ref=e281]: "17"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 17
+                      - generic:
+                        - generic [ref=e282]: "17"
+                        - superscript: "2"
+                    - generic [ref=e283]:
+                      - img [ref=e284]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e287]:
+                      - generic [ref=e288]: Answer
+                      - generic [ref=e289]:
+                        - generic [ref=e290]: =
+                        - textbox "Answer =" [ref=e291]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e292]:
+                      - img [ref=e293]
+                      - text: Show Hint
+            - article [ref=e295]:
+              - generic:
+                - generic [ref=e296]: "18"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 18
+                      - generic:
+                        - generic [ref=e297]: "18"
+                        - superscript: "2"
+                    - generic [ref=e298]:
+                      - img [ref=e299]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e302]:
+                      - generic [ref=e303]: Answer
+                      - generic [ref=e304]:
+                        - generic [ref=e305]: =
+                        - textbox "Answer =" [ref=e306]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e307]:
+                      - img [ref=e308]
+                      - text: Show Hint
+            - article [ref=e310]:
+              - generic:
+                - generic [ref=e311]: "19"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 19
+                      - generic:
+                        - generic [ref=e312]: "19"
+                        - superscript: "2"
+                    - generic [ref=e313]:
+                      - img [ref=e314]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e317]:
+                      - generic [ref=e318]: Answer
+                      - generic [ref=e319]:
+                        - generic [ref=e320]: =
+                        - textbox "Answer =" [ref=e321]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e322]:
+                      - img [ref=e323]
+                      - text: Show Hint
+            - article [ref=e325]:
+              - generic:
+                - generic [ref=e326]: "20"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 20
+                      - generic:
+                        - generic [ref=e327]: "20"
+                        - superscript: "2"
+                    - generic [ref=e328]:
+                      - img [ref=e329]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e332]:
+                      - generic [ref=e333]: Answer
+                      - generic [ref=e334]:
+                        - generic [ref=e335]: =
+                        - textbox "Answer =" [ref=e336]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e337]:
+                      - img [ref=e338]
+                      - text: Show Hint
+            - article [ref=e340]:
+              - generic:
+                - generic [ref=e341]: "21"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 21
+                      - generic:
+                        - generic [ref=e342]: "21"
+                        - superscript: "2"
+                    - generic [ref=e343]:
+                      - img [ref=e344]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e347]:
+                      - generic [ref=e348]: Answer
+                      - generic [ref=e349]:
+                        - generic [ref=e350]: =
+                        - textbox "Answer =" [ref=e351]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e352]:
+                      - img [ref=e353]
+                      - text: Show Hint
+            - article [ref=e355]:
+              - generic:
+                - generic [ref=e356]: "22"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 22
+                      - generic:
+                        - generic [ref=e357]: "22"
+                        - superscript: "2"
+                    - generic [ref=e358]:
+                      - img [ref=e359]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e362]:
+                      - generic [ref=e363]: Answer
+                      - generic [ref=e364]:
+                        - generic [ref=e365]: =
+                        - textbox "Answer =" [ref=e366]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e367]:
+                      - img [ref=e368]
+                      - text: Show Hint
+            - article [ref=e370]:
+              - generic:
+                - generic [ref=e371]: "23"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 23
+                      - generic:
+                        - generic [ref=e372]: "23"
+                        - superscript: "2"
+                    - generic [ref=e373]:
+                      - img [ref=e374]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e377]:
+                      - generic [ref=e378]: Answer
+                      - generic [ref=e379]:
+                        - generic [ref=e380]: =
+                        - textbox "Answer =" [ref=e381]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e382]:
+                      - img [ref=e383]
+                      - text: Show Hint
+            - article [ref=e385]:
+              - generic:
+                - generic [ref=e386]: "24"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 24
+                      - generic:
+                        - generic [ref=e387]: "24"
+                        - superscript: "2"
+                    - generic [ref=e388]:
+                      - img [ref=e389]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e392]:
+                      - generic [ref=e393]: Answer
+                      - generic [ref=e394]:
+                        - generic [ref=e395]: =
+                        - textbox "Answer =" [ref=e396]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e397]:
+                      - img [ref=e398]
+                      - text: Show Hint
+            - article [ref=e400]:
+              - generic:
+                - generic [ref=e401]: "25"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 25
+                      - generic:
+                        - generic [ref=e402]: "25"
+                        - superscript: "2"
+                    - generic [ref=e403]:
+                      - img [ref=e404]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e407]:
+                      - generic [ref=e408]: Answer
+                      - generic [ref=e409]:
+                        - generic [ref=e410]: =
+                        - textbox "Answer =" [ref=e411]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e412]:
+                      - img [ref=e413]
+                      - text: Show Hint
+            - article [ref=e415]:
+              - generic:
+                - generic [ref=e416]: "26"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 26
+                      - generic:
+                        - generic [ref=e417]: "26"
+                        - superscript: "2"
+                    - generic [ref=e418]:
+                      - img [ref=e419]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e422]:
+                      - generic [ref=e423]: Answer
+                      - generic [ref=e424]:
+                        - generic [ref=e425]: =
+                        - textbox "Answer =" [ref=e426]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e427]:
+                      - img [ref=e428]
+                      - text: Show Hint
+            - article [ref=e430]:
+              - generic:
+                - generic [ref=e431]: "27"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 27
+                      - generic:
+                        - generic [ref=e432]: "27"
+                        - superscript: "2"
+                    - generic [ref=e433]:
+                      - img [ref=e434]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e437]:
+                      - generic [ref=e438]: Answer
+                      - generic [ref=e439]:
+                        - generic [ref=e440]: =
+                        - textbox "Answer =" [ref=e441]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e442]:
+                      - img [ref=e443]
+                      - text: Show Hint
+            - article [ref=e445]:
+              - generic:
+                - generic [ref=e446]: "28"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 28
+                      - generic:
+                        - generic [ref=e447]: "28"
+                        - superscript: "2"
+                    - generic [ref=e448]:
+                      - img [ref=e449]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e452]:
+                      - generic [ref=e453]: Answer
+                      - generic [ref=e454]:
+                        - generic [ref=e455]: =
+                        - textbox "Answer =" [ref=e456]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e457]:
+                      - img [ref=e458]
+                      - text: Show Hint
+            - article [ref=e460]:
+              - generic:
+                - generic [ref=e461]: "29"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 29
+                      - generic:
+                        - generic [ref=e462]: "29"
+                        - superscript: "2"
+                    - generic [ref=e463]:
+                      - img [ref=e464]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e467]:
+                      - generic [ref=e468]: Answer
+                      - generic [ref=e469]:
+                        - generic [ref=e470]: =
+                        - textbox "Answer =" [ref=e471]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e472]:
+                      - img [ref=e473]
+                      - text: Show Hint
+            - article [ref=e475]:
+              - generic:
+                - generic [ref=e476]: "30"
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Question 30
+                      - generic:
+                        - generic [ref=e477]: "30"
+                        - superscript: "2"
+                    - generic [ref=e478]:
+                      - img [ref=e479]
+                      - text: Ready
+                  - generic:
+                    - generic [ref=e482]:
+                      - generic [ref=e483]: Answer
+                      - generic [ref=e484]:
+                        - generic [ref=e485]: =
+                        - textbox "Answer =" [ref=e486]:
+                          - /placeholder: "?"
+                    - button "Show Hint" [ref=e487]:
+                      - img [ref=e488]
+                      - text: Show Hint
+        - generic [ref=e490]: "Quick tip: Type the answer and press Enter for the next card. Use hints only when you are stuck, not before trying mentally."
+      - generic [ref=e494]:
+        - button "Show Answers" [ref=e495]:
+          - img [ref=e496]
+          - text: Show Answers
+        - button "Reset Set" [ref=e499]:
+          - img [ref=e500]
+          - text: Reset Set
+        - button "Change Set" [ref=e503]:
+          - img [ref=e504]
+          - text: Change Set
+    - generic [ref=e507]:
+      - link "About Us" [ref=e508] [cursor=pointer]:
+        - /url: /about
+      - link "Contact Us" [ref=e510] [cursor=pointer]:
+        - /url: /contact
+  - button "Open Next.js Dev Tools" [ref=e516] [cursor=pointer]:
+    - img [ref=e517]
+  - alert [ref=e520]

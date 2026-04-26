@@ -1,0 +1,46 @@
+{
+    "id": "level-7",
+    "title": "Numbers 7",
+    "words": [
+        {
+            "word": "Million",
+            "icon": "💰",
+            "gujaratiPronunciation": "મિલિયન",
+            "hindiPronunciation": "मिलियन",
+            "gujaratiMeaning": "દસ લાખ",
+            "hindiMeaning": "दस लाख"
+        },
+        {
+            "word": "Billion",
+            "icon": "💰",
+            "gujaratiPronunciation": "બિલિયન",
+            "hindiPronunciation": "बिलियन",
+            "gujaratiMeaning": "એક અબજ",
+            "hindiMeaning": "एक अरब"
+        },
+        {
+            "word": "Trillion",
+            "icon": "💰",
+            "gujaratiPronunciation": "ટ્રિલિયન",
+            "hindiPronunciation": "ट्रिलियन",
+            "gujaratiMeaning": "દસ અબજ",
+            "hindiMeaning": "दस अरब"
+        },
+        {
+            "word": "Zero",
+            "icon": "0️⃣",
+            "gujaratiPronunciation": "ઝીરો",
+            "hindiPronunciation": "ज़ीरो",
+            "gujaratiMeaning": "શૂન્ય",
+            "hindiMeaning": "शून्य"
+        },
+        {
+            "word": "Infinity",
+            "icon": "♾️",
+            "gujaratiPronunciation": "ઇન્ફિનિટી",
+            "hindiPronunciation": "इन्फिनिटी",
+            "gujaratiMeaning": "અનંત",
+            "hindiMeaning": "अनंत"
+        }
+    ]
+}

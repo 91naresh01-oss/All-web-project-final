@@ -1,0 +1,76 @@
+{
+  "id": "level-4",
+  "title": "Events and Fun 4",
+  "words": [
+    {
+      "word": "Celebration",
+      "gujaratiPronunciation": "સેલિબ્રેશન",
+      "hindiPronunciation": "सेलिब्रेशन",
+      "gujaratiMeaning": "ઉજવણી",
+      "hindiMeaning": "उत्सव",
+      "exampleSentences": [
+        {
+          "sentence": "The wedding celebration was grand.",
+          "gujaratiTranslation": "લગ્નની ઉજવણી ભવ્ય હતી.",
+          "hindiTranslation": "शादी का उत्सव भव्य था।"
+        }
+      ]
+    },
+    {
+      "word": "Holiday",
+      "gujaratiPronunciation": "હોલિડે",
+      "hindiPronunciation": "हॉलिडे",
+      "gujaratiMeaning": "રજા",
+      "hindiMeaning": "छुट्टी",
+      "exampleSentences": [
+        {
+          "sentence": "We are going on a holiday to Goa.",
+          "gujaratiTranslation": "અમે ગોવામાં રજાઓ ગાળવા જઈ રહ્યા છીએ.",
+          "hindiTranslation": "हम गोवा में छुट्टी पर जा रहे हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Decoration",
+      "gujaratiPronunciation": "ડેકોરેશન",
+      "hindiPronunciation": "डेकोरेशन",
+      "gujaratiMeaning": "શણગાર",
+      "hindiMeaning": "सजावट",
+      "exampleSentences": [
+        {
+          "sentence": "The room decoration was beautiful.",
+          "gujaratiTranslation": "રૂમની શણગાર સુંદર હતી.",
+          "hindiTranslation": "कमरे की सजावट सुंदर थी।"
+        }
+      ]
+    },
+    {
+      "word": "Culture",
+      "gujaratiPronunciation": "કલ્ચર",
+      "hindiPronunciation": "कल्चर",
+      "gujaratiMeaning": "સંસ્કૃતિ",
+      "hindiMeaning": "संस्कृति",
+      "exampleSentences": [
+        {
+          "sentence": "India has a rich and diverse culture.",
+          "gujaratiTranslation": "ભારતની સંસ્કૃતિ સમૃદ્ધ અને વૈવિધ્યસભર છે.",
+          "hindiTranslation": "भारत की एक समृद्ध और विविध संस्कृति है।"
+        }
+      ]
+    },
+    {
+      "word": "Tradition",
+      "gujaratiPronunciation": "ટ્રેડિશન",
+      "hindiPronunciation": "ट्रेडिशन",
+      "gujaratiMeaning": "પરંપરા",
+      "hindiMeaning": "परंपरा",
+      "exampleSentences": [
+        {
+          "sentence": "Following old traditions is important.",
+          "gujaratiTranslation": "જૂની પરંપરાઓનું પાલન કરવું મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "पुरानी परंपराओं का पालन करना महत्वपूर्ण है।"
+        }
+      ]
+    }
+  ]
+}

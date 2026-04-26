@@ -1,0 +1,176 @@
+{
+  "id": "level-1",
+  "title": "Level 1: Creation Basics",
+  "words": [
+    {
+      "word": "Design",
+      "gujaratiPronunciation": "ડિઝાઇન",
+      "hindiPronunciation": "डिज़ाइन",
+      "gujaratiMeaning": "નકશો બનાવવો, રચના કરવી",
+      "hindiMeaning": "रूपरेखा बनाना, रचना करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Design", "gujaratiPronunciation": "ડિઝાઇન", "hindiPronunciation": "डिज़ाइन", "gujaratiMeaning": "રચના કરવી", "hindiMeaning": "रचना करना" },
+        "V2 (Past)": { "word": "Designed", "gujaratiPronunciation": "ડિઝાઇન્ડ", "hindiPronunciation": "डिज़ाइन्ड", "gujaratiMeaning": "રચના કરી", "hindiMeaning": "रचना की" },
+        "V3 (Past Participle)": { "word": "Designed", "gujaratiPronunciation": "ડિઝાઇન્ડ", "hindiPronunciation": "डिज़ाइन्ड", "gujaratiMeaning": "રચના કરેલ", "hindiMeaning": "रचित" },
+        "V4 (Present Participle)": { "word": "Designing", "gujaratiPronunciation": "ડિઝાઇનિંગ", "hindiPronunciation": "डिज़ाइनिंग", "gujaratiMeaning": "રચના કરી રહ્યું છે", "hindiMeaning": "रचना कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" },
+        { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "hindiPronunciation": "प्लान", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गेनाइज़", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अव्यवस्थित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Assign", "gujaratiPronunciation": "અસાઇન", "hindiPronunciation": "असाइन", "gujaratiMeaning": "સોંપવું", "hindiMeaning": "सौंपना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She will design the new logo.",
+          "gujaratiTranslation": "તેણી નવો લોગો ડિઝાઇન કરશે.",
+          "hindiTranslation": "वह नया लोगो डिज़ाइन करेगी।",
+          "gujaratiPronunciation": "શી વિલ ડિઝાઇન ધ ન્યૂ લોગો.",
+          "hindiPronunciation": "शी विल डिज़ाइन द न्यू लोगो।"
+        }
+      ]
+    },
+    {
+      "word": "Sketch",
+      "gujaratiPronunciation": "સ્કેચ",
+      "hindiPronunciation": "स्केच",
+      "gujaratiMeaning": "કાચું ચિત્ર દોરવું",
+      "hindiMeaning": "कच्चा चित्र बनाना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Sketch", "gujaratiPronunciation": "સ્કેચ", "hindiPronunciation": "स्केच", "gujaratiMeaning": "દોરવું", "hindiMeaning": "चित्र बनाना" },
+        "V2 (Past)": { "word": "Sketched", "gujaratiPronunciation": "સ્કેચ્ડ", "hindiPronunciation": "स्केच्ड", "gujaratiMeaning": "દોર્યું", "hindiMeaning": "चित्र बनाया" },
+        "V3 (Past Participle)": { "word": "Sketched", "gujaratiPronunciation": "સ્કેચ્ડ", "hindiPronunciation": "स्केच्ड", "gujaratiMeaning": "દોરેલું", "hindiMeaning": "चित्रित" },
+        "V4 (Present Participle)": { "word": "Sketching", "gujaratiPronunciation": "સ્કેચિંગ", "hindiPronunciation": "स्केचिंग", "gujaratiMeaning": "દોરી રહ્યું છે", "hindiMeaning": "चित्र बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Draw", "gujaratiPronunciation": "ડ્રો", "hindiPronunciation": "ड्रा", "gujaratiMeaning": "ચિત્ર દોરવું", "hindiMeaning": "चित्र बनाना" },
+        { "word": "Outline", "gujaratiPronunciation": "આઉટલાઇન", "hindiPronunciation": "आउटलाइन", "gujaratiMeaning": "રૂપરેખા બનાવવી", "hindiMeaning": "रूपरेखा बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Finalize", "gujaratiPronunciation": "ફાઇનલાઇઝ", "hindiPronunciation": "फाइनलाइज़", "gujaratiMeaning": "અંતિમ રૂપ આપવું", "hindiMeaning": "अंतिम रूप देना" },
+        { "word": "Paint", "gujaratiPronunciation": "પેઇન્ટ", "hindiPronunciation": "पेंट", "gujaratiMeaning": "રંગ કરવો", "hindiMeaning": "रंग भरना" }
+      ],
+      "confusingWords": [
+        { "word": "Stretch", "gujaratiPronunciation": "સ્ટ્રેચ", "hindiPronunciation": "स्ट्रेच", "gujaratiMeaning": "ખેંચવું", "hindiMeaning": "खींचना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The artist will sketch a portrait.",
+          "gujaratiTranslation": "કલાકાર એક પોટ્રેટ સ્કેચ કરશે.",
+          "hindiTranslation": "कलाकार एक पोर्ट्रेट स्केच करेगा।",
+          "gujaratiPronunciation": "ધી આર્ટિસ્ટ વિલ સ્કેચ અ પોટ્રેટ.",
+          "hindiPronunciation": "द आर्टिस्ट विल स्केच अ पोर्ट्रेट।"
+        }
+      ]
+    },
+    {
+      "word": "Compose",
+      "gujaratiPronunciation": "કમ્પોઝ",
+      "hindiPronunciation": "कम्पोज़",
+      "gujaratiMeaning": "રચના કરવી (સંગીત/લેખન)",
+      "hindiMeaning": "रचना करना (संगीत/लेखन)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Compose", "gujaratiPronunciation": "કમ્પોઝ", "hindiPronunciation": "कम्पोज़", "gujaratiMeaning": "રચના કરવી", "hindiMeaning": "रचना करना" },
+        "V2 (Past)": { "word": "Composed", "gujaratiPronunciation": "કમ્પોઝ્ડ", "hindiPronunciation": "कम्पोज्ड", "gujaratiMeaning": "રચના કરી", "hindiMeaning": "रचना की" },
+        "V3 (Past Participle)": { "word": "Composed", "gujaratiPronunciation": "કમ્પોઝ્ડ", "hindiPronunciation": "कम्पोज्ड", "gujaratiMeaning": "રચના કરેલ", "hindiMeaning": "रचित" },
+        "V4 (Present Participle)": { "word": "Composing", "gujaratiPronunciation": "કમ્પોઝિંગ", "hindiPronunciation": "कम्पोजिंग", "gujaratiMeaning": "રચના કરી રહ્યું છે", "hindiMeaning": "रचना कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Write", "gujaratiPronunciation": "રાઇટ", "hindiPronunciation": "राइट", "gujaratiMeaning": "લખવું", "hindiMeaning": "लिखना" },
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Decompose", "gujaratiPronunciation": "ડિકમ્પોઝ", "hindiPronunciation": "डीकम्पोज़", "gujaratiMeaning": "વિઘટન કરવું", "hindiMeaning": "विघटित करना" },
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" }
+      ],
+      "confusingWords": [
+        { "word": "Suppose", "gujaratiPronunciation": "સપોઝ", "hindiPronunciation": "सपोज़", "gujaratiMeaning": "માનવું", "hindiMeaning": "मानना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He will compose a new song.",
+          "gujaratiTranslation": "તે એક નવું ગીત કમ્પોઝ કરશે.",
+          "hindiTranslation": "वह एक नया गाना कंपोज़ करेगा।",
+          "gujaratiPronunciation": "હી વિલ કમ્પોઝ અ ન્યૂ સોંગ.",
+          "hindiPronunciation": "ही विल कम्पोज़ अ न्यू सॉन्ग।"
+        }
+      ]
+    },
+    {
+      "word": "Mold",
+      "gujaratiPronunciation": "મોલ્ડ",
+      "hindiPronunciation": "मोल्ड",
+      "gujaratiMeaning": "આકાર આપવો, બીબામાં ઢાળવું",
+      "hindiMeaning": "आकार देना, साँचे में ढालना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Mold", "gujaratiPronunciation": "મોલ્ડ", "hindiPronunciation": "मोल्ड", "gujaratiMeaning": "આકાર આપવો", "hindiMeaning": "आकार देना" },
+        "V2 (Past)": { "word": "Molded", "gujaratiPronunciation": "મોલ્ડેડ", "hindiPronunciation": "मोल्डेड", "gujaratiMeaning": "આકાર આપ્યો", "hindiMeaning": "आकार दिया" },
+        "V3 (Past Participle)": { "word": "Molded", "gujaratiPronunciation": "મોલ્ડેડ", "hindiPronunciation": "मोल्डेड", "gujaratiMeaning": "આકાર આપેલ", "hindiMeaning": "आकार दिया हुआ" },
+        "V4 (Present Participle)": { "word": "Molding", "gujaratiPronunciation": "મોલ્ડિંગ", "hindiPronunciation": "मोल्डिंग", "gujaratiMeaning": "આકાર આપી રહ્યું છે", "hindiMeaning": "आकार दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Shape", "gujaratiPronunciation": "શેપ", "hindiPronunciation": "शेप", "gujaratiMeaning": "આકાર આપવો", "hindiMeaning": "आकार देना" },
+        { "word": "Form", "gujaratiPronunciation": "ફોર્મ", "hindiPronunciation": "फॉर्म", "gujaratiMeaning": "રૂપ આપવું", "hindiMeaning": "रूप देना" }
+      ],
+      "antonyms": [
+        { "word": "Break", "gujaratiPronunciation": "બ્રેક", "hindiPronunciation": "ब्रेक", "gujaratiMeaning": "તોડવું", "hindiMeaning": "तोड़ना" },
+        { "word": "Distort", "gujaratiPronunciation": "ડિસ્ટોર્ટ", "hindiPronunciation": "डिस्टॉर्ट", "gujaratiMeaning": "વિકૃત કરવું", "hindiMeaning": "विकृत करना" }
+      ],
+      "confusingWords": [
+        { "word": "Bold", "gujaratiPronunciation": "બોલ્ડ", "hindiPronunciation": "बोल्ड", "gujaratiMeaning": "હિંમતવાન", "hindiMeaning": "साहसी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We can mold the clay into any shape.",
+          "gujaratiTranslation": "આપણે માટીને કોઈ પણ આકારમાં ઢાળી શકીએ છીએ.",
+          "hindiTranslation": "हम मिट्टी को किसी भी आकार में ढाल सकते हैं।",
+          "gujaratiPronunciation": "વી કેન મોલ્ડ ધ ક્લે ઇનટુ એની શેપ.",
+          "hindiPronunciation": "वी कैन मोल्ड द क्ले इनटू एनी शेप।"
+        }
+      ]
+    },
+    {
+      "word": "Improvise",
+      "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ",
+      "hindiPronunciation": "इम्प्रोवाइज़",
+      "gujaratiMeaning": "તાત્કાલિક ઉપજાવી કાઢવું, કામચલાઉ ગોઠવણ કરવી",
+      "hindiMeaning": "तत्काल सुधार करना, कामचलाऊ व्यवस्था करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Improvise", "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ", "hindiPronunciation": "इम्प्रोवाइज़", "gujaratiMeaning": "ઉપજાવી કાઢવું", "hindiMeaning": "सुधार करना" },
+        "V2 (Past)": { "word": "Improvised", "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ્ડ", "hindiPronunciation": "इम्प्रोवाइज़्ड", "gujaratiMeaning": "ઉપજાવી કાઢ્યું", "hindiMeaning": "सुधार किया" },
+        "V3 (Past Participle)": { "word": "Improvised", "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ્ડ", "hindiPronunciation": "इम्प्रोवाइज़्ड", "gujaratiMeaning": "ઉપજાવી કાઢેલ", "hindiMeaning": "सुधारित" },
+        "V4 (Present Participle)": { "word": "Improvising", "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝિંગ", "hindiPronunciation": "इम्प्रोवाइजिंग", "gujaratiMeaning": "ઉપજાવી રહ્યું છે", "hindiMeaning": "सुधार कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Ad-lib", "gujaratiPronunciation": "એડ-લિબ", "hindiPronunciation": "एड-लिब", "gujaratiMeaning": "તાત્કાલિક બોલવું", "hindiMeaning": "बिना तैयारी के बोलना" },
+        { "word": "Extemporize", "gujaratiPronunciation": "એક્સટેમ્પરાઇઝ", "hindiPronunciation": "एक्सटेम्पोराइज़", "gujaratiMeaning": "પૂર્વતૈયારી વિના કરવું", "hindiMeaning": "बिना तैयारी के करना" }
+      ],
+      "antonyms": [
+        { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "hindiPronunciation": "प्लान", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" },
+        { "word": "Rehearse", "gujaratiPronunciation": "રિહર્સ", "hindiPronunciation": "रिहर्स", "gujaratiMeaning": "પૂર્વ-અભ્યાસ કરવો", "hindiMeaning": "अभ्यास करना" }
+      ],
+      "confusingWords": [
+        { "word": "Improve", "gujaratiPronunciation": "ઇમ્પ્રુવ", "hindiPronunciation": "इम्प्रूव", "gujaratiMeaning": "સુધારવું", "hindiMeaning": "सुधारना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The actor had to improvise his lines.",
+          "gujaratiTranslation": "અભિનેતાને તેના સંવાદો તાત્કાલિક ઉપજાવી કાઢવા પડ્યા.",
+          "hindiTranslation": "अभिनेता को अपनी पंक्तियों में सुधार करना पड़ा।",
+          "gujaratiPronunciation": "ધી એક્ટર હેડ ટુ ઇમ્પ્રુવાઇઝ હિઝ લાઇન્સ.",
+          "hindiPronunciation": "द एक्टर हैड टू इम्प्रोवाइज़ हिज़ लाइन्स।"
+        }
+      ]
+    }
+  ]
+}

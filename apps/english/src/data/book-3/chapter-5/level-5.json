@@ -1,0 +1,176 @@
+{
+  "id": "level-5",
+  "title": "Advanced Social Support",
+  "words": [
+    {
+      "word": "Reconcile",
+      "gujaratiPronunciation": "રેકન્સાઇલ",
+      "hindiPronunciation": "रेकनसाइल",
+      "gujaratiMeaning": "સમાધાન કરવું, મેળ બેસાડવો",
+      "hindiMeaning": "सुलह करना, मेल मिलाप करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Reconcile", "gujaratiPronunciation": "રેકન્સાઇલ", "hindiPronunciation": "रेकनसाइल", "gujaratiMeaning": "સમાધાન કરવું", "hindiMeaning": "सुलह करना" },
+        "V2 (Past)": { "word": "Reconciled", "gujaratiPronunciation": "રેકન્સાઇલ્ડ", "hindiPronunciation": "रेकनसाइल्ड", "gujaratiMeaning": "સમાધાન કર્યું", "hindiMeaning": "सुलह की" },
+        "V3 (Past Participle)": { "word": "Reconciled", "gujaratiPronunciation": "રેકન્સાઇલ્ડ", "hindiPronunciation": "रेकनसाइल्ड", "gujaratiMeaning": "સમાધાન કરેલું", "hindiMeaning": "सुलह किया हुआ" },
+        "V4 (Present Participle)": { "word": "Reconciling", "gujaratiPronunciation": "રેકન્સાઇલિંગ", "hindiPronunciation": "रेकनसाइलिंग", "gujaratiMeaning": "સમાધાન કરી રહ્યું", "hindiMeaning": "सुलह कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Settle", "gujaratiPronunciation": "સેટલ", "hindiPronunciation": "सेटल", "gujaratiMeaning": "પતાવટ કરવી", "hindiMeaning": "समझौता करना" },
+        { "word": "Harmonize", "gujaratiPronunciation": "હાર્મોનાઇઝ", "hindiPronunciation": "हार्मोनाइज़", "gujaratiMeaning": "સુરમેળ સાધવો", "hindiMeaning": "सामंजस्य स्थापित करना" }
+      ],
+      "antonyms": [
+        { "word": "Estranged", "gujaratiPronunciation": "એસ્ટ્રેન્જ્ડ", "hindiPronunciation": "एस्ट्रेंज्ड", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" },
+        { "word": "Conflict", "gujaratiPronunciation": "કોન્ફ્લિક્ટ", "hindiPronunciation": "कॉन्फ्लिक्ट", "gujaratiMeaning": "સંઘર્ષ કરવો", "hindiMeaning": "संघर्ष करना" }
+      ],
+      "confusingWords": [
+        { "word": "Council", "gujaratiPronunciation": "કાઉન્સિલ", "hindiPronunciation": "काउंसिल", "gujaratiMeaning": "પરિષદ", "hindiMeaning": "परिषद" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It's difficult to reconcile these two opposing viewpoints.",
+          "gujaratiTranslation": "આ બે વિરોધી દ્રષ્ટિકોણ વચ્ચે સમાધાન કરવું મુશ્કેલ છે.",
+          "hindiTranslation": "इन दो विरोधी दृष्टिकोणों में सुलह करना मुश्किल है।",
+          "gujaratiPronunciation": "ઇટ્સ ડિફિકલ્ટ ટુ રેકન્સાઇલ ધીઝ ટુ ઓપોઝિંગ વ્યૂપોઇન્ટ્સ.",
+          "hindiPronunciation": "इट्स डिफिकल्ट टू रेकनसाइल दीज़ टू अपोज़िंग व्यू पॉइंट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Empathize",
+      "gujaratiPronunciation": "એમ્પથાઇઝ",
+      "hindiPronunciation": "एम्पैथाइज़",
+      "gujaratiMeaning": "સહાનુભૂતિ દર્શાવવી, બીજાની લાગણી સમજવી",
+      "hindiMeaning": "सहानुभूति रखना, दूसरे की भावनाओं को समझना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Empathize", "gujaratiPronunciation": "એમ્પથાઇઝ", "hindiPronunciation": "एम्पैथाइज़", "gujaratiMeaning": "સહાનુભૂતિ દર્શાવવી", "hindiMeaning": "सहानुभूति रखना" },
+        "V2 (Past)": { "word": "Empathized", "gujaratiPronunciation": "એમ્પથાઇઝ્ડ", "hindiPronunciation": "एम्पैथाइज़्ड", "gujaratiMeaning": "સહાનુભૂતિ દર્શાવી", "hindiMeaning": "सहानुभूति रखी" },
+        "V3 (Past Participle)": { "word": "Empathized", "gujaratiPronunciation": "એમ્પથાઇઝ્ડ", "hindiPronunciation": "एम्पैथाइज़्ड", "gujaratiMeaning": "સહાનુભૂતિ દર્શાવેલી", "hindiMeaning": "सहानुभूति रखी हुई" },
+        "V4 (Present Participle)": { "word": "Empathizing", "gujaratiPronunciation": "એમ્પથાઇઝિંગ", "hindiPronunciation": "एम्पैथाइजिंग", "gujaratiMeaning": "સહાનુભૂતિ દર્શાવી રહ્યું", "hindiMeaning": "सहानुभूति रख रहा" }
+      },
+      "synonyms": [
+        { "word": "Understand", "gujaratiPronunciation": "અન્ડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        { "word": "Identify with", "gujaratiPronunciation": "આઇડેન્ટિફાય વિથ", "hindiPronunciation": "आइडेंटिफाई विथ", "gujaratiMeaning": "સાથે જોડાવું", "hindiMeaning": "तादात्म्य स्थापित करना" }
+      ],
+      "antonyms": [
+        { "word": "Misunderstand", "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ", "hindiPronunciation": "मिसअंडरस्टैंड", "gujaratiMeaning": "ગેરસમજ કરવી", "hindiMeaning": "गलत समझना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Emphasize", "gujaratiPronunciation": "એમ્ફસાઇઝ", "hindiPronunciation": "एम्फेसाइज़", "gujaratiMeaning": "ભાર મૂકવો", "hindiMeaning": "जोर देना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A good leader can empathize with their team's struggles.",
+          "gujaratiTranslation": "એક સારો નેતા તેની ટીમના સંઘર્ષો સાથે સહાનુભૂતિ દર્શાવી શકે છે.",
+          "hindiTranslation": "एक अच्छा नेता अपनी टीम के संघर्षों के प्रति सहानुभूति रख सकता है।",
+          "gujaratiPronunciation": "અ ગુડ લીડર કેન એમ્પથાઇઝ વિથ ધેર ટીમ્સ સ્ટ્રગલ્સ.",
+          "hindiPronunciation": "अ गुड लीडर कैन एम्पैथाइज़ विद देयर टीम्स स्ट्रगल्स।"
+        }
+      ]
+    },
+    {
+      "word": "Mobilize",
+      "gujaratiPronunciation": "મોબિલાઇઝ",
+      "hindiPronunciation": "मोबिलाइज़",
+      "gujaratiMeaning": "એકઠા કરવું, ગતિશીલ કરવું",
+      "hindiMeaning": "जुटाना, गतिशील करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Mobilize", "gujaratiPronunciation": "મોબિલાઇઝ", "hindiPronunciation": "मोबिलाइज़", "gujaratiMeaning": "એકઠા કરવું", "hindiMeaning": "जुटाना" },
+        "V2 (Past)": { "word": "Mobilized", "gujaratiPronunciation": "મોબિલાઇઝ્ડ", "hindiPronunciation": "मोबिलाइज़्ड", "gujaratiMeaning": "એકઠા કર્યા", "hindiMeaning": "जुटाया" },
+        "V3 (Past Participle)": { "word": "Mobilized", "gujaratiPronunciation": "મોબિલાઇઝ્ડ", "hindiPronunciation": "मोबिलाइज़्ड", "gujaratiMeaning": "એકઠા કરેલા", "hindiMeaning": "जुटाया हुआ" },
+        "V4 (Present Participle)": { "word": "Mobilizing", "gujaratiPronunciation": "મોબિલાઇઝિંગ", "hindiPronunciation": "मोबिलाइजिंग", "gujaratiMeaning": "એકઠા કરી રહ્યું", "hindiMeaning": "जुटा रहा" }
+      },
+      "synonyms": [
+        { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઇઝ", "hindiPronunciation": "ऑर्गनाइज़", "gujaratiMeaning": "આયોજન કરવું", "hindiMeaning": "संगठित करना" },
+        { "word": "Assemble", "gujaratiPronunciation": "એસેમ્બલ", "hindiPronunciation": "असेंबल", "gujaratiMeaning": "એકત્ર કરવું", "hindiMeaning": "इकट्ठा करना" }
+      ],
+      "antonyms": [
+        { "word": "Disband", "gujaratiPronunciation": "ડિસબેન્ડ", "hindiPronunciation": "डिसबैंड", "gujaratiMeaning": "વિખેરી નાખવું", "hindiMeaning": "भंग करना" },
+        { "word": "Demobilize", "gujaratiPronunciation": "ડિમોબિલાઇઝ", "hindiPronunciation": "डिमोबिलाइज़", "gujaratiMeaning": "વિખેરવું", "hindiMeaning": "सेना से मुक्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Mobile", "gujaratiPronunciation": "મોબાઇલ", "hindiPronunciation": "मोबाइल", "gujaratiMeaning": "ભ્રમણશીલ", "hindiMeaning": "मोबाइल" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They mobilized volunteers to help with the relief effort.",
+          "gujaratiTranslation": "તેઓએ રાહત કાર્યમાં મદદ કરવા માટે સ્વયંસેવકોને એકઠા કર્યા.",
+          "hindiTranslation": "उन्होंने राहत कार्य में मदद करने के लिए स्वयंसेवकों को जुटाया।",
+          "gujaratiPronunciation": "ધે મોબિલાઇઝ્ડ વોલન્ટિયર્સ ટુ હેલ્પ વિથ ધ રિલીફ એફર્ટ.",
+          "hindiPronunciation": "दे मोबिलाइज़्ड वॉलंटियर्स टू हेल्प विद द रिलीफ एफर्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Succor",
+      "gujaratiPronunciation": "સકર",
+      "hindiPronunciation": "सकर",
+      "gujaratiMeaning": "મદદ કરવી, સહાય આપવી (મુશ્કેલીમાં)",
+      "hindiMeaning": "सहायता करना, मदद देना (संकट में)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Succor", "gujaratiPronunciation": "સકર", "hindiPronunciation": "सकर", "gujaratiMeaning": "મદદ કરવી", "hindiMeaning": "सहायता करना" },
+        "V2 (Past)": { "word": "Succored", "gujaratiPronunciation": "સકર્ડ", "hindiPronunciation": "सकर्ड", "gujaratiMeaning": "મદદ કરી", "hindiMeaning": "सहायता की" },
+        "V3 (Past Participle)": { "word": "Succored", "gujaratiPronunciation": "સકર્ડ", "hindiPronunciation": "सकर्ड", "gujaratiMeaning": "મદદ કરેલી", "hindiMeaning": "सहायता की हुई" },
+        "V4 (Present Participle)": { "word": "Succoring", "gujaratiPronunciation": "સકરિંગ", "hindiPronunciation": "सकरिंग", "gujaratiMeaning": "મદદ કરી રહ્યું", "hindiMeaning": "सहायता कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Help", "gujaratiPronunciation": "હેલ્પ", "hindiPronunciation": "हेल्प", "gujaratiMeaning": "મદદ", "hindiMeaning": "मदद" },
+        { "word": "Aid", "gujaratiPronunciation": "એઇડ", "hindiPronunciation": "एड", "gujaratiMeaning": "સહાય", "hindiMeaning": "सहायता" }
+      ],
+      "antonyms": [
+        { "word": "Hinder", "gujaratiPronunciation": "હિન્ડર", "hindiPronunciation": "हिंडर", "gujaratiMeaning": "અવરોધવું", "hindiMeaning": "बाधा डालना" },
+        { "word": "Harm", "gujaratiPronunciation": "હાર્મ", "hindiPronunciation": "हार्म", "gujaratiMeaning": "નુકસાન કરવું", "hindiMeaning": "नुकसान पहुँचाना" }
+      ],
+      "confusingWords": [
+        { "word": "Sucker", "gujaratiPronunciation": "સકર", "hindiPronunciation": "सकर", "gujaratiMeaning": "ચૂસનાર, ભોળો માણસ", "hindiMeaning": "चूसने वाला, भोला आदमी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The organization provides succor to disaster victims.",
+          "gujaratiTranslation": "સંસ્થા આપત્તિ પીડિતોને સહાય પૂરી પાડે છે.",
+          "hindiTranslation": "संगठन आपदा पीड़ितों को सहायता प्रदान करता है।",
+          "gujaratiPronunciation": "ધી ઓર્ગેનાઇઝેશન પ્રોવાઇડ્સ સકર ટુ ડિઝાસ્ટર વિક્ટિમ્સ.",
+          "hindiPronunciation": "दी ऑर्गनाइज़ेशन प्रोवाइड्स सकर टू डिज़ास्टर विक्टिम्स।"
+        }
+      ]
+    },
+    {
+      "word": "Patronize",
+      "gujaratiPronunciation": "પેટ્રનાઇઝ",
+      "hindiPronunciation": "पैट्रनाइज़",
+      "gujaratiMeaning": "આશ્રય આપવો, ગ્રાહક બનવું, નીચું દેખાડવું",
+      "hindiMeaning": "संरक्षण देना, ग्राहक बनना, नीचा दिखाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Patronize", "gujaratiPronunciation": "પેટ્રનાઇઝ", "hindiPronunciation": "पैट्रनाइज़", "gujaratiMeaning": "આશ્રય આપવો", "hindiMeaning": "संरक्षण देना" },
+        "V2 (Past)": { "word": "Patronized", "gujaratiPronunciation": "પેટ્રનાઇઝ્ડ", "hindiPronunciation": "पैट्रनाइज़्ड", "gujaratiMeaning": "આશ્રય આપ્યો", "hindiMeaning": "संरक्षण दिया" },
+        "V3 (Past Participle)": { "word": "Patronized", "gujaratiPronunciation": "પેટ્રનાઇઝ્ડ", "hindiPronunciation": "पैट्रनाइज़्ड", "gujaratiMeaning": "આશ્રય આપેલો", "hindiMeaning": "संरक्षण दिया हुआ" },
+        "V4 (Present Participle)": { "word": "Patronizing", "gujaratiPronunciation": "પેટ્રનાઇઝિંગ", "hindiPronunciation": "पैट्रनाइजिंग", "gujaratiMeaning": "આશ્રય આપી રહ્યું", "hindiMeaning": "संरक्षण दे रहा" }
+      },
+      "synonyms": [
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" },
+        { "word": "Condescend", "gujaratiPronunciation": "કોન્ડિસેન્ડ", "hindiPronunciation": "कॉन्डिसेंड", "gujaratiMeaning": "નીચું દેખાડવું", "hindiMeaning": "कृપા दिखाना" }
+      ],
+      "antonyms": [
+        { "word": "Boycott", "gujaratiPronunciation": "બોયકોટ", "hindiPronunciation": "बॉयकॉट", "gujaratiMeaning": "બહિષ્કાર કરવો", "hindiMeaning": "बहिष्कार करना" },
+        { "word": "Respect", "gujaratiPronunciation": "રિસ્પેક્ટ", "hindiPronunciation": "रिस्पेक्ट", "gujaratiMeaning": "આદર કરવો", "hindiMeaning": "सम्मान करना" }
+      ],
+      "confusingWords": [
+        { "word": "Pattern", "gujaratiPronunciation": "પેટર્ન", "hindiPronunciation": "पैटर्न", "gujaratiMeaning": "ભાત, રીત", "hindiMeaning": "नमूना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I patronize the local bookstore to support small businesses.",
+          "gujaratiTranslation": "હું નાના વ્યવસાયોને ટેકો આપવા માટે સ્થાનિક પુસ્તકોની દુકાનનો ગ્રાહક બનું છું.",
+          "hindiTranslation": "मैं छोटे व्यवसायों का समर्थन करने के लिए स्थानीय किताबों की दुकान का ग्राहक बनता हूं।",
+          "gujaratiPronunciation": "આઈ પેટ્રનાઇઝ ધ લોકલ બુકસ્ટોર ટુ સપોર્ટ સ્મોલ બિઝનેસીસ.",
+          "hindiPronunciation": "आई पैट्रनाइज़ द लोकल बुकस्टोर टू सपोर्ट स्मॉल बिज़नेसेज़।"
+        }
+      ]
+    }
+  ]
+}

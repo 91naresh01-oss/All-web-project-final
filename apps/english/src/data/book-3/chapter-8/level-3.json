@@ -1,0 +1,170 @@
+{
+  "id": "level-3",
+  "title": "Level 3: Tactical Engagements",
+  "words": [
+    {
+      "word": "Negotiate",
+      "gujaratiPronunciation": "નેગોશિએટ",
+      "hindiPronunciation": "नेगोशिएट",
+      "gujaratiMeaning": "વાટાઘાટ કરવી",
+      "hindiMeaning": "बातचीत करना, मोलभाव करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Negotiate", "gujaratiPronunciation": "નેગોશિએટ", "hindiPronunciation": "नेगोशिएट", "gujaratiMeaning": "વાટાઘાટ કરવી", "hindiMeaning": "बातचीत करना" },
+        "V2 (Past)": { "word": "Negotiated", "gujaratiPronunciation": "નેગોશિએટેડ", "hindiPronunciation": "नेगोशिएटेड", "gujaratiMeaning": "વાટાઘાટ કરી", "hindiMeaning": "बातचीत की" },
+        "V3 (Past Participle)": { "word": "Negotiated", "gujaratiPronunciation": "નેગોશિએટેડ", "hindiPronunciation": "नेगोशिएटेड", "gujaratiMeaning": "વાટાઘાટ કરેલ", "hindiMeaning": "बातचीत किया हुआ" },
+        "V4 (Present Participle)": { "word": "Negotiating", "gujaratiPronunciation": "નેગોશિએટિંગ", "hindiPronunciation": "नेगोशिएटिंग", "gujaratiMeaning": "વાટાઘાટ કરી રહ્યું છે", "hindiMeaning": "बातचीत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Bargain", "gujaratiPronunciation": "બાર્ગેન", "hindiPronunciation": "बार्गेन", "gujaratiMeaning": "સોદો કરવો", "hindiMeaning": "मोलभाव करना" },
+        { "word": "Discuss", "gujaratiPronunciation": "ડિસ્કસ", "hindiPronunciation": "डिस्कस", "gujaratiMeaning": "ચર્ચા કરવી", "hindiMeaning": "चर्चा करना" }
+      ],
+      "antonyms": [
+        { "word": "Argue", "gujaratiPronunciation": "આર્ગ્યુ", "hindiPronunciation": "आर्ग्यू", "gujaratiMeaning": "દલીલ કરવી", "hindiMeaning": "बहस करना" },
+        { "word": "Fight", "gujaratiPronunciation": "ફાઇટ", "hindiPronunciation": "फाइट", "gujaratiMeaning": "લડવું", "hindiMeaning": "लड़ना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "They will negotiate a peace treaty.",
+          "gujaratiTranslation": "તેઓ શાંતિ સંધિ માટે વાટાઘાટ કરશે.",
+          "hindiTranslation": "वे एक शांति संधि पर बातचीत करेंगे।",
+          "gujaratiPronunciation": "ધે વિલ નેગોશિએટ અ પીસ ટ્રીટી.",
+          "hindiPronunciation": "दे विल नेगोशिएट अ पीस ट्रीटी।"
+        }
+      ]
+    },
+    {
+      "word": "Ambush",
+      "gujaratiPronunciation": "એમ્બુશ",
+      "hindiPronunciation": "एम्बुश",
+      "gujaratiMeaning": "ઘાત લગાવીને હુમલો કરવો",
+      "hindiMeaning": "घात लगाकर हमला करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Ambush", "gujaratiPronunciation": "એમ્બુશ", "hindiPronunciation": "एम्बुश", "gujaratiMeaning": "ઘાત લગાવવી", "hindiMeaning": "घात लगाना" },
+        "V2 (Past)": { "word": "Ambushed", "gujaratiPronunciation": "એમ્બુશ્ડ", "hindiPronunciation": "एम्बुश्ड", "gujaratiMeaning": "ઘાત લગાવી", "hindiMeaning": "घात लगाया" },
+        "V3 (Past Participle)": { "word": "Ambushed", "gujaratiPronunciation": "એમ્બુશ્ડ", "hindiPronunciation": "एम्बुश्ड", "gujaratiMeaning": "ઘાત લગાવેલ", "hindiMeaning": "घात लगाया हुआ" },
+        "V4 (Present Participle)": { "word": "Ambushing", "gujaratiPronunciation": "એમ્બુશિંગ", "hindiPronunciation": "एम्बुशिंग", "gujaratiMeaning": "ઘાત લગાવી રહ્યું છે", "hindiMeaning": "घात लगा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Trap", "gujaratiPronunciation": "ટ્રેપ", "hindiPronunciation": "ट्रैप", "gujaratiMeaning": "ફસાવવું", "hindiMeaning": "जाल में फंसाना" },
+        { "word": "Surprise attack", "gujaratiPronunciation": "સરપ્રાઇઝ એટેક", "hindiPronunciation": "सरप्राइज अटैक", "gujaratiMeaning": "આકસ્મિક હુમલો", "hindiMeaning": "अचानक हमला" }
+      ],
+      "antonyms": [
+        { "word": "Fair fight", "gujaratiPronunciation": "ફેર ફાઇટ", "hindiPronunciation": "फेयर फाइट", "gujaratiMeaning": "ખુલ્લી લડાઈ", "hindiMeaning": "खुली लड़ाई" },
+        { "word": "Warn", "gujaratiPronunciation": "વોર્ન", "hindiPronunciation": "वॉर्न", "gujaratiMeaning": "ચેતવણી આપવી", "hindiMeaning": "चेतावनी देना" }
+      ],
+      "confusingWords": [
+        { "word": "Bush", "gujaratiPronunciation": "બુશ", "hindiPronunciation": "बुश", "gujaratiMeaning": "ઝાડવું", "hindiMeaning": "झाड़ी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The soldiers planned to ambush the enemy convoy.",
+          "gujaratiTranslation": "સૈનિકોએ દુશ્મનના કાફલા પર ઘાત લગાવીને હુમલો કરવાની યોજના બનાવી.",
+          "hindiTranslation": "सैनिकों ने दुश्मन के काफिले पर घात लगाकर हमला करने की योजना बनाई।",
+          "gujaratiPronunciation": "ધ સોલ્જર્સ પ્લાન્ડ ટુ એમ્બુશ ધ એનિમી કોન્વોય.",
+          "hindiPronunciation": "द सोल्जर्स प्लांड टू एम्बुश द एनिमी कॉन्वॉय।"
+        }
+      ]
+    },
+    {
+      "word": "Safeguard",
+      "gujaratiPronunciation": "સેફગાર્ડ",
+      "hindiPronunciation": "सेफगार्ड",
+      "gujaratiMeaning": "રક્ષણ કરવું, સુરક્ષિત કરવું",
+      "hindiMeaning": "रक्षा करना, सुरक्षित करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Safeguard", "gujaratiPronunciation": "સેફગાર્ડ", "hindiPronunciation": "सेफगार्ड", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" },
+        "V2 (Past)": { "word": "Safeguarded", "gujaratiPronunciation": "સેફગાર્ડેડ", "hindiPronunciation": "सेफगार्डेड", "gujaratiMeaning": "રક્ષણ કર્યું", "hindiMeaning": "रक्षा की" },
+        "V3 (Past Participle)": { "word": "Safeguarded", "gujaratiPronunciation": "સેફગાર્ડેડ", "hindiPronunciation": "सेफगार्डेड", "gujaratiMeaning": "રક્ષણ કરેલ", "hindiMeaning": "रक्षित" },
+        "V4 (Present Participle)": { "word": "Safeguarding", "gujaratiPronunciation": "સેફગાર્ડિંગ", "hindiPronunciation": "सेफगार्डिंग", "gujaratiMeaning": "રક્ષણ કરી રહ્યું છે", "hindiMeaning": "रक्षा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" },
+        { "word": "Defend", "gujaratiPronunciation": "ડિફેન્ડ", "hindiPronunciation": "डिफेंड", "gujaratiMeaning": "બચાવ કરવો", "hindiMeaning": "बचाव करना" }
+      ],
+      "antonyms": [
+        { "word": "Endanger", "gujaratiPronunciation": "એન્ડેન્જર", "hindiPronunciation": "एंडेंजर", "gujaratiMeaning": "જોખમમાં મૂકવું", "hindiMeaning": "खतरे में डालना" },
+        { "word": "Harm", "gujaratiPronunciation": "હાર્મ", "hindiPronunciation": "हार्म", "gujaratiMeaning": "નુકસાન પહોંચાડવું", "hindiMeaning": "नुकसान पहुँचाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "We must safeguard our cultural heritage.",
+          "gujaratiTranslation": "આપણે આપણા સાંસ્કૃતિક વારસાનું રક્ષણ કરવું જોઈએ.",
+          "hindiTranslation": "हमें अपनी सांस्कृतिक विरासत की रक्षा करनी चाहिए।",
+          "gujaratiPronunciation": "વી મસ્ટ સેફગાર્ડ અવર કલ્ચરલ હેરિટેજ.",
+          "hindiPronunciation": "वी मस्ट सेफगार्ड आवर कल्चरल हेरिटेज।"
+        }
+      ]
+    },
+    {
+      "word": "Withdraw",
+      "gujaratiPronunciation": "વિથડ્રો",
+      "hindiPronunciation": "विथड्रा",
+      "gujaratiMeaning": "પાછું ખેંચવું",
+      "hindiMeaning": "वापस लेना, पीछे हटना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Withdraw", "gujaratiPronunciation": "વિથડ્રો", "hindiPronunciation": "विथड्रा", "gujaratiMeaning": "પાછું ખેંચવું", "hindiMeaning": "वापस लेना" },
+        "V2 (Past)": { "word": "Withdrew", "gujaratiPronunciation": "વિથડ્રુ", "hindiPronunciation": "विथड्रू", "gujaratiMeaning": "પાછું ખેંચ્યું", "hindiMeaning": "वापस लिया" },
+        "V3 (Past Participle)": { "word": "Withdrawn", "gujaratiPronunciation": "વિથડ્રોન", "hindiPronunciation": "विथड्रॉन", "gujaratiMeaning": "પાછું ખેંચેલું", "hindiMeaning": "वापस लिया हुआ" },
+        "V4 (Present Participle)": { "word": "Withdrawing", "gujaratiPronunciation": "વિથડ્રોઇંગ", "hindiPronunciation": "विथड्रॉइंग", "gujaratiMeaning": "પાછું ખેંચી રહ્યું છે", "hindiMeaning": "वापस ले रहा है" }
+      },
+      "synonyms": [
+        { "word": "Retreat", "gujaratiPronunciation": "રિટ્રીટ", "hindiPronunciation": "रिट्रीट", "gujaratiMeaning": "પાછા હટવું", "hindiMeaning": "पीछे हटना" },
+        { "word": "Remove", "gujaratiPronunciation": "રિમૂવ", "hindiPronunciation": "रिमूव", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" }
+      ],
+      "antonyms": [
+        { "word": "Advance", "gujaratiPronunciation": "એડવાન્સ", "hindiPronunciation": "एडवांस", "gujaratiMeaning": "આગળ વધવું", "hindiMeaning": "आगे बढ़ना" },
+        { "word": "Deposit", "gujaratiPronunciation": "ડિપોઝિટ", "hindiPronunciation": "डिपॉजिट", "gujaratiMeaning": "જમા કરવું", "hindiMeaning": "जमा करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "He decided to withdraw from the competition.",
+          "gujaratiTranslation": "તેણે સ્પર્ધામાંથી પાછા હટવાનું નક્કી કર્યું.",
+          "hindiTranslation": "उसने प्रतियोगिता से हटने का फैसला किया।",
+          "gujaratiPronunciation": "હી ડિસાઇડેડ ટુ વિથડ્રો ફ્રોમ ધ કોમ્પિટિશન.",
+          "hindiPronunciation": "ही डिसाइडेड टू विथड्रा फ्रॉम द कॉम्पिटिशन।"
+        }
+      ]
+    },
+    {
+      "word": "Engage",
+      "gujaratiPronunciation": "એંગેજ",
+      "hindiPronunciation": "एंगेज",
+      "gujaratiMeaning": "જોડાવું, વ્યસ્ત થવું",
+      "hindiMeaning": "संलग्न होना, व्यस्त होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Engage", "gujaratiPronunciation": "એંગેજ", "hindiPronunciation": "एंगेज", "gujaratiMeaning": "જોડાવું", "hindiMeaning": "संलग्न होना" },
+        "V2 (Past)": { "word": "Engaged", "gujaratiPronunciation": "એંગેજ્ડ", "hindiPronunciation": "एंगेज्ड", "gujaratiMeaning": "જોડાયું", "hindiMeaning": "संलग्न हुआ" },
+        "V3 (Past Participle)": { "word": "Engaged", "gujaratiPronunciation": "એંગેજ્ડ", "hindiPronunciation": "एंगेज्ड", "gujaratiMeaning": "જોડાયેલું", "hindiMeaning": "व्यस्त" },
+        "V4 (Present Participle)": { "word": "Engaging", "gujaratiPronunciation": "એંગેજિંગ", "hindiPronunciation": "एंगेजिंग", "gujaratiMeaning": "જોડાઈ રહ્યું છે", "hindiMeaning": "संलग्न हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Involve", "gujaratiPronunciation": "ઇન્વોલ્વ", "hindiPronunciation": "इन्वॉल्व", "gujaratiMeaning": "સમાવેશ કરવો", "hindiMeaning": "शामिल होना" },
+        { "word": "Participate", "gujaratiPronunciation": "પાર્ટિસિપેટ", "hindiPronunciation": "पार्टिसिपेट", "gujaratiMeaning": "ભાગ લેવો", "hindiMeaning": "भाग लेना" }
+      ],
+      "antonyms": [
+        { "word": "Disengage", "gujaratiPronunciation": "ડિસએંગેજ", "hindiPronunciation": "डिसएंगेज", "gujaratiMeaning": "છૂટા પડવું", "hindiMeaning": "अलग होना" },
+        { "word": "Withdraw", "gujaratiPronunciation": "વિથડ્રો", "hindiPronunciation": "विथड्रा", "gujaratiMeaning": "પાછું ખેંચવું", "hindiMeaning": "पीछे हटना" }
+      ],
+      "confusingWords": [
+        { "word": "Enrage", "gujaratiPronunciation": "એનરેજ", "hindiPronunciation": "एनरेज", "gujaratiMeaning": "ગુસ્સે કરવું", "hindiMeaning": "क्रोधित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is important to engage with your customers.",
+          "gujaratiTranslation": "તમારા ગ્રાહકો સાથે જોડાવું મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "अपने ग्राहकों के साथ जुड़ना महत्वपूर्ण है।",
+          "gujaratiPronunciation": "ઇટ ઇઝ ઇમ્પોર્ટન્ટ ટુ એંગેજ વિથ યોર કસ્ટમર્સ.",
+          "hindiPronunciation": "इट इज़ इम्पोर्टेंट टू एंगेज विथ योर कस्टमर्स।"
+        }
+      ]
+    }
+  ]
+}

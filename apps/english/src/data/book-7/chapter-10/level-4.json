@@ -1,0 +1,181 @@
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Dominate",
+            "gujaratiPronunciation": "ડોમિનેટ",
+            "hindiPronunciation": "डॉमिनेंट",
+            "gujaratiMeaning": "પ્રભુત્વ જમાવવું",
+            "hindiMeaning": "हावी होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Dominate", "gujaratiPronunciation": "ડોમિનેટ", "hindiPronunciation": "डॉमिनेंट", "gujaratiMeaning": "પ્રભુત્વ જમાવવું", "hindiMeaning": "हावी होना" },
+                "V2": { "word": "Dominated", "gujaratiPronunciation": "ડોમિનેટેડ", "hindiPronunciation": "डॉमिनेंटेड", "gujaratiMeaning": "પ્રભુત્વ જમાવ્યું", "hindiMeaning": "हावी हुआ" },
+                "V3": { "word": "Dominated", "gujaratiPronunciation": "ડોમિનેટેડ", "hindiPronunciation": "डॉमिनेंटेड", "gujaratiMeaning": "પ્રભુત્વ જમાવેલું", "hindiMeaning": "हावी हुआ" },
+                "V4": { "word": "Dominating", "gujaratiPronunciation": "ડોમિનેટિંગ", "hindiPronunciation": "डॉमिनेंटिंग", "gujaratiMeaning": "પ્રભુત્વ જમાવી રહ્યું છે", "hindiMeaning": "हावी हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Control", "gujaratiPronunciation": "કંટ્રોલ", "hindiPronunciation": "कंट्रोल", "gujaratiMeaning": "નિયંત્રણ કરવું", "hindiMeaning": "नियंत्रण करना" },
+                { "word": "Rule", "gujaratiPronunciation": "રૂલ", "hindiPronunciation": "रूल", "gujaratiMeaning": "શાસન કરવું", "hindiMeaning": "शासन करना" }
+            ],
+            "antonyms": [
+                { "word": "Submit", "gujaratiPronunciation": "સબમિટ", "hindiPronunciation": "सबमिट", "gujaratiMeaning": "આધીન થવું", "hindiMeaning": "अधीन होना" },
+                { "word": "Follow", "gujaratiPronunciation": "ફોલો", "hindiPronunciation": "फॉलो", "gujaratiMeaning": "અનુસરવું", "hindiMeaning": "अनुसरण करना" }
+            ],
+            "confusingWords": [
+                { "word": "Donate", "gujaratiPronunciation": "ડોનેટ", "hindiPronunciation": "डोनेट", "gujaratiMeaning": "દાન કરવું", "hindiMeaning": "दान करना" },
+                { "word": "Nominate", "gujaratiPronunciation": "નોમિનેટ", "hindiPronunciation": "नॉमिनेट", "gujaratiMeaning": "નામાંકન કરવું", "hindiMeaning": "नामांकित करना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The team dominated the game from the start.",
+                    "gujaratiPronunciation": "ધ ટીમ ડોમિનેટેડ ધ ગેમ ફ્રોમ ધ સ્ટાર્ટ.",
+                    "hindiPronunciation": "द टीम डॉमिनेटेड द गेम फ्रॉम द स्टार्ट।",
+                    "gujaratiTranslation": "ટીમે શરૂઆતથી જ રમત પર પ્રભુત્વ જમાવ્યું હતું.",
+                    "hindiTranslation": "टीम ने शुरू से ही खेल पर हावी रही।"
+                }
+            ]
+        },
+        {
+            "word": "Transcend",
+            "gujaratiPronunciation": "ટ્રાન્સેન્ડ",
+            "hindiPronunciation": "ट्रांसेंड",
+            "gujaratiMeaning": "પાર જવું",
+            "hindiMeaning": "पार जाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Transcend", "gujaratiPronunciation": "ટ્રાન્સેન્ડ", "hindiPronunciation": "ट्रांसेंड", "gujaratiMeaning": "પાર જવું", "hindiMeaning": "पार जाना" },
+                "V2": { "word": "Transcended", "gujaratiPronunciation": "ટ્રાન્સેન્ડેડ", "hindiPronunciation": "ट्रांसेंडेड", "gujaratiMeaning": "પાર ગયું", "hindiMeaning": "पार गया" },
+                "V3": { "word": "Transcended", "gujaratiPronunciation": "ટ્રાન્સેન્ડેડ", "hindiPronunciation": "ट्रांसेंडेड", "gujaratiMeaning": "પાર ગયેલું", "hindiMeaning": "पार गया हुआ" },
+                "V4": { "word": "Transcending", "gujaratiPronunciation": "ટ્રાન્સેન્ડિંગ", "hindiPronunciation": "ट्रांसेंडिंग", "gujaratiMeaning": "પાર જઈ રહ્યું છે", "hindiMeaning": "पार जा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Surpass", "gujaratiPronunciation": "સરપાસ", "hindiPronunciation": "सरपास", "gujaratiMeaning": "વટાવી જવું", "hindiMeaning": "पार करना" },
+                { "word": "Exceed", "gujaratiPronunciation": "એક્સીડ", "hindiPronunciation": "एक्सीड", "gujaratiMeaning": "વધી જવું", "hindiMeaning": "अधिक होना" }
+            ],
+            "antonyms": [
+                { "word": "Be limited", "gujaratiPronunciation": "બી લિમિટેડ", "hindiPronunciation": "बी लिमिटेड", "gujaratiMeaning": "મર્યાદિત રહેવું", "hindiMeaning": "सीमित होना" },
+                { "word": "Fall behind", "gujaratiPronunciation": "ફોલ બિહાઈન્ડ", "hindiPronunciation": "फॉल बिहाइंड", "gujaratiMeaning": "પાછળ રહેવું", "hindiMeaning": "पीछे रहना" }
+            ],
+            "confusingWords": [
+                { "word": "Transaction", "gujaratiPronunciation": "ટ્રાન્ઝેક્શન", "hindiPronunciation": "ट्रांजैक्शन", "gujaratiMeaning": "વ્યવહાર", "hindiMeaning": "लेन-देन" },
+                { "word": "Descend", "gujaratiPronunciation": "ડિસેન્ડ", "hindiPronunciation": "डिसेंड", "gujaratiMeaning": "નીચે ઉતરવું", "hindiMeaning": "नीचे उतरना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "His art transcends traditional boundaries.",
+                    "gujaratiPronunciation": "હિઝ આર્ટ ટ્રાન્સેન્ડ્સ ટ્રેડિશનલ બાઉન્ડ્રીઝ.",
+                    "hindiPronunciation": "हिज आर्ट ट्रांसेंड्स ट्रेडिशनल बाउंड्रीज।",
+                    "gujaratiTranslation": "તેમની કલા પરંપરાગત સીમાઓને પાર કરે છે.",
+                    "hindiTranslation": "उनकी कला पारंपरिक सीमाओं से परे है।"
+                }
+            ]
+        },
+        {
+            "word": "Conquer",
+            "gujaratiPronunciation": "કોન્કર",
+            "hindiPronunciation": "कॉन्कर",
+            "gujaratiMeaning": "જીતવું",
+            "hindiMeaning": "जीतना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Conquer", "gujaratiPronunciation": "કોન્કર", "hindiPronunciation": "कॉन्कर", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+                "V2": { "word": "Conquered", "gujaratiPronunciation": "કોન્કર્ડ", "hindiPronunciation": "कॉन्कर्ड", "gujaratiMeaning": "જીત્યું", "hindiMeaning": "जीता" },
+                "V3": { "word": "Conquered", "gujaratiPronunciation": "કોન્કર્ડ", "hindiPronunciation": "कॉन्कर्ड", "gujaratiMeaning": "જીતેલું", "hindiMeaning": "जीता हुआ" },
+                "V4": { "word": "Conquering", "gujaratiPronunciation": "કોન્કરિંગ", "hindiPronunciation": "कॉन्करिंग", "gujaratiMeaning": "જીતી રહ્યું છે", "hindiMeaning": "जीत रहा है" }
+            },
+            "synonyms": [
+                { "word": "Vanquish", "gujaratiPronunciation": "વેન્ક્વિશ", "hindiPronunciation": "वैंक्विश", "gujaratiMeaning": "પરાસ્ત કરવું", "hindiMeaning": "परास्त करना" },
+                { "word": "Overcome", "gujaratiPronunciation": "ઓવરકમ", "hindiPronunciation": "ओवरकम", "gujaratiMeaning": "કાબુ મેળવવો", "hindiMeaning": "काबू पाना" }
+            ],
+            "antonyms": [
+                { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज", "gujaratiMeaning": "હારવું", "hindiMeaning": "हारना" },
+                { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" }
+            ],
+            "confusingWords": [
+                { "word": "Concurrent", "gujaratiPronunciation": "કોન્કરન્ટ", "hindiPronunciation": "कॉनकरेंट", "gujaratiMeaning": "એક સાથે", "hindiMeaning": "समवर्ती" },
+                { "word": "Concrete", "gujaratiPronunciation": "કોન્ક્રીટ", "hindiPronunciation": "कंक्रीट", "gujaratiMeaning": "કોંક્રિટ", "hindiMeaning": "कंक्रीट" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Alexander the Great conquered a vast empire.",
+                    "gujaratiPronunciation": "એલેક્ઝાન્ડર ધ ગ્રેટ કોન્કર્ડ અ વાસ્ટ એમ્પાયર.",
+                    "hindiPronunciation": "एलेग्जेंडर द ग्रेट कॉन्कर्ड अ वास्ट एम्पायर।",
+                    "gujaratiTranslation": "એલેક્ઝાન્ડર ધ ગ્રેટે એક વિશાળ સામ્રાજ્ય જીત્યું.",
+                    "hindiTranslation": "सिकंदर महान ने एक विशाल साम्राज्य पर विजय प्राप्त की।"
+                }
+            ]
+        },
+        {
+            "word": "Legacy",
+            "gujaratiPronunciation": "લેગસી",
+            "hindiPronunciation": "लेगेसी",
+            "gujaratiMeaning": "વારસો",
+            "hindiMeaning": "विरासत",
+            "partOfSpeech": "noun",
+            "verbForms": {
+                 "V1": { "word": "N/A", "gujaratiPronunciation": "N/A", "hindiPronunciation": "N/A", "gujaratiMeaning": "લાગુ પડતું નથી", "hindiMeaning": "लागू नहीं" },
+                 "V2": { "word": "N/A", "gujaratiPronunciation": "N/A", "hindiPronunciation": "N/A", "gujaratiMeaning": "લાગુ પડતું નથી", "hindiMeaning": "लागू नहीं" },
+                 "V3": { "word": "N/A", "gujaratiPronunciation": "N/A", "hindiPronunciation": "N/A", "gujaratiMeaning": "લાગુ પડતું નથી", "hindiMeaning": "लागू नहीं" },
+                 "V4": { "word": "N/A", "gujaratiPronunciation": "N/A", "hindiPronunciation": "N/A", "gujaratiMeaning": "લાગુ પડતું નથી", "hindiMeaning": "लागू नहीं" }
+            },
+            "synonyms": [
+                { "word": "Heritage", "gujaratiPronunciation": "હેરિટેજ", "hindiPronunciation": "हेरिटेज", "gujaratiMeaning": "વિરાસત", "hindiMeaning": "विरासत" },
+                { "word": "Inheritance", "gujaratiPronunciation": "ઇનહેરિટન્સ", "hindiPronunciation": "इन्हेरिटेंस", "gujaratiMeaning": "વારસો", "hindiMeaning": "उत्तराधिकार" }
+            ],
+            "antonyms": [
+                { "word": "Novelty", "gujaratiPronunciation": "નોવેલ્ટી", "hindiPronunciation": "नोवेल्टी", "gujaratiMeaning": "નવીનતા", "hindiMeaning": "नवीनता" },
+                { "word": "Innovation", "gujaratiPronunciation": "ઇનોવેશન", "hindiPronunciation": "इनोवेशन", "gujaratiMeaning": "નવીનતા", "hindiMeaning": "नवाचार" }
+            ],
+            "confusingWords": [
+                { "word": "Legal", "gujaratiPronunciation": "લીગલ", "hindiPronunciation": "लीगल", "gujaratiMeaning": "કાનૂની", "hindiMeaning": "कानूनी" },
+                { "word": "Allegacy", "gujaratiPronunciation": "એલિગસી", "hindiPronunciation": "एलिगेसी", "gujaratiMeaning": "(કોઈ શબ્દ નથી)", "hindiMeaning": "(कोई शब्द नहीं)" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He left a legacy of peace and prosperity.",
+                    "gujaratiPronunciation": "હી લેફ્ટ અ લેગસી ઓફ પીસ એન્ડ પ્રોસ્પરિટી.",
+                    "hindiPronunciation": "ही लेफ्ट अ लेगेसी ऑफ पीस एंड प्रॉस्पेरिटी।",
+                    "gujaratiTranslation": "તેમણે શાંતિ અને સમૃદ્ધિનો વારસો છોડ્યો.",
+                    "hindiTranslation": "उन्होंने शांति और समृद्धि की विरासत छोड़ी।"
+                }
+            ]
+        },
+        {
+            "word": "Perfect",
+            "gujaratiPronunciation": "પર્ફેક્ટ",
+            "hindiPronunciation": "परफेक्ट",
+            "gujaratiMeaning": "સંપૂર્ણ બનાવવું",
+            "hindiMeaning": "उत्तम बनाना",
+            "partOfSpeech": "verb/adjective",
+            "verbForms": {
+                "V1": { "word": "Perfect", "gujaratiPronunciation": "પર્ફેક્ટ", "hindiPronunciation": "परफेक्ट", "gujaratiMeaning": "સંપૂર્ણ બનાવવું", "hindiMeaning": "उत्तम बनाना" },
+                "V2": { "word": "Perfected", "gujaratiPronunciation": "પર્ફેક્ટેડ", "hindiPronunciation": "परफेक्टेड", "gujaratiMeaning": "સંપૂર્ણ બનાવ્યું", "hindiMeaning": "उत्तम बनाया" },
+                "V3": { "word": "Perfected", "gujaratiPronunciation": "પર્ફેક્ટેડ", "hindiPronunciation": "परफेक्टेड", "gujaratiMeaning": "સંપૂર્ણ બનાવેલું", "hindiMeaning": "उत्तम बनाया हुआ" },
+                "V4": { "word": "Perfecting", "gujaratiPronunciation": "પર્ફેક્ટિંગ", "hindiPronunciation": "परफेक्टिंग", "gujaratiMeaning": "સંપૂર્ણ બનાવી રહ્યું છે", "hindiMeaning": "उत्तम बना रहा है" }
+            },
+            "synonyms": [
+                { "word": "Refine", "gujaratiPronunciation": "રિફાઇન", "hindiPronunciation": "रिफाइन", "gujaratiMeaning": "સુધારવું", "hindiMeaning": "सुधारना" },
+                { "word": "Polish", "gujaratiPronunciation": "પોલિશ", "hindiPronunciation": "पॉलिश", "gujaratiMeaning": "ચમકાવવું", "hindiMeaning": "चमकाना" }
+            ],
+            "antonyms": [
+                { "word": "Worsen", "gujaratiPronunciation": "વર્સન", "hindiPronunciation": "वर्सन", "gujaratiMeaning": "બગાડવું", "hindiMeaning": "बिगाड़ना" },
+                { "word": "Flaw", "gujaratiPronunciation": "ફ્લો", "hindiPronunciation": "फ्लॉ", "gujaratiMeaning": "ખામી", "hindiMeaning": "दोष" }
+            ],
+            "confusingWords": [
+                { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" },
+                { "word": "Perplex", "gujaratiPronunciation": "પર્પ્લેક્સ", "hindiPronunciation": "परप्लेक्स", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She spent years perfecting her violin skills.",
+                    "gujaratiPronunciation": "શી સ્પેન્ટ યર્સ પર્ફેક્ટિંગ હર વાયોલિન સ્કિલ્સ.",
+                    "hindiPronunciation": "शी स्पेंट इयर्स परफेक्टिंग हर वायलिन स्किल्स।",
+                    "gujaratiTranslation": "તેણીએ તેની વાયોલિન કુશળતાને સંપૂર્ણ બનાવવા માટે વર્ષો વિતાવ્યા.",
+                    "hindiTranslation": "उसने अपनी वायलिन कौशल को उत्तम बनाने में वर्षों बिताए।"
+                }
+            ]
+        }
+    ]
+}

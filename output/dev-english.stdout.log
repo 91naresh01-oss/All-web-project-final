@@ -1,0 +1,210 @@
+
+> edu-platform@ dev:english C:\Users\NARESH\OneDrive\Desktop\one web\edu-platform
+> turbo dev --filter=@edu/english
+
+
+   • Packages in scope: @edu/english
+   • Running dev in 1 packages
+   • Remote caching disabled
+
+@edu/english:dev: cache bypass, force executing 0cd7eefc462cbe8a
+@edu/english:dev: 
+@edu/english:dev: > @edu/english@0.1.0 dev C:\Users\NARESH\OneDrive\Desktop\one web\edu-platform\apps\english
+@edu/english:dev: > next dev --turbopack -p 3001
+@edu/english:dev: 
+@edu/english:dev: ▲ Next.js 16.2.4 (Turbopack)
+@edu/english:dev: - Local:         http://localhost:3001
+@edu/english:dev: - Network:       http://10.139.11.212:3001
+@edu/english:dev: ✓ Ready in 650ms
+@edu/english:dev: ⚠ `eslint` configuration in next.config.js is no longer supported. See more info here: https://nextjs.org/docs/app/api-reference/cli/next#next-lint-options
+@edu/english:dev: ⚠ Invalid next.config.js options detected: 
+@edu/english:dev: ⚠     Unrecognized key(s) in object: 'eslint'
+@edu/english:dev: ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+@edu/english:dev: - Experiments (use with caution):
+@edu/english:dev:   · serverActions
+@edu/english:dev: 
+@edu/english:dev:  GET / 200 in 2.4s (next.js: 1698ms, application-code: 678ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 1013ms (next.js: 996ms, application-code: 17ms)
+@edu/english:dev:  GET / 200 in 103ms (next.js: 11ms, application-code: 92ms)
+@edu/english:dev: ○ Compiling /_not-found/page ...
+@edu/english:dev:  GET /english 404 in 8.2s (next.js: 8.1s, application-code: 93ms)
+@edu/english:dev:  GET / 200 in 112ms (next.js: 14ms, application-code: 99ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 19ms (next.js: 12ms, application-code: 7ms)
+@edu/english:dev:  GET / 200 in 92ms (next.js: 10ms, application-code: 82ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 30ms (next.js: 11ms, application-code: 19ms)
+@edu/english:dev:  GET / 200 in 77ms (next.js: 7ms, application-code: 70ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 10ms (next.js: 5ms, application-code: 5ms)
+@edu/english:dev:  GET /grammar?lang=gu 200 in 2.1s (next.js: 2.1s, application-code: 50ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 16ms (next.js: 5ms, application-code: 12ms)
+@edu/english:dev:  GET /grammar/active-passive-voice/test 200 in 2.3s (next.js: 2.3s, application-code: 51ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 15ms (next.js: 4ms, application-code: 11ms)
+@edu/english:dev:  GET /grammar/active-passive-voice/test/test-3 200 in 2.3s (next.js: 2.3s, application-code: 54ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 16ms (next.js: 8ms, application-code: 9ms)
+@edu/english:dev: [browser] React has detected a change in the order of Hooks called by GrammarTestRunner. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+@edu/english:dev: 
+@edu/english:dev:    Previous render            Next render
+@edu/english:dev:    ------------------------------------------------------
+@edu/english:dev: 1. useContext                 useContext
+@edu/english:dev: 2. useContext                 useContext
+@edu/english:dev: 3. useContext                 useContext
+@edu/english:dev: 4. useMemo                    useMemo
+@edu/english:dev: 5. useContext                 useContext
+@edu/english:dev: 6. useState                   useState
+@edu/english:dev: 7. useState                   useState
+@edu/english:dev: 8. useState                   useState
+@edu/english:dev: 9. useState                   useState
+@edu/english:dev: 10. useState                  useState
+@edu/english:dev: 11. useState                  useState
+@edu/english:dev: 12. useState                  useState
+@edu/english:dev: 13. useState                  useState
+@edu/english:dev: 14. useState                  useState
+@edu/english:dev: 15. useEffect                 useEffect
+@edu/english:dev: 16. undefined                 useContext
+@edu/english:dev:    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+@edu/english:dev:  
+@edu/english:dev:     at updateHookTypesDev (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:4587:25)
+@edu/english:dev:     at Object.useContext (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:15436:13)
+@edu/english:dev:     at exports.useContext (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_0cmiktv._.js:1712:27)
+@edu/english:dev:     at useAppState (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/apps_english_src_0ydvb0b._.js:9085:302)
+@edu/english:dev:     at GrammarTestRunner (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/apps_english_src_0_qigcz._.js:1052:197)
+@edu/english:dev:     at Object.react_stack_bottom_frame (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:15037:24)
+@edu/english:dev:     at renderWithHooks (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:4620:24)
+@edu/english:dev:     at updateFunctionComponent (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:6081:21)
+@edu/english:dev:     at beginWork (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:6691:24)
+@edu/english:dev:     at runWithFiberInDEV (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:965:74)
+@edu/english:dev:     at performUnitOfWork (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9555:97)
+@edu/english:dev:     at workLoopSync (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9449:40)
+@edu/english:dev:     at renderRootSync (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9433:13)
+@edu/english:dev:     at performWorkOnRoot (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9061:186)
+@edu/english:dev:     at performWorkOnRootViaSchedulerTask (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:10255:9)
+@edu/english:dev:     at MessagePort.performWorkUntilDeadline (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_0cmiktv._.js:2647:64) (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:4587:25)
+@edu/english:dev:  GET /grammar/active-passive-voice/test/test-3 200 in 155ms (next.js: 21ms, application-code: 133ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 77ms (next.js: 63ms, application-code: 13ms)
+@edu/english:dev: [browser] React has detected a change in the order of Hooks called by GrammarTestRunner. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+@edu/english:dev: 
+@edu/english:dev:    Previous render            Next render
+@edu/english:dev:    ------------------------------------------------------
+@edu/english:dev: 1. useContext                 useContext
+@edu/english:dev: 2. useContext                 useContext
+@edu/english:dev: 3. useContext                 useContext
+@edu/english:dev: 4. useMemo                    useMemo
+@edu/english:dev: 5. useContext                 useContext
+@edu/english:dev: 6. useState                   useState
+@edu/english:dev: 7. useState                   useState
+@edu/english:dev: 8. useState                   useState
+@edu/english:dev: 9. useState                   useState
+@edu/english:dev: 10. useState                  useState
+@edu/english:dev: 11. useState                  useState
+@edu/english:dev: 12. useState                  useState
+@edu/english:dev: 13. useState                  useState
+@edu/english:dev: 14. useState                  useState
+@edu/english:dev: 15. useEffect                 useEffect
+@edu/english:dev: 16. undefined                 useContext
+@edu/english:dev:    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+@edu/english:dev:  
+@edu/english:dev:     at updateHookTypesDev (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:4587:25)
+@edu/english:dev:     at Object.useContext (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:15436:13)
+@edu/english:dev:     at exports.useContext (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_0cmiktv._.js:1712:27)
+@edu/english:dev:     at useAppState (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/apps_english_src_0ydvb0b._.js:9085:302)
+@edu/english:dev:     at GrammarTestRunner (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/apps_english_src_0_qigcz._.js:1052:197)
+@edu/english:dev:     at Object.react_stack_bottom_frame (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:15037:24)
+@edu/english:dev:     at renderWithHooks (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:4620:24)
+@edu/english:dev:     at updateFunctionComponent (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:6081:21)
+@edu/english:dev:     at beginWork (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:6691:24)
+@edu/english:dev:     at runWithFiberInDEV (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:965:74)
+@edu/english:dev:     at performUnitOfWork (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9555:97)
+@edu/english:dev:     at workLoopSync (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9449:40)
+@edu/english:dev:     at renderRootSync (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9433:13)
+@edu/english:dev:     at performWorkOnRoot (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9061:186)
+@edu/english:dev:     at performSyncWorkOnRoot (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:10263:9)
+@edu/english:dev:     at flushSyncWorkAcrossRoots_impl (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:10179:316)
+@edu/english:dev:     at flushSpawnedWork (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9939:13)
+@edu/english:dev:     at commitRoot (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9746:441)
+@edu/english:dev:     at completeRoot (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9711:13)
+@edu/english:dev:     at completeRootWhenReady (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9187:9)
+@edu/english:dev:     at performWorkOnRoot (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9159:25)
+@edu/english:dev:     at performWorkOnRootViaSchedulerTask (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:10255:9)
+@edu/english:dev:     at MessagePort.performWorkUntilDeadline (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_0cmiktv._.js:2647:64) (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:4587:25)
+@edu/english:dev:  GET /grammar/active-passive-voice/test 200 in 51ms (next.js: 12ms, application-code: 39ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 12ms (next.js: 3ms, application-code: 9ms)
+@edu/english:dev:  GET /grammar 200 in 35ms (next.js: 9ms, application-code: 26ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 17ms (next.js: 7ms, application-code: 9ms)
+@edu/english:dev: Error: Route "/grammar/[topic]" used `params.topic`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+@edu/english:dev:     at GrammarTopicPage (src\app\grammar\[topic]\page.tsx:40:26)
+@edu/english:dev:   38 |
+@edu/english:dev:   39 | export default async function GrammarTopicPage({ params, searchParams }: { params: { topic...
+@edu/english:dev: > 40 |   const topicId = params.topic;
+@edu/english:dev:      |                          ^
+@edu/english:dev:   41 |   const lang = searchParams?.lang;
+@edu/english:dev:   42 |   const { data: topicData, error } = await getTopicData(topicId, lang);
+@edu/english:dev:   43 |
+@edu/english:dev:  GET /grammar/adverbs 200 in 3.0s (next.js: 2.9s, generate-params: 518ms, application-code: 78ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 13ms (next.js: 6ms, application-code: 7ms)
+@edu/english:dev:  GET /grammar 200 in 40ms (next.js: 11ms, application-code: 29ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 9ms (next.js: 4ms, application-code: 5ms)
+@edu/english:dev: ✓ Compiled in 873ms
+@edu/english:dev:  GET /grammar 200 in 176ms (next.js: 95ms, application-code: 82ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 88ms (next.js: 78ms, application-code: 10ms)
+@edu/english:dev:  GET /grammar 200 in 465ms (next.js: 11ms, application-code: 454ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 19ms (next.js: 13ms, application-code: 5ms)
+@edu/english:dev:  GET /grammar/active-passive-voice/test 200 in 64ms (next.js: 23ms, application-code: 42ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 21ms (next.js: 6ms, application-code: 15ms)
+@edu/english:dev:  GET /grammar/active-passive-voice/test/test-1 200 in 585ms (next.js: 517ms, application-code: 68ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 12ms (next.js: 4ms, application-code: 8ms)
+@edu/english:dev: [browser] React has detected a change in the order of Hooks called by GrammarTestRunner. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://react.dev/link/rules-of-hooks
+@edu/english:dev: 
+@edu/english:dev:    Previous render            Next render
+@edu/english:dev:    ------------------------------------------------------
+@edu/english:dev: 1. useContext                 useContext
+@edu/english:dev: 2. useContext                 useContext
+@edu/english:dev: 3. useContext                 useContext
+@edu/english:dev: 4. useMemo                    useMemo
+@edu/english:dev: 5. useContext                 useContext
+@edu/english:dev: 6. useState                   useState
+@edu/english:dev: 7. useState                   useState
+@edu/english:dev: 8. useState                   useState
+@edu/english:dev: 9. useState                   useState
+@edu/english:dev: 10. useState                  useState
+@edu/english:dev: 11. useState                  useState
+@edu/english:dev: 12. useState                  useState
+@edu/english:dev: 13. useState                  useState
+@edu/english:dev: 14. useState                  useState
+@edu/english:dev: 15. useEffect                 useEffect
+@edu/english:dev: 16. undefined                 useContext
+@edu/english:dev:    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+@edu/english:dev:  
+@edu/english:dev:     at updateHookTypesDev (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:4587:25)
+@edu/english:dev:     at Object.useContext (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:15436:13)
+@edu/english:dev:     at exports.useContext (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_0cmiktv._.js:1712:27)
+@edu/english:dev:     at useAppState (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/apps_english_src_0ydvb0b._.js:9085:302)
+@edu/english:dev:     at GrammarTestRunner (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/apps_english_src_0_qigcz._.js:1052:197)
+@edu/english:dev:     at Object.react_stack_bottom_frame (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:15037:24)
+@edu/english:dev:     at renderWithHooks (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:4620:24)
+@edu/english:dev:     at updateFunctionComponent (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:6081:21)
+@edu/english:dev:     at beginWork (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:6691:24)
+@edu/english:dev:     at runWithFiberInDEV (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:965:74)
+@edu/english:dev:     at performUnitOfWork (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9555:97)
+@edu/english:dev:     at workLoopSync (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9449:40)
+@edu/english:dev:     at renderRootSync (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9433:13)
+@edu/english:dev:     at performWorkOnRoot (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:9061:186)
+@edu/english:dev:     at performWorkOnRootViaSchedulerTask (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:10255:9)
+@edu/english:dev:     at MessagePort.performWorkUntilDeadline (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_0cmiktv._.js:2647:64) (file://C:/Users/NARESH/OneDrive/Desktop/one web/edu-platform/apps/english/.next/dev/static/chunks/09yn_next_dist_compiled_react-dom_0_~8o0e._.js:4587:25)
+@edu/english:dev:  GET /grammar/active-passive-voice/test/test-1 200 in 338ms (next.js: 18ms, application-code: 321ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 9ms (next.js: 5ms, application-code: 4ms)
+@edu/english:dev:  GET /grammar/active-passive-voice/test 200 in 46ms (next.js: 17ms, application-code: 29ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 15ms (next.js: 7ms, application-code: 8ms)
+@edu/english:dev:  GET /grammar/active-passive-voice/test/test-5 200 in 51ms (next.js: 15ms, application-code: 36ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 18ms (next.js: 9ms, application-code: 9ms)
+@edu/english:dev:  GET /grammar/active-passive-voice/test 200 in 41ms (next.js: 14ms, application-code: 27ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 8ms (next.js: 3ms, application-code: 5ms)
+@edu/english:dev:  GET / 200 in 47ms (next.js: 19ms, application-code: 28ms)
+@edu/english:dev:  GET /manifest.webmanifest 200 in 8ms (next.js: 3ms, application-code: 5ms)
+@edu/english:dev: [?25h
+@edu/english:dev:  ELIFECYCLE  Command failed with exit code 3221226505.
+
+ Tasks:    0 successful, 1 total
+Cached:    0 cached, 1 total
+  Time:    32m31.147s 
+Failed:    @edu/english#dev
+
+ ELIFECYCLE  Command failed with exit code 3221226505.

@@ -1,0 +1,76 @@
+{
+  "id": "level-3",
+  "title": "Feelings and Actions 3",
+  "words": [
+    {
+      "word": "Enjoy",
+      "gujaratiPronunciation": "એન્જોય",
+      "hindiPronunciation": "एंजॉय",
+      "gujaratiMeaning": "આનંદ માણવો",
+      "hindiMeaning": "आनंद लेना",
+      "exampleSentences": [
+        {
+          "sentence": "I enjoy playing football.",
+          "gujaratiTranslation": "મને ફૂટબોલ રમવાનો આનંદ આવે છે.",
+          "hindiTranslation": "मुझे फुटबॉल खेलने में मजा आता है।"
+        }
+      ]
+    },
+    {
+      "word": "Care",
+      "gujaratiPronunciation": "કેર",
+      "hindiPronunciation": "केयर",
+      "gujaratiMeaning": "કાળજી",
+      "hindiMeaning": "देखभाल",
+      "exampleSentences": [
+        {
+          "sentence": "Take care of your health.",
+          "gujaratiTranslation": "તમારા સ્વાસ્થ્યની કાળજી લો.",
+          "hindiTranslation": "अपने स्वास्थ्य का ध्यान रखें।"
+        }
+      ]
+    },
+    {
+      "word": "Relax",
+      "gujaratiPronunciation": "રિલેક્સ",
+      "hindiPronunciation": "रिलैक्स",
+      "gujaratiMeaning": "આરામ કરવો",
+      "hindiMeaning": "आराम करना",
+      "exampleSentences": [
+        {
+          "sentence": "You should relax on weekends.",
+          "gujaratiTranslation": "તમારે સપ્તાહના અંતે આરામ કરવો જોઈએ.",
+          "hindiTranslation": "आपको सप्ताहांत पर आराम करना चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Miss",
+      "gujaratiPronunciation": "મિસ",
+      "hindiPronunciation": "मिस",
+      "gujaratiMeaning": "યાદ કરવું",
+      "hindiMeaning": "याद करना",
+      "exampleSentences": [
+        {
+          "sentence": "I miss my old friends.",
+          "gujaratiTranslation": "હું મારા જૂના મિત્રોને યાદ કરું છું.",
+          "hindiTranslation": "मुझे अपने पुराने दोस्तों की याद आती है।"
+        }
+      ]
+    },
+    {
+      "word": "Help",
+      "gujaratiPronunciation": "હેલ્પ",
+      "hindiPronunciation": "हेल्प",
+      "gujaratiMeaning": "મદદ",
+      "hindiMeaning": "मदद",
+      "exampleSentences": [
+        {
+          "sentence": "Can you help me?",
+          "gujaratiTranslation": "શું તમે મારી મદદ કરી શકો છો?",
+          "hindiTranslation": "क्या आप मेरी मदद कर सकते हैं?"
+        }
+      ]
+    }
+  ]
+}

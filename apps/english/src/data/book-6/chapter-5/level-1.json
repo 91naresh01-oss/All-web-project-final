@@ -1,0 +1,491 @@
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Pray",
+            "gujaratiPronunciation": "પ્રે",
+            "hindiPronunciation": "प्रे",
+            "gujaratiMeaning": "પ્રાર્થના કરવી",
+            "hindiMeaning": "प्रार्थना करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Pray",
+                    "gujaratiPronunciation": "પ્રે",
+                    "hindiPronunciation": "प्रे",
+                    "gujaratiMeaning": "પ્રાર્થના કરવી",
+                    "hindiMeaning": "प्रार्थना करना"
+                },
+                "V2 (Past)": {
+                    "word": "Prayed",
+                    "gujaratiPronunciation": "પ્રેડ",
+                    "hindiPronunciation": "प्रेयड",
+                    "gujaratiMeaning": "પ્રાર્થના કરી",
+                    "hindiMeaning": "प्रार्थना की"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Prayed",
+                    "gujaratiPronunciation": "પ્રેડ",
+                    "hindiPronunciation": "प्रेयड",
+                    "gujaratiMeaning": "પ્રાર્થના કરેલી",
+                    "hindiMeaning": "प्रार्थना की हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Praying",
+                    "gujaratiPronunciation": "પ્રેઇંગ",
+                    "hindiPronunciation": "प्रेइंग",
+                    "gujaratiMeaning": "પ્રાર્થના કરી રહ્યા છે",
+                    "hindiMeaning": "प्रार्थना कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Implore",
+                    "gujaratiPronunciation": "ઇમ્પ્લોર",
+                    "hindiPronunciation": "इम्प्लोर",
+                    "gujaratiMeaning": "આજીજી કરવી",
+                    "hindiMeaning": "विनती करना"
+                },
+                {
+                    "word": "Beseech",
+                    "gujaratiPronunciation": "બિસીચ",
+                    "hindiPronunciation": "बिसीच",
+                    "gujaratiMeaning": "વિનંતી કરવી",
+                    "hindiMeaning": "याचना करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Curse",
+                    "gujaratiPronunciation": "કર્સ",
+                    "hindiPronunciation": "कर्स",
+                    "gujaratiMeaning": "શ્રાપ આપવો",
+                    "hindiMeaning": "श्राप देना"
+                },
+                {
+                    "word": "Blaspheme",
+                    "gujaratiPronunciation": "બ્લાસ્ફીમ",
+                    "hindiPronunciation": "ब्लास्फेम",
+                    "gujaratiMeaning": "ઈશ્વરનિંદા કરવી",
+                    "hindiMeaning": "ईशनिंदा करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Prey",
+                    "gujaratiPronunciation": "પ્રે",
+                    "hindiPronunciation": "प्रे",
+                    "gujaratiMeaning": "શિકાર",
+                    "hindiMeaning": "शिकार",
+                    "difference": "Pray (પ્રાર્થના કરવી) એ ક્રિયા છે, જ્યારે Prey (શિકાર) એ પ્રાણી છે જેને શિકારી મારે છે."
+                },
+                {
+                    "word": "Pry",
+                    "gujaratiPronunciation": "પ્રાય",
+                    "hindiPronunciation": "प्राइ",
+                    "gujaratiMeaning": "ડોકિયું કરવું",
+                    "hindiMeaning": "ताक-झाँक करना",
+                    "difference": "Pray એ આધ્યાત્મિક ક્રિયા છે, જ્યારે Pry એ કોઈની અંગત બાબતોમાં દખલ દેવી છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Many people pray for peace and happiness.",
+                    "gujaratiPronunciation": "મેની પીપલ પ્રે ફોર પીસ એન્ડ હેપીનેસ.",
+                    "hindiPronunciation": "मेनी पीपल प्रे फॉर पीस एंड हैप्पीनेस।",
+                    "gujaratiTranslation": "ઘણા લોકો શાંતિ અને સુખ માટે પ્રાર્થના કરે છે.",
+                    "hindiTranslation": "कई लोग शांति और खुशी के लिए प्रार्थना करते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Believe",
+            "gujaratiPronunciation": "બિલીવ",
+            "hindiPronunciation": "बिलीव",
+            "gujaratiMeaning": "માનવું, વિશ્વાસ કરવો",
+            "hindiMeaning": "मानना, विश्वास करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Believe",
+                    "gujaratiPronunciation": "બિલીવ",
+                    "hindiPronunciation": "बिलीव",
+                    "gujaratiMeaning": "માનવું",
+                    "hindiMeaning": "मानना"
+                },
+                "V2 (Past)": {
+                    "word": "Believed",
+                    "gujaratiPronunciation": "બિલીવ્ડ",
+                    "hindiPronunciation": "बिलीव्ड",
+                    "gujaratiMeaning": "માન્યું",
+                    "hindiMeaning": "माना"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Believed",
+                    "gujaratiPronunciation": "બિલીવ્ડ",
+                    "hindiPronunciation": "बिलीव्ड",
+                    "gujaratiMeaning": "માનેલું",
+                    "hindiMeaning": "माना हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Believing",
+                    "gujaratiPronunciation": "બિલીવિંગ",
+                    "hindiPronunciation": "बिलीविंग",
+                    "gujaratiMeaning": "માની રહ્યા છે",
+                    "hindiMeaning": "मान रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Trust",
+                    "gujaratiPronunciation": "ટ્રસ્ટ",
+                    "hindiPronunciation": "ट्रस्ट",
+                    "gujaratiMeaning": "વિશ્વાસ કરવો",
+                    "hindiMeaning": "विश्वास करना"
+                },
+                {
+                    "word": "Accept",
+                    "gujaratiPronunciation": "એક્સેપ્ટ",
+                    "hindiPronunciation": "एक्सेप्ट",
+                    "gujaratiMeaning": "સ્વીકારવું",
+                    "hindiMeaning": "स्वीकार करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Doubt",
+                    "gujaratiPronunciation": "ડાઉટ",
+                    "hindiPronunciation": "डाउट",
+                    "gujaratiMeaning": "શંકા કરવી",
+                    "hindiMeaning": "संदेह करना"
+                },
+                {
+                    "word": "Reject",
+                    "gujaratiPronunciation": "રિજેક્ટ",
+                    "hindiPronunciation": "रिजेक्ट",
+                    "gujaratiMeaning": "અસ્વીકાર કરવો",
+                    "hindiMeaning": "अस्वीकार करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Belief",
+                    "gujaratiPronunciation": "બિલીફ",
+                    "hindiPronunciation": "बिलीफ़",
+                    "gujaratiMeaning": "માન્યતા",
+                    "hindiMeaning": "मान्यता",
+                    "difference": "Believe એ ક્રિયાપદ છે (માનવાની ક્રિયા), જ્યારે Belief એ સંજ્ઞા છે (માન્યતા)."
+                },
+                {
+                    "word": "Relieve",
+                    "gujaratiPronunciation": "રિલીવ",
+                    "hindiPronunciation": "रिलीव",
+                    "gujaratiMeaning": "રાહત આપવી",
+                    "hindiMeaning": "राहत देना",
+                    "difference": "Believe એ વિશ્વાસ સાથે સંબંધિત છે, જ્યારે Relieve એ દુઃખ કે તણાવ ઓછો કરવા સાથે સંબંધિત છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "I believe that honesty is the best policy.",
+                    "gujaratiPronunciation": "આઈ બિલીવ ધેટ ઓનેસ્ટી ઇઝ ધ બેસ્ટ પોલિસી.",
+                    "hindiPronunciation": "आई बिलीव दैट ऑनेस्टी इज़ द बेस्ट पॉलिसी।",
+                    "gujaratiTranslation": "હું માનું છું કે પ્રામાણિકતા શ્રેષ્ઠ નીતિ છે.",
+                    "hindiTranslation": "मैं मानता हूं कि ईमानदारी सबसे अच्छी नीति है।"
+                }
+            ]
+        },
+        {
+            "word": "Reflect",
+            "gujaratiPronunciation": "રિફ્લેક્ટ",
+            "hindiPronunciation": "रिफ्लेक्ट",
+            "gujaratiMeaning": "ચિંતન કરવું, પ્રતિબિંબિત કરવું",
+            "hindiMeaning": "चिंतन करना, प्रतिबिंबित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Reflect",
+                    "gujaratiPronunciation": "રિફ્લેક્ટ",
+                    "hindiPronunciation": "रिफ्लेक्ट",
+                    "gujaratiMeaning": "ચિંતન કરવું",
+                    "hindiMeaning": "चिंतन करना"
+                },
+                "V2 (Past)": {
+                    "word": "Reflected",
+                    "gujaratiPronunciation": "રિફ્લેક્ટેડ",
+                    "hindiPronunciation": "रिफ्लेक्टेड",
+                    "gujaratiMeaning": "ચિંતન કર્યું",
+                    "hindiMeaning": "चिंतन किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Reflected",
+                    "gujaratiPronunciation": "રિફ્લેક્ટેડ",
+                    "hindiPronunciation": "रिफ्लेक्टेड",
+                    "gujaratiMeaning": "ચિંતન કરેલું",
+                    "hindiMeaning": "चिंतन किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Reflecting",
+                    "gujaratiPronunciation": "રિફ્લેક્ટિંગ",
+                    "hindiPronunciation": "रिफ्लेक्टिंग",
+                    "gujaratiMeaning": "ચિંતન કરી રહ્યા છે",
+                    "hindiMeaning": "चिंतन कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Ponder",
+                    "gujaratiPronunciation": "પોન્ડર",
+                    "hindiPronunciation": "पॉन्डर",
+                    "gujaratiMeaning": "વિચારવું",
+                    "hindiMeaning": "विचार करना"
+                },
+                {
+                    "word": "Mirror",
+                    "gujaratiPronunciation": "મિરર",
+                    "hindiPronunciation": "मिरर",
+                    "gujaratiMeaning": "પ્રતિબિંબિત કરવું",
+                    "hindiMeaning": "प्रतिबिंबित करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Ignore",
+                    "gujaratiPronunciation": "ઇગ્નોર",
+                    "hindiPronunciation": "इग्नोर",
+                    "gujaratiMeaning": "અવગણવું",
+                    "hindiMeaning": "अनदेखा करना"
+                },
+                {
+                    "word": "Absorb",
+                    "gujaratiPronunciation": "એબ્સોર્બ",
+                    "hindiPronunciation": "एब्सॉर्ब",
+                    "gujaratiMeaning": "શોષી લેવું",
+                    "hindiMeaning": "सोख लेना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Deflect",
+                    "gujaratiPronunciation": "ડિફ્લેક્ટ",
+                    "hindiPronunciation": "डिफ्लेक्ट",
+                    "gujaratiMeaning": "વાળવું, વિચલિત કરવું",
+                    "hindiMeaning": "हटाना, विचलित करना",
+                    "difference": "Reflect એટલે પાછું ફેંકવું (પ્રકાશ) અથવા ઊંડો વિચાર કરવો. Deflect એટલે દિશા બદલી નાખવી."
+                },
+                {
+                    "word": "Inflect",
+                    "gujaratiPronunciation": "ઇન્ફ્લેક્ટ",
+                    "hindiPronunciation": "इन्फ्लेक्ट",
+                    "gujaratiMeaning": "સ્વર બદલવો",
+                    "hindiMeaning": "आवाज का उतार-चढ़ाव",
+                    "difference": "Reflect એ વિચાર કે પ્રતિબિંબ સાથે સંબંધિત છે, જ્યારે Inflect એ ભાષામાં સ્વરના ફેરફાર સાથે સંબંધિત છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He took some time to reflect on his decision.",
+                    "gujaratiPronunciation": "હી ટુક સમ ટાઈમ ટુ રિફ્લેક્ટ ઓન હીઝ ડિસિઝન.",
+                    "hindiPronunciation": "ही टुक सम टाइम टू रिफ्लेक्ट ऑन हिज़ डिसीजन।",
+                    "gujaratiTranslation": "તેણે પોતાના નિર્ણય પર ચિંતન કરવા માટે થોડો સમય લીધો.",
+                    "hindiTranslation": "उसने अपने निर्णय पर चिंतन करने के लिए कुछ समय लिया।"
+                }
+            ]
+        },
+        {
+            "word": "Seek",
+            "gujaratiPronunciation": "સીક",
+            "hindiPronunciation": "सीक",
+            "gujaratiMeaning": "શોધવું, માંગવું",
+            "hindiMeaning": "खोजना, माँगना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Seek",
+                    "gujaratiPronunciation": "સીક",
+                    "hindiPronunciation": "सीक",
+                    "gujaratiMeaning": "શોધવું",
+                    "hindiMeaning": "खोजना"
+                },
+                "V2 (Past)": {
+                    "word": "Sought",
+                    "gujaratiPronunciation": "સોટ",
+                    "hindiPronunciation": "सॉट",
+                    "gujaratiMeaning": "શોધ્યું",
+                    "hindiMeaning": "खोजा"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Sought",
+                    "gujaratiPronunciation": "સોટ",
+                    "hindiPronunciation": "सॉट",
+                    "gujaratiMeaning": "શોધેલું",
+                    "hindiMeaning": "खोजा हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Seeking",
+                    "gujaratiPronunciation": "સીકિંગ",
+                    "hindiPronunciation": "सीकिंग",
+                    "gujaratiMeaning": "શોધી રહ્યા છે",
+                    "hindiMeaning": "खोज रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Search",
+                    "gujaratiPronunciation": "સર્ચ",
+                    "hindiPronunciation": "सर्च",
+                    "gujaratiMeaning": "શોધવું",
+                    "hindiMeaning": "खोजना"
+                },
+                {
+                    "word": "Pursue",
+                    "gujaratiPronunciation": "પરસ્યુ",
+                    "hindiPronunciation": "परस्यु",
+                    "gujaratiMeaning": "પીછો કરવો",
+                    "hindiMeaning": "पीछा करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Avoid",
+                    "gujaratiPronunciation": "એવોઇડ",
+                    "hindiPronunciation": "अवॉइड",
+                    "gujaratiMeaning": "ટાળવું",
+                    "hindiMeaning": "टालना"
+                },
+                {
+                    "word": "Shun",
+                    "gujaratiPronunciation": "શન",
+                    "hindiPronunciation": "शन",
+                    "gujaratiMeaning": "દૂર રહેવું",
+                    "hindiMeaning": "दूर रहना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Sick",
+                    "gujaratiPronunciation": "સિક",
+                    "hindiPronunciation": "सिक",
+                    "gujaratiMeaning": "બીમાર",
+                    "hindiMeaning": "बीमार",
+                    "difference": "Seek એ શોધવાની ક્રિયા છે, જ્યારે Sick એ બીમાર હોવાની સ્થિતિ છે."
+                },
+                {
+                    "word": "Leak",
+                    "gujaratiPronunciation": "લીક",
+                    "hindiPronunciation": "लीक",
+                    "gujaratiMeaning": "ગળતર",
+                    "hindiMeaning": "रिसाव",
+                    "difference": "બંને શબ્દોનો ઉચ્ચાર અને અર્થ સંપૂર્ણપણે અલગ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Many people seek knowledge through books and experience.",
+                    "gujaratiPronunciation": "મેની પીપલ સીક નોલેજ થ્રુ બુક્સ એન્ડ એક્સપિરિયન્સ.",
+                    "hindiPronunciation": "मेनी पीपल सीक नॉलेज थ्रू बुक्स एंड एक्सपीरियंस।",
+                    "gujaratiTranslation": "ઘણા લોકો પુસ્તકો અને અનુભવ દ્વારા જ્ઞાન શોધે છે.",
+                    "hindiTranslation": "कई लोग किताबों और अनुभव के माध्यम से ज्ञान खोजते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Question",
+            "gujaratiPronunciation": "ક્વેશ્ચન",
+            "hindiPronunciation": "क्वेश्चन",
+            "gujaratiMeaning": "પ્રશ્ન કરવો, શંકા કરવી",
+            "hindiMeaning": "प्रश्न करना, संदेह करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Question",
+                    "gujaratiPronunciation": "ક્વેશ્ચન",
+                    "hindiPronunciation": "क्वेश्चन",
+                    "gujaratiMeaning": "પ્રશ્ન કરવો",
+                    "hindiMeaning": "प्रश्न करना"
+                },
+                "V2 (Past)": {
+                    "word": "Questioned",
+                    "gujaratiPronunciation": "ક્વેશ્ચન્ડ",
+                    "hindiPronunciation": "क्वेश्चन्ड",
+                    "gujaratiMeaning": "પ્રશ્ન કર્યો",
+                    "hindiMeaning": "प्रश्न किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Questioned",
+                    "gujaratiPronunciation": "ક્વેશ્ચન્ડ",
+                    "hindiPronunciation": "क्वेश्चन्ड",
+                    "gujaratiMeaning": "પ્રશ્ન કરેલો",
+                    "hindiMeaning": "प्रश्न किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Questioning",
+                    "gujaratiPronunciation": "ક્વેશ્ચનિંગ",
+                    "hindiPronunciation": "क्वेश्चनिंग",
+                    "gujaratiMeaning": "પ્રશ્ન કરી રહ્યા છે",
+                    "hindiMeaning": "प्रश्न कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Interrogate",
+                    "gujaratiPronunciation": "ઇન્ટેરોગેટ",
+                    "hindiPronunciation": "इंटररोगेट",
+                    "gujaratiMeaning": "પૂછપરછ કરવી",
+                    "hindiMeaning": "पूछताछ करना"
+                },
+                {
+                    "word": "Challenge",
+                    "gujaratiPronunciation": "ચેલેન્જ",
+                    "hindiPronunciation": "चैलेंज",
+                    "gujaratiMeaning": "પડકારવું",
+                    "hindiMeaning": "चुनौती देना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Answer",
+                    "gujaratiPronunciation": "આન્સર",
+                    "hindiPronunciation": "आंसर",
+                    "gujaratiMeaning": "જવાબ આપવો",
+                    "hindiMeaning": "उत्तर देना"
+                },
+                {
+                    "word": "Accept",
+                    "gujaratiPronunciation": "એક્સેપ્ટ",
+                    "hindiPronunciation": "एक्सेप्ट",
+                    "gujaratiMeaning": "સ્વીકારવું",
+                    "hindiMeaning": "स्वीकार करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Quest",
+                    "gujaratiPronunciation": "ક્વેસ્ટ",
+                    "hindiPronunciation": "क्वेस्ट",
+                    "gujaratiMeaning": "શોધ, તલાશ",
+                    "hindiMeaning": "खोज, तलाश",
+                    "difference": "Question એ પ્રશ્ન પૂછવાની ક્રિયા છે, જ્યારે Quest એ લાંબી શોધ છે."
+                },
+                {
+                    "word": "Quotation",
+                    "gujaratiPronunciation": "ક્વોટેશન",
+                    "hindiPronunciation": "क्वोटेशन",
+                    "gujaratiMeaning": "અવતરણ",
+                    "hindiMeaning": "उद्धरण",
+                    "difference": "બંને શબ્દોનો અર્થ અને ઉપયોગ સંપૂર્ણપણે અલગ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "It is important to question everything you hear.",
+                    "gujaratiPronunciation": "ઈટ ઇઝ ઇમ્પોર્ટન્ટ ટુ ક્વેશ્ચન એવરીથિંગ યુ હિયર.",
+                    "hindiPronunciation": "इट इज़ इम्पॉर्टेंट टू क्वेश्चन एवरीथिंग यू हियर।",
+                    "gujaratiTranslation": "તમે જે પણ સાંભળો છો તેના પર પ્રશ્ન કરવો મહત્વપૂર્ણ છે.",
+                    "hindiTranslation": "आप जो कुछ भी सुनते हैं, उस पर सवाल उठाना महत्वपूर्ण है।"
+                }
+            ]
+        }
+    ]
+}

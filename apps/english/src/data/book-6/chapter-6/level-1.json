@@ -1,0 +1,151 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Retreat",
+      "gujaratiPronunciation": "રિટ્રીટ",
+      "hindiPronunciation": "रिट्रीट",
+      "gujaratiMeaning": "પાછું હટવું",
+      "hindiMeaning": "पीछे हटना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Retreat", "gujaratiPronunciation": "રિટ્રીટ", "hindiPronunciation": "रिट्रीट", "gujaratiMeaning": "પાછું હટવું", "hindiMeaning": "पीछे हटना" },
+        "V2 (Past)": { "word": "Retreated", "gujaratiPronunciation": "રિટ્રીટેડ", "hindiPronunciation": "रिट्रीटेड", "gujaratiMeaning": "પાછું હટ્યું", "hindiMeaning": "पीछे हटा" },
+        "V3 (Past Participle)": { "word": "Retreated", "gujaratiPronunciation": "રિટ્રીટેડ", "hindiPronunciation": "रिट्रीटेड", "gujaratiMeaning": "પાછું હટેલું", "hindiMeaning": "पीछे हटा हुआ" },
+        "V4 (Present Participle)": { "word": "Retreating", "gujaratiPronunciation": "રિટ્રીટિંગ", "hindiPronunciation": "रिट्रीटिंग", "gujaratiMeaning": "પાછું હટી રહ્યું છે", "hindiMeaning": "पीछे हट रहा है" }
+      },
+      "synonyms": [
+        { "word": "Withdraw", "gujaratiPronunciation": "વિથડ્રો", "hindiPronunciation": "विथड्रॉ", "gujaratiMeaning": "પાછું ખેંચવું", "hindiMeaning": "वापस लेना" },
+        { "word": "Recede", "gujaratiPronunciation": "રિસીડ", "hindiPronunciation": "रिसीड", "gujaratiMeaning": "દૂર જવું", "hindiMeaning": "दूर जाना" }
+      ],
+      "antonyms": [
+        { "word": "Advance", "gujaratiPronunciation": "એડવાન્સ", "hindiPronunciation": "एडवांस", "gujaratiMeaning": "આગળ વધવું", "hindiMeaning": "आगे बढ़ना" },
+        { "word": "Attack", "gujaratiPronunciation": "અટેક", "hindiPronunciation": "अटैक", "gujaratiMeaning": "હુમલો કરવો", "hindiMeaning": "आक्रमण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Retread", "gujaratiPronunciation": "રિટેડ", "hindiPronunciation": "रिट्रेड", "gujaratiMeaning": "ટાયર પર નવું રબર ચડાવવું", "hindiMeaning": "टायर पर नया रबर चढ़ाना" },
+        { "word": "Retort", "gujaratiPronunciation": "રિપોર્ટ", "hindiPronunciation": "रिटॉर्ट", "gujaratiMeaning": "વળતો જવાબ આપવો", "hindiMeaning": "प्रत्युत्तर देना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The army was forced to retreat.", "gujaratiPronunciation": "ધ આર્મી વોઝ ફોર્સ્ડ ટુ રિટ્રીટ.", "hindiPronunciation": "द आर्मी वॉज फोर्स्ड टू रिट्रीट।", "gujaratiTranslation": "સેનાને પાછા હટવાની ફરજ પડી.", "hindiTranslation": "सेना को पीछे हटने के लिए मजबूर होना पड़ा।" }
+      ]
+    },
+    {
+      "word": "Plan",
+      "gujaratiPronunciation": "પ્લાન",
+      "hindiPronunciation": "प्लान",
+      "gujaratiMeaning": "યોજના બનાવવી",
+      "hindiMeaning": "योजना बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "hindiPronunciation": "प्लान", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" },
+        "V2 (Past)": { "word": "Planned", "gujaratiPronunciation": "પ્લાન્ડ", "hindiPronunciation": "प्लान्ड", "gujaratiMeaning": "યોજના બનાવી", "hindiMeaning": "योजना बनाई" },
+        "V3 (Past Participle)": { "word": "Planned", "gujaratiPronunciation": "પ્લાન્ડ", "hindiPronunciation": "प्लान्ड", "gujaratiMeaning": "યોજના બનાવેલી", "hindiMeaning": "योजना बनाई हुई" },
+        "V4 (Present Participle)": { "word": "Planning", "gujaratiPronunciation": "પ્લાનિંગ", "hindiPronunciation": "प्लानिंग", "gujaratiMeaning": "યોજના બનાવી રહ્યું છે", "hindiMeaning": "योजना बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Scheme", "gujaratiPronunciation": "સ્કીમ", "hindiPronunciation": "स्कीम", "gujaratiMeaning": "યોજના", "hindiMeaning": "योजना" },
+        { "word": "Strategy", "gujaratiPronunciation": "સ્ટ્રેટેજી", "hindiPronunciation": "स्ट्रेटेजी", "gujaratiMeaning": "વ્યૂહરચના", "hindiMeaning": "रणनीति" }
+      ],
+      "antonyms": [
+        { "word": "Improvise", "gujaratiPronunciation": "ઇમ્પ્રોવાઇઝ", "hindiPronunciation": "इम्प्रोवाइज", "gujaratiMeaning": "તાત્કાલિક ગોઠવણ કરવી", "hindiMeaning": "तत्काल व्यवस्था करना" },
+        { "word": "React", "gujaratiPronunciation": "રિએક્ટ", "hindiPronunciation": "रिएक्ट", "gujaratiMeaning": "પ્રતિક્રિયા આપવી", "hindiMeaning": "प्रतिक्रिया देना" }
+      ],
+      "confusingWords": [
+        { "word": "Plane", "gujaratiPronunciation": "પ્લેન", "hindiPronunciation": "प्लेन", "gujaratiMeaning": "વિમાન", "hindiMeaning": "विमान" },
+        { "word": "Plain", "gujaratiPronunciation": "પ્લેઇન", "hindiPronunciation": "प्लेन", "gujaratiMeaning": "સાદું", "hindiMeaning": "सादा" }
+      ],
+      "exampleSentences": [
+        { "sentence": "They plan to launch a surprise attack.", "gujaratiPronunciation": "ધે પ્લાન ટુ લોન્ચ અ સરપ્રાઈઝ અટેક.", "hindiPronunciation": "दे प्लान टू लॉन्च अ सरप्राइज अटैक।", "gujaratiTranslation": "તેઓ અચાનક હુમલો કરવાની યોજના ધરાવે છે.", "hindiTranslation": "वे एक आश्चर्यजनक हमला करने की योजना बना रहे हैं।" }
+      ]
+    },
+    {
+      "word": "Invade",
+      "gujaratiPronunciation": "ઇન્વેડ",
+      "hindiPronunciation": "इन्वेड",
+      "gujaratiMeaning": "આક્રમણ કરવું",
+      "hindiMeaning": "आक्रमण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Invade", "gujaratiPronunciation": "ઇન્વેડ", "hindiPronunciation": "इन्वेड", "gujaratiMeaning": "આક્રમણ કરવું", "hindiMeaning": "आक्रमण करना" },
+        "V2 (Past)": { "word": "Invaded", "gujaratiPronunciation": "ઇન્વેડેડ", "hindiPronunciation": "इन्वेडेड", "gujaratiMeaning": "આક્રમણ કર્યું", "hindiMeaning": "आक्रमण किया" },
+        "V3 (Past Participle)": { "word": "Invaded", "gujaratiPronunciation": "ઇન્વેડેડ", "hindiPronunciation": "इन्वेडेड", "gujaratiMeaning": "આક્રમણ કરેલું", "hindiMeaning": "आक्रमण किया हुआ" },
+        "V4 (Present Participle)": { "word": "Invading", "gujaratiPronunciation": "ઇન્વેડિંગ", "hindiPronunciation": "इन्वेडिंग", "gujaratiMeaning": "આક્રમણ કરી રહ્યું છે", "hindiMeaning": "आक्रमण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Assault", "gujaratiPronunciation": "અસોલ્ટ", "hindiPronunciation": "असॉल्ट", "gujaratiMeaning": "હુમલો", "hindiMeaning": "हमला" },
+        { "word": "Trespass", "gujaratiPronunciation": "ટ્રેસપાસ", "hindiPronunciation": "ट्रेसपास", "gujaratiMeaning": "અતિક્રમણ કરવું", "hindiMeaning": "अतिक्रमण करना" }
+      ],
+      "antonyms": [
+        { "word": "Defend", "gujaratiPronunciation": "ડિફેન્ડ", "hindiPronunciation": "डिफेंड", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" },
+        { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "સુરક્ષિત કરવું", "hindiMeaning": "सुरक्षित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Evade", "gujaratiPronunciation": "ઇવેડ", "hindiPronunciation": "इवेड", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "बचना" },
+        { "word": "Invalid", "gujaratiPronunciation": "ઇનવેલિડ", "hindiPronunciation": "इनवैलिड", "gujaratiMeaning": "અમાન્ય", "hindiMeaning": "अमान्य" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The enemy forces began to invade the country.", "gujaratiPronunciation": "ધ એનિમી ફોર્સીસ બિગેન ટુ ઇન્વેડ ધ કન્ટ્રી.", "hindiPronunciation": "द एनिमी फोर्सेस बिगेन टू इन्वेड द कंट्री।", "gujaratiTranslation": "દુશ્મન સેનાએ દેશ પર આક્રમણ કરવાનું શરૂ કર્યું.", "hindiTranslation": "दुश्मन सेना ने देश पर आक्रमण करना शुरू कर दिया।" }
+      ]
+    },
+    {
+      "word": "Ambush",
+      "gujaratiPronunciation": "એમ્બુશ",
+      "hindiPronunciation": "एम्बुश",
+      "gujaratiMeaning": "ઘાત લગાવીને હુમલો કરવો",
+      "hindiMeaning": "घात लगाकर हमला करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Ambush", "gujaratiPronunciation": "એમ્બુશ", "hindiPronunciation": "एम्बुश", "gujaratiMeaning": "ઘાત લગાવીને હુમલો કરવો", "hindiMeaning": "घात लगाकर हमला करना" },
+        "V2 (Past)": { "word": "Ambushed", "gujaratiPronunciation": "એમ્બુશ્ડ", "hindiPronunciation": "एम्बुश्ड", "gujaratiMeaning": "ઘાત લગાવીને હુમલો કર્યો", "hindiMeaning": "घात लगाकर हमला किया" },
+        "V3 (Past Participle)": { "word": "Ambushed", "gujaratiPronunciation": "એમ્બુશ્ડ", "hindiPronunciation": "एम्बुश्ड", "gujaratiMeaning": "ઘાત લગાવીને હુમલો કરેલો", "hindiMeaning": "घात लगाकर हमला किया हुआ" },
+        "V4 (Present Participle)": { "word": "Ambushing", "gujaratiPronunciation": "એમ્બુશિંગ", "hindiPronunciation": "एम्बुशिंग", "gujaratiMeaning": "ઘાત લગાવીને હુમલો કરી રહ્યું છે", "hindiMeaning": "घात लगाकर हमला कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Trap", "gujaratiPronunciation": "ટ્રેપ", "hindiPronunciation": "ट्रैप", "gujaratiMeaning": "જાળ", "hindiMeaning": "जाल" },
+        { "word": "Surprise attack", "gujaratiPronunciation": "સરપ્રાઇઝ અટેક", "hindiPronunciation": "सरप्राइज अटैक", "gujaratiMeaning": "અચાનક હુમલો", "hindiMeaning": "अचानक हमला" }
+      ],
+      "antonyms": [
+        { "word": "Fair fight", "gujaratiPronunciation": "ફેર ફાઇટ", "hindiPronunciation": "फेयर फाइट", "gujaratiMeaning": "ખુલ્લી લડાઈ", "hindiMeaning": "खुली लड़ाई" },
+        { "word": "Warn", "gujaratiPronunciation": "વૉર્ન", "hindiPronunciation": "वॉर्न", "gujaratiMeaning": "ચેતવણી આપવી", "hindiMeaning": "चेतावनी देना" }
+      ],
+      "confusingWords": [
+        { "word": "Bush", "gujaratiPronunciation": "બુશ", "hindiPronunciation": "बुश", "gujaratiMeaning": "ઝાડવું", "hindiMeaning": "झाड़ी" },
+        { "word": "Ample", "gujaratiPronunciation": "એમ્પલ", "hindiPronunciation": "एम्पल", "gujaratiMeaning": "પૂરતું", "hindiMeaning": "पर्याप्त" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The soldiers were ready to ambush the enemy patrol.", "gujaratiPronunciation": "ધ સોલ્જર્સ વર રેડી ટુ એમ્બુશ ધ એનિમી પેટ્રૉલ.", "hindiPronunciation": "द सोल्जर्स वर रेडी टू एम्बुश द एनिमी पेट्रोल।", "gujaratiTranslation": "સૈનિકો દુશ્મનની પેટ્રોલિંગ ટુકડી પર ઘાત લગાવીને હુમલો કરવા તૈયાર હતા.", "hindiTranslation": "सैनिक दुश्मन की गश्ती दल पर घात लगाकर हमला करने के लिए तैयार थे।" }
+      ]
+    },
+    {
+      "word": "Blockade",
+      "gujaratiPronunciation": "બ્લોકેડ",
+      "hindiPronunciation": "ब्लॉकेड",
+      "gujaratiMeaning": "નાકાબંધી કરવી",
+      "hindiMeaning": "नाकाबंदी करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Blockade", "gujaratiPronunciation": "બ્લોકેડ", "hindiPronunciation": "ब्लॉकेड", "gujaratiMeaning": "નાકાબંધી કરવી", "hindiMeaning": "नाकाबंदी करना" },
+        "V2 (Past)": { "word": "Blockaded", "gujaratiPronunciation": "બ્લોકેડેડ", "hindiPronunciation": "ब्लॉकेडेड", "gujaratiMeaning": "નાકાબંધી કરી", "hindiMeaning": "नाकाबंदी की" },
+        "V3 (Past Participle)": { "word": "Blockaded", "gujaratiPronunciation": "બ્લોકેડેડ", "hindiPronunciation": "ब्लॉकेडेड", "gujaratiMeaning": "નાકાબંધી કરેલી", "hindiMeaning": "नाकाबंदी की हुई" },
+        "V4 (Present Participle)": { "word": "Blockading", "gujaratiPronunciation": "બ્લોકેડિંગ", "hindiPronunciation": "ब्लॉकेडिंग", "gujaratiMeaning": "નાકાબંધી કરી રહ્યું છે", "hindiMeaning": "नाकाबंदी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Besiege", "gujaratiPronunciation": "બિસીજ", "hindiPronunciation": "बिसीज", "gujaratiMeaning": "ઘેરો ઘાલવો", "hindiMeaning": "घेरा डालना" },
+        { "word": "Barricade", "gujaratiPronunciation": "બેરિકેડ", "hindiPronunciation": "बैरिकेड", "gujaratiMeaning": "આડશ", "hindiMeaning": "अवरोध" }
+      ],
+      "antonyms": [
+        { "word": "Open", "gujaratiPronunciation": "ઓપન", "hindiPronunciation": "ओपन", "gujaratiMeaning": "ખોલવું", "hindiMeaning": "खोलना" },
+        { "word": "Allow passage", "gujaratiPronunciation": "અલાઉ પેસેજ", "hindiPronunciation": "अलाउ पैसेज", "gujaratiMeaning": "માર્ગ આપવો", "hindiMeaning": "मार्ग देना" }
+      ],
+      "confusingWords": [
+        { "word": "Brochure", "gujaratiPronunciation": "બ્રોશર", "hindiPronunciation": "ब्रोशर", "gujaratiMeaning": "માહિતીપત્રિકા", "hindiMeaning": "विवरणिका" },
+        { "word": "Cascade", "gujaratiPronunciation": "કાસ્કેડ", "hindiPronunciation": "कास्केड", "gujaratiMeaning": "ધોધ", "hindiMeaning": "झरना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The navy will blockade the enemy's main port.", "gujaratiPronunciation": "ધ નેવી વિલ બ્લોકેડ ધ એનિમીઝ મેઇન પોર્ટ.", "hindiPronunciation": "द नेवी विल ब्लॉकेड द एनिमीज़ मेन पोर्ट।", "gujaratiTranslation": "નૌકાદળ દુશ્મનના મુખ્ય બંદરની નાકાબંધી કરશે.", "hindiTranslation": "नौसेना दुश्मन के मुख्य बंदरगाह की नाकाबंदी करेगी।" }
+      ]
+    }
+  ]
+}

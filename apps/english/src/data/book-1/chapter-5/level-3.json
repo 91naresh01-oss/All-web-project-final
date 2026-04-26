@@ -1,0 +1,47 @@
+
+{
+    "id": "level-3",
+    "title": "Animals 3",
+    "words": [
+        {
+            "word": "Lion",
+            "icon": "🦁",
+            "gujaratiPronunciation": "લાયન",
+            "hindiPronunciation": "लायन",
+            "gujaratiMeaning": "સિંહ",
+            "hindiMeaning": "शेर"
+        },
+        {
+            "word": "Tiger",
+            "icon": "🐯",
+            "gujaratiPronunciation": "ટાઇગર",
+            "hindiPronunciation": "टाइगर",
+            "gujaratiMeaning": "વાઘ",
+            "hindiMeaning": "बाघ"
+        },
+        {
+            "word": "Monkey",
+            "icon": "🐵",
+            "gujaratiPronunciation": "મંકી",
+            "hindiPronunciation": "मंकी",
+            "gujaratiMeaning": "વાંદરો",
+            "hindiMeaning": "बंदर"
+        },
+        {
+            "word": "Rat",
+            "icon": "🐀",
+            "gujaratiPronunciation": "રેટ",
+            "hindiPronunciation": "रैट",
+            "gujaratiMeaning": "ઉંદર",
+            "hindiMeaning": "चूहा"
+        },
+        {
+            "word": "Snake",
+            "icon": "🐍",
+            "gujaratiPronunciation": "સ્નેક",
+            "hindiPronunciation": "स्नेक",
+            "gujaratiMeaning": "સાપ",
+            "hindiMeaning": "सांप"
+        }
+    ]
+}

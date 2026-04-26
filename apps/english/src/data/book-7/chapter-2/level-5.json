@@ -1,0 +1,372 @@
+
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Analyze",
+            "gujaratiPronunciation": "એનલાઈઝ",
+            "hindiPronunciation": "एनालाइज़",
+            "gujaratiMeaning": "વિશ્લેષણ કરવું",
+            "hindiMeaning": "विश्लेषण करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Analyze",
+                    "pronunciation": "એનલાઈઝ",
+                    "meaning": "વિશ્લેષણ કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Analyzed",
+                    "pronunciation": "એનલાઈઝ્ડ",
+                    "meaning": "વિશ્લેષણ કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Analyzed",
+                    "pronunciation": "એનલાઈઝ્ડ",
+                    "meaning": "વિશ્લેષણ કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Analyzing",
+                    "pronunciation": "એનલાઈઝિંગ",
+                    "meaning": "વિશ્લેષણ કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Examine",
+                    "pronunciation": "એક્ઝામિન",
+                    "meaning": "તપાસવું"
+                },
+                {
+                    "word": "Study",
+                    "pronunciation": "સ્ટડી",
+                    "meaning": "અભ્યાસ કરવો"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Synthesize",
+                    "pronunciation": "સિન્થેસાઇઝ",
+                    "meaning": "સંશ્લેષણ કરવું"
+                },
+                {
+                    "word": "Ignore",
+                    "pronunciation": "ઇગ્નોર",
+                    "meaning": "અવગણવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Announce",
+                    "pronunciation": "અનાઉન્સ",
+                    "meaning": "જાહેરાત કરવી"
+                },
+                {
+                    "word": "Paralyze",
+                    "pronunciation": "પેરાલાઇઝ",
+                    "meaning": "લકવો થવો"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The software helps to analyze customer feedback to identify trends.",
+                    "gujaratiTranslation": "આ સોફ્ટવેર વલણોને ઓળખવા માટે ગ્રાહક પ્રતિસાદનું વિશ્લેષણ કરવામાં મદદ કરે છે.",
+                    "hindiTranslation": "यह सॉफ्टवेयर रुझानों की पहचान करने के लिए ग्राहकों की प्रतिक्रिया का विश्लेषण करने में मदद करता है।"
+                }
+            ]
+        },
+        {
+            "word": "Archive",
+            "gujaratiPronunciation": "આર્કાઇવ",
+            "hindiPronunciation": "आर्काइव",
+            "gujaratiMeaning": "સંગ્રહ કરવો",
+            "hindiMeaning": "संग्रहीत करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Archive",
+                    "pronunciation": "આર્કાઇવ",
+                    "meaning": "સંગ્રહ કરવો"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Archived",
+                    "pronunciation": "આર્કાઇવ્ડ",
+                    "meaning": "સંગ્રહ કર્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Archived",
+                    "pronunciation": "આર્કાઇવ્ડ",
+                    "meaning": "સંગ્રહ કરેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Archiving",
+                    "pronunciation": "આર્કાઇવિંગ",
+                    "meaning": "સંગ્રહ કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Store",
+                    "pronunciation": "સ્ટોર",
+                    "meaning": "સંગ્રહ કરવો"
+                },
+                {
+                    "word": "File",
+                    "pronunciation": "ફાઇલ",
+                    "meaning": "ફાઇલ કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Delete",
+                    "pronunciation": "ડિલીટ",
+                    "meaning": "કાઢી નાખવું"
+                },
+                {
+                    "word": "Activate",
+                    "pronunciation": "એક્ટિવેટ",
+                    "meaning": "સક્રિય કરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Achieve",
+                    "pronunciation": "અચીવ",
+                    "meaning": "પ્રાપ્ત કરવું"
+                },
+                {
+                    "word": "Hive",
+                    "pronunciation": "હાઇવ",
+                    "meaning": "મધપૂડો"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "After the project is complete, we will archive all the related documents.",
+                    "gujaratiTranslation": "પ્રોજેક્ટ પૂર્ણ થયા પછી, અમે બધા સંબંધિત દસ્તાવેજોનો સંગ્રહ કરીશું.",
+                    "hindiTranslation": "परियोजना पूरी होने के बाद, हम सभी संबंधित दस्तावेजों को संग्रहीत करेंगे।"
+                }
+            ]
+        },
+        {
+            "word": "Quantify",
+            "gujaratiPronunciation": "ક્વોન્ટિફાય",
+            "hindiPronunciation": "क्वांटिफाई",
+            "gujaratiMeaning": "માપવું",
+            "hindiMeaning": "मात्रा निर्धारित करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Quantify",
+                    "pronunciation": "ક્વોન્ટિફાય",
+                    "meaning": "માપવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Quantified",
+                    "pronunciation": "ક્વોન્ટિફાઇડ",
+                    "meaning": "માપ્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Quantified",
+                    "pronunciation": "ક્વોન્ટિફાઇડ",
+                    "meaning": "માપેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Quantifying",
+                    "pronunciation": "ક્વોન્ટિફાઇંગ",
+                    "meaning": "માપી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Measure",
+                    "pronunciation": "મેઝર",
+                    "meaning": "માપવું"
+                },
+                {
+                    "word": "Assess",
+                    "pronunciation": "અસેસ",
+                    "meaning": "મૂલ્યાંકન કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Estimate",
+                    "pronunciation": "એસ્ટિમેટ",
+                    "meaning": "અંદાજ કાઢવો"
+                },
+                {
+                    "word": "Qualify",
+                    "pronunciation": "ક્વોલિફાય",
+                    "meaning": "ગુણવત્તા નક્કી કરવી"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Qualify",
+                    "pronunciation": "ક્વોલિફાય",
+                    "meaning": "લાયક બનવું"
+                },
+                {
+                    "word": "Quantity",
+                    "pronunciation": "ક્વોન્ટિટી",
+                    "meaning": "જથ્થો"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "It is difficult to quantify the impact of the new marketing campaign.",
+                    "gujaratiTranslation": "નવા માર્કેટિંગ અભિયાનની અસરને માપવી મુશ્કેલ છે.",
+                    "hindiTranslation": "नए विपणन अभियान के प्रभाव को मापना मुश्किल है।"
+                }
+            ]
+        },
+        {
+            "word": "Model",
+            "gujaratiPronunciation": "મૉડલ",
+            "hindiPronunciation": "मॉडल",
+            "gujaratiMeaning": "નમૂનો બનાવવો",
+            "hindiMeaning": "मॉडल बनाना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Model",
+                    "pronunciation": "મૉડલ",
+                    "meaning": "નમૂનો બનાવવો"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Modeled",
+                    "pronunciation": "મૉડલ્ડ",
+                    "meaning": "નમૂનો બનાવ્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Modeled",
+                    "pronunciation": "મૉડલ્ડ",
+                    "meaning": "નમૂનો બનાવેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Modeling",
+                    "pronunciation": "મૉડલિંગ",
+                    "meaning": "નમૂનો બનાવી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Simulate",
+                    "pronunciation": "સિમ્યુલેટ",
+                    "meaning": "અનુકરણ કરવું"
+                },
+                {
+                    "word": "Represent",
+                    "pronunciation": "રેપ્રિઝેન્ટ",
+                    "meaning": "પ્રતિનિધિત્વ કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Actualize",
+                    "pronunciation": "એક્ચ્યુઅલાઇઝ",
+                    "meaning": "વાસ્તવિક બનાવવું"
+                },
+                {
+                    "word": "Distort",
+                    "pronunciation": "ડિસ્ટોર્ટ",
+                    "meaning": "વિકૃત કરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Medal",
+                    "pronunciation": "મેડલ",
+                    "meaning": "ચંદ્રક"
+                },
+                {
+                    "word": "Middle",
+                    "pronunciation": "મિડલ",
+                    "meaning": "વચ્ચેનું"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "We can model the potential outcomes based on the current data.",
+                    "gujaratiTranslation": "અમે વર્તમાન ડેટાના આધારે સંભવિત પરિણામોનો નમૂનો બનાવી શકીએ છીએ.",
+                    "hindiTranslation": "हम वर्तमान डेटा के आधार पर संभावित परिणामों का मॉडल बना सकते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Catalogue",
+            "gujaratiPronunciation": "કેટલોગ",
+            "hindiPronunciation": "कैटलॉग",
+            "gujaratiMeaning": "સૂચિ બનાવવી",
+            "hindiMeaning": "सूची बनाना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Catalogue",
+                    "pronunciation": "કેટલોગ",
+                    "meaning": "સૂચિ બનાવવી"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Catalogued",
+                    "pronunciation": "કેટલોગ્ડ",
+                    "meaning": "સૂચિ બનાવી"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Catalogued",
+                    "pronunciation": "કેટલોગ્ડ",
+                    "meaning": "સૂચિ બનાવેલી"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Cataloguing",
+                    "pronunciation": "કેટલોગિંગ",
+                    "meaning": "સૂચિ બનાવી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "List",
+                    "pronunciation": "લિસ્ટ",
+                    "meaning": "યાદી બનાવવી"
+                },
+                {
+                    "word": "Index",
+                    "pronunciation": "ઇન્ડેક્સ",
+                    "meaning": "અનુક્રમણિકા બનાવવી"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Disorganize",
+                    "pronunciation": "ડિસઓર્ગેનાઇઝ",
+                    "meaning": "અસ્તવ્યસ્ત કરવું"
+                },
+                {
+                    "word": "Scramble",
+                    "pronunciation": "સ્ક્રેમ્બલ",
+                    "meaning": "ગૂંચવવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Cattle",
+                    "pronunciation": "કેટલ",
+                    "meaning": "ઢોર"
+                },
+                {
+                    "word": "Dialogue",
+                    "pronunciation": "ડાયલોગ",
+                    "meaning": "સંવાદ"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The librarian's job is to catalogue all the new books.",
+                    "gujaratiTranslation": "ગ્રંથપાલનું કામ બધા નવા પુસ્તકોની સૂચિ બનાવવાનું છે.",
+                    "hindiTranslation": "पुस्तकालयाध्यक्ष का काम सभी नई पुस्तकों की सूची बनाना है।"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "level-4",
+  "title": "Health and Safety 4",
+  "words": [
+    {
+      "word": "Medicine",
+      "gujaratiPronunciation": "મેડિસિન",
+      "hindiPronunciation": "मेडिसिन",
+      "gujaratiMeaning": "દવા",
+      "hindiMeaning": "दवा",
+      "exampleSentences": [
+        {
+          "sentence": "Take your medicine on time.",
+          "gujaratiTranslation": "તમારી દવા સમયસર લો.",
+          "hindiTranslation": "अपनी दवा समय पर लें।"
+        }
+      ]
+    },
+    {
+      "word": "Tablet",
+      "gujaratiPronunciation": "ટેબ્લેટ",
+      "hindiPronunciation": "टैबलेट",
+      "gujaratiMeaning": "ગોળી",
+      "hindiMeaning": "गोली",
+      "exampleSentences": [
+        {
+          "sentence": "The doctor gave me a tablet for the pain.",
+          "gujaratiTranslation": "ડૉક્ટરે મને દુખાવા માટે ગોળી આપી.",
+          "hindiTranslation": "डॉक्टर ने मुझे दर्द के लिए एक गोली दी।"
+        }
+      ]
+    },
+    {
+      "word": "Injection",
+      "gujaratiPronunciation": "ઇન્જેક્શન",
+      "hindiPronunciation": "इंजेक्शन",
+      "gujaratiMeaning": "ઇન્જેક્શન",
+      "hindiMeaning": "इंजेक्शन",
+      "exampleSentences": [
+        {
+          "sentence": "The child was afraid of the injection.",
+          "gujaratiTranslation": "બાળક ઇન્જેક્શનથી ડરતો હતો.",
+          "hindiTranslation": "बच्चा इंजेक्शन से डर रहा था।"
+        }
+      ]
+    },
+    {
+      "word": "Bandage",
+      "gujaratiPronunciation": "બેન્ડેજ",
+      "hindiPronunciation": "बैंडेज",
+      "gujaratiMeaning": "પાટો",
+      "hindiMeaning": "पट्टी",
+      "exampleSentences": [
+        {
+          "sentence": "He put a bandage on the cut.",
+          "gujaratiTranslation": "તેણે ઘા પર પાટો બાંધ્યો.",
+          "hindiTranslation": "उसने कट पर एक पट्टी બાંધી।"
+        }
+      ]
+    },
+    {
+      "word": "Exercise",
+      "gujaratiPronunciation": "એક્સરસાઇઝ",
+      "hindiPronunciation": "एक्सरसाइज",
+      "gujaratiMeaning": "વ્યાયામ",
+      "hindiMeaning": "व्यायाम",
+      "exampleSentences": [
+        {
+          "sentence": "Daily exercise is good for health.",
+          "gujaratiTranslation": "રોજિંદી કસરત સ્વાસ્થ્ય માટે સારી છે.",
+          "hindiTranslation": "रोजाना व्यायाम स्वास्थ्य के लिए अच्छा है।"
+        }
+      ]
+    }
+  ]
+}

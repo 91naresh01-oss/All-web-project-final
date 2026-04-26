@@ -1,0 +1,11 @@
+{
+    "id": "level-6",
+    "title": "Generations",
+    "words": [
+        { "word": "Sibling", "icon": "🧑‍🤝‍🧑", "gujaratiMeaning": "ભાઈ-બહેન", "hindiMeaning": "भाई-बहन", "gujaratiPronunciation": "સિબલિંગ", "hindiPronunciation": "सिबलिंग" },
+        { "word": "Spouse", "icon": "👩‍❤️‍👨", "gujaratiMeaning": "જીવનસાથી", "hindiMeaning": "जीवनसाथी", "gujaratiPronunciation": "સ્પાઉસ", "hindiPronunciation": "स्पाउस" },
+        { "word": "Grandson", "icon": "👦", "gujaratiMeaning": "પૌત્ર", "hindiMeaning": "पोता", "gujaratiPronunciation": "ગ્રેન્ડસન", "hindiPronunciation": "ग्रैंडसन" },
+        { "word": "Granddaughter", "icon": "👧", "gujaratiMeaning": "પૌત્રી", "hindiMeaning": "पोती", "gujaratiPronunciation": "ગ્રેન્ડડૉટર", "hindiPronunciation": "ग्रैंडडॉटर" },
+        { "word": "Ancestor", "icon": "👴👵", "gujaratiMeaning": "પૂર્વજ", "hindiMeaning": "पूर्वज", "gujaratiPronunciation": "એન્સેસ્ટર", "hindiPronunciation": "एंसेस्टर" }
+    ]
+}

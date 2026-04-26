@@ -1,0 +1,13 @@
+{
+  "id": "chapter-6",
+  "title": "Destruction & Damage 💥",
+  "gujaratiTitle": "વિનાશ અને નુકસાન 💥",
+  "hindiTitle": "विनाश और क्षति 💥",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" },
+    { "id": "level-5" }
+  ]
+}

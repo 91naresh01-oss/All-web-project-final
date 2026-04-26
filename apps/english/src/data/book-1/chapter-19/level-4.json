@@ -1,0 +1,11 @@
+{
+    "id": "level-4",
+    "title": "Social Circle",
+    "words": [
+        { "word": "Friend", "icon": "🧑‍🤝‍🧑", "gujaratiMeaning": "મિત્ર", "hindiMeaning": "दोस्त", "gujaratiPronunciation": "ફ્રેન્ડ", "hindiPronunciation": "फ्रेंड" },
+        { "word": "Neighbor", "icon": "🏠", "gujaratiMeaning": "પાડોશી", "hindiMeaning": "पड़ोसी", "gujaratiPronunciation": "નેબર", "hindiPronunciation": "नेबर" },
+        { "word": "Guest", "icon": "🤗", "gujaratiMeaning": "મહેમાન", "hindiMeaning": "मेहमान", "gujaratiPronunciation": "ગેસ્ટ", "hindiPronunciation": "गेस्ट" },
+        { "word": "Parent", "icon": "👨‍👩‍👧", "gujaratiMeaning": "માતા-પિતા", "hindiMeaning": "माता-पिता", "gujaratiPronunciation": "પેરેન્ટ", "hindiPronunciation": "पेरेंट" },
+        { "word": "Child", "icon": "🧒", "gujaratiMeaning": "બાળક", "hindiMeaning": "बच्चा", "gujaratiPronunciation": "ચાઇલ્ડ", "hindiPronunciation": "चाइल्ड" }
+    ]
+}

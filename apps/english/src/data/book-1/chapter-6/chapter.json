@@ -1,0 +1,13 @@
+
+{
+  "id": "chapter-6",
+  "title": "Birds 🐦",
+  "gujaratiTitle": "પક્ષીઓ 🐦",
+  "hindiTitle": "पक्षी 🐦",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" }
+  ]
+}

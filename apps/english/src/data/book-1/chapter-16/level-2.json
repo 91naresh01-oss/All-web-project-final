@@ -1,0 +1,47 @@
+
+{
+    "id": "level-2",
+    "title": "School Items 2",
+    "words": [
+        {
+            "word": "Teacher",
+            "icon": "👩‍🏫",
+            "gujaratiPronunciation": "ટીચર",
+            "hindiPronunciation": "टीचर",
+            "gujaratiMeaning": "શિક્ષક",
+            "hindiMeaning": "शिक्षक"
+        },
+        {
+            "word": "Student",
+            "icon": "🧑‍🎓",
+            "gujaratiPronunciation": "સ્ટુડન્ટ",
+            "hindiPronunciation": "स्टूडेंट",
+            "gujaratiMeaning": "વિદ્યાર્થી",
+            "hindiMeaning": "छात्र"
+        },
+        {
+            "word": "Paper",
+            "icon": "📄",
+            "gujaratiPronunciation": "પેપર",
+            "hindiPronunciation": "पेपर",
+            "gujaratiMeaning": "કાગળ",
+            "hindiMeaning": "कागज़"
+        },
+        {
+            "word": "Ruler",
+            "icon": "📏",
+            "gujaratiPronunciation": "રૂલર",
+            "hindiPronunciation": "रूलर",
+            "gujaratiMeaning": "માપપટ્ટી",
+            "hindiMeaning": "मापनी"
+        },
+        {
+            "word": "Eraser",
+            "icon": "🧼",
+            "gujaratiPronunciation": "ઈરેઝર",
+            "hindiPronunciation": "इरेज़र",
+            "gujaratiMeaning": "રબર",
+            "hindiMeaning": "रबड़"
+        }
+    ]
+}

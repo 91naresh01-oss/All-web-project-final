@@ -1,0 +1,168 @@
+{
+  "id": "level-3",
+  "title": "Level 3: Propel, Recede, Veer, Torsion, Reposition",
+  "words": [
+    {
+      "word": "Propel",
+      "gujaratiPronunciation": "પ્રોપેલ",
+      "hindiPronunciation": "प्रोपेल",
+      "gujaratiMeaning": "આગળ ધકેલવું",
+      "hindiMeaning": "आगे बढ़ाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Propel", "gujaratiPronunciation": "પ્રોપેલ", "hindiPronunciation": "प्रोपेल", "gujaratiMeaning": "આગળ ધકેલવું", "hindiMeaning": "आगे बढ़ाना" },
+        "v2": { "word": "Propelled", "gujaratiPronunciation": "પ્રોપેલ્ડ", "hindiPronunciation": "प्रोपैल्ड", "gujaratiMeaning": "આગળ ધકેલ્યું", "hindiMeaning": "आगे बढ़ाया" },
+        "v3": { "word": "Propelled", "gujaratiPronunciation": "પ્રોપેલ્ડ", "hindiPronunciation": "प्रोपैल्ड", "gujaratiMeaning": "આગળ ધકેલેલું", "hindiMeaning": "आगे बढ़ाया हुआ" },
+        "v4": { "word": "Propelling", "gujaratiPronunciation": "પ્રોપેલિંગ", "hindiPronunciation": "प्रोपेलिंग", "gujaratiMeaning": "આગળ ધકેલી રહ્યો છે", "hindiMeaning": "आगे बढ़ा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Push", "gujaratiPronunciation": "પુશ", "hindiPronunciation": "पुश", "gujaratiMeaning": "ધક્કો મારવો", "hindiMeaning": "धक्का देना" },
+        { "word": "Drive", "gujaratiPronunciation": "ડ્રાઇવ", "hindiPronunciation": "ड्राइव", "gujaratiMeaning": "ચલાવવું", "hindiMeaning": "चलाना" }
+      ],
+      "antonyms": [
+        { "word": "Pull", "gujaratiPronunciation": "પુલ", "hindiPronunciation": "पुल", "gujaratiMeaning": "ખેંચવું", "hindiMeaning": "खींचना" },
+        { "word": "Halt", "gujaratiPronunciation": "હોલ્ટ", "hindiPronunciation": "हॉल्ट", "gujaratiMeaning": "રોકવું", "hindiMeaning": "रोकना" }
+      ],
+      "confusingWords": [
+        { "word": "Propeller", "gujaratiPronunciation": "પ્રોપેલર", "hindiPronunciation": "प्रोपेलर", "gujaratiMeaning": "પંખો (વિમાનનો)", "hindiMeaning": "प्रोपेलर (हवाई जहाज का पंखा)" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A propeller is used to propel a ship.",
+          "gujaratiPronunciation": "અ પ્રોપેલર ઇઝ યુઝ્ડ ટુ પ્રોપેલ અ શિપ.",
+          "hindiPronunciation": "अ प्रोपेलर इज़ यूज़्ड टू प्रोपेल अ शिप।",
+          "gujaratiTranslation": "વહાણને આગળ ધકેલવા માટે પ્રોપેલરનો ઉપયોગ થાય છે.",
+          "hindiTranslation": "जहाज को आगे बढ़ाने के लिए एक प्रोपेलर का उपयोग किया जाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Recede",
+      "gujaratiPronunciation": "રિસીડ",
+      "hindiPronunciation": "रिसीड",
+      "gujaratiMeaning": "પાછળ હટવું",
+      "hindiMeaning": "पीछे हटना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Recede", "gujaratiPronunciation": "રિસીડ", "hindiPronunciation": "रिसीड", "gujaratiMeaning": "પાછળ હટવું", "hindiMeaning": "पीछे हटना" },
+        "v2": { "word": "Receded", "gujaratiPronunciation": "રિસીડેડ", "hindiPronunciation": "रिसीडेड", "gujaratiMeaning": "પાછળ હટ્યું", "hindiMeaning": "पीछे हटा" },
+        "v3": { "word": "Receded", "gujaratiPronunciation": "રિસીડેડ", "hindiPronunciation": "रिसीडेड", "gujaratiMeaning": "પાછળ હટેલું", "hindiMeaning": "पीछे हटा हुआ" },
+        "v4": { "word": "Receding", "gujaratiPronunciation": "રિસીડિંગ", "hindiPronunciation": "रिसीडिंग", "gujaratiMeaning": "પાછળ હટી રહ્યો છે", "hindiMeaning": "पीछे हट रहा है" }
+      },
+      "synonyms": [
+        { "word": "Retreat", "gujaratiPronunciation": "રિટ્રીટ", "hindiPronunciation": "रिट्रीट", "gujaratiMeaning": "પાછા જવું", "hindiMeaning": "वापस जाना" },
+        { "word": "Withdraw", "gujaratiPronunciation": "વિથડ્રો", "hindiPronunciation": "विद्ड्रॉ", "gujaratiMeaning": "પાછું ખેંચવું", "hindiMeaning": "वापस लेना" }
+      ],
+      "antonyms": [
+        { "word": "Advance", "gujaratiPronunciation": "એડવાન્સ", "hindiPronunciation": "एडवांस", "gujaratiMeaning": "આગળ વધવું", "hindiMeaning": "आगे बढ़ना" },
+        { "word": "Approach", "gujaratiPronunciation": "અપ્રોચ", "hindiPronunciation": "अप्रोच", "gujaratiMeaning": "નજીક આવવું", "hindiMeaning": "पास आना" }
+      ],
+      "confusingWords": [
+        { "word": "Reside", "gujaratiPronunciation": "રિઝાઇડ", "hindiPronunciation": "रिसाइड", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The floodwaters slowly began to recede.",
+          "gujaratiPronunciation": "ધ ફ્લડવોટર્સ સ્લોલી બિગેન ટુ રિસીડ.",
+          "hindiPronunciation": "द फ्लडवाटर्स स्लोली बिगेन टू रिसीड।",
+          "gujaratiTranslation": "પૂરના પાણી ધીમે ધીમે પાછા હટવા લાગ્યા.",
+          "hindiTranslation": "बाढ़ का पानी धीरे-धीरे कम होने लगा।"
+        }
+      ]
+    },
+    {
+      "word": "Veer",
+      "gujaratiPronunciation": "વિયર",
+      "hindiPronunciation": "वीर",
+      "gujaratiMeaning": "દિશા બદલવી",
+      "hindiMeaning": "दिशा बदलना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Veer", "gujaratiPronunciation": "વિયર", "hindiPronunciation": "वीर", "gujaratiMeaning": "દિશા બદલવી", "hindiMeaning": "दिशा बदलना" },
+        "v2": { "word": "Veered", "gujaratiPronunciation": "વિયર્ડ", "hindiPronunciation": "वियर्ड", "gujaratiMeaning": "દિશા બદલી", "hindiMeaning": "दिशा बदली" },
+        "v3": { "word": "Veered", "gujaratiPronunciation": "વિયર્ડ", "hindiPronunciation": "वियर्ड", "gujaratiMeaning": "દિશા બદલેલી", "hindiMeaning": "दिशा बदली हुई" },
+        "v4": { "word": "Veering", "gujaratiPronunciation": "વિયરિંગ", "hindiPronunciation": "वीरिंग", "gujaratiMeaning": "દિશા બદલી રહ્યો છે", "hindiMeaning": "दिशा बदल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Turn", "gujaratiPronunciation": "ટર્ન", "hindiPronunciation": "टर्न", "gujaratiMeaning": "વળવું", "hindiMeaning": "मुड़ना" },
+        { "word": "Swerve", "gujaratiPronunciation": "સ્વર્વ", "hindiPronunciation": "स्वर्व", "gujaratiMeaning": "અચાનક દિશા બદલવી", "hindiMeaning": "अचानक दिशा बदलना" }
+      ],
+      "antonyms": [
+        { "word": "Straighten", "gujaratiPronunciation": "સ્ટ્રેઇટન", "hindiPronunciation": "स्ट्रेटन", "gujaratiMeaning": "સીધું કરવું", "hindiMeaning": "सीधा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Beer", "gujaratiPronunciation": "બિયર", "hindiPronunciation": "बीयर", "gujaratiMeaning": "એક પ્રકારનો દારૂ", "hindiMeaning": "एक प्रकार की शराब" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The car veered sharply to avoid the pothole.",
+          "gujaratiPronunciation": "ધ કાર વિયર્ડ શાર્પલી ટુ અવોઇડ ધ પોટહોલ.",
+          "hindiPronunciation": "द कार वीयर्ड शार्पली टू अवॉइड द पॉटहोल।",
+          "gujaratiTranslation": "ખાડો ટાળવા માટે કારે તીવ્રપણે દિશા બદલી.",
+          "hindiTranslation": "गड्ढे से बचने के लिए कार तेजी से मुड़ी।"
+        }
+      ]
+    },
+    {
+      "word": "Torsion",
+      "gujaratiPronunciation": "ટોર્શન",
+      "hindiPronunciation": "टॉर्शन",
+      "gujaratiMeaning": "મરોડ / વળ",
+      "hindiMeaning": "मरोड़ / ऐंठन",
+      "partOfSpeech": "noun",
+      "verbForms": {},
+      "synonyms": [
+        { "word": "Twist", "gujaratiPronunciation": "ટ્વિસ્ટ", "hindiPronunciation": "ट्विस्ट", "gujaratiMeaning": "વળ", "hindiMeaning": "मोड़" },
+        { "word": "Contortion", "gujaratiPronunciation": "કન્ટોર્શન", "hindiPronunciation": "कंटॉर्शन", "gujaratiMeaning": "આમળવું", "hindiMeaning": "विकृति" }
+      ],
+      "antonyms": [
+        { "word": "Straightening", "gujaratiPronunciation": "સ્ટ્રેઇટનિંગ", "hindiPronunciation": "स्ट्रेटनिंग", "gujaratiMeaning": "સીધું કરવું", "hindiMeaning": "सीधा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Portion", "gujaratiPronunciation": "પોર્શન", "hindiPronunciation": "पोर्शन", "gujaratiMeaning": "ભાગ", "hindiMeaning": "हिस्सा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The metal bar broke under the stress of torsion.",
+          "gujaratiPronunciation": "ધ મેટલ બાર બ્રોક અન્ડર ધ સ્ટ્રેસ ઓફ ટોર્શન.",
+          "hindiPronunciation": "द मेटल बार ब्रोक अंडर द स्ट्रेस ऑफ़ टॉर्शन।",
+          "gujaratiTranslation": "મરોડના તણાવ હેઠળ ધાતુનો સળિયો તૂટી ગયો.",
+          "hindiTranslation": "मरोड़ के तनाव के कारण धातु की छड़ टूट गई।"
+        }
+      ]
+    },
+    {
+      "word": "Reposition",
+      "gujaratiPronunciation": "રિપોઝિશન",
+      "hindiPronunciation": "रिपोज़िशन",
+      "gujaratiMeaning": "ફરીથી ગોઠવવું",
+      "hindiMeaning": "पुनः स्थापित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Reposition", "gujaratiPronunciation": "રિપોઝિશન", "hindiPronunciation": "रिपोज़िशन", "gujaratiMeaning": "ફરીથી ગોઠવવું", "hindiMeaning": "पुनः स्थापित करना" },
+        "v2": { "word": "Repositioned", "gujaratiPronunciation": "રિપોઝિશન્ડ", "hindiPronunciation": "रिपोज़िशन्ड", "gujaratiMeaning": "ફરીથી ગોઠવ્યું", "hindiMeaning": "पुनः स्थापित किया" },
+        "v3": { "word": "Repositioned", "gujaratiPronunciation": "રિપોઝિશન્ડ", "hindiPronunciation": "रिपोज़िशन्ड", "gujaratiMeaning": "ફરીથી ગોઠવેલું", "hindiMeaning": "पुनः स्थापित किया हुआ" },
+        "v4": { "word": "Repositioning", "gujaratiPronunciation": "રિપોઝિશનિંગ", "hindiPronunciation": "रिपोज़िशनिंग", "gujaratiMeaning": "ફરીથી ગોઠવી રહ્યો છે", "hindiMeaning": "पुनः स्थापित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Relocate", "gujaratiPronunciation": "રિલોકેટ", "hindiPronunciation": "रिलोकेट", "gujaratiMeaning": "સ્થાન બદલવું", "hindiMeaning": "स्थानांतरित करना" },
+        { "word": "Adjust", "gujaratiPronunciation": "એડજસ્ટ", "hindiPronunciation": "एडजस्ट", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "समायोजित करना" }
+      ],
+      "antonyms": [
+        { "word": "Fix", "gujaratiPronunciation": "ફિક્સ", "hindiPronunciation": "फिक्स", "gujaratiMeaning": "સ્થિર કરવું", "hindiMeaning": "स्थिर करना" }
+      ],
+      "confusingWords": [
+        { "word": "Proposition", "gujaratiPronunciation": "પ્રોપોઝિશન", "hindiPronunciation": "प्रोपोज़िशन", "gujaratiMeaning": "દરખાસ્ત", "hindiMeaning": "प्रस्ताव" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She had to reposition the furniture to make more space.",
+          "gujaratiPronunciation": "શી હેડ ટુ રિપોઝિશન ધ ફર્નિચર ટુ મેક મોર સ્પેસ.",
+          "hindiPronunciation": "शी हैड टू रिपोज़िशन द फर्नीचर टू मेक मोर स्पेस।",
+          "gujaratiTranslation": "વધુ જગ્યા બનાવવા માટે તેણીએ ફર્નિચર ફરીથી ગોઠવવું પડ્યું.",
+          "hindiTranslation": "अधिक जगह बनाने के लिए उसे फर्नीचर को फिर से व्यवस्थित करना पड़ा।"
+        }
+      ]
+    }
+  ]
+}

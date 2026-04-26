@@ -1,0 +1,167 @@
+
+{
+  "id": "level-5",
+  "title": "Expert Analysis",
+  "words": [
+    {
+      "word": "Scrutinize",
+      "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ",
+      "hindiPronunciation": "स्क्रूटिनाइज़",
+      "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસવું",
+      "hindiMeaning": "बारीकी से जांचना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Scrutinize", "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ", "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસવું", "hindiMeaning": "बारीकी से जांचना" },
+        "V2 (Past)": { "word": "Scrutinized", "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ્ડ", "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસ્યું", "hindiMeaning": "बारीकी से जांचा" },
+        "V3 (Past Participle)": { "word": "Scrutinized", "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ્ડ", "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસેલું", "hindiMeaning": "बारीकी से जांचा हुआ" },
+        "V4 (Present Participle)": { "word": "Scrutinizing", "gujaratiPronunciation": "સ્ક્રુટિનાઇઝિંગ", "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસી રહ્યું છે", "hindiMeaning": "बारीकी से जांच रहा है" }
+      },
+      "synonyms": [
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जांचना" },
+        { "word": "Inspect", "gujaratiPronunciation": "ઇન્સ્પેક્ટ", "gujaratiMeaning": "નિરીક્ષણ કરવું", "hindiMeaning": "निरीक्षण करना" }
+      ],
+      "antonyms": [
+        { "word": "Glance", "gujaratiPronunciation": "ગ્લાન્સ", "gujaratiMeaning": "નજર નાખવી", "hindiMeaning": "नज़र डालना" },
+        { "word": "Skim", "gujaratiPronunciation": "સ્કિમ", "gujaratiMeaning": "ઉપરછલ્લી રીતે વાંચવું", "hindiMeaning": "सरसरी तौर पर पढ़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Sanitize", "gujaratiPronunciation": "સેનિટાઇઝ", "gujaratiMeaning": "સ્વચ્છ કરવું", "hindiMeaning": "स्वच्छ करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The detective will scrutinize the evidence carefully.",
+          "gujaratiTranslation": "જાસૂસ પુરાવાને કાળજીપૂર્વક સૂક્ષ્મ રીતે તપાસશે.",
+          "hindiTranslation": "जासूस सबूतों की बारीकी से जांच करेगा।"
+        }
+      ]
+    },
+    {
+      "word": "Confront",
+      "gujaratiPronunciation": "કન્ફ્રન્ટ",
+      "hindiPronunciation": "कन्फ्रंट",
+      "gujaratiMeaning": "સામનો કરવો",
+      "hindiMeaning": "सामना करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Confront", "gujaratiPronunciation": "કન્ફ્રન્ટ", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" },
+        "V2 (Past)": { "word": "Confronted", "gujaratiPronunciation": "કન્ફ્રન્ટેડ", "gujaratiMeaning": "સામનો કર્યો", "hindiMeaning": "सामना किया" },
+        "V3 (Past Participle)": { "word": "Confronted", "gujaratiPronunciation": "કન્ફ્રન્ટેડ", "gujaratiMeaning": "સામનો કરેલો", "hindiMeaning": "सामना किया हुआ" },
+        "V4 (Present Participle)": { "word": "Confronting", "gujaratiPronunciation": "કન્ફ્રન્ટિંગ", "gujaratiMeaning": "સામનો કરી રહ્યું છે", "hindiMeaning": "सामना कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Face", "gujaratiPronunciation": "ફેસ", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" },
+        { "word": "Challenge", "gujaratiPronunciation": "ચેલેન્જ", "gujaratiMeaning": "પડકારવું", "hindiMeaning": "चुनौती देना" }
+      ],
+      "antonyms": [
+        { "word": "Avoid", "gujaratiPronunciation": "એવોઇડ", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" },
+        { "word": "Evade", "gujaratiPronunciation": "ઇવેડ", "gujaratiMeaning": "છટકી જવું", "hindiMeaning": "बचना" }
+      ],
+      "confusingWords": [
+        { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You must confront your fears to overcome them.",
+          "gujaratiTranslation": "તમારે તમારા ડરનો સામનો કરવો જ જોઇએ જેથી તમે તેને જીતી શકો.",
+          "hindiTranslation": "आपको अपने डर पर काबू पाने के लिए उनका सामना करना होगा।"
+        }
+      ]
+    },
+    {
+      "word": "Decree",
+      "gujaratiPronunciation": "ડિક્રી",
+      "hindiPronunciation": "डिक्री",
+      "gujaratiMeaning": "આદેશ આપવો",
+      "hindiMeaning": "आदेश देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Decree", "gujaratiPronunciation": "ડિક્રી", "gujaratiMeaning": "આદેશ આપવો", "hindiMeaning": "आदेश देना" },
+        "V2 (Past)": { "word": "Decreed", "gujaratiPronunciation": "ડિક્રીડ", "gujaratiMeaning": "આદેશ આપ્યો", "hindiMeaning": "आदेश दिया" },
+        "V3 (Past Participle)": { "word": "Decreed", "gujaratiPronunciation": "ડિક્રીડ", "gujaratiMeaning": "આદેશ આપેલો", "hindiMeaning": "आदेश दिया हुआ" },
+        "V4 (Present Participle)": { "word": "Decreeing", "gujaratiPronunciation": "ડિક્રીઇંગ", "gujaratiMeaning": "આદેશ આપી રહ્યું છે", "hindiMeaning": "आदेश दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Order", "gujaratiPronunciation": "ઓર્ડર", "gujaratiMeaning": "આદેશ કરવો", "hindiMeaning": "आदेश देना" },
+        { "word": "Proclaim", "gujaratiPronunciation": "પ્રોક્લેમ", "gujaratiMeaning": "જાહેર કરવું", "hindiMeaning": "घोषणा करना" }
+      ],
+      "antonyms": [
+        { "word": "Request", "gujaratiPronunciation": "રિક્વેસ્ટ", "gujaratiMeaning": "વિનંતી કરવી", "hindiMeaning": "अनुरोध करना" },
+        { "word": "Suggest", "gujaratiPronunciation": "સજેસ્ટ", "gujaratiMeaning": "સૂચન કરવું", "hindiMeaning": "सुझाव देना" }
+      ],
+      "confusingWords": [
+        { "word": "Degree", "gujaratiPronunciation": "ડિગ્રી", "gujaratiMeaning": "પદવી", "hindiMeaning": "उपाधि" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The king decreed that all taxes should be lowered.",
+          "gujaratiTranslation": "રાજાએ આદેશ આપ્યો કે બધા કર ઘટાડવામાં આવે.",
+          "hindiTranslation": "राजा ने आदेश दिया कि सभी कर कम कर दिए जाएं।"
+        }
+      ]
+    },
+    {
+      "word": "Assimilate",
+      "gujaratiPronunciation": "એસિમિલેટ",
+      "hindiPronunciation": "एसिमिलेट",
+      "gujaratiMeaning": "આત્મસાત કરવું",
+      "hindiMeaning": "आत्मसात करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Assimilate", "gujaratiPronunciation": "એસિમિલેટ", "gujaratiMeaning": "આત્મસાત કરવું", "hindiMeaning": "आत्मसात करना" },
+        "V2 (Past)": { "word": "Assimilated", "gujaratiPronunciation": "એસિમિલેટેડ", "gujaratiMeaning": "આત્મસાત કર્યું", "hindiMeaning": "आत्मसात किया" },
+        "V3 (Past Participle)": { "word": "Assimilated", "gujaratiPronunciation": "એસિમિલેટેડ", "gujaratiMeaning": "આત્મસાત કરેલું", "hindiMeaning": "आत्मसात किया हुआ" },
+        "V4 (Present Participle)": { "word": "Assimilating", "gujaratiPronunciation": "એસિમિલેટિંગ", "gujaratiMeaning": "આત્મસાત કરી રહ્યું છે", "hindiMeaning": "आत्मसात कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Absorb", "gujaratiPronunciation": "એબ્સોર્બ", "gujaratiMeaning": "શોષી લેવું", "hindiMeaning": "अवशोषित करना" },
+        { "word": "Integrate", "gujaratiPronunciation": "ઇન્ટિગ્રેટ", "gujaratiMeaning": "એકીકૃત કરવું", "hindiMeaning": "एकीकृत करना" }
+      ],
+      "antonyms": [
+        { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" },
+        { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Assemble", "gujaratiPronunciation": "એસેમ્બલ", "gujaratiMeaning": "એકત્ર કરવું", "hindiMeaning": "इकट्ठा करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is difficult to assimilate new information so quickly.",
+          "gujaratiTranslation": "આટલી ઝડપથી નવી માહિતી આત્મસાત કરવી મુશ્કેલ છે.",
+          "hindiTranslation": "इतनी जल्दी नई जानकारी को आत्मसात करना मुश्किल है।"
+        }
+      ]
+    },
+    {
+      "word": "Finesse",
+      "gujaratiPronunciation": "ફિનેસ",
+      "hindiPronunciation": "फिनेस",
+      "gujaratiMeaning": "કૌશલ્યથી પાર પાડવું",
+      "hindiMeaning": "कौशल से काम निकालना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Finesse", "gujaratiPronunciation": "ફિનેસ", "gujaratiMeaning": "કૌશલ્યથી પાર પાડવું", "hindiMeaning": "कौशल से काम निकालना" },
+        "V2 (Past)": { "word": "Finessed", "gujaratiPronunciation": "ફિનેસ્ડ", "gujaratiMeaning": "કૌશલ્યથી પાર પાડ્યું", "hindiMeaning": "कौशल से काम निकाला" },
+        "V3 (Past Participle)": { "word": "Finessed", "gujaratiPronunciation": "ફિનેસ્ડ", "gujaratiMeaning": "કૌશલ્યથી પાર પાડેલું", "hindiMeaning": "कौशल से काम निकाला हुआ" },
+        "V4 (Present Participle)": { "word": "Finessing", "gujaratiPronunciation": "ફિનેસિંગ", "gujaratiMeaning": "કૌશલ્યથી પાર પાડી રહ્યું છે", "hindiMeaning": "कौशल से काम निकाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Maneuver", "gujaratiPronunciation": "મેનુવર", "gujaratiMeaning": "યુક્તિ કરવી", "hindiMeaning": "पैंतरेबाज़ी करना" },
+        { "word": "Manipulate", "gujaratiPronunciation": "મેનિપ્યુલેટ", "gujaratiMeaning": "ચાલાકી કરવી", "hindiMeaning": "हेरफेर करना" }
+      ],
+      "antonyms": [
+        { "word": "Struggle", "gujaratiPronunciation": "સ્ટ્રગલ", "gujaratiMeaning": "સંઘર્ષ કરવો", "hindiMeaning": "संघर्ष करना" },
+        { "word": "Bumble", "gujaratiPronunciation": "બમ્બલ", "gujaratiMeaning": "ગડબડ કરવી", "hindiMeaning": "गड़बड़ करना" }
+      ],
+      "confusingWords": [
+        { "word": "Finance", "gujaratiPronunciation": "ફાઇનાન્સ", "gujaratiMeaning": "નાણા", "hindiMeaning": "वित्त" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She managed to finesse the deal with her excellent negotiation skills.",
+          "gujaratiTranslation": "તેણીએ તેની ઉત્તમ વાટાઘાટ કૌશલ્યથી સોદો કૌશલ્યથી પાર પાડ્યો.",
+          "hindiTranslation": "उसने अपने उत्कृष्ट बातचीत कौशल से सौदे को कौशल से पार कर लिया।"
+        }
+      ]
+    }
+  ]
+}

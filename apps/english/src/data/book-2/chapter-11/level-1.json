@@ -1,0 +1,76 @@
+{
+  "id": "level-1",
+  "title": "Health and Safety 1",
+  "words": [
+    {
+      "word": "Doctor",
+      "gujaratiPronunciation": "ડૉક્ટર",
+      "hindiPronunciation": "डॉक्टर",
+      "gujaratiMeaning": "ડૉક્ટર",
+      "hindiMeaning": "चिकित्सक",
+      "exampleSentences": [
+        {
+          "sentence": "The doctor is checking the patient.",
+          "gujaratiTranslation": "ડૉક્ટર દર્દીની તપાસ કરી રહ્યા છે.",
+          "hindiTranslation": "डॉक्टर मरीज की जांच कर रहे हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Nurse",
+      "gujaratiPronunciation": "નર્સ",
+      "hindiPronunciation": "नर्स",
+      "gujaratiMeaning": "નર્સ",
+      "hindiMeaning": "नर्स",
+      "exampleSentences": [
+        {
+          "sentence": "The nurse gave him an injection.",
+          "gujaratiTranslation": "નર્સે તેને ઇન્જેક્શન આપ્યું.",
+          "hindiTranslation": "नर्स ने उसे एक इंजेक्शन दिया।"
+        }
+      ]
+    },
+    {
+      "word": "Bed",
+      "gujaratiPronunciation": "બેડ",
+      "hindiPronunciation": "बेड",
+      "gujaratiMeaning": "પલંગ",
+      "hindiMeaning": "बिस्तर",
+      "exampleSentences": [
+        {
+          "sentence": "He is sleeping on the bed.",
+          "gujaratiTranslation": "તે પલંગ પર સૂઈ રહ્યો છે.",
+          "hindiTranslation": "वह बिस्तर पर सो रहा है।"
+        }
+      ]
+    },
+    {
+      "word": "Soap",
+      "gujaratiPronunciation": "સોપ",
+      "hindiPronunciation": "सोप",
+      "gujaratiMeaning": "સાબુ",
+      "hindiMeaning": "साबुन",
+      "exampleSentences": [
+        {
+          "sentence": "Wash your hands with soap.",
+          "gujaratiTranslation": "તમારા હાથ સાબુથી ધોઈ લો.",
+          "hindiTranslation": "अपने हाथ साबुन से धोएं।"
+        }
+      ]
+    },
+    {
+      "word": "Mask",
+      "gujaratiPronunciation": "માસ્ક",
+      "hindiPronunciation": "मास्क",
+      "gujaratiMeaning": "માસ્ક",
+      "hindiMeaning": "मास्क",
+      "exampleSentences": [
+        {
+          "sentence": "Wearing a mask is important for safety.",
+          "gujaratiTranslation": "સુરક્ષા માટે માસ્ક પહેરવું મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "सुरक्षा के लिए मास्क पहनना जरूरी है।"
+        }
+      ]
+    }
+  ]
+}

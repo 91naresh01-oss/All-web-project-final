@@ -1,0 +1,482 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Strategize",
+      "gujaratiPronunciation": "સ્ટ્રૅટેજાઇઝ",
+      "hindiPronunciation": "स्ट्रैटेगाइज़",
+      "gujaratiMeaning": "વ્યૂહરચના બનાવવી",
+      "hindiMeaning": "रणनीति बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Strategize",
+          "gujaratiPronunciation": "સ્ટ્રૅટેજાઇઝ",
+          "hindiPronunciation": "स्ट्रैटेगाइज़",
+          "gujaratiMeaning": "વ્યૂહરચના બનાવવી",
+          "hindiMeaning": "रणनीति बनाना"
+        },
+        "v2": {
+          "word": "Strategized",
+          "gujaratiPronunciation": "સ્ટ્રૅટેજાઇઝ્ડ",
+          "hindiPronunciation": "स्ट्रैटेगाइज़ड",
+          "gujaratiMeaning": "વ્યૂહરચના બનાવી",
+          "hindiMeaning": "रणनीति बनाई"
+        },
+        "v3": {
+          "word": "Strategized",
+          "gujaratiPronunciation": "સ્ટ્રૅટેજાઇઝ્ડ",
+          "hindiPronunciation": "स्ट्रैटेगाइज़ड",
+          "gujaratiMeaning": "વ્યૂહરચના બનાવેલી",
+          "hindiMeaning": "रणनीति बनाई हुई"
+        },
+        "v4": {
+          "word": "Strategizing",
+          "gujaratiPronunciation": "સ્ટ્રૅટેજાઇઝિંગ",
+          "hindiPronunciation": "स्ट्रैटेगाइज़िंग",
+          "gujaratiMeaning": "વ્યૂહરચના બનાવી રહ્યું છે",
+          "hindiMeaning": "रणनीति बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Plan",
+          "gujaratiPronunciation": "પ્લાન",
+          "hindiPronunciation": "प्लान",
+          "gujaratiMeaning": "યોજના બનાવવી",
+          "hindiMeaning": "योजना बनाना"
+        },
+        {
+          "word": "Scheme",
+          "gujaratiPronunciation": "સ્કીમ",
+          "hindiPronunciation": "स्कीम",
+          "gujaratiMeaning": "યોજના ઘડવી",
+          "hindiMeaning": "योजना बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Improvise",
+          "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ",
+          "hindiPronunciation": "इम्प्रोवाइज़",
+          "gujaratiMeaning": "તાત્કાલિક ગોઠવણ કરવી",
+          "hindiMeaning": "बिना तैयारी के करना"
+        },
+        {
+          "word": "React",
+          "gujaratiPronunciation": "રિઍક્ટ",
+          "hindiPronunciation": "रिएक्ट",
+          "gujaratiMeaning": "પ્રતિક્રિયા આપવી",
+          "hindiMeaning": "प्रतिक्रिया देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Strategy",
+          "gujaratiPronunciation": "સ્ટ્રૅટેજી",
+          "hindiPronunciation": "स्ट्रेटेजी",
+          "gujaratiMeaning": "વ્યૂહરચના",
+          "hindiMeaning": "रणनीति"
+        },
+        {
+          "word": "Tragedize",
+          "gujaratiPronunciation": "ટ્રૅજેડાઇઝ",
+          "hindiPronunciation": "ट्रेजेडाइज़",
+          "gujaratiMeaning": "દુઃખદ બનાવવું",
+          "hindiMeaning": "दुखद बनाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The team needs to strategize to win the next game.",
+          "gujaratiTranslation": "ટીમને આગામી રમત જીતવા માટે વ્યૂહરચના બનાવવાની જરૂર છે.",
+          "hindiTranslation": "टीम को अगला गेम जीतने के लिए रणनीति बनाने की जरूरत है।",
+          "gujaratiPronunciation": "ધ ટીમ નીડ્ઝ ટુ સ્ટ્રેટેજાઇઝ ટુ વિન ધ નેક્સ્ટ ગેમ.",
+          "hindiPronunciation": "द टीम नीड्स टू स्ट्रैटेगाइज़ टू विन द नेक्स्ट गेम।"
+        }
+      ]
+    },
+    {
+      "word": "Rationalize",
+      "gujaratiPronunciation": "રૅશનલાઇઝ",
+      "hindiPronunciation": "रैशनलाइज़",
+      "gujaratiMeaning": "તર્કસંગત બનાવવું",
+      "hindiMeaning": "तर्कसंगत बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Rationalize",
+          "gujaratiPronunciation": "રૅશનલાઇઝ",
+          "hindiPronunciation": "रैशनलाइज़",
+          "gujaratiMeaning": "તર્કસંગત બનાવવું",
+          "hindiMeaning": "तर्कसंगत बनाना"
+        },
+        "v2": {
+          "word": "Rationalized",
+          "gujaratiPronunciation": "રૅશનલાઇઝ્ડ",
+          "hindiPronunciation": "रैशनलाइज़ड",
+          "gujaratiMeaning": "તર્કસંગત બનાવ્યું",
+          "hindiMeaning": "तर्कसंगत बनाया"
+        },
+        "v3": {
+          "word": "Rationalized",
+          "gujaratiPronunciation": "રૅશનલાઇઝ્ડ",
+          "hindiPronunciation": "रैशनलाइज़ड",
+          "gujaratiMeaning": "તર્કસંગત બનાવેલું",
+          "hindiMeaning": "तर्कसंगत बनाया हुआ"
+        },
+        "v4": {
+          "word": "Rationalizing",
+          "gujaratiPronunciation": "રૅશનલાઇઝિંગ",
+          "hindiPronunciation": "रैशनलाइज़िंग",
+          "gujaratiMeaning": "તર્કસંગત બનાવી રહ્યું છે",
+          "hindiMeaning": "तर्कसंगत बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Justify",
+          "gujaratiPronunciation": "જસ્ટિફાય",
+          "hindiPronunciation": "जस्टिफाइ",
+          "gujaratiMeaning": "વાજબી ઠેરવવું",
+          "hindiMeaning": "उचित ठहराना"
+        },
+        {
+          "word": "Explain",
+          "gujaratiPronunciation": "એક્સપ્લેન",
+          "hindiPronunciation": "एक्सप्लेन",
+          "gujaratiMeaning": "સમજાવવું",
+          "hindiMeaning": "समझाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Feel",
+          "gujaratiPronunciation": "ફીલ",
+          "hindiPronunciation": "फील",
+          "gujaratiMeaning": "અનુભવવું",
+          "hindiMeaning": "महसूस करना"
+        },
+        {
+          "word": "Emote",
+          "gujaratiPronunciation": "ઇમોટ",
+          "hindiPronunciation": "इमोट",
+          "gujaratiMeaning": "ભાવ વ્યક્ત કરવો",
+          "hindiMeaning": "भाव व्यक्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Nationalize",
+          "gujaratiPronunciation": "નેશનલાઇઝ",
+          "hindiPronunciation": "नेशनलाइज़",
+          "gujaratiMeaning": "રાષ્ટ્રીયકરણ કરવું",
+          "hindiMeaning": "राष्ट्रीयकरण करना"
+        },
+        {
+          "word": "Rational",
+          "gujaratiPronunciation": "રૅશનલ",
+          "hindiPronunciation": "रैशनल",
+          "gujaratiMeaning": "તર્કસંગત",
+          "hindiMeaning": "तर्कसंगत"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He tried to rationalize his bad behavior.",
+          "gujaratiTranslation": "તેણે પોતાના ખરાબ વર્તનને તર્કસંગત બનાવવાનો પ્રયત્ન કર્યો.",
+          "hindiTranslation": "उसने अपने बुरे व्यवहार को तर्कसंगत बनाने की कोशिश की।",
+          "gujaratiPronunciation": "હી ટ્રાઇડ ટુ રેશનલાઇઝ હિઝ બેડ બિહેવિયર.",
+          "hindiPronunciation": "ही ट्राइड टू रैशनलाइज़ हिज़ बैड बिहेवियर।"
+        }
+      ]
+    },
+    {
+      "word": "Intervene",
+      "gujaratiPronunciation": "ઇન્ટરવીન",
+      "hindiPronunciation": "इंटरवीन",
+      "gujaratiMeaning": "દખલ કરવી",
+      "hindiMeaning": "हस्तक्षेप करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Intervene",
+          "gujaratiPronunciation": "ઇન્ટરવીન",
+          "hindiPronunciation": "इंटरवीन",
+          "gujaratiMeaning": "દખલ કરવી",
+          "hindiMeaning": "हस्तक्षेप करना"
+        },
+        "v2": {
+          "word": "Intervened",
+          "gujaratiPronunciation": "ઇન્ટરવીન્ડ",
+          "hindiPronunciation": "इंटरवीन्ड",
+          "gujaratiMeaning": "દખલ કરી",
+          "hindiMeaning": "हस्तक्षेप किया"
+        },
+        "v3": {
+          "word": "Intervened",
+          "gujaratiPronunciation": "ઇન્ટરવીન્ડ",
+          "hindiPronunciation": "इंटरवीन्ड",
+          "gujaratiMeaning": "દખલ કરેલી",
+          "hindiMeaning": "हस्तक्षेप किया हुआ"
+        },
+        "v4": {
+          "word": "Intervening",
+          "gujaratiPronunciation": "ઇન્ટરવીનિંગ",
+          "hindiPronunciation": "इंटरवीनिंग",
+          "gujaratiMeaning": "દખલ કરી રહ્યું છે",
+          "hindiMeaning": "हस्तक्षेप कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Mediate",
+          "gujaratiPronunciation": "મીડિએટ",
+          "hindiPronunciation": "मीडिएट",
+          "gujaratiMeaning": "મધ્યસ્થી કરવી",
+          "hindiMeaning": "मध्यस्थता करना"
+        },
+        {
+          "word": "Interfere",
+          "gujaratiPronunciation": "ઇન્ટરફિયર",
+          "hindiPronunciation": "इंटरफेयर",
+          "gujaratiMeaning": "દખલગીરી કરવી",
+          "hindiMeaning": "दखल देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नजरअंदाज करना"
+        },
+        {
+          "word": "Observe",
+          "gujaratiPronunciation": "ઓબ્ઝર્વ",
+          "hindiPronunciation": "ऑब्जर्व",
+          "gujaratiMeaning": "નિરીક્ષણ કરવું",
+          "hindiMeaning": "अवलोकन करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Interview",
+          "gujaratiPronunciation": "ઇન્ટરવ્યૂ",
+          "hindiPronunciation": "इंटरव्यू",
+          "gujaratiMeaning": "મુલાકાત",
+          "hindiMeaning": "साक्षात्कार"
+        },
+        {
+          "word": "Interval",
+          "gujaratiPronunciation": "ઇન્ટરવલ",
+          "hindiPronunciation": "इंटरवल",
+          "gujaratiMeaning": "અંતરાલ",
+          "hindiMeaning": "अंतराल"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The police had to intervene in the fight.",
+          "gujaratiTranslation": "પોલીસને લડાઈમાં દખલ કરવી પડી.",
+          "hindiTranslation": "पुलिस को लड़ाई में हस्तक्षेप करना पड़ा।",
+          "gujaratiPronunciation": "ધ પોલીસ હેડ ટુ ઇન્ટરવીન ઇન ધ ફાઇટ.",
+          "hindiPronunciation": "द पुलिस हैड टू इंटरवीन इन द फाइट।"
+        }
+      ]
+    },
+    {
+      "word": "Pioneer",
+      "gujaratiPronunciation": "પાયોનિયર",
+      "hindiPronunciation": "पायनियर",
+      "gujaratiMeaning": "પહેલ કરવી",
+      "hindiMeaning": "पहल करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Pioneer",
+          "gujaratiPronunciation": "પાયોનિયર",
+          "hindiPronunciation": "पायनियर",
+          "gujaratiMeaning": "પહેલ કરવી",
+          "hindiMeaning": "पहल करना"
+        },
+        "v2": {
+          "word": "Pioneered",
+          "gujaratiPronunciation": "પાયોનિયર્ડ",
+          "hindiPronunciation": "पायनियर्ड",
+          "gujaratiMeaning": "પહેલ કરી",
+          "hindiMeaning": "पहल की"
+        },
+        "v3": {
+          "word": "Pioneered",
+          "gujaratiPronunciation": "પાયોનિયર્ડ",
+          "hindiPronunciation": "पायनियर्ड",
+          "gujaratiMeaning": "પહેલ કરેલી",
+          "hindiMeaning": "पहल की हुई"
+        },
+        "v4": {
+          "word": "Pioneering",
+          "gujaratiPronunciation": "પાયોનિયરિંગ",
+          "hindiPronunciation": "पायनियरिंग",
+          "gujaratiMeaning": "પહેલ કરી રહ્યું છે",
+          "hindiMeaning": "पहल कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Initiate",
+          "gujaratiPronunciation": "ઇનિશિએટ",
+          "hindiPronunciation": "इनिशिएट",
+          "gujaratiMeaning": "શરૂઆત કરવી",
+          "hindiMeaning": "शुरू करना"
+        },
+        {
+          "word": "Develop",
+          "gujaratiPronunciation": "ડેવલપ",
+          "hindiPronunciation": "डेवलप",
+          "gujaratiMeaning": "વિકસાવવું",
+          "hindiMeaning": "विकसित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Follow",
+          "gujaratiPronunciation": "ફૉલો",
+          "hindiPronunciation": "फॉलो",
+          "gujaratiMeaning": "અનુસરણ કરવું",
+          "hindiMeaning": "अनुसरण करना"
+        },
+        {
+          "word": "Copy",
+          "gujaratiPronunciation": "કૉપિ",
+          "hindiPronunciation": "कॉपी",
+          "gujaratiMeaning": "નકલ કરવી",
+          "hindiMeaning": "नकल करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Piano",
+          "gujaratiPronunciation": "પિયાનો",
+          "hindiPronunciation": "पियानो",
+          "gujaratiMeaning": "પિયાનો",
+          "hindiMeaning": "पियानो"
+        },
+        {
+          "word": "Near",
+          "gujaratiPronunciation": "નિયર",
+          "hindiPronunciation": "नियर",
+          "gujaratiMeaning": "નજીક",
+          "hindiMeaning": "पास"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She pioneered the use of computers in education.",
+          "gujaratiTranslation": "તેમણે શિક્ષણમાં કમ્પ્યુટરના ઉપયોગની પહેલ કરી.",
+          "hindiTranslation": "उन्होंने शिक्षा में कंप्यूटर के उपयोग की पहल की।",
+          "gujaratiPronunciation": "શી પાયોનિયર્ડ ધ યુઝ ઓફ કમ્પ્યુટર્સ ઇન એજ્યુકેશન.",
+          "hindiPronunciation": "शी पायोनियर्ड द यूज़ ऑफ कंप्यूटर्स इन एजुकेशन।"
+        }
+      ]
+    },
+    {
+      "word": "Arbitrate",
+      "gujaratiPronunciation": "આર્બિટ્રેટ",
+      "hindiPronunciation": "आर्बिट्रेट",
+      "gujaratiMeaning": "લવાદ કરવી",
+      "hindiMeaning": "पंच फैसला करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Arbitrate",
+          "gujaratiPronunciation": "આર્બિટ્રેટ",
+          "hindiPronunciation": "आर्बिट्रेट",
+          "gujaratiMeaning": "લવાદ કરવી",
+          "hindiMeaning": "पंच फैसला करना"
+        },
+        "v2": {
+          "word": "Arbitrated",
+          "gujaratiPronunciation": "આર્બિટ્રેટેડ",
+          "hindiPronunciation": "आर्बिट्रेटेड",
+          "gujaratiMeaning": "લવાદ કરી",
+          "hindiMeaning": "पंच फैसला किया"
+        },
+        "v3": {
+          "word": "Arbitrated",
+          "gujaratiPronunciation": "આર્બિટ્રેટેડ",
+          "hindiPronunciation": "आर्बिट्रेटेड",
+          "gujaratiMeaning": "લવાદ કરેલી",
+          "hindiMeaning": "पंच फैसला किया हुआ"
+        },
+        "v4": {
+          "word": "Arbitrating",
+          "gujaratiPronunciation": "આર્બિટ્રેટિંગ",
+          "hindiPronunciation": "आर्बिट्रेटिंग",
+          "gujaratiMeaning": "લવાદ કરી રહ્યું છે",
+          "hindiMeaning": "पंच फैसला कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Adjudicate",
+          "gujaratiPronunciation": "અજ્યુડિકેટ",
+          "hindiPronunciation": "एज्युडिकेट",
+          "gujaratiMeaning": "ન્યાય કરવો",
+          "hindiMeaning": "न्याय करना"
+        },
+        {
+          "word": "Mediate",
+          "gujaratiPronunciation": "મીડિએટ",
+          "hindiPronunciation": "मीडिएट",
+          "gujaratiMeaning": "મધ્યસ્થી કરવી",
+          "hindiMeaning": "मध्यस्थता करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Dispute",
+          "gujaratiPronunciation": "ડિસ્પ્યુટ",
+          "hindiPronunciation": "डिस्प्यूट",
+          "gujaratiMeaning": "વિવાદ કરવો",
+          "hindiMeaning": "विवाद करना"
+        },
+        {
+          "word": "Argue",
+          "gujaratiPronunciation": "આર્ગ્યુ",
+          "hindiPronunciation": "आर्ग्यू",
+          "gujaratiMeaning": "દલીલ કરવી",
+          "hindiMeaning": "बहस करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Irritate",
+          "gujaratiPronunciation": "ઇરિટેટ",
+          "hindiPronunciation": "इरिटेट",
+          "gujaratiMeaning": "ચિડવવું",
+          "hindiMeaning": "चिढ़ाना"
+        },
+        {
+          "word": "Orate",
+          "gujaratiPronunciation": "ઓરેટ",
+          "hindiPronunciation": "ओरेट",
+          "gujaratiMeaning": "ભાષણ આપવું",
+          "hindiMeaning": "भाषण देना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A committee was created to arbitrate the dispute.",
+          "gujaratiTranslation": "વિવાદની લવાદ કરવા માટે એક સમિતિ બનાવવામાં આવી હતી.",
+          "hindiTranslation": "विवाद में पंच फैसला करने के लिए एक समिति बनाई गई थी।",
+          "gujaratiPronunciation": "અ કમિટી વોઝ ક્રિએટેડ ટુ આર્બિટ્રેટ ધ ડિસ્પ્યુટ.",
+          "hindiPronunciation": "अ कमिटी वॉज़ क्रिएटेड टू आर्बिट्रेट द डिस्प्यूट।"
+        }
+      ]
+    }
+  ]
+}

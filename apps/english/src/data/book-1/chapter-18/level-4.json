@@ -1,0 +1,11 @@
+{
+    "id": "level-4",
+    "title": "Special Vehicles",
+    "words": [
+        { "word": "Ferry", "icon": "⛴️", "gujaratiMeaning": "ફેરી", "hindiMeaning": "फेरी", "gujaratiPronunciation": "ફેરી", "hindiPronunciation": "फेरी" },
+        { "word": "Scooter", "icon": "🛴", "gujaratiMeaning": "સ્કૂટર", "hindiMeaning": "स्कूटर", "gujaratiPronunciation": "સ્કૂટર", "hindiPronunciation": "स्कूटर" },
+        { "word": "Rickshaw", "icon": "🛺", "gujaratiMeaning": "રિક્ષા", "hindiMeaning": "रिक्शा", "gujaratiPronunciation": "રિક્ષા", "hindiPronunciation": "रिक्शा" },
+        { "word": "Rocket", "icon": "🚀", "gujaratiMeaning": "રોકેટ", "hindiMeaning": "रॉकेट", "gujaratiPronunciation": "રોકેટ", "hindiPronunciation": "रॉकेट" },
+        { "word": "Helicopter", "icon": "🚁", "gujaratiMeaning": "હેલિકોપ્ટર", "hindiMeaning": "हेलीकॉप्टर", "gujaratiPronunciation": "હેલિકોપ્ટર", "hindiPronunciation": "हेलीकॉप्टर" }
+    ]
+}

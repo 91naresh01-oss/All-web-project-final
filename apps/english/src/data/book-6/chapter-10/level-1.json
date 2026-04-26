@@ -1,0 +1,491 @@
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Sway",
+            "gujaratiPronunciation": "સ્વે",
+            "hindiPronunciation": "स्वे",
+            "gujaratiMeaning": "ઝૂલવું, ડોલવું, પ્રભાવિત કરવું",
+            "hindiMeaning": "झूलना, डोलना, प्रभावित करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Sway",
+                    "gujaratiPronunciation": "સ્વે",
+                    "hindiPronunciation": "स्वे",
+                    "gujaratiMeaning": "ઝૂલવું",
+                    "hindiMeaning": "झूलना"
+                },
+                "V2 (Past)": {
+                    "word": "Swayed",
+                    "gujaratiPronunciation": "સ્વેડ",
+                    "hindiPronunciation": "स्वेड",
+                    "gujaratiMeaning": "ઝૂલ્યું",
+                    "hindiMeaning": "झूला"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Swayed",
+                    "gujaratiPronunciation": "સ્વેડ",
+                    "hindiPronunciation": "स्वेड",
+                    "gujaratiMeaning": "ઝૂલેલું",
+                    "hindiMeaning": "झूला हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Swaying",
+                    "gujaratiPronunciation": "સ્વેઇંગ",
+                    "hindiPronunciation": "स्वेइंग",
+                    "gujaratiMeaning": "ઝૂલી રહ્યું છે",
+                    "hindiMeaning": "झूल रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Influence",
+                    "gujaratiPronunciation": "ઇન્ફ્લુઅન્સ",
+                    "hindiPronunciation": "इन्फ्लुएंस",
+                    "gujaratiMeaning": "પ્રભાવ",
+                    "hindiMeaning": "प्रभाव"
+                },
+                {
+                    "word": "Swing",
+                    "gujaratiPronunciation": "स्विंग",
+                    "hindiPronunciation": "स्विंग",
+                    "gujaratiMeaning": "ઝૂલવું",
+                    "hindiMeaning": "झूलना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Resist",
+                    "gujaratiPronunciation": "રઝિસ્ટ",
+                    "hindiPronunciation": "रेजिस्ट",
+                    "gujaratiMeaning": "પ્રતિકાર કરવો",
+                    "hindiMeaning": "प्रतिरोध करना"
+                },
+                {
+                    "word": "Remain",
+                    "gujaratiPronunciation": "રિમેઇન",
+                    "hindiPronunciation": "रिमेन",
+                    "gujaratiMeaning": "સ્થિર રહેવું",
+                    "hindiMeaning": "स्थिर रहना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Sway",
+                    "gujaratiPronunciation": "સ્વે",
+                    "hindiPronunciation": "स्वे",
+                    "gujaratiMeaning": "ઝૂલવું અથવા પ્રભાવ",
+                    "hindiMeaning": "झूलना या प्रभाव",
+                    "difference": "Sway એ શક્તિ અથવા નિયંત્રણનો ઉલ્લેખ કરે છે."
+                },
+                {
+                    "word": "Way",
+                    "gujaratiPronunciation": "વે",
+                    "hindiPronunciation": "वे",
+                    "gujaratiMeaning": "માર્ગ, રસ્તો",
+                    "hindiMeaning": "मार्ग, रास्ता",
+                    "difference": "Way એ માર્ગ અથવા પદ્ધતિનો ઉલ્લેખ કરે છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The leader's speech began to sway the crowd's opinion.",
+                    "gujaratiPronunciation": "ધ લીડર્સ સ્પીચ બિગેન ટુ સ્વે ધ ક્રાઉડ્સ ઓપિનિયન.",
+                    "hindiPronunciation": "द लीडर्स स्पीच बिगेन टू स्वे द क्राउड्स ओपिनियन।",
+                    "gujaratiTranslation": "નેતાના ભાષણે ભીડના અભિપ્રાયને પ્રભાવિત કરવાનું શરૂ કર્યું.",
+                    "hindiTranslation": "नेता के भाषण ने भीड़ की राय को प्रभावित करना शुरू कर दिया।"
+                }
+            ]
+        },
+        {
+            "word": "Force",
+            "gujaratiPronunciation": "ફોર્સ",
+            "hindiPronunciation": "फोर्स",
+            "gujaratiMeaning": "બળ, દબાણ કરવું",
+            "hindiMeaning": "बल, दबाव डालना",
+            "partOfSpeech": "Verb/Noun",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Force",
+                    "gujaratiPronunciation": "ફોર્સ",
+                    "hindiPronunciation": "फोर्स",
+                    "gujaratiMeaning": "દબાણ કરવું",
+                    "hindiMeaning": "दबाव डालना"
+                },
+                "V2 (Past)": {
+                    "word": "Forced",
+                    "gujaratiPronunciation": "ફોર્સ્ડ",
+                    "hindiPronunciation": " फोर्સ્ડ",
+                    "gujaratiMeaning": "દબાણ કર્યું",
+                    "hindiMeaning": "दबाव डाला"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Forced",
+                    "gujaratiPronunciation": "ફોર્સ્ડ",
+                    "hindiPronunciation": " फोर्સ્ડ",
+                    "gujaratiMeaning": "દબાણ કરેલું",
+                    "hindiMeaning": "दबाव डाला हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Forcing",
+                    "gujaratiPronunciation": "ફોર્સિંગ",
+                    "hindiPronunciation": "फोर्सिंग",
+                    "gujaratiMeaning": "દબાણ કરી રહ્યું છે",
+                    "hindiMeaning": "दबाव डाल रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Compel",
+                    "gujaratiPronunciation": "કમ્પેઇલ",
+                    "hindiPronunciation": "कंपेल",
+                    "gujaratiMeaning": "મજબૂર કરવું",
+                    "hindiMeaning": "मજબूर करना"
+                },
+                {
+                    "word": "Power",
+                    "gujaratiPronunciation": "પાવર",
+                    "hindiPronunciation": "पावर",
+                    "gujaratiMeaning": "શક્તિ",
+                    "hindiMeaning": "शक्ति"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Persuade",
+                    "gujaratiPronunciation": "પરસુએડ",
+                    "hindiPronunciation": "परसुएड",
+                    "gujaratiMeaning": "મનાવવું",
+                    "hindiMeaning": "मनाना"
+                },
+                {
+                    "word": "Weakness",
+                    "gujaratiPronunciation": "વિકનેસ",
+                    "hindiPronunciation": "वीकनेस",
+                    "gujaratiMeaning": "નબળાઈ",
+                    "hindiMeaning": "कमजोरी"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Force",
+                    "gujaratiPronunciation": "ફોર્સ",
+                    "hindiPronunciation": "फोर्स",
+                    "gujaratiMeaning": "બળ અથવા દબાણ",
+                    "hindiMeaning": "बल या दबाव",
+                    "difference": "Force એ શારીરિક અથવા માનસિક દબાણ સૂચવે છે."
+                },
+                {
+                    "word": "Farce",
+                    "gujaratiPronunciation": "ફાર્સ",
+                    "hindiPronunciation": "फ़ાર્સ",
+                    "gujaratiMeaning": "પ્રહસન, હાસ્યજનક નાટક",
+                    "hindiMeaning": "प्रहसन, हास्यजनक नाटक",
+                    "difference": "Farce એ એક પ્રકારનું હાસ્યજનક નાટક છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The police had to use force to open the door.",
+                    "gujaratiPronunciation": "ધ પોલીસ હેડ ટુ યુઝ ફોર્સ ટુ ઓપન ધ ડોર.",
+                    "hindiPronunciation": "द पुलिस हैड टू यूज़ फोर्स टू ओपन द डोर।",
+                    "gujaratiTranslation": "પોલીસને દરવાજો ખોલવા માટે બળનો ઉપયોગ કરવો પડ્યો.",
+                    "hindiTranslation": "पुलिस को दरवाज़ा खोलने के लिए बल का प्रयोग करना पड़ा।"
+                }
+            ]
+        },
+        {
+            "word": "Affect",
+            "gujaratiPronunciation": "અફેક્ટ",
+            "hindiPronunciation": "अफेक्ट",
+            "gujaratiMeaning": "અસર કરવી",
+            "hindiMeaning": "प्रभाव डालना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Affect",
+                    "gujaratiPronunciation": "અફેક્ટ",
+                    "hindiPronunciation": "अफेक्ट",
+                    "gujaratiMeaning": "અસર કરવી",
+                    "hindiMeaning": "प्रभाव डालना"
+                },
+                "V2 (Past)": {
+                    "word": "Affected",
+                    "gujaratiPronunciation": "અફેક્ટેડ",
+                    "hindiPronunciation": "अफेक्टेड",
+                    "gujaratiMeaning": "અસર કરી",
+                    "hindiMeaning": "प्रभाव डाला"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Affected",
+                    "gujaratiPronunciation": "અફેક્ટેડ",
+                    "hindiPronunciation": "अफेक्टेड",
+                    "gujaratiMeaning": "અસર કરેલી",
+                    "hindiMeaning": "प्रभाव डाला हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Affecting",
+                    "gujaratiPronunciation": "અફેક્ટિંગ",
+                    "hindiPronunciation": "अaffecting",
+                    "gujaratiMeaning": "અસર કરી રહ્યું છે",
+                    "hindiMeaning": "प्रभाव डाल रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Influence",
+                    "gujaratiPronunciation": "ઇન્ફ્લુઅન્સ",
+                    "hindiPronunciation": "इन्फ्लुएंस",
+                    "gujaratiMeaning": "પ્રભાવિત કરવું",
+                    "hindiMeaning": "प्रभावित करना"
+                },
+                {
+                    "word": "Impact",
+                    "gujaratiPronunciation": "ઇમ્પેક્ટ",
+                    "hindiPronunciation": "इम्पैक्ट",
+                    "gujaratiMeaning": "અસર કરવી",
+                    "hindiMeaning": "प्रभाव डालना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Ignore",
+                    "gujaratiPronunciation": "ઇગ્નોર",
+                    "hindiPronunciation": "इग्नोर",
+                    "gujaratiMeaning": "અવગણવું",
+                    "hindiMeaning": "नजरअंदाज करना"
+                },
+                {
+                    "word": "Neglect",
+                    "gujaratiPronunciation": "નેગલેક્ટ",
+                    "hindiPronunciation": "नेग्लेक्ट",
+                    "gujaratiMeaning": "ઉપેક્ષા કરવી",
+                    "hindiMeaning": "उपेक्षा करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Affect",
+                    "gujaratiPronunciation": "અફેક્ટ",
+                    "hindiPronunciation": "अफेक्ट",
+                    "gujaratiMeaning": "અસર કરવી (ક્રિયાપદ)",
+                    "hindiMeaning": "प्रभाव डालना (क्रिया)",
+                    "difference": "Affect ક્રિયાપદ છે જેનો અર્થ છે કોઈ વસ્તુ પર અસર કરવી."
+                },
+                {
+                    "word": "Effect",
+                    "gujaratiPronunciation": "ઇફેક્ટ",
+                    "hindiPronunciation": "इफेक्ट",
+                    "gujaratiMeaning": "અસર, પરિણામ (સંજ્ઞા)",
+                    "hindiMeaning": "प्रभाव, परिणाम (संज्ञा)",
+                    "difference": "Effect સંજ્ઞા છે જેનો અર્થ છે કોઈ ક્રિયાનું પરિણામ."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The changing weather will affect our travel plans.",
+                    "gujaratiPronunciation": "ધ ચેન્જિંગ વેધર વિલ અફેક્ટ અવર ટ્રાવેલ પ્લાન્સ.",
+                    "hindiPronunciation": "द चेंजिंग वेदर विल अफेक्ट अवर ट्रैवल प्लान्स।",
+                    "gujaratiTranslation": "બદલાતું હવામાન અમારી મુસાફરીની યોજનાઓને અસર કરશે.",
+                    "hindiTranslation": "बदलता मौसम हमारी यात्रा योजनाओं को प्रभावित करेगा।"
+                }
+            ]
+        },
+        {
+            "word": "Influence",
+            "gujaratiPronunciation": "ઇન્ફ્લુઅન્સ",
+            "hindiPronunciation": "इन्फ्लुएंस",
+            "gujaratiMeaning": "પ્રભાવ, અસર",
+            "hindiMeaning": "प्रभाव, असर",
+            "partOfSpeech": "Noun/Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Influence",
+                    "gujaratiPronunciation": "ઇન્ફ્લુઅન્સ",
+                    "hindiPronunciation": "इन्फ्लुएंस",
+                    "gujaratiMeaning": "પ્રભાવિત કરવું",
+                    "hindiMeaning": "प्रभावित करना"
+                },
+                "V2 (Past)": {
+                    "word": "Influenced",
+                    "gujaratiPronunciation": "ઇન્ફ્લુઅન્સ્ડ",
+                    "hindiPronunciation": "इन्फ्लुएंस्ड",
+                    "gujaratiMeaning": "પ્રભાવિત કર્યું",
+                    "hindiMeaning": "प्रभावित किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Influenced",
+                    "gujaratiPronunciation": "ઇન્ફ્લુઅન્સ્ડ",
+                    "hindiPronunciation": "इन्फ्लुएंस्ड",
+                    "gujaratiMeaning": "પ્રભાવિત કરેલું",
+                    "hindiMeaning": "प्रभावित किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Influencing",
+                    "gujaratiPronunciation": "ઇન્ફ્લુઅન્સિંગ",
+                    "hindiPronunciation": "इन्फ्लुएंसिंग",
+                    "gujaratiMeaning": "પ્રભાવિત કરી રહ્યું છે",
+                    "hindiMeaning": "प्रभावित कर रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Sway",
+                    "gujaratiPronunciation": "સ્વે",
+                    "hindiPronunciation": "स्वे",
+                    "gujaratiMeaning": "પ્રભાવિત કરવું",
+                    "hindiMeaning": "प्रभावित करना"
+                },
+                {
+                    "word": "Impact",
+                    "gujaratiPronunciation": "ઇમ્પેક્ટ",
+                    "hindiPronunciation": "इम्पैक्ट",
+                    "gujaratiMeaning": "અસર",
+                    "hindiMeaning": "असर"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Insignificance",
+                    "gujaratiPronunciation": "ઇનસિગ્નિફિકન્સ",
+                    "hindiPronunciation": "इनसिग्निफिकेंस",
+                    "gujaratiMeaning": "મહત્વહીનતા",
+                    "hindiMeaning": "महत्वहीनता"
+                },
+                {
+                    "word": "Powerlessness",
+                    "gujaratiPronunciation": "પાવરલેસનેસ",
+                    "hindiPronunciation": "पावरलेसनेस",
+                    "gujaratiMeaning": "અશક્તિ",
+                    "hindiMeaning": "अशक्ति"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Influence",
+                    "gujaratiPronunciation": "ઇન્ફ્લુઅન્સ",
+                    "hindiPronunciation": "इन्फ्लुएंस",
+                    "gujaratiMeaning": "પ્રભાવ",
+                    "hindiMeaning": "प्रभाव",
+                    "difference": "Influence એ કોઈના પર પરોક્ષ શક્તિ છે."
+                },
+                {
+                    "word": "Influenza",
+                    "gujaratiPronunciation": "ઇન્ફ્લુએન્ઝા",
+                    "hindiPronunciation": "इन्फ्लूएंजा",
+                    "gujaratiMeaning": "એક પ્રકારનો તાવ",
+                    "hindiMeaning": "एक प्रकार का बुखार",
+                    "difference": "Influenza એ શ્વસનતંત્રનો ચેપી રોગ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Her parents have a strong influence on her career choice.",
+                    "gujaratiPronunciation": "હર પેરેન્ટ્સ હેવ અ સ્ટ્રોંગ ઇન્ફ્લુઅન્સ ઓન હર કરિયર ચોઇસ.",
+                    "hindiPronunciation": "हर पेरेंट्स हैव अ स्ट्रॉन्ग इन्फ्लुएंस ऑन हर करियर चॉइस।",
+                    "gujaratiTranslation": "તેના માતાપિતાનો તેની કારકિર્દીની પસંદગી પર મજબૂત પ્રભાવ છે.",
+                    "hindiTranslation": "उसके माता-पिता का उसके करियर विकल्प पर गहरा प्रभाव है।"
+                }
+            ]
+        },
+        {
+            "word": "Compel",
+            "gujaratiPronunciation": "કમ્પેઇલ",
+            "hindiPronunciation": "कंपेल",
+            "gujaratiMeaning": "મજબૂર કરવું, દબાણ કરવું",
+            "hindiMeaning": "मजबूर करना, विवश करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Compel",
+                    "gujaratiPronunciation": "કમ્પેઇલ",
+                    "hindiPronunciation": "कंपेल",
+                    "gujaratiMeaning": "મજબૂર કરવું",
+                    "hindiMeaning": "मजबूर करना"
+                },
+                "V2 (Past)": {
+                    "word": "Compelled",
+                    "gujaratiPronunciation": "કમ્પેઇલ્ડ",
+                    "hindiPronunciation": "कंपेल्ड",
+                    "gujaratiMeaning": "મજબૂર કર્યું",
+                    "hindiMeaning": "मजबूर किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Compelled",
+                    "gujaratiPronunciation": "કમ્પેઇલ્ડ",
+                    "hindiPronunciation": "कंपेल्ड",
+                    "gujaratiMeaning": "મજબૂર કરેલું",
+                    "hindiMeaning": "मजबूर किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Compelling",
+                    "gujaratiPronunciation": "કમ્પેઇલિંગ",
+                    "hindiPronunciation": "कंपेलिंग",
+                    "gujaratiMeaning": "મજબૂર કરી રહ્યું છે",
+                    "hindiMeaning": "मजबूर कर रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Force",
+                    "gujaratiPronunciation": "ફોર્સ",
+                    "hindiPronunciation": "फोर्स",
+                    "gujaratiMeaning": "દબાણ કરવું",
+                    "hindiMeaning": "दबाव डालना"
+                },
+                {
+                    "word": "Oblige",
+                    "gujaratiPronunciation": "ઓબ્લાઇજ",
+                    "hindiPronunciation": "ओब्लाइज",
+                    "gujaratiMeaning": "આભારી બનાવવું",
+                    "hindiMeaning": "बाध्य करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Allow",
+                    "gujaratiPronunciation": "અલાઉ",
+                    "hindiPronunciation": "अलाउ",
+                    "gujaratiMeaning": "પરવાનગી આપવી",
+                    "hindiMeaning": "अनुमति देना"
+                },
+                {
+                    "word": "Free",
+                    "gujaratiPronunciation": "ફ્રી",
+                    "hindiPronunciation": "फ्री",
+                    "gujaratiMeaning": "મુક્ત કરવું",
+                    "hindiMeaning": "मुक्त करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Compel",
+                    "gujaratiPronunciation": "કમ્પેઇલ",
+                    "hindiPronunciation": "कंपेल",
+                    "gujaratiMeaning": "મજબૂર કરવું",
+                    "hindiMeaning": "मजबूर करना",
+                    "difference": "Compel એટલે કોઈને કંઈક કરવા માટે બળજબરી કરવી."
+                },
+                {
+                    "word": "Excel",
+                    "gujaratiPronunciation": "એક્સેલ",
+                    "hindiPronunciation": "एक्सेल",
+                    "gujaratiMeaning": "શ્રેષ્ઠ હોવું",
+                    "hindiMeaning": "उत्कृष्ट होना",
+                    "difference": "Excel એટલે કોઈ કાર્યમાં શ્રેષ્ઠ પ્રદર્શન કરવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The evidence was so strong it would compel a jury to convict.",
+                    "gujaratiPronunciation": "ધ એવિડન્સ વોઝ સો સ્ટ્રોંગ ઇટ વુડ કમ્પેઇલ અ જ્યુરી ટુ કન્વિક્ટ.",
+                    "hindiPronunciation": "द एविडेंस वॉઝ सो स्ट्रॉन्ग इट वुड कंपेल अ ज्यूरी टू convict।",
+                    "gujaratiTranslation": "પુરાવા એટલા મજબૂત હતા કે તે જ્યુરીને દોષિત ઠેરવવા માટે મજબૂર કરશે.",
+                    "hindiTranslation": "सबूत इतने पुख्ता थे कि यह जूरी को दोषी ठहराने के लिए मजबूर कर देगा।"
+                }
+            ]
+        }
+    ]
+}

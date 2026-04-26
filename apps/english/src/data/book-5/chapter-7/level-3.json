@@ -1,0 +1,163 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Reconcile",
+      "gujaratiPronunciation": "રિકન્સાઇલ",
+      "hindiPronunciation": "रिकंसाइल",
+      "gujaratiMeaning": "મેળવવું/સમાધાન કરવું",
+      "hindiMeaning": "मिलान करना/समझौता करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Reconcile", "gujaratiPronunciation": "રિકન્સાઇલ", "hindiPronunciation": "रिकंसाइल", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "मिलान करना" },
+        "v2": { "word": "Reconciled", "gujaratiPronunciation": "રિકન્સાઇલ્ડ", "hindiPronunciation": "रिकंसाइल्ड", "gujaratiMeaning": "મેળવ્યું", "hindiMeaning": "मिलान किया" },
+        "v3": { "word": "Reconciled", "gujaratiPronunciation": "રિકન્સાઇલ્ડ", "hindiPronunciation": "रिकंसाइल्ड", "gujaratiMeaning": "મેળવેલું", "hindiMeaning": "मिलान किया हुआ" },
+        "v4": { "word": "Reconciling", "gujaratiPronunciation": "રિકન્સાઇલિંગ", "hindiPronunciation": "रिकंसाइलिंग", "gujaratiMeaning": "મેળવી રહ્યું છે", "hindiMeaning": "मिलान कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Settle", "gujaratiPronunciation": "સેટલ", "hindiPronunciation": "सेटल", "gujaratiMeaning": "પતાવટ કરવી", "hindiMeaning": "निपटना" },
+        { "word": "Harmonize", "gujaratiPronunciation": "હાર્મોનાઇઝ", "hindiPronunciation": "हार्मोनाइज़", "gujaratiMeaning": "સુરમેળ કરવો", "hindiMeaning": "सामंजस्य बैठाना" }
+      ],
+      "antonyms": [
+        { "word": "Disagree", "gujaratiPronunciation": "ડિસએગ્રી", "hindiPronunciation": "डिसएग्री", "gujaratiMeaning": "અસંમત થવું", "hindiMeaning": "असहमत होना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "It's important to reconcile your bank statements each month.",
+          "gujaratiTranslation": "દર મહિને તમારા બેંક સ્ટેટમેન્ટનો મેળ કરવો મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "हर महीने अपने बैंक स्टेटमेंट का मिलान करना महत्वपूर्ण है।",
+          "gujaratiPronunciation": "ઇટ્સ ઇમ્પોર્ટન્ટ ટુ રિકન્સાઇલ યોર બેંક સ્ટેટમેન્ટ્સ ઇચ મન્થ.",
+          "hindiPronunciation": "इट्स इम्पोर्टेंट टू रिकंसाइल योर बैंक स्टेटमेंट्स ईच मंथ।"
+        }
+      ]
+    },
+    {
+      "word": "Capitalize",
+      "gujaratiPronunciation": "કેપિટલાઇઝ",
+      "hindiPronunciation": "कैपिटलाइज़",
+      "gujaratiMeaning": "મૂડીકરણ કરવું",
+      "hindiMeaning": "पूंजीकरण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Capitalize", "gujaratiPronunciation": "કેપિટલાઇઝ", "hindiPronunciation": "कैपिटलाइज़", "gujaratiMeaning": "મૂડીકરણ કરવું", "hindiMeaning": "पूंजीकरण करना" },
+        "v2": { "word": "Capitalized", "gujaratiPronunciation": "કેપિટલાઇઝ્ડ", "hindiPronunciation": "कैपिटलाइज़्ड", "gujaratiMeaning": "મૂડીકરણ કર્યું", "hindiMeaning": "पूंजीकरण किया" },
+        "v3": { "word": "Capitalized", "gujaratiPronunciation": "કેપિટલાઇઝ્ડ", "hindiPronunciation": "कैपिटलाइज़्ड", "gujaratiMeaning": "મૂડીકરણ કરેલું", "hindiMeaning": "पूंजीकरण किया हुआ" },
+        "v4": { "word": "Capitalizing", "gujaratiPronunciation": "કેપિટલાઇઝિંગ", "hindiPronunciation": "कैपिटलाइज़िंग", "gujaratiMeaning": "મૂડીકરણ કરી રહ્યું છે", "hindiMeaning": "पूंजीकरण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Fund", "gujaratiPronunciation": "ફંડ", "hindiPronunciation": "फंड", "gujaratiMeaning": "ભંડોળ પૂરું પાડવું", "hindiMeaning": "वित्त पोषण करना" },
+        { "word": "Finance", "gujaratiPronunciation": "ફાઇનાન્સ", "hindiPronunciation": "फाइनेंस", "gujaratiMeaning": "નાણાંકીય વ્યવસ્થા કરવી", "hindiMeaning": "वित्त-व्यवस्था करना" }
+      ],
+      "antonyms": [
+        { "word": "Divest", "gujaratiPronunciation": "ડાઇવેસ્ટ", "hindiPronunciation": "डाइवेस्ट", "gujaratiMeaning": "વિનિવેશ કરવો", "hindiMeaning": "विनिवेश करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company decided to capitalize on the new market opportunity.",
+          "gujaratiTranslation": "કંપનીએ બજારની નવી તકનું મૂડીકરણ કરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "कंपनी ने नए बाजार अवसर का लाभ उठाने का फैसला किया।",
+          "gujaratiPronunciation": "ધ કંપની ડિસાઇડેડ ટુ કેપિટલાઇઝ ઓન ધ ન્યૂ માર્કેટ ઓપોર્ચ્યુનિટી.",
+          "hindiPronunciation": "द कंपनी डिसाइडेड टू कैपिटलाइज़ ऑन द न्यू मार्केट ऑपर्च्युनिटी।"
+        }
+      ]
+    },
+    {
+      "word": "Levy",
+      "gujaratiPronunciation": "લેવી",
+      "hindiPronunciation": "लेवी",
+      "gujaratiMeaning": "કર નાખવો",
+      "hindiMeaning": "कर लगाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Levy", "gujaratiPronunciation": "લેવી", "hindiPronunciation": "लेवी", "gujaratiMeaning": "કર નાખવો", "hindiMeaning": "कर लगाना" },
+        "v2": { "word": "Levied", "gujaratiPronunciation": "લેવિડ", "hindiPronunciation": "लेविड", "gujaratiMeaning": "કર નાખ્યો", "hindiMeaning": "कर लगाया" },
+        "v3": { "word": "Levied", "gujaratiPronunciation": "લેવિડ", "hindiPronunciation": "लेविड", "gujaratiMeaning": "કર નાખેલો", "hindiMeaning": "कर लगाया हुआ" },
+        "v4": { "word": "Levying", "gujaratiPronunciation": "લેવિઇંગ", "hindiPronunciation": "लेविइंग", "gujaratiMeaning": "કર નાખી રહ્યું છે", "hindiMeaning": "कर लगा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Impose", "gujaratiPronunciation": "ઇમ્પોઝ", "hindiPronunciation": "इंपोज", "gujaratiMeaning": "લાદવું", "hindiMeaning": "लगाना" },
+        { "word": "Charge", "gujaratiPronunciation": "ચાર્જ", "hindiPronunciation": "चार्ज", "gujaratiMeaning": "શુલ્ક લેવો", "hindiMeaning": "शुल्क लेना" }
+      ],
+      "antonyms": [
+        { "word": "Waive", "gujaratiPronunciation": "વેઇવ", "hindiPronunciation": "वेव", "gujaratiMeaning": "માફ કરવું", "hindiMeaning": "माफ़ करना" }
+      ],
+      "confusingWords": [
+        { "word": "Levee", "gujaratiPronunciation": "લેવી", "hindiPronunciation": "लेवी", "gujaratiMeaning": "પૂર રોકવા માટેનો બંધ", "hindiMeaning": "तटबंध", "difference": "Levy એટલે કર, જ્યારે Levee એટલે નદી કિનારાનો બંધ." }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government will levy a new tax on luxury goods.",
+          "gujaratiTranslation": "સરકાર લક્ઝરી વસ્તુઓ પર નવો કર નાખશે.",
+          "hindiTranslation": "सरकार विलासिता की वस्तुओं पर एक नया कर लगाएगी।",
+          "gujaratiPronunciation": "ધ ગવર્મેન્ટ વિલ લેવી અ ન્યૂ ટેક્સ ઓન લક્ઝરી ગુડ્સ.",
+          "hindiPronunciation": "द गवर्नमेंट विल लेवी अ न्यू टैक्स ऑन लग्जरी गुड्स।"
+        }
+      ]
+    },
+    {
+      "word": "Amortize",
+      "gujaratiPronunciation": "એમોર્ટાઇઝ",
+      "hindiPronunciation": "एमोर्टाइज़",
+      "gujaratiMeaning": "ઋણમુક્તિ કરવી",
+      "hindiMeaning": "ऋण चुकाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Amortize", "gujaratiPronunciation": "એમોર્ટાઇઝ", "hindiPronunciation": "एमोर्टाइज़", "gujaratiMeaning": "ઋણમુક્તિ કરવી", "hindiMeaning": "ऋण चुकाना" },
+        "v2": { "word": "Amortized", "gujaratiPronunciation": "એમોર્ટાઇઝ્ડ", "hindiPronunciation": "एमोर्टाइज़्ड", "gujaratiMeaning": "ઋણમુક્તિ કરી", "hindiMeaning": "ऋण चुकाया" },
+        "v3": { "word": "Amortized", "gujaratiPronunciation": "એમોર્ટાઇઝ્ડ", "hindiPronunciation": "एमोर्टाइज़्ड", "gujaratiMeaning": "ઋણમુક્તિ કરેલી", "hindiMeaning": "ऋण चुकाया हुआ" },
+        "v4": { "word": "Amortizing", "gujaratiPronunciation": "એમોર્ટાઇઝિંગ", "hindiPronunciation": "एमोर्टाइज़िंग", "gujaratiMeaning": "ઋણમુક્તિ કરી રહ્યું છે", "hindiMeaning": "ऋण चुका रहा है" }
+      },
+      "synonyms": [
+        { "word": "Pay off", "gujaratiPronunciation": "પે ઓફ", "hindiPronunciation": "पे ऑफ", "gujaratiMeaning": "ચૂકવી દેવું", "hindiMeaning": "चुका देना" },
+        { "word": "Repay", "gujaratiPronunciation": "રિપે", "hindiPronunciation": "रिपे", "gujaratiMeaning": "પરત ચૂકવવું", "hindiMeaning": "वापस चुकाना" }
+      ],
+      "antonyms": [
+        { "word": "Accrue", "gujaratiPronunciation": "એક્રૂ", "hindiPronunciation": "एक्रू", "gujaratiMeaning": "વધવું", "hindiMeaning": "बढ़ना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The loan will be amortized over a period of 25 years.",
+          "gujaratiTranslation": "આ લોનની 25 વર્ષના સમયગાળામાં ઋણમુક્તિ કરવામાં આવશે.",
+          "hindiTranslation": "ऋण को 25 साल की अवधि में चुकाया जाएगा।",
+          "gujaratiPronunciation": "ધ લોન વિલ બી એમોર્ટાઇઝ્ડ ઓવર અ પીરિયડ ઓફ 25 યર્સ.",
+          "hindiPronunciation": "द लोन विल बी एमोर्टाइज़्ड ओवर अ पीरियड ऑफ 25 इयर्स।"
+        }
+      ]
+    },
+    {
+      "word": "Guarantee",
+      "gujaratiPronunciation": "ગેરેન્ટી",
+      "hindiPronunciation": "गारंटी",
+      "gujaratiMeaning": "ખાતરી આપવી",
+      "hindiMeaning": "गारंटी देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Guarantee", "gujaratiPronunciation": "ગેરેન્ટી", "hindiPronunciation": "गारंटी", "gujaratiMeaning": "ખાતરી આપવી", "hindiMeaning": "गारंटी देना" },
+        "v2": { "word": "Guaranteed", "gujaratiPronunciation": "ગેરેન્ટીડ", "hindiPronunciation": "गारंटीड", "gujaratiMeaning": "ખાતરી આપી", "hindiMeaning": "गारंटी दी" },
+        "v3": { "word": "Guaranteed", "gujaratiPronunciation": "ગેરેન્ટીડ", "hindiPronunciation": "गारंटीड", "gujaratiMeaning": "ખાતરી આપેલી", "hindiMeaning": "गारंटी दी हुई" },
+        "v4": { "word": "Guaranteeing", "gujaratiPronunciation": "ગેરેન્ટીઇંગ", "hindiPronunciation": "गारंटीइंग", "gujaratiMeaning": "ખાતરી આપી રહ્યું છે", "hindiMeaning": "गारंटी दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Assure", "gujaratiPronunciation": "એશ્યોર", "hindiPronunciation": "एश्योर", "gujaratiMeaning": "આશ્વાસન આપવું", "hindiMeaning": "आश्वासन देना" },
+        { "word": "Warrant", "gujaratiPronunciation": "વોરંટ", "hindiPronunciation": "वॉरंट", "gujaratiMeaning": "પ્રમાણિત કરવું", "hindiMeaning": "प्रमाणित करना" }
+      ],
+      "antonyms": [
+        { "word": "Disclaim", "gujaratiPronunciation": "ડિસ્ક્લેમ", "hindiPronunciation": "डिस्क्लेम", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "We guarantee the quality of our products.",
+          "gujaratiTranslation": "અમે અમારા ઉત્પાદનોની ગુણવત્તાની ખાતરી આપીએ છીએ.",
+          "hindiTranslation": "हम अपने उत्पादों की गुणवत्ता की गारंटी देते हैं।",
+          "gujaratiPronunciation": "વી ગેરેન્ટી ધ ક્વોલિટી ઓફ અવર પ્રોડક્ટ્સ.",
+          "hindiPronunciation": "वी गारंटी द क्वालिटी ऑफ आवर प्रोडक्ट्स।"
+        }
+      ]
+    }
+  ]
+}

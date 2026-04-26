@@ -1,0 +1,176 @@
+{
+  "id": "level-2",
+  "title": "Support & Celebration",
+  "words": [
+    {
+      "word": "Uphold",
+      "gujaratiPronunciation": "અપહોલ્ડ",
+      "hindiPronunciation": "अपहोल्ड",
+      "gujaratiMeaning": "સમર્થન કરવું, ટકાવી રાખવું",
+      "hindiMeaning": "समर्थन करना, बनाए रखना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Uphold", "gujaratiPronunciation": "અપહોલ્ડ", "hindiPronunciation": "अपहोल्ड", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" },
+        "V2 (Past)": { "word": "Upheld", "gujaratiPronunciation": "અપહેલ્ડ", "hindiPronunciation": "अपहेल्ड", "gujaratiMeaning": "સમર્થન કર્યું", "hindiMeaning": "समर्थन किया" },
+        "V3 (Past Participle)": { "word": "Upheld", "gujaratiPronunciation": "અપહેલ્ડ", "hindiPronunciation": "अपहेल्ड", "gujaratiMeaning": "સમર્થન કરેલું", "hindiMeaning": "समर्थन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Upholding", "gujaratiPronunciation": "અપહોલ્ડિંગ", "hindiPronunciation": "अपहोल्डिंग", "gujaratiMeaning": "સમર્થન કરી રહ્યું", "hindiMeaning": "समर्थन कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "ટેકો આપવો", "hindiMeaning": "समर्थन करना" },
+        { "word": "Maintain", "gujaratiPronunciation": "મેન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "antonyms": [
+        { "word": "Abandon", "gujaratiPronunciation": "અબેન્ડન", "hindiPronunciation": "अबैंडन", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "छोड़ देना" },
+        { "word": "Oppose", "gujaratiPronunciation": "ઓપોઝ", "hindiPronunciation": "अपोज़", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" }
+      ],
+      "confusingWords": [
+        { "word": "Uphill", "gujaratiPronunciation": "અપહિલ", "hindiPronunciation": "अपहिल", "gujaratiMeaning": "ચઢાણ", "hindiMeaning": "चढ़ाई" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The court upheld the previous decision.",
+          "gujaratiTranslation": "કોર્ટે અગાઉના નિર્ણયને યથાવત રાખ્યો.",
+          "hindiTranslation": "अदालत ने पिछले फैसले को बरकरार रखा।",
+          "gujaratiPronunciation": "ધ કોર્ટ અપહેલ્ડ ધ પ્રિવિયસ ડિસિઝન.",
+          "hindiPronunciation": "द कोर्ट अपहेल्ड द प्रीवियस डिसीजन।"
+        }
+      ]
+    },
+    {
+      "word": "Bolster",
+      "gujaratiPronunciation": "બોલ્સ્ટર",
+      "hindiPronunciation": "बोल्स्टर",
+      "gujaratiMeaning": "મજબૂત કરવું, ટેકો આપવો",
+      "hindiMeaning": "मजबूत करना, सहारा देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Bolster", "gujaratiPronunciation": "બોલ્સ્ટર", "hindiPronunciation": "बोल्स्टर", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "मजबूत करना" },
+        "V2 (Past)": { "word": "Bolstered", "gujaratiPronunciation": "બોલ્સ્ટર્ડ", "hindiPronunciation": "बोल्स्टर्ड", "gujaratiMeaning": "મજબૂત કર્યું", "hindiMeaning": "मजबूत किया" },
+        "V3 (Past Participle)": { "word": "Bolstered", "gujaratiPronunciation": "બોલ્સ્ટર્ડ", "hindiPronunciation": "बोल्स्टर्ड", "gujaratiMeaning": "મજબૂત કરેલું", "hindiMeaning": "मजबूत किया हुआ" },
+        "V4 (Present Participle)": { "word": "Bolstering", "gujaratiPronunciation": "બોલ્સ્ટરિંગ", "hindiPronunciation": "बोल्स्टरिंग", "gujaratiMeaning": "મજબૂત કરી રહ્યું", "hindiMeaning": "मजबूत कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Strengthen", "gujaratiPronunciation": "સ્ટ્રેન્થન", "hindiPronunciation": "स्ट्रेंग्थेन", "gujaratiMeaning": "મજબૂત બનાવવું", "hindiMeaning": "मजबूत बनाना" },
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" }
+      ],
+      "antonyms": [
+        { "word": "Weaken", "gujaratiPronunciation": "વિકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमजोर करना" },
+        { "word": "Undermine", "gujaratiPronunciation": "અન્ડરમાઇન", "hindiPronunciation": "अंडरमाइन", "gujaratiMeaning": "ક્ષીણ કરવું", "hindiMeaning": "कमजोर करना" }
+      ],
+      "confusingWords": [
+        { "word": "Blister", "gujaratiPronunciation": "બ્લિસ્ટર", "hindiPronunciation": "ब्लिस्टर", "gujaratiMeaning": "ફોલ્લો", "hindiMeaning": "छाला" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The new evidence will bolster his argument.",
+          "gujaratiTranslation": "નવા પુરાવા તેની દલીલને મજબૂત કરશે.",
+          "hindiTranslation": "नया सबूत उसके तर्क को मजबूत करेगा।",
+          "gujaratiPronunciation": "ધ ન્યૂ એવિડન્સ વિલ બોલ્સ્ટર હિસ આર્ગ્યુમેન્ટ.",
+          "hindiPronunciation": "द न्यू एविडेंस विल बोल्स्टर हिज़ आर्ग्यूमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Host",
+      "gujaratiPronunciation": "હોસ્ટ",
+      "hindiPronunciation": "होस्ट",
+      "gujaratiMeaning": "યજમાની કરવી, આયોજન કરવું",
+      "hindiMeaning": "मेजबानी करना, आयोजन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Host", "gujaratiPronunciation": "હોસ્ટ", "hindiPronunciation": "होस्ट", "gujaratiMeaning": "યજમાની કરવી", "hindiMeaning": "मेजबानी करना" },
+        "V2 (Past)": { "word": "Hosted", "gujaratiPronunciation": "હોસ્ટેડ", "hindiPronunciation": "होस्टेड", "gujaratiMeaning": "યજમાની કરી", "hindiMeaning": "मेजबानी की" },
+        "V3 (Past Participle)": { "word": "Hosted", "gujaratiPronunciation": "હોસ્ટેડ", "hindiPronunciation": "होस्टेड", "gujaratiMeaning": "યજમાની કરેલી", "hindiMeaning": "मेजबानी की हुई" },
+        "V4 (Present Participle)": { "word": "Hosting", "gujaratiPronunciation": "હોસ્ટિંગ", "hindiPronunciation": "होस्टिंग", "gujaratiMeaning": "યજમાની કરી રહ્યું", "hindiMeaning": "मेजबानी कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઇઝ", "hindiPronunciation": "ऑर्गनाइज़", "gujaratiMeaning": "આયોજન કરવું", "hindiMeaning": "आयोजन करना" },
+        { "word": "Present", "gujaratiPronunciation": "પ્રેઝન્ટ", "hindiPronunciation": "प्रेजेंट", "gujaratiMeaning": "રજૂ કરવું", "hindiMeaning": "प्रस्तुत करना" }
+      ],
+      "antonyms": [
+        { "word": "Attend", "gujaratiPronunciation": "અટેન્ડ", "hindiPronunciation": "अटेंड", "gujaratiMeaning": "હાજરી આપવી", "hindiMeaning": "उपस्थित होना" },
+        { "word": "Visit", "gujaratiPronunciation": "વિઝિટ", "hindiPronunciation": "विजिट", "gujaratiMeaning": "મુલાકાત લેવી", "hindiMeaning": "मिलने जाना" }
+      ],
+      "confusingWords": [
+        { "word": "Ghost", "gujaratiPronunciation": "ઘોસ્ટ", "hindiPronunciation": "घोस्ट", "gujaratiMeaning": "ભૂત", "hindiMeaning": "भूत" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We will host a dinner party next week.",
+          "gujaratiTranslation": "અમે આવતા અઠવાડિયે ડિનર પાર્ટીનું આયોજન કરીશું.",
+          "hindiTranslation": "हम अगले हफ्ते एक डिनर पार्टी की मेजबानी करेंगे।",
+          "gujaratiPronunciation": "વી વિલ હોસ્ટ અ ડિનર પાર્ટી નેક્સ્ટ વીક.",
+          "hindiPronunciation": "वी विल होस्ट अ डिनर पार्टी नेक्स्ट वीक।"
+        }
+      ]
+    },
+    {
+      "word": "Rejoice",
+      "gujaratiPronunciation": "રિજોઇસ",
+      "hindiPronunciation": "रिजॉइस",
+      "gujaratiMeaning": "આનંદ કરવો, ખુશ થવું",
+      "hindiMeaning": "आनंद मनाना, खुश होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Rejoice", "gujaratiPronunciation": "રિજોઇસ", "hindiPronunciation": "रिजॉइस", "gujaratiMeaning": "આનંદ કરવો", "hindiMeaning": "आनंद मनाना" },
+        "V2 (Past)": { "word": "Rejoiced", "gujaratiPronunciation": "રિજોઇસ્ડ", "hindiPronunciation": "रिजॉइस्ड", "gujaratiMeaning": "આનંદ કર્યો", "hindiMeaning": "आनंद मनाया" },
+        "V3 (Past Participle)": { "word": "Rejoiced", "gujaratiPronunciation": "રિજોઇસ્ડ", "hindiPronunciation": "रिजॉइस्ड", "gujaratiMeaning": "આનંદ કરેલો", "hindiMeaning": "आनंद मनाया हुआ" },
+        "V4 (Present Participle)": { "word": "Rejoicing", "gujaratiPronunciation": "રિજોઇસિંગ", "hindiPronunciation": "रिजॉइसिंग", "gujaratiMeaning": "આનંદ કરી રહ્યું", "hindiMeaning": "आनंद मना रहा" }
+      },
+      "synonyms": [
+        { "word": "Celebrate", "gujaratiPronunciation": "સેલિબ્રેટ", "hindiPronunciation": "सेलिब्रेट", "gujaratiMeaning": "ઉજવણી કરવી", "hindiMeaning": "जश्न मनाना" },
+        { "word": "Exult", "gujaratiPronunciation": "એક્ઝલ્ટ", "hindiPronunciation": "एक्ज़ल्ट", "gujaratiMeaning": "હર્ષોલ્લાસ કરવો", "hindiMeaning": "हर्षोल्लास करना" }
+      ],
+      "antonyms": [
+        { "word": "Mourn", "gujaratiPronunciation": "મોર્ન", "hindiPronunciation": "मोर्न", "gujaratiMeaning": "શોક કરવો", "hindiMeaning": "शोक मनाना" },
+        { "word": "Grieve", "gujaratiPronunciation": "ગ્રીવ", "hindiPronunciation": "ग्रीव", "gujaratiMeaning": "દુઃખી થવું", "hindiMeaning": "दुखी होना" }
+      ],
+      "confusingWords": [
+        { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The entire nation rejoiced at the victory.",
+          "gujaratiTranslation": "આખી પ્રજાએ જીત પર આનંદ વ્યક્ત કર્યો.",
+          "hindiTranslation": "पूरी कौम ने जीत पर खुशी मनाई।",
+          "gujaratiPronunciation": "ધ એન્ટાયર નેશન રિજોઇસ્ડ એટ ધ વિક્ટરી.",
+          "hindiPronunciation": "द एंटायर नेशन रिजॉइस्ड एट द विक्ट्री।"
+        }
+      ]
+    },
+    {
+      "word": "Contribute",
+      "gujaratiPronunciation": "કોન્ટ્રિબ્યુટ",
+      "hindiPronunciation": "कंट्रिब्यूट",
+      "gujaratiMeaning": "ફાળો આપવો, યોગદાન આપવું",
+      "hindiMeaning": "योगदान देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Contribute", "gujaratiPronunciation": "કોન્ટ્રિબ્યુટ", "hindiPronunciation": "कंट्रिब्यूट", "gujaratiMeaning": "યોગદાન આપવું", "hindiMeaning": "योगदान देना" },
+        "V2 (Past)": { "word": "Contributed", "gujaratiPronunciation": "કોન્ટ્રિબ્યુટેડ", "hindiPronunciation": "कंट्रिब्यूटेड", "gujaratiMeaning": "યોગદાન આપ્યું", "hindiMeaning": "योगदान दिया" },
+        "V3 (Past Participle)": { "word": "Contributed", "gujaratiPronunciation": "કોન્ટ્રિબ્યુટેડ", "hindiPronunciation": "कंट्रिब्यूटेड", "gujaratiMeaning": "યોગદાન આપેલું", "hindiMeaning": "योगदान दिया हुआ" },
+        "V4 (Present Participle)": { "word": "Contributing", "gujaratiPronunciation": "કોન્ટ્રિબ્યુટિંગ", "hindiPronunciation": "कंट्रिब्यूटिंग", "gujaratiMeaning": "યોગદાન આપી રહ્યું", "hindiMeaning": "योगदान दे रहा" }
+      },
+      "synonyms": [
+        { "word": "Donate", "gujaratiPronunciation": "ડૉનેટ", "hindiPronunciation": "डोनेट", "gujaratiMeaning": "દાન કરવું", "hindiMeaning": "दान करना" },
+        { "word": "Provide", "gujaratiPronunciation": "પ્રોવાઇડ", "hindiPronunciation": "प्रोवाइड", "gujaratiMeaning": "પૂરું પાડવું", "hindiMeaning": "प्रदान करना" }
+      ],
+      "antonyms": [
+        { "word": "Withhold", "gujaratiPronunciation": "વિથહોલ્ડ", "hindiPronunciation": "विथहोल्ड", "gujaratiMeaning": "અટકાવી રાખવું", "hindiMeaning": "रोकना" },
+        { "word": "Take", "gujaratiPronunciation": "ટેક", "hindiPronunciation": "टेक", "gujaratiMeaning": "લેવું", "hindiMeaning": "लेना" }
+      ],
+      "confusingWords": [
+        { "word": "Distribute", "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ", "hindiPronunciation": "डिस्ट्रिब्यूट", "gujaratiMeaning": "વહેંચવું", "hindiMeaning": "वितरित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Everyone should contribute to the community.",
+          "gujaratiTranslation": "દરેક વ્યક્તિએ સમુદાયમાં યોગદાન આપવું જોઈએ.",
+          "hindiTranslation": "सभी को समुदाय में योगदान देना चाहिए।",
+          "gujaratiPronunciation": "એવરીવન શુડ કોન્ટ્રિબ્યુટ ટુ ધ કમ્યુનિટી.",
+          "hindiPronunciation": "एवरीवन शुड कंट्रिब्यूट टू द कम्युनिटी।"
+        }
+      ]
+    }
+  ]
+}

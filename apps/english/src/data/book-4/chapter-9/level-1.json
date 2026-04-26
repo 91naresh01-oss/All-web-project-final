@@ -1,0 +1,147 @@
+
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Wait",
+            "gujaratiPronunciation": "વેઇટ",
+            "hindiPronunciation": "वेट",
+            "gujaratiMeaning": "રાહ જોવી",
+            "hindiMeaning": "इंतजार करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Wait", "gujaratiPronunciation": "વેઇટ", "hindiPronunciation": "वेट", "gujaratiMeaning": "રાહ જોવી", "hindiMeaning": "इंतजार करना" },
+                "V2 (Past)": { "word": "Waited", "gujaratiPronunciation": "વેઇટેડ", "hindiPronunciation": "वेटेड", "gujaratiMeaning": "રાહ જોઈ", "hindiMeaning": "इंतजार किया" },
+                "V3 (Past Participle)": { "word": "Waited", "gujaratiPronunciation": "વેઇટેડ", "hindiPronunciation": "वेटेड", "gujaratiMeaning": "રાહ જોયેલી", "hindiMeaning": "इंतजार किया हुआ" },
+                "V4 (Present Participle)": { "word": "Waiting", "gujaratiPronunciation": "વેઇટિંગ", "hindiPronunciation": "वेटिंग", "gujaratiMeaning": "રાહ જોઈ રહ્યું છે", "hindiMeaning": "इंतजार कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Await", "gujaratiPronunciation": "અવેઇટ", "hindiPronunciation": "अवेट", "gujaratiMeaning": "પ્રતિક્ષા કરવી", "hindiMeaning": "प्रतीक्षा करना" },
+                { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રોકાવું", "hindiMeaning": "रुकना" }
+            ],
+            "antonyms": [
+                { "word": "Leave", "gujaratiPronunciation": "લીવ", "hindiPronunciation": "लीव", "gujaratiMeaning": "જતું રહેવું", "hindiMeaning": "चले जाना" },
+                { "word": "Proceed", "gujaratiPronunciation": "પ્રોસીડ", "hindiPronunciation": "प्रोसिड", "gujaratiMeaning": "આગળ વધવું", "hindiMeaning": "आगे बढ़ना" }
+            ],
+            "confusingWords": [
+                { "word": "Weight", "gujaratiPronunciation": "વેઇટ", "hindiPronunciation": "वेट", "gujaratiMeaning": "વજન", "hindiMeaning": "वजन" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Please wait for your turn.", "gujaratiTranslation": "કૃપા કરીને તમારા વારાની રાહ જુઓ.", "hindiTranslation": "कृपया अपनी बारी का इंतजार करें।", "gujaratiPronunciation": "પ્લીઝ વેઇટ ફોર યોર ટર્ન.", "hindiPronunciation": "प्लीज़ वेट फॉर योर टर्न।" }
+            ]
+        },
+        {
+            "word": "Start",
+            "gujaratiPronunciation": "સ્ટાર્ટ",
+            "hindiPronunciation": "स्टार्ट",
+            "gujaratiMeaning": "શરૂ કરવું",
+            "hindiMeaning": "शुरू करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Start", "gujaratiPronunciation": "સ્ટાર્ટ", "hindiPronunciation": "स्टार्ट", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+                "V2 (Past)": { "word": "Started", "gujaratiPronunciation": "સ્ટાર્ટેડ", "hindiPronunciation": "स्टार्टेड", "gujaratiMeaning": "શરૂ કર્યું", "hindiMeaning": "शुरू किया" },
+                "V3 (Past Participle)": { "word": "Started", "gujaratiPronunciation": "સ્ટાર્ટેડ", "hindiPronunciation": "स्टार्टेड", "gujaratiMeaning": "શરૂ કરેલું", "hindiMeaning": "शुरू किया हुआ" },
+                "V4 (Present Participle)": { "word": "Starting", "gujaratiPronunciation": "સ્ટાર્ટિંગ", "hindiPronunciation": "स्टार्टिंग", "gujaratiMeaning": "શરૂ કરી રહ્યું છે", "hindiMeaning": "शुरू कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Begin", "gujaratiPronunciation": "બિગિન", "hindiPronunciation": "बिगिन", "gujaratiMeaning": "શરૂઆત કરવી", "hindiMeaning": "आरंभ करना" },
+                { "word": "Commence", "gujaratiPronunciation": "કમેન્સ", "hindiPronunciation": "कमेन्स", "gujaratiMeaning": "પ્રારંભ કરવો", "hindiMeaning": "प्रारंभ करना" }
+            ],
+            "antonyms": [
+                { "word": "End", "gujaratiPronunciation": "એન્ડ", "hindiPronunciation": "एंड", "gujaratiMeaning": "સમાપ્ત કરવું", "hindiMeaning": "समाप्त करना" },
+                { "word": "Finish", "gujaratiPronunciation": "ફિનિશ", "hindiPronunciation": "फिनिश", "gujaratiMeaning": "પૂરું કરવું", "hindiMeaning": "पूरा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Strait", "gujaratiPronunciation": "સ્ટ્રેટ", "hindiPronunciation": "स्ट्रेट", "gujaratiMeaning": "સામુદ્રધુની", "hindiMeaning": "जलडमरूमध्य" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Let's start the meeting.", "gujaratiTranslation": "ચાલો મીટિંગ શરૂ કરીએ.", "hindiTranslation": "चलिए बैठक शुरू करते हैं।", "gujaratiPronunciation": "લેટ્સ સ્ટાર્ટ ધ મીટિંગ.", "hindiPronunciation": "लेट्स स्टार्ट द मीटिंग।" }
+            ]
+        },
+        {
+            "word": "End",
+            "gujaratiPronunciation": "એન્ડ",
+            "hindiPronunciation": "एंड",
+            "gujaratiMeaning": "સમાપ્ત કરવું",
+            "hindiMeaning": "समाप्त करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "End", "gujaratiPronunciation": "એન્ડ", "hindiPronunciation": "एंड", "gujaratiMeaning": "સમાપ્ત કરવું", "hindiMeaning": "समाप्त करना" },
+                "V2 (Past)": { "word": "Ended", "gujaratiPronunciation": "એન્ડેડ", "hindiPronunciation": "एंडेड", "gujaratiMeaning": "સમાપ્ત કર્યું", "hindiMeaning": "समाप्त किया" },
+                "V3 (Past Participle)": { "word": "Ended", "gujaratiPronunciation": "એન્ડેડ", "hindiPronunciation": "एंडेड", "gujaratiMeaning": "સમાપ્ત કરેલું", "hindiMeaning": "समाप्त किया हुआ" },
+                "V4 (Present Participle)": { "word": "Ending", "gujaratiPronunciation": "એન્ડિંગ", "hindiPronunciation": "एंडिंग", "gujaratiMeaning": "સમાપ્ત કરી રહ્યું છે", "hindiMeaning": "समाप्त कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Finish", "gujaratiPronunciation": "ફિનિશ", "hindiPronunciation": "फिनिश", "gujaratiMeaning": "પૂરું કરવું", "hindiMeaning": "पूरा करना" },
+                { "word": "Conclude", "gujaratiPronunciation": "કન્ક્લુડ", "hindiPronunciation": "कन्क्लूड", "gujaratiMeaning": "નિષ્કર્ષ કાઢવો", "hindiMeaning": "निष्कर्ष निकालना" }
+            ],
+            "antonyms": [
+                { "word": "Start", "gujaratiPronunciation": "સ્ટાર્ટ", "hindiPronunciation": "स्टार्ट", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+                { "word": "Begin", "gujaratiPronunciation": "બિગિન", "hindiPronunciation": "बिगिन", "gujaratiMeaning": "શરૂઆત કરવી", "hindiMeaning": "आरंभ करना" }
+            ],
+            "confusingWords": [
+                { "word": "And", "gujaratiPronunciation": "એન્ડ", "hindiPronunciation": "एंड", "gujaratiMeaning": "અને", "hindiMeaning": "और" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The movie will end in ten minutes.", "gujaratiTranslation": "ફિલ્મ દસ મિનિટમાં પૂરી થશે.", "hindiTranslation": "फिल्म दस मिनट में खत्म हो जाएगी।", "gujaratiPronunciation": "ધ મૂવી વિલ એન્ડ ઇન ટેન મિનિટ્સ.", "hindiPronunciation": "द मूवी विल एंड इन टेन मिनट्स।" }
+            ]
+        },
+        {
+            "word": "Pause",
+            "gujaratiPronunciation": "પૉઝ",
+            "hindiPronunciation": "पॉज़",
+            "gujaratiMeaning": "થોભાવવું, અટકવું",
+            "hindiMeaning": "रोकना, रुकना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Pause", "gujaratiPronunciation": "પૉઝ", "hindiPronunciation": "पॉज़", "gujaratiMeaning": "અટકવું", "hindiMeaning": "रुकना" },
+                "V2 (Past)": { "word": "Paused", "gujaratiPronunciation": "પૉઝ્ડ", "hindiPronunciation": "पॉज़्ड", "gujaratiMeaning": "અટક્યું", "hindiMeaning": "रुका" },
+                "V3 (Past Participle)": { "word": "Paused", "gujaratiPronunciation": "પૉઝ્ડ", "hindiPronunciation": "पॉज़्ड", "gujaratiMeaning": "અટકેલું", "hindiMeaning": "रुका हुआ" },
+                "V4 (Present Participle)": { "word": "Pausing", "gujaratiPronunciation": "પૉઝિંગ", "hindiPronunciation": "पॉज़िंग", "gujaratiMeaning": "અટકી રહ્યું છે", "hindiMeaning": "रुक रहा है" }
+            },
+            "synonyms": [
+                { "word": "Halt", "gujaratiPronunciation": "હોલ્ટ", "hindiPronunciation": "हॉल्ट", "gujaratiMeaning": "થોભવું", "hindiMeaning": "ठहरना" },
+                { "word": "Hesitate", "gujaratiPronunciation": "હેઝિટેટ", "hindiPronunciation": "हेज़िटेट", "gujaratiMeaning": "અચકાવું", "hindiMeaning": "हिचकिचाना" }
+            ],
+            "antonyms": [
+                { "word": "Continue", "gujaratiPronunciation": "કન્ટીન્યુ", "hindiPronunciation": "कंटिन्यू", "gujaratiMeaning": "ચાલુ રાખવું", "hindiMeaning": "जारी रखना" },
+                { "word": "Proceed", "gujaratiPronunciation": "પ્રોસીડ", "hindiPronunciation": "प्रोसिड", "gujaratiMeaning": "આગળ વધવું", "hindiMeaning": "आगे बढ़ना" }
+            ],
+            "confusingWords": [
+                { "word": "Paws", "gujaratiPronunciation": "પૉઝ", "hindiPronunciation": "पॉज़", "gujaratiMeaning": "પંજા", "hindiMeaning": "पंजे" }
+            ],
+            "exampleSentences": [
+                { "sentence": "He paused to catch his breath.", "gujaratiTranslation": "તે શ્વાસ લેવા માટે અટક્યો.", "hindiTranslation": "वह अपनी साँस लेने के लिए रुका।", "gujaratiPronunciation": "હી પૉઝ્ડ ટુ કેચ હિઝ બ્રેથ.", "hindiPronunciation": "ही पॉज़्ड टू कैच हिज़ ब्रेथ।" }
+            ]
+        },
+        {
+            "word": "Rush",
+            "gujaratiPronunciation": "રશ",
+            "hindiPronunciation": "रश",
+            "gujaratiMeaning": "ઉતાવળ કરવી",
+            "hindiMeaning": "जल्दी करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Rush", "gujaratiPronunciation": "રશ", "hindiPronunciation": "रश", "gujaratiMeaning": "ઉતાવળ કરવી", "hindiMeaning": "जल्दी करना" },
+                "V2 (Past)": { "word": "Rushed", "gujaratiPronunciation": "રશ્ડ", "hindiPronunciation": "रश्ड", "gujaratiMeaning": "ઉતાવળ કરી", "hindiMeaning": "जल्दी की" },
+                "V3 (Past Participle)": { "word": "Rushed", "gujaratiPronunciation": "રશ્ડ", "hindiPronunciation": "रश्ड", "gujaratiMeaning": "ઉતાવળ કરેલી", "hindiMeaning": "जल्दी की हुई" },
+                "V4 (Present Participle)": { "word": "Rushing", "gujaratiPronunciation": "રશિંગ", "hindiPronunciation": "रशिंग", "gujaratiMeaning": "ઉતાવળ કરી રહ્યું છે", "hindiMeaning": "जल्दी कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Hurry", "gujaratiPronunciation": "હરી", "hindiPronunciation": "हरी", "gujaratiMeaning": "જલદી કરવી", "hindiMeaning": "जल्दी करना" },
+                { "word": "Dash", "gujaratiPronunciation": "ડેશ", "hindiPronunciation": "डैश", "gujaratiMeaning": "દોડવું", "hindiMeaning": "दौड़ना" }
+            ],
+            "antonyms": [
+                { "word": "Wait", "gujaratiPronunciation": "વેઇટ", "hindiPronunciation": "वेट", "gujaratiMeaning": "રાહ જોવી", "hindiMeaning": "इंतजार करना" },
+                { "word": "Dawdle", "gujaratiPronunciation": "ડોડલ", "hindiPronunciation": "डॉडल", "gujaratiMeaning": "સમય બગાડવો", "hindiMeaning": "समय बर्बाद करना" }
+            ],
+            "confusingWords": [
+                { "word": "Rash", "gujaratiPronunciation": "રૅશ", "hindiPronunciation": "रैश", "gujaratiMeaning": "ફોલ્લી", "hindiMeaning": "लाल चकत्ते" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Don't rush, you have plenty of time.", "gujaratiTranslation": "ઉતાવળ કરશો નહીં, તમારી પાસે પુષ્કળ સમય છે.", "hindiTranslation": "जल्दी मत करो, तुम्हारे पास बहुत समय है।", "gujaratiPronunciation": "ડોન્ટ રશ, યુ હેવ પ્લેન્ટી ઓફ ટાઈમ.", "hindiPronunciation": "डोंट रश, यू हैव प्लेंटी ऑफ़ टाइम।" }
+            ]
+        }
+    ]
+}

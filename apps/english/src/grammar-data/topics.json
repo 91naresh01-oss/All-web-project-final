@@ -1,0 +1,226 @@
+[
+  {
+    "id": "active-passive-voice",
+    "folder": "active-passive-voice",
+    "title": "Active-Passive Voice (કર્તરિ-કર્મણિ)",
+    "label": "Active-Passive Voice - કર્તરિ-કર્મણિ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "adjectives",
+    "folder": "adjectives",
+    "title": "Adjectives (વિશેષણ)",
+    "label": "Adjectives - વિશેષણ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "adverbs",
+    "folder": "adverbs",
+    "title": "Adverbs (ક્રિયાવિશેષણ)",
+    "label": "Adverbs - ક્રિયાવિશેષણ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "animals",
+    "folder": "animals",
+    "title": "Animals (પ્રાણીઓ)",
+    "label": "Animals - પ્રાણીઓ",
+    "lang": "gu",
+    "totalTests": 20
+  },
+  {
+    "id": "articles",
+    "folder": "articles",
+    "title": "Articles (આર્ટિકલ્સ)",
+    "label": "Articles - આર્ટિકલ્સ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "auxiliary-verbs",
+    "folder": "auxiliary-verbs",
+    "title": "Auxiliary Verbs (સહાયકારક ક્રિયાપદો)",
+    "label": "Auxiliary Verbs - સહાયકારક ક્રિયાપદો",
+    "lang": "gu",
+    "totalTests": 20
+  },
+  {
+    "id": "causal-verbs",
+    "folder": "causal-verbs",
+    "title": "Causal Verbs (પ્રેરક ક્રિયાપદ)",
+    "label": "Causal Verbs - પ્રેરક ક્રિયાપદ",
+    "lang": "gu",
+    "totalTests": 10
+  },
+  {
+    "id": "conjunctions",
+    "folder": "conjunctions",
+    "title": "Conjunctions (સંયોજકો)",
+    "label": "Conjunctions - સંયોજકો",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "degree-of-comparison",
+    "folder": "degree-of-comparison",
+    "title": "Degree of Comparison (તુલનાની કક્ષાઓ)",
+    "label": "Degree of Comparison - તુલનાની કક્ષાઓ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "direct-indirect-speech",
+    "folder": "direct-indirect-speech",
+    "title": "Direct-Indirect Speech (પ્રત્યક્ષ-પરોક્ષ)",
+    "label": "Direct-Indirect Speech - પ્રત્યક્ષ-પરોક્ષ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "future-tense",
+    "folder": "future-tense",
+    "title": "Future Tense (ભવિષ્યકાળ)",
+    "label": "Future Tense - ભવિષ્યકાળ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "gender",
+    "folder": "gender",
+    "title": "Gender (જાતિ)",
+    "label": "Gender - જાતિ",
+    "lang": "gu",
+    "totalTests": 20
+  },
+  {
+    "id": "non-finite-verbs",
+    "folder": "non-finite-verbs",
+    "title": "Non-Finite Verbs",
+    "label": "Non-Finite Verbs",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "part-of-speech",
+    "folder": "part-of-speech",
+    "title": "Part of Speech (શબ્દભેદ)",
+    "label": "Part of Speech - શબ્દભેદ",
+    "lang": "gu",
+    "totalTests": 20
+  },
+  {
+    "id": "participles",
+    "folder": "participles",
+    "title": "Participles (કૃદંત)",
+    "label": "Participles - કૃદંત",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "past-tense",
+    "folder": "past-tense",
+    "title": "Past Tense (ભૂતકાળ)",
+    "label": "Past Tense - ભૂતકાળ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "personal-pronouns",
+    "folder": "personal-pronouns",
+    "title": "Personal Pronouns (પુરુષવાચક સર્વનામ)",
+    "label": "Personal Pronouns - પુરુષવાચક સર્વનામ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "prepositions",
+    "folder": "prepositions",
+    "title": "Prepositions (નામયોગી અવ્યય)",
+    "label": "Prepositions - નામયોગી અવ્યય",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "present-tense",
+    "folder": "present-tense",
+    "title": "Present Tense (વર્તમાનકાળ)",
+    "label": "Present Tense - વર્તમાનકાળ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "pronouns",
+    "folder": "pronouns",
+    "title": "Pronouns (સર્વનામ)",
+    "label": "Pronouns - સર્વનામ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "question-tags",
+    "folder": "question-tags",
+    "title": "Question Tags (પ્રશ્ન પૂછડીઓ)",
+    "label": "Question Tags - પ્રશ્ન પૂછડીઓ",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "sentence",
+    "folder": "sentence",
+    "title": "Sentence (વાક્ય)",
+    "label": "Sentence - વાક્ય અને તેના પ્રકારો",
+    "lang": "gu",
+    "totalTests": 50
+  },
+  {
+    "id": "singular-plural",
+    "folder": "singular-plural",
+    "title": "Singular-Plural (એકવચન-બહુવચન)",
+    "label": "Singular-Plural - એકવચન-બહુવચન",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "subject-verb-agreement",
+    "folder": "subject-verb-agreement",
+    "title": "Subject-Verb Agreement",
+    "label": "Subject-Verb Agreement",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "types-of-noun",
+    "folder": "types-of-noun",
+    "title": "Types of Noun (સંજ્ઞાના પ્રકારો)",
+    "label": "Types of Noun - સંજ્ઞાના પ્રકારો",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "verb",
+    "folder": "verb",
+    "title": "Verb (ક્રિયાપદ)",
+    "label": "Verb - ક્રિયાપદ",
+    "lang": "gu",
+    "totalTests": 5
+  },
+  {
+    "id": "word-formation",
+    "folder": "word-formation",
+    "title": "Word Formation (શબ્દ રચના)",
+    "label": "Word Formation - શબ્દ રચના",
+    "lang": "gu",
+    "totalTests": 30
+  },
+  {
+    "id": "all-tenses",
+    "folder": "all-tenses",
+    "title": "All Tenses (બધા કાળ)",
+    "label": "All Tenses - બધા કાળના મિશ્ર પ્રશ્નો",
+    "lang": "gu",
+    "totalTests": 30
+  }
+]

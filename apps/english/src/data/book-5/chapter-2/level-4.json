@@ -1,0 +1,140 @@
+{
+  "id": "level-4",
+  "title": "Level 4: Absolute Authority",
+  "words": [
+    {
+      "word": "Dominate",
+      "gujaratiPronunciation": "ડોમિનેટ",
+      "hindiPronunciation": "डாமિनेट",
+      "gujaratiMeaning": "પ્રભુત્વ જમાવવું, વર્ચસ્વ રાખવું",
+      "hindiMeaning": "प्रभुत्व जमाना, हावी होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Dominate", "gujaratiPronunciation": "ડોમિનેટ", "hindiPronunciation": "डாமિनेट", "gujaratiMeaning": "પ્રભુત્વ જમાવવું", "hindiMeaning": "प्रभुत्व जमाना" },
+        "V2 (Past)": { "word": "Dominated", "gujaratiPronunciation": "ડોમિનેટેડ", "hindiPronunciation": "डாமિनेटेड", "gujaratiMeaning": "પ્રભુત્વ જમાવ્યું", "hindiMeaning": "प्रभुत्व जमाया" },
+        "V3 (Past Participle)": { "word": "Dominated", "gujaratiPronunciation": "ડોમિનેટેડ", "hindiPronunciation": "डாமિनेटेड", "gujaratiMeaning": "પ્રભુત્વ જમાવેલ", "hindiMeaning": "हावी" },
+        "V4 (Present Participle)": { "word": "Dominating", "gujaratiPronunciation": "ડોમિનેટિંગ", "hindiPronunciation": "डாமિनेटિંગ", "gujaratiMeaning": "પ્રભુત્વ જમાવી રહ્યું છે", "hindiMeaning": "हावी हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Control", "gujaratiPronunciation": "કંટ્રોલ", "hindiPronunciation": "कंट्रोल", "gujaratiMeaning": "નિયંત્રણ કરવું", "hindiMeaning": "नियंत्रण करना" },
+        { "word": "Rule", "gujaratiPronunciation": "રૂલ", "hindiPronunciation": "रूल", "gujaratiMeaning": "શાસન કરવું", "hindiMeaning": "शासन करना" }
+      ],
+      "antonyms": [
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" },
+        { "word": "Yield", "gujaratiPronunciation": "યીલ્ડ", "hindiPronunciation": "यील्ड", "gujaratiMeaning": "આધીન થવું", "hindiMeaning": "झुकना" }
+      ],
+      "confusingWords": [
+        { "word": "Donate", "gujaratiPronunciation": "ડોનેટ", "hindiPronunciation": "डोनेट", "gujaratiMeaning": "દાન કરવું", "hindiMeaning": "दान करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The company dominates the market for mobile phones.", "gujaratiPronunciation": "ધ કંપની ડોમિનેટ્સ ધ માર્કેટ ફોર મોબાઇલ ફોન્સ.", "hindiPronunciation": "द कंपनी डாமિनेट्स द मार्केट फॉर मोबाइल फोन्स।", "gujaratiTranslation": "આ કંપની મોબાઇલ ફોનના બજાર પર પ્રભુત્વ ધરાવે છે.", "hindiTranslation": "यह कंपनी मोबाइल फोन के बाजार पर हावी है।" }
+      ]
+    },
+    {
+      "word": "Censor",
+      "gujaratiPronunciation": "સેન્સર",
+      "hindiPronunciation": "सेंसर",
+      "gujaratiMeaning": "પ્રતિબંધ મૂકવો (માહિતી પર)",
+      "hindiMeaning": "प्रतिबंध लगाना (सूचना पर)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Censor", "gujaratiPronunciation": "સેન્સર", "hindiPronunciation": "सेंसर", "gujaratiMeaning": "પ્રતિબંધ મૂકવો", "hindiMeaning": "प्रतिबंध लगाना" },
+        "V2 (Past)": { "word": "Censored", "gujaratiPronunciation": "સેન્સર્ડ", "hindiPronunciation": "सेंसर्ड", "gujaratiMeaning": "પ્રતિબંધ મૂક્યો", "hindiMeaning": "प्रतिबंध लगाया" },
+        "V3 (Past Participle)": { "word": "Censored", "gujaratiPronunciation": "સેન્સર્ડ", "hindiPronunciation": "सेंसर्ड", "gujaratiMeaning": "પ્રતિબંધિત", "hindiMeaning": "प्रतिबंधित" },
+        "V4 (Present Participle)": { "word": "Censoring", "gujaratiPronunciation": "સેન્સરિંગ", "hindiPronunciation": "सेंसरिंग", "gujaratiMeaning": "પ્રતિબંધ મૂકી રહ્યું છે", "hindiMeaning": "प्रतिबंध लगा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Suppress", "gujaratiPronunciation": "સપ્રેસ", "hindiPronunciation": "सप्रेस", "gujaratiMeaning": "દબાવી દેવું", "hindiMeaning": "दबाना" },
+        { "word": "Restrict", "gujaratiPronunciation": "રિસ્ટ્રિક્ટ", "hindiPronunciation": "रिस्ट्रिक्ट", "gujaratiMeaning": "પ્રતિબંધિત કરવું", "hindiMeaning": "प्रतिबंधित करना" }
+      ],
+      "antonyms": [
+        { "word": "Allow", "gujaratiPronunciation": "અલાઉ", "hindiPronunciation": "अलाउ", "gujaratiMeaning": "પરવાનગી આપવી", "hindiMeaning": "अनुमति देना" },
+        { "word": "Permit", "gujaratiPronunciation": "પરમિટ", "hindiPronunciation": "परमिट", "gujaratiMeaning": "મંજૂરી આપવી", "hindiMeaning": "अनुमति देना" }
+      ],
+      "confusingWords": [
+        { "word": "Sensor", "gujaratiPronunciation": "સેન્સર", "hindiPronunciation": "सेंसर", "gujaratiMeaning": "સંવેદક યંત્ર", "hindiMeaning": "संवेदक यंत्र" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The government decided to censor the film.", "gujaratiPronunciation": "ધ ગવર્મેન્ટ ડિસાઇડેડ ટુ સેન્સર ધ ફિલ્મ.", "hindiPronunciation": "द गवर्नमेंट डिसाइडेड टू सेंसर द फिल्म।", "gujaratiTranslation": "સરકારે ફિલ્મ પર પ્રતિબંધ મૂકવાનો નિર્ણય કર્યો.", "hindiTranslation": "सरकार ने फिल्म पर प्रतिबंध लगाने का फैसला किया।" }
+      ]
+    },
+    {
+      "word": "Administer",
+      "gujaratiPronunciation": "એડમિનિસ્ટર",
+      "hindiPronunciation": "एडमिनिस्टर",
+      "gujaratiMeaning": "વહીવટ કરવો, સંચાલન કરવું",
+      "hindiMeaning": "प्रशासन करना, संचालन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Administer", "gujaratiPronunciation": "એડમિનિસ્ટર", "hindiPronunciation": "एडमिनिस्टर", "gujaratiMeaning": "વહીવટ કરવો", "hindiMeaning": "प्रशासन करना" },
+        "V2 (Past)": { "word": "Administered", "gujaratiPronunciation": "એડમિનિસ્ટર્ડ", "hindiPronunciation": "एडमिनिस्टर्ड", "gujaratiMeaning": "વહીવટ કર્યો", "hindiMeaning": "प्रशासन किया" },
+        "V3 (Past Participle)": { "word": "Administered", "gujaratiPronunciation": "એડમિનિસ્ટર્ડ", "hindiPronunciation": "एडमिनिस्टर्ड", "gujaratiMeaning": "વહીવટ કરેલ", "hindiMeaning": "प्रशासित" },
+        "V4 (Present Participle)": { "word": "Administering", "gujaratiPronunciation": "એડમિનિસ્ટરિંગ", "hindiPronunciation": "एडमिनिस्टरिंग", "gujaratiMeaning": "વહીવટ કરી રહ્યું છે", "hindiMeaning": "प्रशासन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Manage", "gujaratiPronunciation": "મેનેજ", "hindiPronunciation": "मैनेज", "gujaratiMeaning": "સંચાલન કરવું", "hindiMeaning": "प्रबंधन करना" },
+        { "word": "Govern", "gujaratiPronunciation": "ગવર્ન", "hindiPronunciation": "गवर्न", "gujaratiMeaning": "શાસન કરવું", "hindiMeaning": "शासन करना" }
+      ],
+      "antonyms": [
+        { "word": "Mismanage", "gujaratiPronunciation": "મિસમેનેજ", "hindiPronunciation": "मिसमैनेज", "gujaratiMeaning": "ગેરવહીવટ કરવો", "hindiMeaning": "कुप्रबंधन करना" },
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Admonish", "gujaratiPronunciation": "એડમોનિશ", "hindiPronunciation": "एडमोनिश", "gujaratiMeaning": "ઠપકો આપવો", "hindiMeaning": "डांटना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "She has the skills to administer the project effectively.", "gujaratiPronunciation": "શી હેઝ ધ સ્કિલ્સ ટુ એડમિનિસ્ટર ધ પ્રોજેક્ટ ઇફેક્ટિવલી.", "hindiPronunciation": "शी हैस द स्किल्स टू एडमिनिस्टर द प्रोजेक्ट इफेक्टिवली।", "gujaratiTranslation": "તેણી પાસે પ્રોજેક્ટનો અસરકારક રીતે વહીવટ કરવાની કુશળતા છે.", "hindiTranslation": "उसके पास परियोजना का प्रभावी ढंग से प्रशासन करने का कौशल है।" }
+      ]
+    },
+    {
+      "word": "Autocrat",
+      "gujaratiPronunciation": "ઓટોક્રેટ",
+      "hindiPronunciation": "ऑटोक्रेट",
+      "gujaratiMeaning": "નિરંકુશ શાસક, સરમુખત્યાર",
+      "hindiMeaning": "निरंकुश शासक, तानाशाह",
+      "partOfSpeech": "Noun",
+      "verbForms": {},
+      "synonyms": [
+        { "word": "Dictator", "gujaratiPronunciation": "ડિક્ટેટર", "hindiPronunciation": "डिक्टेटर", "gujaratiMeaning": "સરમુખત્યાર", "hindiMeaning": "तानाशाह" },
+        { "word": "Tyrant", "gujaratiPronunciation": "ટાયરન્ટ", "hindiPronunciation": "टायरेंट", "gujaratiMeaning": "જુલમી શાસક", "hindiMeaning": "अत्याचारी शासक" }
+      ],
+      "antonyms": [
+        { "word": "Democrat", "gujaratiPronunciation": "ડેમોક્રેટ", "hindiPronunciation": "डेमोक्रेट", "gujaratiMeaning": "લોકશાહીવાદી", "hindiMeaning": "लोकतंत्रवादी" }
+      ],
+      "confusingWords": [
+        { "word": "Aristocrat", "gujaratiPronunciation": "એરિસ્ટોક્રેટ", "hindiPronunciation": "एरिस्टोक्रेट", "gujaratiMeaning": "ઉમરાવ", "hindiMeaning": "कुलीन" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The country was ruled by a ruthless autocrat.", "gujaratiPronunciation": "ધ કન્ટ્રી વોઝ રૂલ્ડ બાય અ રૂથલેસ ઓટોક્રેટ.", "hindiPronunciation": "द कंट्री वॉज रूल्ड बाय अ रूथलेस ऑटोक्रेट।", "gujaratiTranslation": "દેશ પર એક નિર્દયી સરમુખત્યારનું શાસન હતું.", "hindiTranslation": "देश पर एक क्रूर तानाशाह का शासन था।" }
+      ]
+    },
+    {
+      "word": "Marshal",
+      "gujaratiPronunciation": "માર્શલ",
+      "hindiPronunciation": "मार्शल",
+      "gujaratiMeaning": "ગોઠવવું, એકત્ર કરવું",
+      "hindiMeaning": "व्यवस्थित करना, इकट्ठा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Marshal", "gujaratiPronunciation": "માર્શલ", "hindiPronunciation": "मार्शल", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "व्यवस्थित करना" },
+        "V2 (Past)": { "word": "Marshalled", "gujaratiPronunciation": "માર્શલ્ડ", "hindiPronunciation": "मार्शल्ड", "gujaratiMeaning": "ગોઠવ્યું", "hindiMeaning": "व्यवस्थित किया" },
+        "V3 (Past Participle)": { "word": "Marshalled", "gujaratiPronunciation": "માર્શલ્ડ", "hindiPronunciation": "मार्शल्ड", "gujaratiMeaning": "ગોઠવેલ", "hindiMeaning": "व्यवस्थित" },
+        "V4 (Present Participle)": { "word": "Marshalling", "gujaratiPronunciation": "માર્શલિંગ", "hindiPronunciation": "मार्शलिंग", "gujaratiMeaning": "ગોઠવી રહ્યું છે", "hindiMeaning": "व्यवस्थित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Arrange", "gujaratiPronunciation": "એરેન્જ", "hindiPronunciation": "अरेंज", "gujaratiMeaning": "ગોઠવણ કરવી", "hindiMeaning": "व्यवस्था करना" },
+        { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઇઝ", "hindiPronunciation": "ऑर्गेनाइज", "gujaratiMeaning": "આયોજન કરવું", "hindiMeaning": "आयोजन करना" }
+      ],
+      "antonyms": [
+        { "word": "Disperse", "gujaratiPronunciation": "ડિસ્પર્સ", "hindiPronunciation": "डिस्पर्स", "gujaratiMeaning": "વિખેરી નાખવું", "hindiMeaning": "बिखेरना" },
+        { "word": "Scatter", "gujaratiPronunciation": "સ્કેટર", "hindiPronunciation": "स्कैटर", "gujaratiMeaning": "છૂટુંછવાયું કરવું", "hindiMeaning": "बिखेरना" }
+      ],
+      "confusingWords": [
+        { "word": "Martial", "gujaratiPronunciation": "માર્શલ", "hindiPronunciation": "मार्शल", "gujaratiMeaning": "લશ્કરી", "hindiMeaning": "सैनिक" }
+      ],
+      "exampleSentences": [
+        { "sentence": "She marshalled her thoughts before giving the speech.", "gujaratiPronunciation": "શી માર્શલ્ડ હર થોટ્સ બિફોર ગિવિંગ ધ સ્પીચ.", "hindiPronunciation": "शी मार्शल्ड हर थॉट्स बिफोर गिविंग द स्पीच।", "gujaratiTranslation": "તેણીએ ભાષણ આપતા પહેલા તેના વિચારોને ગોઠવ્યા.", "hindiTranslation": "उसने भाषण देने से पहले अपने विचारों को व्यवस्थित किया।" }
+      ]
+    }
+  ]
+}

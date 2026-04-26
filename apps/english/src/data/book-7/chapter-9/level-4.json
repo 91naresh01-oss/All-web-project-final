@@ -1,0 +1,151 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Abdicate",
+      "gujaratiPronunciation": "એબ્ડિકેટ",
+      "hindiPronunciation": "एबडिकेट",
+      "gujaratiMeaning": "પદ ત્યાગ કરવો",
+      "hindiMeaning": "पदत्याग करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Abdicate", "gujaratiPronunciation": "એબ્ડિકેટ", "hindiPronunciation": "एबडिकेट", "gujaratiMeaning": "પદ ત્યાગ કરવો", "hindiMeaning": "पदत्याग करना" },
+        "v2": { "word": "Abdicated", "gujaratiPronunciation": "એબ્ડિકેટેડ", "hindiPronunciation": "एबडिकेटेड", "gujaratiMeaning": "પદ ત્યાગ કર્યો", "hindiMeaning": "पदत्याग किया" },
+        "v3": { "word": "Abdicated", "gujaratiPronunciation": "એબ્ડિકેટેડ", "hindiPronunciation": "एबडिकेटेड", "gujaratiMeaning": "પદ ત્યાગ કરેલો", "hindiMeaning": "पदत्याग कर चुका" },
+        "v4": { "word": "Abdicating", "gujaratiPronunciation": "એબ્ડિકેટિંગ", "hindiPronunciation": "एबडिकेटिंग", "gujaratiMeaning": "પદ ત્યાગ કરી રહ્યું છે", "hindiMeaning": "पदत्याग कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Renounce", "gujaratiPronunciation": "રિનાઉન્સ", "hindiPronunciation": "रिनाउंस", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "त्यागना" },
+        { "word": "Resign", "gujaratiPronunciation": "રિઝાઇન", "hindiPronunciation": "रिज़ाइन", "gujaratiMeaning": "રાજીનામું આપવું", "hindiMeaning": "त्यागपत्र देना" }
+      ],
+      "antonyms": [
+        { "word": "Claim", "gujaratiPronunciation": "ક્લેમ", "hindiPronunciation": "क्लेम", "gujaratiMeaning": "દાવો કરવો", "hindiMeaning": "दावा करना" },
+        { "word": "Accept", "gujaratiPronunciation": "એક્સેપ્ટ", "hindiPronunciation": "एक्सेप्ट", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Abduct", "gujaratiPronunciation": "એબ્ડક્ટ", "hindiPronunciation": "एबडक्ट", "gujaratiMeaning": "અપહરણ કરવું", "hindiMeaning": "अपहरण करना" },
+        { "word": "Indicate", "gujaratiPronunciation": "ઇન્ડિકેટ", "hindiPronunciation": "इंडिकेट", "gujaratiMeaning": "સંકેત આપવો", "hindiMeaning": "संकेत देना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The king was forced to abdicate the throne.", "gujaratiPronunciation": "ધ કિંગ વોઝ ફોર્સ્ડ ટુ એબ્ડિકેટ ધ થ્રોન.", "hindiPronunciation": "द किंग वॉज़ फोर्स्ड टू एबडिकेट द थ्रोन।", "gujaratiTranslation": "રાજાને સિંહાસનનો ત્યાગ કરવાની ફરજ પડી હતી.", "hindiTranslation": "राजा को सिंहासन छोड़ने के लिए मजबूर किया गया था।" }
+      ]
+    },
+    {
+      "word": "Falter",
+      "gujaratiPronunciation": "ફોલ્ટર",
+      "hindiPronunciation": "फॉल्टर",
+      "gujaratiMeaning": "ડગમગવું",
+      "hindiMeaning": "लड़खड़ाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Falter", "gujaratiPronunciation": "ફોલ્ટર", "hindiPronunciation": "फॉल्टर", "gujaratiMeaning": "ડગમગવું", "hindiMeaning": "लड़खड़ाना" },
+        "v2": { "word": "Faltered", "gujaratiPronunciation": "ફોલ્ટર્ડ", "hindiPronunciation": "फॉल्टर्ड", "gujaratiMeaning": "ડગમગ્યું", "hindiMeaning": "लड़खड़ाया" },
+        "v3": { "word": "Faltered", "gujaratiPronunciation": "ફોલ્ટર્ડ", "hindiPronunciation": "फॉल्टर्ड", "gujaratiMeaning": "ડગમગેલું", "hindiMeaning": "लड़खड़ा चुका" },
+        "v4": { "word": "Faltering", "gujaratiPronunciation": "ફોલ્ટરિંગ", "hindiPronunciation": "फॉल्टरिंग", "gujaratiMeaning": "ડગમગી રહ્યું છે", "hindiMeaning": "लड़खड़ा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Stumble", "gujaratiPronunciation": "સ્ટમ્બલ", "hindiPronunciation": "स्टम्बल", "gujaratiMeaning": "ઠોકર ખાવી", "hindiMeaning": "ठोकर खाना" },
+        { "word": "Hesitate", "gujaratiPronunciation": "હેઝિટેટ", "hindiPronunciation": "हेज़िटेट", "gujaratiMeaning": "અચકાવું", "hindiMeaning": "हिचकिचाना" }
+      ],
+      "antonyms": [
+        { "word": "Persevere", "gujaratiPronunciation": "પર્સિવિયર", "hindiPronunciation": "पर्सिवियर", "gujaratiMeaning": "અડગ રહેવું", "hindiMeaning": "दृढ़ रहना" },
+        { "word": "Stabilize", "gujaratiPronunciation": "સ્ટેબિલાઇઝ", "hindiPronunciation": "स्टेबलाइज़", "gujaratiMeaning": "સ્થિર કરવું", "hindiMeaning": "स्थिर करना" }
+      ],
+      "confusingWords": [
+        { "word": "Filter", "gujaratiPronunciation": "ફિલ્ટર", "hindiPronunciation": "फिल्टर", "gujaratiMeaning": "ગાળવું", "hindiMeaning": "छानना" },
+        { "word": "Father", "gujaratiPronunciation": "ફાધર", "hindiPronunciation": "फादर", "gujaratiMeaning": "પિતા", "hindiMeaning": "पिता" }
+      ],
+      "exampleSentences": [
+        { "sentence": "His courage never faltered.", "gujaratiPronunciation": "હિઝ કરેજ નેવર ફોલ્ટર્ડ.", "hindiPronunciation": "हिज़ करेज नेवर फॉल्टर्ड।", "gujaratiTranslation": "તેની હિંમત ક્યારેય ડગમગી નહીં.", "hindiTranslation": "उसका साहस कभी नहीं डगमगाया।" }
+      ]
+    },
+    {
+      "word": "Cease",
+      "gujaratiPronunciation": "સીઝ",
+      "hindiPronunciation": "सीज़",
+      "gujaratiMeaning": "બંધ કરવું",
+      "hindiMeaning": "बंद करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Cease", "gujaratiPronunciation": "સીઝ", "hindiPronunciation": "सीज़", "gujaratiMeaning": "બંધ કરવું", "hindiMeaning": "बंद करना" },
+        "v2": { "word": "Ceased", "gujaratiPronunciation": "સીઝ્ડ", "hindiPronunciation": "सीज़्ड", "gujaratiMeaning": "બંધ કર્યું", "hindiMeaning": "बंद किया" },
+        "v3": { "word": "Ceased", "gujaratiPronunciation": "સીઝ્ડ", "hindiPronunciation": "सीज़्ड", "gujaratiMeaning": "બંધ કરેલું", "hindiMeaning": "बंद कर चुका" },
+        "v4": { "word": "Ceasing", "gujaratiPronunciation": "સીઝિંગ", "hindiPronunciation": "सीज़िंग", "gujaratiMeaning": "બંધ કરી રહ્યું છે", "hindiMeaning": "बंद कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Stop", "gujaratiPronunciation": "સ્ટોપ", "hindiPronunciation": "स्टॉप", "gujaratiMeaning": "રોકવું", "hindiMeaning": "रुकना" },
+        { "word": "End", "gujaratiPronunciation": "એન્ડ", "hindiPronunciation": "एंड", "gujaratiMeaning": "અંત કરવો", "hindiMeaning": "समाप्त करना" }
+      ],
+      "antonyms": [
+        { "word": "Start", "gujaratiPronunciation": "સ્ટાર્ટ", "hindiPronunciation": "स्टार्ट", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+        { "word": "Continue", "gujaratiPronunciation": "કન્ટીન્યુ", "hindiPronunciation": "कंटिन्यू", "gujaratiMeaning": "ચાલુ રાખવું", "hindiMeaning": "जारी रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Seize", "gujaratiPronunciation": "સીઝ", "hindiPronunciation": "सीज़", "gujaratiMeaning": "જપ્ત કરવું", "hindiMeaning": "जब्त करना" },
+        { "word": "Ceiling", "gujaratiPronunciation": "સીલિંગ", "hindiPronunciation": "सीलिंग", "gujaratiMeaning": "છત", "hindiMeaning": "छत" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The factory will cease operations next month.", "gujaratiPronunciation": "ધ ફેક્ટરી વિલ સીઝ ઓપરેશન્સ નેક્સ્ટ મન્થ.", "hindiPronunciation": "द फैक्ट्री विल सीज़ ऑपरेशंस नेक्स्ट मंथ।", "gujaratiTranslation": "આવતા મહિને ફેક્ટરી કામગીરી બંધ કરશે.", "hindiTranslation": "कारखाना अगले महीने परिचालन बंद कर देगा।" }
+      ]
+    },
+    {
+      "word": "Nullify",
+      "gujaratiPronunciation": "નલિફાય",
+      "hindiPronunciation": "नलिफाई",
+      "gujaratiMeaning": "રદ કરવું",
+      "hindiMeaning": "रद्द करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Nullify", "gujaratiPronunciation": "નલિફાય", "hindiPronunciation": "नलिफाई", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" },
+        "v2": { "word": "Nullified", "gujaratiPronunciation": "નલિફાઇડ", "hindiPronunciation": "नलिफाइड", "gujaratiMeaning": "રદ કર્યું", "hindiMeaning": "रद्द किया" },
+        "v3": { "word": "Nullified", "gujaratiPronunciation": "નલિફાઇડ", "hindiPronunciation": "नलिफाइड", "gujaratiMeaning": "રદ કરેલું", "hindiMeaning": "रद्द कर चुका" },
+        "v4": { "word": "Nullifying", "gujaratiPronunciation": "નલિફાઇંગ", "hindiPronunciation": "नलिफाइंग", "gujaratiMeaning": "રદ કરી રહ્યું છે", "hindiMeaning": "रद्द कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Invalidate", "gujaratiPronunciation": "ઇન્વેલિડેટ", "hindiPronunciation": "इनवैलिडेट", "gujaratiMeaning": "અમાન્ય કરવું", "hindiMeaning": "अमान्य करना" },
+        { "word": "Cancel", "gujaratiPronunciation": "કેન્સલ", "hindiPronunciation": "कैंसल", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" }
+      ],
+      "antonyms": [
+        { "word": "Validate", "gujaratiPronunciation": "વેલિડેટ", "hindiPronunciation": "वैलिडेट", "gujaratiMeaning": "માન્ય કરવું", "hindiMeaning": "मान्य करना" },
+        { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" }
+      ],
+      "confusingWords": [
+        { "word": "Notify", "gujaratiPronunciation": "નોટિફાય", "hindiPronunciation": "नोटिफाई", "gujaratiMeaning": "સૂચિત કરવું", "hindiMeaning": "सूचित करना" },
+        { "word": "Magnify", "gujaratiPronunciation": "મેગ્નિફાય", "hindiPronunciation": "मैग्निफाई", "gujaratiMeaning": "મોટું કરવું", "hindiMeaning": "बड़ा करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The court decision could nullify the contract.", "gujaratiPronunciation": "ધ કોર્ટ ડિસિઝન કુડ નલિફાય ધ કોન્ટ્રેક્ટ.", "hindiPronunciation": "द कोर्ट डिसीजन कुड नलिफाई द कॉन्ट्रैक्ट।", "gujaratiTranslation": "કોર્ટનો નિર્ણય કરારને રદ કરી શકે છે.", "hindiTranslation": "अदालत का फैसला अनुबंध को रद्द कर सकता है।" }
+      ]
+    },
+    {
+      "word": "Obliterate",
+      "gujaratiPronunciation": "ઓબ્લિટેરેટ",
+      "hindiPronunciation": "ऑब्लिटरेट",
+      "gujaratiMeaning": "નાશ કરવો",
+      "hindiMeaning": "नष्ट करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Obliterate", "gujaratiPronunciation": "ઓબ્લિટેરેટ", "hindiPronunciation": "ऑब्लिटरेट", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        "v2": { "word": "Obliterated", "gujaratiPronunciation": "ઓબ્લિટેરેટેડ", "hindiPronunciation": "ऑब्लिटरेटेड", "gujaratiMeaning": "નાશ કર્યો", "hindiMeaning": "नष्ट किया" },
+        "v3": { "word": "Obliterated", "gujaratiPronunciation": "ઓબ્લિટેરેટેડ", "hindiPronunciation": "ऑब्लिटरेटेड", "gujaratiMeaning": "નાશ કરેલો", "hindiMeaning": "नष्ट कर चुका" },
+        "v4": { "word": "Obliterating", "gujaratiPronunciation": "ઓબ્લિટેરેટિંગ", "hindiPronunciation": "ऑब्लिटरेटिंग", "gujaratiMeaning": "નાશ કરી રહ્યું છે", "hindiMeaning": "नष्ट कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Erase", "gujaratiPronunciation": "ઇરેઝ", "hindiPronunciation": "इरेज़", "gujaratiMeaning": "ભૂંસી નાખવું", "hindiMeaning": "मिटा देना" }
+      ],
+      "antonyms": [
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" },
+        { "word": "Construct", "gujaratiPronunciation": "કન્સ્ટ્રક્ટ", "hindiPronunciation": "कंस्ट्रक्ट", "gujaratiMeaning": "નિર્માણ કરવું", "hindiMeaning": "निर्माण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Obligate", "gujaratiPronunciation": "ઓબ્લિગેટ", "hindiPronunciation": "ऑब्लिगेट", "gujaratiMeaning": "ફરજ પાડવી", "hindiMeaning": "बाध्य करना" },
+        { "word": "Illustrate", "gujaratiPronunciation": "ઇલસ્ટ્રેટ", "hindiPronunciation": "इलस्ट्रेट", "gujaratiMeaning": "સ્પષ્ટ કરવું", "hindiMeaning": "चित्रण करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The bomb could obliterate the entire city.", "gujaratiPronunciation": "ધ બોમ્બ કુડ ઓબ્લિટેરેટ ધ એન્ટાયર સિટી.", "hindiPronunciation": "द बॉम्ब कुड ऑब्लिटरेट द एंटायर सिटी।", "gujaratiTranslation": "બોમ્બ આખા શહેરનો નાશ કરી શકે છે.", "hindiTranslation": "बम पूरे शहर को नष्ट कर सकता है।" }
+      ]
+    }
+  ]
+}

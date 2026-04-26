@@ -1,0 +1,146 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Precise Actions",
+  "words": [
+    {
+      "word": "Input",
+      "gujaratiPronunciation": "ઇનપુટ",
+      "hindiPronunciation": "इनपुट",
+      "gujaratiMeaning": "માહિતી દાખલ કરવી",
+      "hindiMeaning": "जानकारी डालना",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Input", "gujaratiPronunciation": "ઇનપુટ", "hindiPronunciation": "इनपुट", "gujaratiMeaning": "દાખલ કરવું", "hindiMeaning": "डालना" },
+        "V2 (Past)": { "word": "Input/Inputted", "gujaratiPronunciation": "ઇનપુટ/ઇનપુટેડ", "hindiPronunciation": "इनपुट/इनपुटेड", "gujaratiMeaning": "દાખલ કર્યું", "hindiMeaning": "डाला" },
+        "V3 (Past Participle)": { "word": "Input/Inputted", "gujaratiPronunciation": "ઇનપુટ/ઇનપુટેડ", "hindiPronunciation": "इनपुट/इनपुटेड", "gujaratiMeaning": "દાખલ કરેલ", "hindiMeaning": "डाला हुआ" },
+        "V4 (ing-form)": { "word": "Inputting", "gujaratiPronunciation": "ઇનપુટિંગ", "hindiPronunciation": "इनपुटिंग", "gujaratiMeaning": "દાખલ કરી રહ્યું છે", "hindiMeaning": "डाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Enter", "gujaratiPronunciation": "એન્ટર", "hindiPronunciation": "एंटर", "gujaratiMeaning": "દાખલ કરવું", "hindiMeaning": "प्रवेश करना" },
+        { "word": "Provide", "gujaratiPronunciation": "પ્રોવાઇડ", "hindiPronunciation": "प्रोवाइड", "gujaratiMeaning": "પૂરું પાડવું", "hindiMeaning": "प्रदान करना" }
+      ],
+      "antonyms": [
+        { "word": "Output", "gujaratiPronunciation": "આઉટપુટ", "hindiPronunciation": "आउटपुट", "gujaratiMeaning": "પરિણામ મેળવવું", "hindiMeaning": "परिणाम" },
+        { "word": "Extract", "gujaratiPronunciation": "એક્સટ્રેક્ટ", "hindiPronunciation": "एक्सट्रेक्ट", "gujaratiMeaning": "બહાર કાઢવું", "hindiMeaning": "निकालना" }
+      ],
+      "confusingWords": [
+        { "word": "Put in", "gujaratiPronunciation": "પુટ ઇન", "hindiPronunciation": "पुट इन", "gujaratiMeaning": "અંદર મૂકવું", "hindiMeaning": "अंदर रखना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Please input your password.", "gujaratiPronunciation": "પ્લીઝ ઇનપુટ યોર પાસવર્ડ.", "hindiPronunciation": "प्लीज़ इनपुट योर पासवर्ड।", "gujaratiTranslation": "કૃપા કરીને તમારો પાસવર્ડ દાખલ કરો.", "hindiTranslation": "कृपया अपना पासवर्ड डालें।" }
+      ]
+    },
+    {
+      "word": "Illustrate",
+      "gujaratiPronunciation": "ઇલસ્ટ્રેટ",
+      "hindiPronunciation": "इलस्ट्रेट",
+      "gujaratiMeaning": "ઉદાહરણ આપીને સમજાવવું",
+      "hindiMeaning": "उदाहरण देकर समझाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Illustrate", "gujaratiPronunciation": "ઇલસ્ટ્રેટ", "hindiPronunciation": "इलस्ट्रेट", "gujaratiMeaning": "સમજાવવું", "hindiMeaning": "समझाना" },
+        "V2 (Past)": { "word": "Illustrated", "gujaratiPronunciation": "ઇલસ્ટ્રેટેડ", "hindiPronunciation": "इलस्ट्रेटेड", "gujaratiMeaning": "સમજાવ્યું", "hindiMeaning": "समझाया" },
+        "V3 (Past Participle)": { "word": "Illustrated", "gujaratiPronunciation": "ઇલસ્ટ્રેટેડ", "hindiPronunciation": "इलस्ट्रेटेड", "gujaratiMeaning": "સમજાવેલ", "hindiMeaning": "समझाया हुआ" },
+        "V4 (ing-form)": { "word": "Illustrating", "gujaratiPronunciation": "ઇલસ્ટ્રેટિંગ", "hindiPronunciation": "इलस्ट्रेटिंग", "gujaratiMeaning": "સમજાવી રહ્યું છે", "hindiMeaning": "समझा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Explain", "gujaratiPronunciation": "એક્સપ્લેન", "hindiPronunciation": "एक्सप्लेन", "gujaratiMeaning": "સમજાવવું", "hindiMeaning": "समझाना" },
+        { "word": "Demonstrate", "gujaratiPronunciation": "ડેમોન્સ્ટ્રેટ", "hindiPronunciation": "डेमोंस्ट्रेट", "gujaratiMeaning": "પ્રદર્શન કરવું", "hindiMeaning": "प्रदर्शन करना" }
+      ],
+      "antonyms": [
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" },
+        { "word": "Obscure", "gujaratiPronunciation": "ઓબ્સ્ક્યોર", "hindiPronunciation": "ऑब्स्क्योर", "gujaratiMeaning": "અસ્પષ્ટ કરવું", "hindiMeaning": "अस्पष्ट करना" }
+      ],
+      "confusingWords": [
+        { "word": "Frustrate", "gujaratiPronunciation": "ફ્રસ્ટ્રેટ", "hindiPronunciation": "फ्रस्ट्रेट", "gujaratiMeaning": "નિરાશ કરવું", "hindiMeaning": "निराश करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The teacher used a diagram to illustrate the point.", "gujaratiPronunciation": "ધ ટીચર યુઝ્ડ અ ડાયાગ્રામ ટુ ઇલસ્ટ્રેટ ધ પોઇન્ટ.", "hindiPronunciation": "द टीचर यूज्ड अ डायग्राम टू इलस्ट्रेट द पॉइंट।", "gujaratiTranslation": "શિક્ષકે મુદ્દો સમજાવવા માટે એક આકૃતિનો ઉપયોગ કર્યો.", "hindiTranslation": "शिक्षक ने बात समझाने के लिए एक चित्र का उपयोग किया।" }
+      ]
+    },
+    {
+      "word": "Simmer",
+      "gujaratiPronunciation": "સિમર",
+      "hindiPronunciation": "सिमर",
+      "gujaratiMeaning": "ધીમા તાપે ઉકાળવું",
+      "hindiMeaning": "धीमी आंच पर उबालना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Simmer", "gujaratiPronunciation": "સિમર", "hindiPronunciation": "सिमर", "gujaratiMeaning": "ઉકાળવું", "hindiMeaning": "उबालना" },
+        "V2 (Past)": { "word": "Simmered", "gujaratiPronunciation": "સિમર્ડ", "hindiPronunciation": "सिमर्ड", "gujaratiMeaning": "ઉકાળ્યું", "hindiMeaning": "उबाला" },
+        "V3 (Past Participle)": { "word": "Simmered", "gujaratiPronunciation": "સિમર્ડ", "hindiPronunciation": "सिमर्ड", "gujaratiMeaning": "ઉકાળેલ", "hindiMeaning": "उबाला हुआ" },
+        "V4 (ing-form)": { "word": "Simmering", "gujaratiPronunciation": "સિમરિંગ", "hindiPronunciation": "सिमरिंग", "gujaratiMeaning": "ઉકાળી રહ્યું છે", "hindiMeaning": "उबल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Boil gently", "gujaratiPronunciation": "બોઇલ જેન્ટલી", "hindiPronunciation": "बॉइल जेंटली", "gujaratiMeaning": "ધીમેથી ઉકાળવું", "hindiMeaning": "धीरे-धीरे उबालना" },
+        { "word": "Stew", "gujaratiPronunciation": "સ્ટ્યૂ", "hindiPronunciation": "स्टू", "gujaratiMeaning": "ધીમા તાપે રાંધવું", "hindiMeaning": "धीमी आंच पर पकाना" }
+      ],
+      "antonyms": [
+        { "word": "Boil rapidly", "gujaratiPronunciation": "બોઇલ રેપિડલી", "hindiPronunciation": "बॉइल रैपिडली", "gujaratiMeaning": "ઝડપથી ઉકાળવું", "hindiMeaning": "तेजी से उबालना" },
+        { "word": "Freeze", "gujaratiPronunciation": "ફ્રીઝ", "hindiPronunciation": "फ्रीज", "gujaratiMeaning": "જમાવવું", "hindiMeaning": "जमाना" }
+      ],
+      "confusingWords": [
+        { "word": "Summer", "gujaratiPronunciation": "સમર", "hindiPronunciation": "समर", "gujaratiMeaning": "ઉનાળો", "hindiMeaning": "गर्मी" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Let the soup simmer for thirty minutes.", "gujaratiPronunciation": "લેટ ધ સૂપ સિમર ફોર થર્ટી મિનિટ્સ.", "hindiPronunciation": "लेट द सूप सिमर फॉर थर्टी मिनट्स।", "gujaratiTranslation": "સૂપને ત્રીસ મિનિટ માટે ધીમા તાપે ઉકળવા દો.", "hindiTranslation": "सूप को तीस मिनट तक धीमी आंच पर उबलने दें।" }
+      ]
+    },
+    {
+      "word": "Dab",
+      "gujaratiPronunciation": "ડેબ",
+      "hindiPronunciation": "डैब",
+      "gujaratiMeaning": "હળવેથી અડકવું",
+      "hindiMeaning": "हल्के से छूना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Dab", "gujaratiPronunciation": "ડેબ", "hindiPronunciation": "डैब", "gujaratiMeaning": "અડકવું", "hindiMeaning": "छूना" },
+        "V2 (Past)": { "word": "Dabbed", "gujaratiPronunciation": "ડેબ્ડ", "hindiPronunciation": "डैब्ड", "gujaratiMeaning": "અડક્યું", "hindiMeaning": "छुआ" },
+        "V3 (Past Participle)": { "word": "Dabbed", "gujaratiPronunciation": "ડેબ્ડ", "hindiPronunciation": "डैब्ड", "gujaratiMeaning": "અડકેલ", "hindiMeaning": "छुआ हुआ" },
+        "V4 (ing-form)": { "word": "Dabbing", "gujaratiPronunciation": "ડેબિંગ", "hindiPronunciation": "डैबिंग", "gujaratiMeaning": "અડકી રહ્યું છે", "hindiMeaning": "छू रहा है" }
+      },
+      "synonyms": [
+        { "word": "Pat", "gujaratiPronunciation": "પેટ", "hindiPronunciation": "पैट", "gujaratiMeaning": "થપથપાવવું", "hindiMeaning": "थपथपाना" },
+        { "word": "Touch lightly", "gujaratiPronunciation": "ટચ લાઇટલી", "hindiPronunciation": "टच लाइटली", "gujaratiMeaning": "હળવેથી સ્પર્શ કરવો", "hindiMeaning": "हल्के से स्पर्श करना" }
+      ],
+      "antonyms": [
+        { "word": "Rub", "gujaratiPronunciation": "રબ", "hindiPronunciation": "रब", "gujaratiMeaning": "ઘસવું", "hindiMeaning": "रगड़ना" },
+        { "word": "Smear", "gujaratiPronunciation": "સ્મિયર", "hindiPronunciation": "स्मियर", "gujaratiMeaning": "લપેડવું", "hindiMeaning": "लेपना" }
+      ],
+      "confusingWords": [
+        { "word": "Dub", "gujaratiPronunciation": "ડબ", "hindiPronunciation": "डब", "gujaratiMeaning": "ડબ કરવું", "hindiMeaning": "डब करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "She dabbed her eyes with a tissue.", "gujaratiPronunciation": "શી ડેબ્ડ હર આઇઝ વિથ અ ટિશ્યુ.", "hindiPronunciation": "शी डैब्ड हर आइज़ विद अ टिश्यू।", "gujaratiTranslation": "તેણીએ રૂમાલ વડે પોતાની આંખો લૂછી.", "hindiTranslation": "उसने एक टिश्यू से अपनी आँखें पोंछीं।" }
+      ]
+    },
+    {
+      "word": "Decant",
+      "gujaratiPronunciation": "ડિકેન્ટ",
+      "hindiPronunciation": "डिकैंट",
+      "gujaratiMeaning": "એક વાસણમાંથી બીજામાં નિતારવું",
+      "hindiMeaning": "एक बर्तन से दूसरे में निथारना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Decant", "gujaratiPronunciation": "ડિકેન્ટ", "hindiPronunciation": "डिकैंट", "gujaratiMeaning": "નિતારવું", "hindiMeaning": "निथारना" },
+        "V2 (Past)": { "word": "Decanted", "gujaratiPronunciation": "ડિકેન્ટેડ", "hindiPronunciation": "डिकैंटेड", "gujaratiMeaning": "નિતાર્યું", "hindiMeaning": "निथारा" },
+        "V3 (Past Participle)": { "word": "Decanted", "gujaratiPronunciation": "ડિકેન્ટેડ", "hindiPronunciation": "डिकैंटेड", "gujaratiMeaning": "નિતારેલ", "hindiMeaning": "निथारा हुआ" },
+        "V4 (ing-form)": { "word": "Decanting", "gujaratiPronunciation": "ડિકેન્ટિંગ", "hindiPronunciation": "डिकैंटिंग", "gujaratiMeaning": "નિતારી રહ્યું છે", "hindiMeaning": "निथार रहा है" }
+      },
+      "synonyms": [
+        { "word": "Pour off", "gujaratiPronunciation": "પોર ઓફ", "hindiPronunciation": "पोर ऑफ", "gujaratiMeaning": "બહાર રેડવું", "hindiMeaning": "उड़ेलना" },
+        { "word": "Transfer", "gujaratiPronunciation": "ટ્રાન્સફર", "hindiPronunciation": "ट्रांसफर", "gujaratiMeaning": "સ્થાનાંતર કરવું", "hindiMeaning": "स्थानांतरित करना" }
+      ],
+      "antonyms": [
+        { "word": "Mix", "gujaratiPronunciation": "મિક્સ", "hindiPronunciation": "मिक्स", "gujaratiMeaning": "ભેળવવું", "hindiMeaning": "मिलाना" },
+        { "word": "Stir", "gujaratiPronunciation": "સ્ટર", "hindiPronunciation": "स्टर", "gujaratiMeaning": "હલાવવું", "hindiMeaning": "हिलाना" }
+      ],
+      "confusingWords": [
+        { "word": "Decent", "gujaratiPronunciation": "ડીસન્ટ", "hindiPronunciation": "डीसेंट", "gujaratiMeaning": "શિષ્ટ", "hindiMeaning": "सभ्य" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Decant the wine to let it breathe.", "gujaratiPronunciation": "ડિકેન્ટ ધ વાઇન ટુ લેટ ઇટ બ્રીધ.", "hindiPronunciation": "डिकैंट द वाइन टू लेट इट ब्रीद।", "gujaratiTranslation": "વાઇનને શ્વાસ લેવા દેવા માટે તેને બીજા વાસણમાં નિતારો.", "hindiTranslation": "वाइन को सांस लेने देने के लिए उसे निथारें।" }
+      ]
+    }
+  ]
+}

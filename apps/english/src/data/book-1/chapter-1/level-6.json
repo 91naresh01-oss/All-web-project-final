@@ -1,0 +1,46 @@
+{
+    "id": "level-6",
+    "title": "Numbers 6",
+    "words": [
+        {
+            "word": "Hundred",
+            "icon": "💯",
+            "gujaratiPronunciation": "હન્ડ્રેડ",
+            "hindiPronunciation": "हंड्रेड",
+            "gujaratiMeaning": "સો",
+            "hindiMeaning": "सौ"
+        },
+        {
+            "word": "Thousand",
+            "icon": "🔢",
+            "gujaratiPronunciation": "થાઉઝન્ડ",
+            "hindiPronunciation": "थाउजेंड",
+            "gujaratiMeaning": "હજાર",
+            "hindiMeaning": "हज़ार"
+        },
+        {
+            "word": "Ten Thousand",
+            "icon": "🔢",
+            "gujaratiPronunciation": "ટેન થાઉઝન્ડ",
+            "hindiPronunciation": "टेन थाउजेंड",
+            "gujaratiMeaning": "દસ હજાર",
+            "hindiMeaning": "दस हज़ार"
+        },
+        {
+            "word": "Lakh",
+            "icon": "🔢",
+            "gujaratiPronunciation": "લાખ",
+            "hindiPronunciation": "लाख",
+            "gujaratiMeaning": "લાખ",
+            "hindiMeaning": "लाख"
+        },
+        {
+            "word": "Crore",
+            "icon": "🔢",
+            "gujaratiPronunciation": "કરોડ",
+            "hindiPronunciation": "करोड़",
+            "gujaratiMeaning": "કરોડ",
+            "hindiMeaning": "करोड़"
+        }
+    ]
+}

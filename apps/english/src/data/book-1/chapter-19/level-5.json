@@ -1,0 +1,11 @@
+{
+    "id": "level-5",
+    "title": "Core Family Unit",
+    "words": [
+        { "word": "Husband", "icon": "👨‍❤️‍💋‍👨", "gujaratiMeaning": "પતિ", "hindiMeaning": "पति", "gujaratiPronunciation": "હસબન્ડ", "hindiPronunciation": "हस्बैंड" },
+        { "word": "Wife", "icon": "👩‍❤️‍💋‍👩", "gujaratiMeaning": "પત્ની", "hindiMeaning": "पत्नी", "gujaratiPronunciation": "વાઇફ", "hindiPronunciation": "वाइफ" },
+        { "word": "Son", "icon": "👦", "gujaratiMeaning": "પુત્ર", "hindiMeaning": "बेटा", "gujaratiPronunciation": "સન", "hindiPronunciation": "सन" },
+        { "word": "Daughter", "icon": "👧", "gujaratiMeaning": "પુત્રી", "hindiMeaning": "बेटी", "gujaratiPronunciation": "ડૉટર", "hindiPronunciation": "डॉटर" },
+        { "word": "Family", "icon": "👨‍👩‍👧‍👦", "gujaratiMeaning": "કુટુંબ", "hindiMeaning": "परिवार", "gujaratiPronunciation": "ફેમિલી", "hindiPronunciation": "फैमिली" }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "level-4",
+  "title": "Months 3 and Time",
+  "words": [
+    {
+      "word": "September",
+      "gujaratiPronunciation": "સપ્ટેમ્બર",
+      "hindiPronunciation": "सितंबर",
+      "gujaratiMeaning": "સપ્ટેમ્બર",
+      "hindiMeaning": "सितंबर",
+      "exampleSentences": [
+        {
+          "sentence": "Teacher's Day is celebrated in September.",
+          "gujaratiTranslation": "શિક્ષક દિવસ સપ્ટેમ્બરમાં ઉજવવામાં આવે છે.",
+          "hindiTranslation": "शिक्षक दिवस सितंबर में मनाया जाता है।"
+        }
+      ]
+    },
+    {
+      "word": "October",
+      "gujaratiPronunciation": "ઓક્ટોબર",
+      "hindiPronunciation": "अक्टूबर",
+      "gujaratiMeaning": "ઓક્ટોબર",
+      "hindiMeaning": "अक्टूबर",
+      "exampleSentences": [
+        {
+          "sentence": "Gandhi Jayanti is on 2nd October.",
+          "gujaratiTranslation": "ગાંધી જયંતિ ૨ ઓક્ટોબરે છે.",
+          "hindiTranslation": "गांधी जयंती 2 अक्टूबर को है।"
+        }
+      ]
+    },
+    {
+      "word": "November",
+      "gujaratiPronunciation": "નવેમ્બર",
+      "hindiPronunciation": "नवंबर",
+      "gujaratiMeaning": "નવેમ્બર",
+      "hindiMeaning": "नवंबर",
+      "exampleSentences": [
+        {
+          "sentence": "Children's Day is in November.",
+          "gujaratiTranslation": "બાળ દિવસ નવેમ્બરમાં આવે છે.",
+          "hindiTranslation": "बाल दिवस नवंबर में आता है।"
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "gujaratiPronunciation": "ડિસેમ્બર",
+      "hindiPronunciation": "दिसंबर",
+      "gujaratiMeaning": "ડિસેમ્બર",
+      "hindiMeaning": "दिसंबर",
+      "exampleSentences": [
+        {
+          "sentence": "Christmas is celebrated in December.",
+          "gujaratiTranslation": "નાતાલ ડિસેમ્બરમાં ઉજવવામાં આવે છે.",
+          "hindiTranslation": "क्रिसमस दिसंबर में मनाया जाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Week",
+      "gujaratiPronunciation": "વીક",
+      "hindiPronunciation": "वीक",
+      "gujaratiMeaning": "અઠવાડિયું",
+      "hindiMeaning": "सप्ताह",
+      "exampleSentences": [
+        {
+          "sentence": "There are seven days in a week.",
+          "gujaratiTranslation": "એક અઠવાડિયામાં સાત દિવસ હોય છે.",
+          "hindiTranslation": "एक सप्ताह में सात दिन होते हैं।"
+        }
+      ]
+    }
+  ]
+}

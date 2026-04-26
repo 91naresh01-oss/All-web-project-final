@@ -1,0 +1,481 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Cry",
+      "gujaratiPronunciation": "ક્રાય",
+      "hindiPronunciation": "क्राइ",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "રડવું",
+      "hindiMeaning": "रोना",
+      "verbForms": {
+        "v1": {
+          "word": "Cry",
+          "gujaratiPronunciation": "ક્રાય",
+          "hindiPronunciation": "क्राइ",
+          "gujaratiMeaning": "રડવું",
+          "hindiMeaning": "रोना"
+        },
+        "v2": {
+          "word": "Cried",
+          "gujaratiPronunciation": "ક્રાઇડ",
+          "hindiPronunciation": "क्राइड",
+          "gujaratiMeaning": "રડ્યો",
+          "hindiMeaning": "रोया"
+        },
+        "v3": {
+          "word": "Cried",
+          "gujaratiPronunciation": "ક્રાઇડ",
+          "hindiPronunciation": "क्राइड",
+          "gujaratiMeaning": "રડેલું",
+          "hindiMeaning": "रो चुका"
+        },
+        "v4": {
+          "word": "Crying",
+          "gujaratiPronunciation": "ક્રાઇંગ",
+          "hindiPronunciation": "क्राइंग",
+          "gujaratiMeaning": "રડી રહ્યું છે",
+          "hindiMeaning": "रो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Weep",
+          "gujaratiPronunciation": "વીપ",
+          "hindiPronunciation": "वीप",
+          "gujaratiMeaning": "ડૂસકે ડૂસકે રડવું",
+          "hindiMeaning": "बिलखना"
+        },
+        {
+          "word": "Sob",
+          "gujaratiPronunciation": "સોબ",
+          "hindiPronunciation": "सोब",
+          "gujaratiMeaning": "હીબકાં ભરવાં",
+          "hindiMeaning": "सिसकना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Laugh",
+          "gujaratiPronunciation": "લાફ",
+          "hindiPronunciation": "लाफ़",
+          "gujaratiMeaning": "હસવું",
+          "hindiMeaning": "हंसना"
+        },
+        {
+          "word": "Smile",
+          "gujaratiPronunciation": "સ્માઇલ",
+          "hindiPronunciation": "स्माइल",
+          "gujaratiMeaning": "મલકવું",
+          "hindiMeaning": "मुस्कुराना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Crew",
+          "gujaratiPronunciation": "ક્રૂ",
+          "hindiPronunciation": "क्रू",
+          "gujaratiMeaning": "ટુકડી",
+          "hindiMeaning": "दल"
+        },
+        {
+          "word": "Fry",
+          "gujaratiPronunciation": "ફ્રાય",
+          "hindiPronunciation": "फ्राई",
+          "gujaratiMeaning": "તળવું",
+          "hindiMeaning": "तलना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The baby started to cry because it was hungry.",
+          "gujaratiPronunciation": "ધ બેબી સ્ટાર્ટેડ ટુ ક્રાય બીકોઝ ઇટ વોઝ હંગ્રી.",
+          "hindiPronunciation": "द बेबी स्टार्टेड टू क्राइ बिकॉज़ इट वॉઝ हंग्री।",
+          "gujaratiTranslation": "બાળક ભૂખ્યું હોવાથી રડવા લાગ્યું.",
+          "hindiTranslation": "बच्चा भूखा होने के कारण रोने लगा।"
+        }
+      ]
+    },
+    {
+      "word": "Laugh",
+      "gujaratiPronunciation": "લાફ",
+      "hindiPronunciation": "लाफ़",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "હસવું",
+      "hindiMeaning": "हंसना",
+      "verbForms": {
+        "v1": {
+          "word": "Laugh",
+          "gujaratiPronunciation": "લાફ",
+          "hindiPronunciation": "लाफ़",
+          "gujaratiMeaning": "હસવું",
+          "hindiMeaning": "हंसना"
+        },
+        "v2": {
+          "word": "Laughed",
+          "gujaratiPronunciation": "લાફ્ડ",
+          "hindiPronunciation": "लाफ़્ડ",
+          "gujaratiMeaning": "હસ્યો",
+          "hindiMeaning": "हंसा"
+        },
+        "v3": {
+          "word": "Laughed",
+          "gujaratiPronunciation": "લાફ્ડ",
+          "hindiPronunciation": "लाफ़્ડ",
+          "gujaratiMeaning": "હસેલું",
+          "hindiMeaning": "हंस चुका"
+        },
+        "v4": {
+          "word": "Laughing",
+          "gujaratiPronunciation": "લાફિંગ",
+          "hindiPronunciation": "लाफ़िंग",
+          "gujaratiMeaning": "હસી રહ્યું છે",
+          "hindiMeaning": "हंस रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Chuckle",
+          "gujaratiPronunciation": "ચકલ",
+          "hindiPronunciation": "चकल",
+          "gujaratiMeaning": "ધીમેથી હસવું",
+          "hindiMeaning": "मंदहास करना"
+        },
+        {
+          "word": "Giggle",
+          "gujaratiPronunciation": "ગિગલ",
+          "hindiPronunciation": "गिगल",
+          "gujaratiMeaning": "ખીખી કરવું",
+          "hindiMeaning": "खिखियाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cry",
+          "gujaratiPronunciation": "ક્રાય",
+          "hindiPronunciation": "क्राइ",
+          "gujaratiMeaning": "રડવું",
+          "hindiMeaning": "रोना"
+        },
+        {
+          "word": "Frown",
+          "gujaratiPronunciation": "ફ્રાઉન",
+          "hindiPronunciation": "फ्राउन",
+          "gujaratiMeaning": "ભ્રમર ચડાવવી",
+          "hindiMeaning": "त्योरी चढ़ाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Tough",
+          "gujaratiPronunciation": "ટફ",
+          "hindiPronunciation": "टफ़",
+          "gujaratiMeaning": "મુશ્કેલ",
+          "hindiMeaning": "कठिन"
+        },
+        {
+          "word": "Cough",
+          "gujaratiPronunciation": "કફ",
+          "hindiPronunciation": "कफ़",
+          "gujaratiMeaning": "ખાંસી",
+          "hindiMeaning": "खांसी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The joke was so funny that everyone started to laugh.",
+          "gujaratiPronunciation": "ધ જોક વોઝ સો ફની ધેટ એવરીવન સ્ટાર્ટેડ ટુ લાફ.",
+          "hindiPronunciation": "द जोक वॉઝ सो फ़नी दैट एवरीवन स्टार्टेड टु लाफ़।",
+          "gujaratiTranslation": "જોક એટલો રમુજી હતો કે બધા હસવા લાગ્યા.",
+          "hindiTranslation": "चुटकुला इतना मज़ेदार था कि सब हंसने लगे।"
+        }
+      ]
+    },
+    {
+      "word": "Yell",
+      "gujaratiPronunciation": "યેલ",
+      "hindiPronunciation": "येल",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "બૂમ પાડવી",
+      "hindiMeaning": "चिल्लाना",
+      "verbForms": {
+        "v1": {
+          "word": "Yell",
+          "gujaratiPronunciation": "યેલ",
+          "hindiPronunciation": "येल",
+          "gujaratiMeaning": "બૂમ પાડવી",
+          "hindiMeaning": "चिल्लाना"
+        },
+        "v2": {
+          "word": "Yelled",
+          "gujaratiPronunciation": "યેલ્ડ",
+          "hindiPronunciation": "येल्ड",
+          "gujaratiMeaning": "બૂમ પાડી",
+          "hindiMeaning": "चिल्लाया"
+        },
+        "v3": {
+          "word": "Yelled",
+          "gujaratiPronunciation": "યેલ્ડ",
+          "hindiPronunciation": "येल्ड",
+          "gujaratiMeaning": "બૂમ પાડેલું",
+          "hindiMeaning": "चिल्ला चुका"
+        },
+        "v4": {
+          "word": "Yelling",
+          "gujaratiPronunciation": "યેલિંગ",
+          "hindiPronunciation": "येलिंग",
+          "gujaratiMeaning": "બૂમો પાડી રહ્યું છે",
+          "hindiMeaning": "चिल्ला रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Shout",
+          "gujaratiPronunciation": "શાઉટ",
+          "hindiPronunciation": "शाउट",
+          "gujaratiMeaning": "ચીસ પાડવી",
+          "hindiMeaning": "चीखना"
+        },
+        {
+          "word": "Scream",
+          "gujaratiPronunciation": "સ્ક્રીમ",
+          "hindiPronunciation": "स्क्रीम",
+          "gujaratiMeaning": "રાડ પાડવી",
+          "hindiMeaning": "चीख मारना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Whisper",
+          "gujaratiPronunciation": "વ્હિસ્પર",
+          "hindiPronunciation": "व्हिस्पर",
+          "gujaratiMeaning": "ફૂસફૂસાવવું",
+          "hindiMeaning": "फुसफुसाना"
+        },
+        {
+          "word": "Mumble",
+          "gujaratiPronunciation": "મમ્બલ",
+          "hindiPronunciation": "मंबल",
+          "gujaratiMeaning": "ગણગણવું",
+          "hindiMeaning": "बुदबुदाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Jell",
+          "gujaratiPronunciation": "જેલ",
+          "hindiPronunciation": "जेल",
+          "gujaratiMeaning": "જામવું",
+          "hindiMeaning": "जमना"
+        },
+        {
+          "word": "Yellow",
+          "gujaratiPronunciation": "યેલો",
+          "hindiPronunciation": "येलो",
+          "gujaratiMeaning": "પીળો",
+          "hindiMeaning": "पीला"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't yell at me; I can hear you perfectly.",
+          "gujaratiPronunciation": "ડોન્ટ યેલ એટ મી; આઈ કેન હિયર યુ પરફેક્ટલી.",
+          "hindiPronunciation": "डोंट येल ऐટ मी; आइ कैन हियर यू परफेक्ट्ली।",
+          "gujaratiTranslation": "મારા પર બૂમો ન પાડો; હું તમને બરાબર સાંભળી શકું છું.",
+          "hindiTranslation": "मुझ पर चिल्लाओ मत; मैं तुम्हें perfectamente सुन सकता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Smile",
+      "gujaratiPronunciation": "સ્માઇલ",
+      "hindiPronunciation": "स्माइल",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "મલકવું",
+      "hindiMeaning": "मुस्कुराना",
+      "verbForms": {
+        "v1": {
+          "word": "Smile",
+          "gujaratiPronunciation": "સ્માઇલ",
+          "hindiPronunciation": "स्माइल",
+          "gujaratiMeaning": "મલકવું",
+          "hindiMeaning": "मुस्कुराना"
+        },
+        "v2": {
+          "word": "Smiled",
+          "gujaratiPronunciation": "સ્માઇલ્ડ",
+          "hindiPronunciation": "स्माइल्ड",
+          "gujaratiMeaning": "મલક્યો",
+          "hindiMeaning": "मुस्कुराया"
+        },
+        "v3": {
+          "word": "Smiled",
+          "gujaratiPronunciation": "સ્માઇલ્ડ",
+          "hindiPronunciation": "स्माइल्ड",
+          "gujaratiMeaning": "મલકેલું",
+          "hindiMeaning": "मुस्कुरा चुका"
+        },
+        "v4": {
+          "word": "Smiling",
+          "gujaratiPronunciation": "સ્માઇલિંગ",
+          "hindiPronunciation": "स्माइलिंग",
+          "gujaratiMeaning": "મલકી રહ્યું છે",
+          "hindiMeaning": "मुस्कुरा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Grin",
+          "gujaratiPronunciation": "ગ્રિન",
+          "hindiPronunciation": "ग्रिन",
+          "gujaratiMeaning": "દાંત કાઢવા",
+          "hindiMeaning": "दांत दिखाना"
+        },
+        {
+          "word": "Beam",
+          "gujaratiPronunciation": "બીમ",
+          "hindiPronunciation": "बीम",
+          "gujaratiMeaning": "ખુશીથી ચમકવું",
+          "hindiMeaning": "प्रसन्नता से चमकना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Frown",
+          "gujaratiPronunciation": "ફ્રાઉન",
+          "hindiPronunciation": "फ्राउन",
+          "gujaratiMeaning": "ભ્રમર ચડાવવી",
+          "hindiMeaning": "त्योरी चढ़ाना"
+        },
+        {
+          "word": "Scowl",
+          "gujaratiPronunciation": "સ્કાઉલ",
+          "hindiPronunciation": "स्काउल",
+          "gujaratiMeaning": "ગુસ્સાથી જોવું",
+          "hindiMeaning": "गुस्से से देखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Smell",
+          "gujaratiPronunciation": "સ્મેલ",
+          "hindiPronunciation": "स्मेल",
+          "gujaratiMeaning": "ગંધ",
+          "hindiMeaning": "गंध"
+        },
+        {
+          "word": "Mile",
+          "gujaratiPronunciation": "માઇલ",
+          "hindiPronunciation": "माइल",
+          "gujaratiMeaning": "માઇલ",
+          "hindiMeaning": "मील"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She always manages to smile even when she is sad.",
+          "gujaratiPronunciation": "શી ઓલવેઝ મેનેજીસ ટુ સ્માઇલ ઇવન વ્હેન શી ઇઝ સેડ.",
+          "hindiPronunciation": "शी ऑलवेज मैनेजेज टु स्माइल इवन व्हेन शी इज़ सैड।",
+          "gujaratiTranslation": "તે દુઃખી હોય ત્યારે પણ હંમેશા મલકવાનું સંભાળી લે છે.",
+          "hindiTranslation": "वह दुखी होने पर भी हमेशा मुस्कुराने का प्रबंधन करती है।"
+        }
+      ]
+    },
+    {
+      "word": "Relax",
+      "gujaratiPronunciation": "રિલેક્સ",
+      "hindiPronunciation": "रिलैक्स",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "આરામ કરવો",
+      "hindiMeaning": "आराम करना",
+      "verbForms": {
+        "v1": {
+          "word": "Relax",
+          "gujaratiPronunciation": "રિલેક્સ",
+          "hindiPronunciation": "रिलैक्स",
+          "gujaratiMeaning": "આરામ કરવો",
+          "hindiMeaning": "आराम करना"
+        },
+        "v2": {
+          "word": "Relaxed",
+          "gujaratiPronunciation": "રિલેક્સ્ડ",
+          "hindiPronunciation": "रिलैक्स्ड",
+          "gujaratiMeaning": "આરામ કર્યો",
+          "hindiMeaning": "आराम किया"
+        },
+        "v3": {
+          "word": "Relaxed",
+          "gujaratiPronunciation": "રિલેક્સ્ડ",
+          "hindiPronunciation": "रिलैक्स्ड",
+          "gujaratiMeaning": "આરામ કરેલો",
+          "hindiMeaning": "आराम कर चुका"
+        },
+        "v4": {
+          "word": "Relaxing",
+          "gujaratiPronunciation": "રિલેક્સિંગ",
+          "hindiPronunciation": "रिलैक्सिंग",
+          "gujaratiMeaning": "આરામ કરી રહ્યું છે",
+          "hindiMeaning": "आराम कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Unwind",
+          "gujaratiPronunciation": "અનવાઇન્ડ",
+          "hindiPronunciation": "अनवाइंड",
+          "gujaratiMeaning": "તણાવમુક્ત થવું",
+          "hindiMeaning": "तनावमुक्त होना"
+        },
+        {
+          "word": "Rest",
+          "gujaratiPronunciation": "રેસ્ટ",
+          "hindiPronunciation": "रेस्ट",
+          "gujaratiMeaning": "વિશ્રામ કરવો",
+          "hindiMeaning": "विश्राम करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Tense",
+          "gujaratiPronunciation": "ટેન્સ",
+          "hindiPronunciation": "टेन्स",
+          "gujaratiMeaning": "તંગ થવું",
+          "hindiMeaning": "तनावग्रस्त होना"
+        },
+        {
+          "word": "Worry",
+          "gujaratiPronunciation": "વરી",
+          "hindiPronunciation": "वरी",
+          "gujaratiMeaning": "ચિંતા કરવી",
+          "hindiMeaning": "चिंता करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Relapse",
+          "gujaratiPronunciation": "રિલેપ્સ",
+          "hindiPronunciation": "रिलैप्स",
+          "gujaratiMeaning": "રોગનો ઊથલો",
+          "hindiMeaning": "रोग का दुबारा حملہ"
+        },
+        {
+          "word": "Relay",
+          "gujaratiPronunciation": "રિલે",
+          "hindiPronunciation": "रिले",
+          "gujaratiMeaning": "ટપ્પા દોડ",
+          "hindiMeaning": "रिले दौड़"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "After a long day at work, I just want to relax on the couch.",
+          "gujaratiPronunciation": "આફ્ટર અ લોંગ ડે એટ વર્ક, આઈ જસ્ટ વોન્ટ ટુ રિલેક્સ ઓન ધ કાઉચ.",
+          "hindiPronunciation": "आफ़்டர் अ लॉन्ग डे ऐट वर्क, आइ जस्ट वॉन्ट टु रिलैक्स ऑन द काउच।",
+          "gujaratiTranslation": "કામ પર લાંબા દિવસ પછી, હું ફક્ત સોફા પર આરામ કરવા માંગુ છું.",
+          "hindiTranslation": "काम पर एक लंबे दिन के बाद, मैं बस सोफे पर आराम करना चाहता हूँ।"
+        }
+      ]
+    }
+  ]
+}

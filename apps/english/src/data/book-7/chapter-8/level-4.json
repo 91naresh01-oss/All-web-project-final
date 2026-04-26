@@ -1,0 +1,187 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Glamorize",
+      "partOfSpeech": "verb",
+      "pronunciation": "ગ્લેમરાઇઝ",
+      "gujaratiMeaning": "આકર્ષક બનાવવું",
+      "hindiMeaning": "आकर्षक बनाना",
+      "gujaratiPronunciation": "ગ્લેમરાઇઝ",
+      "hindiPronunciation": "ग्लैमराइज",
+      "verbForms": {
+        "v1": { "word": "Glamorize", "pronunciation": "ગ્લેમરાઇઝ", "gujaratiMeaning": "આકર્ષક બનાવવું", "hindiMeaning": "आकर्षक बनाना" },
+        "v2": { "word": "Glamorized", "pronunciation": "ગ્લેમરાઇઝ્ડ", "gujaratiMeaning": "આકર્ષક બનાવ્યું", "hindiMeaning": "आकर्षक बनाया" },
+        "v3": { "word": "Glamorized", "pronunciation": "ગ્લેમરાઇઝ્ડ", "gujaratiMeaning": "આકર્ષક બનાવેલું", "hindiMeaning": "आकर्षक बनाया हुआ" },
+        "v4": { "word": "Glamorizing", "pronunciation": "ગ્લેમરાઇઝિંગ", "gujaratiMeaning": "આકર્ષક બનાવી રહ્યું છે", "hindiMeaning": "आकर्षक बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Idealize", "pronunciation": "આઇડિયલાઇઝ", "gujaratiMeaning": "આદર્શ બનાવવું", "hindiMeaning": "आदर्श बनाना" },
+        { "word": "Romanticize", "pronunciation": "રોમેન્ટિસાઇઝ", "gujaratiMeaning": "કાલ્પનિક રીતે સુંદર બતાવવું", "hindiMeaning": "रूमानी बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Deglamorize", "pronunciation": "ડિગ્લેમરાઇઝ", "gujaratiMeaning": "આકર્ષણ ઘટાડવું", "hindiMeaning": "आकर्षणहीन बनाना" },
+        { "word": "Downplay", "pronunciation": "ડાઉનપ્લે", "gujaratiMeaning": "મહત્વ ઘટાડવું", "hindiMeaning": "कम महत्व देना" }
+      ],
+      "confusingWords": [
+        { "word": "Grammar", "pronunciation": "ગ્રામર", "gujaratiMeaning": "વ્યાકરણ", "hindiMeaning": "व्याकरण" },
+        { "word": "Glaze", "pronunciation": "ગ્લેઝ", "gujaratiMeaning": "ચળકાટ", "hindiMeaning": "चमक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Movies often glamorize the life of spies.",
+          "gujaratiTranslation": "ફિલ્મો ઘણીવાર જાસૂસોના જીવનને આકર્ષક બનાવે છે.",
+          "hindiTranslation": "फिल्में अक्सर जासूसों के जीवन को आकर्षक बनाती हैं।",
+          "gujaratiPronunciation": "મુવીઝ ઓફન ગ્લેમરાઇઝ ધ લાઇફ ઓફ સ્પાઇઝ.",
+          "hindiPronunciation": "मूवीज ऑफन ग्लैमराइज द लाइफ ऑफ स्पाइज।"
+        }
+      ]
+    },
+    {
+      "word": "Sublime",
+      "partOfSpeech": "adjective",
+      "pronunciation": "સબ્લાઇમ",
+      "gujaratiMeaning": "ઉત્કૃષ્ટ, ભવ્ય",
+      "hindiMeaning": "उत्कृष्ट, भव्य",
+      "gujaratiPronunciation": "સબ્લાઇમ",
+      "hindiPronunciation": "सब्लाइम",
+      "verbForms": {
+        "v1": { "word": "Sublimate", "pronunciation": "સબ્લિમેટ", "gujaratiMeaning": "ઉદાત્ત કરવું", "hindiMeaning": "उदात्त करना" },
+        "v2": { "word": "Sublimated", "pronunciation": "સબ્લિમેટેડ", "gujaratiMeaning": "ઉદાત્ત કર્યું", "hindiMeaning": "उदात्त किया" },
+        "v3": { "word": "Sublimated", "pronunciation": "સબ્લિમેટેડ", "gujaratiMeaning": "ઉદાત્ત કરેલું", "hindiMeaning": "उदात्त किया हुआ" },
+        "v4": { "word": "Sublimating", "pronunciation": "સબ્લિમેટિંગ", "gujaratiMeaning": "ઉદાત્ત કરી રહ્યું છે", "hindiMeaning": "उदात्त कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Exalted", "pronunciation": "એક્ઝોલ્ટેડ", "gujaratiMeaning": "ઉચ્ચ", "hindiMeaning": "ऊंचा" },
+        { "word": "Magnificent", "pronunciation": "મેગ્નિફિસન્ટ", "gujaratiMeaning": "ભવ્ય", "hindiMeaning": "शानदार" }
+      ],
+      "antonyms": [
+        { "word": "Mundane", "pronunciation": "મન્ડેન", "gujaratiMeaning": "સામાન્ય", "hindiMeaning": "साधारण" },
+        { "word": "Ridiculous", "pronunciation": "રિડિક્યુલસ", "gujaratiMeaning": "હાસ્યાસ્પદ", "hindiMeaning": "हास्यास्पद" }
+      ],
+      "confusingWords": [
+        { "word": "Submarine", "pronunciation": "સબમરીન", "gujaratiMeaning": "પનડુબ્બી", "hindiMeaning": "पनडुब्बी" },
+        { "word": "Lime", "pronunciation": "લાઇમ", "gujaratiMeaning": "લીંબુ", "hindiMeaning": "नींबू" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The view from the mountaintop was sublime.",
+          "gujaratiTranslation": "પર્વતની ટોચ પરથી દૃશ્ય ભવ્ય હતું.",
+          "hindiTranslation": "पहाड़ की चोटी से नज़ारा शानदार था।",
+          "gujaratiPronunciation": "ધ વ્યુ ફ્રોમ ધ માઉન્ટેનટોપ વોઝ સબ્લાઇમ.",
+          "hindiPronunciation": "द व्यू फ्रॉम द माउंटेनटॉप वॉज सब्लाइम।"
+        }
+      ]
+    },
+    {
+      "word": "Radiate",
+      "partOfSpeech": "verb",
+      "pronunciation": "રેડિએટ",
+      "gujaratiMeaning": "ફેલાવવું, પ્રસારિત કરવું",
+      "hindiMeaning": "फैलना, प्रसारित करना",
+      "gujaratiPronunciation": "રેડિએટ",
+      "hindiPronunciation": "रेडिएट",
+      "verbForms": {
+        "v1": { "word": "Radiate", "pronunciation": "રેડિએટ", "gujaratiMeaning": "ફેલાવવું", "hindiMeaning": "फैलना" },
+        "v2": { "word": "Radiated", "pronunciation": "રેડિએટેડ", "gujaratiMeaning": "ફેલાવ્યું", "hindiMeaning": "फैलाया" },
+        "v3": { "word": "Radiated", "pronunciation": "રેડિએટેડ", "gujaratiMeaning": "ફેલાવેલું", "hindiMeaning": "फैलाया हुआ" },
+        "v4": { "word": "Radiating", "pronunciation": "રેડિએટિંગ", "gujaratiMeaning": "ફેલાવી રહ્યું છે", "hindiMeaning": "फैला रहा है" }
+      },
+      "synonyms": [
+        { "word": "Emit", "pronunciation": "એમિટ", "gujaratiMeaning": "ઉત્સર્જન કરવું", "hindiMeaning": "उत्सर्जित करना" },
+        { "word": "Shine", "pronunciation": "શાઇન", "gujaratiMeaning": "ચમકવું", "hindiMeaning": "चमकना" }
+      ],
+      "antonyms": [
+        { "word": "Absorb", "pronunciation": "એબ્સોર્બ", "gujaratiMeaning": "શોષી લેવું", "hindiMeaning": "सोखना" },
+        { "word": "Conceal", "pronunciation": "કન્સીલ", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Eradicate", "pronunciation": "ઇરેડિકેટ", "gujaratiMeaning": "નાબૂદ કરવું", "hindiMeaning": "उन्मूलन करना" },
+        { "word": "Radio", "pronunciation": "રેડિયો", "gujaratiMeaning": "રેડિયો", "hindiMeaning": "रेडियो" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She seems to radiate happiness wherever she goes.",
+          "gujaratiTranslation": "તે જ્યાં પણ જાય છે ત્યાં ખુશી ફેલાવતી હોય તેવું લાગે છે.",
+          "hindiTranslation": "वह जहाँ भी जाती है, खुशी बिखेरती है।",
+          "gujaratiPronunciation": "શી સીમ્સ ટુ રેડિએટ હેપીનેસ વ્હેરએવર શી ગોઝ.",
+          "hindiPronunciation": "शी सीम्स टू रेडिएट हैप्पीनेस व्हेयरएवर शी गोज।"
+        }
+      ]
+    },
+    {
+      "word": "Glimmer",
+      "partOfSpeech": "verb",
+      "pronunciation": "ગ્લિમર",
+      "gujaratiMeaning": "ઝબકવું, ટમટમવું",
+      "hindiMeaning": "झिलमिलाना, टिमटिमाना",
+      "gujaratiPronunciation": "ગ્લિમર",
+      "hindiPronunciation": "ग्लिमर",
+      "verbForms": {
+        "v1": { "word": "Glimmer", "pronunciation": "ગ્લિમર", "gujaratiMeaning": "ઝબકવું", "hindiMeaning": "झिलमिलाना" },
+        "v2": { "word": "Glimmered", "pronunciation": "ગ્લિમર્ડ", "gujaratiMeaning": "ઝબક્યું", "hindiMeaning": "झिलमिलाया" },
+        "v3": { "word": "Glimmered", "pronunciation": "ગ્લિમર્ડ", "gujaratiMeaning": "ઝબકેલું", "hindiMeaning": "झिलमिलाया हुआ" },
+        "v4": { "word": "Glimmering", "pronunciation": "ગ્લિમરિંગ", "gujaratiMeaning": "ઝબકી રહ્યું છે", "hindiMeaning": "झिलमिला रहा है" }
+      },
+      "synonyms": [
+        { "word": "Shimmer", "pronunciation": "શિમર", "gujaratiMeaning": "ચમકવું", "hindiMeaning": "झिलमिलाना" },
+        { "word": "Gleam", "pronunciation": "ગ્લીમ", "gujaratiMeaning": "કિરણ", "hindiMeaning": "चमकना" }
+      ],
+      "antonyms": [
+        { "word": "Dullness", "pronunciation": "ડલનેસ", "gujaratiMeaning": "ઝાંખપ", "hindiMeaning": "धुंधलापन" },
+        { "word": "Darkness", "pronunciation": "ડાર્કનેસ", "gujaratiMeaning": "અંધકાર", "hindiMeaning": "अंधेरा" }
+      ],
+      "confusingWords": [
+        { "word": "Glamour", "pronunciation": "ગ્લેમર", "gujaratiMeaning": "આકર્ષણ", "hindiMeaning": "आकर्षण" },
+        { "word": "Hammer", "pronunciation": "હેમર", "gujaratiMeaning": "હથોડો", "hindiMeaning": "हथौड़ा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A single candle glimmered in the dark room.",
+          "gujaratiTranslation": "અંધારા ઓરડામાં એક જ મીણબત્તી ઝબકી રહી હતી.",
+          "hindiTranslation": "अंधेरे कमरे में एक मोमबत्ती झिलमिला रही थी।",
+          "gujaratiPronunciation": "અ સિંગલ કેન્ડલ ગ્લિમર્ડ ઇન ધ ડાર્ક રૂમ.",
+          "hindiPronunciation": "अ सिंगल कैंडल ग्लिमर्ड इन द डार्क रूम।"
+        }
+      ]
+    },
+    {
+      "word": "Glow",
+      "partOfSpeech": "verb",
+      "pronunciation": "ગ્લો",
+      "gujaratiMeaning": "ચમકવું, પ્રકાશવું",
+      "hindiMeaning": "चमकना, दमकना",
+      "gujaratiPronunciation": "ગ્લો",
+      "hindiPronunciation": "ग्लो",
+      "verbForms": {
+        "v1": { "word": "Glow", "pronunciation": "ગ્લો", "gujaratiMeaning": "ચમકવું", "hindiMeaning": "चमकना" },
+        "v2": { "word": "Glowed", "pronunciation": "ગ્લોડ", "gujaratiMeaning": "ચમક્યું", "hindiMeaning": "चमका" },
+        "v3": { "word": "Glowed", "pronunciation": "ગ્લોડ", "gujaratiMeaning": "ચમકેલું", "hindiMeaning": "चमका हुआ" },
+        "v4": { "word": "Glowing", "pronunciation": "ગ્લોઇંગ", "gujaratiMeaning": "ચમકી રહ્યું છે", "hindiMeaning": "चमक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Shine", "pronunciation": "શાઇન", "gujaratiMeaning": "પ્રકાશવું", "hindiMeaning": "चमकना" },
+        { "word": "Radiate", "pronunciation": "રેડિએટ", "gujaratiMeaning": "ફેલાવવું", "hindiMeaning": "विकिरण करना" }
+      ],
+      "antonyms": [
+        { "word": "Fade", "pronunciation": "ફેડ", "gujaratiMeaning": "ઝાંખું પડવું", "hindiMeaning": "फीका पड़ना" },
+        { "word": "Darken", "pronunciation": "ડાર્કન", "gujaratiMeaning": "અંધારું થવું", "hindiMeaning": "अंधेरा होना" }
+      ],
+      "confusingWords": [
+        { "word": "Grow", "pronunciation": "ગ્રો", "gujaratiMeaning": "વધવું", "hindiMeaning": "बढ़ना" },
+        { "word": "Glove", "pronunciation": "ગ્લવ", "gujaratiMeaning": "હાથમોજું", "hindiMeaning": "दस्ताना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Her face began to glow with excitement.",
+          "gujaratiTranslation": "તેનો ચહેરો ઉત્તેજનાથી ચમકવા લાગ્યો.",
+          "hindiTranslation": "उसका चेहरा उत्साह से चमकने लगा।",
+          "gujaratiPronunciation": "હર ફેસ બિગાન ટુ ગ્લો વિથ એક્સાઇટમેન્ટ.",
+          "hindiPronunciation": "हर फेस बिगेन टू ग्लो विद एक्साइटमेंट।"
+        }
+      ]
+    }
+  ]
+}

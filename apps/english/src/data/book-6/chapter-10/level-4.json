@@ -1,0 +1,446 @@
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Command",
+            "gujaratiPronunciation": "કમાન્ડ",
+            "hindiPronunciation": "कमांड",
+            "gujaratiMeaning": "આદેશ આપવો, નિયંત્રણ કરવું",
+            "hindiMeaning": "आदेश देना, नियंत्रण करना",
+            "partOfSpeech": "verb/noun",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Command",
+                    "pronunciation": "કમાન્ડ",
+                    "meaning": "આદેશ આપવો"
+                },
+                "V2 (Past)": {
+                    "word": "Commanded",
+                    "pronunciation": "કમાન્ડેડ",
+                    "meaning": "આદેશ આપ્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Commanded",
+                    "pronunciation": "કમાન્ડેડ",
+                    "meaning": "આદેશ આપેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Commanding",
+                    "pronunciation": "કમાન્ડિંગ",
+                    "meaning": "આદેશ આપી રહ્યો છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Order",
+                    "gujaratiPronunciation": "ઓર્ડર",
+                    "gujaratiMeaning": "આજ્ઞા",
+                    "hindiPronunciation": "ऑर्डर",
+                    "hindiMeaning": "आज्ञा"
+                },
+                {
+                    "word": "Direct",
+                    "gujaratiPronunciation": "ડિરેક્ટ",
+                    "gujaratiMeaning": "નિર્દેશ કરવો",
+                    "hindiPronunciation": "डिरेक्ट",
+                    "hindiMeaning": "निर्देश देना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Obey",
+                    "gujaratiPronunciation": "ઓબે",
+                    "gujaratiMeaning": "પાલન કરવું",
+                    "hindiPronunciation": "ओबे",
+                    "hindiMeaning": "आज्ञा का पालन करना"
+                },
+                {
+                    "word": "Follow",
+                    "gujaratiPronunciation": "ફોલો",
+                    "gujaratiMeaning": "અનુસરણ કરવું",
+                    "hindiPronunciation": "फॉलो",
+                    "hindiMeaning": "अनुसरण करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Commend",
+                    "gujaratiPronunciation": "કમેન્ડ",
+                    "gujaratiMeaning": "પ્રશંસા કરવી",
+                    "hindiPronunciation": "कमेंड",
+                    "hindiMeaning": "प्रशंसा करना",
+                    "difference": "Command એટલે આદેશ આપવો, જ્યારે Commend એટલે પ્રશંસા કરવી."
+                },
+                {
+                    "word": "Demand",
+                    "gujaratiPronunciation": "ડિમાન્ડ",
+                    "gujaratiMeaning": "માંગ કરવી",
+                    "hindiPronunciation": "डिमांड",
+                    "hindiMeaning": "मांग करना",
+                    "difference": "Command એ સત્તાપૂર્વકનો આદેશ છે, જ્યારે Demand એ હકપૂર્વકની માંગ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The general will command the army.",
+                    "gujaratiPronunciation": "ધ જનરલ વિલ કમાન્ડ ધ આર્મી.",
+                    "gujaratiTranslation": "જનરલ સેનાને આદેશ આપશે.",
+                    "hindiTranslation": "जनरल सेना को आदेश देंगे।"
+                }
+            ]
+        },
+        {
+            "word": "Mobilize",
+            "gujaratiPronunciation": "મોબિલાઇઝ",
+            "hindiPronunciation": "मोबिलाइज़",
+            "gujaratiMeaning": "એકત્ર કરવું, ગતિશીલ કરવું",
+            "hindiMeaning": "एकत्र करना, गतिशील करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Mobilize",
+                    "pronunciation": "મોબિલાઇઝ",
+                    "meaning": "એકત્ર કરવું"
+                },
+                "V2 (Past)": {
+                    "word": "Mobilized",
+                    "pronunciation": "મોબિલાઇઝ્ડ",
+                    "meaning": "એકત્ર કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Mobilized",
+                    "pronunciation": "મોબિલાઇઝ્ડ",
+                    "meaning": "એકત્ર કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Mobilizing",
+                    "pronunciation": "મોબિલાઇઝિંગ",
+                    "meaning": "એકત્ર કરી રહ્યો છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Muster",
+                    "gujaratiPronunciation": "મસ્ટર",
+                    "gujaratiMeaning": "ભેગા કરવું",
+                    "hindiPronunciation": "मस्टर",
+                    "hindiMeaning": "इकट्ठा करना"
+                },
+                {
+                    "word": "Rally",
+                    "gujaratiPronunciation": "રેલી",
+                    "gujaratiMeaning": "એકત્ર થવું",
+                    "hindiPronunciation": "रैली",
+                    "hindiMeaning": "एकजुट होना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Disband",
+                    "gujaratiPronunciation": "ડિસબેન્ડ",
+                    "gujaratiMeaning": "વિખેરી નાખવું",
+                    "hindiPronunciation": "डिसबैंड",
+                    "hindiMeaning": "भंग करना"
+                },
+                {
+                    "word": "Demobilize",
+                    "gujaratiPronunciation": "ડિમોબિલાઇઝ",
+                    "gujaratiMeaning": "વિસર્જન કરવું",
+                    "hindiPronunciation": "डिमोबिलाइज़",
+                    "hindiMeaning": "सेनानिवृत करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Mobile",
+                    "gujaratiPronunciation": "મોબાઇલ",
+                    "gujaratiMeaning": "ગતિશીલ, હરતું-ફરતું",
+                    "hindiPronunciation": "मोबाइल",
+                    "hindiMeaning": "गतिशील, भ्रमणशील",
+                    "difference": "Mobilize એ ક્રિયાપદ છે જેનો અર્થ એકત્ર કરવું છે, જ્યારે Mobile એ વિશેષણ છે જે ગતિશીલતા દર્શાવે છે."
+                },
+                {
+                    "word": "Immobilize",
+                    "gujaratiPronunciation": "ઇમોબિલાઇઝ",
+                    "gujaratiMeaning": "સ્થિર કરવું",
+                    "hindiPronunciation": "इमोबिलाइज़",
+                    "hindiMeaning": "स्थिर करना",
+                    "difference": "Mobilize એટલે ગતિશીલ કરવું, જ્યારે Immobilize એટલે સ્થિર કરવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The country had to mobilize its troops for the war.",
+                    "gujaratiPronunciation": "ધ કન્ટ્રી હેડ ટુ મોબિલાઇઝ ઇટ્સ ટ્રુપ્સ ફોર ધ વોર.",
+                    "gujaratiTranslation": "દેશે યુદ્ધ માટે પોતાની સેના એકત્ર કરવી પડી.",
+                    "hindiTranslation": "देश को युद्ध के लिए अपनी सेना को जुटाना पड़ा।"
+                }
+            ]
+        },
+        {
+            "word": "Arbitrate",
+            "gujaratiPronunciation": "આર્બિટ્રેટ",
+            "hindiPronunciation": "आर्बिट्रेट",
+            "gujaratiMeaning": "લવાદ તરીકે નિર્ણય કરવો",
+            "hindiMeaning": "मध्यस्थता करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Arbitrate",
+                    "pronunciation": "આર્બિટ્રેટ",
+                    "meaning": "લવાદ તરીકે નિર્ણય કરવો"
+                },
+                "V2 (Past)": {
+                    "word": "Arbitrated",
+                    "pronunciation": "આર્બિટ્રેટેડ",
+                    "meaning": "લવાદ તરીકે નિર્ણય કર્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Arbitrated",
+                    "pronunciation": "આર્બિટ્રેટેડ",
+                    "meaning": "લવાદ તરીકે નિર્ણય કરેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Arbitrating",
+                    "pronunciation": "આર્બિટ્રેટિંગ",
+                    "meaning": "લવાદ તરીકે નિર્ણય કરી રહ્યો છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Mediate",
+                    "gujaratiPronunciation": "મીડિએટ",
+                    "gujaratiMeaning": "મધ્યસ્થી કરવી",
+                    "hindiPronunciation": "मीडिएट",
+                    "hindiMeaning": "मध्यस्थता करना"
+                },
+                {
+                    "word": "Adjudicate",
+                    "gujaratiPronunciation": "એડજ્યુડિકેટ",
+                    "gujaratiMeaning": "ન્યાય કરવો",
+                    "hindiPronunciation": "एडज्यूडिकेट",
+                    "hindiMeaning": "न्यायनिर्णय करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Dispute",
+                    "gujaratiPronunciation": "ડિસ્પ્યુટ",
+                    "gujaratiMeaning": "વિવાદ કરવો",
+                    "hindiPronunciation": "डिस्प्यूट",
+                    "hindiMeaning": "विवाद करना"
+                },
+                {
+                    "word": "Contend",
+                    "gujaratiPronunciation": "કન્ટેન્ડ",
+                    "gujaratiMeaning": "દલીલ કરવી",
+                    "hindiPronunciation": "कंटेंड",
+                    "hindiMeaning": "बहस करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Arbitrary",
+                    "gujaratiPronunciation": "આર્બિટ્રરી",
+                    "gujaratiMeaning": "મનસ્વી, આપખુદ",
+                    "hindiPronunciation": "आर्बिट्रेरी",
+                    "hindiMeaning": "मनमाना",
+                    "difference": "Arbitrate એ તટસ્થ રીતે નિર્ણય કરવાની ક્રિયા છે, જ્યારે Arbitrary એ કોઈ તર્ક વગર લેવાયેલો મનસ્વી નિર્ણય છે."
+                },
+                {
+                    "word": "Irritate",
+                    "gujaratiPronunciation": "ઇરિટેટ",
+                    "gujaratiMeaning": "ચીડવવું",
+                    "hindiPronunciation": "इरिटेट",
+                    "hindiMeaning": "चिढ़ाना",
+                    "difference": "Arbitrate એટલે મધ્યસ્થી કરવી, જ્યારે Irritate એટલે ચીડવવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "A third party was called in to arbitrate the dispute.",
+                    "gujaratiPronunciation": "અ થર્ડ પાર્ટી વોઝ કોલ્ડ ઇન ટુ આર્બિટ્રેટ ધ ડિસ્પ્યુટ.",
+                    "gujaratiTranslation": "વિવાદમાં લવાદ તરીકે નિર્ણય કરવા માટે ત્રીજા પક્ષને બોલાવવામાં આવ્યો.",
+                    "hindiTranslation": "विवाद में मध्यस्थता के लिए एक तीसरे पक्ष को बुलाया गया।"
+                }
+            ]
+        },
+        {
+            "word": "Subvert",
+            "gujaratiPronunciation": "સબવર્ટ",
+            "hindiPronunciation": "सब्वर्ट",
+            "gujaratiMeaning": "ઉથલાવી દેવું, નબળું પાડવું",
+            "hindiMeaning": "उखाड़ फेंकना, कमजोर करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Subvert",
+                    "pronunciation": "સબવર્ટ",
+                    "meaning": "ઉથલાવી દેવું"
+                },
+                "V2 (Past)": {
+                    "word": "Subverted",
+                    "pronunciation": "સબવર્ટેડ",
+                    "meaning": "ઉથલાવી દીધું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Subverted",
+                    "pronunciation": "સબવર્ટેડ",
+                    "meaning": "ઉથલાવી દીધેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Subverting",
+                    "pronunciation": "સબવર્ટિંગ",
+                    "meaning": "ઉથલાવી રહ્યો છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Undermine",
+                    "gujaratiPronunciation": "અંડરમાઇન",
+                    "gujaratiMeaning": "પાયા ખોખલા કરવા",
+                    "hindiPronunciation": "अंडरमाइन",
+                    "hindiMeaning": "कमजोर करना"
+                },
+                {
+                    "word": "Overthrow",
+                    "gujaratiPronunciation": "ઓવરથ્રો",
+                    "gujaratiMeaning": "પદભ્રષ્ટ કરવું",
+                    "hindiPronunciation": "ओवरथ्रो",
+                    "hindiMeaning": "तख्तापलट करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Support",
+                    "gujaratiPronunciation": "સપોર્ટ",
+                    "gujaratiMeaning": "સમર્થન કરવું",
+                    "hindiPronunciation": "सपोर्ट",
+                    "hindiMeaning": "समर्थन करना"
+                },
+                {
+                    "word": "Strengthen",
+                    "gujaratiPronunciation": "સ્ટ્રેન્થન",
+                    "gujaratiMeaning": "મજબૂત કરવું",
+                    "hindiPronunciation": "स्ट्रेंग्थेन",
+                    "hindiMeaning": "मजबूत करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Convert",
+                    "gujaratiPronunciation": "કન્વર્ટ",
+                    "gujaratiMeaning": "રૂપાંતર કરવું",
+                    "hindiPronunciation": "कन्वर्ट",
+                    "hindiMeaning": "रूपांतरित करना",
+                    "difference": "Subvert એટલે સ્થાપિત વ્યવસ્થાને ઉથલાવવી, જ્યારે Convert એટલે કોઈ વસ્તુનું સ્વરૂપ બદલવું."
+                },
+                {
+                    "word": "Submit",
+                    "gujaratiPronunciation": "સબમિટ",
+                    "gujaratiMeaning": "જમા કરાવવું, આધીન થવું",
+                    "hindiPronunciation": "सबमिट",
+                    "hindiMeaning": "प्रस्तुत करना, अधीन होना",
+                    "difference": "Subvert એટલે ઉથલાવવું, જ્યારે Submit એટલે શરણે થવું અથવા કંઈક જમા કરાવવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The rebels tried to subvert the government.",
+                    "gujaratiPronunciation": "ધ રેબલ્સ ટ્રાઇડ ટુ સબવર્ટ ધ ગવર્નમેન્ટ.",
+                    "gujaratiTranslation": "બળવાખોરોએ સરકારને ઉથલાવવાનો પ્રયાસ કર્યો.",
+                    "hindiTranslation": "विद्रोहियों ने सरकार को उखाड़ फेंकने की कोशिश की।"
+                }
+            ]
+        },
+        {
+            "word": "Wield",
+            "gujaratiPronunciation": "વીલ્ડ",
+            "hindiPronunciation": "विल्ड",
+            "gujaratiMeaning": "સત્તા કે હથિયારનો ઉપયોગ કરવો",
+            "hindiMeaning": "अधिकार या हथियार का प्रयोग करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Wield",
+                    "pronunciation": "વીલ્ડ",
+                    "meaning": "ઉપયોગ કરવો"
+                },
+                "V2 (Past)": {
+                    "word": "Wielded",
+                    "pronunciation": "વીલ્ડેડ",
+                    "meaning": "ઉપયોગ કર્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Wielded",
+                    "pronunciation": "વીલ્ડેડ",
+                    "meaning": "ઉપયોગ કરેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Wielding",
+                    "pronunciation": "વીલ્ડિંગ",
+                    "meaning": "ઉપયોગ કરી રહ્યો છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Exercise",
+                    "gujaratiPronunciation": "એક્સરસાઇઝ",
+                    "gujaratiMeaning": "પ્રયોગ કરવો",
+                    "hindiPronunciation": "एक्सरसाइज",
+                    "hindiMeaning": "प्रयोग करना"
+                },
+                {
+                    "word": "Brandish",
+                    "gujaratiPronunciation": "બ્રેન્ડિશ",
+                    "gujaratiMeaning": "હથિયાર બતાવવું",
+                    "hindiPronunciation": "ब्रैंडिश",
+                    "hindiMeaning": "हथियार लहराना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Sheathe",
+                    "gujaratiPronunciation": "શીથ",
+                    "gujaratiMeaning": "મ્યાનમાં મૂકવું",
+                    "hindiPronunciation": "शीथ",
+                    "hindiMeaning": "म्यान में रखना"
+                },
+                {
+                    "word": "Surrender",
+                    "gujaratiPronunciation": "સરેન્ડર",
+                    "gujaratiMeaning": "આત્મસમર્પણ કરવું",
+                    "hindiPronunciation": "सरेंडर",
+                    "hindiMeaning": "आत्मसमर्पण करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Weld",
+                    "gujaratiPronunciation": "વેલ્ડ",
+                    "gujaratiMeaning": "વેલ્ડિંગ કરવું, જોડવું",
+                    "hindiPronunciation": "वेल्ड",
+                    "hindiMeaning": "वेल्डिंग करना, जोड़ना",
+                    "difference": "Wield એટલે સત્તા કે હથિયારનો ઉપયોગ કરવો, જ્યારે Weld એટલે ધાતુના ટુકડા જોડવા."
+                },
+                {
+                    "word": "Wild",
+                    "gujaratiPronunciation": "વાઇલ્ડ",
+                    "gujaratiMeaning": "જંગલી, અનિયંત્રિત",
+                    "hindiPronunciation": "वाइल्ड",
+                    "hindiMeaning": "जंगली, अनियंत्रित",
+                    "difference": "Wield એ ક્રિયાપદ છે, જ્યારે Wild એ વિશેષણ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He wields enormous power in the company.",
+                    "gujaratiPronunciation": "હી વીલ્ડ્સ ઇનોર્મસ પાવર ઇન ધ કંપની.",
+                    "gujaratiTranslation": "તે કંપનીમાં પ્રચંડ સત્તા ધરાવે છે.",
+                    "hindiTranslation": "वह कंपनी में भारी शक्ति का प्रयोग करता है।"
+                }
+            ]
+        }
+    ]
+}

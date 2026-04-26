@@ -1,0 +1,172 @@
+
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Intersect",
+            "gujaratiPronunciation": "ઇન્ટરસેક્ટ",
+            "hindiPronunciation": "इंटरसेक्ट",
+            "gujaratiMeaning": "એકબીજાને છેદવું, ઓળંગવું",
+            "hindiMeaning": "एक दूसरे को काटना, पार करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Intersect", "pronunciation": "ઇન્ટરસેક્ટ", "meaning": "છેદવું" },
+                "v2": { "word": "Intersected", "pronunciation": "ઇન્ટરસેક્ટેડ", "meaning": "છેદ્યું" },
+                "v3": { "word": "Intersected", "pronunciation": "ઇન્ટરસેક્ટેડ", "meaning": "છેદેલું" },
+                "v4": { "word": "Intersecting", "pronunciation": "ઇન્ટરસેક્ટિંગ", "meaning": "છેદી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Cross", "pronunciation": "ક્રોસ", "meaning": "પાર કરવું" },
+                { "word": "Meet", "pronunciation": "મીટ", "meaning": "મળવું" }
+            ],
+            "antonyms": [
+                { "word": "Parallel", "pronunciation": "પેરેલલ", "meaning": "સમાંતર રહેવું" },
+                { "word": "Avoid", "pronunciation": "અવોઇડ", "meaning": "ટાળવું" }
+            ],
+            "confusingWords": [
+                { "word": "Intercept", "pronunciation": "ઇન્ટરસેપ્ટ", "meaning": "વચ્ચેથી અટકાવવું" },
+                { "word": "In a sect", "pronunciation": "ઇન અ સેક્ટ", "meaning": "એક સંપ્રદાયમાં" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The two roads intersect at the town square.",
+                    "gujaratiTranslation": "આ બે રસ્તાઓ શહેરના ચોકમાં એકબીજાને છેદે છે.",
+                    "hindiTranslation": "दोनों सड़कें शहर के चौराहे पर मिलती हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Unify",
+            "gujaratiPronunciation": "યુનિફાય",
+            "hindiPronunciation": "यूनिफ़ाई",
+            "gujaratiMeaning": "એક કરવું, એકીકૃત કરવું",
+            "hindiMeaning": "एक करना, एकीकृत करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Unify", "pronunciation": "યુનિફાય", "meaning": "એક કરવું" },
+                "v2": { "word": "Unified", "pronunciation": "યુનિફાઇડ", "meaning": "એક કર્યું" },
+                "v3": { "word": "Unified", "pronunciation": "યુનિફાઇડ", "meaning": "એક કરેલું" },
+                "v4": { "word": "Unifying", "pronunciation": "યુનિફાઇંગ", "meaning": "એક કરી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Unite", "pronunciation": "યુનાઇટ", "meaning": "એક થવું" },
+                { "word": "Merge", "pronunciation": "મર્જ", "meaning": "વિલીન કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Divide", "pronunciation": "ડિવાઇડ", "meaning": "વિભાજીત કરવું" },
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "અલગ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Nullify", "pronunciation": "નલિફાય", "meaning": "રદ કરવું" },
+                { "word": "Unit", "pronunciation": "યુનિટ", "meaning": "એકમ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The new leader hopes to unify the warring factions.",
+                    "gujaratiTranslation": "નવા નેતા લડતા જૂથોને એક કરવાની આશા રાખે છે.",
+                    "hindiTranslation": "नए नेता को युद्धरत गुटों को एकजुट करने की उम्मीद है।"
+                }
+            ]
+        },
+        {
+            "word": "Merge",
+            "gujaratiPronunciation": "મર્જ",
+            "hindiPronunciation": "मर्ज",
+            "gujaratiMeaning": "વિલીન થવું, ભળી જવું",
+            "hindiMeaning": "विलय होना, मिल जाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Merge", "pronunciation": "મર્જ", "meaning": "વિલીન થવું" },
+                "v2": { "word": "Merged", "pronunciation": "મર્જ્ડ", "meaning": "વિલીન થયું" },
+                "v3": { "word": "Merged", "pronunciation": "મર્જ્ડ", "meaning": "વિલીન થયેલું" },
+                "v4": { "word": "Merging", "pronunciation": "મર્જિંગ", "meaning": "વિલીન થઈ રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Combine", "pronunciation": "કમ્બાઇન", "meaning": "ભેગું કરવું" },
+                { "word": "Blend", "pronunciation": "બ્લેન્ડ", "meaning": "મિશ્રણ કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Split", "pronunciation": "સ્પ્લિટ", "meaning": "વિભાજન કરવું" },
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "અલગ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Emerge", "pronunciation": "ઇમર્જ", "meaning": "ઉભરી આવવું" },
+                { "word": "Marge", "pronunciation": "માર્જ", "meaning": "એક સ્ત્રીનું નામ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The two companies will merge to form a new corporation.",
+                    "gujaratiTranslation": "બંને કંપનીઓ વિલીન થઈને એક નવું કોર્પોરેશન બનાવશે.",
+                    "hindiTranslation": "दोनों कंपनियाँ मिलकर एक नया निगम बनाएंगी।"
+                }
+            ]
+        },
+        {
+            "word": "Transmute",
+            "gujaratiPronunciation": "ટ્રાન્સમ્યુટ",
+            "hindiPronunciation": "ट्रांसम्यूट",
+            "gujaratiMeaning": "રૂપાંતર કરવું, એક સ્વરૂપમાંથી બીજામાં બદલવું",
+            "hindiMeaning": "रूपांतरित करना, एक रूप से दूसरे में बदलना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Transmute", "pronunciation": "ટ્રાન્સમ્યુટ", "meaning": "રૂપાંતર કરવું" },
+                "v2": { "word": "Transmuted", "pronunciation": "ટ્રાન્સમ્યુટેડ", "meaning": "રૂપાંતર કર્યું" },
+                "v3": { "word": "Transmuted", "pronunciation": "ટ્રાન્સમ્યુટેડ", "meaning": "રૂપાંતરિત" },
+                "v4": { "word": "Transmuting", "pronunciation": "ટ્રાન્સમ્યુટિંગ", "meaning": "રૂપાંતર કરી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Transform", "pronunciation": "ટ્રાન્સફોર્મ", "meaning": "બદલી નાખવું" },
+                { "word": "Convert", "pronunciation": "કન્વર્ટ", "meaning": "પરિવર્તન કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Preserve", "pronunciation": "પ્રિઝર્વ", "meaning": "જાળવી રાખવું" },
+                { "word": "Maintain", "pronunciation": "મેઇન્ટેન", "meaning": "ટકાઓ" }
+            ],
+            "confusingWords": [
+                { "word": "Transmit", "pronunciation": "ટ્રાન્સમિટ", "meaning": "પ્રસારિત કરવું" },
+                { "word": "Commute", "pronunciation": "કમ્યુટ", "meaning": "દરરોજની મુસાફરી" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Alchemists tried to transmute lead into gold.",
+                    "gujaratiTranslation": "રસાયણશાસ્ત્રીઓ સીસાને સોનામાં રૂપાંતરિત કરવાનો પ્રયાસ કરતા હતા.",
+                    "hindiTranslation": "कीमियागर सीसे को सोने में बदलने की कोशिश करते थे।"
+                }
+            ]
+        },
+        {
+            "word": "Interlock",
+            "gujaratiPronunciation": "ઇન્ટરલોક",
+            "hindiPronunciation": "इंटरलॉक",
+            "gujaratiMeaning": "એકબીજા સાથે જોડાવું",
+            "hindiMeaning": "एक दूसरे से जुड़ना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Interlock", "pronunciation": "ઇન્ટરલોક", "meaning": "જોડાવું" },
+                "v2": { "word": "Interlocked", "pronunciation": "ઇન્ટરલોક્ડ", "meaning": "જોડાયેલું" },
+                "v3": { "word": "Interlocked", "pronunciation": "ઇન્ટરલોક્ડ", "meaning": "જોડાયેલું" },
+                "v4": { "word": "Interlocking", "pronunciation": "ઇન્ટરલોકિંગ", "meaning": "જોડાઈ રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Interlink", "pronunciation": "ઇન્ટરલિંક", "meaning": "આંતરિક રીતે જોડવું" },
+                { "word": "Engage", "pronunciation": "એંગેજ", "meaning": "જોડાવું" }
+            ],
+            "antonyms": [
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "અલગ કરવું" },
+                { "word": "Disconnect", "pronunciation": "ડિસ્કનેક્ટ", "meaning": "જોડાણ તોડવું" }
+            ],
+            "confusingWords": [
+                { "word": "Outlook", "pronunciation": "આઉટલુક", "meaning": "દૃષ્ટિકોણ" },
+                { "word": "Enter luck", "pronunciation": "એન્ટર લક", "meaning": "ભાગ્યમાં પ્રવેશ કરો" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The puzzle pieces interlock to form a complete picture.",
+                    "gujaratiTranslation": "પઝલના ટુકડાઓ એકબીજા સાથે જોડાઈને સંપૂર્ણ ચિત્ર બનાવે છે.",
+                    "hindiTranslation": "पहेली के टुकड़े एक दूसरे से जुड़कर एक पूरी तस्वीर बनाते हैं।"
+                }
+            ]
+        }
+    ]
+}

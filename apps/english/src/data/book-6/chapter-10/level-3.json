@@ -1,0 +1,426 @@
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Galvanize",
+            "gujaratiPronunciation": "ગેલ્વનાઇઝ",
+            "hindiPronunciation": "गैल्वेनाइज़",
+            "gujaratiMeaning": "પ્રેરણા આપવી, ઉત્સાહિત કરવું",
+            "hindiMeaning": "प्रेरित करना, उत्साहित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Galvanize",
+                    "pronunciation": "ગેલ્વનાઇઝ",
+                    "meaning": "પ્રેરણા આપવી"
+                },
+                "V2 (Past)": {
+                    "word": "Galvanized",
+                    "pronunciation": "ગેલ્વનાઇઝ્ડ",
+                    "meaning": "પ્રેરણા આપી"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Galvanized",
+                    "pronunciation": "ગેલ્વનાઇઝ્ડ",
+                    "meaning": "પ્રેરણા આપેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Galvanizing",
+                    "pronunciation": "ગેલ્વનાઇઝિંગ",
+                    "meaning": "પ્રેરણા આપી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Inspire",
+                    "pronunciation": "ઇન્સ્પાયર",
+                    "meaning": "પ્રેરણા આપવી",
+                    "gujaratiMeaning": "પ્રેરણા આપવી",
+                    "hindiMeaning": "प्रेरित करना"
+                },
+                {
+                    "word": "Motivate",
+                    "pronunciation": "મોટિવેટ",
+                    "meaning": "પ્રોત્સાહિત કરવું",
+                    "gujaratiMeaning": "પ્રોત્સાહિત કરવું",
+                    "hindiMeaning": "प्रोत्साहित करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Discourage",
+                    "pronunciation": "ડિસ્કરેજ",
+                    "meaning": "નિరుત્સાહિત કરવું",
+                    "gujaratiMeaning": "નિరుત્સાહિત કરવું",
+                    "hindiMeaning": "हतोत्साहित करना"
+                },
+                {
+                    "word": "Deter",
+                    "pronunciation": "ડિટર",
+                    "meaning": "રોકવું",
+                    "gujaratiMeaning": "રોકવું",
+                    "hindiMeaning": "रोकना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Vandalize",
+                    "pronunciation": "વેન્ડલાઇઝ",
+                    "gujaratiMeaning": "જાહેર મિલકતને નુકસાન પહોંચાડવું",
+                    "hindiMeaning": "सार्वजनिक संपत्ति को नुकसान पहुँचाना"
+                },
+                {
+                    "word": "Galvanic",
+                    "pronunciation": "ગેલ્વેનિક",
+                    "gujaratiMeaning": "વીજળી સંબંધિત",
+                    "hindiMeaning": "बिजली से संबंधित"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The leader's speech galvanized the crowd into action.",
+                    "gujaratiPronunciation": "ધ લીડર્સ સ્પીચ ગેલ્વનાઇઝ્ડ ધ ક્રાઉડ ઇનટુ એક્શન.",
+                    "gujaratiTranslation": "નેતાના ભાષણે ભીડને કાર્યવાહી કરવા માટે પ્રેરણા આપી.",
+                    "hindiTranslation": "नेता के भाषण ने भीड़ को कार्रवाई करने के लिए प्रेरित किया।"
+                }
+]
+        },
+        {
+            "word": "Hegemonize",
+            "gujaratiPronunciation": "હેજેમનાઇઝ",
+            "hindiPronunciation": "हेजेमोनाइज़",
+            "gujaratiMeaning": "વર્ચસ્વ સ્થાપિત કરવું",
+            "hindiMeaning": "वर्चस्व स्थापित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Hegemonize",
+                    "pronunciation": "હેજેમનાઇઝ",
+                    "meaning": "વર્ચસ્વ સ્થાપિત કરવું"
+                },
+                "V2 (Past)": {
+                    "word": "Hegemonized",
+                    "pronunciation": "હેજેમનાઇઝ્ડ",
+                    "meaning": "વર્ચસ્વ સ્થાપિત કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Hegemonized",
+                    "pronunciation": "હેજેમનાઇઝ્ડ",
+                    "meaning": "વર્ચસ્વ સ્થાપિત કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Hegemonizing",
+                    "pronunciation": "હેજેમનાઇઝિંગ",
+                    "meaning": "વર્ચસ્વ સ્થાપિત કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Dominate",
+                    "pronunciation": "ડોમિનેટ",
+                    "meaning": "પ્રભુત્વ જમાવવું",
+                    "gujaratiMeaning": "પ્રભુત્વ જમાવવું",
+                    "hindiMeaning": "हावी होना"
+                },
+                {
+                    "word": "Control",
+                    "pronunciation": "કંટ્રોલ",
+                    "meaning": "નિયંત્રણ કરવું",
+                    "gujaratiMeaning": "નિયંત્રણ કરવું",
+                    "hindiMeaning": "नियंत्रण करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Liberate",
+                    "pronunciation": "લિબરેટ",
+                    "meaning": "મુક્ત કરવું",
+                    "gujaratiMeaning": "મુક્ત કરવું",
+                    "hindiMeaning": "मुक्त करना"
+                },
+                {
+                    "word": "Follow",
+                    "pronunciation": "ફોલો",
+                    "meaning": "અનુસરણ કરવું",
+                    "gujaratiMeaning": "અનુસરણ કરવું",
+                    "hindiMeaning": "अनुसरण करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Harmonize",
+                    "pronunciation": "હાર્મનાઇઝ",
+                    "gujaratiMeaning": "સુરમેળ સાધવો",
+                    "hindiMeaning": "तालमेल बिठाना"
+                },
+                {
+                    "word": "Homogenize",
+                    "pronunciation": "હોમોજનાઇઝ",
+                    "gujaratiMeaning": "એકરૂપ બનાવવું",
+                    "hindiMeaning": "समरूप बनाना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The powerful nation attempted to hegemonize the smaller countries.",
+                    "gujaratiPronunciation": "ધ પાવરફુલ નેશન અટેમ્પ્ટેડ ટુ હેજેમનાઇઝ ધ સ્મોલર કન્ટ્રીઝ.",
+                    "gujaratiTranslation": "શક્તિશાળી દેશે નાના દેશો પર વર્ચસ્વ સ્થાપિત કરવાનો પ્રયાસ કર્યો.",
+                    "hindiTranslation": "शक्तिशाली राष्ट्र ने छोटे देशों पर अपना वर्चस्व स्थापित करने का प्रयास किया।"
+                }
+]
+        },
+        {
+            "word": "Nullify",
+            "gujaratiPronunciation": "નલિફાય",
+            "hindiPronunciation": "नलिफ़ाइ",
+            "gujaratiMeaning": "રદ કરવું, રદબાતલ કરવું",
+            "hindiMeaning": "रद्द करना, अमान्य करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Nullify",
+                    "pronunciation": "નલિફાય",
+                    "meaning": "રદ કરવું"
+                },
+                "V2 (Past)": {
+                    "word": "Nullified",
+                    "pronunciation": "નલિફાઇડ",
+                    "meaning": "રદ કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Nullified",
+                    "pronunciation": "નલિફાઇડ",
+                    "meaning": "રદ કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Nullifying",
+                    "pronunciation": "નલિફાઇંગ",
+                    "meaning": "રદ કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Cancel",
+                    "pronunciation": "કેન્સલ",
+                    "meaning": "રદ કરવું",
+                    "gujaratiMeaning": "રદ કરવું",
+                    "hindiMeaning": "रद्द करना"
+                },
+                {
+                    "word": "Invalidate",
+                    "pronunciation": "ઇનવેલિડેટ",
+                    "meaning": "અમાન્ય ઠેરવવું",
+                    "gujaratiMeaning": "અમાન્ય ઠેરવવું",
+                    "hindiMeaning": "अमान्य करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Validate",
+                    "pronunciation": "વેલિડેટ",
+                    "meaning": "માન્ય કરવું",
+                    "gujaratiMeaning": "માન્ય કરવું",
+                    "hindiMeaning": "मान्य करना"
+                },
+                {
+                    "word": "Confirm",
+                    "pronunciation": "કન્ફર્મ",
+                    "meaning": "પુષ્ટિ કરવી",
+                    "gujaratiMeaning": "પુષ્ટિ કરવી",
+                    "hindiMeaning": "पुष्टि करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Magnify",
+                    "pronunciation": "મેગ્નિફાય",
+                    "gujaratiMeaning": "મોટું કરવું",
+                    "hindiMeaning": "बड़ा करना"
+                },
+                {
+                    "word": "Beautify",
+                    "pronunciation": "બ્યુટિફાય",
+                    "gujaratiMeaning": "સુંદર બનાવવું",
+                    "hindiMeaning": "सुंदर बनाना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The new evidence could nullify the previous verdict.",
+                    "gujaratiPronunciation": "ધ ન્યૂ એવિડન્સ કુડ નલિફાય ધ પ્રીવિયસ વર્ડिक्ट.",
+                    "gujaratiTranslation": "નવા પુરાવા અગાઉના ચુકાદાને રદ કરી શકે છે.",
+                    "hindiTranslation": "नया सबूत पिछले फैसले को रद्द कर सकता है।"
+                }
+]
+        },
+        {
+            "word": "Censor",
+            "gujaratiPronunciation": "સેન્સર",
+            "hindiPronunciation": "सेंसर",
+            "gujaratiMeaning": "નિયંત્રણ કરવું, પ્રતિબંધ મૂકવો",
+            "hindiMeaning": "नियंत्रण करना, प्रतिबंध लगाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Censor",
+                    "pronunciation": "સેન્સર",
+                    "meaning": "નિયંત્રણ કરવું"
+                },
+                "V2 (Past)": {
+                    "word": "Censored",
+                    "pronunciation": "સેન્સર્ડ",
+                    "meaning": "નિયંત્રણ કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Censored",
+                    "pronunciation": "સેન્સર્ડ",
+                    "meaning": "નિયંત્રણ કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Censoring",
+                    "pronunciation": "સેન્સરિંગ",
+                    "meaning": "નિયંત્રણ કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Suppress",
+                    "pronunciation": "સપ્રેસ",
+                    "meaning": "દબાવી દેવું",
+                    "gujaratiMeaning": "દબાવી દેવું",
+                    "hindiMeaning": "दबाना"
+                },
+                {
+                    "word": "Redact",
+                    "pronunciation": "રિડેક્ટ",
+                    "meaning": "સંપાદિત કરવું",
+                    "gujaratiMeaning": "સંપાદિત કરવું",
+                    "hindiMeaning": "संपादित करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Permit",
+                    "pronunciation": "પરમિટ",
+                    "meaning": "મંજૂરી આપવી",
+                    "gujaratiMeaning": "મંજૂરી આપવી",
+                    "hindiMeaning": "अनुमति देना"
+                },
+                {
+                    "word": "Allow",
+                    "pronunciation": "અલાઉ",
+                    "meaning": "પરવાનગી આપવી",
+                    "gujaratiMeaning": "પરવાનગી આપવી",
+                    "hindiMeaning": "अनुमति देना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Sensor",
+                    "pronunciation": "સેન્સર",
+                    "gujaratiMeaning": "સંવેદક યંત્ર",
+                    "hindiMeaning": "संवेदक यंत्र"
+                },
+                {
+                    "word": "Censure",
+                    "pronunciation": "સેન્શર",
+                    "gujaratiMeaning": "નિંદા કરવી",
+                    "hindiMeaning": "निंदा करना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The government decided to censor the controversial film.",
+                    "gujaratiPronunciation": "ધ ગવર્મેન્ટ ડિસાઇડેડ ટુ સેન્સર ધ કોન્ટ્રોવર્શિયલ ફિલ્મ.",
+                    "gujaratiTranslation": "સરકારે વિવાદાસ્પદ ફિલ્મને સેન્સર કરવાનો નિર્ણય કર્યો.",
+                    "hindiTranslation": "सरकार ने विवादास्पद फिल्म को सेंसर करने का फैसला किया।"
+                }
+]
+        },
+        {
+            "word": "Manipulate",
+            "gujaratiPronunciation": "મનિપ્યુલેટ",
+            "hindiPronunciation": "मैनिपुलेट",
+            "gujaratiMeaning": "ચાલાકી કરવી, કાબૂમાં રાખવું",
+            "hindiMeaning": "चालाकी करना, नियंत्रण में रखना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Manipulate",
+                    "pronunciation": "મનિપ્યુલેટ",
+                    "meaning": "ચાલાકી કરવી"
+                },
+                "V2 (Past)": {
+                    "word": "Manipulated",
+                    "pronunciation": "મનિપ્યુલેટેડ",
+                    "meaning": "ચાલાકી કરી"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Manipulated",
+                    "pronunciation": "મનિપ્યુલેટેડ",
+                    "meaning": "ચાલાકી કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Manipulating",
+                    "pronunciation": "મનિપ્યુલેટિંગ",
+                    "meaning": "ચાલાકી કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Control",
+                    "pronunciation": "કંટ્રોલ",
+                    "meaning": "નિયંત્રણ કરવું",
+                    "gujaratiMeaning": "નિયંત્રણ કરવું",
+                    "hindiMeaning": "नियंत्रण करना"
+                },
+                {
+                    "word": "Influence",
+                    "pronunciation": "ઇન્ફ્લુઅન્સ",
+                    "meaning": "પ્રભાવ પાડવો",
+                    "gujaratiMeaning": "પ્રભાવ પાડવો",
+                    "hindiMeaning": "प्रभावित करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Guide",
+                    "pronunciation": "ગાઇડ",
+                    "meaning": "માર્ગદર્શન આપવું",
+                    "gujaratiMeaning": "માર્ગદર્શન આપવું",
+                    "hindiMeaning": "मार्गदर्शन करना"
+                },
+                {
+                    "word": "Leave alone",
+                    "pronunciation": "લીવ અલોન",
+                    "meaning": "એકલું છોડી દેવું",
+                    "gujaratiMeaning": "એકલું છોડી દેવું",
+                    "hindiMeaning": "अकेला छोड़ देना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Manufacture",
+                    "pronunciation": "મેન્યુફેક્ચર",
+                    "gujaratiMeaning": "ઉત્પાદન કરવું",
+                    "hindiMeaning": "निर्माण करना"
+                },
+                {
+                    "word": "Manifest",
+                    "pronunciation": "મેનિફેસ્ટ",
+                    "gujaratiMeaning": "જાહેર કરવું",
+                    "hindiMeaning": "प्रकट کرنا"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He was accused of trying to manipulate the results.",
+                    "gujaratiPronunciation": "હી વોઝ અક્યુઝ્ડ ઓફ ટ્રાઇંગ ટુ મનિપ્યુલેટ ધ રિઝલ્ટ્સ.",
+                    "gujaratiTranslation": "તેના પર પરિણામોમાં ચાલાકી કરવાનો આરોપ હતો.",
+                    "hindiTranslation": "उस पर परिणामों में हेरफेर करने का आरोप लगाया गया था।"
+                }
+            ]
+        }
+    ]
+}

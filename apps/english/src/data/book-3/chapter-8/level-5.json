@@ -1,0 +1,170 @@
+{
+  "id": "level-5",
+  "title": "Level 5: Decisive Actions",
+  "words": [
+    {
+      "word": "Annihilate",
+      "gujaratiPronunciation": "અનાઇહિલેટ",
+      "hindiPronunciation": "एनिहिलेट",
+      "gujaratiMeaning": "સંપૂર્ણ નાશ કરવો",
+      "hindiMeaning": "पूरी तरह से नष्ट कर देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Annihilate", "gujaratiPronunciation": "અનાઇહિલેટ", "hindiPronunciation": "एनिहिलेट", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नाश करना" },
+        "V2 (Past)": { "word": "Annihilated", "gujaratiPronunciation": "અનાઇહિલેટેડ", "hindiPronunciation": "एनिहिलेटेड", "gujaratiMeaning": "નાશ કર્યો", "hindiMeaning": "नाश किया" },
+        "V3 (Past Participle)": { "word": "Annihilated", "gujaratiPronunciation": "અનાઇહિલેટેડ", "hindiPronunciation": "एनिहिलेटेड", "gujaratiMeaning": "નાશ કરેલ", "hindiMeaning": "नष्ट किया हुआ" },
+        "V4 (Present Participle)": { "word": "Annihilating", "gujaratiPronunciation": "અનાઇહિલેટિંગ", "hindiPronunciation": "एनिहिलेटिंग", "gujaratiMeaning": "નાશ કરી રહ્યું છે", "hindiMeaning": "नाश कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Obliterate", "gujaratiPronunciation": "ઓબ્લિટરેટ", "hindiPronunciation": "ऑब्लिटरेट", "gujaratiMeaning": "નામોનિશાન મિટાવી દેવું", "hindiMeaning": "मिटा देना" }
+      ],
+      "antonyms": [
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" },
+        { "word": "Build", "gujaratiPronunciation": "બિલ્ડ", "hindiPronunciation": "बिल्ड", "gujaratiMeaning": "બાંધવું", "hindiMeaning": "बनाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The goal was to annihilate the enemy forces.",
+          "gujaratiTranslation": "ધ્યેય દુશ્મન દળોનો સંપૂર્ણ નાશ કરવાનો હતો.",
+          "hindiTranslation": "लक्ष्य दुश्मन ताकतों को पूरी तरह से नष्ट करना था।",
+          "gujaratiPronunciation": "ધ ગોલ વોઝ ટુ અનાઇહિલેટ ધ એનિમી ફોર્સીસ.",
+          "hindiPronunciation": "द गोल वॉज़ टू एनिहिलेट द एनिमी फोर्सेस।"
+        }
+      ]
+    },
+    {
+      "word": "Strategize",
+      "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝ",
+      "hindiPronunciation": "स्ट्रेटेगाइज़",
+      "gujaratiMeaning": "વ્યૂહરચના બનાવવી",
+      "hindiMeaning": "रणनीति बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Strategize", "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝ", "hindiPronunciation": "स्ट्रेटेगाइज़", "gujaratiMeaning": "વ્યૂહરચના બનાવવી", "hindiMeaning": "रणनीति बनाना" },
+        "V2 (Past)": { "word": "Strategized", "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝ્ડ", "hindiPronunciation": "स्ट्रेटेगाइज़्ड", "gujaratiMeaning": "વ્યૂહરચના બનાવી", "hindiMeaning": "रणनीति बनाई" },
+        "V3 (Past Participle)": { "word": "Strategized", "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝ્ડ", "hindiPronunciation": "स्ट्रेटेगाइज़्ड", "gujaratiMeaning": "વ્યૂહરચના બનાવેલ", "hindiMeaning": "रणनीतिबद्ध" },
+        "V4 (Present Participle)": { "word": "Strategizing", "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝિંગ", "hindiPronunciation": "स्ट्रेटेगाइजिंग", "gujaratiMeaning": "વ્યૂહરચના બનાવી રહ્યું છે", "hindiMeaning": "रणनीति बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "hindiPronunciation": "प्लान", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" },
+        { "word": "Scheme", "gujaratiPronunciation": "સ્કીમ", "hindiPronunciation": "स्कीम", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Improvise", "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ", "hindiPronunciation": "इम्प्रोवाइज़", "gujaratiMeaning": "તાત્કાલિક ઉપજાવી કાઢવું", "hindiMeaning": "तत्काल सुधार करना" },
+        { "word": "React", "gujaratiPronunciation": "રિએક્ટ", "hindiPronunciation": "रिएक्ट", "gujaratiMeaning": "પ્રતિક્રિયા આપવી", "hindiMeaning": "प्रतिक्रिया करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "They need to strategize their next move.",
+          "gujaratiTranslation": "તેમને તેમની આગામી ચાલ માટે વ્યૂહરચના બનાવવાની જરૂર છે.",
+          "hindiTranslation": "उन्हें अपनी अगली चाल के लिए रणनीति बनाने की जरूरत है।",
+          "gujaratiPronunciation": "ધે નીડ ટુ સ્ટ્રેટેજાઇઝ ધેર નેક્સ્ટ મૂવ.",
+          "hindiPronunciation": "दे नीड टू स्ट्रेटेगाइज़ देयर नेक्स्ट मूव।"
+        }
+      ]
+    },
+    {
+      "word": "Retaliate",
+      "gujaratiPronunciation": "રિટેલિએટ",
+      "hindiPronunciation": "रिटैलिएट",
+      "gujaratiMeaning": "બદલો લેવો, વળતો પ્રહાર કરવો",
+      "hindiMeaning": "बदला लेना, जवाबी कार्रवाई करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Retaliate", "gujaratiPronunciation": "રિટેલિએટ", "hindiPronunciation": "रिटैलिएट", "gujaratiMeaning": "બદલો લેવો", "hindiMeaning": "बदला लेना" },
+        "V2 (Past)": { "word": "Retaliated", "gujaratiPronunciation": "રિટેલિએટેડ", "hindiPronunciation": "रिटैलिएटेड", "gujaratiMeaning": "બદલો લીધો", "hindiMeaning": "बदला लिया" },
+        "V3 (Past Participle)": { "word": "Retaliated", "gujaratiPronunciation": "રિટેલિએટેડ", "hindiPronunciation": "रिटैलिएटेड", "gujaratiMeaning": "બદલો લીધેલ", "hindiMeaning": "प्रतिशोधित" },
+        "V4 (Present Participle)": { "word": "Retaliating", "gujaratiPronunciation": "રિટેલિએટિંગ", "hindiPronunciation": "रिटैलिएटिंग", "gujaratiMeaning": "બદલો લઈ રહ્યું છે", "hindiMeaning": "बदला ले रहा है" }
+      },
+      "synonyms": [
+        { "word": "Avenge", "gujaratiPronunciation": "અવેન્જ", "hindiPronunciation": "अवेंज", "gujaratiMeaning": "બદલો લેવો", "hindiMeaning": "बदला लेना" },
+        { "word": "Counterattack", "gujaratiPronunciation": "કાઉન્ટરએટેક", "hindiPronunciation": "काउंटरअटैक", "gujaratiMeaning": "વળતો હુમલો", "hindiMeaning": "जवाबी हमला" }
+      ],
+      "antonyms": [
+        { "word": "Forgive", "gujaratiPronunciation": "ફોરગિવ", "hindiPronunciation": "फॉरगिव", "gujaratiMeaning": "માફ કરવું", "hindiMeaning": "माफ़ करना" },
+        { "word": "Pardon", "gujaratiPronunciation": "પાર્ડન", "hindiPronunciation": "पार्डन", "gujaratiMeaning": "માફ કરવું", "hindiMeaning": "क्षमा करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "If you insult him, he will retaliate.",
+          "gujaratiTranslation": "જો તમે તેનું અપમાન કરશો, તો તે બદલો લેશે.",
+          "hindiTranslation": "यदि आप उसका अपमान करते हैं, तो वह बदला लेगा।",
+          "gujaratiPronunciation": "ઇફ યુ ઇન્સલ્ટ હિમ, હી વિલ રિટેલિએટ.",
+          "hindiPronunciation": "इफ यू इंसल्ट हिम, ही विल रिटैलिएट।"
+        }
+      ]
+    },
+    {
+      "word": "Vanquish",
+      "gujaratiPronunciation": "વેન્ક્વિશ",
+      "hindiPronunciation": "वैंक्विश",
+      "gujaratiMeaning": "હરાવવું, પરાજિત કરવું",
+      "hindiMeaning": "हराना, पराजित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Vanquish", "gujaratiPronunciation": "વેન્ક્વિશ", "hindiPronunciation": "वैंक्विश", "gujaratiMeaning": "હરાવવું", "hindiMeaning": "हराना" },
+        "V2 (Past)": { "word": "Vanquished", "gujaratiPronunciation": "વેન્ક્વિશ્ડ", "hindiPronunciation": "वैंक्विश्ड", "gujaratiMeaning": "હરાવ્યું", "hindiMeaning": "हराया" },
+        "V3 (Past Participle)": { "word": "Vanquished", "gujaratiPronunciation": "વેન્ક્વિશ્ડ", "hindiPronunciation": "वैंक्विश्ड", "gujaratiMeaning": "હરાવેલું", "hindiMeaning": "पराजित" },
+        "V4 (Present Participle)": { "word": "Vanquishing", "gujaratiPronunciation": "વેન્ક્વિશિંગ", "hindiPronunciation": "वैंक्विशिंग", "gujaratiMeaning": "હરાવી રહ્યું છે", "hindiMeaning": "हरा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Defeat", "gujaratiPronunciation": "ડિફીટ", "hindiPronunciation": "डिफीट", "gujaratiMeaning": "હાર", "hindiMeaning": "हार" },
+        { "word": "Conquer", "gujaratiPronunciation": "કોન્કર", "hindiPronunciation": "कॉन्कर", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" }
+      ],
+      "antonyms": [
+        { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज़", "gujaratiMeaning": "હારવું", "hindiMeaning": "हारना" },
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Banish", "gujaratiPronunciation": "બેનિશ", "hindiPronunciation": "बैनिश", "gujaratiMeaning": "દેશનિકાલ કરવો", "hindiMeaning": "देश से निकालना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The hero's quest was to vanquish the dragon.",
+          "gujaratiTranslation": "હીરોની શોધ ડ્રેગનને હરાવવાની હતી.",
+          "hindiTranslation": "नायक का मिशन ड्रैगन को हराना था।",
+          "gujaratiPronunciation": "ધ હીરોઝ ક્વેસ્ટ વોઝ ટુ વેન્ક્વિશ ધ ડ્રેગન.",
+          "hindiPronunciation": "द हीरोज़ क्वेस्ट वॉज़ टू वैंक्विश द ड्रैगन।"
+        }
+      ]
+    },
+    {
+      "word": "Subdue",
+      "gujaratiPronunciation": "સબડ્યુ",
+      "hindiPronunciation": "सबड्यू",
+      "gujaratiMeaning": "વશમાં કરવું, કાબૂમાં લેવું",
+      "hindiMeaning": "वश में करना, काबू में करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Subdue", "gujaratiPronunciation": "સબડ્યુ", "hindiPronunciation": "सबड्यू", "gujaratiMeaning": "વશમાં કરવું", "hindiMeaning": "वश में करना" },
+        "V2 (Past)": { "word": "Subdued", "gujaratiPronunciation": "સબડ્યુડ", "hindiPronunciation": "सबड्यूड", "gujaratiMeaning": "વશમાં કર્યું", "hindiMeaning": "वश में किया" },
+        "V3 (Past Participle)": { "word": "Subdued", "gujaratiPronunciation": "સબડ્યુડ", "hindiPronunciation": "सबड्यूड", "gujaratiMeaning": "વશમાં કરેલું", "hindiMeaning": "दबा हुआ" },
+        "V4 (Present Participle)": { "word": "Subduing", "gujaratiPronunciation": "સબડ્યુઇંગ", "hindiPronunciation": "सबड्यूइंग", "gujaratiMeaning": "વશમાં કરી રહ્યું છે", "hindiMeaning": "वश में कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Overcome", "gujaratiPronunciation": "ઓવરકમ", "hindiPronunciation": "ओवरकम", "gujaratiMeaning": "કાબૂ મેળવવો", "hindiMeaning": "काबू पाना" },
+        { "word": "Suppress", "gujaratiPronunciation": "સપ્રેસ", "hindiPronunciation": "सप्रेस", "gujaratiMeaning": "દબાવવું", "hindiMeaning": "दबाना" }
+      ],
+      "antonyms": [
+        { "word": "Incite", "gujaratiPronunciation": "ઇન્સાઇટ", "hindiPronunciation": "इन्साइट", "gujaratiMeaning": "ઉશ્કેરવું", "hindiMeaning": "उकसाना" },
+        { "word": "Release", "gujaratiPronunciation": "રિલીઝ", "hindiPronunciation": "रिलीज़", "gujaratiMeaning": "છોડવું", "hindiMeaning": "छोड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Subside", "gujaratiPronunciation": "સબસાઇડ", "hindiPronunciation": "सबसाइड", "gujaratiMeaning": "ઓછું થવું", "hindiMeaning": "कम होना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The police were able to subdue the angry crowd.",
+          "gujaratiTranslation": "પોલીસ ગુસ્સે થયેલા ટોળાને કાબૂમાં લેવામાં સક્ષમ હતી.",
+          "hindiTranslation": "पुलिस उग्र भीड़ को काबू में करने में सफल रही।",
+          "gujaratiPronunciation": "ધ પોલીસ વર એબલ ટુ સબડ્યુ ધ એન્ગ્રી ક્રાઉડ.",
+          "hindiPronunciation": "द पुलिस वर एबल टू सबड्यू द एंग्री क्राउड।"
+        }
+      ]
+    }
+  ]
+}

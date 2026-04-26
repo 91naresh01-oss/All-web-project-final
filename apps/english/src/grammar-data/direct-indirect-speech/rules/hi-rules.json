@@ -1,0 +1,316 @@
+{
+    "id": "direct-indirect-speech-hi",
+    "title": "Direct-Indirect Speech (प्रत्यक्ष-अप्रत्यक्ष कथन)",
+    "content": [
+        {
+            "type": "section",
+            "title": "📚 Direct vs Indirect Speech क्या है?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "किसी व्यक्ति द्वारा कही गई बात को प्रस्तुत करने के <b>दो तरीके</b> हैं:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Direct vs Indirect Speech",
+                        "headers": ["Type", "परिभाषा", "Example"],
+                        "rows": [
+                            ["<b>Direct Speech</b><br>(प्रत्यक्ष कथन)", "वक्ता के शब्द <b>ज्यों के त्यों</b> \"...\" में लिखे जाते हैं", "Ram said, <b>\"I am busy now.\"</b><br>(राम ने कहा, \"मैं अभी व्यस्त हूँ।\")"],
+                            ["<b>Indirect Speech</b><br>(अप्रत्यक्ष कथन)", "वक्ता के शब्दों का <b>सारांश</b> प्रस्तुत होता है, \" \" हटते हैं", "Ram said that <b>he was busy then.</b><br>(राम ने कहा कि वह तब व्यस्त था।)"]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>याद रखें:</b><br>• <b>Reporting Verb:</b> said, told, asked (जिस क्रिया से कहना दर्शाया जाए)<br>• <b>Reported Speech:</b> \" \" में जो लिखा हो (Direct में)<br>• Indirect में <b>that, if, whether, to</b> जैसे Connectors होते हैं"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "⚠️ महत्वपूर्ण नियम",
+            "content": [
+                {
+                    "type": "note",
+                    "content": "<b>CRITICAL RULE:</b><br>यदि Reporting Verb <b>Present/Future Tense</b> में हो → <b>Reported Speech का काल नहीं बदलता</b><br>यदि Reporting Verb <b>Past Tense</b> में हो → <b>Reported Speech का काल बदलता है</b>"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 When Tense Changes",
+                        "headers": ["Reporting Verb Tense", "Reported Speech", "Example"],
+                        "rows": [
+                            ["<b>Present/Future</b>", "काल <b>नहीं बदलता</b>", "He says, \"I am happy.\" → He says that he <b>is</b> happy."],
+                            ["<b>Past</b>", "काल <b>बदलता है</b>", "He said, \"I am happy.\" → He said that he <b>was</b> happy."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "🔄 काल में होने वाले परिवर्तन (Tense Changes)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जब <b>Reporting Verb Past Tense</b> में हो, तब Reported Speech का Tense <b>एक Step पीछे</b> जाता है:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Tense Conversion Table",
+                        "headers": ["Direct Speech", "Indirect Speech", "Example"],
+                        "rows": [
+                            ["<b>Simple Present</b><br>V1 / V1(s,es)", "<b>Simple Past</b><br>V2", "\"I <b>write</b> a letter.\" → he <b>wrote</b> a letter"],
+                            ["<b>Present Continuous</b><br>is/am/are + V-ing", "<b>Past Continuous</b><br>was/were + V-ing", "\"I <b>am writing</b>.\" → he <b>was writing</b>"],
+                            ["<b>Present Perfect</b><br>has/have + V3", "<b>Past Perfect</b><br>had + V3", "\"I <b>have written</b>.\" → he <b>had written</b>"],
+                            ["<b>Present Perfect Continuous</b><br>has/have been + V-ing", "<b>Past Perfect Continuous</b><br>had been + V-ing", "\"I <b>have been writing</b>.\" → he <b>had been writing</b>"],
+                            ["<b>Simple Past</b><br>V2", "<b>Past Perfect</b><br>had + V3", "\"I <b>wrote</b> a letter.\" → he <b>had written</b> a letter"],
+                            ["<b>Past Continuous</b><br>was/were + V-ing", "<b>Past Perfect Continuous</b><br>had been + V-ing", "\"I <b>was writing</b>.\" → he <b>had been writing</b>"],
+                            ["<b>Simple Future</b><br>will + V1", "<b>would + V1</b>", "\"I <b>will write</b>.\" → he <b>would write</b>"],
+                            ["<b>Future Continuous</b><br>will be + V-ing", "<b>would be + V-ing</b>", "\"I <b>will be writing</b>.\" → he <b>would be writing</b>"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🎯 Modal Verbs Changes",
+                        "headers": ["Direct", "Indirect", "Direct", "Indirect"],
+                        "rows": [
+                            ["<b>can</b>", "<b>could</b>", "<b>may</b>", "<b>might</b>"],
+                            ["<b>shall</b>", "<b>should</b>", "<b>will</b>", "<b>would</b>"],
+                            ["<b>must</b>", "<b>had to / must</b>", "-", "-"]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Note:</b> would, could, should, might, ought to, used to, had better → <b>कोई परिवर्तन नहीं</b>"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "👤 सर्वनाम में परिवर्तन - SON Rule",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Pronoun बदलने के लिए <b>SON Rule</b> याद रखें:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 SON Rule",
+                        "headers": ["Person", "Rule", "Meaning"],
+                        "rows": [
+                            ["<b>S</b> = 1st Person", "I, We, Me, Us → <b>Subject के अनुसार</b>", "Reporting Verb के Subject के अनुसार बदलता है"],
+                            ["<b>O</b> = 2nd Person", "You → <b>Object के अनुसार</b>", "Reporting Verb के Object के अनुसार बदलता है"],
+                            ["<b>N</b> = 3rd Person", "He, She, It, They → <b>No Change</b>", "कोई परिवर्तन नहीं"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Pronoun Conversion Examples",
+                        "headers": ["Direct Speech", "Indirect Speech", "Rule Applied"],
+                        "rows": [
+                            ["He said, \"<b>I</b> am happy.\"", "He said that <b>he</b> was happy.", "I → he (S Rule)"],
+                            ["She said to me, \"<b>I</b> will help <b>you</b>.\"", "She told me that <b>she</b> would help <b>me</b>.", "I → she (S), You → me (O)"],
+                            ["They said, \"<b>We</b> are tired.\"", "They said that <b>they</b> were tired.", "We → they (S Rule)"],
+                            ["He said to her, \"<b>You</b> are smart.\"", "He told her that <b>she</b> was smart.", "You → she (O Rule)"],
+                            ["She said, \"<b>He</b> is working.\"", "She said that <b>he</b> was working.", "He → he (N Rule - No Change)"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📅 समय/स्थान शब्दों में परिवर्तन",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>निकटता</b> दर्शाने वाले शब्द <b>दूरी</b> दर्शाने वाले शब्दों में बदलते हैं:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Time/Place Words Conversion",
+                        "headers": ["Direct", "Indirect", "Direct", "Indirect"],
+                        "rows": [
+                            ["<b>this</b>", "<b>that</b>", "<b>these</b>", "<b>those</b>"],
+                            ["<b>here</b>", "<b>there</b>", "<b>now</b>", "<b>then</b>"],
+                            ["<b>today</b>", "<b>that day</b>", "<b>tonight</b>", "<b>that night</b>"],
+                            ["<b>tomorrow</b>", "<b>the next day</b>", "<b>yesterday</b>", "<b>the previous day / the day before</b>"],
+                            ["<b>next week</b>", "<b>the following week</b>", "<b>last week</b>", "<b>the previous week</b>"],
+                            ["<b>ago</b>", "<b>before</b>", "<b>thus</b>", "<b>so</b>"],
+                            ["<b>come</b>", "<b>go</b>", "<b>bring</b>", "<b>take</b>"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📝 वाक्य के प्रकार के अनुसार परिवर्तन",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "वाक्य के प्रकार के अनुसार <b>Reporting Verb</b> और <b>Connector</b> बदलते हैं:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Sentence Type Changes",
+                        "headers": ["Sentence Type", "Reporting Verb", "Connector", "Example"],
+                        "rows": [
+                            ["<b>Assertive</b><br>(कथनात्मक वाक्य)", "said → told<br>said to → told", "<b>that</b>", "He said, \"I am busy.\"<br>→ He <b>told</b> me <b>that</b> he was busy."],
+                            ["<b>Interrogative</b><br>(प्रश्नवाचक वाक्य)", "said to → asked<br>inquired", "<b>if / whether</b> (Yes/No)<br><b>WH-word</b>", "He said, \"Are you ready?\"<br>→ He <b>asked</b> me <b>if</b> I was ready."],
+                            ["<b>Imperative</b><br>(आज्ञासूचक वाक्य)", "ordered, requested,<br>advised, forbade", "<b>to + V1</b><br><b>not to + V1</b>", "He said, \"Open the door.\"<br>→ He <b>ordered</b> me <b>to</b> open the door."],
+                            ["<b>Exclamatory</b><br>(विस्मयादिबोधक वाक्य)", "exclaimed with joy/<br>sorrow/surprise", "<b>that</b>", "He said, \"Alas! I am ruined.\"<br>→ He exclaimed with sorrow <b>that</b> he was ruined."],
+                            ["<b>Optative</b><br>(इच्छासूचक वाक्य)", "wished, prayed,<br>blessed, cursed", "<b>that</b>", "He said, \"May you live long!\"<br>→ He <b>wished</b> <b>that</b> I might live long."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "❓ Interrogative Sentences - Special Rules",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Question Types",
+                        "headers": ["Type", "Direct", "Indirect", "Rule"],
+                        "rows": [
+                            ["<b>Yes/No Question</b>", "\"Are you happy?\"", "asked <b>if/whether</b> I was happy", "if/whether होता है + Full Stop"],
+                            ["<b>WH-Question</b>", "\"Where do you live?\"", "asked <b>where</b> I lived", "WH-word ही Connector बनता है"],
+                            ["<b>Who/What Subject</b>", "\"Who did this?\"", "asked <b>who</b> had done that", "do/does/did हटता है"]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Important:</b> Indirect Speech में प्रश्नवाचक वाक्य <b>Statement Order</b> में लिखा जाता है और अंत में <b>Full Stop (.) </b> आता है, <b>? नहीं</b>।"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "⚠️ Confusion Points (भ्रामक मुद्दे)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔴 Common Confusions",
+                        "headers": ["Confusion", "Clarification", "Example"],
+                        "rows": [
+                            ["<b>said vs told</b>", "said + that (no object)<br>told + person + that (object required)", "He <b>said</b> that...<br>He <b>told me</b> that..."],
+                            ["<b>if vs whether</b>", "दोनों का मतलब 'क्या' (Yes/No questions के लिए)<br>whether अधिक formal है", "asked <b>if</b> I was ready<br>asked <b>whether</b> I was ready"],
+                            ["<b>asked vs asked to</b>", "asked = inquired (question)<br>asked to = requested (request)", "He <b>asked</b> where I lived (question)<br>He <b>asked me to</b> help (request)"],
+                            ["<b>Tense not changing?</b>", "Universal truths, habits, historical facts<br>→ Tense नहीं बदलता", "He said, \"The sun rises in the east.\"<br>→ He said that the sun <b>rises</b> in the east."],
+                            ["<b>must → ?</b>", "must (obligation) → had to<br>must (logical conclusion) → must", "\"I must go.\" → had to go<br>\"It must be true.\" → must be true"],
+                            ["<b>shall in offers</b>", "Shall I...? (offer) → should/would", "\"Shall I help you?\"<br>→ asked if he <b>should</b> help me"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "❌ Common Mistakes (सामान्य गलतियाँ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🚫 Avoid These Mistakes",
+                        "headers": ["❌ गलत", "✅ सही", "समझ"],
+                        "rows": [
+                            ["He told that he was busy.", "He <b>said</b> that he was busy.", "told के बाद object जरूरी है"],
+                            ["He asked that where I lived.", "He asked <b>where</b> I lived.", "that + WH-word नहीं होता"],
+                            ["He asked where did I live.", "He asked where <b>I lived</b>.", "did हटता है + statement order"],
+                            ["He ordered me open the door.", "He ordered me <b>to</b> open the door.", "Imperative में to जरूरी है"],
+                            ["He said, \"I am happy?\"", "He asked if he was happy.", "? Indirect में नहीं आता"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📋 All Topics Summary (संपूर्ण सारांश)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Tense Changes Summary",
+                        "headers": ["Direct → Indirect", "Short Explanation"],
+                        "rows": [
+                            ["Simple Present → Simple Past", "write → wrote"],
+                            ["Present Continuous → Past Continuous", "is writing → was writing"],
+                            ["Present Perfect → Past Perfect", "has written → had written"],
+                            ["Simple Past → Past Perfect", "wrote → had written"],
+                            ["will → would", "can → could, may → might, shall → should"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "👤 SON Rule Summary",
+                        "headers": ["Person", "Rule", "Example"],
+                        "rows": [
+                            ["<b>S</b> = 1st Person", "Subject के अनुसार", "I → he/she/they"],
+                            ["<b>O</b> = 2nd Person", "Object के अनुसार", "You → me/him/her/them"],
+                            ["<b>N</b> = 3rd Person", "No Change", "He → he, She → she"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📝 Sentence Type Summary",
+                        "headers": ["Type", "Reporting Verb", "Connector"],
+                        "rows": [
+                            ["Assertive (कथनात्मक)", "told", "that"],
+                            ["Interrogative (प्रश्नवाचक)", "asked", "if/whether/WH-word"],
+                            ["Imperative (आज्ञासूचक)", "ordered/requested/advised", "to/not to"],
+                            ["Exclamatory (विस्मयादिबोधक)", "exclaimed with joy/sorrow", "that"],
+                            ["Optative (इच्छासूचक)", "wished/prayed", "that"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📅 Time/Place Changes Summary",
+                        "headers": ["Direct", "Indirect"],
+                        "rows": [
+                            ["this/these, here, now, today", "that/those, there, then, that day"],
+                            ["tomorrow, yesterday, ago", "the next day, the previous day, before"],
+                            ["come, bring", "go, take"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 Key Rules",
+                        "headers": ["Rule", "Remember"],
+                        "rows": [
+                            ["Reporting Verb Present/Future", "Tense नहीं बदलता"],
+                            ["Reporting Verb Past", "Tense बदलता है (one step back)"],
+                            ["Universal Truths", "Tense नहीं बदलता"],
+                            ["said vs told", "said (no object) / told (object required)"],
+                            ["Indirect Question", "Statement order + Full Stop"]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

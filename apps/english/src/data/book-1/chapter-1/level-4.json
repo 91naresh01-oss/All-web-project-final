@@ -1,0 +1,46 @@
+{
+    "id": "level-4",
+    "title": "Numbers 4",
+    "words": [
+        {
+            "word": "Sixteen",
+            "icon": "🔢",
+            "gujaratiPronunciation": "સિક્સ્ટીન",
+            "hindiPronunciation": "सिक्स्टीन",
+            "gujaratiMeaning": "સોળ",
+            "hindiMeaning": "सोलह"
+        },
+        {
+            "word": "Seventeen",
+            "icon": "🔢",
+            "gujaratiPronunciation": "સેવન્ટીન",
+            "hindiPronunciation": "सेवेंटीन",
+            "gujaratiMeaning": "સત્તર",
+            "hindiMeaning": "सत्रह"
+        },
+        {
+            "word": "Eighteen",
+            "icon": "🔢",
+            "gujaratiPronunciation": "એઇટીન",
+            "hindiPronunciation": "एइटीन",
+            "gujaratiMeaning": "અઢાર",
+            "hindiMeaning": "अठारह"
+        },
+        {
+            "word": "Nineteen",
+            "icon": "🔢",
+            "gujaratiPronunciation": "નાઇન્ટીન",
+            "hindiPronunciation": "नाइन्टीन",
+            "gujaratiMeaning": "ઓગણીસ",
+            "hindiMeaning": "उन्नीस"
+        },
+        {
+            "word": "Twenty",
+            "icon": "🔢",
+            "gujaratiPronunciation": "ટ્વેન્ટી",
+            "hindiPronunciation": "ट्वेंटी",
+            "gujaratiMeaning": "વીસ",
+            "hindiMeaning": "बीस"
+        }
+    ]
+}

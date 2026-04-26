@@ -1,0 +1,60 @@
+{
+  "id": "animals-gu",
+  "title": "Animals, Their Homes & Sounds",
+  "description": "A comprehensive list of animals, their male/female/young names, homes, and sounds.",
+  "content": [
+    {
+      "type": "heading",
+      "content": "Animals: Male, Female, Young, Home, and Sound"
+    },
+    {
+      "type": "paragraph",
+      "content": "Here is a detailed table showing various animals, their different names based on gender and age, where they live, and the sounds they make. This is very useful for general knowledge and competitive exams."
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "Detailed Animal Information",
+        "headers": ["Animal", "Male", "Female", "Baby", "Home/Place", "Sound"],
+        "rows": [
+          ["🐻 Bear", "Boar", "Sow", "Cub", "Den", "Growl"],
+          ["🐝 Bee", "Drone", "Queen/Bee", "Larva", "Hive/Apiary", "Hum/Buzz"],
+          ["🐦 Bird", "Cock", "Hen", "Chick/Nestling", "Nest/Aviary", "Chirp/Sing"],
+          ["🐫 Camel", "Bull", "Cow", "Calf", "Desert", "Grunt"],
+          ["🐈 Cat", "Tomcat", "Queen/Tabby", "Kitten", "Cattery", "Mew/Purr"],
+          ["🐄 Cattle", "Bull", "Cow", "Calf", "Barn/Byre", "Moo/Low"],
+          ["🐔 Chicken", "Rooster/Cock", "Hen", "Chick", "Coop", "Cluck"],
+          ["🦀 Crab", "Buck", "Doe", "Zoea", "Shore/Burrow", "Chatter"],
+          ["🦌 Deer", "Buck/Stag", "Doe/Hind", "Fawn", "Forest/Park", "Bell"],
+          ["🐕 Dog", "Dog", "Bitch", "Puppy", "Kennel", "Bark"],
+          ["🐬 Dolphin", "Bull", "Cow", "Calf/Pup", "Ocean/Pod", "Click/Whistle"],
+          ["🦆 Duck", "Drake", "Duck/Hen", "Duckling", "Pond/Water", "Quack"],
+          ["🦅 Eagle", "Tiercel", "Formel", "Eaglet", "Eyrie", "Scream"],
+          ["🐘 Elephant", "Bull", "Cow", "Calf", "Jungle/Forest", "Trumpet"],
+          ["🐟 Fish", "N/A", "N/A", "Fry/Fingerling", "Aquarium/Water", "Blub/Swish"],
+          ["🦊 Fox", "Reynard/Dog", "Vixen", "Cub/Kit", "Den/Lair", "Bark/Yelp"],
+          ["🐸 Frog", "N/A", "N/A", "Tadpole", "Pond/Froggery", "Croak"],
+          ["🐐 Goat", "Billy/Buck", "Nanny/Doe", "Kid", "Pen", "Bleat"],
+          ["🦢 Goose", "Gander", "Goose/Dame", "Gosling", "Flock/Pond", "Honk"],
+          ["🦍 Gorilla", "Silverback", "Female", "Infant", "Jungle/Nest", "Hoot/Grunt"],
+          ["🐇 Hare/Rabbit", "Buck", "Doe", "Leveret/Bunny", "Hutch/Burrow", "Squeak"],
+          ["🐎 Horse", "Stallion", "Mare", "Foal/Colt(M)/Filly(F)", "Stable", "Neigh"],
+          ["🦘 Kangaroo", "Boomer/Buck", "Flyer/Doe", "Joey", "Mob/Grassland", "Chortle"],
+          ["🐆 Leopard", "Leopard", "Leopardess", "Cub", "Lair", "Roar/Snarl"],
+          ["🦁 Lion", "Lion", "Lioness", "Cub", "Den", "Roar"],
+          ["🐒 Monkey", "N/A", "N/A", "Infant", "Troop/Jungle", "Chatter/Screech"],
+          ["🐁 Mouse", "Buck", "Doe", "Pinky/Pup", "Hole/Nest", "Squeak"],
+          ["🦉 Owl", "Owl", "Hen", "Owlet", "Barn/Tree", "Hoot"],
+          ["🐖 Pig", "Boar", "Sow", "Piglet", "Sty/Pen", "Oink/Grunt"],
+          ["🐑 Sheep", "Ram", "Ewe", "Lamb", "Fold/Pen", "Baa/Bleat"],
+          ["🐍 Snake", "N/A", "N/A", "Snakelet", "Nest/Hole", "Hiss"],
+          ["🕷️ Spider", "N/A", "N/A", "Spiderling", "Web", "N/A"],
+          ["🐅 Tiger", "Tiger", "Tigress", "Cub", "Lair", "Roar/Growl"],
+          ["🐢 Turtle", "N/A", "N/A", "Hatchling", "Ocean/Beach", "Click/Grunt"],
+          ["🐋 Whale", "Bull", "Cow", "Calf", "Ocean/Pod", "Sing/Click"],
+          ["🐺 Wolf", "Dog", "Bitch/She-wolf", "Pup/Cub", "Den", "Howl/Bark"]
+        ]
+      }
+    }
+  ]
+}

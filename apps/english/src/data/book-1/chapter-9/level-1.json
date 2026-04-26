@@ -1,0 +1,11 @@
+{
+    "id": "level-1",
+    "title": "Fruits 1",
+    "words": [
+        { "word": "Apple", "icon": "🍎", "gujaratiPronunciation": "એપલ", "hindiPronunciation": "एप्पल", "gujaratiMeaning": "સફરજન", "hindiMeaning": "सेब" },
+        { "word": "Banana", "icon": "🍌", "gujaratiPronunciation": "બનાના", "hindiPronunciation": "बनाना", "gujaratiMeaning": "કેળું", "hindiMeaning": "केला" },
+        { "word": "Mango", "icon": "🥭", "gujaratiPronunciation": "મેંગો", "hindiPronunciation": "मैंगो", "gujaratiMeaning": "કેરી", "hindiMeaning": "आम" },
+        { "word": "Orange", "icon": "🍊", "gujaratiPronunciation": "ઓરેન્જ", "hindiPronunciation": "ऑरेंज", "gujaratiMeaning": "નારંગી", "hindiMeaning": "संतरा" },
+        { "word": "Grapes", "icon": "🍇", "gujaratiPronunciation": "ગ્રેપ્સ", "hindiPronunciation": "ग्रेप्स", "gujaratiMeaning": "દ્રાક્ષ", "hindiMeaning": "अंगूर" }
+    ]
+}

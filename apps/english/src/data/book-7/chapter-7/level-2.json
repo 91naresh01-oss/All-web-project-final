@@ -1,0 +1,481 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Delay",
+      "gujaratiPronunciation": "ડિલે",
+      "hindiPronunciation": "डिले",
+      "gujaratiMeaning": "વિલંબ કરવો",
+      "hindiMeaning": "देरी करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Delay",
+          "gujaratiPronunciation": "ડિલે",
+          "hindiPronunciation": "डिले",
+          "gujaratiMeaning": "વિલંબ કરવો",
+          "hindiMeaning": "देरी करना"
+        },
+        "v2": {
+          "word": "Delayed",
+          "gujaratiPronunciation": "ડિલેડ",
+          "hindiPronunciation": "डिलेड",
+          "gujaratiMeaning": "વિલંબ કર્યો",
+          "hindiMeaning": "देरी की"
+        },
+        "v3": {
+          "word": "Delayed",
+          "gujaratiPronunciation": "ડિલેડ",
+          "hindiPronunciation": "डिलेड",
+          "gujaratiMeaning": "વિલંબ કરેલ",
+          "hindiMeaning": "देरी की हुई"
+        },
+        "v4": {
+          "word": "Delaying",
+          "gujaratiPronunciation": "ડિલેઇંગ",
+          "hindiPronunciation": "डिलेइंग",
+          "gujaratiMeaning": "વિલંબ કરી રહ્યા છે",
+          "hindiMeaning": "देरी कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Postpone",
+          "gujaratiPronunciation": "પોસ્ટપોન",
+          "hindiPronunciation": "पोस्टपोन",
+          "gujaratiMeaning": "મુલતવી રાખવું",
+          "hindiMeaning": "स्थगित करना"
+        },
+        {
+          "word": "Defer",
+          "gujaratiPronunciation": "ડિફર",
+          "hindiPronunciation": "डेफर",
+          "gujaratiMeaning": "ટાળવું",
+          "hindiMeaning": "टालना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Expedite",
+          "gujaratiPronunciation": "એક્સપિડાઇટ",
+          "hindiPronunciation": "एक्सपेडाइट",
+          "gujaratiMeaning": "ઝડપ કરવી",
+          "hindiMeaning": "शीघ्रता करना"
+        },
+        {
+          "word": "Hasten",
+          "gujaratiPronunciation": "હેસન",
+          "hindiPronunciation": "हेसन",
+          "gujaratiMeaning": "ઉતાવળ કરવી",
+          "hindiMeaning": "जल्दी करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Daily",
+          "gujaratiPronunciation": "ડેઇલી",
+          "hindiPronunciation": "डेली",
+          "gujaratiMeaning": "રોજનું",
+          "hindiMeaning": "रोज़ाना"
+        },
+        {
+          "word": "Decay",
+          "gujaratiPronunciation": "ડિકે",
+          "hindiPronunciation": "डिके",
+          "gujaratiMeaning": "સડો",
+          "hindiMeaning": "क्षय"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The flight was delayed due to bad weather.",
+          "gujaratiTranslation": "ખરાબ હવામાનને કારણે ફ્લાઇટમાં વિલંબ થયો હતો.",
+          "hindiTranslation": "खराब मौसम के कारण उड़ान में देरी हुई।",
+          "gujaratiPronunciation": "ધ ફ્લાઇટ વોઝ ડિલેડ ડ્યુ ટુ બેડ વેધર.",
+          "hindiPronunciation": "द फ्लाइट वाज़ डिलेड ड्यू टू बैड वेदर।"
+        }
+      ]
+    },
+    {
+      "word": "Allocate",
+      "gujaratiPronunciation": "એલોકેટ",
+      "hindiPronunciation": "एलोकेट",
+      "gujaratiMeaning": "ફાળવવું",
+      "hindiMeaning": "आवंटित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Allocate",
+          "gujaratiPronunciation": "એલોકેટ",
+          "hindiPronunciation": "एलोकेट",
+          "gujaratiMeaning": "ફાળવવું",
+          "hindiMeaning": "आवंटित करना"
+        },
+        "v2": {
+          "word": "Allocated",
+          "gujaratiPronunciation": "એલોકેટેડ",
+          "hindiPronunciation": "एलोकेटेड",
+          "gujaratiMeaning": "ફાળવ્યું",
+          "hindiMeaning": "आवंटित किया"
+        },
+        "v3": {
+          "word": "Allocated",
+          "gujaratiPronunciation": "એલોકેટેડ",
+          "hindiPronunciation": "एलोकेटेड",
+          "gujaratiMeaning": "ફાળવેલ",
+          "hindiMeaning": "आवंटित किया हुआ"
+        },
+        "v4": {
+          "word": "Allocating",
+          "gujaratiPronunciation": "એલોકેટિંગ",
+          "hindiPronunciation": "एलोकेटिंग",
+          "gujaratiMeaning": "ફાળવી રહ્યા છે",
+          "hindiMeaning": "आवंटित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Assign",
+          "gujaratiPronunciation": "અસાઇન",
+          "hindiPronunciation": "असाइन",
+          "gujaratiMeaning": "સોંપવું",
+          "hindiMeaning": "सौंपना"
+        },
+        {
+          "word": "Distribute",
+          "gujaratiPronunciation": "ડિસ્ટ્રીબ્યુટ",
+          "hindiPronunciation": "डिस्ट्रीब्यूट",
+          "gujaratiMeaning": "વહેંચવું",
+          "hindiMeaning": "वितरित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Withhold",
+          "gujaratiPronunciation": "વિથહોલ્ડ",
+          "hindiPronunciation": "विथहोल्ड",
+          "gujaratiMeaning": "રોકી રાખવું",
+          "hindiMeaning": "रोक रखना"
+        },
+        {
+          "word": "Keep",
+          "gujaratiPronunciation": "કીપ",
+          "hindiPronunciation": "कीप",
+          "gujaratiMeaning": "રાખવું",
+          "hindiMeaning": "रखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Locate",
+          "gujaratiPronunciation": "લોકેટ",
+          "hindiPronunciation": "लोकेट",
+          "gujaratiMeaning": "સ્થાન શોધવું",
+          "hindiMeaning": "पता लगाना"
+        },
+        {
+          "word": "Alleviate",
+          "gujaratiPronunciation": "એલીવિએટ",
+          "hindiPronunciation": "एलीविएट",
+          "gujaratiMeaning": "ઓછું કરવું",
+          "hindiMeaning": "कम करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government will allocate more funds for education.",
+          "gujaratiTranslation": "સરકાર શિક્ષણ માટે વધુ ભંડોળ ફાળવશે.",
+          "hindiTranslation": "सरकार शिक्षा के लिए और अधिक धन आवंटित करेगी।",
+          "gujaratiPronunciation": "ધ ગવર્નમેન્ટ વિલ એલોકેટ મોર ફંડ્સ ફોર એજ્યુકેશન.",
+          "hindiPronunciation": "द गवर्नमेंट विल एलोकेट मोर फंड्स फॉर एजुकेशन।"
+        }
+      ]
+    },
+    {
+      "word": "Postpone",
+      "gujaratiPronunciation": "પોસ્ટપોન",
+      "hindiPronunciation": "पोस्टपोन",
+      "gujaratiMeaning": "મુલતવી રાખવું",
+      "hindiMeaning": "स्थगित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Postpone",
+          "gujaratiPronunciation": "પોસ્ટપોન",
+          "hindiPronunciation": "पोस्टपोन",
+          "gujaratiMeaning": "મુલતવી રાખવું",
+          "hindiMeaning": "स्थगित करना"
+        },
+        "v2": {
+          "word": "Postponed",
+          "gujaratiPronunciation": "પોસ્ટપોન્ડ",
+          "hindiPronunciation": "पोस्टपोंड",
+          "gujaratiMeaning": "મુલતવી રાખ્યું",
+          "hindiMeaning": "स्थगित किया"
+        },
+        "v3": {
+          "word": "Postponed",
+          "gujaratiPronunciation": "પોસ્ટપોન્ડ",
+          "hindiPronunciation": "पोस्टपोंड",
+          "gujaratiMeaning": "મુલતવી રાખેલ",
+          "hindiMeaning": "स्थगित किया हुआ"
+        },
+        "v4": {
+          "word": "Postponing",
+          "gujaratiPronunciation": "પોસ્ટપોનિંગ",
+          "hindiPronunciation": "पोस्टपोनिंग",
+          "gujaratiMeaning": "મુલતવી રાખી રહ્યા છે",
+          "hindiMeaning": "स्थगित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Delay",
+          "gujaratiPronunciation": "ડિલે",
+          "hindiPronunciation": "डिले",
+          "gujaratiMeaning": "વિલંબ કરવો",
+          "hindiMeaning": "देरी करना"
+        },
+        {
+          "word": "Adjourn",
+          "gujaratiPronunciation": "એડજર્ન",
+          "hindiPronunciation": "एडजर्न",
+          "gujaratiMeaning": "સ્થગિત કરવું",
+          "hindiMeaning": "स्थगित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Advance",
+          "gujaratiPronunciation": "એડવાન્સ",
+          "hindiPronunciation": "एडवांस",
+          "gujaratiMeaning": "આગળ વધારવું",
+          "hindiMeaning": "आगे बढ़ाना"
+        },
+        {
+          "word": "Continue",
+          "gujaratiPronunciation": "કન્ટીન્યુ",
+          "hindiPronunciation": "कंटिन्यू",
+          "gujaratiMeaning": "ચાલુ રાખવું",
+          "hindiMeaning": "जारी रखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Compose",
+          "gujaratiPronunciation": "કમ્પોઝ",
+          "hindiPronunciation": "कम्पोज़",
+          "gujaratiMeaning": "રચના કરવી",
+          "hindiMeaning": "रचना करना"
+        },
+        {
+          "word": "Propose",
+          "gujaratiPronunciation": "પ્રપોઝ",
+          "hindiPronunciation": "प्रपोज",
+          "gujaratiMeaning": "પ્રસ્તાવ મૂકવો",
+          "hindiMeaning": "प्रस्ताव रखना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They decided to postpone the wedding until next year.",
+          "gujaratiTranslation": "તેઓએ આવતા વર્ષ સુધી લગ્ન મુલતવી રાખવાનો નિર્ણય કર્યો.",
+          "hindiTranslation": "उन्होंने शादी को अगले साल तक के लिए स्थगित करने का फैसला किया।",
+          "gujaratiPronunciation": "ધે ડિસાઇડેડ ટુ પોસ્ટપોન ધ વેડિંગ અનટિલ નેક્સ્ટ યર.",
+          "hindiPronunciation": "दे डिसाइडेड टू पोस्टपोन द वेडिंग अंटिल नेक्स्ट ईयर।"
+        }
+      ]
+    },
+    {
+      "word": "Linger",
+      "gujaratiPronunciation": "લિંગર",
+      "hindiPronunciation": "लिंगर",
+      "gujaratiMeaning": "વિલંબ કરવો",
+      "hindiMeaning": "देर तक रुकना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Linger",
+          "gujaratiPronunciation": "લિંગર",
+          "hindiPronunciation": "लिंगर",
+          "gujaratiMeaning": "વિલંબ કરવો",
+          "hindiMeaning": "देर तक रुकना"
+        },
+        "v2": {
+          "word": "Lingered",
+          "gujaratiPronunciation": "લિંગર્ડ",
+          "hindiPronunciation": "लिंगर्ड",
+          "gujaratiMeaning": "વિલંબ કર્યો",
+          "hindiMeaning": "देर तक रुका"
+        },
+        "v3": {
+          "word": "Lingered",
+          "gujaratiPronunciation": "લિંગર્ડ",
+          "hindiPronunciation": "लिंगर्ड",
+          "gujaratiMeaning": "વિલંબ કરેલ",
+          "hindiMeaning": "देर तक रुका हुआ"
+        },
+        "v4": {
+          "word": "Lingering",
+          "gujaratiPronunciation": "લિંગરિંગ",
+          "hindiPronunciation": "लिंगरिंग",
+          "gujaratiMeaning": "વિલંબ કરી રહ્યા છે",
+          "hindiMeaning": "देर तक रुक रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Loiter",
+          "gujaratiPronunciation": "લોઇટર",
+          "hindiPronunciation": "लॉइटर",
+          "gujaratiMeaning": "આળસુની જેમ ફરવું",
+          "hindiMeaning": "आवारा घूमना"
+        },
+        {
+          "word": "Dally",
+          "gujaratiPronunciation": "ડેલી",
+          "hindiPronunciation": "डेली",
+          "gujaratiMeaning": "સમય પસાર કરવો",
+          "hindiMeaning": "समय बिताना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Leave",
+          "gujaratiPronunciation": "લીવ",
+          "hindiPronunciation": "लीव",
+          "gujaratiMeaning": "જતું રહેવું",
+          "hindiMeaning": "चले जाना"
+        },
+        {
+          "word": "Hurry",
+          "gujaratiPronunciation": "હરી",
+          "hindiPronunciation": "हरी",
+          "gujaratiMeaning": "ઉતાવળ કરવી",
+          "hindiMeaning": "जल्दी करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Finger",
+          "gujaratiPronunciation": "ફિંગર",
+          "hindiPronunciation": "फिंगर",
+          "gujaratiMeaning": "આંગળી",
+          "hindiMeaning": "उंगली"
+        },
+        {
+          "word": "Singer",
+          "gujaratiPronunciation": "સિંગર",
+          "hindiPronunciation": "सिंगर",
+          "gujaratiMeaning": "ગાયક",
+          "hindiMeaning": "गायक"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The smell of coffee lingered in the room.",
+          "gujaratiTranslation": "રૂમમાં કોફીની સુગંધ લાંબા સમય સુધી રહી.",
+          "hindiTranslation": "कमरे में कॉफी की महक देर तक बनी रही।",
+          "gujaratiPronunciation": "ધ સ્મેલ ઓફ કોફી લિંગર્ડ ઇન ધ રૂમ.",
+          "hindiPronunciation": "द स्मेल ऑफ कॉफी लिंगर्ड इन द रूम।"
+        }
+      ]
+    },
+    {
+      "word": "Compress",
+      "gujaratiPronunciation": "કમ્પ્રેસ",
+      "hindiPronunciation": "कंप्रेस",
+      "gujaratiMeaning": "સંકોચવું",
+      "hindiMeaning": "संपीड़ित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Compress",
+          "gujaratiPronunciation": "કમ્પ્રેસ",
+          "hindiPronunciation": "कंप्रेस",
+          "gujaratiMeaning": "સંકોચવું",
+          "hindiMeaning": "संपीड़ित करना"
+        },
+        "v2": {
+          "word": "Compressed",
+          "gujaratiPronunciation": "કમ્પ્રેસ્ડ",
+          "hindiPronunciation": "कंप्रेस्ड",
+          "gujaratiMeaning": "સંકોચ્યું",
+          "hindiMeaning": "संपीड़ित किया"
+        },
+        "v3": {
+          "word": "Compressed",
+          "gujaratiPronunciation": "કમ્પ્રેસ્ડ",
+          "hindiPronunciation": "कंप्रेस्ड",
+          "gujaratiMeaning": "સંકોચેલું",
+          "hindiMeaning": "संपीड़ित किया हुआ"
+        },
+        "v4": {
+          "word": "Compressing",
+          "gujaratiPronunciation": "કમ્પ્રેસિંગ",
+          "hindiPronunciation": "कंप्रेसिंग",
+          "gujaratiMeaning": "સંકોચી રહ્યા છે",
+          "hindiMeaning": "संपीड़ित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Squeeze",
+          "gujaratiPronunciation": "સ્ક્વીઝ",
+          "hindiPronunciation": "स्क्वीज़",
+          "gujaratiMeaning": "દબાવવું",
+          "hindiMeaning": "निचोड़ना"
+        },
+        {
+          "word": "Condense",
+          "gujaratiPronunciation": "કન્ડેન્સ",
+          "hindiPronunciation": "कंडेंस",
+          "gujaratiMeaning": "ઘટ્ટ કરવું",
+          "hindiMeaning": "संघनित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Expand",
+          "gujaratiPronunciation": "એક્સપાન્ડ",
+          "hindiPronunciation": "एक्सपैंड",
+          "gujaratiMeaning": "વિસ્તાર કરવો",
+          "hindiMeaning": "विस्तार करना"
+        },
+        {
+          "word": "Stretch",
+          "gujaratiPronunciation": "સ્ટ્રેચ",
+          "hindiPronunciation": "स्ट्रेच",
+          "gujaratiMeaning": "ખેંચવું",
+          "hindiMeaning": "खींचना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Depress",
+          "gujaratiPronunciation": "ડિપ્રેસ",
+          "hindiPronunciation": "डिप्रेस",
+          "gujaratiMeaning": "ઉદાસ કરવું",
+          "hindiMeaning": "उदास करना"
+        },
+        {
+          "word": "Impress",
+          "gujaratiPronunciation": "ઇમ્પ્રેસ",
+          "hindiPronunciation": "इम्प्रेस",
+          "gujaratiMeaning": "પ્રભાવિત કરવું",
+          "hindiMeaning": "प्रभावित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You can compress the file to save disk space.",
+          "gujaratiTranslation": "તમે ડિસ્ક સ્પેસ બચાવવા માટે ફાઇલને સંકોચી શકો છો.",
+          "hindiTranslation": "आप डिस्क स्थान बचाने के लिए फ़ाइल को संपीड़ित कर सकते हैं।",
+          "gujaratiPronunciation": "યુ કેન કમ્પ્રેસ ધ ફાઇલ ટુ સેવ ડિસ્ક સ્પેસ.",
+          "hindiPronunciation": "यू कैन कंप्रेस द फाइल टू सेव डिस्क स्पेस।"
+        }
+      ]
+    }
+  ]
+}

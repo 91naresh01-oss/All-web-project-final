@@ -1,0 +1,1201 @@
+{
+  "id": "prepositions-hi",
+  "title": "Prepositions (पूर्वसर्ग)",
+  "description": "Preposition (पूर्वसर्ग) वह शब्द है जो वाक्य में Noun (संज्ञा) या Pronoun (सर्वनाम) से पहले आता है। यह समय (Time), स्थान (Place), दिशा (Direction) या अन्य संबंध दर्शाता है। Pre (पहले) + Position (स्थान) = जो नाम से पहले आए वह।",
+  "content": [
+    {
+      "type": "section",
+      "title": "📚 What is Preposition? (Preposition क्या है?)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>Pre</b> (पहले) + <b>Position</b> (स्थान) = <b>Preposition</b> = जो नाम/सर्वनाम से पहले आए वह।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Simple Prepositions:</b> एक शब्द के Prepositions. जैसे: in, on, at, by, for, from, of, off, out, through, till, to, up, with.",
+            "<b>Compound Prepositions:</b> दो या अधिक शब्दों से बने Prepositions. जैसे: into, within, without, beside, between, among.",
+            "<b>Phrasal Prepositions:</b> शब्द समूह के रूप में Prepositions. जैसे: according to, in front of, on behalf of, because of, in spite of."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🕒 Prepositions of Time (समय दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "समय दर्शाने के लिए मुख्यतः <b>At, On, In</b> का उपयोग होता है।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "⏰ Time Prepositions",
+            "headers": [
+              "Preposition",
+              "कब प्रयोग?",
+              "Example",
+              "हिंदी अर्थ"
+            ],
+            "rows": [
+              [
+                "<b>At</b>",
+                "निश्चित समय (Clock time), त्योहार",
+                "I wake up <b>at</b> 6 AM.",
+                "मैं सुबह 6 बजे उठता हूँ।"
+              ],
+              [
+                "<b>On</b>",
+                "दिन (Days), तारीख (Dates)",
+                "Let's meet <b>on</b> Sunday.",
+                "चलो रविवार को मिलते हैं।"
+              ],
+              [
+                "<b>In</b>",
+                "महीना, वर्ष, ऋतु, सुबह/शाम",
+                "He was born <b>in</b> 1990.",
+                "उनका जन्म 1990 में हुआ।"
+              ],
+              [
+                "<b>Since</b>",
+                "निश्चित समय से शुरू (Point of time)",
+                "I have been waiting <b>since</b> morning.",
+                "मैं सुबह से इंतज़ार कर रहा हूँ।"
+              ],
+              [
+                "<b>For</b>",
+                "अवधि के लिए (Duration)",
+                "We talked <b>for</b> 2 hours.",
+                "हमने 2 घंटे बात की।"
+              ],
+              [
+                "<b>During</b>",
+                "समयकाल 'के दौरान'",
+                "They visited places <b>during</b> vacation.",
+                "उन्होंने छुट्टी के दौरान घूमा।"
+              ],
+              [
+                "<b>By</b>",
+                "समय 'तक' पूरा होना",
+                "I will finish <b>by</b> 5 PM.",
+                "मैं 5 बजे तक पूरा करूँगा।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>याद रखें:</b><br>• <b>In</b> the morning, <b>In</b> the evening<br>• परंतु, <b>At</b> night, <b>At</b> noon"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🏠 Prepositions of Place (स्थान दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "वस्तु कहाँ है या व्यक्ति कहाँ है यह बताने के लिए।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📍 Place Prepositions",
+            "headers": [
+              "Preposition",
+              "कब प्रयोग?",
+              "Example",
+              "हिंदी अर्थ"
+            ],
+            "rows": [
+              [
+                "<b>In</b>",
+                "बंद जगह के अंदर",
+                "The pen is <b>in</b> the box.",
+                "पेन बॉक्स के <b>अंदर</b> है।"
+              ],
+              [
+                "<b>On</b>",
+                "सतह को छूते हुए ऊपर",
+                "The book is <b>on</b> the table.",
+                "किताब टेबल <b>पर</b> है।"
+              ],
+              [
+                "<b>At</b>",
+                "निश्चित बिंदु या स्थान",
+                "Someone is <b>at</b> the door.",
+                "कोई दरवाजे <b>पर</b> है।"
+              ],
+              [
+                "<b>Under</b>",
+                "किसी वस्तु के नीचे",
+                "The cat is <b>under</b> the chair.",
+                "बिल्ली कुर्सी के <b>नीचे</b> है।"
+              ],
+              [
+                "<b>Over</b>",
+                "वस्तु के ऊपर (बिना छुए)",
+                "The fan is <b>over</b> my head.",
+                "पंखा मेरे सिर के <b>ऊपर</b> है।"
+              ],
+              [
+                "<b>Above</b>",
+                "स्तर में ऊपर",
+                "The sky is <b>above</b> us.",
+                "आकाश हमारे <b>ऊपर</b> है।"
+              ],
+              [
+                "<b>Below</b>",
+                "स्तर में नीचे",
+                "His marks are <b>below</b> average.",
+                "उसके अंक औसत से <b>नीचे</b> हैं।"
+              ],
+              [
+                "<b>Near</b>",
+                "पास में",
+                "My school is <b>near</b> my house.",
+                "मेरा स्कूल घर के <b>पास</b> है।"
+              ],
+              [
+                "<b>Between</b>",
+                "दो के बीच",
+                "Put it <b>between</b> two books.",
+                "दो किताबों के <b>बीच</b> रखो।"
+              ],
+              [
+                "<b>Among</b>",
+                "दो से अधिक के बीच",
+                "He is popular <b>among</b> students.",
+                "वह छात्रों <b>में</b> लोकप्रिय है।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🚀 Prepositions of Movement/Direction (दिशा/गति दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "जब कोई वस्तु गति में हो तब यह Preposition प्रयोग होते हैं।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "➡️ Direction/Movement",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "समझ"
+            ],
+            "rows": [
+              [
+                "<b>To</b>",
+                "की ओर/तक",
+                "Go <b>to</b> school.",
+                "स्कूल जाओ। (गति दर्शाता है)"
+              ],
+              [
+                "<b>Into</b>",
+                "बाहर से अंदर गति",
+                "He jumped <b>into</b> the river.",
+                "उसने नदी में छलांग लगाई।"
+              ],
+              [
+                "<b>Onto</b>",
+                "ऊपर की ओर गति",
+                "The cat jumped <b>onto</b> the table.",
+                "बिल्ली टेबल पर कूदी।"
+              ],
+              [
+                "<b>Over</b>",
+                "ऊपर से (बिना छुए)",
+                "The bird flew <b>over</b> the tree.",
+                "पक्षी पेड़ के ऊपर से उड़ा।"
+              ],
+              [
+                "<b>Through</b>",
+                "से गुजरना",
+                "The train went <b>through</b> the tunnel.",
+                "ट्रेन सुरंग से गुजरी।"
+              ],
+              [
+                "<b>Across</b>",
+                "आर-पार/पार करके",
+                "He swam <b>across</b> the river.",
+                "वह नदी पार करके तैरा।"
+              ],
+              [
+                "<b>Towards</b>",
+                "की दिशा में",
+                "She is walking <b>towards</b> me.",
+                "वह मेरी ओर चल रही है।"
+              ],
+              [
+                "<b>From</b>",
+                "से (शुरुआत)",
+                "He came <b>from</b> Delhi.",
+                "वह दिल्ली से आया।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🎭 Prepositions of Manner (रीति/तरीका दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "कोई कार्य <b>किस तरह</b> हुआ यह बताने के लिए।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🎯 Manner Prepositions",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>By</b>",
+                "द्वारा / करके",
+                "He learned it <b>by</b> practice.",
+                "उसने अभ्यास <b>द्वारा</b> सीखा।"
+              ],
+              [
+                "<b>With</b>",
+                "साथ / से",
+                "She writes <b>with</b> a pen.",
+                "वह पेन <b>से</b> लिखती है।"
+              ],
+              [
+                "<b>Without</b>",
+                "बिना",
+                "He left <b>without</b> saying goodbye.",
+                "वह अलविदा <b>कहे बिना</b> चला गया।"
+              ],
+              [
+                "<b>Like</b>",
+                "की तरह / जैसे",
+                "She sings <b>like</b> a nightingale.",
+                "वह बुलबुल <b>की तरह</b> गाती है।"
+              ],
+              [
+                "<b>In</b>",
+                "में / से",
+                "He spoke <b>in</b> a loud voice.",
+                "वह ऊँची आवाज <b>में</b> बोला।"
+              ],
+              [
+                "<b>On</b>",
+                "पर / पैदल",
+                "He is <b>on</b> foot.",
+                "वह <b>पैदल</b> है।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "💡 Prepositions of Cause/Reason (कारण दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "कोई कार्य <b>क्यों</b> हुआ (कारण) बताने के लिए।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "❓ Cause/Reason Prepositions",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>Because of</b>",
+                "के कारण",
+                "He failed <b>because of</b> laziness.",
+                "आलस्य <b>के कारण</b> वह फेल हुआ।"
+              ],
+              [
+                "<b>Due to</b>",
+                "की वजह से",
+                "Match cancelled <b>due to</b> rain.",
+                "बारिश <b>की वजह से</b> मैच रद्द।"
+              ],
+              [
+                "<b>Owing to</b>",
+                "के कारण",
+                "<b>Owing to</b> illness, he was absent.",
+                "बीमारी <b>के कारण</b> वह अनुपस्थित था।"
+              ],
+              [
+                "<b>On account of</b>",
+                "के कारण",
+                "He resigned <b>on account of</b> health.",
+                "स्वास्थ्य <b>के कारण</b> उसने इस्तीफा दिया।"
+              ],
+              [
+                "<b>For</b>",
+                "के लिए / के कारण",
+                "He was punished <b>for</b> cheating.",
+                "धोखाधड़ी <b>के लिए</b> उसे सजा मिली।"
+              ],
+              [
+                "<b>From</b>",
+                "से / के कारण",
+                "He is suffering <b>from</b> fever.",
+                "वह बुखार <b>से</b> पीड़ित है।"
+              ],
+              [
+                "<b>Of</b>",
+                "से / के",
+                "He died <b>of</b> cancer.",
+                "वह कैंसर <b>से</b> मर गया।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Note:</b> Because of / Due to / Owing to / On account of = सभी 'के कारण' के लिए प्रयोग होते हैं।"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🎯 Prepositions of Purpose (उद्देश्य दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "कोई कार्य <b>किस उद्देश्य से</b> हुआ यह बताने के लिए।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🎯 Purpose Prepositions",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>For</b>",
+                "के लिए",
+                "This gift is <b>for</b> you.",
+                "यह उपहार तुम्हारे <b>लिए</b> है।"
+              ],
+              [
+                "<b>To</b>",
+                "के लिए / ताकि",
+                "I came here <b>to</b> help you.",
+                "मैं तुम्हारी मदद करने <b>के लिए</b> आया।"
+              ],
+              [
+                "<b>In order to</b>",
+                "ताकि / इसलिए",
+                "He works hard <b>in order to</b> succeed.",
+                "सफल होने <b>के लिए</b> वह मेहनत करता है।"
+              ],
+              [
+                "<b>So as to</b>",
+                "ताकि / जिससे",
+                "He ran fast <b>so as to</b> catch the bus.",
+                "बस पकड़ने <b>के लिए</b> वह तेज दौड़ा।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔐 Prepositions of Possession (स्वामित्व/संबंध दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>स्वामित्व</b> या <b>संबंध</b> दर्शाने के लिए।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🏠 Possession Prepositions",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>Of</b>",
+                "का/की/के",
+                "The leg <b>of</b> the table is broken.",
+                "टेबल <b>का</b> पैर टूटा है।"
+              ],
+              [
+                "<b>With</b>",
+                "वाला/वाली",
+                "A girl <b>with</b> blue eyes.",
+                "नीली आँखों <b>वाली</b> लड़की।"
+              ],
+              [
+                "<b>To</b>",
+                "की / का",
+                "The key <b>to</b> success is hard work.",
+                "सफलता <b>की</b> कुंजी मेहनत है।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🌱 Prepositions of Source/Origin (मूल/उत्पत्ति दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "कोई वस्तु या व्यक्ति <b>कहाँ से</b> आई यह बताने के लिए।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🌍 Source/Origin Prepositions",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>From</b>",
+                "से / में से",
+                "He comes <b>from</b> India.",
+                "वह भारत <b>से</b> आता है।"
+              ],
+              [
+                "<b>Out of</b>",
+                "में से (बाहर)",
+                "He took money <b>out of</b> pocket.",
+                "उसने जेब <b>में से</b> पैसे निकाले।"
+              ],
+              [
+                "<b>Of</b>",
+                "का/की",
+                "He is a man <b>of</b> Ahmedabad.",
+                "वह अहमदाबाद <b>का</b> आदमी है।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📊 Prepositions of Measure/Rate (माप/दर दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>माप, दर, कीमत</b> आदि दर्शाने के लिए।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📏 Measure/Rate Prepositions",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>By</b>",
+                "के हिसाब से",
+                "Eggs are sold <b>by</b> the dozen.",
+                "अंडे दर्जन <b>के</b> हिसाब से बिकते हैं।"
+              ],
+              [
+                "<b>At</b>",
+                "के भाव पर",
+                "Mangoes are selling <b>at</b> ₹100 a kg.",
+                "आम ₹100 <b>प्रति</b> किलो बिक रहे हैं।"
+              ],
+              [
+                "<b>For</b>",
+                "में / के बदले",
+                "I bought it <b>for</b> ₹500.",
+                "मैंने इसे ₹500 <b>में</b> खरीदा।"
+              ],
+              [
+                "<b>Per</b>",
+                "प्रति / प्रत्येक",
+                "Speed limit is 60 km <b>per</b> hour.",
+                "सीमा 60 किमी <b>प्रति</b> घंटा है।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔄 Prepositions of Contrast (विरोध/तुलना दर्शाने वाले)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>विरोध, तुलना, के बावजूद</b> आदि दर्शाने के लिए।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "⚖️ Contrast Prepositions",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>In spite of</b>",
+                "के बावजूद",
+                "<b>In spite of</b> rain, he came.",
+                "बारिश <b>के बावजूद</b> वह आया।"
+              ],
+              [
+                "<b>Despite</b>",
+                "के बावजूद",
+                "<b>Despite</b> his efforts, he failed.",
+                "प्रयासों <b>के बावजूद</b> वह फेल हुआ।"
+              ],
+              [
+                "<b>Against</b>",
+                "विरुद्ध",
+                "He voted <b>against</b> the plan.",
+                "उसने प्लान के <b>विरुद्ध</b> वोट दिया।"
+              ],
+              [
+                "<b>Unlike</b>",
+                "के विपरीत",
+                "<b>Unlike</b> his brother, he is honest.",
+                "भाई <b>के विपरीत</b>, वह ईमानदार है।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🚌 Prepositions of Transport (वाहन के लिए)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>Rule:</b> जहाँ खड़े होकर चल सकें, <b>ON</b> आता है। जहाँ झुककर बैठना पड़े, <b>IN</b> आता है। यात्रा का तरीका बताने के लिए <b>BY</b> आता है (a/an/the नहीं लगता)।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🚗 Transport Prepositions",
+            "headers": [
+              "वाहन",
+              "Preposition",
+              "Example",
+              "कारण"
+            ],
+            "rows": [
+              [
+                "Bus, Train, Plane, Ship",
+                "<b>On</b>",
+                "I am <b>on</b> the bus.",
+                "अंदर चल सकते हैं।"
+              ],
+              [
+                "Car, Taxi, Auto",
+                "<b>In</b>",
+                "She is <b>in</b> the car.",
+                "बैठकर जाना पड़ता है।"
+              ],
+              [
+                "Bicycle, Bike, Horse",
+                "<b>On</b>",
+                "He is <b>on</b> the bike.",
+                "सतह पर बैठते हैं।"
+              ],
+              [
+                "Mode of Travel",
+                "<b>By</b>",
+                "I go <b>by</b> car.",
+                "तरीका दर्शाता है।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "⚠️ Confusing Pairs (भ्रमित करने वाले शब्द)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Beside vs Besides",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>Beside</b>",
+                "के बगल में (next to)",
+                "Sit <b>beside</b> me.",
+                "मेरे <b>बगल में</b> बैठो।"
+              ],
+              [
+                "<b>Besides</b>",
+                "इसके अलावा (in addition)",
+                "<b>Besides</b> English, I know Hindi.",
+                "अंग्रेजी के <b>अलावा</b> मुझे हिंदी आती है।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Between vs Among",
+            "headers": [
+              "Preposition",
+              "कब?",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>Between</b>",
+                "केवल 2 व्यक्ति/वस्तु के लिए",
+                "Distribute <b>between</b> Ram and Shyam.",
+                "राम और श्याम के <b>बीच</b>।"
+              ],
+              [
+                "<b>Among</b>",
+                "2 से अधिक के लिए",
+                "Distribute <b>among</b> the students.",
+                "छात्रों के <b>बीच</b> (कई)।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 By vs With",
+            "headers": [
+              "Preposition",
+              "कब?",
+              "Example",
+              "समझ"
+            ],
+            "rows": [
+              [
+                "<b>By</b>",
+                "करने वाला व्यक्ति (Doer)",
+                "Snake was killed <b>by</b> him.",
+                "साँप उसके <b>द्वारा</b> मारा गया।"
+              ],
+              [
+                "<b>With</b>",
+                "साधन (Tool)",
+                "He killed it <b>with</b> a stick.",
+                "लाठी <b>से</b> मारा।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 On time vs In time",
+            "headers": [
+              "Preposition",
+              "अर्थ",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>On time</b>",
+                "ठीक निश्चित समय पर",
+                "Train left <b>on time</b> (at 9:00).",
+                "ट्रेन <b>समय पर</b> छूटी।"
+              ],
+              [
+                "<b>In time</b>",
+                "समय पूरा होने से पहले",
+                "Reach station <b>in time</b>.",
+                "<b>समय से पहले</b> पहुँचो।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Since vs From",
+            "headers": [
+              "Preposition",
+              "कब?",
+              "Example",
+              "हिंदी"
+            ],
+            "rows": [
+              [
+                "<b>Since</b>",
+                "अतीत के निश्चित समय से (Present Perfect में)",
+                "I have been here <b>since</b> 2010.",
+                "मैं 2010 <b>से</b> यहाँ हूँ।"
+              ],
+              [
+                "<b>From</b>",
+                "किसी भी काल में शुरुआत",
+                "Class starts <b>from</b> Monday.",
+                "क्लास सोमवार <b>से</b> शुरू होगी।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 In vs Into",
+            "headers": [
+              "Preposition",
+              "कब?",
+              "Example",
+              "समझ"
+            ],
+            "rows": [
+              [
+                "<b>In</b>",
+                "पहले से अंदर हो",
+                "She is <b>in</b> the room.",
+                "वह कमरे <b>में</b> है।"
+              ],
+              [
+                "<b>Into</b>",
+                "गति करके अंदर जाए",
+                "She walked <b>into</b> the room.",
+                "वह कमरे <b>में</b> गई।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Over vs Above",
+            "headers": [
+              "Preposition",
+              "कब?",
+              "Example",
+              "समझ"
+            ],
+            "rows": [
+              [
+                "<b>Over</b>",
+                "ठीक ऊपर (Vertical)/ढकना",
+                "Put blanket <b>over</b> the baby.",
+                "ढकने के लिए।"
+              ],
+              [
+                "<b>Above</b>",
+                "स्तर में ऊपर",
+                "Kite flew <b>above</b> the building.",
+                "बिल्डिंग से ऊँचे।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Under vs Below",
+            "headers": [
+              "Preposition",
+              "कब?",
+              "Example",
+              "समझ"
+            ],
+            "rows": [
+              [
+                "<b>Under</b>",
+                "नीचे (ढका/छुआ हुआ)",
+                "Cat is <b>under</b> the table.",
+                "टेबल के नीचे।"
+              ],
+              [
+                "<b>Below</b>",
+                "स्तर में नीचे",
+                "Sign <b>below</b> the line.",
+                "लाइन के नीचे साइन।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔒 Fixed Prepositions (निश्चित Prepositions)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "कुछ शब्दों के साथ कुछ विशेष Preposition ही आते हैं। इसमें कोई नियम नहीं है, <b>याद रखना</b> पड़ता है।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📌 Common Fixed Prepositions",
+            "headers": [
+              "Expression",
+              "अर्थ",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Afraid <b>of</b>",
+                "से डरना",
+                "I am afraid <b>of</b> dogs."
+              ],
+              [
+                "Good <b>at</b>",
+                "में होशियार (Good in ❌)",
+                "She is good <b>at</b> Math."
+              ],
+              [
+                "Listen <b>to</b>",
+                "सुनना",
+                "Please listen <b>to</b> me."
+              ],
+              [
+                "Married <b>to</b>",
+                "से शादी (Married with ❌)",
+                "He is married <b>to</b> a doctor."
+              ],
+              [
+                "Wait <b>for</b>",
+                "इंतज़ार करना",
+                "Wait <b>for</b> me."
+              ],
+              [
+                "Depend <b>on</b>",
+                "निर्भर होना",
+                "It depends <b>on</b> you."
+              ],
+              [
+                "Die <b>of</b>",
+                "बीमारी से मरना",
+                "He died <b>of</b> cancer."
+              ],
+              [
+                "Prefer ... <b>to</b>",
+                "से अधिक पसंद (than ❌)",
+                "I prefer tea <b>to</b> coffee."
+              ],
+              [
+                "Interested <b>in</b>",
+                "में रुचि होना",
+                "I am interested <b>in</b> music."
+              ],
+              [
+                "Angry <b>with</b> (person)",
+                "व्यक्ति पर गुस्सा",
+                "I am angry <b>with</b> him."
+              ],
+              [
+                "Angry <b>at</b> (thing)",
+                "वस्तु पर गुस्सा",
+                "I am angry <b>at</b> his behavior."
+              ],
+              [
+                "Agree <b>with</b> (person)",
+                "व्यक्ति से सहमत",
+                "I agree <b>with</b> you."
+              ],
+              [
+                "Agree <b>to</b> (plan)",
+                "प्रस्ताव से सहमत",
+                "I agree <b>to</b> your plan."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔧 Made of vs Made from",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "🏭 Material Prepositions",
+            "headers": [
+              "Preposition",
+              "कब?",
+              "Example",
+              "समझ"
+            ],
+            "rows": [
+              [
+                "Made <b>of</b>",
+                "भौतिक परिवर्तन (मूल वस्तु दिखे)",
+                "Chair is made <b>of</b> wood.",
+                "लकड़ी <b>दिखती</b> है।"
+              ],
+              [
+                "Made <b>from</b>",
+                "रासायनिक परिवर्तन (मूल न दिखे)",
+                "Cheese is made <b>from</b> milk.",
+                "दूध <b>नहीं दिखता</b>।"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "❌ No Preposition Required (जहाँ Preposition न आए)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "कुछ क्रियाओं के बाद Preposition लगाना <b>गंभीर गलती</b> मानी जाती है।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Discuss:</b> Let's discuss the topic. (Discuss <span style='color:red'>about</span> ❌)",
+            "<b>Enter:</b> He entered the room. (Enter <span style='color:red'>into</span> ❌ - सिवाय deal/agreement में enter)",
+            "<b>Order:</b> I ordered a pizza. (Ordered <span style='color:red'>for</span> ❌)",
+            "<b>Request:</b> She requested help. (Requested <span style='color:red'>for</span> ❌)",
+            "<b>Reach:</b> We reached home. (Reached <span style='color:red'>at</span> ❌)",
+            "<b>Marry:</b> He married her. (Married <span style='color:red'>with</span> ❌)",
+            "<b>Attack:</b> Army attacked the fort. (Attacked <span style='color:red'>on</span> ❌)",
+            "<b>Resemble:</b> He resembles his father. (Resembles <span style='color:red'>with</span> ❌)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "💡 Quick List (त्वरित सूची)",
+      "content": [
+        {
+          "type": "list",
+          "content": [
+            "<b>By:</b> द्वारा / तक (I will finish <b>by</b> 5 PM).",
+            "<b>With:</b> साथ (Come <b>with</b> me).",
+            "<b>Without:</b> बिना (Tea <b>without</b> sugar).",
+            "<b>Of:</b> का/की/के (Cup <b>of</b> tea).",
+            "<b>About:</b> के बारे में (Tell me <b>about</b> yourself).",
+            "<b>Behind:</b> पीछे (Sun is <b>behind</b> the clouds).",
+            "<b>In front of:</b> के सामने (Park <b>in front of</b> the gate).",
+            "<b>Beside:</b> बगल में (Sit <b>beside</b> me).",
+            "<b>Along:</b> साथ-साथ (Walk <b>along</b> the river).",
+            "<b>Against:</b> विरुद्ध/टेककर (He stood <b>against</b> the wall)."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📖 Phrasal Prepositions (वाक्यांश Prepositions)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Phrasal Prepositions वे <b>दो या अधिक शब्दों का समूह</b> है जो <b>एक Preposition के रूप में</b> काम करते हैं।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📚 Common Phrasal Prepositions",
+            "headers": [
+              "Phrasal Preposition",
+              "हिंदी अर्थ",
+              "Example",
+              "समझ"
+            ],
+            "rows": [
+              [
+                "<b>According to</b>",
+                "के अनुसार",
+                "<b>According to</b> the report, sales increased.",
+                "रिपोर्ट <b>के अनुसार</b> बिक्री बढ़ी।"
+              ],
+              [
+                "<b>Because of</b>",
+                "के कारण",
+                "School was closed <b>because of</b> rain.",
+                "बारिश <b>के कारण</b> स्कूल बंद था।"
+              ],
+              [
+                "<b>In front of</b>",
+                "के सामने / आगे",
+                "He is standing <b>in front of</b> the gate.",
+                "वह गेट <b>के सामने</b> खड़ा है।"
+              ],
+              [
+                "<b>In spite of</b>",
+                "के बावजूद",
+                "<b>In spite of</b> rain, he came.",
+                "बारिश <b>के बावजूद</b> वह आया।"
+              ],
+              [
+                "<b>Instead of</b>",
+                "की जगह / के बदले",
+                "Use honey <b>instead of</b> sugar.",
+                "चीनी <b>की जगह</b> शहद लो।"
+              ],
+              [
+                "<b>In addition to</b>",
+                "के अलावा / साथ ही",
+                "<b>In addition to</b> English, learn Hindi.",
+                "अंग्रेजी <b>के अलावा</b> हिंदी सीखो।"
+              ],
+              [
+                "<b>On behalf of</b>",
+                "की ओर से / के बदले",
+                "I spoke <b>on behalf of</b> the team.",
+                "मैंने टीम <b>की ओर से</b> बोला।"
+              ],
+              [
+                "<b>In case of</b>",
+                "की स्थिति में",
+                "<b>In case of</b> fire, use stairs.",
+                "आग <b>की स्थिति में</b> सीढ़ी लो।"
+              ],
+              [
+                "<b>In favor of</b>",
+                "के पक्ष में",
+                "He voted <b>in favor of</b> the plan.",
+                "उसने प्लान <b>के पक्ष में</b> वोट दिया।"
+              ],
+              [
+                "<b>In charge of</b>",
+                "का प्रभारी / जिम्मेदार",
+                "He is <b>in charge of</b> the project.",
+                "वह प्रोजेक्ट <b>का प्रभारी</b> है।"
+              ],
+              [
+                "<b>On account of</b>",
+                "के कारण",
+                "Match cancelled <b>on account of</b> rain.",
+                "बारिश <b>के कारण</b> मैच रद्द हुआ।"
+              ],
+              [
+                "<b>With regard to</b>",
+                "के संबंध में / के बारे में",
+                "<b>With regard to</b> your query...",
+                "आपके प्रश्न <b>के संबंध में</b>..."
+              ],
+              [
+                "<b>In the middle of</b>",
+                "के बीच में",
+                "He woke up <b>in the middle of</b> night.",
+                "वह रात <b>के बीच में</b> जागा।"
+              ],
+              [
+                "<b>At the end of</b>",
+                "के अंत में",
+                "We met <b>at the end of</b> the road.",
+                "हम सड़क <b>के अंत में</b> मिले।"
+              ],
+              [
+                "<b>By means of</b>",
+                "के द्वारा / माध्यम से",
+                "He escaped <b>by means of</b> a ladder.",
+                "वह सीढ़ी <b>के द्वारा</b> भागा।"
+              ],
+              [
+                "<b>In place of</b>",
+                "की जगह",
+                "She attended <b>in place of</b> her father.",
+                "वह पिता <b>की जगह</b> आई।"
+              ],
+              [
+                "<b>In search of</b>",
+                "की तलाश में",
+                "They went <b>in search of</b> water.",
+                "वे पानी <b>की तलाश में</b> गए।"
+              ],
+              [
+                "<b>In terms of</b>",
+                "की दृष्टि से / के संदर्भ में",
+                "<b>In terms of</b> quality, it's best.",
+                "गुणवत्ता <b>की दृष्टि से</b> यह सर्वश्रेष्ठ है।"
+              ],
+              [
+                "<b>For the sake of</b>",
+                "की खातिर",
+                "He did it <b>for the sake of</b> his family.",
+                "उसने परिवार <b>की खातिर</b> किया।"
+              ],
+              [
+                "<b>In order to</b>",
+                "के लिए / ताकि",
+                "He works hard <b>in order to</b> succeed.",
+                "सफल होने <b>के लिए</b> वह मेहनत करता है।"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>याद रखें:</b><br>• <b>Because of</b> vs <b>On account of</b> = दोनों 'के कारण' के लिए<br>• <b>Instead of</b> vs <b>In place of</b> = दोनों 'की जगह' के लिए<br>• <b>In spite of</b> = 'के बावजूद' (Despite के समान अर्थ)"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📝 Summary (सारांश)",
+      "content": [
+        {
+          "type": "list",
+          "content": [
+            "<b>समय:</b> At (निश्चित समय), On (दिन), In (महीना/वर्ष/ऋतु)।",
+            "<b>स्थान:</b> At (बिंदु), On (सतह), In (अंदर)।",
+            "<b>गति:</b> To (की ओर), Into (अंदर की ओर गति), Through (से गुजरना)।",
+            "<b>वाहन:</b> On (Bus/Train/Plane), In (Car/Taxi), By (तरीका)।",
+            "<b>Confusing:</b> Beside (बगल) vs Besides (अलावा), Since (Perfect) vs For (Duration)।",
+            "<b>Fixed:</b> Good at, Afraid of, Listen to, Married to, Wait for।",
+            "<b>No Preposition:</b> Discuss, Enter, Order, Reach, Request, Marry।"
+          ]
+        }
+      ]
+    }
+  ]
+}

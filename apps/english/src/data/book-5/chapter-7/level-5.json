@@ -1,0 +1,155 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Invest",
+      "gujaratiPronunciation": "ઇન્વેસ્ટ",
+      "hindiPronunciation": "इन्वेस्ट",
+      "gujaratiMeaning": "રોકાણ કરવું",
+      "hindiMeaning": "निवेश करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Invest", "gujaratiPronunciation": "ઇન્વેસ્ટ", "hindiPronunciation": "इन्वेस्ट", "gujaratiMeaning": "રોકાણ કરવું", "hindiMeaning": "निवेश करना" },
+        "v2": { "word": "Invested", "gujaratiPronunciation": "ઇન્વેસ્ટેડ", "hindiPronunciation": "इन्वेस्टेड", "gujaratiMeaning": "રોકાણ કર્યું", "hindiMeaning": "निवेश किया" },
+        "v3": { "word": "Invested", "gujaratiPronunciation": "ઇન્વેસ્ટેડ", "hindiPronunciation": "इन्वेस्टेड", "gujaratiMeaning": "રોકાણ કરેલું", "hindiMeaning": "निवेश किया हुआ" },
+        "v4": { "word": "Investing", "gujaratiPronunciation": "ઇન્વેસ્ટિંગ", "hindiPronunciation": "इन्वेस्टिंग", "gujaratiMeaning": "રોકાણ કરી રહ્યું છે", "hindiMeaning": "निवेश कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Fund", "gujaratiPronunciation": "ફંડ", "hindiPronunciation": "फंड", "gujaratiMeaning": "ભંડોળ પૂરું પાડવું", "hindiMeaning": "वित्त पोषण करना" },
+        { "word": "Commit", "gujaratiPronunciation": "કમિટ", "hindiPronunciation": "कमिट", "gujaratiMeaning": "પ્રતિબદ્ધ કરવું", "hindiMeaning": "प्रतिबद्ध करना" }
+      ],
+      "antonyms": [
+        { "word": "Divest", "gujaratiPronunciation": "ડાઇવેસ્ટ", "hindiPronunciation": "डाइवेस्ट", "gujaratiMeaning": "વિનિવેશ કરવો", "hindiMeaning": "विनिवेश करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "She plans to invest in real estate.",
+          "gujaratiTranslation": "તેણી રિયલ એસ્ટેટમાં રોકાણ કરવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "वह रियल एस्टेट में निवेश करने की योजना बना रही है।",
+          "gujaratiPronunciation": "શી પ્લાન્સ ટુ ઇન્વેસ્ટ ઇન રિયલ એસ્ટેટ.",
+          "hindiPronunciation": "शी प्लांस टू इन्वेस्ट इन रियल एस्टेट।"
+        }
+      ]
+    },
+    {
+      "word": "Budget",
+      "gujaratiPronunciation": "બજેટ",
+      "hindiPronunciation": "बजट",
+      "gujaratiMeaning": "અંદાજપત્ર બનાવવું",
+      "hindiMeaning": "बजट बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Budget", "gujaratiPronunciation": "બજેટ", "hindiPronunciation": "बजट", "gujaratiMeaning": "અંદાજપત્ર બનાવવું", "hindiMeaning": "बजट बनाना" },
+        "v2": { "word": "Budgeted", "gujaratiPronunciation": "બજેટેડ", "hindiPronunciation": "बजटेड", "gujaratiMeaning": "અંદાજપત્ર બનાવ્યું", "hindiMeaning": "बजट बनाया" },
+        "v3": { "word": "Budgeted", "gujaratiPronunciation": "બજેટેડ", "hindiPronunciation": "बजटेड", "gujaratiMeaning": "અંદાજપત્ર બનાવેલું", "hindiMeaning": "बजट बनाया हुआ" },
+        "v4": { "word": "Budgeting", "gujaratiPronunciation": "બજેટિંગ", "hindiPronunciation": "बજેटिंग", "gujaratiMeaning": "અંદાજપત્ર બનાવી રહ્યું છે", "hindiMeaning": "बजट बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Allocate", "gujaratiPronunciation": "એલોકેટ", "hindiPronunciation": "एलोकेट", "gujaratiMeaning": "ફાળવવું", "hindiMeaning": "आवंटित करना" },
+        { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "hindiPronunciation": "प्लान", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You need to budget your expenses carefully.",
+          "gujaratiTranslation": "તમારે તમારા ખર્ચાઓનું કાળજીપૂર્વક અંદાજપત્ર બનાવવાની જરૂર છે.",
+          "hindiTranslation": "आपको अपने खर्चों का सावधानीपूर्वक बजट बनाना होगा।",
+          "gujaratiPronunciation": "યુ નીડ ટુ બજેટ યોર એક્સપેન્સીસ કેરફુલી.",
+          "hindiPronunciation": "यू नीड टू बजट योर एक्सपेंसेस केयरफुली।"
+        }
+      ]
+    },
+    {
+      "word": "Finance",
+      "gujaratiPronunciation": "ફાઇનાન્સ",
+      "hindiPronunciation": "फाइनेंस",
+      "gujaratiMeaning": "નાણાકીય વ્યવસ્થા કરવી",
+      "hindiMeaning": "वित्त-व्यवस्था करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Finance", "gujaratiPronunciation": "ફાઇનાન્સ", "hindiPronunciation": "फाइनेंस", "gujaratiMeaning": "નાણાકીય વ્યવસ્થા કરવી", "hindiMeaning": "वित्त-व्यवस्था करना" },
+        "v2": { "word": "Financed", "gujaratiPronunciation": "ફાઇનાન્સ્ડ", "hindiPronunciation": "फाइनेंस्ड", "gujaratiMeaning": "નાણાકીય વ્યવસ્થા કરી", "hindiMeaning": "वित्त-व्यवस्था की" },
+        "v3": { "word": "Financed", "gujaratiPronunciation": "ફાઇનાન્સ્ડ", "hindiPronunciation": "फाइनेंस्ड", "gujaratiMeaning": "નાણાકીય વ્યવસ્થા કરેલી", "hindiMeaning": "वित्त-व्यवस्था की हुई" },
+        "v4": { "word": "Financing", "gujaratiPronunciation": "ફાઇનાન્સિંગ", "hindiPronunciation": "फाइनेंसिंग", "gujaratiMeaning": "નાણાકીય વ્યવસ્થા કરી રહ્યું છે", "hindiMeaning": "वित्त-व्यवस्था कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Fund", "gujaratiPronunciation": "ફંડ", "hindiPronunciation": "फंड", "gujaratiMeaning": "ભંડોળ પૂરું પાડવું", "hindiMeaning": "वित्त पोषण करना" },
+        { "word": "Bankroll", "gujaratiPronunciation": "બેંકરોલ", "hindiPronunciation": "बैंकroll", "gujaratiMeaning": "નાણાંકીય ટેકો આપવો", "hindiMeaning": "वित्तीय सहायता देना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The project was financed by a government grant.",
+          "gujaratiTranslation": "આ પ્રોજેક્ટને સરકારી અનુદાન દ્વારા નાણાકીય વ્યવસ્થા કરવામાં આવી હતી.",
+          "hindiTranslation": "परियोजना को एक सरकारी अनुदान द्वारा वित्तपोषित किया गया था।",
+          "gujaratiPronunciation": "ધ પ્રોજેક્ટ વોઝ ફાઇનાન્સ્ડ બાય અ ગવર્મેન્ટ ગ્રાન્ટ.",
+          "hindiPronunciation": "द प्रोजेक्ट वॉज फाइनेंस्ड बाय अ गवर्नमेंट ग्रांट।"
+        }
+      ]
+    },
+    {
+      "word": "Liquidate",
+      "gujaratiPronunciation": "લિક્વિડેટ",
+      "hindiPronunciation": "लिक्विडेट",
+      "gujaratiMeaning": "ફડચામાં લઈ જવું",
+      "hindiMeaning": "परिसमापन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Liquidate", "gujaratiPronunciation": "લિક્વિડેટ", "hindiPronunciation": "लिक्विडेट", "gujaratiMeaning": "ફડચામાં લઈ જવું", "hindiMeaning": "परिसमापन करना" },
+        "v2": { "word": "Liquidated", "gujaratiPronunciation": "લિક્વિડેટેડ", "hindiPronunciation": "लिक्विडेटेड", "gujaratiMeaning": "ફડચામાં લઈ ગયું", "hindiMeaning": "परिसमापन किया" },
+        "v3": { "word": "Liquidated", "gujaratiPronunciation": "લિક્વિડેટેડ", "hindiPronunciation": "लिक्विडेटेड", "gujaratiMeaning": "ફડચામાં લઈ ગયેલું", "hindiMeaning": "परिसमापन किया हुआ" },
+        "v4": { "word": "Liquidating", "gujaratiPronunciation": "લિક્વિડેટિંગ", "hindiPronunciation": "लिक्विडेटिंग", "gujaratiMeaning": "ફડચામાં લઈ જઈ રહ્યું છે", "hindiMeaning": "परिसमापन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Sell off", "gujaratiPronunciation": "સેલ ઓફ", "hindiPronunciation": "सेल ऑफ", "gujaratiMeaning": "વેચી દેવું", "hindiMeaning": "बेच डालना" },
+        { "word": "Dissolve", "gujaratiPronunciation": "ડિઝોલ્વ", "hindiPronunciation": "डिजॉल्व", "gujaratiMeaning": "વિસર્જન કરવું", "hindiMeaning": "भंग करना" }
+      ],
+      "antonyms": [
+        { "word": "Establish", "gujaratiPronunciation": "એસ્ટાબ્લિશ", "hindiPronunciation": "एस्टैब्लिश", "gujaratiMeaning": "સ્થાપના કરવી", "hindiMeaning": "स्थापित करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company had to liquidate its assets to pay its debts.",
+          "gujaratiTranslation": "કંપનીને તેના દેવા ચૂકવવા માટે તેની મિલકતોને ફડચામાં લઈ જવી પડી.",
+          "hindiTranslation": "कंपनी को अपने कर्ज चुकाने के लिए अपनी संपत्ति का परिसमापन करना पड़ा।",
+          "gujaratiPronunciation": "ધ કંપની હેડ ટુ લિક્વિડેટ ઇટ્સ એસેટ્સ ટુ પે ઇટ્સ ડેટ્સ.",
+          "hindiPronunciation": "द कंपनी हैड टू लिक्विडेट इट्स एसेट्स टू पे इट्स डेट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Reimburse",
+      "gujaratiPronunciation": "રિઇમ્બર્સ",
+      "hindiPronunciation": "रीइम्बर्स",
+      "gujaratiMeaning": "ખર્ચ પરત આપવો",
+      "hindiMeaning": "प्रतिपूर्ति करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Reimburse", "gujaratiPronunciation": "રિઇમ્બર્સ", "hindiPronunciation": "रीइम्बर्स", "gujaratiMeaning": "ખર્ચ પરત આપવો", "hindiMeaning": "प्रतिपूर्ति करना" },
+        "v2": { "word": "Reimbursed", "gujaratiPronunciation": "રિઇમ્બર્સ્ડ", "hindiPronunciation": "रीइम्बर्स्ड", "gujaratiMeaning": "ખર્ચ પરત આપ્યો", "hindiMeaning": "प्रतिपूर्ति की" },
+        "v3": { "word": "Reimbursed", "gujaratiPronunciation": "રિઇમ્બર્સ્ડ", "hindiPronunciation": "रीइम्बर्स्ड", "gujaratiMeaning": "ખર્ચ પરત આપેલો", "hindiMeaning": "प्रतिपूर्ति की हुई" },
+        "v4": { "word": "Reimbursing", "gujaratiPronunciation": "રિઇમ્બર્સિંગ", "hindiPronunciation": "रीइम्बर्सिंग", "gujaratiMeaning": "ખર્ચ પરત આપી રહ્યું છે", "hindiMeaning": "प्रतिपूर्ति कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Repay", "gujaratiPronunciation": "રિપે", "hindiPronunciation": "रिपे", "gujaratiMeaning": "પરત ચૂકવવું", "hindiMeaning": "वापस चुकाना" },
+        { "word": "Refund", "gujaratiPronunciation": "રિફંડ", "hindiPronunciation": "रिफंड", "gujaratiMeaning": "પરત કરવું", "hindiMeaning": "वापस करना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company will reimburse you for your travel expenses.",
+          "gujaratiTranslation": "કંપની તમને તમારા મુસાફરી ખર્ચ પરત કરશે.",
+          "hindiTranslation": "कंपनी आपके यात्रा खर्चों की प्रतिपूर्ति करेगी।",
+          "gujaratiPronunciation": "ધ કંપની વિલ રિઇમ્બર્સ યુ ફોર યોર ટ્રાવેલ એક્સપેન્સીસ.",
+          "hindiPronunciation": "द कंपनी विल रीइम्बर्स यू फॉर योर ट्रैवल एक्सपेंसेस।"
+        }
+      ]
+    }
+  ]
+}

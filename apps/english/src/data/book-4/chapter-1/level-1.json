@@ -1,0 +1,176 @@
+{
+  "id": "level-1",
+  "title": "Level 1: Basic Emotions",
+  "words": [
+    {
+      "word": "Love",
+      "gujaratiPronunciation": "લવ",
+      "hindiPronunciation": "लव",
+      "gujaratiMeaning": "પ્રેમ",
+      "hindiMeaning": "प्यार",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Love", "gujaratiPronunciation": "લવ", "hindiPronunciation": "लव", "gujaratiMeaning": "પ્રેમ કરવો", "hindiMeaning": "प्यार करना" },
+        "V2 (Past)": { "word": "Loved", "gujaratiPronunciation": "લવ્ડ", "hindiPronunciation": "लव्ड", "gujaratiMeaning": "પ્રેમ કર્યો", "hindiMeaning": "प्यार किया" },
+        "V3 (Past Participle)": { "word": "Loved", "gujaratiPronunciation": "લવ્ડ", "hindiPronunciation": "लव्ड", "gujaratiMeaning": "પ્રેમ કરેલો", "hindiMeaning": "प्यार किया हुआ" },
+        "V4 (Present Participle)": { "word": "Loving", "gujaratiPronunciation": "લવિંગ", "hindiPronunciation": "लविंग", "gujaratiMeaning": "પ્રેમ કરતો", "hindiMeaning": "प्यार कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Adore", "gujaratiPronunciation": "અડોર", "hindiPronunciation": "अडोर", "gujaratiMeaning": "આરાધના કરવી", "hindiMeaning": "आराधना करना" },
+        { "word": "Cherish", "gujaratiPronunciation": "ચેરિશ", "hindiPronunciation": "चेरिश", "gujaratiMeaning": "સંઘરવું", "hindiMeaning": "संजोना" }
+      ],
+      "antonyms": [
+        { "word": "Hate", "gujaratiPronunciation": "હેટ", "hindiPronunciation": "हेट", "gujaratiMeaning": "નફરત કરવી", "hindiMeaning": "नफ़रत करना" },
+        { "word": "Detest", "gujaratiPronunciation": "ડિટેસ્ટ", "hindiPronunciation": "डिटेस्ट", "gujaratiMeaning": "ધિક્કારવું", "hindiMeaning": "घृणा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Live", "gujaratiPronunciation": "લિવ", "hindiPronunciation": "लिव", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I love my family.",
+          "gujaratiTranslation": "હું મારા પરિવારને પ્રેમ કરું છું.",
+          "hindiTranslation": "मैं अपने परिवार से प्यार करता हूँ।",
+          "gujaratiPronunciation": "આઈ લવ માય ફેમિલી.",
+          "hindiPronunciation": "आई लव माय फैमिली।"
+        }
+      ]
+    },
+    {
+      "word": "Fear",
+      "gujaratiPronunciation": "ફિયર",
+      "hindiPronunciation": "फियर",
+      "gujaratiMeaning": "ડર",
+      "hindiMeaning": "डर",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Fear", "gujaratiPronunciation": "ફિયર", "hindiPronunciation": "फियर", "gujaratiMeaning": "ડરવું", "hindiMeaning": "डरना" },
+        "V2 (Past)": { "word": "Feared", "gujaratiPronunciation": "ફિયર્ડ", "hindiPronunciation": "फियर्ड", "gujaratiMeaning": "ડર્યો", "hindiMeaning": "डरा" },
+        "V3 (Past Participle)": { "word": "Feared", "gujaratiPronunciation": "ફિયર્ડ", "hindiPronunciation": "फियर्ड", "gujaratiMeaning": "ડરેલો", "hindiMeaning": "डरा हुआ" },
+        "V4 (Present Participle)": { "word": "Fearing", "gujaratiPronunciation": "ફિયરિંગ", "hindiPronunciation": "फियरिंग", "gujaratiMeaning": "ડરતો", "hindiMeaning": "डर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Dread", "gujaratiPronunciation": "ડ્રેડ", "hindiPronunciation": "ड्रेड", "gujaratiMeaning": "ભય", "hindiMeaning": "भय" },
+        { "word": "Terror", "gujaratiPronunciation": "ટેરર", "hindiPronunciation": "टेरर", "gujaratiMeaning": "આંતક", "hindiMeaning": "आतंक" }
+      ],
+      "antonyms": [
+        { "word": "Courage", "gujaratiPronunciation": "કરેજ", "hindiPronunciation": "करेज", "gujaratiMeaning": "હિંમત", "hindiMeaning": "हिम्मत" },
+        { "word": "Bravery", "gujaratiPronunciation": "બ્રેવરી", "hindiPronunciation": "ब्रेवरी", "gujaratiMeaning": "બહાદુરી", "hindiMeaning": "बहादुरी" }
+      ],
+      "confusingWords": [
+        { "word": "Fair", "gujaratiPronunciation": "ફેર", "hindiPronunciation": "फेयर", "gujaratiMeaning": "ગોરો/મેળો", "hindiMeaning": "गोरा/मेला" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He has a fear of heights.",
+          "gujaratiTranslation": "તેને ઊંચાઈનો ડર છે.",
+          "hindiTranslation": "उसे ऊंचाई से डर लगता है।",
+          "gujaratiPronunciation": "હી હેઝ અ ફિયર ઓફ હાઇટ્સ.",
+          "hindiPronunciation": "ही हैज़ अ फियर ऑफ हाइट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Hope",
+      "gujaratiPronunciation": "હોપ",
+      "hindiPronunciation": "होप",
+      "gujaratiMeaning": "આશા",
+      "hindiMeaning": "आशा",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Hope", "gujaratiPronunciation": "હોપ", "hindiPronunciation": "होप", "gujaratiMeaning": "આશા રાખવી", "hindiMeaning": "आशा करना" },
+        "V2 (Past)": { "word": "Hoped", "gujaratiPronunciation": "હોપ્ડ", "hindiPronunciation": "होप्ड", "gujaratiMeaning": "આશા રાખી", "hindiMeaning": "आशा की" },
+        "V3 (Past Participle)": { "word": "Hoped", "gujaratiPronunciation": "હોપ્ડ", "hindiPronunciation": "होप्ड", "gujaratiMeaning": "આશા રાખેલી", "hindiMeaning": "आशा की हुई" },
+        "V4 (Present Participle)": { "word": "Hoping", "gujaratiPronunciation": "હોપિંગ", "hindiPronunciation": "होपिंग", "gujaratiMeaning": "આશા રાખતો", "hindiMeaning": "आशा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Wish", "gujaratiPronunciation": "વિશ", "hindiPronunciation": "विश", "gujaratiMeaning": "ઈચ્છા", "hindiMeaning": "इच्छा" },
+        { "word": "Expect", "gujaratiPronunciation": "એક્સપેક્ટ", "hindiPronunciation": "एक्सपेक्ट", "gujaratiMeaning": "અપેક્ષા રાખવી", "hindiMeaning": "अपेक्षा करना" }
+      ],
+      "antonyms": [
+        { "word": "Despair", "gujaratiPronunciation": "ડેસ્પેર", "hindiPronunciation": "डेस्पेयर", "gujaratiMeaning": "નિરાશા", "hindiMeaning": "निराशा" },
+        { "word": "Hopelessness", "gujaratiPronunciation": "હોપલેસનેસ", "hindiPronunciation": "होपलेसनेस", "gujaratiMeaning": "નિરાશા", "hindiMeaning": "निराशा" }
+      ],
+      "confusingWords": [
+        { "word": "Hop", "gujaratiPronunciation": "હોપ", "hindiPronunciation": "हॉप", "gujaratiMeaning": "કૂદવું", "hindiMeaning": "कूदना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I hope you get well soon.",
+          "gujaratiTranslation": "હું આશા રાખું છું કે તમે જલ્દી સ્વસ્થ થાઓ.",
+          "hindiTranslation": "मुझे आशा है कि आप जल्द ही ठीक हो जाएंगे।",
+          "gujaratiPronunciation": "આઈ હોપ યુ ગેટ વેલ સૂન.",
+          "hindiPronunciation": "आई होप यू गेट वेल सून।"
+        }
+      ]
+    },
+    {
+      "word": "Worry",
+      "gujaratiPronunciation": "વરી",
+      "hindiPronunciation": "वरी",
+      "gujaratiMeaning": "ચિંતા",
+      "hindiMeaning": "चिंता",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Worry", "gujaratiPronunciation": "વરી", "hindiPronunciation": "वरी", "gujaratiMeaning": "ચિંતા કરવી", "hindiMeaning": "चिंता करना" },
+        "V2 (Past)": { "word": "Worried", "gujaratiPronunciation": "વરીડ", "hindiPronunciation": "वरीड", "gujaratiMeaning": "ચિંતા કરી", "hindiMeaning": "चिंता की" },
+        "V3 (Past Participle)": { "word": "Worried", "gujaratiPronunciation": "વરીડ", "hindiPronunciation": "वरीड", "gujaratiMeaning": "ચિંતિત", "hindiMeaning": "चिंतित" },
+        "V4 (Present Participle)": { "word": "Worrying", "gujaratiPronunciation": "વરીઇંગ", "hindiPronunciation": "वरीइंग", "gujaratiMeaning": "ચિંતા કરતો", "hindiMeaning": "चिंता कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Stress", "gujaratiPronunciation": "સ્ટ્રેસ", "hindiPronunciation": "स्ट्रेस", "gujaratiMeaning": "તણાવ", "hindiMeaning": "तनाव" },
+        { "word": "Anxiety", "gujaratiPronunciation": "એન્ગ્ઝાઈટી", "hindiPronunciation": "एंजाइटी", "gujaratiMeaning": "ઉચાટ", "hindiMeaning": "चिंता" }
+      ],
+      "antonyms": [
+        { "word": "Calm", "gujaratiPronunciation": "કામ", "hindiPronunciation": "काम", "gujaratiMeaning": "શાંત", "hindiMeaning": "शांत" },
+        { "word": "Peace", "gujaratiPronunciation": "પીસ", "hindiPronunciation": "पीस", "gujaratiMeaning": "શાંતિ", "hindiMeaning": "शांति" }
+      ],
+      "confusingWords": [
+        { "word": "Hurry", "gujaratiPronunciation": "હરી", "hindiPronunciation": "हरी", "gujaratiMeaning": "ઉતાવળ", "hindiMeaning": "जल्दी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't worry about the small things.",
+          "gujaratiTranslation": "નાની નાની વાતોની ચિંતા ન કરો.",
+          "hindiTranslation": "छोटी-छोटी बातों की चिंता मत करो।",
+          "gujaratiPronunciation": "ડોન્ટ વરી અબાઉટ ધ સ્મોલ થિંગ્સ.",
+          "hindiPronunciation": "डोंट वरी अबाउट द स्मॉल थिंग्स।"
+        }
+      ]
+    },
+    {
+      "word": "Enjoy",
+      "gujaratiPronunciation": "એન્જોય",
+      "hindiPronunciation": "एंजॉय",
+      "gujaratiMeaning": "આનંદ માણવો",
+      "hindiMeaning": "आनंद लेना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Enjoy", "gujaratiPronunciation": "એન્જોય", "hindiPronunciation": "एंजॉय", "gujaratiMeaning": "આનંદ માણવો", "hindiMeaning": "आनंद लेना" },
+        "V2 (Past)": { "word": "Enjoyed", "gujaratiPronunciation": "એન્જોયડ", "hindiPronunciation": "एंजॉयड", "gujaratiMeaning": "આનંદ માણ્યો", "hindiMeaning": "आनंद लिया" },
+        "V3 (Past Participle)": { "word": "Enjoyed", "gujaratiPronunciation": "એન્જોયડ", "hindiPronunciation": "एंजॉयड", "gujaratiMeaning": "આનંદ માણેલો", "hindiMeaning": "आनंद लिया हुआ" },
+        "V4 (Present Participle)": { "word": "Enjoying", "gujaratiPronunciation": "એન્જોયિંગ", "hindiPronunciation": "एंजॉइंग", "gujaratiMeaning": "આનંદ માણી રહ્યો છે", "hindiMeaning": "आनंद ले रहा है" }
+      },
+      "synonyms": [
+        { "word": "Relish", "gujaratiPronunciation": "રેલિશ", "hindiPronunciation": "रैलिश", "gujaratiMeaning": "સ્વાદ માણવો", "hindiMeaning": "स्वाद लेना" },
+        { "word": "Savor", "gujaratiPronunciation": "સેવર", "hindiPronunciation": "सेवर", "gujaratiMeaning": "રસ માણવો", "hindiMeaning": "रस लेना" }
+      ],
+      "antonyms": [
+        { "word": "Suffer", "gujaratiPronunciation": "સફર", "hindiPronunciation": "सफर", "gujaratiMeaning": "પીડાવું", "hindiMeaning": "पीड़ा सहना" },
+        { "word": "Dislike", "gujaratiPronunciation": "ડિસલાઇક", "hindiPronunciation": "डिसलाइक", "gujaratiMeaning": "અણગમો", "hindiMeaning": "नापसंद करना" }
+      ],
+      "confusingWords": [
+        { "word": "Annoy", "gujaratiPronunciation": "અનોય", "hindiPronunciation": "एनॉय", "gujaratiMeaning": "પરેશાન કરવું", "hindiMeaning": "परेशान करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I enjoy playing cricket.",
+          "gujaratiTranslation": "મને ક્રિકેટ રમવાનો આનંદ આવે છે.",
+          "hindiTranslation": "मुझे क्रिकेट खेलने में आनंद आता है।",
+          "gujaratiPronunciation": "આઈ એન્જોય પ્લેઇંગ ક્રિકેટ.",
+          "hindiPronunciation": "आई एंजॉय प्लेइंग क्रिकेट।"
+        }
+      ]
+    }
+  ]
+}

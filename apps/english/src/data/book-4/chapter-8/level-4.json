@@ -1,0 +1,146 @@
+
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Masticate",
+            "gujaratiPronunciation": "મેસ્ટિકેટ",
+            "hindiPronunciation": "मैस्टिकेट",
+            "gujaratiMeaning": "ચાવવું",
+            "hindiMeaning": "चबाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Masticate", "gujaratiPronunciation": "મેસ્ટિકેટ", "hindiPronunciation": "मैस्टिकेट", "gujaratiMeaning": "ચાવવું", "hindiMeaning": "चबाना" },
+                "V2 (Past)": { "word": "Masticated", "gujaratiPronunciation": "મેસ્ટિકેટેડ", "hindiPronunciation": "मैस्टिकेटेड", "gujaratiMeaning": "ચાવ્યું", "hindiMeaning": "चबाया" },
+                "V3 (Past Participle)": { "word": "Masticated", "gujaratiPronunciation": "મેસ્ટિકેટેડ", "hindiPronunciation": "मैस्टिकेटेड", "gujaratiMeaning": "ચાવેલું", "hindiMeaning": "चबाया हुआ" },
+                "V4 (Present Participle)": { "word": "Masticating", "gujaratiPronunciation": "મેસ્ટિકેટિંગ", "hindiPronunciation": "मैस्टिकेटिंग", "gujaratiMeaning": "ચાવી રહ્યું છે", "hindiMeaning": "चबा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Chew", "gujaratiPronunciation": "ચ્યુ", "hindiPronunciation": "च्यू", "gujaratiMeaning": "ચાવવું", "hindiMeaning": "चबाना" },
+                { "word": "Grind", "gujaratiPronunciation": "ગ્રાઇન્ડ", "hindiPronunciation": "ग्राइंड", "gujaratiMeaning": "પીસવું", "hindiMeaning": "पीसना" }
+            ],
+            "antonyms": [
+                { "word": "Swallow", "gujaratiPronunciation": "સ્વેલો", "hindiPronunciation": "स्वैलो", "gujaratiMeaning": "ગળી જવું", "hindiMeaning": "निगलना" }
+            ],
+            "confusingWords": [
+                { "word": "Medicate", "gujaratiPronunciation": "મેડિકેટ", "hindiPronunciation": "मेडिकेट", "gujaratiMeaning": "દવા આપવી", "hindiMeaning": "दवा देना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "It is important to masticate your food thoroughly.", "gujaratiTranslation": "તમારો ખોરાક સારી રીતે ચાવવો મહત્વપૂર્ણ છે.", "hindiTranslation": "अपने भोजन को अच्छी तरह से चबाना महत्वपूर्ण है।", "gujaratiPronunciation": "ઈટ ઈઝ ઈમ્પોર્ટન્ટ ટુ મેસ્ટિકેટ યોર ફૂડ થરલી.", "hindiPronunciation": "इट इज़ इम्पोर्टेंट टू मैस्टिकेट योर फ़ूड थरली।" }
+            ]
+        },
+        {
+            "word": "Infuse",
+            "gujaratiPronunciation": "ઇન્ફ્યુઝ",
+            "hindiPronunciation": "इन्फ्यूज़",
+            "gujaratiMeaning": "પલાળીને સત્વ ઉતારવું, મનમાં ઠસાવવું",
+            "hindiMeaning": "भिगोकर सत्व निकालना, मन में बिठाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Infuse", "gujaratiPronunciation": "ઇન્ફ્યુઝ", "hindiPronunciation": "इन्फ्यूज़", "gujaratiMeaning": "સત્વ ઉતારવું", "hindiMeaning": "सत्व निकालना" },
+                "V2 (Past)": { "word": "Infused", "gujaratiPronunciation": "ઇન્ફ્યુઝ્ડ", "hindiPronunciation": "इन्फ्यूज्ड", "gujaratiMeaning": "સત્વ ઉતાર્યું", "hindiMeaning": "सत्व निकाला" },
+                "V3 (Past Participle)": { "word": "Infused", "gujaratiPronunciation": "ઇન્ફ્યુઝ્ડ", "hindiPronunciation": "इन्फ्यूज्ड", "gujaratiMeaning": "સત્વ ઉતારેલું", "hindiMeaning": "सत्व निकाला हुआ" },
+                "V4 (Present Participle)": { "word": "Infusing", "gujaratiPronunciation": "ઇન્ફ્યુઝિંગ", "hindiPronunciation": "इन्फ्यूजिंग", "gujaratiMeaning": "સત્વ ઉતારી રહ્યું છે", "hindiMeaning": "सत्व निकाल रहा है" }
+            },
+            "synonyms": [
+                { "word": "Steep", "gujaratiPronunciation": "સ્ટીપ", "hindiPronunciation": "स्टीप", "gujaratiMeaning": "પલાળવું", "hindiMeaning": "भिगोना" },
+                { "word": "Imbue", "gujaratiPronunciation": "ઈમ્બ્યુ", "hindiPronunciation": "इंब्यू", "gujaratiMeaning": "રંગવું", "hindiMeaning": "रंगना" }
+            ],
+            "antonyms": [
+                { "word": "Extract", "gujaratiPronunciation": "એક્સટ્રેક્ટ", "hindiPronunciation": "एक्सट्रेक्ट", "gujaratiMeaning": "બહાર કાઢવું", "hindiMeaning": "निकालना" },
+                { "word": "Remove", "gujaratiPronunciation": "રિમૂવ", "hindiPronunciation": "रिमूव", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" }
+            ],
+            "confusingWords": [
+                { "word": "Refuse", "gujaratiPronunciation": "રિફ્યુઝ", "hindiPronunciation": "रिफ्यूज़", "gujaratiMeaning": "ના પાડવી", "hindiMeaning": "मना करना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "She infused the water with lemon and mint.", "gujaratiTranslation": "તેણીએ પાણીમાં લીંબુ અને ફુદીનો પલાળીને સત્વ ઉતાર્યું.", "hindiTranslation": "उसने पानी में नींबू और पुदीना डालकर उसका सत्व निकाला।", "gujaratiPronunciation": "શી ઇન્ફ્યુઝ્ડ ધ વોટર વિથ લેમન એન્ડ મિન્ટ.", "hindiPronunciation": "शी इन्फ्यूज्ड द वॉटर विद लेमन एंड मिंट।" }
+            ]
+        },
+        {
+            "word": "Blanch",
+            "gujaratiPronunciation": "બ્લાન્ચ",
+            "hindiPronunciation": "ब्लांच",
+            "gujaratiMeaning": "ગરમ પાણીમાં ઉકાળીને તરત ઠંડા પાણીમાં નાખવું",
+            "hindiMeaning": "गर्म पानी में उबालकर तुरंत ठंडे पानी में डालना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Blanch", "gujaratiPronunciation": "બ્લાન્ચ", "hindiPronunciation": "ब्लांच", "gujaratiMeaning": "ઉકાળીને ઠંડુ કરવું", "hindiMeaning": "उबालकर ठंडा करना" },
+                "V2 (Past)": { "word": "Blanched", "gujaratiPronunciation": "બ્લાન્ચ્ડ", "hindiPronunciation": "ब्लांच्ड", "gujaratiMeaning": "ઉકાળીને ઠંડુ કર્યું", "hindiMeaning": "उबालकर ठंडा किया" },
+                "V3 (Past Participle)": { "word": "Blanched", "gujaratiPronunciation": "બ્લાન્ચ્ડ", "hindiPronunciation": "ब्लांच्ड", "gujaratiMeaning": "ઉકાળીને ઠંડુ કરેલું", "hindiMeaning": "उबालकर ठंडा किया हुआ" },
+                "V4 (Present Participle)": { "word": "Blanching", "gujaratiPronunciation": "બ્લાન્ચિંગ", "hindiPronunciation": "ब्लांचिंग", "gujaratiMeaning": "ઉકાળીને ઠંડુ કરી રહ્યું છે", "hindiMeaning": "उबालकर ठंडा कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Parboil", "gujaratiPronunciation": "પારબોઈલ", "hindiPronunciation": "पारबॉइल", "gujaratiMeaning": "અધકચરું બાફવું", "hindiMeaning": "अधपका उबालना" }
+            ],
+            "antonyms": [
+                { "word": "Roast", "gujaratiPronunciation": "રોસ્ટ", "hindiPronunciation": "रोस्ट", "gujaratiMeaning": "ભૂંજવું", "hindiMeaning": "भूनना" },
+                { "word": "Brown", "gujaratiPronunciation": "બ્રાઉન", "hindiPronunciation": "ब्राउन", "gujaratiMeaning": "શેકીને બદામી કરવું", "hindiMeaning": "भूनकर भूरा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Branch", "gujaratiPronunciation": "બ્રાન્ચ", "hindiPronunciation": "ब्रांच", "gujaratiMeaning": "શાખા", "hindiMeaning": "शाखा" }
+            ],
+            "exampleSentences": [
+                { "sentence": "You need to blanch the almonds to remove their skins.", "gujaratiTranslation": "બદામની છાલ ઉતારવા માટે તમારે તેને બ્લાન્ચ કરવાની જરૂર છે.", "hindiTranslation": "बादाम के छिलके उतारने के लिए आपको उन्हें ब्लांच करने की आवश्यकता है।", "gujaratiPronunciation": "યુ નીડ ટુ બ્લાન્ચ ધ આલમન્ડ્સ ટુ રીમૂવ ધેર સ્કિન્સ.", "hindiPronunciation": "यू नीड टू ब्लांच द आमंड्स टू रिमूव देयर स्किन्स।" }
+            ]
+        },
+        {
+            "word": "Prepare",
+            "gujaratiPronunciation": "પ્રિપેર",
+            "hindiPronunciation": "प्रिपेयर",
+            "gujaratiMeaning": "તૈયાર કરવું",
+            "hindiMeaning": "तैयार करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Prepare", "gujaratiPronunciation": "પ્રિપેર", "hindiPronunciation": "प्रिपेयर", "gujaratiMeaning": "તૈયાર કરવું", "hindiMeaning": "तैयार करना" },
+                "V2 (Past)": { "word": "Prepared", "gujaratiPronunciation": "પ્રિપેર્ડ", "hindiPronunciation": "प्रिपेयर्ड", "gujaratiMeaning": "તૈયાર કર્યું", "hindiMeaning": "तैयार किया" },
+                "V3 (Past Participle)": { "word": "Prepared", "gujaratiPronunciation": "પ્રિપેર્ડ", "hindiPronunciation": "प्रिपेयर्ड", "gujaratiMeaning": "તૈયાર કરેલું", "hindiMeaning": "तैयार किया हुआ" },
+                "V4 (Present Participle)": { "word": "Preparing", "gujaratiPronunciation": "પ્રિપેરિંગ", "hindiPronunciation": "प्रिपेयरिंग", "gujaratiMeaning": "તૈયાર કરી રહ્યું છે", "hindiMeaning": "तैयार कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Make ready", "gujaratiPronunciation": "મેક રેડી", "hindiPronunciation": "मेक रेडी", "gujaratiMeaning": "તૈયાર કરવું", "hindiMeaning": "तैयार करना" },
+                { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઈઝ", "hindiPronunciation": "ऑर्गेनाइज़", "gujaratiMeaning": "આયોજન કરવું", "hindiMeaning": "आयोजन करना" }
+            ],
+            "antonyms": [
+                { "word": "Dismantle", "gujaratiPronunciation": "ડિસમેન્ટલ", "hindiPronunciation": "डिसमेंटल", "gujaratiMeaning": "વિખેરી નાખવું", "hindiMeaning": "तोड़ना" },
+                { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "उपेक्षा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Repair", "gujaratiPronunciation": "રિપેર", "hindiPronunciation": "रिपेयर", "gujaratiMeaning": "સમારકામ કરવું", "hindiMeaning": "मरम्मत करना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "He is preparing dinner for his family.", "gujaratiTranslation": "તે તેના પરિવાર માટે રાત્રિભોજન તૈયાર કરી રહ્યો છે.", "hindiTranslation": "वह अपने परिवार के लिए रात का खाना तैयार कर रहा है।", "gujaratiPronunciation": "હી ઈઝ પ્રિપેરિંગ ડિનર ફોર હિઝ ફેમિલી.", "hindiPronunciation": "ही इज़ प्रिपेयरिंग डिनर फॉर हिज़ फैमिली।" }
+            ]
+        },
+        {
+            "word": "Ingest",
+            "gujaratiPronunciation": "ઇન્જેસ્ટ",
+            "hindiPronunciation": "इन्जेस्ट",
+            "gujaratiMeaning": "ગ્રહણ કરવું, ખાવું",
+            "hindiMeaning": "ग्रहण करना, खाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Ingest", "gujaratiPronunciation": "ઇન્જેસ્ટ", "hindiPronunciation": "इन्जेस्ट", "gujaratiMeaning": "ગ્રહણ કરવું", "hindiMeaning": "ग्रहण करना" },
+                "V2 (Past)": { "word": "Ingested", "gujaratiPronunciation": "ઇન્જેસ્ટેડ", "hindiPronunciation": "इन्जेस्टेड", "gujaratiMeaning": "ગ્રહણ કર્યું", "hindiMeaning": "ग्रहण किया" },
+                "V3 (Past Participle)": { "word": "Ingested", "gujaratiPronunciation": "ઇન્જેસ્ટેડ", "hindiPronunciation": "इन्जेस्टेड", "gujaratiMeaning": "ગ્રહણ કરેલું", "hindiMeaning": "ग्रहण किया हुआ" },
+                "V4 (Present Participle)": { "word": "Ingesting", "gujaratiPronunciation": "ઇન્જેસ્ટિંગ", "hindiPronunciation": "इन्जेस्टिंग", "gujaratiMeaning": "ગ્રહણ કરી રહ્યું છે", "hindiMeaning": "ग्रहण कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Consume", "gujaratiPronunciation": "કન્ઝ્યુમ", "hindiPronunciation": "कंज्यूम", "gujaratiMeaning": "વપરાશ કરવો", "hindiMeaning": "उपभोग करना" },
+                { "word": "Swallow", "gujaratiPronunciation": "સ્વેલો", "hindiPronunciation": "स्वैलो", "gujaratiMeaning": "ગળી જવું", "hindiMeaning": "निगलना" }
+            ],
+            "antonyms": [
+                { "word": "Excrete", "gujaratiPronunciation": "એક્સક્રીટ", "hindiPronunciation": "एक्सक्रीट", "gujaratiMeaning": "બહાર કાઢવું", "hindiMeaning": "मलत्याग करना" },
+                { "word": "Eject", "gujaratiPronunciation": "ઈજેક્ટ", "hindiPronunciation": "इजेक्ट", "gujaratiMeaning": "બહાર ફેંકવું", "hindiMeaning": "बाहर फेंकना" }
+            ],
+            "confusingWords": [
+                { "word": "Invest", "gujaratiPronunciation": "ઇન્વેસ્ટ", "hindiPronunciation": "इन्वेस्ट", "gujaratiMeaning": "રોકાણ કરવું", "hindiMeaning": "निवेश करना" },
+                { "word": "Suggest", "gujaratiPronunciation": "સજેસ્ટ", "hindiPronunciation": "सजेस्ट", "gujaratiMeaning": "સૂચન કરવું", "hindiMeaning": "सुझाव देना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Do not ingest the cleaning solution; it is toxic.", "gujaratiTranslation": "સફાઈનું દ્રાવણ ગ્રહણ કરશો નહીં; તે ઝેરી છે.", "hindiTranslation": "सफाई के घोल का सेवन न करें; यह जहरीला है।", "gujaratiPronunciation": "ડુ નોટ ઇન્જેસ્ટ ધ ક્લિનિંગ સોલ્યુશન; ઈટ ઈઝ ટોક્સિક.", "hindiPronunciation": "डू नॉट इन्जेस्ट द क्लीनिंग सॉल्यूशन; इट इज़ टॉक्सिक।" }
+            ]
+        }
+    ]
+}

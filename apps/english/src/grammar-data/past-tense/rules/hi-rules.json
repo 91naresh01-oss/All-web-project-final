@@ -1,0 +1,611 @@
+{
+    "id": "past-tense-hi",
+    "title": "Past Tense (भूतकाल)",
+    "description": "Comprehensive guide to all forms of Past Tense with detailed rules, examples, and exceptions.",
+    "content": [
+        {
+            "type": "section",
+            "title": "1. Simple Past Tense (सामान्य भूतकाल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions that happened and finished in the past.<br>भूतकाल में पूरी हुई क्रियाओं, ऐतिहासिक घटनाओं या भूतकाल की आदतों को दर्शाने के लिए उपयोग किया जाता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण"
+                        ],
+                        "rows": [
+                            [
+                                "सकारात्मक (+)",
+                                "Subject + V2 + Object",
+                                "He **played** cricket yesterday."
+                            ],
+                            [
+                                "नकारात्मक (-)",
+                                "Subject + did not + V1 + Object",
+                                "He **did not play** cricket."
+                            ],
+                            [
+                                "प्रश्नवाचक (?)",
+                                "Did + Subject + V1 + Object?",
+                                "**Did** he **play** cricket?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "section",
+                    "title": "Rules for 'V2' (Regular Verbs - ed rules)",
+                    "content": [
+                        {
+                            "type": "note",
+                            "content": "आम तौर पर क्रिया (Verb) में **'ed'** लगाने से उसका भूतकाल रूप (V2) बनता है, लेकिन इसके कुछ नियम हैं।"
+                        },
+                        {
+                            "type": "table",
+                            "content": {
+                                "title": "ED Rules",
+                                "headers": [
+                                    "Rule (नियम)",
+                                    "Condition (शर्त)",
+                                    "Example (उदाहरण)"
+                                ],
+                                "rows": [
+                                    [
+                                        "Add '-ed'",
+                                        "Most verbs",
+                                        "play → play**ed**, visit → visit**ed**, work → work**ed**"
+                                    ],
+                                    [
+                                        "Add '-d'",
+                                        "If verb ends in **'e'**",
+                                        "like → like**d**, love → love**d**, use → use**d**"
+                                    ],
+                                    [
+                                        "Change 'y' to 'ied'",
+                                        "If ends in **consonant + y**",
+                                        "cry → cr**ied**, try → tr**ied**, study → stud**ied**"
+                                    ],
+                                    [
+                                        "Double consonant + 'ed'",
+                                        "CVC rule (Stop, Plan)",
+                                        "stop → stop**ped**, plan → plan**ned**, admit → admit**ted**"
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "content": "<b>Irregular Verbs (अनियमित रूप):</b><br>ये याद रखने पड़ते हैं: Go → Went, Eat → Ate, Buy → Bought, Sing → Sang, See → Saw, Write → Wrote."
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words (पहचान वाले शब्द)",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "Yesterday, Last week/month/year/Sunday, Ago, Once, In the past, In 2010, Long long ago, Just now."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. I visited the zoo yesterday.",
+                            "translation": "(मैंने कल चिड़ियाघर का दौरा किया।)"
+                        },
+                        {
+                            "text": "2. She cooked delicious food.",
+                            "translation": "(उसने स्वादिष्ट खाना बनाया।)"
+                        },
+                        {
+                            "text": "3. We did not go to school last Monday.",
+                            "translation": "(हम पिछले सोमवार स्कूल नहीं गए थे।)"
+                        },
+                        {
+                            "text": "4. Did you see the Taj Mahal?",
+                            "translation": "(क्या आपने ताजमहल देखा?)"
+                        },
+                        {
+                            "text": "5. India won the match.",
+                            "translation": "(भारत ने मैच जीता।)"
+                        },
+                        {
+                            "text": "6. Gandhiji was born in 1869.",
+                            "translation": "(गांधीजी का जन्म 1869 में हुआ था।)"
+                        },
+                        {
+                            "text": "7. He lived in London for 5 years.",
+                            "translation": "(वह 5 साल लंदन में रहा।)"
+                        },
+                        {
+                            "text": "8. They bought a new car.",
+                            "translation": "(उन्होंने नई कार खरीदी।)"
+                        },
+                        {
+                            "text": "9. Did he help you?",
+                            "translation": "(क्या उसने तुम्हारी मदद की?)"
+                        },
+                        {
+                            "text": "10. I met him two days ago.",
+                            "translation": "(मैं उसे दो दिन पहले मिला था।)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2. Past Continuous Tense (निरंतर भूतकाल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions that were happening at a specific time in the past.<br>भूतकाल में किसी विशेष समय पर कोई क्रिया चल रही थी, यह दर्शाने के लिए उपयोग किया जाता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण"
+                        ],
+                        "rows": [
+                            [
+                                "सकारात्मक (+)",
+                                "Sub + was/were + V-ing",
+                                "She **was reading**."
+                            ],
+                            [
+                                "नकारात्मक (-)",
+                                "Sub + was/were + not + V-ing",
+                                "She **was not reading**."
+                            ],
+                            [
+                                "प्रश्नवाचक (?)",
+                                "Was/Were + Sub + V-ing?",
+                                "**Was** she **reading**?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "section",
+                    "title": "Was / Were Rules",
+                    "content": [
+                        {
+                            "type": "table",
+                            "content": {
+                                "title": "To Be (Past)",
+                                "headers": [
+                                    "Subject (कर्ता)",
+                                    "Verb (क्रिया)"
+                                ],
+                                "rows": [
+                                    [
+                                        "I, He, She, It, Singular Name (एकवचन)",
+                                        "was"
+                                    ],
+                                    [
+                                        "We, You, They, Plural Names (बहुवचन)",
+                                        "were"
+                                    ]
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "While, When, At that time, At that moment, All day yesterday, Then."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. I was watching TV at 8 PM.",
+                            "translation": "(मैं रात 8 बजे टीवी देख रहा था।)"
+                        },
+                        {
+                            "text": "2. Birds were flying in the sky.",
+                            "translation": "(पक्षी आकाश में उड़ रहे थे।)"
+                        },
+                        {
+                            "text": "3. While I was reading, she was cooking.",
+                            "translation": "(जब मैं पढ़ रहा था, वह खाना बना रही थी।)"
+                        },
+                        {
+                            "text": "4. They were not playing cricket.",
+                            "translation": "(वे क्रिकेट नहीं खेल रहे थे।)"
+                        },
+                        {
+                            "text": "5. Were you sleeping when I called?",
+                            "translation": "(क्या जब मैंने कॉल किया तो आप सो रहे थे?)"
+                        },
+                        {
+                            "text": "6. The teacher was teaching English.",
+                            "translation": "(शिक्षक अंग्रेजी पढ़ा रहे थे।)"
+                        },
+                        {
+                            "text": "7. It was raining heavily yesterday.",
+                            "translation": "(कल भारी बारिश हो रही थी।)"
+                        },
+                        {
+                            "text": "8. We were waiting for the bus.",
+                            "translation": "(हम बस का इंतजार कर रहे थे।)"
+                        },
+                        {
+                            "text": "9. Why were you laughing?",
+                            "translation": "(तुम क्यों हंस रहे थे?)"
+                        },
+                        {
+                            "text": "10. He was walking in the garden.",
+                            "translation": "(वह बगीचे में चल रहा था।)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3. Past Perfect Tense (पूर्ण भूतकाल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions completed before another action in the past.<br>भूतकाल में हुई दो क्रियाओं में से जो क्रिया **पहले** पूरी हुई हो, उसके लिए उपयोग किया जाता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण"
+                        ],
+                        "rows": [
+                            [
+                                "सकारात्मक (+)",
+                                "Sub + had + V3",
+                                "I **had finished** work."
+                            ],
+                            [
+                                "नकारात्मक (-)",
+                                "Sub + had + not + V3",
+                                "I **had not finished**."
+                            ],
+                            [
+                                "प्रश्नवाचक (?)",
+                                "Had + Sub + V3?",
+                                "**Had** you **finished**?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Before & After Rule:</b><br>• 1st Action (पहले हुई) → <b>Past Perfect (Had + V3)</b><br>• 2nd Action (बाद में हुई) → <b>Simple Past (V2)</b>"
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "Before, After, When, Already, By the time, Till, Until."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. The train had left before we reached the station.",
+                            "translation": "(हमारे स्टेशन पहुंचने से पहले ट्रेन निकल चुकी थी।)"
+                        },
+                        {
+                            "text": "2. I had already finished my homework.",
+                            "translation": "(मैंने अपना होमवर्क पहले ही पूरा कर लिया था।)"
+                        },
+                        {
+                            "text": "3. The patient had died before the doctor came.",
+                            "translation": "(डॉक्टर के आने से पहले मरीज मर चुका था।)"
+                        },
+                        {
+                            "text": "4. She did not eat because she had already eaten.",
+                            "translation": "(उसने नहीं खाया क्योंकि वह पहले ही खा चुकी थी।)"
+                        },
+                        {
+                            "text": "5. Had you seen him before?",
+                            "translation": "(क्या आपने उसे पहले देखा था?)"
+                        },
+                        {
+                            "text": "6. After they had gone, I sat down.",
+                            "translation": "(उनके जाने के बाद, मैं बैठ गया।)"
+                        },
+                        {
+                            "text": "7. We reached the cinema after the movie had started.",
+                            "translation": "(फिल्म शुरू होने के बाद हम सिनेमा पहुंचे।)"
+                        },
+                        {
+                            "text": "8. He realized that he had lost his wallet.",
+                            "translation": "(उसे एहसास हुआ कि उसने अपना बटुआ खो दिया है।)"
+                        },
+                        {
+                            "text": "9. I had never visited such a beautiful place.",
+                            "translation": "(मैंने कभी इतनी सुंदर जगह का दौरा नहीं किया था।)"
+                        },
+                        {
+                            "text": "10. By the time I arrived, the party had ended.",
+                            "translation": "(मेरे पहुंचने तक, पार्टी खत्म हो चुकी थी।)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4. Past Perfect Continuous Tense (पूर्ण निरंतर भूतकाल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions that started in the past and continued for some time in the past.<br>भूतकाल में शुरू होकर भूतकाल में ही कुछ समय तक चली क्रिया।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण"
+                        ],
+                        "rows": [
+                            [
+                                "सकारात्मक (+)",
+                                "Sub + had been + V-ing",
+                                "It **had been raining**."
+                            ],
+                            [
+                                "नकारात्मक (-)",
+                                "Sub + had not been + V-ing",
+                                "It **had not been raining**."
+                            ],
+                            [
+                                "प्रश्नवाचक (?)",
+                                "Had + Sub + been + V-ing?",
+                                "**Had** it **been raining**?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "Since, For, How long, Before, When."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. He had been working there for 10 years.",
+                            "translation": "(वह वहां 10 साल से काम कर रहा था।)"
+                        },
+                        {
+                            "text": "2. It had been raining since morning.",
+                            "translation": "(सुबह से बारिश हो रही थी।)"
+                        },
+                        {
+                            "text": "3. They had been playing cricket for 2 hours.",
+                            "translation": "(वे 2 घंटे से क्रिकेट खेल रहे थे।)"
+                        },
+                        {
+                            "text": "4. I had been waiting for you since 4 PM.",
+                            "translation": "(मैं शाम 4 बजे से तुम्हारा इंतजार कर रहा था।)"
+                        },
+                        {
+                            "text": "5. She was tired because she had been running.",
+                            "translation": "(वह थक गई थी क्योंकि वह दौड़ रही थी।)"
+                        },
+                        {
+                            "text": "6. Had you been waiting long?",
+                            "translation": "(क्या आप लंबे समय से इंतजार कर रहे थे?)"
+                        },
+                        {
+                            "text": "7. The child had been crying for an hour.",
+                            "translation": "(बच्चा एक घंटे से रो रहा था।)"
+                        },
+                        {
+                            "text": "8. We had been living in that house since 2005.",
+                            "translation": "(हम 2005 से उस घर में रह रहे थे।)"
+                        },
+                        {
+                            "text": "9. Why had you been crying?",
+                            "translation": "(तुम क्यों रो रहे थे?)"
+                        },
+                        {
+                            "text": "10. He had been trying to fix the car all day.",
+                            "translation": "(वह पूरा दिन कार ठीक करने की कोशिश कर रहा था।)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary_table": {
+        "title": "Past Tense Summary (भूतकाल सारांश)",
+        "headers": [
+            "Tense (काल)",
+            "When Used (कब प्रयोग करें?)",
+            "Key Words (शब्द)",
+            "Example (उदाहरण)"
+        ],
+        "rows": [
+            {
+                "tense_name": "Simple Past (सामान्य भूतकाल)",
+                "usage": "भूतकाल में पूर्ण हुई क्रियाओं या ऐतिहासिक घटनाओं के लिए।",
+                "keywords": "Yesterday, Last week, Ago",
+                "example": "I played cricket. (मैंने क्रिकेट खेला।)"
+            },
+            {
+                "tense_name": "Past Continuous (निरंतर भूतकाल)",
+                "usage": "भूतकाल में किसी समय चल रही क्रिया को दर्शाने के लिए।",
+                "keywords": "While, When, At that time",
+                "example": "I was playing cricket. (मैं क्रिकेट खेल रहा था।)"
+            },
+            {
+                "tense_name": "Past Perfect (पूर्ण भूतकाल)",
+                "usage": "भूतकाल में किसी अन्य क्रिया से पहले पूर्ण हुई क्रिया के लिए।",
+                "keywords": "Before, After, Already",
+                "example": "I had played cricket. (मैंने क्रिकेट खेल लिया था।)"
+            },
+            {
+                "tense_name": "Past Perfect Continuous (पूर्ण निरंतर भूतकाल)",
+                "usage": "भूतकाल में शुरू होकर कुछ समय तक चली क्रिया के लिए।",
+                "keywords": "Since, For",
+                "example": "I had been playing for 2 hours. (मैं 2 घंटे से खेल रहा था।)"
+            }
+        ]
+    },
+    "confusion_section": {
+        "title": "Common Confusions (सामान्य भ्रम)",
+        "items": [
+            {
+                "title": "Simple Past vs Present Perfect",
+                "comparison": [
+                    {
+                        "tense": "Simple Past",
+                        "note": "क्रिया पूरी हो चुकी है और समय भी बीत चुका है। (Yesterday, Last year)",
+                        "example": "I visited Taj Mahal last year. (मैंने पिछले साल दौरा किया)"
+                    },
+                    {
+                        "tense": "Present Perfect",
+                        "note": "क्रिया पूरी हो चुकी है लेकिन उसका प्रभाव या समय अभी भी है। (Just now, Yet)",
+                        "example": "I have visited Taj Mahal. (मैं ताज महल देख चुका हूँ - अनुभव साथ है)"
+                    }
+                ],
+                "extra_examples": [
+                    {
+                        "sentence": "I saw him yesterday. (मैंने उसे कल देखा)",
+                        "explanation": "Simple Past: Specific past time (yesterday) is given."
+                    },
+                    {
+                        "sentence": "I have seen him recently. (मैंने उसे हाल ही में देखा है)",
+                        "explanation": "Present Perfect: Time is not specific, effect is present."
+                    },
+                    {
+                        "sentence": "She lived in India in 2010. (वह 2010 में भारत में रहती थी)",
+                        "explanation": "Simple Past: Period is over."
+                    },
+                    {
+                        "sentence": "She has lived in India for 10 years. (वह 10 साल से भारत में रह रही है)",
+                        "explanation": "Present Perfect: Still living or life experience."
+                    },
+                    {
+                        "sentence": "Did you lock the door? (क्या तुमने दरवाजा बंद किया?)",
+                        "explanation": "Simple Past: Focus on the action."
+                    }
+                ]
+            },
+            {
+                "title": "Sequence: Past Perfect + Simple Past (Before/After)",
+                "comparison": [
+                    {
+                        "tense": "Past Perfect (1st Action)",
+                        "note": "भूतकाल की दो क्रियाओं में से जो क्रिया **पहले** पूरी हुई।",
+                        "example": "The train **had left** before I reached. (मेरे पहुँचने से पहले ट्रेन जा चुकी थी)"
+                    },
+                    {
+                        "tense": "Simple Past (2nd Action)",
+                        "note": "भूतकाल में जो क्रिया **बाद** में पूरी हुई।",
+                        "example": "I **reached** the station. (मैं स्टेशन पहुँचा)"
+                    }
+                ],
+                "extra_examples": [
+                    {
+                        "sentence": "The patient had died before the doctor came. (डॉक्टर के आने से पहले मरीज मर चुका था)",
+                        "explanation": "Action 1 (First): Patient died | Action 2: Doctor came"
+                    },
+                    {
+                        "sentence": "I had already finished thanks to him. (मैंने पहले ही पूरा कर लिया था)",
+                        "explanation": "Action completed before another past moment."
+                    },
+                    {
+                        "sentence": "When I reached the cinema, the movie had started. (जब मैं सिनेमा पहुँचा, फिल्म शुरू हो चुकी थी)",
+                        "explanation": "Movie started FIRST, then I reached."
+                    },
+                    {
+                        "sentence": "She said that she had bought a car. (उसने कहा कि उसने कार खरीद ली थी)",
+                        "explanation": "Buying car happened BEFORE saying."
+                    },
+                    {
+                        "sentence": "After he had eaten, he went to sleep. (खाना खाने के बाद वह सो गया)",
+                        "explanation": "Eating happened first."
+                    }
+                ]
+            },
+            {
+                "title": "Sequence: Past Continuous + Simple Past (When/While)",
+                "comparison": [
+                    {
+                        "tense": "Past Continuous (Long Action)",
+                        "note": "लंबी क्रिया जो चल रही थी।",
+                        "example": "I **was reading** when he came. (जब वह आया तब मैं पढ़ रहा था)"
+                    },
+                    {
+                        "tense": "Simple Past (Short Action)",
+                        "note": "छोटी क्रिया जो बीच में हुई (Interruption)।",
+                        "example": "He **came**. (वह आया)"
+                    }
+                ],
+                "extra_examples": [
+                    {
+                        "sentence": "I was sleeping when the phone rang. (जब फोन बजा तब मैं सो रहा था)",
+                        "explanation": "Long action interrupted by short action."
+                    },
+                    {
+                        "sentence": "The lights went out while we were studying. (जब हम पढ़ रहे थे तब बत्ती चली गई)",
+                        "explanation": "Studying was in progress."
+                    },
+                    {
+                        "sentence": "He fell down while he was running. (दौड़ते समय वह गिर गया)",
+                        "explanation": "Running (Long) -> Fell (Short)."
+                    },
+                    {
+                        "sentence": "What were you doing when I called? (जब मैंने कॉल किया तब तुम क्या कर रहे थे?)",
+                        "explanation": "Asking about continuous action."
+                    },
+                    {
+                        "sentence": "I saw him while I was waiting for the bus. (बस का इंतजार करते हुए मैंने उसे देखा)",
+                        "explanation": "Waiting (Continuous) context."
+                    }
+                ]
+            }
+        ]
+    }
+}

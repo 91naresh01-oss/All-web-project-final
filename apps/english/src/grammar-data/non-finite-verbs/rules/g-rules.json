@@ -1,0 +1,190 @@
+{
+  "id": "non-finite-verbs-gu",
+  "title": "Non-finite Verbs (અક્રિયાપદ ક્રિયાપદો)",
+  "description": "Non-finite Verbs એ ક્રિયાપદના એવા રૂપો છે જે વાક્યના મુખ્ય ક્રિયાપદ તરીકે કાર્ય કરતા નથી અને કાળ કે વચનથી બંધાયેલા નથી.",
+  "content": [
+    {
+      "type": "heading",
+      "content": "Non-finite Verbs ના પ્રકારો"
+    },
+    {
+      "type": "list",
+      "content": [
+        "<b>The Infinitive (To + V1):</b> ક્રિયાપદનું 'to' વાળું રૂપ.",
+        "<b>The Bare Infinitive (V1):</b> 'to' વગરનું મૂળ રૂપ.",
+        "<b>The Gerund (V-ing):</b> ક્રિયાવાચક નામ (Noun).",
+        "<b>The Participle (V-ing / V3):</b> વિશેષણ તરીકે."
+      ]
+    },
+    {
+      "type": "section",
+      "title": "1. The Infinitive (To + V1)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Infinitive એ ક્રિયાપદનું નામ જેવું રૂપ છે જે સામાન્ય રીતે 'to' સાથે વપરાય છે. તે વાક્યમાં નામ, વિશેષણ કે ઉદ્દેશ્ય (Purpose) તરીકે આવી શકે છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Common Uses",
+            "headers": [
+              "ઉપયોગ",
+              "ઉદાહરણ (Example)"
+            ],
+            "rows": [
+              [
+                "Subject તરીકે",
+                "<b>To find</b> fault is easy."
+              ],
+              [
+                "Object તરીકે",
+                "Birds love <b>to sing</b>."
+              ],
+              [
+                "Purpose (હેતુ)",
+                "We eat <b>to live</b>."
+              ],
+              [
+                "Adjective પછી",
+                "I am <b>glad to meet</b> you."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Verbs followed by 'to' (આ ક્રિયાપદો પછી 'to' આવે)",
+            "headers": [
+              "Verb List",
+              "Example"
+            ],
+            "rows": [
+              [
+                "<b>Agree, Appear, Attempt, Arrange</b>",
+                "He <b>agreed to help</b> me."
+              ],
+              [
+                "<b>Decide, Expect, Fail, Forget</b>",
+                "Don't <b>forget to lock</b> the door."
+              ],
+              [
+                "<b>Hope, Learn, Manage, Offer</b>",
+                "I <b>hope to see</b> you soon."
+              ],
+              [
+                "<b>Plan, Promise, Refuse, Want</b>",
+                "He <b>promised to come</b>."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Adjective + Infinitive",
+            "headers": [
+              "Adjective",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Happy, Glad, Please",
+                "I am <b>happy to help</b> you."
+              ],
+              [
+                "Easy, Hard, Difficult",
+                "It is <b>easy to learn</b> English."
+              ],
+              [
+                "Eager, Anxious, Ready",
+                "He is <b>ready to go</b>."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "2. Bare Infinitive ('to' વગરનું રૂપ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "કેટલાક ચોક્કસ શબ્દો અને Modals પછી ક્રિયાપદની આગળ 'to' લાગતું નથી."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Rules for Bare Infinitive",
+            "headers": [
+              "Rule",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Modals (Can, Could, Will, Should, Must)",
+                "You <b>can go</b>. (Not: to go)"
+              ],
+              [
+                "Let, Bid, Make",
+                "<b>Let</b> him <b>play</b>. (તેને રમવા દો.)"
+              ],
+              [
+                "See, Hear, Feel, Watch, Notice",
+                "I <b>saw</b> him <b>run</b>. (મેં તેને દોડતો જોયો.)"
+              ],
+              [
+                "Had better, Would rather",
+                "You <b>had better go</b> now."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Note:</b> Passive Voice માં 'Make', 'See', 'Hear' વગેરે સાથે 'to' વપરાય છે. (Except 'Let')<br>Example: He was <b>made to laugh</b>."
+        },
+        {
+          "type": "paragraph",
+          "content": "<b>Why / Why not:</b> પ્રશ્ન પૂછવા માટે પણ Bare Infinitive વપરાય છે.<br>Example: <b>Why worry</b> about money?"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "3. The Gerund (V-ing as Noun)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Gerund એ ક્રિયાપદનું '-ing' વાળું રૂપ છે જે વાક્યમાં <b>નામ (Noun)</b> તરીકે વર્તે છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Examples",
+            "headers": [
+              "Use",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Subject તરીકે",
+                "<b>Swimming</b> is good exercise."
+              ],
+              [
+                "Object તરીકે",
+                "I enjoy <b>reading</b>."
+              ],
+              [
+                "Preposition પછી (After 'of', 'for', 'at')",
+                "He is fond <b>of playing</b> cricket."
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

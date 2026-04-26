@@ -1,0 +1,76 @@
+{
+  "id": "level-1",
+  "title": "Digital Actions 1",
+  "words": [
+    {
+      "word": "Call",
+      "gujaratiPronunciation": "કૉલ",
+      "hindiPronunciation": "कॉल",
+      "gujaratiMeaning": "ફોન કરવો",
+      "hindiMeaning": "फोन करना",
+      "exampleSentences": [
+        {
+          "sentence": "I will call you later.",
+          "gujaratiTranslation": "હું તમને પછી ફોન કરીશ.",
+          "hindiTranslation": "मैं तुम्हें बाद में फोन करूंगा।"
+        }
+      ]
+    },
+    {
+      "word": "Text",
+      "gujaratiPronunciation": "ટેક્સ્ટ",
+      "hindiPronunciation": "टेक्स्ट",
+      "gujaratiMeaning": "સંદેશ મોકલવો",
+      "hindiMeaning": "संदेश भेजना",
+      "exampleSentences": [
+        {
+          "sentence": "He sent me a text message.",
+          "gujaratiTranslation": "તેણે મને ટેક્સ્ટ સંદેશ મોકલ્યો.",
+          "hindiTranslation": "उसने मुझे एक टेक्स्ट संदेश भेजा।"
+        }
+      ]
+    },
+    {
+      "word": "Play",
+      "gujaratiPronunciation": "પ્લે",
+      "hindiPronunciation": "प्ले",
+      "gujaratiMeaning": "રમવું",
+      "hindiMeaning": "खेलना",
+      "exampleSentences": [
+        {
+          "sentence": "Let's play a game on the computer.",
+          "gujaratiTranslation": "ચાલો કમ્પ્યુટર પર એક રમત રમીએ.",
+          "hindiTranslation": "चलो कंप्यूटर पर एक गेम खेलते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Save",
+      "gujaratiPronunciation": "સેવ",
+      "hindiPronunciation": "सेव",
+      "gujaratiMeaning": "સાચવવું",
+      "hindiMeaning": "सहेजना",
+      "exampleSentences": [
+        {
+          "sentence": "Don't forget to save your work.",
+          "gujaratiTranslation": "તમારું કામ સાચવવાનું ભૂલશો નહીં.",
+          "hindiTranslation": "अपना काम सहेजना न भूलें।"
+        }
+      ]
+    },
+    {
+      "word": "Send",
+      "gujaratiPronunciation": "સેન્ડ",
+      "hindiPronunciation": "सेंड",
+      "gujaratiMeaning": "મોકલવું",
+      "hindiMeaning": "भेजना",
+      "exampleSentences": [
+        {
+          "sentence": "Please send me the file.",
+          "gujaratiTranslation": "કૃપા કરીને મને ફાઈલ મોકલો.",
+          "hindiTranslation": "कृपया मुझे फ़ाइल भेजें।"
+        }
+      ]
+    }
+  ]
+}

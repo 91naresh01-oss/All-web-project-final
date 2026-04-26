@@ -1,0 +1,445 @@
+{
+  "id": "question-tags-hi",
+  "title": "Question Tags (प्रतिप्रश्न / अनुप्रश्न)",
+  "lang": "hi",
+  "description": "Question Tag वक्ता द्वारा बोले गए वाक्य की जिज्ञासा या शंका की पुष्टि करने के लिए वाक्य के अंत में आने वाला छोटा प्रश्न है।",
+  "content": [
+    {
+      "type": "section",
+      "title": "📚 Question Tag क्या है?",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Question Tag वाक्य के <b>अंत में</b> जोड़ा जाने वाला <b>छोटा प्रश्न</b> है। हिंदी में हम कहते हैं <b>'...है ना?'</b>, <b>'...नहीं?'</b> - यही अंग्रेजी में Question Tag है।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "She is a doctor, <b>isn't she?</b> (वह डॉक्टर है, <b>है ना?</b>)",
+            "They didn't go home, <b>did they?</b> (वे घर नहीं गए, <b>गए क्या?</b>)"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "<b>याद रखें:</b> केवल <b>विधान वाक्य (Assertive)</b> और <b>आज्ञार्थ वाक्य (Imperative)</b> का Question Tag बनता है। <b>प्रश्नवाचक (Interrogative)</b> और <b>विस्मयादिबोधक (Exclamatory)</b> का Question Tag <b>नहीं बनता</b>।"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "⚖️ मुख्य नियम: Opposite Rule",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Basic Rule",
+            "headers": ["वाक्य", "Question Tag"],
+            "rows": [
+              ["<b>Positive</b> (सकारात्मक) वाक्य", "<b>Negative</b> Tag"],
+              ["<b>Negative</b> (नकारात्मक) वाक्य", "<b>Positive</b> Tag"]
+            ]
+          }
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Positive:</b> She reads novels, <b>doesn't she?</b> ✅",
+            "<b>Negative:</b> She doesn't read novels, <b>does she?</b> ✅"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📊 Helping Verb + not = Short Form",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "📝 Contractions Table",
+            "headers": ["सहायक + not", "Q.Tag के लिए छोटा रूप"],
+            "rows": [
+              ["do not", "don't"],
+              ["did not", "didn't"],
+              ["does not", "doesn't"],
+              ["am not", "aren't / ain't"],
+              ["is not", "isn't"],
+              ["are not", "aren't"],
+              ["have not", "haven't"],
+              ["has not", "hasn't"],
+              ["was not", "wasn't"],
+              ["were not", "weren't"],
+              ["shall not", "shan't"],
+              ["will not", "won't"],
+              ["should not", "shouldn't"],
+              ["would not", "wouldn't"],
+              ["cannot", "can't"],
+              ["could not", "couldn't"],
+              ["may not", "mayn't"],
+              ["might not", "mightn't"],
+              ["ought not", "oughtn't"],
+              ["must not", "mustn't"],
+              ["used not", "usedn't"],
+              ["need not", "needn't"],
+              ["dare not", "daren't"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "👤 Subject → Pronoun Conversion",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Question Tag में <b>कर्ता के नाम</b> की जगह उसके लिए <b>उचित सर्वनाम</b> का प्रयोग होता है।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Person Pronouns",
+            "headers": ["पुरुष", "एकवचन", "बहुवचन"],
+            "rows": [
+              ["प्रथम पुरुष", "I", "We"],
+              ["द्वितीय पुरुष", "You", "You"],
+              ["तृतीय पुरुष", "He, She, It", "They"]
+            ]
+          }
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Rohan</b> is coming, isn't <b>he</b>? (Rohan = He)",
+            "<b>Kajal and Hetal</b> saw the play, didn't <b>they</b>? (बहुवचन = They)",
+            "<b>Your cousin</b> plays well, doesn't <b>he/she</b>?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🎯 Special Rules (विशेष नियम)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "📌 I am... का Tag",
+            "headers": ["वाक्य", "Tag", "समझ"],
+            "rows": [
+              ["I <b>am</b> right,", "<b>aren't I?</b>", "am not = aren't (विशेष अपवाद)"],
+              ["I <b>am</b> studying hard,", "<b>aren't I?</b>", "amn't नहीं चलता"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📌 There + be",
+            "headers": ["वाक्य", "Tag"],
+            "rows": [
+              ["<b>There is</b> a large crowd here,", "<b>isn't there?</b>"],
+              ["<b>There were</b> no houses nearby,", "<b>were there?</b>"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📌 This/That/These/Those",
+            "headers": ["Subject", "Tag में Pronoun"],
+            "rows": [
+              ["<b>This</b> is my car,", "isn't <b>it</b>?"],
+              ["<b>That</b> is not your pen,", "is <b>it</b>?"],
+              ["<b>These</b> are his books,", "aren't <b>they</b>?"],
+              ["<b>Those</b> are not her dogs,", "are <b>they</b>?"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🚫 Negative Words = Positive Tag",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "अगर वाक्य में नीचे के <b>नकारात्मक शब्द</b> हों तो वह <b>नकारात्मक अर्थ</b> देता है। इसलिए Question Tag <b>सकारात्मक</b> होगा।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔴 Negative Words",
+            "headers": ["Words", "Example", "Tag"],
+            "rows": [
+              ["<b>few, little, neither, seldom, none</b>", "Few people know the answer,", "<b>do they?</b>"],
+              ["<b>no, hardly, scarcely, rarely, nothing</b>", "He hardly ever comes late,", "<b>does he?</b>"],
+              ["<b>never, no one, nobody</b>", "The child never cries,", "<b>does he?</b>"]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>याद रखें:</b> few = little = नकारात्मक; <b>a few</b> = <b>a little</b> = सकारात्मक<br>• <b>A few</b> friends are waiting outside, <b>aren't they?</b> ✅<br>• <b>Few</b> people know the answer, <b>do they?</b> ✅"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "👥 Indefinite Pronouns → they",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "नीचे के सर्वनाम कर्ता के स्थान पर हों तो Question Tag में <b>they</b> आता है।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📋 Indefinite Pronouns",
+            "headers": ["Group 1", "Group 2", "Group 3"],
+            "rows": [
+              ["everyone", "anyone", "anybody"],
+              ["everybody", "every", "nobody"],
+              ["no one", "somebody", "someone"],
+              ["most of them", "some of them", "everybody"],
+              ["each of them", "all of them", "each"]
+            ]
+          }
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Everybody</b> has come, haven't <b>they</b>?",
+            "<b>No one</b> could help them, could <b>they</b>?",
+            "<b>Someone</b> visited the market, didn't <b>they</b>?",
+            "<b>Nobody</b> is home now, is <b>anybody</b>?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📦 Something/Everything/Nothing → it",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "जब वाक्य के कर्ता के रूप में <b>something, anything, everything, nothing</b> आता है तो Question Tag में सर्वनाम <b>it</b> होता है।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Everything</b> is ready for the party, <b>isn't it?</b>",
+            "<b>Nothing</b> can be changed now, <b>can it?</b>",
+            "<b>Something</b> was hidden in the cupboard, <b>wasn't it?</b>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📋 One of the... / Each of you...",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "📌 Special Subjects",
+            "headers": ["Subject Pattern", "Tag में Pronoun"],
+            "rows": [
+              ["<b>One of the</b> + noun", "<b>he/she/it</b>"],
+              ["<b>All of us / Each of us</b>", "<b>we</b>"],
+              ["<b>Some of you / Each of you</b>", "<b>you</b>"],
+              ["<b>Some of them / Most of them</b>", "<b>they</b>"]
+            ]
+          }
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>One of the boys</b> broke the window, didn't <b>he</b>?",
+            "<b>All of us</b> finished the work, didn't <b>we</b>?",
+            "<b>Each of you</b> must work hard, mustn't <b>you</b>?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📢 Imperative Sentences",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "सभी <b>आज्ञार्थ वाक्यों</b> में Question Tag के रूप में <b>will you?</b> आता है।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Pass me the salt, <b>will you?</b>",
+            "Don't shout in the library, <b>will you?</b>",
+            "Be quiet now, <b>will you?</b>",
+            "Please sit down, <b>will you?</b>"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "<b>आज्ञार्थ वाक्य में</b> नाराजगी, डाँट, गुस्सा व्यक्त हो तो Question Tag में <b>Can't you?</b> आता है।<br>• Don't touch that, <b>can't you?</b> (डाँट)<br>• Shut the door immediately, <b>can't you?</b> (नाराजगी)"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🤝 Let's... = shall we?",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "जब <b>सकारात्मक आज्ञार्थ वाक्य</b> में अधिक <b>आग्रह</b> दिखाने वाला भाव हो, तो ऐसे वाक्य का Question Tag नकारात्मक <b>won't you?</b> होगा।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Let's start the presentation, <b>shall we?</b>",
+            "Let's grab a coffee, <b>shall we?</b>"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "<b>Let us</b> vs <b>Let's</b>:<br>• <b>Let's</b> (Let us = we दोनों का समावेश) → <b>shall we?</b><br>• <b>Let</b> + me/him/her/them → <b>will you?</b><br>- Let them play for an hour, <b>will you?</b><br>- Let him sit in a chair, <b>will you?</b>"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "⚙️ Need & Dare - Special Cases",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "अगर वाक्य में <b>Need</b> और <b>Dare</b> मुख्य क्रिया के रूप में आते हैं तो उस काल की सहायक क्रिया Question Tag में आती है।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "She does not dare to challenge the decision, <b>does she?</b>",
+            "Kiran needs to buy a new phone, <b>doesn't she?</b>",
+            "He dares to ask for a raise, <b>doesn't he?</b>",
+            "They did not need to wait long, <b>did they?</b>"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "जब <b>used to</b> सहायक क्रिया के रूप में आता है तो <b>didn't</b> या <b>usedn't</b> दोनों इस्तेमाल कर सकते हैं।<br>• He used to live in London, <b>usedn't he? / didn't he?</b>"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔗 Compound Subjects",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "वाक्य में <b>either...or</b>, <b>neither...nor</b>, <b>not only...but also</b> वाले वाक्य में कर्ता <b>बहुवचन</b> माना जाता है।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Either</b> the players <b>or</b> the coach will attend, <b>won't they?</b>",
+            "<b>Not only</b> the students <b>but also</b> the teacher will present, <b>won't they?</b>",
+            "<b>Neither</b> the book <b>nor</b> the pen will be used, <b>will they?</b>"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "<b>Either...or</b> और <b>Not only...but also</b> वाले वाक्य <b>सकारात्मक</b> माने जाते हैं इसलिए उनका जवाब <b>नकारात्मक</b> (Que.tag) में बनता है। जबकि <b>neither...nor</b> वाले वाक्य <b>नकारात्मक</b> होते हैं इसलिए जवाब <b>सकारात्मक</b> (Que.tag) में बनता है।"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📍 Along with / As well as / Together with",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "अगर वाक्य के कर्ता को <b>with, along with, as well as, together with, in addition to, including, besides</b> जैसे शब्दों से अन्य कर्ता के साथ जोड़ा जाए तो सर्वनाम <b>बहुवचन</b> = <b>they</b> होता है।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "The Prime Minister <b>as well as</b> his cabinet members signed the treaty, didn't <b>they</b>?",
+            "My neighbor <b>along with</b> his friends is leaving town, aren't <b>they</b>?",
+            "The new building <b>in addition to</b> the old ones was sold, weren't <b>they</b>?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "⚠️ Confusing Points (भ्रामक मुद्दे)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 a little vs little / a few vs few",
+            "headers": ["Word", "Meaning", "Tag Type"],
+            "rows": [
+              ["<b>a little / a few</b>", "थोड़ा (Positive)", "Negative Tag"],
+              ["<b>little / few</b>", "लगभग नहीं (Negative)", "Positive Tag"],
+              ["<b>very little / very few</b>", "बहुत कम (Negative)", "Positive Tag"],
+              ["<b>the little / the few</b>", "जो थोड़ा है वह (Positive)", "Negative Tag"]
+            ]
+          }
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>A little</b> water was left in the pot, <b>wasn't it?</b>",
+            "<b>Little</b> sugar was put in the tea, <b>was it?</b> (नकारात्मक)",
+            "<b>A few</b> books are there to read, <b>aren't they?</b>",
+            "<b>Few</b> people attended the meeting, <b>did they?</b> (नकारात्मक)"
+          ]
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 shall vs will Confusion",
+            "headers": ["❌ गलत", "✅ सही", "Explanation"],
+            "rows": [
+              ["shall not = shalln't", "shall not = <b>shan't</b>", "shan't ही चलता है"],
+              ["will not = willn't", "will not = <b>won't</b>", "won't ही चलता है"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Common Mistakes",
+            "headers": ["❌ गलत", "✅ सही"],
+            "rows": [
+              ["Ram is coming, isn't <b>Ram</b>?", "Ram is coming, isn't <b>he</b>?"],
+              ["I am right, <b>amn't I</b>?", "I am right, <b>aren't I</b>?"],
+              ["Let's go, <b>will we</b>?", "Let's go, <b>shall we</b>?"],
+              ["Nobody came, <b>didn't they</b>?", "Nobody came, <b>did they</b>?"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📝 Summary (सारांश)",
+      "content": [
+        {
+          "type": "list",
+          "content": [
+            "<b>Basic Rule:</b> Positive → Negative Tag; Negative → Positive Tag",
+            "<b>I am:</b> aren't I? (not amn't I)",
+            "<b>Let's:</b> shall we?",
+            "<b>Imperative:</b> will you? / can't you? (गुस्से में)",
+            "<b>There is/are:</b> isn't/aren't there?",
+            "<b>Everyone/Somebody:</b> they होता है",
+            "<b>Something/Nothing:</b> it होता है",
+            "<b>Negative words (few, little, never, hardly):</b> Positive Tag",
+            "<b>One of the:</b> he/she/it; All of us: we"
+          ]
+        }
+      ]
+    }
+  ]
+}

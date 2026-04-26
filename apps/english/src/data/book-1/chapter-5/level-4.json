@@ -1,0 +1,47 @@
+
+{
+    "id": "level-4",
+    "title": "Animals 4",
+    "words": [
+        {
+            "word": "Elephant",
+            "icon": "🐘",
+            "gujaratiPronunciation": "એલિફન્ટ",
+            "hindiPronunciation": "एलिफेंट",
+            "gujaratiMeaning": "હાથી",
+            "hindiMeaning": "हाथी"
+        },
+        {
+            "word": "Zebra",
+            "icon": "🦓",
+            "gujaratiPronunciation": "ઝીબ્રા",
+            "hindiPronunciation": "ज़ेबरा",
+            "gujaratiMeaning": "ઝીબ્રા",
+            "hindiMeaning": "ज़ेबरा"
+        },
+        {
+            "word": "Kangaroo",
+            "icon": "🦘",
+            "gujaratiPronunciation": "કેંગારૂ",
+            "hindiPronunciation": "कंगारू",
+            "gujaratiMeaning": "કાંગારૂ",
+            "hindiMeaning": "कंगारू"
+        },
+        {
+            "word": "Bear",
+            "icon": "🐻",
+            "gujaratiPronunciation": "બેર",
+            "hindiPronunciation": "बेयर",
+            "gujaratiMeaning": "રીંછ",
+            "hindiMeaning": "भालू"
+        },
+        {
+            "word": "Dolphin",
+            "icon": "🐬",
+            "gujaratiPronunciation": "ડૉલ્ફિન",
+            "hindiPronunciation": "डॉल्फिन",
+            "gujaratiMeaning": "ડોલ્ફિન",
+            "hindiMeaning": "डॉल्फिन"
+        }
+    ]
+}

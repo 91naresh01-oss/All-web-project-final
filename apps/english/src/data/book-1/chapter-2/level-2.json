@@ -1,0 +1,47 @@
+
+{
+    "id": "level-2",
+    "title": "Body Parts 2",
+    "words": [
+        {
+            "word": "Hand",
+            "icon": "✋",
+            "gujaratiPronunciation": "હેન્ડ",
+            "hindiPronunciation": "हैंड",
+            "gujaratiMeaning": "હાથ",
+            "hindiMeaning": "हाथ"
+        },
+        {
+            "word": "Leg",
+            "icon": "🦵",
+            "gujaratiPronunciation": "લેગ",
+            "hindiPronunciation": "लेग",
+            "gujaratiMeaning": "પગ",
+            "hindiMeaning": "पैर"
+        },
+        {
+            "word": "Foot",
+            "icon": "🦶",
+            "gujaratiPronunciation": "ફૂટ",
+            "hindiPronunciation": "फूट",
+            "gujaratiMeaning": "પગનો પંજો",
+            "hindiMeaning": "पैर का पंजा"
+        },
+        {
+            "word": "Arm",
+            "icon": "💪",
+            "gujaratiPronunciation": "આર્મ",
+            "hindiPronunciation": "आर्म",
+            "gujaratiMeaning": "બાહુ",
+            "hindiMeaning": "बांह"
+        },
+        {
+            "word": "Finger",
+            "icon": "👆",
+            "gujaratiPronunciation": "ફિંગર",
+            "hindiPronunciation": "फिंगर",
+            "gujaratiMeaning": "આંગળી",
+            "hindiMeaning": "उंगली"
+        }
+    ]
+}

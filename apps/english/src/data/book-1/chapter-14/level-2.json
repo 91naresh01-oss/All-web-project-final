@@ -1,0 +1,47 @@
+
+{
+  "id": "level-2",
+  "title": "Nature 2",
+  "words": [
+    {
+      "word": "Cloud",
+      "icon": "☁️",
+      "gujaratiPronunciation": "ક્લાઉડ",
+      "hindiPronunciation": "क्लाउड",
+      "gujaratiMeaning": "વાદળ",
+      "hindiMeaning": "बादल"
+    },
+    {
+      "word": "Sky",
+      "icon": "🌌",
+      "gujaratiPronunciation": "સ્કાય",
+      "hindiPronunciation": "स्काई",
+      "gujaratiMeaning": "આકાશ",
+      "hindiMeaning": "आसमान"
+    },
+    {
+      "word": "Earth",
+      "icon": "🌍",
+      "gujaratiPronunciation": "અર્થ",
+      "hindiPronunciation": "अर्थ",
+      "gujaratiMeaning": "પૃથ્વી",
+      "hindiMeaning": "पृथ्वी"
+    },
+    {
+      "word": "Sea",
+      "icon": "🌊",
+      "gujaratiPronunciation": "સી",
+      "hindiPronunciation": "सी",
+      "gujaratiMeaning": "સમુદ્ર",
+      "hindiMeaning": "समुद्र"
+    },
+    {
+      "word": "Fire",
+      "icon": "🔥",
+      "gujaratiPronunciation": "ફાયર",
+      "hindiPronunciation": "फ़ायर",
+      "gujaratiMeaning": "આગ",
+      "hindiMeaning": "आग"
+    }
+  ]
+}

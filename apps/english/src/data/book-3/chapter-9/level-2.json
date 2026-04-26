@@ -1,0 +1,173 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Cognitive Perception",
+  "words": [
+    {
+      "word": "Perceive",
+      "gujaratiPronunciation": "પર્સીવ",
+      "hindiPronunciation": "पर्सिव",
+      "gujaratiMeaning": "સમજવું, અનુભવવું",
+      "hindiMeaning": "समझना, अनुभव करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Perceive", "gujaratiPronunciation": "પર્સીવ", "hindiPronunciation": "पर्सिव", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        "V2 (Past)": { "word": "Perceived", "gujaratiPronunciation": "પર્સીવ્ડ", "hindiPronunciation": "पर्सिव्ड", "gujaratiMeaning": "સમજ્યું", "hindiMeaning": "समझा" },
+        "V3 (Past Participle)": { "word": "Perceived", "gujaratiPronunciation": "પર્સીવ્ડ", "hindiPronunciation": "पर्सिव्ड", "gujaratiMeaning": "સમજેલું", "hindiMeaning": "समझा हुआ" },
+        "V4 (Present Participle)": { "word": "Perceiving", "gujaratiPronunciation": "પર્સીવિંગ", "hindiPronunciation": "पर्सिविंग", "gujaratiMeaning": "સમજી રહ્યું છે", "hindiMeaning": "समझ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Understand", "gujaratiPronunciation": "અન્ડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        { "word": "Sense", "gujaratiPronunciation": "સેન્સ", "hindiPronunciation": "सेंस", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "अनुभव करना" }
+      ],
+      "antonyms": [
+        { "word": "Misunderstand", "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ", "hindiPronunciation": "मिसअंडरस्टैंड", "gujaratiMeaning": "ગેરસમજ કરવી", "hindiMeaning": "गलत समझना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Receive", "gujaratiPronunciation": "રિસીવ", "hindiPronunciation": "रिसीव", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "How do you perceive the situation?",
+          "gujaratiTranslation": "તમે પરિસ્થિતિને કેવી રીતે સમજો છો?",
+          "hindiTranslation": "आप स्थिति को कैसे समझते हैं?",
+          "gujaratiPronunciation": "હાઉ ડુ યુ પર્સીવ ધ સિચ્યુએશન?",
+          "hindiPronunciation": "हाउ डू यू पर्सिव द सिचुएशन?"
+        }
+      ]
+    },
+    {
+      "word": "Discern",
+      "gujaratiPronunciation": "ડિસર્ન",
+      "hindiPronunciation": "डिसर्न",
+      "gujaratiMeaning": "પારખવું, ભેદ પારખવો",
+      "hindiMeaning": "पहचानना, भेद जानना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Discern", "gujaratiPronunciation": "ડિસર્ન", "hindiPronunciation": "डिसर्न", "gujaratiMeaning": "પારખવું", "hindiMeaning": "पहचानना" },
+        "V2 (Past)": { "word": "Discerned", "gujaratiPronunciation": "ડિસર્ન્ડ", "hindiPronunciation": "डिसर्न्ड", "gujaratiMeaning": "પારખ્યું", "hindiMeaning": "पहचाना" },
+        "V3 (Past Participle)": { "word": "Discerned", "gujaratiPronunciation": "ડિસર્ન્ડ", "hindiPronunciation": "डिसर्न्ड", "gujaratiMeaning": "પારખેલું", "hindiMeaning": "पहचाना हुआ" },
+        "V4 (Present Participle)": { "word": "Discerning", "gujaratiPronunciation": "ડિસર્નિંગ", "hindiPronunciation": "डिसर्निंग", "gujaratiMeaning": "પારખી રહ્યું છે", "hindiMeaning": "पहचान रहा है" }
+      },
+      "synonyms": [
+        { "word": "Distinguish", "gujaratiPronunciation": "ડિસ્ટિંગ્વિશ", "hindiPronunciation": "डिस्टिंग्विश", "gujaratiMeaning": "ભેદ પારખવો", "hindiMeaning": "अंतर करना" },
+        { "word": "Recognize", "gujaratiPronunciation": "રેકગ્નાઇઝ", "hindiPronunciation": "रिकॉग्नाइज़", "gujaratiMeaning": "ઓળખવું", "hindiMeaning": "पहचानना" }
+      ],
+      "antonyms": [
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज़", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "भ्रमित करना" },
+        { "word": "Overlook", "gujaratiPronunciation": "ઓવરલૂક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "ધ્યાન ન આપવું", "hindiMeaning": "नजरअंदाज करना" }
+      ],
+      "confusingWords": [
+        { "word": "Concern", "gujaratiPronunciation": "કન્સર્ન", "hindiPronunciation": "कंसर्न", "gujaratiMeaning": "ચિંતા", "hindiMeaning": "चिंता" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It was hard to discern the truth.",
+          "gujaratiTranslation": "સત્ય પારખવું મુશ્કેલ હતું.",
+          "hindiTranslation": "सच्चाई का पता लगाना मुश्किल था।",
+          "gujaratiPronunciation": "ઇટ વોઝ હાર્ડ ટુ ડિસર્ન ધ ટ્રુથ.",
+          "hindiPronunciation": "इट वॉज़ हार्ड टू डिसर्न द ट्रुथ।"
+        }
+      ]
+    },
+    {
+      "word": "Sniff",
+      "gujaratiPronunciation": "સ્નિફ",
+      "hindiPronunciation": "स्निफ",
+      "gujaratiMeaning": "સુંઘવું",
+      "hindiMeaning": "सूँघना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Sniff", "gujaratiPronunciation": "સ્નિફ", "hindiPronunciation": "स्निफ", "gujaratiMeaning": "સુંઘવું", "hindiMeaning": "सूँघना" },
+        "V2 (Past)": { "word": "Sniffed", "gujaratiPronunciation": "સ્નિફ્ડ", "hindiPronunciation": "स्निफ्ड", "gujaratiMeaning": "સુંઘ્યું", "hindiMeaning": "सूँघा" },
+        "V3 (Past Participle)": { "word": "Sniffed", "gujaratiPronunciation": "સ્નિફ્ડ", "hindiPronunciation": "स्निफ्ड", "gujaratiMeaning": "સુંઘેલું", "hindiMeaning": "सूँघा हुआ" },
+        "V4 (Present Participle)": { "word": "Sniffing", "gujaratiPronunciation": "સ્નિફિંગ", "hindiPronunciation": "स्निफिंग", "gujaratiMeaning": "સુંઘી રહ્યું છે", "hindiMeaning": "सूँघ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Smell", "gujaratiPronunciation": "સ્મેલ", "hindiPronunciation": "स्मेल", "gujaratiMeaning": "ગંધ લેવી", "hindiMeaning": "सूँघना" },
+        { "word": "Inhale", "gujaratiPronunciation": "ઇન્હેલ", "hindiPronunciation": "इन्हेल", "gujaratiMeaning": "શ્વાસમાં લેવું", "hindiMeaning": "साँस लेना" }
+      ],
+      "antonyms": [
+        { "word": "Exhale", "gujaratiPronunciation": "એક્સહેલ", "hindiPronunciation": "एक्सहेल", "gujaratiMeaning": "શ્વાસ બહાર કાઢવો", "hindiMeaning": "साँस छोड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Stiff", "gujaratiPronunciation": "સ્ટિફ", "hindiPronunciation": "स्टिफ", "gujaratiMeaning": "કઠોર", "hindiMeaning": "कड़ा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The dog started to sniff the ground.",
+          "gujaratiTranslation": "કૂતરો જમીન સુંઘવા લાગ્યો.",
+          "hindiTranslation": "कुत्ता जमीन सूंघने लगा।",
+          "gujaratiPronunciation": "ધ ડોગ સ્ટાર્ટેડ ટુ સ્નિફ ધ ગ્રાઉન્ડ.",
+          "hindiPronunciation": "द डॉग स्टार्टेड टू स्निफ द ग्राउंड।"
+        }
+      ]
+    },
+    {
+      "word": "Sample",
+      "gujaratiPronunciation": "સેમ્પલ",
+      "hindiPronunciation": "सैंपल",
+      "gujaratiMeaning": "નમૂનો લેવો, ચાખવું",
+      "hindiMeaning": "नमूना लेना, चखना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Sample", "gujaratiPronunciation": "સેમ્પલ", "hindiPronunciation": "सैंपल", "gujaratiMeaning": "નમૂનો લેવો", "hindiMeaning": "नमूना लेना" },
+        "V2 (Past)": { "word": "Sampled", "gujaratiPronunciation": "સેમ્પલ્ડ", "hindiPronunciation": "सेंपल्ड", "gujaratiMeaning": "નમૂનો લીધો", "hindiMeaning": "नमूना लिया" },
+        "V3 (Past Participle)": { "word": "Sampled", "gujaratiPronunciation": "સેમ્પલ્ડ", "hindiPronunciation": "सेंपल्ड", "gujaratiMeaning": "નમૂનો લીધેલો", "hindiMeaning": "नमूना लिया हुआ" },
+        "V4 (Present Participle)": { "word": "Sampling", "gujaratiPronunciation": "સેમ્પલિંગ", "hindiPronunciation": "सैंपलिंग", "gujaratiMeaning": "નમૂનો લઈ રહ્યું છે", "hindiMeaning": "नमूना ले रहा है" }
+      },
+      "synonyms": [
+        { "word": "Try", "gujaratiPronunciation": "ટ્રાય", "hindiPronunciation": "ट्राय", "gujaratiMeaning": "પ્રયાસ કરવો", "hindiMeaning": "कोशिश करना" },
+        { "word": "Taste", "gujaratiPronunciation": "ટેસ્ટ", "hindiPronunciation": "टेस्ट", "gujaratiMeaning": "સ્વાદ લેવો", "hindiMeaning": "चखना" }
+      ],
+      "antonyms": [
+        { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Simple", "gujaratiPronunciation": "સિમ્પલ", "hindiPronunciation": "सिंपल", "gujaratiMeaning": "સરળ", "hindiMeaning": "सरल" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Would you like to sample the cheese?",
+          "gujaratiTranslation": "શું તમે ચીઝનો નમૂનો લેવા માંગો છો?",
+          "hindiTranslation": "क्या आप पनीर का नमूना लेना चाहेंगे?",
+          "gujaratiPronunciation": "વુડ યુ લાઇક ટુ સેમ્પલ ધ ચીઝ?",
+          "hindiPronunciation": "वुड यू लाइक टू सैंपल द चीज़?"
+        }
+      ]
+    },
+    {
+      "word": "Register",
+      "gujaratiPronunciation": "રજિસ્ટર",
+      "hindiPronunciation": "रजिस्टर",
+      "gujaratiMeaning": "નોંધણી કરવી, નોંધવું",
+      "hindiMeaning": "पंजीकरण करना, दर्ज करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Register", "gujaratiPronunciation": "રજિસ્ટર", "hindiPronunciation": "रजिस्टर", "gujaratiMeaning": "નોંધણી કરવી", "hindiMeaning": "पंजीकरण करना" },
+        "V2 (Past)": { "word": "Registered", "gujaratiPronunciation": "રજિસ્ટર્ડ", "hindiPronunciation": "रजिस्टर्ड", "gujaratiMeaning": "નોંધણી કરી", "hindiMeaning": "पंजीकरण किया" },
+        "V3 (Past Participle)": { "word": "Registered", "gujaratiPronunciation": "રજિસ્ટર્ડ", "hindiPronunciation": "रजिस्टर्ड", "gujaratiMeaning": "નોંધાયેલું", "hindiMeaning": "पंजीकृत" },
+        "V4 (Present Participle)": { "word": "Registering", "gujaratiPronunciation": "રજિસ્ટરિંગ", "hindiPronunciation": "रजिस्टरिंग", "gujaratiMeaning": "નોંધણી કરી રહ્યું છે", "hindiMeaning": "पंजीकरण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Enroll", "gujaratiPronunciation": "એનરોલ", "hindiPronunciation": "एनरोल", "gujaratiMeaning": "નામ નોંધાવવું", "hindiMeaning": "नामांकन करना" },
+        { "word": "Record", "gujaratiPronunciation": "રેકોર્ડ", "hindiPronunciation": "रिकॉर्ड", "gujaratiMeaning": "નોંધવું", "hindiMeaning": "दर्ज करना" }
+      ],
+      "antonyms": [
+        { "word": "Withdraw", "gujaratiPronunciation": "વિથડ્રો", "hindiPronunciation": "विथड्रा", "gujaratiMeaning": "પાછું ખેંચવું", "hindiMeaning": "वापस लेना" },
+        { "word": "Cancel", "gujaratiPronunciation": "કેન્સલ", "hindiPronunciation": "कैंसल", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You need to register for the course online.",
+          "gujaratiTranslation": "તમારે ઓનલાઈન કોર્સ માટે નોંધણી કરવાની જરૂર છે.",
+          "hindiTranslation": "आपको पाठ्यक्रम के लिए ऑनलाइन पंजीकरण करने की आवश्यकता है।",
+          "gujaratiPronunciation": "યુ નીડ ટુ રજિસ્ટર ફોર ધ કોર્સ ઓનલાઇન.",
+          "hindiPronunciation": "यू नीड टू रजिस्टर फॉर द कोर्स ऑनलाइन।"
+        }
+      ]
+    }
+  ]
+}

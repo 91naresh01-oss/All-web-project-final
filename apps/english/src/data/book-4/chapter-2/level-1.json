@@ -1,0 +1,172 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Test",
+      "gujaratiPronunciation": "ટેસ્ટ",
+      "hindiPronunciation": "टेस्ट",
+      "gujaratiMeaning": "પરીક્ષણ કરવું",
+      "hindiMeaning": "परीक्षण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Test", "gujaratiPronunciation": "ટેસ્ટ", "hindiPronunciation": "टेस्ट", "gujaratiMeaning": "પરીક્ષણ કરવું", "hindiMeaning": "परीक्षण करना" },
+        "V2 (Past Simple)": { "word": "Tested", "gujaratiPronunciation": "ટેસ્ટેડ", "hindiPronunciation": "टेस्टेड", "gujaratiMeaning": "પરીક્ષણ કર્યું", "hindiMeaning": "परीक्षण किया" },
+        "V3 (Past Participle)": { "word": "Tested", "gujaratiPronunciation": "ટેસ્ટેડ", "hindiPronunciation": "टेस्टेड", "gujaratiMeaning": "પરીક્ષણ કરેલ", "hindiMeaning": "परीक्षण किया हुआ" },
+        "V4 (Present Participle)": { "word": "Testing", "gujaratiPronunciation": "ટેસ્ટિંગ", "hindiPronunciation": "टेस्टिंग", "gujaratiMeaning": "પરીક્ષણ કરી રહ્યું છે", "hindiMeaning": "परीक्षण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एग्जामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जाँचना" },
+        { "word": "Check", "gujaratiPronunciation": "ચેક", "hindiPronunciation": "चेक", "gujaratiMeaning": "ચકાસવું", "hindiMeaning": "जाँचना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Taste", "gujaratiPronunciation": "ટેસ્ટ", "hindiPronunciation": "टेस्ट", "gujaratiMeaning": "સ્વાદ", "hindiMeaning": "स्वाद" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The scientist will test the new drug.",
+          "gujaratiTranslation": "વૈજ્ઞાનિક નવી દવાનું પરીક્ષણ કરશે.",
+          "hindiTranslation": "वैज्ञानिक नई दवा का परीक्षण करेंगे।",
+          "gujaratiPronunciation": "ધ સાયન્ટિસ્ટ વિલ ટેસ્ટ ધ ન્યૂ ડ્રગ.",
+          "hindiPronunciation": "द साइंटिस्ट विल टेस्ट द न्यू ड्रग।"
+        }
+      ]
+    },
+    {
+      "word": "Measure",
+      "gujaratiPronunciation": "મેઝર",
+      "hindiPronunciation": "मेज़र",
+      "gujaratiMeaning": "માપવું",
+      "hindiMeaning": "मापना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Measure", "gujaratiPronunciation": "મેઝર", "hindiPronunciation": "मेज़र", "gujaratiMeaning": "માપવું", "hindiMeaning": "मापना" },
+        "V2 (Past Simple)": { "word": "Measured", "gujaratiPronunciation": "મેઝર્ડ", "hindiPronunciation": "मेज़र्ड", "gujaratiMeaning": "માપ્યું", "hindiMeaning": "मापा" },
+        "V3 (Past Participle)": { "word": "Measured", "gujaratiPronunciation": "મેઝર્ડ", "hindiPronunciation": "मेज़र्ड", "gujaratiMeaning": "માપેલ", "hindiMeaning": "मापा हुआ" },
+        "V4 (Present Participle)": { "word": "Measuring", "gujaratiPronunciation": "મેઝરિંગ", "hindiPronunciation": "मेज़रिंग", "gujaratiMeaning": "માપી રહ્યું છે", "hindiMeaning": "माप रहा है" }
+      },
+      "synonyms": [
+        { "word": "Gauge", "gujaratiPronunciation": "ગેજ", "hindiPronunciation": "गेज", "gujaratiMeaning": "માપવું", "hindiMeaning": "मापना" },
+        { "word": "Quantify", "gujaratiPronunciation": "ક્વોન્ટિફાય", "hindiPronunciation": "क्वांटिफाई", "gujaratiMeaning": "માત્રા નક્કી કરવી", "hindiMeaning": "मात्रा निर्धारित करना" }
+      ],
+      "antonyms": [
+        { "word": "Guess", "gujaratiPronunciation": "ગેસ", "hindiPronunciation": "गेस", "gujaratiMeaning": "અનુમાન લગાવવું", "hindiMeaning": "अनुमान लगाना" }
+      ],
+      "confusingWords": [
+        { "word": "Major", "gujaratiPronunciation": "મેજર", "hindiPronunciation": "मेजर", "gujaratiMeaning": "મુખ્ય", "hindiMeaning": "प्रमुख" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to measure the room's dimensions.",
+          "gujaratiTranslation": "આપણે ઓરડાના પરિમાણો માપવાની જરૂર છે.",
+          "hindiTranslation": "हमें कमरे के आयामों को मापना होगा।",
+          "gujaratiPronunciation": "વી નીડ ટુ મેઝર ધ રૂમ્સ ડાયમેન્શન્સ.",
+          "hindiPronunciation": "वी नीड टू मेज़र द रूम्स डाइमेंशन्स।"
+        }
+      ]
+    },
+    {
+      "word": "Record",
+      "gujaratiPronunciation": "રેકોર્ડ",
+      "hindiPronunciation": "रिकॉर्ड",
+      "gujaratiMeaning": "નોંધવું",
+      "hindiMeaning": "दर्ज करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Record", "gujaratiPronunciation": "રેકોર્ડ", "hindiPronunciation": "रिकॉर्ड", "gujaratiMeaning": "નોંધવું", "hindiMeaning": "दर्ज करना" },
+        "V2 (Past Simple)": { "word": "Recorded", "gujaratiPronunciation": "રેકોર્ડેડ", "hindiPronunciation": "रिकॉर्डेड", "gujaratiMeaning": "નોંધ્યું", "hindiMeaning": "दर्ज किया" },
+        "V3 (Past Participle)": { "word": "Recorded", "gujaratiPronunciation": "રેકોર્ડેડ", "hindiPronunciation": "रिकॉर्डेड", "gujaratiMeaning": "નોંધેલ", "hindiMeaning": "दर्ज किया हुआ" },
+        "V4 (Present Participle)": { "word": "Recording", "gujaratiPronunciation": "રેકોર્ડિંગ", "hindiPronunciation": "रिकॉर्डिंग", "gujaratiMeaning": "નોંધી રહ્યું છે", "hindiMeaning": "दर्ज कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Document", "gujaratiPronunciation": "ડોક્યુમેન્ટ", "hindiPronunciation": "डॉक्यूमेंट", "gujaratiMeaning": "દસ્તાવેજીકરણ કરવું", "hindiMeaning": "दस्तावेजीकरण करना" },
+        { "word": "Log", "gujaratiPronunciation": "લોગ", "hindiPronunciation": "लॉग", "gujaratiMeaning": "નોંધવું", "hindiMeaning": "दर्ज करना" }
+      ],
+      "antonyms": [
+        { "word": "Erase", "gujaratiPronunciation": "ઇરેઝ", "hindiPronunciation": "इरेज़", "gujaratiMeaning": "ભૂંસી નાખવું", "hindiMeaning": "मिटाना" }
+      ],
+      "confusingWords": [
+        { "word": "Accord", "gujaratiPronunciation": "અકોર્ડ", "hindiPronunciation": "अकॉर्ड", "gujaratiMeaning": "સમજૂતી", "hindiMeaning": "समझौता" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She will record the experiment's results.",
+          "gujaratiTranslation": "તે પ્રયોગના પરિણામો નોંધશે.",
+          "hindiTranslation": "वह प्रयोग के परिणाम दर्ज करेगी।",
+          "gujaratiPronunciation": "શી વિલ રેકોર્ડ ધ એક્સપેરિમેન્ટ્સ રિઝલ્ટ્સ.",
+          "hindiPronunciation": "शी विल रिकॉर्ड द एक्सपेरिमेंट्स रिजल्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Study",
+      "gujaratiPronunciation": "સ્ટડી",
+      "hindiPronunciation": "स्टडी",
+      "gujaratiMeaning": "અભ્યાસ કરવો",
+      "hindiMeaning": "अध्ययन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Study", "gujaratiPronunciation": "સ્ટડી", "hindiPronunciation": "स्टडी", "gujaratiMeaning": "અભ્યાસ કરવો", "hindiMeaning": "अध्ययन करना" },
+        "V2 (Past Simple)": { "word": "Studied", "gujaratiPronunciation": "સ્ટડીડ", "hindiPronunciation": "स्टडीड", "gujaratiMeaning": "અભ્યાસ કર્યો", "hindiMeaning": "अध्ययन किया" },
+        "V3 (Past Participle)": { "word": "Studied", "gujaratiPronunciation": "સ્ટડીડ", "hindiPronunciation": "स्टडीड", "gujaratiMeaning": "અભ્યાસ કરેલ", "hindiMeaning": "अध्ययन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Studying", "gujaratiPronunciation": "સ્ટડીઇંગ", "hindiPronunciation": "स्टडीइंग", "gujaratiMeaning": "અભ્યાસ કરી રહ્યું છે", "hindiMeaning": "अध्ययन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Research", "gujaratiPronunciation": "રિસર્ચ", "hindiPronunciation": "रिसर्च", "gujaratiMeaning": "સંશોધન કરવું", "hindiMeaning": "शोध करना" },
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एग्जामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जाँचना" }
+      ],
+      "antonyms": [
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Steady", "gujaratiPronunciation": "સ્ટેડી", "hindiPronunciation": "स्टेडी", "gujaratiMeaning": "સ્થિર", "hindiMeaning": "स्थिर" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They study the effects of pollution on marine life.",
+          "gujaratiTranslation": "તેઓ દરિયાઈ જીવન પર પ્રદૂષણની અસરોનો અભ્યાસ કરે છે.",
+          "hindiTranslation": "वे समुद्री जीवन पर प्रदूषण के प्रभावों का अध्ययन करते हैं।",
+          "gujaratiPronunciation": "ધે સ્ટડી ધ ઇફેક્ટ્સ ઓફ પોલ્યુશન ઓન મરીન લાઇફ.",
+          "hindiPronunciation": "दे स्टडी द इफेक्ट्स ऑफ पोल्यूशन ऑन मरीन लाइफ।"
+        }
+      ]
+    },
+    {
+      "word": "Mix",
+      "gujaratiPronunciation": "મિક્સ",
+      "hindiPronunciation": "मिक्स",
+      "gujaratiMeaning": "ભેળવવું",
+      "hindiMeaning": "मिलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Mix", "gujaratiPronunciation": "મિક્સ", "hindiPronunciation": "मिक्स", "gujaratiMeaning": "ભેળવવું", "hindiMeaning": "मिलाना" },
+        "V2 (Past Simple)": { "word": "Mixed", "gujaratiPronunciation": "મિક્સ્ડ", "hindiPronunciation": "मिक्स्ड", "gujaratiMeaning": "ભેળવ્યું", "hindiMeaning": "मिलाया" },
+        "V3 (Past Participle)": { "word": "Mixed", "gujaratiPronunciation": "મિક્સ્ડ", "hindiPronunciation": "मिक्स्ड", "gujaratiMeaning": "ભેળવેલું", "hindiMeaning": "मिलाया हुआ" },
+        "V4 (Present Participle)": { "word": "Mixing", "gujaratiPronunciation": "મિક્સિંગ", "hindiPronunciation": "मिक्सिंग", "gujaratiMeaning": "ભેળવી રહ્યું છે", "hindiMeaning": "मिला रहा है" }
+      },
+      "synonyms": [
+        { "word": "Combine", "gujaratiPronunciation": "કમ્બાઇન", "hindiPronunciation": "कंबाइन", "gujaratiMeaning": "સંયોજિત કરવું", "hindiMeaning": "जोड़ना" },
+        { "word": "Blend", "gujaratiPronunciation": "બ્લેન્ડ", "hindiPronunciation": "ब्लेंड", "gujaratiMeaning": "મિશ્રણ કરવું", "hindiMeaning": "मिश्रण करना" }
+      ],
+      "antonyms": [
+        { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" }
+      ],
+      "confusingWords": [
+        { "word": "Fix", "gujaratiPronunciation": "ફિક્સ", "hindiPronunciation": "फिक्स", "gujaratiMeaning": "ઠીક કરવું", "hindiMeaning": "ठीक करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to mix the chemicals carefully.",
+          "gujaratiTranslation": "તમારે રસાયણોને કાળજીપૂર્વક ભેળવવાની જરૂર છે.",
+          "hindiTranslation": "आपको रसायनों को सावधानी से मिलाना होगा।",
+          "gujaratiPronunciation": "યુ નીડ ટુ મિક્સ ધ કેમિકલ્સ કેરફુલી.",
+          "hindiPronunciation": "यू नीड टू मिक्स द केमिकल्स केयरफुली।"
+        }
+      ]
+    }
+  ]
+}

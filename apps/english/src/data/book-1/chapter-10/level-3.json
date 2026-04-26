@@ -1,0 +1,11 @@
+{
+    "id": "level-3",
+    "title": "Beverages & Snacks",
+    "words": [
+        { "word": "Fruit", "icon": "🍓", "gujaratiPronunciation": "ફ્રૂટ", "hindiPronunciation": "फ्रूट", "gujaratiMeaning": "ફળ", "hindiMeaning": "फल" },
+        { "word": "Juice", "icon": "🧃", "gujaratiPronunciation": "જ્યુસ", "hindiPronunciation": "जूस", "gujaratiMeaning": "રસ", "hindiMeaning": "रस" },
+        { "word": "Tea", "icon": "🍵", "gujaratiPronunciation": "ટી", "hindiPronunciation": "टी", "gujaratiMeaning": "ચા", "hindiMeaning": "चाय" },
+        { "word": "Coffee", "icon": "☕", "gujaratiPronunciation": "કોફી", "hindiPronunciation": "कॉफी", "gujaratiMeaning": "કોફી", "hindiMeaning": "कॉफी" },
+        { "word": "Snack", "icon": "🍿", "gujaratiPronunciation": "સ્નેક", "hindiPronunciation": "स्नैक", "gujaratiMeaning": "નાસ્તો", "hindiMeaning": "नाश्ता" }
+    ]
+}

@@ -1,0 +1,373 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Lecture",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "વ્યાખ્યાન આપવું",
+      "hindiMeaning": "व्याख्यान देना",
+      "gujaratiPronunciation": "લેક્ચર",
+      "hindiPronunciation": "लेक्चर",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Lecture",
+          "gujaratiPronunciation": "લેક્ચર",
+          "hindiPronunciation": "लेक्चर",
+          "gujaratiMeaning": "વ્યાખ્યાન આપવું",
+          "hindiMeaning": "व्याख्यान देना"
+        },
+        "V2 (Past)": {
+          "word": "Lectured",
+          "gujaratiPronunciation": "લેક્ચર્ડ",
+          "hindiPronunciation": "लेक्चर्ड",
+          "gujaratiMeaning": "વ્યાખ્યાન આપ્યું",
+          "hindiMeaning": "व्याख्यान दिया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Lectured",
+          "gujaratiPronunciation": "લેક્ચર્ડ",
+          "hindiPronunciation": "लेक्चर्ड",
+          "gujaratiMeaning": "વ્યાખ્યાન આપેલું",
+          "hindiMeaning": "व्याख्यान दिया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Lecturing",
+          "gujaratiPronunciation": "લેક્ચરિંગ",
+          "hindiPronunciation": "लेक्चरिंग",
+          "gujaratiMeaning": "વ્યાખ્યાન આપી રહ્યું",
+          "hindiMeaning": "व्याख्यान दे रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Teach",
+          "gujaratiPronunciation": "ટીચ",
+          "hindiPronunciation": "टीच",
+          "gujaratiMeaning": "શીખવવું",
+          "hindiMeaning": "सिखाना"
+        },
+        {
+          "word": "Sermonize",
+          "gujaratiPronunciation": "સર્મનાઇઝ",
+          "hindiPronunciation": "सर्मनाइज़",
+          "gujaratiMeaning": "ઉપદેશ આપવો",
+          "hindiMeaning": "उपदेश देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Listen",
+          "gujaratiPronunciation": "લિસન",
+          "hindiPronunciation": "लिसन",
+          "gujaratiMeaning": "સાંભળવું",
+          "hindiMeaning": "सुनना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Structure",
+          "gujaratiPronunciation": "સ્ટ્રક્ચર",
+          "hindiPronunciation": "स्ट्रक्चर",
+          "gujaratiMeaning": "માળખું",
+          "hindiMeaning": "ढांचा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The professor will lecture on ancient history.",
+          "gujaratiPronunciation": "ધ પ્રોફેસર વિલ લેક્ચર ઓન એન્શિયન્ટ હિસ્ટ્રી.",
+          "hindiPronunciation": "द प्रोफेसर विल लेक्चर ऑन एंशिएंट हिस्ट्री।",
+          "gujaratiTranslation": "પ્રોફેસર પ્રાચીન ઇતિહાસ પર વ્યાખ્યાન આપશે.",
+          "hindiTranslation": "प्रोफेसर प्राचीन इतिहास पर व्याख्यान देंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Tutor",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "ખાનગી શિક્ષણ આપવું",
+      "hindiMeaning": "निजी तौर पर पढ़ाना",
+      "gujaratiPronunciation": "ટ્યુટર",
+      "hindiPronunciation": "ट्यूटर",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Tutor",
+          "gujaratiPronunciation": "ટ્યુટર",
+          "hindiPronunciation": "ट्यूटर",
+          "gujaratiMeaning": "ખાનગી શિક્ષણ આપવું",
+          "hindiMeaning": "निजी तौर पर पढ़ाना"
+        },
+        "V2 (Past)": {
+          "word": "Tutored",
+          "gujaratiPronunciation": "ટ્યુટર્ડ",
+          "hindiPronunciation": "ट्यूटर्ड",
+          "gujaratiMeaning": "ખાનગી શિક્ષણ આપ્યું",
+          "hindiMeaning": "निजी तौर पर पढ़ाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Tutored",
+          "gujaratiPronunciation": "ટ્યુટર્ડ",
+          "hindiPronunciation": "ट्यूटर्ड",
+          "gujaratiMeaning": "ખાનગી શિક્ષણ આપેલું",
+          "hindiMeaning": "निजी तौर पर पढ़ाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Tutoring",
+          "gujaratiPronunciation": "ટ્યુટરિંગ",
+          "hindiPronunciation": "ट्यूटरिंग",
+          "gujaratiMeaning": "ખાનગી શિક્ષણ આપી રહ્યું",
+          "hindiMeaning": "निजी तौर पर पढ़ा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Teach",
+          "gujaratiPronunciation": "ટીચ",
+          "hindiPronunciation": "टीच",
+          "gujaratiMeaning": "શીખવવું",
+          "hindiMeaning": "सिखाना"
+        },
+        {
+          "word": "Coach",
+          "gujaratiPronunciation": "કોચ",
+          "hindiPronunciation": "कोच",
+          "gujaratiMeaning": "તાલીમ આપવી",
+          "hindiMeaning": "प्रशिक्षण देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Learn",
+          "gujaratiPronunciation": "લર્ન",
+          "hindiPronunciation": "लर्न",
+          "gujaratiMeaning": "શીખવું",
+          "hindiMeaning": "सीखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Tumor",
+          "gujaratiPronunciation": "ટ્યુમર",
+          "hindiPronunciation": "ट्यूमर",
+          "gujaratiMeaning": "ગાંઠ",
+          "hindiMeaning": "गांठ"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She tutors students in mathematics.",
+          "gujaratiPronunciation": "શી ટ્યુટર્સ સ્ટુડન્ટ્સ ઇન મેથેમેટિક્સ.",
+          "hindiPronunciation": "शी ट्यूटर्स स्टूडेंट्स इन मैथमेटिक्स।",
+          "gujaratiTranslation": "તેણી વિદ્યાર્થીઓને ગણિતમાં ખાનગી શિક્ષણ આપે છે.",
+          "hindiTranslation": "वह छात्रों को गणित में निजी तौर पर पढ़ाती है।"
+        }
+      ]
+    },
+    {
+      "word": "Critique",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "સમીક્ષા કરવી",
+      "hindiMeaning": "समीक्षा करना",
+      "gujaratiPronunciation": "ક્રિટીક",
+      "hindiPronunciation": "क्रिटीक",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Critique",
+          "gujaratiPronunciation": "ક્રિટીક",
+          "hindiPronunciation": "क्रिटीक",
+          "gujaratiMeaning": "સમીક્ષા કરવી",
+          "hindiMeaning": "समीक्षा करना"
+        },
+        "V2 (Past)": {
+          "word": "Critiqued",
+          "gujaratiPronunciation": "ક્રિટીક્ડ",
+          "hindiPronunciation": "क्रिटीक्ड",
+          "gujaratiMeaning": "સમીક્ષા કરી",
+          "hindiMeaning": "समीक्षा की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Critiqued",
+          "gujaratiPronunciation": "ક્રિટીક્ડ",
+          "hindiPronunciation": "क्रिटीक्ड",
+          "gujaratiMeaning": "સમીક્ષા કરેલી",
+          "hindiMeaning": "समीक्षा की हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Critiquing",
+          "gujaratiPronunciation": "ક્રિટીકિંગ",
+          "hindiPronunciation": "क्रिटीकिंग",
+          "gujaratiMeaning": "સમીક્ષા કરી રહ્યું",
+          "hindiMeaning": "समीक्षा कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Evaluate",
+          "gujaratiPronunciation": "ઇવેલ્યુએટ",
+          "hindiPronunciation": "इवैल्यूएट",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "मूल्यांकन करना"
+        },
+        {
+          "word": "Analyze",
+          "gujaratiPronunciation": "એનલાઈઝ",
+          "hindiPronunciation": "एनालाइज़",
+          "gujaratiMeaning": "વિશ્લેષણ કરવું",
+          "hindiMeaning": "विश्लेषण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Praise",
+          "gujaratiPronunciation": "પ્રેઇઝ",
+          "hindiPronunciation": "प्रेज़",
+          "gujaratiMeaning": "વખાણ કરવું",
+          "hindiMeaning": "प्रशंसा करना"
+        },
+        {
+          "word": "Applaud",
+          "gujaratiPronunciation": "અપ્લોડ",
+          "hindiPronunciation": "अपलॉड",
+          "gujaratiMeaning": "તાળીઓથી વધાવવું",
+          "hindiMeaning": "सराहना करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Critic",
+          "gujaratiPronunciation": "ક્રિટિક",
+          "hindiPronunciation": "क्रिटिक",
+          "gujaratiMeaning": "સમીક્ષક",
+          "hindiMeaning": "समीक्षक"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The panel will critique each performance.",
+          "gujaratiPronunciation": "ધ પેનલ વિલ ક્રિટીક ઇચ પરફોર્મન્સ.",
+          "hindiPronunciation": "द पैनल विल क्रिटीक ईच परफॉर्मेंस।",
+          "gujaratiTranslation": "પેનલ દરેક પ્રદર્શનની સમીક્ષા કરશે.",
+          "hindiTranslation": "पैनल प्रत्येक प्रदर्शन की समीक्षा करेगा।"
+        }
+      ]
+    },
+    {
+      "word": "Internalize",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "આત્મસાત કરવું",
+      "hindiMeaning": "आत्मसात करना",
+      "gujaratiPronunciation": "ઇન્ટર્નલાઇઝ",
+      "hindiPronunciation": "इंटर्नलाइज़",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Internalize",
+          "gujaratiPronunciation": "ઇન્ટર્નલાઇઝ",
+          "hindiPronunciation": "इंटर्नलाइज़",
+          "gujaratiMeaning": "આત્મસાત કરવું",
+          "hindiMeaning": "आत्मसात करना"
+        },
+        "V2 (Past)": {
+          "word": "Internalized",
+          "gujaratiPronunciation": "ઇન્ટર્નલાઇઝ્ડ",
+          "hindiPronunciation": "इंटर्नलाइज़्ड",
+          "gujaratiMeaning": "આત્મસાત કર્યું",
+          "hindiMeaning": "आत्मसात किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Internalized",
+          "gujaratiPronunciation": "ઇન્ટર્નલાઇઝ્ડ",
+          "hindiPronunciation": "इंटर्नलाइज़्ड",
+          "gujaratiMeaning": "આત્મસાત કરેલું",
+          "hindiMeaning": "आत्मसात किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Internalizing",
+          "gujaratiPronunciation": "ઇન્ટર્નલાઇઝિંગ",
+          "hindiPronunciation": "इंटर्नलाइज़िंग",
+          "gujaratiMeaning": "આત્મસાત કરી રહ્યું",
+          "hindiMeaning": "आत्मसात कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Absorb",
+          "gujaratiPronunciation": "એબ્સોર્બ",
+          "hindiPronunciation": "एब्सॉर्ब",
+          "gujaratiMeaning": "શોષી લેવું",
+          "hindiMeaning": "अवशोषित करना"
+        },
+        {
+          "word": "Assimilate",
+          "gujaratiPronunciation": "અસિમિલેટ",
+          "hindiPronunciation": "एसिमिलेट",
+          "gujaratiMeaning": "આત્મસાત કરવું",
+          "hindiMeaning": "आत्मसात करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Externalize",
+          "gujaratiPronunciation": "એક્સ્ટર્નલાઇઝ",
+          "hindiPronunciation": "एक्सटर्नलाइज़",
+          "gujaratiMeaning": "બાહ્યકરણ કરવું",
+          "hindiMeaning": "बाह्यीकरण करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Internationalize",
+          "gujaratiPronunciation": "ઇન્ટરનેશનલાઇઝ",
+          "hindiPronunciation": "इंटरनेशनलाइज़",
+          "gujaratiMeaning": "આંતરરાષ્ટ્રીયકરણ કરવું",
+          "hindiMeaning": "अंतर्राष्ट्रीयकरण करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It takes time to internalize new concepts.",
+          "gujaratiPronunciation": "ઇટ ટેક્સ ટાઇમ ટુ ઇન્ટર્નલાઇઝ ન્યૂ કોન્સેપ્ટ્સ.",
+          "hindiPronunciation": "इट टेक्स टाइम टू इंटर्नलाइज़ न्यू कॉन्सेप्ट्स।",
+          "gujaratiTranslation": "નવી વિભાવનાઓને આત્મસાત કરવામાં સમય લાગે છે.",
+          "hindiTranslation": "नई अवधारणाओं को आत्मसात करने में समय लगता है।"
+        }
+      ]
+    },
+    {
+      "word": "Pedagogy",
+      "partOfSpeech": "Noun",
+      "gujaratiMeaning": "શિક્ષણશાસ્ત્ર",
+      "hindiMeaning": "शिक्षणशास्त्र",
+      "gujaratiPronunciation": "પેડાગોજી",
+      "hindiPronunciation": "पेडागॉजी",
+      "verbForms": {},
+      "synonyms": [
+        {
+          "word": "Teaching",
+          "gujaratiPronunciation": "ટીચિંગ",
+          "hindiPronunciation": "टीचिंग",
+          "gujaratiMeaning": "શિક્ષણ",
+          "hindiMeaning": "शिक्षण"
+        },
+        {
+          "word": "Education",
+          "gujaratiPronunciation": "એજ્યુકેશન",
+          "hindiPronunciation": "एजुकेशन",
+          "gujaratiMeaning": "શિક્ષણ",
+          "hindiMeaning": "शिक्षा"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The school is known for its innovative pedagogy.",
+          "gujaratiPronunciation": "ધ સ્કૂલ ઇઝ નોન ફોર ઇટ્સ ઇનોવેટિવ પેડાગોજી.",
+          "hindiPronunciation": "द स्कूल इज़ नोन फॉर इट्स इनोवेटिव पेडागॉजी।",
+          "gujaratiTranslation": "આ શાળા તેના નવીન શિક્ષણશાસ્ત્ર માટે જાણીતી છે.",
+          "hindiTranslation": "यह स्कूल अपने अभिनव शिक्षणशास्त्र के लिए जाना जाता है।"
+        }
+      ]
+    }
+  ]
+}

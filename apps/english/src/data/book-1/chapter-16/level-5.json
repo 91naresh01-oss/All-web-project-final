@@ -1,0 +1,47 @@
+
+{
+    "id": "level-5",
+    "title": "Figures of Speech",
+    "words": [
+        {
+            "word": "Figures of Speech",
+            "icon": "🗣️",
+            "gujaratiPronunciation": "ફિગર્સ ઓફ સ્પીચ",
+            "hindiPronunciation": "फिगर्स ऑफ स्पीच",
+            "gujaratiMeaning": "અલંકાર",
+            "hindiMeaning": "अलंकार"
+        },
+        {
+            "word": "Simile",
+            "icon": "↔️",
+            "gujaratiPronunciation": "સિમિલિ",
+            "hindiPronunciation": "सिमिलि",
+            "gujaratiMeaning": "ઉપમા",
+            "hindiMeaning": "उपमा"
+        },
+        {
+            "word": "Metaphor",
+            "icon": "🎭",
+            "gujaratiPronunciation": "મેટાફર",
+            "hindiPronunciation": "मेटाफर",
+            "gujaratiMeaning": "રૂપક",
+            "hindiMeaning": "रूपक"
+        },
+        {
+            "word": "Personification",
+            "icon": "🧍",
+            "gujaratiPronunciation": "પર્સોનિફિકેશન",
+            "hindiPronunciation": "पर्सोनिफिकेशन",
+            "gujaratiMeaning": "સજીવારોપણ",
+            "hindiMeaning": "मानवीकरण"
+        },
+        {
+            "word": "Alliteration",
+            "icon": "🔡",
+            "gujaratiPronunciation": "એલિટરેશન",
+            "hindiPronunciation": "एलिटरेशन",
+            "gujaratiMeaning": "વર્ણાનુપ્રાસ",
+            "hindiMeaning": "अनुप्रास"
+        }
+    ]
+}

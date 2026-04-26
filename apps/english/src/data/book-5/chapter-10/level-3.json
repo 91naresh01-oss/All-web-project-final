@@ -1,0 +1,146 @@
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Systematize",
+            "gujaratiPronunciation": "સિસ્ટમેટાઇઝ",
+            "hindiPronunciation": "सिस्टमेटाइज़",
+            "gujaratiMeaning": "વ્યવસ્થિત કરવું",
+            "hindiMeaning": "व्यवस्थित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Systematize", "gujaratiPronunciation": "સિસ્ટમેટાઇઝ", "hindiPronunciation": "सिस्टमेटाइज़", "gujaratiMeaning": "વ્યવસ્થિત કરવું", "hindiMeaning": "व्यवस्थित करना" },
+                "v2": { "word": "Systematized", "gujaratiPronunciation": "સિસ્ટમેટાઇઝ્ડ", "hindiPronunciation": "सिस्टमेटाइज़्ड", "gujaratiMeaning": "વ્યવસ્થિત કર્યું", "hindiMeaning": "व्यवस्थित किया" },
+                "v3": { "word": "Systematized", "gujaratiPronunciation": "સિસ્ટમેટાઇઝ્ડ", "hindiPronunciation": "सिस्टमेटाइज़्ड", "gujaratiMeaning": "વ્યવસ્થિત કરેલું", "hindiMeaning": "व्यवस्थित किया हुआ" },
+                "v4": { "word": "Systematizing", "gujaratiPronunciation": "સિસ્ટમેટાઇઝિંગ", "hindiPronunciation": "सिस्टमेटाइज़िंग", "gujaratiMeaning": "વ્યવસ્થિત કરી રહ્યું છે", "hindiMeaning": "व्यवस्थित कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઇઝ", "hindiPronunciation": "ऑर्गेनाइज़", "gujaratiMeaning": "આયોજન કરવું", "hindiMeaning": "आयोजित करना" },
+                { "word": "Standardize", "gujaratiPronunciation": "સ્ટાન્ડર્ડાઇઝ", "hindiPronunciation": "स्टैंडर्डाइज़", "gujaratiMeaning": "પ્રમાણિત કરવું", "hindiMeaning": "मानकीकृत करना" }
+            ],
+            "antonyms": [
+                { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गेनाइज़", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अस्त-व्यस्त करना" },
+                { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज़", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" }
+            ],
+            "confusingWords": [
+                { "word": "Summarize", "gujaratiPronunciation": "સમરાઇઝ", "hindiPronunciation": "समराइज़", "gujaratiMeaning": "સારાંશ આપવો", "hindiMeaning": "सारांश देना", "difference": "Systematize એટલે વ્યવસ્થિત રીતે ગોઠવવું, જ્યારે Summarize એટલે ટૂંકમાં કહેવું." }
+            ],
+            "exampleSentences": [
+                { "sentence": "She helped to systematize the company's records.", "gujaratiPronunciation": "શી હેલ્પ્ડ ટુ સિસ્ટમેટાઇઝ ધ કંપનીઝ રેકોર્ડ્સ.", "hindiPronunciation": "शी हेल्प्ड टू सिस्टमेटाइज़ द कंपनीज़ रिकॉर्ड्स।", "gujaratiTranslation": "તેણે કંપનીના રેકોર્ડને વ્યવસ્થિત કરવામાં મદદ કરી.", "hindiTranslation": "उसने कंपनी के रिकॉर्ड को व्यवस्थित करने में मदद की।" }
+            ]
+        },
+        {
+            "word": "Postulate",
+            "gujaratiPronunciation": "પોસ્ટ્યુલેટ",
+            "hindiPronunciation": "पॉस्ट्युलेट",
+            "gujaratiMeaning": "સ્વીકૃતિ તરીકે સૂચવવું",
+            "hindiMeaning": "अभिधारणा करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Postulate", "gujaratiPronunciation": "પોસ્ટ્યુલેટ", "hindiPronunciation": "पॉस्ट्युलेट", "gujaratiMeaning": "સૂચવવું", "hindiMeaning": "अभिधारणा करना" },
+                "v2": { "word": "Postulated", "gujaratiPronunciation": "પોસ્ટ્યુલેટેડ", "hindiPronunciation": "पॉस्ट्युलेटेड", "gujaratiMeaning": "સૂચવ્યું", "hindiMeaning": "अभिधारणा की" },
+                "v3": { "word": "Postulated", "gujaratiPronunciation": "પોસ્ટ્યુલેટેડ", "hindiPronunciation": "पॉस्ट्युलेटेड", "gujaratiMeaning": "સૂચવેલું", "hindiMeaning": "अभिधारणा की हुई" },
+                "v4": { "word": "Postulating", "gujaratiPronunciation": "પોસ્ટ્યુલેટિંગ", "hindiPronunciation": "पॉस्ट्युलेटिंग", "gujaratiMeaning": "સૂચવી રહ્યું છે", "hindiMeaning": "अभिधारणा कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Assume", "gujaratiPronunciation": "અસ્યુમ", "hindiPronunciation": "अज्यूम", "gujaratiMeaning": "માની લેવું", "hindiMeaning": "मान लेना" },
+                { "word": "Hypothesize", "gujaratiPronunciation": "હાઇપોથિસાઇઝ", "hindiPronunciation": "हाइपोथेसाइज़", "gujaratiMeaning": "પૂર્વધારણા કરવી", "hindiMeaning": "परिकल्पना करना" }
+            ],
+            "antonyms": [
+                { "word": "Prove", "gujaratiPronunciation": "પ્રુવ", "hindiPronunciation": "प्रूव", "gujaratiMeaning": "સાબિત કરવું", "hindiMeaning": "साबित करना" },
+                { "word": "Deny", "gujaratiPronunciation": "ડિનાય", "hindiPronunciation": "डिनाई", "gujaratiMeaning": "નકારવું", "hindiMeaning": "इनकार करना" }
+            ],
+            "confusingWords": [
+                { "word": "Populate", "gujaratiPronunciation": "પોપ્યુલેટ", "hindiPronunciation": "पॉप्युलेट", "gujaratiMeaning": "વસ્તી વસાવવી", "hindiMeaning": "आबाद करना", "difference": "Postulate એ કોઈ સિદ્ધાંતને સાચો માનીને આગળ વધવાની ક્રિયા છે, જ્યારે Populate એ કોઈ જગ્યાએ વસ્તી વસાવવાની ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "Scientists postulate that the universe is expanding.", "gujaratiPronunciation": "સાયન્ટિસ્ટ્સ પોસ્ટ્યુલેટ ધેટ ધ યુનિવર્સ ઇઝ એક્સપાન્ડિંગ.", "hindiPronunciation": "साइंटिस्ट्स पॉस्ट्युलेट दैट द यूनिवर्स इज़ एक्सपैंडिंग।", "gujaratiTranslation": "વૈજ્ઞાનિકો એવી સ્વીકૃતિ તરીકે સૂચવે છે કે બ્રહ્માંડ વિસ્તરી રહ્યું છે.", "hindiTranslation": "वैज्ञानिक यह अभिधारणा करते हैं कि ब्रह्मांड का विस्तार हो रहा है।" }
+            ]
+        },
+        {
+            "word": "Theorize",
+            "gujaratiPronunciation": "થિયરાઇઝ",
+            "hindiPronunciation": "थिओराइज़",
+            "gujaratiMeaning": "સિદ્ધાંત બનાવવો",
+            "hindiMeaning": "सिद्धांत बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Theorize", "gujaratiPronunciation": "થિયરાઇઝ", "hindiPronunciation": "थिओराइज़", "gujaratiMeaning": "સિદ્ધાંત બનાવવો", "hindiMeaning": "सिद्धांत बनाना" },
+                "v2": { "word": "Theorized", "gujaratiPronunciation": "થિયરાઇઝ્ડ", "hindiPronunciation": "थिओराइज़्ड", "gujaratiMeaning": "સિદ્ધાંત બનાવ્યો", "hindiMeaning": "सिद्धांत बनाया" },
+                "v3": { "word": "Theorized", "gujaratiPronunciation": "થિયરાઇઝ્ડ", "hindiPronunciation": "थिओराइज़्ड", "gujaratiMeaning": "સિદ્ધાંત બનાવેલો", "hindiMeaning": "सिद्धांत बनाया हुआ" },
+                "v4": { "word": "Theorizing", "gujaratiPronunciation": "થિયરાઇઝિંગ", "hindiPronunciation": "थिओराइज़िंग", "gujaratiMeaning": "સિદ્ધાંત બનાવી રહ્યું છે", "hindiMeaning": "सिद्धांत बना रहा है" }
+            },
+            "synonyms": [
+                { "word": "Speculate", "gujaratiPronunciation": "સ્પેક્યુલેટ", "hindiPronunciation": "स्पेक्युलेट", "gujaratiMeaning": "અટકળ કરવી", "hindiMeaning": "अटकलें लगाना" },
+                { "word": "Hypothesize", "gujaratiPronunciation": "હાઇપોથિસાઇઝ", "hindiPronunciation": "हाइपोथेसाइज़", "gujaratiMeaning": "પૂર્વધારણા કરવી", "hindiMeaning": "परिकल्पना करना" }
+            ],
+            "antonyms": [
+                { "word": "Observe", "gujaratiPronunciation": "ઓબ્ઝર્વ", "hindiPronunciation": "ऑब्ज़र्व", "gujaratiMeaning": "અવલોકન કરવું", "hindiMeaning": "अवलोकन करना" },
+                { "word": "Prove", "gujaratiPronunciation": "પ્રુવ", "hindiPronunciation": "प्रूव", "gujaratiMeaning": "સાબિત કરવું", "hindiMeaning": "साबित करना" }
+            ],
+            "confusingWords": [
+                { "word": "Terrorize", "gujaratiPronunciation": "ટેરરાઇઝ", "hindiPronunciation": "टेरराइज़", "gujaratiMeaning": "આતંક ફેલાવવો", "hindiMeaning": "आतंकित करना", "difference": "Theorize એ સિદ્ધાંત બનાવવાની બૌદ્ધિક ક્રિયા છે, જ્યારે Terrorize એ ભય ફેલાવવાની ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "He likes to theorize about the origins of the universe.", "gujaratiPronunciation": "હી લાઇક્સ ટુ થિયરાઇઝ અબાઉટ ધ ઓરિજિન્સ ઓફ ધ યુનિવર્સ.", "hindiPronunciation": "ही लाइक्स टू थिओराइज़ अबाउट द ओरिजिन्स ऑफ द यूनिवर्स।", "gujaratiTranslation": "તેને બ્રહ્માંડની ઉત્પત્તિ વિશે સિદ્ધાંત બનાવવો ગમે છે.", "hindiTranslation": "उसे ब्रह्मांड की उत्पत्ति के बारे में सिद्धांत बनाना पसंद है।" }
+            ]
+        },
+        {
+            "word": "Analyze",
+            "gujaratiPronunciation": "એનલાઇઝ",
+            "hindiPronunciation": "एनालाइज़",
+            "gujaratiMeaning": "વિશ્લેષણ કરવું",
+            "hindiMeaning": "विश्लेषण करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Analyze", "gujaratiPronunciation": "એનલાઇઝ", "hindiPronunciation": "एनालाइज़", "gujaratiMeaning": "વિશ્લેષણ કરવું", "hindiMeaning": "विश्लेषण करना" },
+                "v2": { "word": "Analyzed", "gujaratiPronunciation": "એનલાઇઝ્ડ", "hindiPronunciation": "एनालाइज़्ड", "gujaratiMeaning": "વિશ્લેષણ કર્યું", "hindiMeaning": "विश्लेषण किया" },
+                "v3": { "word": "Analyzed", "gujaratiPronunciation": "એનલાઇઝ્ડ", "hindiPronunciation": "एनालाइज़्ड", "gujaratiMeaning": "વિશ્લેષણ કરેલું", "hindiMeaning": "विश्लेषण किया हुआ" },
+                "v4": { "word": "Analyzing", "gujaratiPronunciation": "એનલાઇઝિંગ", "hindiPronunciation": "एनालाइज़िंग", "gujaratiMeaning": "વિશ્લેષણ કરી રહ્યું છે", "hindiMeaning": "विश्लेषण कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एग्ज़ामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जांचना" },
+                { "word": "Study", "gujaratiPronunciation": "સ્ટડી", "hindiPronunciation": "स्टडी", "gujaratiMeaning": "અભ્યાસ કરવો", "hindiMeaning": "अध्ययन करना" }
+            ],
+            "antonyms": [
+                { "word": "Synthesize", "gujaratiPronunciation": "સિન્થેસાઇઝ", "hindiPronunciation": "सिंथेसाइज़", "gujaratiMeaning": "સંશ્લેષણ કરવું", "hindiMeaning": "संश्लेषण करना" },
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Paralyze", "gujaratiPronunciation": "પેરાલાઇઝ", "hindiPronunciation": "पैरालाइज़", "gujaratiMeaning": "લકવો મારવો", "hindiMeaning": "लकवा मारना", "difference": "Analyze એ વિગતવાર તપાસ કરવાની ક્રિયા છે, જ્યારે Paralyze એ શારીરિક રીતે અક્ષમ બનાવવાની ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "We need to analyze the data carefully.", "gujaratiPronunciation": "વી નીડ ટુ એનલાઇઝ ધ ડેટા કેરફુલી.", "hindiPronunciation": "वी नीड टू एनालाइज़ द डेटा केयरफुली।", "gujaratiTranslation": "આપણે ડેટાનું કાળજીપૂર્વક વિશ્લેષણ કરવાની જરૂર છે.", "hindiTranslation": "हमें डेटा का सावधानीपूर्वक विश्लेषण करने की आवश्यकता है।" }
+            ]
+        },
+        {
+            "word": "Extrapolate",
+            "gujaratiPronunciation": "એક્સ્ટ્રાપોલેટ",
+            "hindiPronunciation": "एक्स्ट्रापोलेट",
+            "gujaratiMeaning": "બહિર્વેશ કરવું / અનુમાન કરવું",
+            "hindiMeaning": "बहिर्वेशन करना / अनुमान लगाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Extrapolate", "gujaratiPronunciation": "એક્સ્ટ્રાપોલેટ", "hindiPronunciation": "एक्स्ट्रापोलेट", "gujaratiMeaning": "અનુમાન કરવું", "hindiMeaning": "अनुमान लगाना" },
+                "v2": { "word": "Extrapolated", "gujaratiPronunciation": "એક્સ્ટ્રાપોલેટેડ", "hindiPronunciation": "एक्स्ट्रापोलेटेड", "gujaratiMeaning": "અનુમાન કર્યું", "hindiMeaning": "अनुमान लगाया" },
+                "v3": { "word": "Extrapolated", "gujaratiPronunciation": "એક્સ્ટ્રાપોલેટેડ", "hindiPronunciation": "एक्स्ट्रापोलेटेड", "gujaratiMeaning": "અનુમાન કરેલું", "hindiMeaning": "अनुमान लगाया हुआ" },
+                "v4": { "word": "Extrapolating", "gujaratiPronunciation": "એક્સ્ટ્રાપોલેટિંગ", "hindiPronunciation": "एक्स्ट्रापोलेटिंग", "gujaratiMeaning": "અનુમાન કરી રહ્યું છે", "hindiMeaning": "अनुमान लगा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Infer", "gujaratiPronunciation": "ઇન્ફર", "hindiPronunciation": "इन्फर", "gujaratiMeaning": "તારણ કાઢવું", "hindiMeaning": "निष्कर्ष निकालना" },
+                { "word": "Project", "gujaratiPronunciation": "પ્રોજેક્ટ", "hindiPronunciation": "प्रोजेक्ट", "gujaratiMeaning": "આગળ વધારવું", "hindiMeaning": "आगे बढ़ाना" }
+            ],
+            "antonyms": [
+                { "word": "Interpolate", "gujaratiPronunciation": "ઇન્ટરપોલેટ", "hindiPronunciation": "इंटरपोलेट", "gujaratiMeaning": "અંતર્વેશન કરવું", "hindiMeaning": "अंतर्वेशन करना" },
+                { "word": "Doubt", "gujaratiPronunciation": "ડાઉટ", "hindiPronunciation": "डाउट", "gujaratiMeaning": "શંકા કરવી", "hindiMeaning": "संदेह करना" }
+            ],
+            "confusingWords": [
+                { "word": "Extra plate", "gujaratiPronunciation": "એક્સ્ટ્રા પ્લેટ", "hindiPronunciation": "एक्स्ट्रा प्लेट", "gujaratiMeaning": "વધારાની થાળી", "hindiMeaning": "अतिरिक्त थाली", "difference": "Extrapolate એ ઉપલબ્ધ માહિતી પરથી ભવિષ્યનું અનુમાન લગાવવાની ક્રિયા છે. Extra plate એ ભોજન માટેની વધારાની થાળી છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "You can't just extrapolate from a single data point.", "gujaratiPronunciation": "યુ કાન્ટ જસ્ટ એક્સ્ટ્રાપોલેટ ફ્રોમ અ સિંગલ ડેટા પોઇન્ટ.", "hindiPronunciation": "यू कान्ट जस्ट एक्स्ट्रापोलेट फ्रॉम अ सिंगल डेटा पॉइंट।", "gujaratiTranslation": "તમે માત્ર એક ડેટા પોઇન્ટ પરથી અનુમાન ન લગાવી શકો.", "hindiTranslation": "आप सिर्फ एक डेटा बिंदु से अनुमान नहीं लगा सकते।" }
+            ]
+        }
+    ]
+}

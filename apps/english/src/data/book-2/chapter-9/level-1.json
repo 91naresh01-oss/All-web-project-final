@@ -1,0 +1,77 @@
+
+{
+  "id": "level-1",
+  "title": "Senses",
+  "words": [
+    {
+      "word": "See",
+      "gujaratiPronunciation": "સી",
+      "hindiPronunciation": "सी",
+      "gujaratiMeaning": "જોવું",
+      "hindiMeaning": "देखना",
+      "exampleSentences": [
+        {
+          "sentence": "I can see the beautiful mountains.",
+          "gujaratiTranslation": "હું સુંદર પર્વતો જોઈ શકું છું.",
+          "hindiTranslation": "मैं सुंदर पहाड़ों को देख सकता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Hear",
+      "gujaratiPronunciation": "હિયર",
+      "hindiPronunciation": "हियर",
+      "gujaratiMeaning": "સાંભળવું",
+      "hindiMeaning": "सुनना",
+      "exampleSentences": [
+        {
+          "sentence": "Can you hear the music?",
+          "gujaratiTranslation": "શું તમે સંગીત સાંભળી શકો છો?",
+          "hindiTranslation": "क्या तुम संगीत सुन सकते हो?"
+        }
+      ]
+    },
+    {
+      "word": "Touch",
+      "gujaratiPronunciation": "ટચ",
+      "hindiPronunciation": "टच",
+      "gujaratiMeaning": "સ્પર્શ કરવો",
+      "hindiMeaning": "छूना",
+      "exampleSentences": [
+        {
+          "sentence": "Don't touch the hot stove.",
+          "gujaratiTranslation": "ગરમ સ્ટવને સ્પર્શ કરશો નહીં.",
+          "hindiTranslation": "गर्म स्टोव को मत छुओ।"
+        }
+      ]
+    },
+    {
+      "word": "Smell",
+      "gujaratiPronunciation": "સ્મેલ",
+      "hindiPronunciation": "स्मेल",
+      "gujaratiMeaning": "સુંઘવું",
+      "hindiMeaning": "सूंघना",
+      "exampleSentences": [
+        {
+          "sentence": "I can smell the delicious food.",
+          "gujaratiTranslation": "હું સ્વાદિષ્ટ ભોજનની સુગંધ લઈ શકું છું.",
+          "hindiTranslation": "मैं स्वादिष्ट भोजन की गंध ले सकता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Taste",
+      "gujaratiPronunciation": "ટેસ્ટ",
+      "hindiPronunciation": "टेस्ट",
+      "gujaratiMeaning": "સ્વાદ લેવો",
+      "hindiMeaning": "स्वाद लेना",
+      "exampleSentences": [
+        {
+          "sentence": "This fruit has a sweet taste.",
+          "gujaratiTranslation": "આ ફળનો સ્વાદ મીઠો છે.",
+          "hindiTranslation": "इस फल का स्वाद मीठा है।"
+        }
+      ]
+    }
+  ]
+}

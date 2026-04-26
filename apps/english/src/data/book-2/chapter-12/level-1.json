@@ -1,0 +1,76 @@
+{
+  "id": "level-1",
+  "title": "Feelings and Actions 1",
+  "words": [
+    {
+      "word": "Love",
+      "gujaratiPronunciation": "લવ",
+      "hindiPronunciation": "लव",
+      "gujaratiMeaning": "પ્રેમ",
+      "hindiMeaning": "प्यार",
+      "exampleSentences": [
+        {
+          "sentence": "I love my family.",
+          "gujaratiTranslation": "હું મારા પરિવારને પ્રેમ કરું છું.",
+          "hindiTranslation": "मैं अपने परिवार से प्यार करता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Like",
+      "gujaratiPronunciation": "લાઇક",
+      "hindiPronunciation": "लाइक",
+      "gujaratiMeaning": "ગમવું",
+      "hindiMeaning": "पसंद करना",
+      "exampleSentences": [
+        {
+          "sentence": "I like to read books.",
+          "gujaratiTranslation": "મને પુસ્તકો વાંચવા ગમે છે.",
+          "hindiTranslation": "मुझे किताबें पढ़ना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Hate",
+      "gujaratiPronunciation": "હેટ",
+      "hindiPronunciation": "हेट",
+      "gujaratiMeaning": "નફરત કરવી",
+      "hindiMeaning": "नफरत करना",
+      "exampleSentences": [
+        {
+          "sentence": "I hate waking up early.",
+          "gujaratiTranslation": "મને વહેલા ઉઠવું ગમતું નથી.",
+          "hindiTranslation": "मुझे सुबह जल्दी उठने से नफरत है।"
+        }
+      ]
+    },
+    {
+      "word": "Cry",
+      "gujaratiPronunciation": "ક્રાય",
+      "hindiPronunciation": "क्राय",
+      "gujaratiMeaning": "રડવું",
+      "hindiMeaning": "रोना",
+      "exampleSentences": [
+        {
+          "sentence": "The baby started to cry.",
+          "gujaratiTranslation": "બાળક રડવા લાગ્યું.",
+          "hindiTranslation": "बच्चा रोने लगा।"
+        }
+      ]
+    },
+    {
+      "word": "Smile",
+      "gujaratiPronunciation": "સ્માઇલ",
+      "hindiPronunciation": "स्माइल",
+      "gujaratiMeaning": "હાસ્ય",
+      "hindiMeaning": "मुस्कान",
+      "exampleSentences": [
+        {
+          "sentence": "She has a beautiful smile.",
+          "gujaratiTranslation": "તેણીનું હાસ્ય સુંદર છે.",
+          "hindiTranslation": "उसकी मुस्कान बहुत सुंदर है।"
+        }
+      ]
+    }
+  ]
+}

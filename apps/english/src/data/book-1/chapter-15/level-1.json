@@ -1,0 +1,47 @@
+
+{
+  "id": "level-1",
+  "title": "Household 1",
+  "words": [
+    {
+      "word": "Bed",
+      "icon": "🛏️",
+      "gujaratiPronunciation": "બેડ",
+      "hindiPronunciation": "बेड",
+      "gujaratiMeaning": "પલંગ",
+      "hindiMeaning": "बिस्तर"
+    },
+    {
+      "word": "Chair",
+      "icon": "🪑",
+      "gujaratiPronunciation": "ચેર",
+      "hindiPronunciation": "चेयर",
+      "gujaratiMeaning": "ખુરશી",
+      "hindiMeaning": "कुर्सी"
+    },
+    {
+      "word": "Table",
+      "icon": "🪟",
+      "gujaratiPronunciation": "ટેબલ",
+      "hindiPronunciation": "टेबल",
+      "gujaratiMeaning": "મેજ",
+      "hindiMeaning": "मेज़"
+    },
+    {
+      "word": "Door",
+      "icon": "🚪",
+      "gujaratiPronunciation": "ડોર",
+      "hindiPronunciation": "डोर",
+      "gujaratiMeaning": "દરવાજો",
+      "hindiMeaning": "दरवाज़ा"
+    },
+    {
+      "word": "Fan",
+      "icon": "🌬️",
+      "gujaratiPronunciation": "ફેન",
+      "hindiPronunciation": "फैन",
+      "gujaratiMeaning": "પંખો",
+      "hindiMeaning": "पंखा"
+    }
+  ]
+}

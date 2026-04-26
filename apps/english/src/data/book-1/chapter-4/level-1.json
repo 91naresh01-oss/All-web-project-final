@@ -1,0 +1,47 @@
+
+{
+    "id": "level-1",
+    "title": "Shapes 1",
+    "words": [
+        {
+            "word": "Circle",
+            "icon": "⭕",
+            "gujaratiPronunciation": "સર્કલ",
+            "hindiPronunciation": "सर्कल",
+            "gujaratiMeaning": "વર્તુળ",
+            "hindiMeaning": "वृत्त"
+        },
+        {
+            "word": "Square",
+            "icon": "⬛",
+            "gujaratiPronunciation": "સ્ક્વેર",
+            "hindiPronunciation": "स्क्वेयर",
+            "gujaratiMeaning": "ચોરસ",
+            "hindiMeaning": "वर्ग"
+        },
+        {
+            "word": "Triangle",
+            "icon": "🔺",
+            "gujaratiPronunciation": "ટ્રાયેંગલ",
+            "hindiPronunciation": "ट्रायंगल",
+            "gujaratiMeaning": "ત્રિકોણ",
+            "hindiMeaning": "त्रिभुज"
+        },
+        {
+            "word": "Rectangle",
+            "icon": "▭",
+            "gujaratiPronunciation": "રેક્ટેંગલ",
+            "hindiPronunciation": "रेक्टेंगल",
+            "gujaratiMeaning": "લંબચોરસ",
+            "hindiMeaning": "आयत"
+        },
+        {
+            "word": "Line",
+            "icon": "📏",
+            "gujaratiPronunciation": "લાઇન",
+            "hindiPronunciation": "लाइन",
+            "gujaratiMeaning": "રેખા",
+            "hindiMeaning": "रेखा"
+        }
+    ]
+}

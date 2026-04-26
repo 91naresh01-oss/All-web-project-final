@@ -1,0 +1,77 @@
+
+{
+  "id": "level-2",
+  "title": "Common Verbs 1",
+  "words": [
+    {
+      "word": "Eat",
+      "gujaratiPronunciation": "ઈટ",
+      "hindiPronunciation": "ईट",
+      "gujaratiMeaning": "ખાવું",
+      "hindiMeaning": "खाना",
+      "exampleSentences": [
+        {
+          "sentence": "I eat an apple every day.",
+          "gujaratiTranslation": "હું દરરોજ એક સફરજન ખાઉં છું.",
+          "hindiTranslation": "मैं हर दिन एक सेब खाता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Drink",
+      "gujaratiPronunciation": "ડ્રિન્ક",
+      "hindiPronunciation": "ड्रिंक",
+      "gujaratiMeaning": "પીવું",
+      "hindiMeaning": "पीना",
+      "exampleSentences": [
+        {
+          "sentence": "We should drink plenty of water.",
+          "gujaratiTranslation": "આપણે પુષ્કળ પાણી પીવું જોઈએ.",
+          "hindiTranslation": "हमें खूब पानी पीना चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Sleep",
+      "gujaratiPronunciation": "સ્લીપ",
+      "hindiPronunciation": "स्लीप",
+      "gujaratiMeaning": "સૂવું",
+      "hindiMeaning": "सोना",
+      "exampleSentences": [
+        {
+          "sentence": "The baby is sleeping.",
+          "gujaratiTranslation": "બાળક સૂઈ રહ્યું છે.",
+          "hindiTranslation": "बच्चा सो रहा है।"
+        }
+      ]
+    },
+    {
+      "word": "Play",
+      "gujaratiPronunciation": "પ્લે",
+      "hindiPronunciation": "प्ले",
+      "gujaratiMeaning": "રમવું",
+      "hindiMeaning": "खेलना",
+      "exampleSentences": [
+        {
+          "sentence": "Children love to play.",
+          "gujaratiTranslation": "બાળકોને રમવું ગમે છે.",
+          "hindiTranslation": "बच्चों को खेलना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Talk",
+      "gujaratiPronunciation": "ટોક",
+      "hindiPronunciation": "टॉक",
+      "gujaratiMeaning": "વાત કરવી",
+      "hindiMeaning": "बात करना",
+      "exampleSentences": [
+        {
+          "sentence": "Let's talk about the plan.",
+          "gujaratiTranslation": "ચાલો યોજના વિશે વાત કરીએ.",
+          "hindiTranslation": "चलो योजना के बारे में बात करते हैं।"
+        }
+      ]
+    }
+  ]
+}

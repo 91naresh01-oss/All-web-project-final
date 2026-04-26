@@ -1,0 +1,381 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Bestow",
+      "gujaratiPronunciation": "બિસ્ટો",
+      "hindiPronunciation": "बिस्टो",
+      "gujaratiMeaning": "અર્પણ કરવું, પ્રદાન કરવું",
+      "hindiMeaning": "प्रदान करना, अर्पित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Bestow",
+          "pronunciation": "બિસ્ટો",
+          "meaning": "અર્પણ કરવું"
+        },
+        "V2 (Past)": {
+          "word": "Bestowed",
+          "pronunciation": "બિસ્ટોડ",
+          "meaning": "અર્પણ કર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Bestowed",
+          "pronunciation": "બિસ્ટોડ",
+          "meaning": "અર્પણ કરેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Bestowing",
+          "pronunciation": "બિસ્ટોઇંગ",
+          "meaning": "અર્પણ કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Grant",
+          "pronunciation": "ગ્રાન્ટ",
+          "meaning": "મંજૂર કરવું"
+        },
+        {
+          "word": "Confer",
+          "pronunciation": "કન્ફર",
+          "meaning": "આપવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Withhold",
+          "pronunciation": "વિથહોલ્ડ",
+          "meaning": "રોકી રાખવું"
+        },
+        {
+          "word": "Deny",
+          "pronunciation": "ડિનાય",
+          "meaning": "નકારવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Below",
+          "pronunciation": "બિલો",
+          "meaning": "નીચે"
+        },
+        {
+          "word": "Best",
+          "pronunciation": "બેસ્ટ",
+          "meaning": "શ્રેષ્ઠ"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The queen bestowed a knighthood upon him.",
+          "gujaratiTranslation": "રાણીએ તેને નાઈટહુડ (એક પદવી) અર્પણ કરી.",
+          "hindiTranslation": "रानी ने उन्हें नाइटहुड प्रदान किया।",
+          "gujaratiPronunciation": "ધ ક્વીન બિસ્ટોડ અ નાઇટહુડ અપોન હિમ.",
+          "hindiPronunciation": "द क्वीन बिस्टोड अ नाइटहुड अपॉन हिम।"
+        }
+      ]
+    },
+    {
+      "word": "Convey",
+      "gujaratiPronunciation": "કન્વે",
+      "hindiPronunciation": "कन्वे",
+      "gujaratiMeaning": "પહોંચાડવું, વ્યક્ત કરવું",
+      "hindiMeaning": "पहुंचाना, व्यक्त करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Convey",
+          "pronunciation": "કન્વે",
+          "meaning": "પહોંચાડવું"
+        },
+        "V2 (Past)": {
+          "word": "Conveyed",
+          "pronunciation": "કન્વેડ",
+          "meaning": "પહોંચાડ્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Conveyed",
+          "pronunciation": "કન્વેડ",
+          "meaning": "પહોંચાડેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Conveying",
+          "pronunciation": "કન્વેઇંગ",
+          "meaning": "પહોંચાડી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Communicate",
+          "pronunciation": "કમ્યુનિકેટ",
+          "meaning": "સંચાર કરવો"
+        },
+        {
+          "word": "Transport",
+          "pronunciation": "ટ્રાન્સપોર્ટ",
+          "meaning": "વહન કરવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Withhold",
+          "pronunciation": "વિથહોલ્ડ",
+          "meaning": "રોકી રાખવું"
+        },
+        {
+          "word": "Conceal",
+          "pronunciation": "કન્સીલ",
+          "meaning": "છુપાવવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Convoy",
+          "pronunciation": "કોન્વોય",
+          "meaning": "કાફલો"
+        },
+        {
+          "word": "Canvas",
+          "pronunciation": "કેનવાસ",
+          "meaning": "એક પ્રકારનું કાપડ"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please convey my best wishes to your family.",
+          "gujaratiTranslation": "મહેરબાની કરીને તમારા પરિવારને મારી શુભેચ્છાઓ પહોંચાડજો.",
+          "hindiTranslation": "कृपया अपने परिवार को मेरी शुभकामनाएँ पहुँचाएँ।",
+          "gujaratiPronunciation": "પ્લીઝ કન્વે માય બેસ્ટ વિશિઝ ટુ યોર ફેમિલી.",
+          "hindiPronunciation": "प्लीज कन्वे माय बेस्ट विशेज टू योर फैमिली।"
+        }
+      ]
+    },
+    {
+      "word": "Endow",
+      "gujaratiPronunciation": "એન્ડાઉ",
+      "hindiPronunciation": "एंडाउ",
+      "gujaratiMeaning": "દાન કરવું, સંપન્ન કરવું",
+      "hindiMeaning": "दान करना, संपन्न करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Endow",
+          "pronunciation": "એન્ડાઉ",
+          "meaning": "દાન કરવું"
+        },
+        "V2 (Past)": {
+          "word": "Endowed",
+          "pronunciation": "એન્ડાઉડ",
+          "meaning": "દાન કર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Endowed",
+          "pronunciation": "એન્ડાઉડ",
+          "meaning": "દાન કરેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Endowing",
+          "pronunciation": "એન્ડાઉઇંગ",
+          "meaning": "દાન કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Provide",
+          "pronunciation": "પ્રોવાઇડ",
+          "meaning": "પૂરું પાડવું"
+        },
+        {
+          "word": "Gift",
+          "pronunciation": "ગિફ્ટ",
+          "meaning": "ભેટ આપવી"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Deprive",
+          "pronunciation": "ડિપ્રાઇવ",
+          "meaning": "વંચિત કરવું"
+        },
+        {
+          "word": "Take",
+          "pronunciation": "ટેક",
+          "meaning": "લઈ લેવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Window",
+          "pronunciation": "વિન્ડો",
+          "meaning": "બારી"
+        },
+        {
+          "word": "Elbow",
+          "pronunciation": "એલ્બો",
+          "meaning": "કોણી"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Nature endowed him with a great musical talent.",
+          "gujaratiTranslation": "કુદરતે તેને મહાન સંગીત પ્રતિભાથી સંપન્ન કર્યો હતો.",
+          "hindiTranslation": "प्रकृति ने उसे महान संगीत प्रतिभा से संपन्न किया।",
+          "gujaratiPronunciation": "નેચર એન્ડાઉડ હિમ વિથ અ ગ્રેટ મ્યુઝિકલ ટેલેન્ટ.",
+          "hindiPronunciation": "नेचर एंडाउड हिम विथ अ ग्रेट म्यूजिकल टैलेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Allot",
+      "gujaratiPronunciation": "અલોટ",
+      "hindiPronunciation": "अलॉट",
+      "gujaratiMeaning": "ફાળવવું, વહેંચવું",
+      "hindiMeaning": "आवंटित करना, बांटना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Allot",
+          "pronunciation": "અલોટ",
+          "meaning": "ફાળવવું"
+        },
+        "V2 (Past)": {
+          "word": "Allotted",
+          "pronunciation": "અલોટેડ",
+          "meaning": "ફાળવ્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Allotted",
+          "pronunciation": "અલોટેડ",
+          "meaning": "ફાળવેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Allotting",
+          "pronunciation": "અલોટિંગ",
+          "meaning": "ફાળવી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Allocate",
+          "pronunciation": "એલોકેટ",
+          "meaning": "ફાળવણી કરવી"
+        },
+        {
+          "word": "Assign",
+          "pronunciation": "અસાઇન",
+          "meaning": "સોંપવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Withhold",
+          "pronunciation": "વિથહોલ્ડ",
+          "meaning": "અટકાવી રાખવું"
+        },
+        {
+          "word": "Keep",
+          "pronunciation": "કીપ",
+          "meaning": "રાખવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "A lot",
+          "pronunciation": "અ લોટ",
+          "meaning": "ઘણું બધું"
+        },
+        {
+          "word": "Allowed",
+          "pronunciation": "અલાઉડ",
+          "meaning": "મંજૂરી આપી"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The committee will allot funds for the new project.",
+          "gujaratiTranslation": "સમિતિ નવા પ્રોજેક્ટ માટે ભંડોળ ફાળવશે.",
+          "hindiTranslation": "समिति नई परियोजना के लिए धन आवंटित करेगी।",
+          "gujaratiPronunciation": "ધ કમિટી વિલ અલોટ ફંડ્સ ફોર ધ ન્યુ પ્રોજેક્ટ.",
+          "hindiPronunciation": "द कमेटी विल अलॉट फंड्स फॉर द न्यू प्रोजेक्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Procure",
+      "gujaratiPronunciation": "પ્રોક્યોર",
+      "hindiPronunciation": "प्रोक्योर",
+      "gujaratiMeaning": "મેળવવું, પ્રાપ્ત કરવું (ખાસ કરીને પ્રયત્નપૂર્વક)",
+      "hindiMeaning": "प्राप्त करना, हासिल करना (विशेष रूप से प्रयास से)",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Procure",
+          "pronunciation": "પ્રોક્યોર",
+          "meaning": "મેળવવું"
+        },
+        "V2 (Past)": {
+          "word": "Procured",
+          "pronunciation": "પ્રોક્યોર્ડ",
+          "meaning": "મેળવ્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Procured",
+          "pronunciation": "પ્રોક્યોર્ડ",
+          "meaning": "મેળવેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Procuring",
+          "pronunciation": "પ્રોક્યોરિંગ",
+          "meaning": "મેળવી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Obtain",
+          "pronunciation": "ઓબ્ટેન",
+          "meaning": "પ્રાપ્ત કરવું"
+        },
+        {
+          "word": "Acquire",
+          "pronunciation": "એક્વાયર",
+          "meaning": "હસ્તગત કરવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Lose",
+          "pronunciation": "લૂઝ",
+          "meaning": "ગુમાવવું"
+        },
+        {
+          "word": "Forfeit",
+          "pronunciation": "ફોરફિટ",
+          "meaning": "જતું કરવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Secure",
+          "pronunciation": "સિક્યોર",
+          "meaning": "સુરક્ષિત"
+        },
+        {
+          "word": "Pure",
+          "pronunciation": "પ્યોર",
+          "meaning": "શુદ્ધ"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He managed to procure a rare manuscript.",
+          "gujaratiTranslation": "તે એક દુર્લભ હસ્તપ્રત મેળવવામાં સફળ રહ્યો.",
+          "hindiTranslation": "वह एक दुर्लभ पांडुलिपि प्राप्त करने में कामयाब रहा।",
+          "gujaratiPronunciation": "હી મેનેજ્ડ ટુ પ્રોક્યોર અ રેર મેન્યુસ્ક્રિપ્ટ.",
+          "hindiPronunciation": "ही मैनेज्ड टू प्रोक्योर अ रेर मैन्युस्क्रिप्ट।"
+        }
+      ]
+    }
+  ]
+}

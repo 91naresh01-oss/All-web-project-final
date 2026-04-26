@@ -1,0 +1,11 @@
+{
+    "id": "level-1",
+    "title": "Immediate Family",
+    "words": [
+        { "word": "Father", "icon": "👨", "gujaratiMeaning": "પિતા", "hindiMeaning": "पिता", "gujaratiPronunciation": "ફાધર", "hindiPronunciation": "फादर" },
+        { "word": "Mother", "icon": "👩", "gujaratiMeaning": "માતા", "hindiMeaning": "माँ", "gujaratiPronunciation": "મધર", "hindiPronunciation": "मदर" },
+        { "word": "Brother", "icon": "👦", "gujaratiMeaning": "ભાઈ", "hindiMeaning": "भाई", "gujaratiPronunciation": "બ્રધર", "hindiPronunciation": "ब्रदर" },
+        { "word": "Sister", "icon": "👧", "gujaratiMeaning": "બહેન", "hindiMeaning": "बहन", "gujaratiPronunciation": "સિસ્ટર", "hindiPronunciation": "सिस्टर" },
+        { "word": "Baby", "icon": "👶", "gujaratiMeaning": "બાળક", "hindiMeaning": "बच्चा", "gujaratiPronunciation": "બેબી", "hindiPronunciation": "बेबी" }
+    ]
+}

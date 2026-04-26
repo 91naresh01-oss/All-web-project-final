@@ -1,0 +1,47 @@
+
+{
+  "id": "level-2",
+  "title": "Household 2",
+  "words": [
+    {
+      "word": "Light",
+      "icon": "💡",
+      "gujaratiPronunciation": "લાઈટ",
+      "hindiPronunciation": "लाइट",
+      "gujaratiMeaning": "બત્તી",
+      "hindiMeaning": "बत्ती"
+    },
+    {
+      "word": "Cup",
+      "icon": "☕",
+      "gujaratiPronunciation": "કપ",
+      "hindiPronunciation": "कप",
+      "gujaratiMeaning": "કપ",
+      "hindiMeaning": "कप"
+    },
+    {
+      "word": "Plate",
+      "icon": "🍽️",
+      "gujaratiPronunciation": "પ્લેટ",
+      "hindiPronunciation": "प्लेट",
+      "gujaratiMeaning": "થાળી",
+      "hindiMeaning": "थाली"
+    },
+    {
+      "word": "Spoon",
+      "icon": "🥄",
+      "gujaratiPronunciation": "સ્પૂન",
+      "hindiPronunciation": "स्पून",
+      "gujaratiMeaning": "ચમચી",
+      "hindiMeaning": "चम्मच"
+    },
+    {
+      "word": "Key",
+      "icon": "🔑",
+      "gujaratiPronunciation": "કી",
+      "hindiPronunciation": "की",
+      "gujaratiMeaning": "ચાવી",
+      "hindiMeaning": "चाबी"
+    }
+  ]
+}

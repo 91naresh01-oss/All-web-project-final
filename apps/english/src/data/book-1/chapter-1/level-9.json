@@ -1,0 +1,46 @@
+{
+    "id": "level-9",
+    "title": "Collective Numbers",
+    "words": [
+        {
+            "word": "Pair",
+            "icon": "🎎",
+            "gujaratiPronunciation": "પેર",
+            "hindiPronunciation": "पेयर",
+            "gujaratiMeaning": "જોડી",
+            "hindiMeaning": "जोड़ी"
+        },
+        {
+            "word": "Dozen",
+            "icon": "🍌",
+            "gujaratiPronunciation": "ડઝન",
+            "hindiPronunciation": "डज़न",
+            "gujaratiMeaning": "ડઝન (બાર)",
+            "hindiMeaning": "दर्जन (बारह)"
+        },
+        {
+            "word": "Score",
+            "icon": "🔢",
+            "gujaratiPronunciation": "સ્કોર",
+            "hindiPronunciation": "स्कोर",
+            "gujaratiMeaning": "સ્કોર",
+            "hindiMeaning": "अंक"
+        },
+        {
+            "word": "Century",
+            "icon": "💯",
+            "gujaratiPronunciation": "સેન્ચ્યુરી",
+            "hindiPronunciation": "सेंचुरी",
+            "gujaratiMeaning": "સદી (સો)",
+            "hindiMeaning": "सदी (सौ)"
+        },
+        {
+            "word": "Millennium",
+            "icon": "🗓️",
+            "gujaratiPronunciation": "મિલેનિયમ",
+            "hindiPronunciation": "मिलेनियम",
+            "gujaratiMeaning": "સહસ્ત્રાબ્દી (હજાર વર્ષ)",
+            "hindiMeaning": "सहस्राब्दी (हजार साल)"
+        }
+    ]
+}

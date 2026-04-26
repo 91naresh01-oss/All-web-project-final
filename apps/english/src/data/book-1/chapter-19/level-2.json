@@ -1,0 +1,11 @@
+{
+    "id": "level-2",
+    "title": "Extended Family",
+    "words": [
+        { "word": "Grandfather", "icon": "👴", "gujaratiMeaning": "દાદા", "hindiMeaning": "दादा", "gujaratiPronunciation": "ગ્રાન્ડફાધર", "hindiPronunciation": "ग्रैंडफादर" },
+        { "word": "Grandmother", "icon": "👵", "gujaratiMeaning": "દાદી", "hindiMeaning": "दादी", "gujaratiPronunciation": "ગ્રાન્ડમધર", "hindiPronunciation": "ग्रैंडमदर" },
+        { "word": "Uncle", "icon": "👨‍💼", "gujaratiMeaning": "કાકા/મામા", "hindiMeaning": "चाचा/मामा", "gujaratiPronunciation": "અંકલ", "hindiPronunciation": "अंकल" },
+        { "word": "Aunt", "icon": "👩‍💼", "gujaratiMeaning": "કાકી/માસી", "hindiMeaning": "चाची/मौसी", "gujaratiPronunciation": "આંટ", "hindiPronunciation": "आंट" },
+        { "word": "Cousin", "icon": "🧑", "gujaratiMeaning": "પિતરાઇ", "hindiMeaning": "चचेरा भाई/बहन", "gujaratiPronunciation": "કઝિન", "hindiPronunciation": "कजिन" }
+    ]
+}

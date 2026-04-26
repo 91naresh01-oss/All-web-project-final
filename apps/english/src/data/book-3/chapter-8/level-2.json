@@ -1,0 +1,174 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Defensive Maneuvers",
+  "words": [
+    {
+      "word": "Counter",
+      "gujaratiPronunciation": "કાઉન્ટર",
+      "hindiPronunciation": "काउंटर",
+      "gujaratiMeaning": "પ્રતિઆક્રમણ કરવું, વિરોધ કરવો",
+      "hindiMeaning": "जवाबी हमला करना, विरोध करना",
+      "partOfSpeech": "Verb, Noun, Adverb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Counter", "gujaratiPronunciation": "કાઉન્ટર", "hindiPronunciation": "काउंटर", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" },
+        "V2 (Past)": { "word": "Countered", "gujaratiPronunciation": "કાઉન્ટર્ડ", "hindiPronunciation": "काउंटर्ड", "gujaratiMeaning": "વિરોધ કર્યો", "hindiMeaning": "विरोध किया" },
+        "V3 (Past Participle)": { "word": "Countered", "gujaratiPronunciation": "કાઉન્ટર્ડ", "hindiPronunciation": "काउंटर्ड", "gujaratiMeaning": "વિરોધ કરેલ", "hindiMeaning": "विरोध किया हुआ" },
+        "V4 (Present Participle)": { "word": "Countering", "gujaratiPronunciation": "કાઉન્ટરિંગ", "hindiPronunciation": "काउंटरिंग", "gujaratiMeaning": "વિરોધ કરી રહ્યું છે", "hindiMeaning": "विरोध कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Oppose", "gujaratiPronunciation": "ઓપોઝ", "hindiPronunciation": "अपोज़", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" },
+        { "word": "Retaliate", "gujaratiPronunciation": "રિટેલિએટ", "hindiPronunciation": "रिटैलिएट", "gujaratiMeaning": "બદલો લેવો", "hindiMeaning": "जवाब देना" }
+      ],
+      "antonyms": [
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" },
+        { "word": "Agree", "gujaratiPronunciation": "એગ્રી", "hindiPronunciation": "एग्री", "gujaratiMeaning": "સંમત થવું", "hindiMeaning": "सहमत होना" }
+      ],
+      "confusingWords": [
+        { "word": "Country", "gujaratiPronunciation": "કન્ટ્રી", "hindiPronunciation": "कंट्री", "gujaratiMeaning": "દેશ", "hindiMeaning": "देश" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She countered his argument with solid facts.",
+          "gujaratiTranslation": "તેણીએ તેના તર્કનો નક્કર તથ્યો સાથે વિરોધ કર્યો.",
+          "hindiTranslation": "उसने ठोस तथ्यों के साथ उसके तर्क का मुकाबला किया।",
+          "gujaratiPronunciation": "શી કાઉન્ટર્ડ હિઝ આર્ગ્યુમેન્ટ વિથ સોલિડ ફેક્ટ્સ.",
+          "hindiPronunciation": "शी काउंटर्ड हिज़ आर्ग्यूमेंट विथ सॉलिड फैक्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Block",
+      "gujaratiPronunciation": "બ્લોક",
+      "hindiPronunciation": "ब्लॉक",
+      "gujaratiMeaning": "અવરોધવું, રોકવું",
+      "hindiMeaning": "अवरुद्ध करना, रोकना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Block", "gujaratiPronunciation": "બ્લોક", "hindiPronunciation": "ब्लॉक", "gujaratiMeaning": "અવરોધવું", "hindiMeaning": "अवरुद्ध करना" },
+        "V2 (Past)": { "word": "Blocked", "gujaratiPronunciation": "બ્લોક્ડ", "hindiPronunciation": "ब्लॉक्ड", "gujaratiMeaning": "અવરોધ્યું", "hindiMeaning": "अवरुद्ध किया" },
+        "V3 (Past Participle)": { "word": "Blocked", "gujaratiPronunciation": "બ્લોક્ડ", "hindiPronunciation": "ब्लॉक्ड", "gujaratiMeaning": "અવરોધેલું", "hindiMeaning": "अवरुद्ध" },
+        "V4 (Present Participle)": { "word": "Blocking", "gujaratiPronunciation": "બ્લોકિંગ", "hindiPronunciation": "ब्लॉकिंग", "gujaratiMeaning": "અવરોધી રહ્યું છે", "hindiMeaning": "अवरुद्ध कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Obstruct", "gujaratiPronunciation": "ઓબસ્ટ્રક્ટ", "hindiPronunciation": "ऑबस्ट्रक्ट", "gujaratiMeaning": "અવરોધવું", "hindiMeaning": "बाधा डालना" },
+        { "word": "Hinder", "gujaratiPronunciation": "હિન્ડર", "hindiPronunciation": "हिंडर", "gujaratiMeaning": "અવરોધવું", "hindiMeaning": "बाधा डालना" }
+      ],
+      "antonyms": [
+        { "word": "Allow", "gujaratiPronunciation": "અલાઉ", "hindiPronunciation": "अलाउ", "gujaratiMeaning": "પરવાનગી આપવી", "hindiMeaning": "अनुमति देना" },
+        { "word": "Clear", "gujaratiPronunciation": "ક્લિયર", "hindiPronunciation": "क्लियर", "gujaratiMeaning": "સાફ કરવું", "hindiMeaning": "साफ करना" }
+      ],
+      "confusingWords": [
+        { "word": "Clock", "gujaratiPronunciation": "ક્લોક", "hindiPronunciation": "क्लॉक", "gujaratiMeaning": "ઘડિયાળ", "hindiMeaning": "घड़ी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A fallen tree will block the road.",
+          "gujaratiTranslation": "એક પડેલું ઝાડ રસ્તો રોકશે.",
+          "hindiTranslation": "एक गिरा हुआ पेड़ सड़क को अवरुद्ध कर देगा।",
+          "gujaratiPronunciation": "અ ફોલન ટ્રી વિલ બ્લોક ધ રોડ.",
+          "hindiPronunciation": "अ फॉलन ट्री विल ब्लॉक द रोड।"
+        }
+      ]
+    },
+    {
+      "word": "Deter",
+      "gujaratiPronunciation": "ડિટર",
+      "hindiPronunciation": "डिटर",
+      "gujaratiMeaning": "રોકવું, નિરુત્સાહિત કરવું",
+      "hindiMeaning": "रोकना, हतोत्साहित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Deter", "gujaratiPronunciation": "ડિટર", "hindiPronunciation": "डिटर", "gujaratiMeaning": "રોકવું", "hindiMeaning": "रोकना" },
+        "V2 (Past)": { "word": "Deterred", "gujaratiPronunciation": "ડિટર્ડ", "hindiPronunciation": "डिटर्ड", "gujaratiMeaning": "રોક્યું", "hindiMeaning": "रोका" },
+        "V3 (Past Participle)": { "word": "Deterred", "gujaratiPronunciation": "ડિટર્ડ", "hindiPronunciation": "डिटर्ड", "gujaratiMeaning": "રોકેલું", "hindiMeaning": "रोका हुआ" },
+        "V4 (Present Participle)": { "word": "Deterring", "gujaratiPronunciation": "ડિટરિંગ", "hindiPronunciation": "डिटरिंग", "gujaratiMeaning": "રોકી રહ્યું છે", "hindiMeaning": "रोक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Discourage", "gujaratiPronunciation": "ડિસ્કરેજ", "hindiPronunciation": "डिस्कैज", "gujaratiMeaning": "નિરુત્સાહિત કરવું", "hindiMeaning": "हतोत्साहित करना" },
+        { "word": "Prevent", "gujaratiPronunciation": "પ્રિવેન્ટ", "hindiPronunciation": "प्रिवेंट", "gujaratiMeaning": "અટકાવવું", "hindiMeaning": "रोकना" }
+      ],
+      "antonyms": [
+        { "word": "Encourage", "gujaratiPronunciation": "એન્કરેજ", "hindiPronunciation": "एनकरेज", "gujaratiMeaning": "પ્રોત્સાહિત કરવું", "hindiMeaning": "प्रोत्साहित करना" },
+        { "word": "Incite", "gujaratiPronunciation": "ઇન્સાઇટ", "hindiPronunciation": "इन्साइट", "gujaratiMeaning": "ઉશ્કેરવું", "hindiMeaning": "उकसाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "High prices deter many people from buying.",
+          "gujaratiTranslation": "ઊંચા ભાવ ઘણા લોકોને ખરીદી કરતા રોકે છે.",
+          "hindiTranslation": "ऊंची कीमतें कई लोगों को खरीदने से रोकती हैं।",
+          "gujaratiPronunciation": "હાઇ પ્રાઇસીસ ડિટર મેની પીપલ ફ્રોમ બાઇંગ.",
+          "hindiPronunciation": "हाई प्राइसेस डिटर मेनी पीपल फ्रॉम बाइंग।"
+        }
+      ]
+    },
+    {
+      "word": "Evade",
+      "gujaratiPronunciation": "ઇવેડ",
+      "hindiPronunciation": "इवेड",
+      "gujaratiMeaning": "ટાળવું, છટકી જવું",
+      "hindiMeaning": "बचना, टालना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Evade", "gujaratiPronunciation": "ઇવેડ", "hindiPronunciation": "इवेड", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "बचना" },
+        "V2 (Past)": { "word": "Evaded", "gujaratiPronunciation": "ઇવેડેડ", "hindiPronunciation": "इवेडेड", "gujaratiMeaning": "ટાળ્યું", "hindiMeaning": "बचा" },
+        "V3 (Past Participle)": { "word": "Evaded", "gujaratiPronunciation": "ઇવેડેડ", "hindiPronunciation": "इवेडेड", "gujaratiMeaning": "ટાળેલું", "hindiMeaning": "बचा हुआ" },
+        "V4 (Present Participle)": { "word": "Evading", "gujaratiPronunciation": "ઇવેડિંગ", "hindiPronunciation": "इवेडिंग", "gujaratiMeaning": "ટાળી રહ્યું છે", "hindiMeaning": "बच रहा है" }
+      },
+      "synonyms": [
+        { "word": "Avoid", "gujaratiPronunciation": "અવોઇડ", "hindiPronunciation": "अवॉइड", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" },
+        { "word": "Dodge", "gujaratiPronunciation": "ડોજ", "hindiPronunciation": "डॉज", "gujaratiMeaning": "છટકી જવું", "hindiMeaning": "च बचना" }
+      ],
+      "antonyms": [
+        { "word": "Confront", "gujaratiPronunciation": "કન્ફ્રન્ટ", "hindiPronunciation": "कंफ्रंट", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" },
+        { "word": "Face", "gujaratiPronunciation": "ફેસ", "hindiPronunciation": "फेस", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" }
+      ],
+      "confusingWords": [
+        { "word": "Invade", "gujaratiPronunciation": "ઇન્વેડ", "hindiPronunciation": "इन्वेड", "gujaratiMeaning": "આક્રમણ કરવું", "hindiMeaning": "आक्रमण करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He tried to evade the question.",
+          "gujaratiTranslation": "તેણે પ્રશ્નને ટાળવાનો પ્રયાસ કર્યો.",
+          "hindiTranslation": "उसने सवाल से बचने की कोशिश की।",
+          "gujaratiPronunciation": "હી ટ્રાઇડ ટુ ઇવેડ ધ ક્વેશ્ચન.",
+          "hindiPronunciation": "ही ट्राइड टू इवेड द क्वेश्चन।"
+        }
+      ]
+    },
+    {
+      "word": "Intercept",
+      "gujaratiPronunciation": "ઇન્ટરસેપ્ટ",
+      "hindiPronunciation": "इंटरसेप्ट",
+      "gujaratiMeaning": "વચ્ચેથી અટકાવવું",
+      "hindiMeaning": "बीच में रोकना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Intercept", "gujaratiPronunciation": "ઇન્ટરસેપ્ટ", "hindiPronunciation": "इंटरसेप्ट", "gujaratiMeaning": "વચ્ચેથી અટકાવવું", "hindiMeaning": "बीच में रोकना" },
+        "V2 (Past)": { "word": "Intercepted", "gujaratiPronunciation": "ઇન્ટરસેપ્ટેડ", "hindiPronunciation": "इंटरसेप्टेड", "gujaratiMeaning": "વચ્ચેથી અટકાવ્યું", "hindiMeaning": "बीच में रोका" },
+        "V3 (Past Participle)": { "word": "Intercepted", "gujaratiPronunciation": "ઇન્ટરસેપ્ટેડ", "hindiPronunciation": "इंटरसेप्टेड", "gujaratiMeaning": "વચ્ચેથી અટકાવેલું", "hindiMeaning": "बीच में रोका हुआ" },
+        "V4 (Present Participle)": { "word": "Intercepting", "gujaratiPronunciation": "ઇન્ટરસેપ્ટિંગ", "hindiPronunciation": "इंटरसेप्टिंग", "gujaratiMeaning": "વચ્ચેથી અટકાવી રહ્યું છે", "hindiMeaning": "बीच में रोक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Block", "gujaratiPronunciation": "બ્લોક", "hindiPronunciation": "ब्लॉक", "gujaratiMeaning": "અવરોધવું", "hindiMeaning": "अवरुद्ध करना" },
+        { "word": "Stop", "gujaratiPronunciation": "સ્ટોપ", "hindiPronunciation": "स्टॉप", "gujaratiMeaning": "રોકવું", "hindiMeaning": "रोकना" }
+      ],
+      "antonyms": [
+        { "word": "Allow", "gujaratiPronunciation": "અલાઉ", "hindiPronunciation": "अलाउ", "gujaratiMeaning": "પરવાનગી આપવી", "hindiMeaning": "अनुमति देना" },
+        { "word": "Transmit", "gujaratiPronunciation": "ટ્રાન્સમિટ", "hindiPronunciation": "ट्रांसमिट", "gujaratiMeaning": "પ્રસારિત કરવું", "hindiMeaning": "संचारित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Interpret", "gujaratiPronunciation": "ઇન્ટરપ્રિટ", "hindiPronunciation": "इंटरप्रेट", "gujaratiMeaning": "અર્થઘટન કરવું", "hindiMeaning": "व्याख्या करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The police can intercept the message.",
+          "gujaratiTranslation": "પોલીસ સંદેશને વચ્ચેથી અટકાવી શકે છે.",
+          "hindiTranslation": "पुलिस संदेश को बीच में रोक सकती है।",
+          "gujaratiPronunciation": "ધ પોલીસ કેન ઇન્ટરસેપ્ટ ધ મેસેજ.",
+          "hindiPronunciation": "द पुलिस कैन इंटरसेप्ट द मैसेज।"
+        }
+      ]
+    }
+  ]
+}

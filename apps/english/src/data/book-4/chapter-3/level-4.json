@@ -1,0 +1,166 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Moor",
+      "gujaratiPronunciation": "મૂર",
+      "hindiPronunciation": "मूर",
+      "gujaratiMeaning": "લાંગરવું",
+      "hindiMeaning": "लंगर डालना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Moor", "gujaratiPronunciation": "મૂર", "hindiPronunciation": "मूर", "gujaratiMeaning": "લાંગરવું", "hindiMeaning": "लंगर डालना" },
+        "V2 (Past Simple)": { "word": "Moored", "gujaratiPronunciation": "મૂર્ડ", "hindiPronunciation": "मूर्ड", "gujaratiMeaning": "લાંગર્યું", "hindiMeaning": "लंगर डाला" },
+        "V3 (Past Participle)": { "word": "Moored", "gujaratiPronunciation": "મૂર્ડ", "hindiPronunciation": "मूर्ड", "gujaratiMeaning": "લાંગરેલું", "hindiMeaning": "लंगर डाला हुआ" },
+        "V4 (Present Participle)": { "word": "Mooring", "gujaratiPronunciation": "મૂરિંગ", "hindiPronunciation": "मूरिंग", "gujaratiMeaning": "લાંગરી રહ્યું છે", "hindiMeaning": "लंगर डाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Anchor", "gujaratiPronunciation": "એન્કર", "hindiPronunciation": "एंकर", "gujaratiMeaning": "લંગર નાખવું", "hindiMeaning": "लंगर डालना" },
+        { "word": "Dock", "gujaratiPronunciation": "ડોક", "hindiPronunciation": "डॉक", "gujaratiMeaning": "ઘાટ પર બાંધવું", "hindiMeaning": "घाट पर बांधना" }
+      ],
+      "antonyms": [
+        { "word": "Unmoor", "gujaratiPronunciation": "અનમૂર", "hindiPronunciation": "अनमूर", "gujaratiMeaning": "લંગર ઉઠાવવું", "hindiMeaning": "लंगर उठाना" }
+      ],
+      "confusingWords": [
+        { "word": "More", "gujaratiPronunciation": "મોર", "hindiPronunciation": "मोर", "gujaratiMeaning": "વધુ", "hindiMeaning": "अधिक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The ship will moor in the harbor overnight.",
+          "gujaratiTranslation": "જહાજ રાતોરાત બંદરમાં લાંગરશે.",
+          "hindiTranslation": "जहाज रात भर बंदरगाह में लंगर डालेगा।",
+          "gujaratiPronunciation": "ધ શિપ વિલ મૂર ઇન ધ હાર્બર ઓવરનાઇટ.",
+          "hindiPronunciation": "द शिप विल मूर इन द हार्बर ओवरनाइट।"
+        }
+      ]
+    },
+    {
+      "word": "Chart",
+      "gujaratiPronunciation": "ચાર્ટ",
+      "hindiPronunciation": "चार्ट",
+      "gujaratiMeaning": "નકશો બનાવવો",
+      "hindiMeaning": "नक्शा बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Chart", "gujaratiPronunciation": "ચાર્ટ", "hindiPronunciation": "चार्ट", "gujaratiMeaning": "નકશો બનાવવો", "hindiMeaning": "नक्शा बनाना" },
+        "V2 (Past Simple)": { "word": "Charted", "gujaratiPronunciation": "ચાર્ટેડ", "hindiPronunciation": "चार्टेड", "gujaratiMeaning": "નકશો બનાવ્યો", "hindiMeaning": "नक्शा बनाया" },
+        "V3 (Past Participle)": { "word": "Charted", "gujaratiPronunciation": "ચાર્ટેડ", "hindiPronunciation": "चार्टेड", "gujaratiMeaning": "નકશો બનાવેલ", "hindiMeaning": "नक्शा बनाया हुआ" },
+        "V4 (Present Participle)": { "word": "Charting", "gujaratiPronunciation": "ચાર્ટિંગ", "hindiPronunciation": "चार्टिंग", "gujaratiMeaning": "નકશો બનાવી રહ્યું છે", "hindiMeaning": "नक्शा बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Map", "gujaratiPronunciation": "મેપ", "hindiPronunciation": "मैप", "gujaratiMeaning": "નકશો દોરવો", "hindiMeaning": "नक्शा बनाना" },
+        { "word": "Plot", "gujaratiPronunciation": "પ્લોટ", "hindiPronunciation": "प्लॉट", "gujaratiMeaning": "આલેખન કરવું", "hindiMeaning": "आरेखित करना" }
+      ],
+      "antonyms": [
+        { "word": "Guess", "gujaratiPronunciation": "ગેસ", "hindiPronunciation": "गेस", "gujaratiMeaning": "અનુમાન કરવું", "hindiMeaning": "अनुमान लगाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The captain will chart a course to the island.",
+          "gujaratiTranslation": "કેપ્ટન ટાપુ માટેનો માર્ગ નકશા પર બનાવશે.",
+          "hindiTranslation": "कप्तान द्वीप के लिए एक मार्ग चार्ट करेगा।",
+          "gujaratiPronunciation": "ધ કેપ્ટન વિલ ચાર્ટ અ કોર્સ ટુ ધ આઇલેન્ડ.",
+          "hindiPronunciation": "द कैप्टन विल चार्ट अ कोर्स टू द आइलैंड।"
+        }
+      ]
+    },
+    {
+      "word": "Migrate",
+      "gujaratiPronunciation": "માઇગ્રેટ",
+      "hindiPronunciation": "माइग्रेट",
+      "gujaratiMeaning": "સ્થળાંતર કરવું",
+      "hindiMeaning": "पलायन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Migrate", "gujaratiPronunciation": "માઇગ્રેટ", "hindiPronunciation": "माइग्रेट", "gujaratiMeaning": "સ્થળાંતર કરવું", "hindiMeaning": "पलायन करना" },
+        "V2 (Past Simple)": { "word": "Migrated", "gujaratiPronunciation": "માઇગ્રેટેડ", "hindiPronunciation": "माइग्रेटेड", "gujaratiMeaning": "સ્થળાંતર કર્યું", "hindiMeaning": "पलायन किया" },
+        "V3 (Past Participle)": { "word": "Migrated", "gujaratiPronunciation": "માઇગ્રેટેડ", "hindiPronunciation": "माइग्रेटेड", "gujaratiMeaning": "સ્થળાંતર કરેલ", "hindiMeaning": "पलायन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Migrating", "gujaratiPronunciation": "માઇગ્રેટિંગ", "hindiPronunciation": "माइग्रेटिंग", "gujaratiMeaning": "સ્થળાંતર કરી રહ્યું છે", "hindiMeaning": "पलायन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Move", "gujaratiPronunciation": "મૂવ", "hindiPronunciation": "मूव", "gujaratiMeaning": "ખસવું", "hindiMeaning": "स्थानांतरित होना" },
+        { "word": "Relocate", "gujaratiPronunciation": "રિલોકેટ", "hindiPronunciation": "रिलोकेट", "gujaratiMeaning": "સ્થાન બદલવું", "hindiMeaning": "स्थान बदलना" }
+      ],
+      "antonyms": [
+        { "word": "Settle", "gujaratiPronunciation": "સેટલ", "hindiPronunciation": "सेटल", "gujaratiMeaning": "વસવું", "hindiMeaning": "बसना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Many birds migrate south for the winter.",
+          "gujaratiTranslation": "ઘણા પક્ષીઓ શિયાળા માટે દક્ષિણમાં સ્થળાંતર કરે છે.",
+          "hindiTranslation": "कई पक्षी सर्दियों के लिए दक्षिण की ओर पलायन करते हैं।",
+          "gujaratiPronunciation": "મેની બર્ડ્સ માઇગ્રેટ સાઉથ ફોર ધ વિન્ટર.",
+          "hindiPronunciation": "मेनी बर्ड्स माइग्रेट साउथ फॉर द विंटर।"
+        }
+      ]
+    },
+    {
+      "word": "Fathom",
+      "gujaratiPronunciation": "ફેધમ",
+      "hindiPronunciation": "फैदम",
+      "gujaratiMeaning": "ઊંડાણ માપવું",
+      "hindiMeaning": "गहराई मापना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Fathom", "gujaratiPronunciation": "ફેધમ", "hindiPronunciation": "फैदम", "gujaratiMeaning": "ઊંડાણ માપવું", "hindiMeaning": "गहराई मापना" },
+        "V2 (Past Simple)": { "word": "Fathomed", "gujaratiPronunciation": "ફેધમ્ડ", "hindiPronunciation": "फैदम्ड", "gujaratiMeaning": "ઊંડાણ માપ્યું", "hindiMeaning": "गहराई मापी" },
+        "V3 (Past Participle)": { "word": "Fathomed", "gujaratiPronunciation": "ફેધમ્ડ", "hindiPronunciation": "फैदम्ड", "gujaratiMeaning": "ઊંડાણ માપેલ", "hindiMeaning": "गहराई मापी हुई" },
+        "V4 (Present Participle)": { "word": "Fathoming", "gujaratiPronunciation": "ફેધમિંગ", "hindiPronunciation": "फैदमिंग", "gujaratiMeaning": "ઊંડાણ માપી રહ્યું છે", "hindiMeaning": "गहराई माप रहा है" }
+      },
+      "synonyms": [
+        { "word": "Understand", "gujaratiPronunciation": "અન્ડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        { "word": "Comprehend", "gujaratiPronunciation": "કોમ્પ્રિહેન્ડ", "hindiPronunciation": "कॉम्प्रिहेंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" }
+      ],
+      "antonyms": [
+        { "word": "Misunderstand", "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ", "hindiPronunciation": "मिसअंडरस्टैंड", "gujaratiMeaning": "ગેરસમજ કરવી", "hindiMeaning": "गलत समझना" }
+      ],
+      "confusingWords": [
+        { "word": "Phantom", "gujaratiPronunciation": "ફેન્ટમ", "hindiPronunciation": "फैंटम", "gujaratiMeaning": "ભૂત", "hindiMeaning": "भूत" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I can't fathom why he would do such a thing.",
+          "gujaratiTranslation": "હું સમજી શકતો નથી કે તે આવું કેમ કરશે.",
+          "hindiTranslation": "मैं समझ नहीं पा रहा हूँ कि वह ऐसा क्यों करेगा।",
+          "gujaratiPronunciation": "આઇ કાન્ટ ફેધમ વાય હી વુડ ડુ સચ અ થિંગ.",
+          "hindiPronunciation": "आई कांट फैदम वाय ही वुड डू सच अ थिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Sojourn",
+      "gujaratiPronunciation": "સોજર્ન",
+      "hindiPronunciation": "सोजर्न",
+      "gujaratiMeaning": "અસ્થાયી રોકાણ કરવું",
+      "hindiMeaning": "अस्थायी रूप से ठहरना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Sojourn", "gujaratiPronunciation": "સોજર્ન", "hindiPronunciation": "सोजर्न", "gujaratiMeaning": "અસ્થાયી રોકાણ કરવું", "hindiMeaning": "अस्थायी रूप से ठहरना" },
+        "V2 (Past Simple)": { "word": "Sojourned", "gujaratiPronunciation": "સોજર્ન્ડ", "hindiPronunciation": "सोजर्न्ड", "gujaratiMeaning": "અસ્થાયી રોકાણ કર્યું", "hindiMeaning": "अस्थायी रूप से ठहरा" },
+        "V3 (Past Participle)": { "word": "Sojourned", "gujaratiPronunciation": "સોજર્ન્ડ", "hindiPronunciation": "सोजर्न्ड", "gujaratiMeaning": "અસ્થાયી રોકાણ કરેલ", "hindiMeaning": "अस्थायी रूप से ठहरा हुआ" },
+        "V4 (Present Participle)": { "word": "Sojourning", "gujaratiPronunciation": "સોજર્નિંગ", "hindiPronunciation": "सोजर्निंग", "gujaratiMeaning": "અસ્થાયી રોકાણ કરી રહ્યું છે", "hindiMeaning": "अस्थायी रूप से ठहर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" },
+        { "word": "Lodge", "gujaratiPronunciation": "લોજ", "hindiPronunciation": "लॉज", "gujaratiMeaning": "રહેઠાણ કરવું", "hindiMeaning": "रहना" }
+      ],
+      "antonyms": [
+        { "word": "Reside", "gujaratiPronunciation": "રિસાઇડ", "hindiPronunciation": "रिसाइड", "gujaratiMeaning": "કાયમ માટે રહેવું", "hindiMeaning": "स्थायी रूप से रहना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "He will sojourn in Paris for a month.",
+          "gujaratiTranslation": "તે એક મહિના માટે પેરિસમાં અસ્થાયી રોકાણ કરશે.",
+          "hindiTranslation": "वह एक महीने के लिए पेरिस में अस्थायी रूप से ठहरेंगे।",
+          "gujaratiPronunciation": "હી વિલ સોજર્ન ઇન પેરિસ ફોર અ મન્થ.",
+          "hindiPronunciation": "ही विल सोजर्न इन पैरिस फॉर अ मंथ।"
+        }
+      ]
+    }
+  ]
+}

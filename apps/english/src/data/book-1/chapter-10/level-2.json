@@ -1,0 +1,11 @@
+{
+    "id": "level-2",
+    "title": "Food 2",
+    "words": [
+        { "word": "Cheese", "icon": "🧀", "gujaratiPronunciation": "ચીઝ", "hindiPronunciation": "चीज़", "gujaratiMeaning": "ચીઝ", "hindiMeaning": "पनीर" },
+        { "word": "Yogurt", "icon": "🍦", "gujaratiPronunciation": "યોગર્ટ", "hindiPronunciation": "योगर्ट", "gujaratiMeaning": "દહીં", "hindiMeaning": "दही" },
+        { "word": "Chicken", "icon": "🍗", "gujaratiPronunciation": "ચિકન", "hindiPronunciation": "चिकन", "gujaratiMeaning": "ચિકન", "hindiMeaning": "चिकन" },
+        { "word": "Fish", "icon": "🐟", "gujaratiPronunciation": "ફિશ", "hindiPronunciation": "फिश", "gujaratiMeaning": "માછલી", "hindiMeaning": "मछली" },
+        { "word": "Vegetable", "icon": "🥦", "gujaratiPronunciation": "વેજિટેબલ", "hindiPronunciation": "वेजिटेबल", "gujaratiMeaning": "શાકભાજી", "hindiMeaning": "सब्जी" }
+    ]
+}

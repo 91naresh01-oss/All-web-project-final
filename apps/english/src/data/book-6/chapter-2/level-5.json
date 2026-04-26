@@ -1,0 +1,469 @@
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Revamp",
+            "gujaratiPronunciation": "રિવેમ્પ",
+            "hindiPronunciation": "रिवैंप",
+            "gujaratiMeaning": "નવીનીકરણ કરવું",
+            "hindiMeaning": "नया रूप देना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Revamp",
+                    "gujaratiPronunciation": "રિવેમ્પ",
+                    "hindiPronunciation": "रिवैंप",
+                    "gujaratiMeaning": "નવીનીકરણ કરવું",
+                    "hindiMeaning": "नया रूप देना"
+                },
+                "V2 (Past)": {
+                    "word": "Revamped",
+                    "gujaratiPronunciation": "રિવેમ્પ્ડ",
+                    "hindiPronunciation": "रिवैम्प्ड",
+                    "gujaratiMeaning": "નવીનીકરણ કર્યું",
+                    "hindiMeaning": "नया रूप दिया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Revamped",
+                    "gujaratiPronunciation": "રિવેમ્પ્ડ",
+                    "hindiPronunciation": "रिवैम्प्ड",
+                    "gujaratiMeaning": "નવીનીકરણ કરેલું",
+                    "hindiMeaning": "नया रूप दिया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Revamping",
+                    "gujaratiPronunciation": "રિવેમ્પિંગ",
+                    "hindiPronunciation": "रिवैंपिंग",
+                    "gujaratiMeaning": "નવીનીકરણ કરી રહ્યું છે",
+                    "hindiMeaning": "नया रूप دے रहा ہے"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Renovate",
+                    "gujaratiPronunciation": "રેનોવેટ",
+                    "hindiPronunciation": "रेनोवेट",
+                    "gujaratiMeaning": "નવીનીકરણ કરવું",
+                    "hindiMeaning": "नवीनीकरण करना"
+                },
+                {
+                    "word": "Modernize",
+                    "gujaratiPronunciation": "મોર્ડનાઇઝ",
+                    "hindiPronunciation": "मॉडर्नाइज़",
+                    "gujaratiMeaning": "આધુનિકીકરણ કરવું",
+                    "hindiMeaning": "आधुनिकीकरण करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Destroy",
+                    "gujaratiPronunciation": "ડિસ્ટ્રોય",
+                    "hindiPronunciation": "डिस्ट्रॉय",
+                    "gujaratiMeaning": "નાશ કરવો",
+                    "hindiMeaning": "नष्ट करना"
+                },
+                {
+                    "word": "Ruin",
+                    "gujaratiPronunciation": "રૂઇન",
+                    "hindiPronunciation": "रूइन",
+                    "gujaratiMeaning": "બગાડવું",
+                    "hindiMeaning": "बिगाड़ना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Revamp",
+                    "gujaratiMeaning": "નવીનીકરણ કરવું",
+                    "hindiMeaning": "नया रूप देना"
+                },
+                {
+                    "word": "Vamp",
+                    "gujaratiMeaning": "આકર્ષક સ્ત્રી",
+                    "hindiMeaning": "मोहक स्त्री"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "They decided to revamp the old website.",
+                    "gujaratiPronunciation": "ધે ડિસાઇડેડ ટુ રિવેમ્પ ધ ઓલ્ડ વેબસાઇટ.",
+                    "hindiPronunciation": "दे डिसाइडेड टू रिवैंप द ओल्ड वेबसाइट।",
+                    "gujaratiTranslation": "તેઓએ જૂની વેબસાઇટનું નવીનીકરણ કરવાનું નક્કી કર્યું.",
+                    "hindiTranslation": "उन्होंने पुरानी वेबसाइट को नया रूप देने का फैसला किया।"
+                }
+            ]
+        },
+        {
+            "word": "Transcribe",
+            "gujaratiPronunciation": "ટ્રાન્સક્રાઇબ",
+            "hindiPronunciation": "ट्रांसक्राइब",
+            "gujaratiMeaning": "લિપિબદ્ધ કરવું",
+            "hindiMeaning": "प्रतिलेखन करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Transcribe",
+                    "gujaratiPronunciation": "ટ્રાન્સક્રાઇબ",
+                    "hindiPronunciation": "ट्रांसक्राइब",
+                    "gujaratiMeaning": "લિપિબદ્ધ કરવું",
+                    "hindiMeaning": "प्रतिलेखन करना"
+                },
+                "V2 (Past)": {
+                    "word": "Transcribed",
+                    "gujaratiPronunciation": "ટ્રાન્સક્રાઇબ્ડ",
+                    "hindiPronunciation": "ट्रांसक्राइब्ड",
+                    "gujaratiMeaning": "લિપિબદ્ધ કર્યું",
+                    "hindiMeaning": "प्रतिलेखन किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Transcribed",
+                    "gujaratiPronunciation": "ટ્રાન્સક્રાઇબ્ડ",
+                    "hindiPronunciation": "ट्रांसक्राइब्ड",
+                    "gujaratiMeaning": "લિપિબદ્ધ કરેલું",
+                    "hindiMeaning": "प्रतिलेखन किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Transcribing",
+                    "gujaratiPronunciation": "ટ્રાન્સક્રાઇબિંગ",
+                    "hindiPronunciation": "ट्रांसक्राइबिंग",
+                    "gujaratiMeaning": "લિપિબદ્ધ કરી રહ્યું છે",
+                    "hindiMeaning": "प्रतिलेखन कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Write down",
+                    "gujaratiPronunciation": "રાઇટ ડાઉન",
+                    "hindiPronunciation": "राइट डाउन",
+                    "gujaratiMeaning": "લખી લેવું",
+                    "hindiMeaning": "लिखना"
+                },
+                {
+                    "word": "Record",
+                    "gujaratiPronunciation": "રેકોર્ડ",
+                    "hindiPronunciation": "रिकॉर्ड",
+                    "gujaratiMeaning": "નોંધવું",
+                    "hindiMeaning": "दर्ज करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Speak",
+                    "gujaratiPronunciation": "સ્પીક",
+                    "hindiPronunciation": "स्पीक",
+                    "gujaratiMeaning": "બોલવું",
+                    "hindiMeaning": "बोलना"
+                },
+                {
+                    "word": "Improvise",
+                    "gujaratiPronunciation": "ઇમ્પ्रोવાઇઝ",
+                    "hindiPronunciation": "इम्प्रोवाइज",
+                    "gujaratiMeaning": "તરત જ બનાવવું",
+                    "hindiMeaning": "तत्काल सुधार करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Transcribe",
+                    "gujaratiMeaning": "લિપિબદ્ધ કરવું",
+                    "hindiMeaning": "प्रतिलेखन करना"
+                },
+                {
+                    "word": "Describe",
+                    "gujaratiPronunciation": "ડિસ્ક્રાઇબ",
+                    "hindiPronunciation": "डिस्क्राइब",
+                    "gujaratiMeaning": "વર્ણન કરવું",
+                    "hindiMeaning": "वर्णन करना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She was asked to transcribe the audio recording.",
+                    "gujaratiPronunciation": "શી વોઝ આસ્ક્ડ ટુ ટ્રાન્સક્રાઇબ ધ ઓડિયો રેકોર્ડિંગ.",
+                    "hindiPronunciation": "शी वॉज आस्क्ड टू ट्रांसक्राइब द ऑडियो रिकॉर्डिंग।",
+                    "gujaratiTranslation": "તેને ઓડિયો રેકોર્ડિંગને લિપિબદ્ધ કરવા માટે કહેવામાં આવ્યું હતું.",
+                    "hindiTranslation": "उसे ऑडियो रिकॉर्डिंग का प्रतिलेखन करने के लिए कहा गया था।"
+                }
+            ]
+        },
+        {
+            "word": "Compose",
+            "gujaratiPronunciation": "કમ્પોઝ",
+            "hindiPronunciation": "कंपोज",
+            "gujaratiMeaning": "રચના કરવી",
+            "hindiMeaning": "रचना करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Compose",
+                    "gujaratiPronunciation": "કમ્પોઝ",
+                    "hindiPronunciation": "कंपोज",
+                    "gujaratiMeaning": "રચના કરવી",
+                    "hindiMeaning": "रचना کرنا"
+                },
+                "V2 (Past)": {
+                    "word": "Composed",
+                    "gujaratiPronunciation": "કમ્પોઝ્ડ",
+                    "hindiPronunciation": "कंपोज्ड",
+                    "gujaratiMeaning": "રચના કરી",
+                    "hindiMeaning": "रचना की"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Composed",
+                    "gujaratiPronunciation": "કમ્પોઝ્ડ",
+                    "hindiPronunciation": "कंपोज्ड",
+                    "gujaratiMeaning": "રચના કરેલી",
+                    "hindiMeaning": "रचना की हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Composing",
+                    "gujaratiPronunciation": "કમ્પોઝિંગ",
+                    "hindiPronunciation": "कंपोजिंग",
+                    "gujaratiMeaning": "રચના કરી રહ્યું છે",
+                    "hindiMeaning": "रचना कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Create",
+                    "gujaratiPronunciation": "ક્રિએટ",
+                    "hindiPronunciation": "क्रिएट",
+                    "gujaratiMeaning": "બનાવવું",
+                    "hindiMeaning": "बनाना"
+                },
+                {
+                    "word": "Write",
+                    "gujaratiPronunciation": "રાઇટ",
+                    "hindiPronunciation": "राइट",
+                    "gujaratiMeaning": "લખવું",
+                    "hindiMeaning": "लिखना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Destroy",
+                    "gujaratiPronunciation": "ડિસ્ટ્રોય",
+                    "hindiPronunciation": "डिस्ट्रॉय",
+                    "gujaratiMeaning": "નાશ કરવો",
+                    "hindiMeaning": "नष्ट करना"
+                },
+                {
+                    "word": "Decompose",
+                    "gujaratiPronunciation": "ડિકમ્પોઝ",
+                    "hindiPronunciation": "डीकंपोज",
+                    "gujaratiMeaning": "વિઘટન કરવું",
+                    "hindiMeaning": "विघटित करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Compose",
+                    "gujaratiMeaning": "રચના કરવી",
+                    "hindiMeaning": "रचना کرنا"
+                },
+                {
+                    "word": "Compare",
+                    "gujaratiPronunciation": "કમ્પેર",
+                    "hindiPronunciation": "कम्पेयर",
+                    "gujaratiMeaning": "સરખામણી કરવી",
+                    "hindiMeaning": "तुलना करना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He likes to compose music in his free time.",
+                    "gujaratiPronunciation": "હી લાઇક્સ ટુ કમ્પોઝ મ્યુઝિક ઇન હીઝ ફ્રી ટાઇમ.",
+                    "hindiPronunciation": "ही लाइक्स टू कंपोज म्यूजिक इन हिज फ्री टाइम।",
+                    "gujaratiTranslation": "તેને તેના ફ્રી ટાઇમમાં સંગીત રચના કરવી ગમે છે.",
+                    "hindiTranslation": "उसे अपने खाली समय में संगीत रचना کرنا पसंद है।"
+                }
+            ]
+        },
+        {
+            "word": "Harmonize",
+            "gujaratiPronunciation": "હાર્મોનાઇઝ",
+            "hindiPronunciation": "हार्मोनाइज",
+            "gujaratiMeaning": "સુર મેળવવો",
+            "hindiMeaning": "सामंजस्य बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Harmonize",
+                    "gujaratiPronunciation": "હાર્મોનાઇઝ",
+                    "hindiPronunciation": "हार्मोनाइज",
+                    "gujaratiMeaning": "સુર મેળવવો",
+                    "hindiMeaning": "सामंजस्य बनाना"
+                },
+                "V2 (Past)": {
+                    "word": "Harmonized",
+                    "gujaratiPronunciation": "હાર્મોનાઇઝ્ડ",
+                    "hindiPronunciation": "हार्मोनाइज्ड",
+                    "gujaratiMeaning": "સુર મેળવ્યો",
+                    "hindiMeaning": "सामंजस्य बनाया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Harmonized",
+                    "gujaratiPronunciation": "હાર્મોનાઇઝ્ડ",
+                    "hindiPronunciation": "हार्मोनाइज्ड",
+                    "gujaratiMeaning": "સુર મેળવેલો",
+                    "hindiMeaning": "सामंजस्य बनाया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Harmonizing",
+                    "gujaratiPronunciation": "હાર્મોનાઇઝિંગ",
+                    "hindiPronunciation": "हार्मोनाइजिंग",
+                    "gujaratiMeaning": "સુર મેળવી રહ્યું છે",
+                    "hindiMeaning": "सामंजस्य बना रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Coordinate",
+                    "gujaratiPronunciation": "કોઓર્ડિનેટ",
+                    "hindiPronunciation": "कोऑर्डिनेट",
+                    "gujaratiMeaning": "સંકલન કરવું",
+                    "hindiMeaning": "समन्वय करना"
+                },
+                {
+                    "word": "Blend",
+                    "gujaratiPronunciation": "બ્લેન્ડ",
+                    "hindiPronunciation": "ब्लेंड",
+                    "gujaratiMeaning": "મિશ્રણ કરવું",
+                    "hindiMeaning": "मिश्रण करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Clash",
+                    "gujaratiPronunciation": "ક્લેશ",
+                    "hindiPronunciation": "क्लैश",
+                    "gujaratiMeaning": "ટકરાવું",
+                    "hindiMeaning": "टकराना"
+                },
+                {
+                    "word": "Disagree",
+                    "gujaratiPronunciation": "ડિસએગ્રી",
+                    "hindiPronunciation": "डिसएग्री",
+                    "gujaratiMeaning": "અસંમત થવું",
+                    "hindiMeaning": "असहमत ہونا"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Harmonize",
+                    "gujaratiMeaning": "સુર મેળવવો",
+                    "hindiMeaning": "सामंजस्य बनाना"
+                },
+                {
+                    "word": "Hormone",
+                    "gujaratiPronunciation": "હોર્મોન",
+                    "hindiPronunciation": "हार्मोन",
+                    "gujaratiMeaning": "અંતઃસ્ત્રાવ",
+                    "hindiMeaning": "हार्मोन"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The backing singers harmonize beautifully with the lead vocalist.",
+                    "gujaratiPronunciation": "ધ બેકિંગ સિંગર્સ હાર્મોનાઇઝ બ્યુટિફુલી વિથ ધ લીડ વોકલિસ્ટ.",
+                    "hindiPronunciation": "द बैकिंग सिंगर्स हार्मोनाइज ब्यूटीफुली विद द लीड वोकलिस्ट।",
+                    "gujaratiTranslation": "પાછળ ગાનારા મુખ્ય ગાયક સાથે સુંદર રીતે સુર મેળવે છે.",
+                    "hindiTranslation": "सहगायक मुख्य गायक के साथ खूबसूरती से सामंजस्य बनाते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Poetize",
+            "gujaratiPronunciation": "પોએટાઇઝ",
+            "hindiPronunciation": "पोएटाइज",
+            "gujaratiMeaning": "કવિતા રચવી",
+            "hindiMeaning": "कविता बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Poetize",
+                    "gujaratiPronunciation": "પોએટાઇઝ",
+                    "hindiPronunciation": "पोएटाइज",
+                    "gujaratiMeaning": "કવિતા રચવી",
+                    "hindiMeaning": "कविता बनाना"
+                },
+                "V2 (Past)": {
+                    "word": "Poetized",
+                    "gujaratiPronunciation": "પોએટાઇઝ્ડ",
+                    "hindiPronunciation": "पोएटाइज्ड",
+                    "gujaratiMeaning": "કવિતા રચી",
+                    "hindiMeaning": "कविता बनाई"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Poetized",
+                    "gujaratiPronunciation": "પોએટાઇઝ્ડ",
+                    "hindiPronunciation": "पोएटाइज्ड",
+                    "gujaratiMeaning": "કવિता રચેલી",
+                    "hindiMeaning": "कविता बनाई हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Poetizing",
+                    "gujaratiPronunciation": "પોએટાઇઝિંગ",
+                    "hindiPronunciation": "पोएटाइजिंग",
+                    "gujaratiMeaning": "કવિતા રચી રહ્યું છે",
+                    "hindiMeaning": "कविता बना रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Verse",
+                    "gujaratiPronunciation": "વર્સ",
+                    "hindiPronunciation": "वर्स",
+                    "gujaratiMeaning": "પદ્ય રચવું",
+                    "hindiMeaning": "पद्य रचना"
+                },
+                {
+                    "word": "Rhyme",
+                    "gujaratiPronunciation": "રાઇમ",
+                    "hindiPronunciation": "राइम",
+                    "gujaratiMeaning": "પ્રાસ મેળવવો",
+                    "hindiMeaning": " तुकबंदी کرنا"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Prose",
+                    "gujaratiPronunciation": "પ્રોઝ",
+                    "hindiPronunciation": "प्रोज",
+                    "gujaratiMeaning": "ગદ્ય લખવું",
+                    "hindiMeaning": "गद्य लिखना"
+                },
+                {
+                    "word": "Speak plainly",
+                    "gujaratiPronunciation": "સ્પીક પ્લેઇનલી",
+                    "hindiPronunciation": "स्पीक प्लेनली",
+                    "gujaratiMeaning": "સાદી રીતે બોલવું",
+                    "hindiMeaning": "साधारण रूप से बोलना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Poetize",
+                    "gujaratiMeaning": "કવિતા રચવી",
+                    "hindiMeaning": "कविता बनाना"
+                },
+                {
+                    "word": "Politicize",
+                    "gujaratiPronunciation": "પોલિટિસાઇઝ",
+                    "hindiPronunciation": "पॉलिटिसाइज",
+                    "gujaratiMeaning": "રાજકીય રંગ આપવો",
+                    "hindiMeaning": "राजनीतिकरण کرنا"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She has a tendency to poetize everyday events.",
+                    "gujaratiPronunciation": "શી હેઝ અ ટેન્ડેન્સી ટુ પોએટાઇઝ એવરીડે ઇવેન્ટ્સ.",
+                    "hindiPronunciation": "शी हैज अ टेंडेंसी टू पोएटाइज एवरीडे इवेंट્સ।",
+                    "gujaratiTranslation": "તેને રોજિંદા ઘટનાઓની કવિતા રચવાની વૃત્તિ છે.",
+                    "hindiTranslation": "उसमें रोजमर्रा की घटनाओं को कविता का रूप دینے की प्रवृत्ति है।"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Testify",
+      "gujaratiPronunciation": "ટેસ્ટિફાય",
+      "hindiPronunciation": "टेस्टिफाई",
+      "gujaratiMeaning": "જુબાની આપવી",
+      "hindiMeaning": "गवाही देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Testify",
+          "gujaratiMeaning": "જુબાની આપવી",
+          "hindiMeaning": "गवाही देना"
+        },
+        "V2 (Past)": {
+          "word": "Testified",
+          "gujaratiMeaning": "જુબાની આપી",
+          "hindiMeaning": "गवाही दी"
+        },
+        "V3 (Past Participle)": {
+          "word": "Testified",
+          "gujaratiMeaning": "જુબાની આપેલી",
+          "hindiMeaning": "गवाही दी हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Testifying",
+          "gujaratiPronunciation": "ટેસ્ટિફાયિંગ",
+          "hindiPronunciation": "टेस्टिफाईिंग",
+          "gujaratiMeaning": "જુબાની આપી રહ્યું",
+          "hindiMeaning": "गवाही दे रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Attest",
+          "gujaratiMeaning": "પ્રમાણિત કરવું",
+          "hindiMeaning": "प्रमाणित करना"
+        },
+        {
+          "word": "Swear",
+          "gujaratiMeaning": "શપથ લેવા",
+          "hindiMeaning": "शपथ लेना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Deny",
+          "gujaratiMeaning": "નકારવું",
+          "hindiMeaning": "इनकार करना"
+        },
+        {
+          "word": "Refute",
+          "gujaratiMeaning": "ખંડન કરવું",
+          "hindiMeaning": "खंडन करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Test",
+          "gujaratiPronunciation": "ટેસ્ટ",
+          "hindiPronunciation": "टेस्ट",
+          "gujaratiMeaning": "પરીક્ષા",
+          "hindiMeaning": "परीक्षा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She was called to testify in court.",
+          "gujaratiTranslation": "તેણીને કોર્ટમાં જુબાની આપવા માટે બોલાવવામાં આવી હતી.",
+          "hindiTranslation": "उसे अदालत में गवाही देने के लिए बुलाया गया था।",
+          "gujaratiPronunciation": "શી વોઝ કોલ્ડ ટુ ટેસ્ટિફાય ઇન કોર્ટ.",
+          "hindiPronunciation": "शी वॉज़ कॉल्ड टू टेस्टिफाई इन कोर्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Prosecute",
+      "gujaratiPronunciation": "પ્રોસિક્યુટ",
+      "hindiPronunciation": "प्रॉसिक्यूट",
+      "gujaratiMeaning": "અભિયોગ ચલાવવો",
+      "hindiMeaning": "अभियोग चलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Prosecute",
+          "gujaratiMeaning": "અભિયોગ ચલાવવો",
+          "hindiMeaning": "अभियोग चलाना"
+        },
+        "V2 (Past)": {
+          "word": "Prosecuted",
+          "gujaratiMeaning": "અભિયોગ ચલાવ્યો",
+          "hindiMeaning": "अभियोग चलाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Prosecuted",
+          "gujaratiMeaning": "અભિયોગ ચલાવેલો",
+          "hindiMeaning": "अभियोग चलाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Prosecuting",
+          "gujaratiPronunciation": "પ્રોસિક્યુટિંગ",
+          "hindiPronunciation": "प्रॉसिक्यूटिंग",
+          "gujaratiMeaning": "અભિયોગ ચલાવી રહ્યું",
+          "hindiMeaning": "अभियोग चला रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Sue",
+          "gujaratiMeaning": "દાવો માંડવો",
+          "hindiMeaning": "मुकदमा करना"
+        },
+        {
+          "word": "Indict",
+          "gujaratiMeaning": "આરોપ મૂકવો",
+          "hindiMeaning": "आरोप लगाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Defend",
+          "gujaratiMeaning": "બચાવ કરવો",
+          "hindiMeaning": "बचाव करना"
+        },
+        {
+          "word": "Pardon",
+          "gujaratiMeaning": "માફી આપવી",
+          "hindiMeaning": "माफ़ करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Persecute",
+          "gujaratiMeaning": "સતામણી કરવી",
+          "hindiMeaning": "उत्पीड़न करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The state decided to prosecute the case.",
+          "gujaratiTranslation": "રાજ્યએ આ કેસ પર અભિયોગ ચલાવવાનું નક્કી કર્યું.",
+          "hindiTranslation": "राज्य ने मामले पर मुकदमा चलाने का फैसला किया।",
+          "gujaratiPronunciation": "ધ સ્ટેટ ડિસાઇડેડ ટુ પ્રોસિક્યુટ ધ કેસ.",
+          "hindiPronunciation": "द स्टेट डिसाइडेड टू प्रॉसिक्यूट द केस।"
+        }
+      ]
+    },
+    {
+      "word": "Defend",
+      "gujaratiPronunciation": "ડિફેન્ડ",
+      "hindiPronunciation": "डिफेंड",
+      "gujaratiMeaning": "બચાવ કરવો",
+      "hindiMeaning": "बचाव करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Defend",
+          "gujaratiMeaning": "બચાવ કરવો",
+          "hindiMeaning": "बचाव करना"
+        },
+        "V2 (Past)": {
+          "word": "Defended",
+          "gujaratiMeaning": "બચાવ કર્યો",
+          "hindiMeaning": "बचाव किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Defended",
+          "gujaratiMeaning": "બચાવ કરેલો",
+          "hindiMeaning": "बचाव किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Defending",
+          "gujaratiPronunciation": "ડિફેન્ડિંગ",
+          "hindiPronunciation": "डिफेंडिंग",
+          "gujaratiMeaning": "બચાવ કરી રહ્યું",
+          "hindiMeaning": "बचाव कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Protect",
+          "gujaratiMeaning": "રક્ષણ કરવું",
+          "hindiMeaning": "रक्षा करना"
+        },
+        {
+          "word": "Guard",
+          "gujaratiMeaning": "રક્ષક બનવું",
+          "hindiMeaning": "रक्षा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Attack",
+          "gujaratiMeaning": "હુમલો કરવો",
+          "hindiMeaning": "हमला करना"
+        },
+        {
+          "word": "Prosecute",
+          "gujaratiMeaning": "અભિયોગ ચલાવવો",
+          "hindiMeaning": "अभियोग चलाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Depend",
+          "gujaratiPronunciation": "ડિપેન્ડ",
+          "hindiPronunciation": "डिपेंड",
+          "gujaratiMeaning": "આધાર રાખવો",
+          "hindiMeaning": "निर्भर होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The lawyer's job is to defend her client.",
+          "gujaratiTranslation": "વકીલનું કામ તેના અસીલનો બચાવ કરવાનું છે.",
+          "hindiTranslation": "वकील का काम अपने मुवक्किल का बचाव करना है।",
+          "gujaratiPronunciation": "ધ લોયર્સ જોબ ઇઝ ટુ ડિફેન્ડ હર ક્લાયન્ટ.",
+          "hindiPronunciation": "द लॉयर्स जॉब इज़ टू डिफेंड हर क्लाइंट।"
+        }
+      ]
+    },
+    {
+      "word": "Convict",
+      "gujaratiPronunciation": "કન્વિક્ટ",
+      "hindiPronunciation": "कनविक्ट",
+      "gujaratiMeaning": "દોષિત ઠેરવવું",
+      "hindiMeaning": "दोषी ठहराना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Convict",
+          "gujaratiMeaning": "દોષિત ઠેરવવું",
+          "hindiMeaning": "दोषी ठहराना"
+        },
+        "V2 (Past)": {
+          "word": "Convicted",
+          "gujaratiMeaning": "દોષિત ઠેરવ્યો",
+          "hindiMeaning": "दोषी ठहराया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Convicted",
+          "gujaratiMeaning": "દોષિત ઠેરવેલો",
+          "hindiMeaning": "दोषी ठहराया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Convicting",
+          "gujaratiPronunciation": "કન્વિક્ટિંગ",
+          "hindiPronunciation": "कनविक्टिंग",
+          "gujaratiMeaning": "દોષિત ઠેરવી રહ્યું",
+          "hindiMeaning": "दोषी ठहरा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Sentence",
+          "gujaratiMeaning": "સજા કરવી",
+          "hindiMeaning": "सजा देना"
+        },
+        {
+          "word": "Condemn",
+          "gujaratiMeaning": "નિંદા કરવી",
+          "hindiMeaning": "निंदा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Acquit",
+          "gujaratiMeaning": "નિર્દોષ છોડવું",
+          "hindiMeaning": "निर्दोष बरी करना"
+        },
+        {
+          "word": "Exonerate",
+          "gujaratiMeaning": "નિર્દોષ જાહેર કરવું",
+          "hindiMeaning": "दोषमुक्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Conflict",
+          "gujaratiPronunciation": "કોન્ફ્લિક્ટ",
+          "hindiPronunciation": "कॉन्फ्लिक्ट",
+          "gujaratiMeaning": "સંઘર્ષ",
+          "hindiMeaning": "संघर्ष"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He was convicted of robbery.",
+          "gujaratiTranslation": "તેને લૂંટ માટે દોષિત ઠેરવવામાં આવ્યો હતો.",
+          "hindiTranslation": "उसे डकैती का दोषी ठहराया गया था।",
+          "gujaratiPronunciation": "હી વોઝ કન્વિક્ટેડ ઓફ રોબરી.",
+          "hindiPronunciation": "ही वॉज़ कनविक्टेड ऑफ रॉबरी।"
+        }
+      ]
+    },
+    {
+      "word": "Appeal",
+      "gujaratiPronunciation": "અપીલ",
+      "hindiPronunciation": "अपील",
+      "gujaratiMeaning": "અપીલ કરવી",
+      "hindiMeaning": "अपील करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Appeal",
+          "gujaratiMeaning": "અપીલ કરવી",
+          "hindiMeaning": "अपील करना"
+        },
+        "V2 (Past)": {
+          "word": "Appealed",
+          "gujaratiMeaning": "અપીલ કરી",
+          "hindiMeaning": "अपील की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Appealed",
+          "gujaratiMeaning": "અપીલ કરેલી",
+          "hindiMeaning": "अपील की हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Appealing",
+          "gujaratiPronunciation": "અપીલિંગ",
+          "hindiPronunciation": "अपीलिंग",
+          "gujaratiMeaning": "અપીલ કરી રહ્યું",
+          "hindiMeaning": "अपील कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Request",
+          "gujaratiMeaning": "વિનંતી કરવી",
+          "hindiMeaning": "अनुरोध करना"
+        },
+        {
+          "word": "Petition",
+          "gujaratiMeaning": "અરજી કરવી",
+          "hindiMeaning": "याचिका करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        {
+          "word": "A peel",
+          "gujaratiMeaning": "એક છાલ",
+          "hindiMeaning": "एक छिलका"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They are appealing against the court's decision.",
+          "gujaratiTranslation": "તેઓ કોર્ટના નિર્ણય સામે અપીલ કરી રહ્યા છે.",
+          "hindiTranslation": "वे अदालत के फैसले के खिलाफ अपील कर रहे हैं।",
+          "gujaratiPronunciation": "ધે આર અપીલિંગ અગેન્સ્ટ ધ કોર્ટ્સ ડિસિઝન.",
+          "hindiPronunciation": "दे आर अपीलिंग अगेंस्ट द कोर्ट्स डिसीज़न।"
+        }
+      ]
+    }
+  ]
+}

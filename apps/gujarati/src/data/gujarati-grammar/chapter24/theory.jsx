@@ -1,0 +1,161 @@
+import React from 'react';
+import {
+    TheoryCard,
+    GradientCard,
+    TheoryHeading,
+    TheorySubHeading,
+    TheoryText,
+    HighlightBox,
+    TheoryList,
+    TheoryListItem,
+    TheoryGrid,
+    TheoryTable,
+    TheoryTableHeader,
+    TheoryTableRow
+} from '../../../components/TheoryComponents';
+
+export const chapter24Theory = [
+    {
+        title: "૧. વાક્ય અને પદ પરિચય",
+        content: (
+            <div className="modern-theory-wrapper">
+                <GradientCard heading="૧. વાક્યમાં શબ્દસંબંધ અને પદોની સંખ્યા" theme="indigo" icon="🧩">
+                    <TheoryText>
+                        સૌ પ્રથમ શબ્દ પસંદ થાય, પ્રત્યયો, અનુગો વગેરે દ્વારા તે <strong>પદ</strong> બને અને પદોની વ્યવસ્થિત ગોઠવણીથી <strong>વાક્ય</strong> બને છે.
+                    </TheoryText>
+
+                    <TheoryGrid>
+                        <HighlightBox type="info" title="શબ્દ">
+                            <TheoryText>માત્ર ‘શબ્દ’ એ <strong>“અર્થતત્ત્વ”</strong> તરીકે ઓળખાય છે. તે એક ચોક્કસ અને સંદર્ભગત અર્થ ધારણ કરે છે.</TheoryText>
+                        </HighlightBox>
+                        <HighlightBox type="success" title="પદ">
+                            <TheoryText>જ્યારે શબ્દ વાક્યમાં સ્થાન પામે અને તેનો વ્યાકરણીય મોભો (નામ, ક્રિયાપદ વગેરે) નિશ્ચિત થાય ત્યારે તે <strong>“સંબંધતત્ત્વ”</strong> તરીકે ઓળખાય છે.</TheoryText>
+                        </HighlightBox>
+                        <HighlightBox type="warning" title="વાક્ય">
+                            <TheoryText>વિચાર-ભાવને અભિવ્યક્ત કરવાનો નાનામાં નાનો પણ સ્વયં રીતે પૂર્ણ હોય તેવો ખંડ એટલે <strong>‘વાક્ય’</strong>.</TheoryText>
+                        </HighlightBox>
+                    </TheoryGrid>
+
+                    <HighlightBox title="વાક્ય કેટલા પદોનું હોય?" type="tip">
+                        <TheoryText>
+                            વાક્ય એક પદનું પણ હોઈ શકે (જેમ કે "હા" કે "ના") અથવા વધારે પદોનું પણ હોય. મુખ્ય વાત એ છે કે તેનો અર્થ વિચાર ભાવપૂર્ણ હોવો જોઈએ.
+                        </TheoryText>
+                    </HighlightBox>
+                </GradientCard>
+            </div>
+        )
+    },
+    {
+        title: "૨. વાક્યના અંગો",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#4f46e5">૨. વાક્યના અંગો</TheoryHeading>
+                    <TheoryText>વાક્યના મુખ્ય બે અંગો છે:</TheoryText>
+
+                    <TheoryGrid>
+                        <TheoryCard>
+                            <TheorySubHeading color="blue">૧. ઉદ્દેશ્ય (Subject)</TheorySubHeading>
+                            <TheoryText>વાક્યમાં જેના વિશે કહેવામાં આવ્યું હોય તે શબ્દ કે વાક્યખંડને “ઉદ્દેશ્ય (કર્તા)” કહેવાય.</TheoryText>
+                            <TheoryText><strong>ઉદાહરણ:</strong> <span style={{ color: 'blue' }}>એક વૃદ્ધ ડોસો</span> શહેરના મધ્યભાગમાં થઇને જતો હતો.</TheoryText>
+                        </TheoryCard>
+                        <TheoryCard>
+                            <TheorySubHeading color="green">૨. વિધેય (Predicate)</TheorySubHeading>
+                            <TheoryText>ઉદ્દેશ્ય (કર્તા) વિશે જે કહેવામાં આવ્યું હોય તેને “વિધેય” કહેવાય.</TheoryText>
+                            <TheoryText><strong>ઉદાહરણ:</strong> લોકો <span style={{ color: 'green' }}>મીઠી નિદ્રામાં ઘોરતા હતા</span>.</TheoryText>
+                        </TheoryCard>
+                    </TheoryGrid>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૩. વાક્યના પ્રકારો (રચનાની દૃષ્ટિએ)",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#7c3aed">૩. વાક્યના પ્રકારો (રચનાની દૃષ્ટિએ)</TheoryHeading>
+
+                    <TheoryList>
+                        <TheoryListItem>
+                            <strong>૧. સાદુ વાક્ય (Simple Sentence):</strong> જ્યારે વાક્યમાં એક જ પરિસ્થિતિનું નિરૂપણ થયું હોય.
+                            <br /><em style={{ color: '#666' }}>ઉદાહરણ: અરુણિમાની કરોડરજજુમાં તિરાડ પડી હતી.</em>
+                        </TheoryListItem>
+                        <TheoryListItem>
+                            <strong>૨. સંયુક્ત વાક્ય (Compound Sentence):</strong> એકથી વધુ સમાન પદના વાક્યો સંયોજકો (ને, અને, અથવા, પણ, છતાં) થી જોડાયેલા હોય.
+                            <br /><em style={{ color: '#666' }}>ઉદાહરણ: માનવીએ સાગરોના પેટાળ ખોળ્યા <strong>અને</strong> રણને નંદનવન કર્યા છે.</em>
+                        </TheoryListItem>
+                        <TheoryListItem>
+                            <strong>૩. સંકુલ/મિશ્ર વાક્ય (Complex Sentence):</strong> એક મુખ્ય વાક્ય અને અન્ય ગૌણ વાક્યો (જેમ-તેમ, જો-તો, જ્યારે-ત્યારે) થી જોડાયેલા હોય.
+                            <br /><em style={{ color: '#666' }}>ઉદાહરણ: <strong>જો</strong> હું મા થઈને ચાકરી ન કરી શકું <strong>તો</strong> દવાખાનાવાળાને શી લાગણી હોય?</em>
+                        </TheoryListItem>
+                    </TheoryList>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૪. વાક્યના પ્રકારો (અર્થની દૃષ્ટિએ)",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#db2777">૪. વાક્યના પ્રકારો (અર્થની દૃષ્ટિએ)</TheoryHeading>
+                    <TheoryTable>
+                        <TheoryTableHeader theme="green" headers={['પ્રકાર', 'વર્ણન', 'ઉદાહરણ']} />
+                        {[
+                            ['૧. વિધાન વાક્ય', 'હકીકતનું સીધું કથન', 'હું કાલે અમદાવાદ આવીશ.'],
+                            ['૨. નિષેધ વાક્ય', 'નકારનો ભાવ (ન, ના, નથી)', 'મારે કશો ઉપયોગ નથી.'],
+                            ['૩. પ્રશ્નાર્થ વાક્ય', 'પ્રશ્ન પૂછવાનો ભાવ (?)', 'મેદની શા માટે ભેગી થઈ હશે?'],
+                            ['૪. ઉદ્દગાર વાક્ય', 'આશ્ચર્ય, હર્ષ, શોક (!)', 'અરે, વરસાદ પડી રહ્યો છે!'],
+                            ['૫. વિધ્યર્થ વાક્ય', 'આજ્ઞા, ઉપદેશ કે ફરજ', 'બીજાને મહેનત કરતાં શીખવ.'],
+                            ['૬. આજ્ઞાર્થ વાક્ય', 'આજ્ઞા કે અનુમતિ', 'બધા બેસી જાઓ.'],
+                            ['૭. નિર્દેશાર્થ વાક્ય', 'કોઈ વિગતનો નિર્દેશ', 'એ લોકો કેવા ગાયન ગાય?'],
+                            ['૮. સંભાવનાર્થ વાક્ય', 'શક્યતાનો ભાવ', 'કદાચ આજે વરસાદ પડશે.'],
+                            ['૯. ક્રિયાતિપત્યર્થ વાક્ય', 'શરત / અસફળતાનો ભાવ', 'જો પરીક્ષા આપી હોત તો પાસ થવાત.']
+                        ].map((row, index) => (
+                            <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                        ))}
+                    </TheoryTable>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૫. વાક્યના પ્રકારો (કારક/Voice)",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#059669">૫. વાક્યના પ્રકારો (કારક/Voice)</TheoryHeading>
+
+                    <TheoryGrid>
+                        <TheoryCard>
+                            <TheorySubHeading color="red">૧. કર્તરિ વાક્ય (Active)</TheorySubHeading>
+                            <TheoryText><strong>કર્તાની પ્રધાનતા</strong> હોય. ક્રિયાપદ કર્તા મુજબ બદલાય.</TheoryText>
+                            <TheoryText><em>ઉદા: રમેશે ચાની આદત છોડી.</em></TheoryText>
+                        </TheoryCard>
+                        <TheoryCard>
+                            <TheorySubHeading color="blue">૨. કર્મણિ વાક્ય (Passive)</TheorySubHeading>
+                            <TheoryText><strong>કર્મ મુખ્ય</strong> હોય. કર્તાને 'થી, વડે' લાગે.</TheoryText>
+                            <TheoryText><em>ઉદા: રમેશથી ચાની આદત છૂટી ગઇ.</em></TheoryText>
+                        </TheoryCard>
+                        <TheoryCard>
+                            <TheorySubHeading color="orange">૩. ભાવે વાક્ય (Impersonal)</TheorySubHeading>
+                            <TheoryText><strong>કર્મ ન હોય</strong>, ભાવ મુખ્ય હોય (અકર્મક).</TheoryText>
+                            <TheoryText><em>ઉદા: મુજથી ખડખડાટ હસી પડાયું.</em></TheoryText>
+                        </TheoryCard>
+                        <TheoryCard>
+                            <TheorySubHeading color="purple">૪. પ્રેરક વાક્ય (Causative)</TheorySubHeading>
+                            <TheoryText>કોઈ પાસે કામ કરાવવાનો ભાવ.</TheoryText>
+                            <TheoryText><em>ઉદા: રમેશ ખવડાવે છે.</em></TheoryText>
+                        </TheoryCard>
+                        <TheoryCard>
+                            <TheorySubHeading color="teal">૫. પુનઃ પ્રેરક વાક્ય</TheorySubHeading>
+                            <TheoryText>કોઈના દ્વારા ત્રીજી વ્યક્તિ પાસે કામ કરાવવું.</TheoryText>
+                            <TheoryText><em>ઉદા: શિક્ષક મનુ દ્વારા પાયલને લખાવડાવે છે.</em></TheoryText>
+                        </TheoryCard>
+                    </TheoryGrid>
+                </TheoryCard>
+            </div>
+        )
+    }
+];

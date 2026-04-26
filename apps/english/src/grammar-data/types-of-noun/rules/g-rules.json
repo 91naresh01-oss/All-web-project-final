@@ -1,0 +1,355 @@
+{
+  "id": "types-of-noun-gu",
+  "title": "Types of Noun (નામના પ્રકારો)",
+  "description": "નામના મુખ્ય પ્રકારો અને તેમના ઉપયોગ વિશે વિગતવાર જાણકારી.",
+  "content": [
+    {
+      "type": "section",
+      "title": "Introduction (પરિચય)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "કોઈપણ વ્યક્તિ, વસ્તુ, સ્થળ, ગુણ, ક્રિયા, ભાવ, લાગણી, સ્થિતિ, પ્રાણી, પ્રવૃત્તિ કે અવસ્થાને ઓળખવા માટે અપાયેલી નિશાનીઓને **નામ (Noun)** કહે છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Kinds of Noun: નામના પ્રકારો",
+            "headers": [
+              "Countable Nouns<br/>(ગણી શકાય તેવાં)",
+              "Uncountable Nouns<br/>(ગણી ન શકાય તેવાં)"
+            ],
+            "rows": [
+              [
+                "**1. Proper Noun:** સંજ્ઞાવાચક (વ્યક્તિવાચક)",
+                "**1. Material Noun:** દ્રવ્યવાચક (પદાર્થવાચક)"
+              ],
+              [
+                "**2. Common Noun:** જાતિવાચક",
+                "**2. Abstract Noun:** ભાવવાચક"
+              ],
+              [
+                "**3. Collective Noun:** સમૂહવાચક",
+                ""
+              ]
+            ]
+          }
+        },
+        {
+          "type": "heading",
+          "content": "Let's study all 5 types in detail... / ચાલો, પાંચેય પ્રકારનો વિગતે અભ્યાસ કરીએ..."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "1. Material Noun (દ્રવ્યવાચક નામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જે વસ્તુને 'એક, બે, ત્રણ' એમ ગણી ન શકાય, પરંતુ જેનું વજન, માપ કે જથ્થો કરી શકાય તેવા દ્રવ્યને દ્રવ્યવાચક નામ કહેવાય છે."
+        },
+        {
+          "type": "note",
+          "content": "<b>Rule:</b> Material Noun હંમેશા **Uncountable** હોય છે. તેની આગળ Article (a, an) લાગતો નથી અને તેનું બહુવચન થતું નથી.<br/>(Gold is... (Not 'A Gold' or 'Golds'))"
+        },
+        {
+          "type": "example_section",
+          "content": {
+            "title": "Comprehensive Examples (વિસ્તૃત ઉદાહરણો)",
+            "examples": [
+              "**Metals (ધાતુઓ):** Gold (સોનું), Silver (ચાંદી), Iron (લોખંડ), Copper (તાંબુ), Platinum (પ્લેટિનમ), Brass (પિત્તળ), Aluminum (એલ્યુમિનિયમ), Steel (સ્ટીલ), Zinc (જસત), Lead (સીસું)",
+              "**Liquids (પ્રવાહી):** Water (પાણી), Milk (દૂધ), Oil (તેલ), Ghee (ઘી), Buttermilk (છાશ), Curd (દહીં), Honey (મધ), Juice (જ્યુસ), Petrol (પેટ્રોલ), Diesel (ડીઝલ), Kerosene (કેરોસીન), Ink (શાહી), Tea (ચા), Coffee (કોફી)",
+              "**Food/Grains (ખોરાક/અનાજ):** Wheat (ઘઉં), Rice (ચોખા), Bajri (બાજરી), Maize (મકાઈ), Pulse (દાળ), Flour (લોટ), Sugar (ખાંડ), Salt (મીઠું), Jaggery (ગોળ), Spices (મરીમસાલા), Bread (બ્રેડ), Butter (માખણ), Cheese (ચીઝ), Meat (માંસ)",
+              "**Natural Elements (કુદરતી તત્વો):** Wood (લાકડું), Stone (પથ્થર), Clay (માટી), Sand (રેતી), Dust (ધૂળ), Coal (કોલસો), Cotton (રૂ), Wool (ઊન), Silk (રેશમ), Leather (ચામડું), Rubber (રબર)",
+              "**Gases/Others (વાયુઓ/અન્ય):** Air (હવા), Oxygen (ઓક્સિજન), Nitrogen (નાઈટ્રોજન), Smoke (ધુમાડો), Steam (વરાળ), Rain (વરસાદ), Dew (ઝાકળ), Mist (ધુમ્મસ), Ice (બરફ), Glass (કાચ), Paper (કાગળ), Cement (સિમેન્ટ)"
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Sentences:</b><br/>👉 **Gold** is a precious metal.<br/>👉 We drink **water** every day.<br/>👉 **Cotton** grows in the field."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "2. Common Noun (જાતિવાચક નામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "એક જ વર્ગના લોકો, સ્થળો, વસ્તુઓ કે પ્રાણીઓ માટે એકસરખી રીતે લાગુ પાડી શકાય તેવા 'સામાન્ય નામને' Common Noun કહેવાય છે."
+        },
+        {
+          "type": "note",
+          "content": "<b>Rule:</b> Common Noun એકવચન (Singular) અથવા બહુવચન (Plural) હોઈ શકે છે. જો એકવચન હોય તો તેની આગળ Article (a, an, the) લાગે છે."
+        },
+        {
+          "type": "example_section",
+          "content": {
+            "title": "Comprehensive Examples (વિસ્તૃત ઉદાહરણો)",
+            "examples": [
+              "**Relations (સંબંધો):** Mother (માતા), Father (પિતા), Brother (ભાઈ), Sister (બહેન), Uncle (કાકા/મામા), Aunt (કાકી/માસી), Nephew (ભત્રીજો/ભાણેજ), Niece (ભત્રીજી/ભાણેજી), Guest (મહેમાન), Friend (મિત્ર), Neighbour (પડોશી), Enemy (દુશ્મન)",
+              "**Professions (વ્યવસાયો):** Teacher (શિક્ષક), Student (વિદ્યાર્થી), Doctor (ડોક્ટર), Lawyer (વકીલ), Engineer (ઈજનેર), Farmer (ખેડૂત), Driver (ડ્રાઈવર), Pilot (પાઈલટ), Soldier (સૈનિક), King (રાજા), Servant (નોકર), Writer (લેખક), Singer (ગાયક)",
+              "**Animals (પ્રાણીઓ):** Lion (સિંહ), Tiger (વાઘ), Elephant (હાથી), Dog (કૂતરો), Cat (બિલાડી), Cow (ગાય), Horse (ઘોડો), Monkey (વાંદરો), Fox (શિયાળ), Rabbit (સસલું), Deer (હરણ), Bear (રીંછ), Wolf (વરુ), Camel (ઊંટ)",
+              "**Birds (પક્ષીઓ):** Peacock (મોર), Parrot (પોપટ), Crow (કાગડો), Sparrow (ચકલી), Eagle (ગરુડ), Pigeon (કબૂતર), Swan (હંસ), Owl (ઘુવડ), Crane (બગલો)",
+              "**Insects (જીવજંતુઓ):** Ant (કીડી), Bee (મધમાખી), Butterfly (પતંગિયું), Mosquito (મચ્છર), Fly (માખી), Spider (કરોળિયો), Snake (સાપ)",
+              "**Places (સ્થળો):** City (શહેર), Village (ગામ), School (શાળા), College (કોલેજ), Hospital (હોસ્પિટલ), Temple (મંદિર), Garden (બગીચો), Bank (બેંક), Post-office (પોસ્ટ ઓફિસ), Station (સ્ટેશન), River (નદી), Mountain (પર્વત)",
+              "**Fruits/Vegetables (ફળ/શાકભાજી):** Apple (સફરજન), Mango (કેરી), Banana (કેળું), Orange (નારંગી), Potato (બટાકા), Tomato (ટામેટા), Onion (ડુંગળી), Carrot (ગાજર)",
+              "**Vehicles/Objects (વાહનો/વસ્તુઓ):** Car (કાર), Bus (બસ), Train (ટ્રેન), Aeroplane (વિમાન), Bicycle (સાયકલ), Pen (પેન), Book (ચોપડી), Table (ટેબલ), Chair (ખુરશી), Mobile (મોબાઈલ), Computer (કમ્પ્યુટર), Watch (ઘડિયાળ)"
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Sentences:</b><br/>👉 The **teacher** is teaching in the **class**.<br/>👉 A **king** lives in a **palace**.<br/>👉 **Birds** fly in the **sky**."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "3. Abstract Noun (ભાવવાચક નામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "ગુણ, ક્રિયા, ભાવ, લાગણી કે અવસ્થાના નામને ભાવવાચક નામ કહેવાય છે. આને જોઈ કે સ્પર્શી શકાતું નથી, માત્ર અનુભવી શકાય છે."
+        },
+        {
+          "type": "note",
+          "content": "<b>How to identify?</b> ઘણા Abstract Nouns શબ્દના અંતે (Suffixes) પરથી ઓળખાય છે, જેવા કે;<br/>-ness, -tion, -ment, -ship, -hood, -dom, -th, -ity"
+        },
+        {
+          "type": "example_section",
+          "content": {
+            "title": "Comprehensive Examples (વિસ્તૃત ઉદાહરણો)",
+            "examples": [
+              "**Feelings (લાગણીઓ):** Happiness (સુખ/ખુશી), Sadness (દુઃખ), Joy (આનંદ), Sorrow (શોક), Fear (ડર), Anger (ગુસ્સો), Love (પ્રેમ), Hatred (તિરસ્કાર), Pity (દયા), Sympathy (સહાનુભૂતિ), Surprise (આશ્ચર્ય), Pride (ગર્વ)",
+              "**Qualities (ગુણો):** Goodness (ભલાઈ/સારપ), Kindness (દયા/માયાળુપણું), Honesty (પ્રમાણિકતા), Bravery (બહાદુરી), Wisdom (ડહાપણ), Truth (સત્ય), Beauty (સુંદરતા), Cleverness (ચતુરાઈ), Intelligence (બુદ્ધિમત્તા), Hardness (સખતાઈ), Softness (નરમાઈ), Brightness (તેજ), Darkness (અંધકાર)",
+              "**States (અવસ્થા/સ્થિતિ):** Childhood (બાળપણ), Boyhood (કૌમારાવસ્થા), Youth (જુવાની), Manhood (મર્દાનગી), Old age (ઘડપણ), Slavery (ગુલામી), Freedom (આઝાદી/સ્તંત્રતા), Poverty (ગરીબી), Wealth (સંપત્તિ), Sickness (બીમારી), Health (તંદુરસ્તી), Sleep (ઊંઘ), Death (મૃત્યુ), Life (જીવન)",
+              "**Actions/Activity (ક્રિયા/પ્રવૃત્તિ):** Laughter (હાસ્ય), Theft (ચોરી), Movement (હલનચલન), Judgment (ન્યાય), Discovery (શોધ), Treatment (સારવાર), Choice (પસંદગી)",
+              "**Concepts (વિચારો):** Time (સમય), Power (શક્તિ), Knowledge (જ્ઞાન), Success (સફળતા), Failure (નિષ્ફળતા), Luck (નસીબ), Justice (ન્યાય), Peace (શાંતિ)"
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Sentences:</b><br/>👉 **Kindness** helps everyone.<br/>👉 India got **freedom** in 1947.<br/>👉 **Wisdom** is better than strength."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "4. Collective Noun (સમૂહવાચક નામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "કોઈ એક વ્યક્તિ કે વસ્તુ નહીં, પણ આખા સમૂહ (Group) નો ઉલ્લેખ કરવા માટે વપરાતા નામને સમૂહવાચક નામ કહે છે."
+        },
+        {
+          "type": "note",
+          "content": "<b>Rule:</b> Collective Noun સામાન્ય રીતે એકવચન (Singular) ગણાય છે, તેથી ક્રિયાપદ પણ એકવચન આવે છે.<br/>(e.g., The team **is** playing.)"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Comprehensive List (સંપૂર્ણ યાદી)",
+            "headers": [
+              "Collective Noun",
+              "Meaning (ગુજરાતીમાં)"
+            ],
+            "rows": [
+              [
+                "A **crowd/mob** of people",
+                "લોકોનું ટોળું / ભીડ"
+              ],
+              [
+                "A **herd** of cattle/deer",
+                "ઢોર/હરણનું ટોળું"
+              ],
+              [
+                "A **flock** of birds/sheep",
+                "પક્ષીઓ/ઘેટાંનું ટોળું"
+              ],
+              [
+                "An **army** of soldiers",
+                "સૈનિકોનું સૈન્ય"
+              ],
+              [
+                "A **class** of students",
+                "વિદ્યાર્થીઓનો વર્ગ"
+              ],
+              [
+                "A **team** of players",
+                "ખેલાડીઓની ટીમ"
+              ],
+              [
+                "A **jury** of judges",
+                "ન્યાયાધીશોની પેનલ"
+              ],
+              [
+                "A **committee** of members",
+                "સભ્યોની સમિતિ"
+              ],
+              [
+                "A **gang** of thieves/robbers",
+                "ચોર/લૂંટારાની ટોળકી"
+              ],
+              [
+                "A **bunch** of keys/grapes",
+                "ચાવી/દ્રાક્ષનો ઝૂમખો"
+              ],
+              [
+                "A **bundle** of sticks",
+                "લાકડીઓનો ભારો"
+              ],
+              [
+                "A **pile/heap** of stones/books",
+                "પથ્થર/પુસ્તકોનો ઢગલો"
+              ],
+              [
+                "A **fleet** of ships/cars",
+                "જહાજો/કારોનો કાફલો"
+              ],
+              [
+                "A **library** of books",
+                "પુસ્તકાલય"
+              ],
+              [
+                "A **pride** of lions",
+                "સિંહોનું ટોળું"
+              ],
+              [
+                "A **swarm** of bees/ants",
+                "માખી/કીડીનું ઝૂંડ"
+              ],
+              [
+                "A **shoal/school** of fish",
+                "માછલીઓનું ટોળું"
+              ],
+              [
+                "A **troupe** of dancers",
+                "નૃત્યકારોની મંડળી"
+              ],
+              [
+                "A **band** of musicians",
+                "સંગીતકારોની ટુકડી"
+              ],
+              [
+                "A **bouquet** of flowers",
+                "પુષ્પગુચ્છ"
+              ],
+              [
+                "A **galaxy** of stars",
+                "તારામંડળ"
+              ],
+              [
+                "A **pack** of wolves/cards",
+                "વરુઓનું ટોળું / પત્તાની જોડ"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Sentences:</b><br/>👉 The **police** dispersed the **crowd**.<br/>👉 A **herd** of elephants crossed the road.<br/>👉 Our **team** won the match."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "5. Proper Noun (વ્યક્તિવાચક નામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "કોઈપણ વ્યક્તિ, વસ્તુ કે સ્થળને તેની જાતિનાં અન્ય નામોથી અલગ પાડવા માટે જે 'ખાસ નામ' આપવામાં આવે છે તેને વ્યક્તિવાચક કે સંજ્ઞાવાચક નામ કહેવાય છે."
+        },
+        {
+          "type": "note",
+          "content": "<b>Rule:</b> Proper Noun નો પહેલો અક્ષર હંમેશા **Capital** હોય છે. તેની આગળ Article (a, an) લાગતો નથી (અપવાદ સિવાય)."
+        },
+        {
+          "type": "example_section",
+          "content": {
+            "title": "Examples (ઉદાહરણો)",
+            "examples": [
+              "**Persons:** Rahul, Priya, Narendra Modi, Virat Kohli, Amitabh Bachchan",
+              "**Cities/States:** Surat, Delhi, Gujarat, Mumbai, Rajkot, Punjab, Kashmir",
+              "**Countries:** India, USA, Japan, Australia, Canada, China, Nepal",
+              "**Days/Months:** Sunday, Monday, January, March, December",
+              "**Festivals:** Diwali, Holi, Eid, Christmas, Navratri, Raksha Bandhan",
+              "**Monuments:** The Taj Mahal, The Statue of Unity, The Red Fort, The Qutub Minar",
+              "**Rivers/Mountains:** The Ganga, The Yamuna, The Narmada, The Himalayas, The Girnar",
+              "**Brands:** Google, Amul, Honda, Samsung, Tata, Jio, Apple"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🚫 Confusion Points (ગેરસમજ ટાળો)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "ઘણીવાર વિદ્યાર્થીઓને અમુક નામોમાં કન્ફ્યુઝન થાય છે. ચાલો તેને ક્લિયર કરીએ."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Proper Noun vs Common Noun",
+            "headers": [
+              "Proper Noun (ખાસ નામ)",
+              "Common Noun (સામાન્ય નામ)"
+            ],
+            "rows": [
+              [
+                "**Sachin Tendulkar**",
+                "**Cricketer** (ઘણા ક્રિકેટર હોય શકે)"
+              ],
+              [
+                "**India**",
+                "**Country** (ઘણા દેશો હોય શકે)"
+              ],
+              [
+                "**Tommy** (કૂતરાનું નામ)",
+                "**Dog** (પ્રાણીની જાતિ)"
+              ],
+              [
+                "**Nokia**",
+                "**Mobile**"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Common Noun vs Collective Noun",
+            "headers": [
+              "Common Noun",
+              "Collective Noun (સમૂહ)"
+            ],
+            "rows": [
+              [
+                "**Player** (એક ખેલાડી)",
+                "**Team** (ખેલાડીઓનો સમૂહ)"
+              ],
+              [
+                "**Student** (એક વિદ્યાર્થી)",
+                "**Class** (વિદ્યાર્થીઓનો સમૂહ)"
+              ],
+              [
+                "**Soldier** (એક સૈનિક)",
+                "**Army** (સૈનિકોનો સમૂહ)"
+              ],
+              [
+                "**Key** (એક ચાવી)",
+                "**Bunch** (ચાવીઓનો ઝૂમખો)"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+
+{
+  "id": "chapter-13",
+  "title": "Digital Actions 💻",
+  "gujaratiTitle": "ડિજિટલ ક્રિયાઓ 💻",
+  "hindiTitle": "डिजिटल क्रियाएँ 💻",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" },
+    { "id": "level-5" }
+  ]
+}

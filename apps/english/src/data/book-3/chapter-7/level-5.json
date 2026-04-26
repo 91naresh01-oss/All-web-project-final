@@ -1,0 +1,170 @@
+{
+  "id": "level-5",
+  "title": "Level 5: Profound Alterations",
+  "words": [
+    {
+      "word": "Alchemize",
+      "gujaratiPronunciation": "એલ્કેમાઇઝ",
+      "hindiPronunciation": "अल्केमाइज़",
+      "gujaratiMeaning": "રૂપાંતરિત કરવું (જાદુઈ રીતે)",
+      "hindiMeaning": "रूपांतरित करना (जादुई रूप से)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Alchemize", "gujaratiPronunciation": "એલ્કેમાઇઝ", "hindiPronunciation": "अल्केमाइज़", "gujaratiMeaning": "રૂપાંતરિત કરવું", "hindiMeaning": "रूपांतरित करना" },
+        "V2 (Past)": { "word": "Alchemized", "gujaratiPronunciation": "એલ્કેમાઇઝ્ડ", "hindiPronunciation": "अल्केमाइज्ड", "gujaratiMeaning": "રૂપાંતરિત કર્યું", "hindiMeaning": "रूपांतरित किया" },
+        "V3 (Past Participle)": { "word": "Alchemized", "gujaratiPronunciation": "એલ્કેમાઇઝ્ડ", "hindiPronunciation": "अल्केमाइज्ड", "gujaratiMeaning": "રૂપાંતરિત કરેલું", "hindiMeaning": "रूपांतरित" },
+        "V4 (Present Participle)": { "word": "Alchemizing", "gujaratiPronunciation": "એલ્કેમાઇઝિંગ", "hindiPronunciation": "अल्केमाइजिंग", "gujaratiMeaning": "રૂપાંતરિત કરી રહ્યું છે", "hindiMeaning": "रूपांतरित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Transform", "gujaratiPronunciation": "ટ્રાન્સફોર્મ", "hindiPronunciation": "ट्रांसफॉर्म", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "रूपांतरित करना" },
+        { "word": "Transmute", "gujaratiPronunciation": "ટ્રાન્સમ્યુટ", "hindiPronunciation": "ट्रांसम्यूट", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "बदल देना" }
+      ],
+      "antonyms": [
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" },
+        { "word": "Preserve", "gujaratiPronunciation": "પ્રિઝર્વ", "hindiPronunciation": "प्रिजर्व", "gujaratiMeaning": "જાળવવું", "hindiMeaning": "संरक्षित करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The artist could alchemize pain into beautiful art.",
+          "gujaratiTranslation": "કલાકાર પીડાને સુંદર કલામાં રૂપાંતરિત કરી શકતો હતો.",
+          "hindiTranslation": "कलाकार दर्द को सुंदर कला में बदल सकता था।",
+          "gujaratiPronunciation": "ધી આર્ટિસ્ટ કુડ એલ્કેમાઇઝ પેઇન ઇનટુ બ્યુટિફુલ આર્ટ.",
+          "hindiPronunciation": "द आर्टिस्ट कुड अल्केमाइज़ पेन इनटू ब्यूटीफुल आर्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Restructure",
+      "gujaratiPronunciation": "રિસ્ટ્રક્ચર",
+      "hindiPronunciation": "रीस्ट्रक्चर",
+      "gujaratiMeaning": "પુનઃરચના કરવી",
+      "hindiMeaning": "पुनर्निर्माण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Restructure", "gujaratiPronunciation": "રિસ્ટ્રક્ચર", "hindiPronunciation": "रीस्ट्रक्चर", "gujaratiMeaning": "પુનઃરચના કરવી", "hindiMeaning": "पुनर्निर्माण करना" },
+        "V2 (Past)": { "word": "Restructured", "gujaratiPronunciation": "રિસ્ટ્રક્ચર્ડ", "hindiPronunciation": "रीस्ट्रक्चर्ड", "gujaratiMeaning": "પુનઃરચના કરી", "hindiMeaning": "पुनर्निर्मित किया" },
+        "V3 (Past Participle)": { "word": "Restructured", "gujaratiPronunciation": "રિસ્ટ્રક્ચર્ડ", "hindiPronunciation": "रीस्ट्रक्चर्ड", "gujaratiMeaning": "પુનઃરચિત", "hindiMeaning": "पुनर्निर्मित" },
+        "V4 (Present Participle)": { "word": "Restructuring", "gujaratiPronunciation": "રિસ્ટ્રક્ચરિંગ", "hindiPronunciation": "रीस्ट्रक्चरिंग", "gujaratiMeaning": "પુનઃરચના કરી રહ્યું છે", "hindiMeaning": "पुनर्निर्माण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Reorganize", "gujaratiPronunciation": "રિઓર્ગેનાઇઝ", "hindiPronunciation": "रीऑर्गेनाइज़", "gujaratiMeaning": "પુનર્ગઠન કરવું", "hindiMeaning": "पुनर्गठित करना" },
+        { "word": "Remodel", "gujaratiPronunciation": "રિમોડેલ", "hindiPronunciation": "रीमॉडल", "gujaratiMeaning": "ફરીથી બનાવવું", "hindiMeaning": "पुनर्निर्मित करना" }
+      ],
+      "antonyms": [
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" },
+        { "word": "Preserve", "gujaratiPronunciation": "પ્રિઝર્વ", "hindiPronunciation": "प्रिजर्व", "gujaratiMeaning": "જાળવવું", "hindiMeaning": "संरक्षित करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company had to restructure to survive.",
+          "gujaratiTranslation": "ટકી રહેવા માટે કંપનીએ પુનઃરચના કરવી પડી.",
+          "hindiTranslation": "बने रहने के लिए कंपनी को पुनर्गठन करना पड़ा।",
+          "gujaratiPronunciation": "ધ કંપની હેડ ટુ રિસ્ટ્રક્ચર ટુ સર્વાઇવ.",
+          "hindiPronunciation": "द कंपनी हैड टू रीस्ट्रक्चर टू सर्वाइव।"
+        }
+      ]
+    },
+    {
+      "word": "Dissolve",
+      "gujaratiPronunciation": "ડિઝોલ્વ",
+      "hindiPronunciation": "डिज़ॉल्व",
+      "gujaratiMeaning": "ઓગળી જવું, વિસર્જન કરવું",
+      "hindiMeaning": "घुलना, भंग करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Dissolve", "gujaratiPronunciation": "ડિઝોલ્વ", "hindiPronunciation": "डिज़ॉल्व", "gujaratiMeaning": "ઓગળવું", "hindiMeaning": "घुलना" },
+        "V2 (Past)": { "word": "Dissolved", "gujaratiPronunciation": "ડિઝોલ્વ્ડ", "hindiPronunciation": "डिज़ॉल्वड", "gujaratiMeaning": "ઓગળી ગયું", "hindiMeaning": "घुल गया" },
+        "V3 (Past Participle)": { "word": "Dissolved", "gujaratiPronunciation": "ડિઝોલ્વ્ડ", "hindiPronunciation": "डिज़ॉल्वड", "gujaratiMeaning": "ઓગળેલું", "hindiMeaning": "घुला हुआ" },
+        "V4 (Present Participle)": { "word": "Dissolving", "gujaratiPronunciation": "ડિઝોલ્વિંગ", "hindiPronunciation": "डिज़ॉल्विंग", "gujaratiMeaning": "ઓગળી રહ્યું છે", "hindiMeaning": "घुल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Melt", "gujaratiPronunciation": "મેલ્ટ", "hindiPronunciation": "मेल्ट", "gujaratiMeaning": "ઓગળવું", "hindiMeaning": "पिघलना" },
+        { "word": "Disintegrate", "gujaratiPronunciation": "ડિસઇન્ટિગ્રેટ", "hindiPronunciation": "डिसइंटीग्रेट", "gujaratiMeaning": "વિઘટન થવું", "hindiMeaning": "विघटित होना" }
+      ],
+      "antonyms": [
+        { "word": "Solidify", "gujaratiPronunciation": "સોલિડિફાય", "hindiPronunciation": "सॉलिडिफाई", "gujaratiMeaning": "ઘન બનવું", "hindiMeaning": "ठोस बनाना" },
+        { "word": "Form", "gujaratiPronunciation": "ફોર્મ", "hindiPronunciation": "फॉर्म", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" }
+      ],
+      "confusingWords": [
+        { "word": "Resolve", "gujaratiPronunciation": "રિઝોલ્વ", "hindiPronunciation": "रिज़ॉल्व", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "हल करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Sugar will dissolve in water.",
+          "gujaratiTranslation": "ખાંડ પાણીમાં ઓગળી જશે.",
+          "hindiTranslation": "चीनी पानी में घुल जाएगी।",
+          "gujaratiPronunciation": "શુગર વિલ ડિઝોલ્વ ઇન વોટર.",
+          "hindiPronunciation": "शुगर विल डिज़ॉल्व इन वॉटर।"
+        }
+      ]
+    },
+    {
+      "word": "Metamorphose",
+      "gujaratiPronunciation": "મેટામોર્ફોઝ",
+      "hindiPronunciation": "मेटामॉर्फोज़",
+      "gujaratiMeaning": "કાયાપલટ થવી, રૂપાંતર પામવું",
+      "hindiMeaning": "कायापलट होना, रूपांतरित होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Metamorphose", "gujaratiPronunciation": "મેટામોર્ફોઝ", "hindiPronunciation": "मेटामॉर्फोज़", "gujaratiMeaning": "રૂપાંતર પામવું", "hindiMeaning": "रूपांतरित होना" },
+        "V2 (Past)": { "word": "Metamorphosed", "gujaratiPronunciation": "મેટામોર્ફોઝ્ડ", "hindiPronunciation": "मेटामॉर्फोज़्ड", "gujaratiMeaning": "રૂપાંતર પામ્યું", "hindiMeaning": "रूपांतरित हुआ" },
+        "V3 (Past Participle)": { "word": "Metamorphosed", "gujaratiPronunciation": "મેટામોર્ફોઝ્ડ", "hindiPronunciation": "मेटामॉर्फोज़्ड", "gujaratiMeaning": "રૂપાંતરિત", "hindiMeaning": "रूपांतरित" },
+        "V4 (Present Participle)": { "word": "Metamorphosing", "gujaratiPronunciation": "મેટામોર્ફોઝિંગ", "hindiPronunciation": "मेटामॉर्फोजिंग", "gujaratiMeaning": "રૂપાંતર પામી રહ્યું છે", "hindiMeaning": "रूपांतरित हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Transform", "gujaratiPronunciation": "ટ્રાન્સફોર્મ", "hindiPronunciation": "ट्रांसफॉर्म", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "रूपांतरित करना" },
+        { "word": "Change", "gujaratiPronunciation": "ચેન્જ", "hindiPronunciation": "चेंज", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" }
+      ],
+      "antonyms": [
+        { "word": "Remain", "gujaratiPronunciation": "રિમેન", "hindiPronunciation": "रिमेन", "gujaratiMeaning": "રહેવું", "hindiMeaning": "बने रहना" },
+        { "word": "Stagnate", "gujaratiPronunciation": "સ્ટેગ્નેટ", "hindiPronunciation": "स्टैग्नेट", "gujaratiMeaning": "સ્થિર રહેવું", "hindiMeaning": "स्थिर रहना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The tadpole will metamorphose into a frog.",
+          "gujaratiTranslation": "દેડકાનું બચ્ચું દેડકામાં રૂપાંતરિત થશે.",
+          "hindiTranslation": "टैडपोल एक मेंढक में रूपांतरित हो जाएगा।",
+          "gujaratiPronunciation": "ધ ટેડપોલ વિલ મેટામોર્ફોઝ ઇનટુ અ ફ્રોગ.",
+          "hindiPronunciation": "द टैडपोल विल मेटामॉर्फोज़ इनटू अ फ्रॉग।"
+        }
+      ]
+    },
+    {
+      "word": "Warp",
+      "gujaratiPronunciation": "વાર્પ",
+      "hindiPronunciation": "वार्प",
+      "gujaratiMeaning": "વાળવું, વિકૃત કરવું",
+      "hindiMeaning": "विकृत करना, मोड़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Warp", "gujaratiPronunciation": "વાર્પ", "hindiPronunciation": "वार्प", "gujaratiMeaning": "વાળવું", "hindiMeaning": "विकृत करना" },
+        "V2 (Past)": { "word": "Warped", "gujaratiPronunciation": "વાર્પ્ડ", "hindiPronunciation": "वार्प्ड", "gujaratiMeaning": "વાળ્યું", "hindiMeaning": "विकृत किया" },
+        "V3 (Past Participle)": { "word": "Warped", "gujaratiPronunciation": "વાર્પ્ડ", "hindiPronunciation": "वार्प्ड", "gujaratiMeaning": "વળેલું", "hindiMeaning": "विकृत" },
+        "V4 (Present Participle)": { "word": "Warping", "gujaratiPronunciation": "વાર્પિંગ", "hindiPronunciation": "वार्पिंग", "gujaratiMeaning": "વાળી રહ્યું છે", "hindiMeaning": "विकृत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Distort", "gujaratiPronunciation": "ડિસ્ટોર્ટ", "hindiPronunciation": "डिस्टॉर्ट", "gujaratiMeaning": "વિકૃત કરવું", "hindiMeaning": "विकृत करना" },
+        { "word": "Bend", "gujaratiPronunciation": "બેન્ડ", "hindiPronunciation": "बेंड", "gujaratiMeaning": "વાળવું", "hindiMeaning": "मोड़ना" }
+      ],
+      "antonyms": [
+        { "word": "Straighten", "gujaratiPronunciation": "સ્ટ્રેટન", "hindiPronunciation": "स्ट्रेटन", "gujaratiMeaning": "સીધું કરવું", "hindiMeaning": "सीधा करना" },
+        { "word": "Unbend", "gujaratiPronunciation": "અનબેન્ડ", "hindiPronunciation": "अनबेंड", "gujaratiMeaning": "સીધું કરવું", "hindiMeaning": "सीधा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Wrap", "gujaratiPronunciation": "રેપ", "hindiPronunciation": "रैप", "gujaratiMeaning": "લપેટવું", "hindiMeaning": "लपेटना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The heat caused the plastic to warp.",
+          "gujaratiTranslation": "ગરમીને કારણે પ્લાસ્ટિક વળી ગયું.",
+          "hindiTranslation": "गर्मी के कारण प्लास्टिक विकृत हो गया।",
+          "gujaratiPronunciation": "ધ હીટ કોઝ્ડ ધ પ્લાસ્ટિક ટુ વાર્પ.",
+          "hindiPronunciation": "द हीट कॉज़्ड द प्लास्टिक टू वार्प।"
+        }
+      ]
+    }
+  ]
+}

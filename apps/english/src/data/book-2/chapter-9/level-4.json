@@ -1,0 +1,77 @@
+
+{
+  "id": "level-4",
+  "title": "Physical Actions 2",
+  "words": [
+    {
+      "word": "Bend",
+      "gujaratiPronunciation": "બેન્ડ",
+      "hindiPronunciation": "बेंड",
+      "gujaratiMeaning": "વાળવું",
+      "hindiMeaning": "झुकना",
+      "exampleSentences": [
+        {
+          "sentence": "He can bend a steel rod.",
+          "gujaratiTranslation": "તે સ્ટીલનો સળિયો વાળી શકે છે.",
+          "hindiTranslation": "वह एक स्टील की छड़ को मोड़ सकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Stretch",
+      "gujaratiPronunciation": "સ્ટ્રેચ",
+      "hindiPronunciation": "स्ट्रेच",
+      "gujaratiMeaning": "ખેંચાણ કરવું",
+      "hindiMeaning": "खींचना",
+      "exampleSentences": [
+        {
+          "sentence": "It's good to stretch before exercising.",
+          "gujaratiTranslation": "કસરત કરતા પહેલા ખેંચાણ કરવું સારું છે.",
+          "hindiTranslation": "व्यायाम करने से पहले स्ट्रेच करना अच्छा होता है।"
+        }
+      ]
+    },
+    {
+      "word": "Shake",
+      "gujaratiPronunciation": "શેક",
+      "hindiPronunciation": "शेक",
+      "gujaratiMeaning": "હલાવવું",
+      "hindiMeaning": "हिलाना",
+      "exampleSentences": [
+        {
+          "sentence": "Shake the bottle well before use.",
+          "gujaratiTranslation": "ઉપયોગ કરતા પહેલા બોટલને સારી રીતે હલાવો.",
+          "hindiTranslation": "उपयोग करने से पहले बोतल को अच्छी तरह हिलाएं।"
+        }
+      ]
+    },
+    {
+      "word": "Hug",
+      "gujaratiPronunciation": "હગ",
+      "hindiPronunciation": "हग",
+      "gujaratiMeaning": "આલિંગન કરવું",
+      "hindiMeaning": "गले लगाना",
+      "exampleSentences": [
+        {
+          "sentence": "She gave her mother a tight hug.",
+          "gujaratiTranslation": "તેણીએ તેની માતાને જોરથી આલિંગન કર્યું.",
+          "hindiTranslation": "उसने अपनी माँ को कसकर गले लगाया।"
+        }
+      ]
+    },
+    {
+      "word": "Kiss",
+      "gujaratiPronunciation": "કિસ",
+      "hindiPronunciation": "किस",
+      "gujaratiMeaning": "ચુંબન કરવું",
+      "hindiMeaning": "चूमना",
+      "exampleSentences": [
+        {
+          "sentence": "The mother kissed her baby's forehead.",
+          "gujaratiTranslation": "માતાએ તેના બાળકના કપાળ પર ચુંબન કર્યું.",
+          "hindiTranslation": "माँ ने अपने बच्चे के माथे को चूमा।"
+        }
+      ]
+    }
+  ]
+}

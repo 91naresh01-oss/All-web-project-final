@@ -1,0 +1,90 @@
+{
+  "id": "level-2",
+  "title": "Directions and Distance",
+  "words": [
+    {
+      "word": "Left",
+      "gujaratiPronunciation": "લેફ્ટ",
+      "hindiPronunciation": "लेफ्ट",
+      "gujaratiMeaning": "ડાબું",
+      "hindiMeaning": "बायां",
+      "exampleSentences": [
+        {
+          "sentence": "Turn left at the next corner.",
+          "gujaratiTranslation": "આગળના ખૂણા પર ડાબી બાજુ વળો.",
+          "hindiTranslation": "अगले कोने पर बाएं मुड़ें।"
+        }
+      ]
+    },
+    {
+      "word": "Right",
+      "gujaratiPronunciation": "રાઇટ",
+      "hindiPronunciation": "राइट",
+      "gujaratiMeaning": "જમણું",
+      "hindiMeaning": "दायां",
+      "exampleSentences": [
+        {
+          "sentence": "My right hand is stronger.",
+          "gujaratiTranslation": "મારો જમણો હાથ વધુ મજબૂત છે.",
+          "hindiTranslation": "मेरा दाहिना हाथ ज़्यादा मज़बूत है।"
+        }
+      ]
+    },
+    {
+      "word": "North",
+      "gujaratiPronunciation": "નોર્થ",
+      "hindiPronunciation": "नॉर्थ",
+      "gujaratiMeaning": "ઉત્તર",
+      "hindiMeaning": "उत्तर",
+      "exampleSentences": [
+        {
+          "sentence": "The Himalayas are in the north of India.",
+          "gujaratiTranslation": "હિમાલય ભારતના ઉત્તરમાં છે.",
+          "hindiTranslation": "हिमालय भारत के उत्तर में है।"
+        }
+      ]
+    },
+    {
+      "word": "South",
+      "gujaratiPronunciation": "સાઉથ",
+      "hindiPronunciation": "साउथ",
+      "gujaratiMeaning": "દક્ષિણ",
+      "hindiMeaning": "दक्षिण",
+      "exampleSentences": [
+        {
+          "sentence": "Kanyakumari is in the south of India.",
+          "gujaratiTranslation": "કન્યાકુમારી ભારતના દક્ષિણમાં છે.",
+          "hindiTranslation": "कन्याकुमारी भारत के दक्षिण में है।"
+        }
+      ]
+    },
+    {
+      "word": "Near",
+      "gujaratiPronunciation": "નિયર",
+      "hindiPronunciation": "नियर",
+      "gujaratiMeaning": "નજીક",
+      "hindiMeaning": "पास",
+      "exampleSentences": [
+        {
+          "sentence": "My house is near the school.",
+          "gujaratiTranslation": "મારું ઘર શાળાની નજીક છે.",
+          "hindiTranslation": "मेरा घर स्कूल के पास है।"
+        }
+      ]
+    },
+    {
+      "word": "Far",
+      "gujaratiPronunciation": "ફાર",
+      "hindiPronunciation": "फार",
+      "gujaratiMeaning": "દૂર",
+      "hindiMeaning": "दूर",
+      "exampleSentences": [
+        {
+          "sentence": "The airport is far from here.",
+          "gujaratiTranslation": "એરપોર્ટ અહીંથી દૂર છે.",
+          "hindiTranslation": "हवाई अड्डा यहाँ से दूर है।"
+        }
+      ]
+    }
+  ]
+}

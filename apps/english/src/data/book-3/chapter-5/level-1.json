@@ -1,0 +1,176 @@
+{
+  "id": "level-1",
+  "title": "Initial Social Actions",
+  "words": [
+    {
+      "word": "Befriend",
+      "gujaratiPronunciation": "બિફ્રેન્ડ",
+      "hindiPronunciation": "बिफ्रेंड",
+      "gujaratiMeaning": "મિત્ર બનાવવું, દોસ્તી કરવી",
+      "hindiMeaning": "मित्र बनाना, दोस्ती करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Befriend", "gujaratiPronunciation": "બિફ્રેન્ડ", "hindiPronunciation": "बिफ्रेंड", "gujaratiMeaning": "મિત્ર બનાવવું", "hindiMeaning": "मित्र बनाना" },
+        "V2 (Past)": { "word": "Befriended", "gujaratiPronunciation": "બિફ્રેન્ડેડ", "hindiPronunciation": "बिफ्रेंडेड", "gujaratiMeaning": "મિત્ર બનાવ્યો", "hindiMeaning": "मित्र बनाया" },
+        "V3 (Past Participle)": { "word": "Befriended", "gujaratiPronunciation": "બિફ્રેન્ડેડ", "hindiPronunciation": "बिफ्रेंडेड", "gujaratiMeaning": "મિત્ર બનાવેલો", "hindiMeaning": "मित्र बनाया हुआ" },
+        "V4 (Present Participle)": { "word": "Befriending", "gujaratiPronunciation": "બિફ્રેન્ડિંગ", "hindiPronunciation": "बिफ्रेंडिंग", "gujaratiMeaning": "મિત્ર બનાવી રહ્યું", "hindiMeaning": "मित्र बना रहा" }
+      },
+      "synonyms": [
+        { "word": "Assist", "gujaratiPronunciation": "અસિસ્ટ", "hindiPronunciation": "असिस्ट", "gujaratiMeaning": "મદદ કરવી", "hindiMeaning": "सहायता करना" },
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" }
+      ],
+      "antonyms": [
+        { "word": "Alienate", "gujaratiPronunciation": "એલિયેનેટ", "hindiPronunciation": "एलियनेट", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "दूर करना" },
+        { "word": "Oppose", "gujaratiPronunciation": "ઓપોઝ", "hindiPronunciation": "अपोज़", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" }
+      ],
+      "confusingWords": [
+        { "word": "Defend", "gujaratiPronunciation": "ડિફેન્ડ", "hindiPronunciation": "डिफेंड", "gujaratiMeaning": "બચાવ કરવો", "hindiMeaning": "बचाव करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He tries to befriend everyone he meets.",
+          "gujaratiTranslation": "તે જેમને પણ મળે છે તેમને મિત્ર બનાવવાનો પ્રયાસ કરે છે.",
+          "hindiTranslation": "वह जिससे भी मिलता है, उसे दोस्त बनाने की कोशिश करता है।",
+          "gujaratiPronunciation": "હી ટ્રાઇઝ ટુ બિફ્રેન્ડ એવરીવન હી મીટ્સ.",
+          "hindiPronunciation": "ही ट्राइज़ टू बिफ्रेंड एवरीवन ही मीट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Embrace",
+      "gujaratiPronunciation": "એમ્બ્રેસ",
+      "hindiPronunciation": "एम्ब्रेस",
+      "gujaratiMeaning": "આલિંગન કરવું, અપનાવવું",
+      "hindiMeaning": "गले लगाना, अपनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Embrace", "gujaratiPronunciation": "એમ્બ્રેસ", "hindiPronunciation": "एम्ब्रेस", "gujaratiMeaning": "આલિંગન કરવું", "hindiMeaning": "गले लगाना" },
+        "V2 (Past)": { "word": "Embraced", "gujaratiPronunciation": "એમ્બ્રેસ્ડ", "hindiPronunciation": "एम्ब्रेस्ड", "gujaratiMeaning": "આલિંગન કર્યું", "hindiMeaning": "गले लगाया" },
+        "V3 (Past Participle)": { "word": "Embraced", "gujaratiPronunciation": "એમ્બ્રેસ્ડ", "hindiPronunciation": "एम्ब्रेस्ड", "gujaratiMeaning": "આલિંગન કરેલું", "hindiMeaning": "गले लगाया हुआ" },
+        "V4 (Present Participle)": { "word": "Embracing", "gujaratiPronunciation": "એમ્બ્રેસિંગ", "hindiPronunciation": "एम्ब्रेसिंग", "gujaratiMeaning": "આલિંગન કરી રહ્યું", "hindiMeaning": "गले लगा रहा" }
+      },
+      "synonyms": [
+        { "word": "Hug", "gujaratiPronunciation": "હગ", "hindiPronunciation": "हग", "gujaratiMeaning": "ભેટવું", "hindiMeaning": "गले लगाना" },
+        { "word": "Accept", "gujaratiPronunciation": "એક્સેપ્ટ", "hindiPronunciation": "एक्सेप्ट", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" }
+      ],
+      "antonyms": [
+        { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" },
+        { "word": "Shun", "gujaratiPronunciation": "શન", "hindiPronunciation": "शन", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "त्याग देना" }
+      ],
+      "confusingWords": [
+        { "word": "Embarrass", "gujaratiPronunciation": "એમ્બેરસ", "hindiPronunciation": "एम्बैरस", "gujaratiMeaning": "શરમમાં મૂકવું", "hindiMeaning": "शर्मिंदा करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She embraced her friend warmly.",
+          "gujaratiTranslation": "તેણીએ તેની મિત્રને ઉષ્માભેર આલિંગન કર્યું.",
+          "hindiTranslation": "उसने अपनी सहेली को गर्मजोशी से गले लगाया।",
+          "gujaratiPronunciation": "શી એમ્બ્રેસ્ડ હર ફ્રેન્ડ વોર્મલી.",
+          "hindiPronunciation": "शी एम्ब्रेस्ड हर फ्रेंड वॉर्मली।"
+        }
+      ]
+    },
+    {
+      "word": "Acclaim",
+      "gujaratiPronunciation": "અક્લેમ",
+      "hindiPronunciation": "अक्लेम",
+      "gujaratiMeaning": "વખાણ કરવું, પ્રશંસા કરવી",
+      "hindiMeaning": "प्रशंसा करना, सराहना करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Acclaim", "gujaratiPronunciation": "અક્લેમ", "hindiPronunciation": "अक्लेम", "gujaratiMeaning": "વખાણ કરવું", "hindiMeaning": "प्रशंसा करना" },
+        "V2 (Past)": { "word": "Acclaimed", "gujaratiPronunciation": "અક્લેમ્ડ", "hindiPronunciation": "अक्लेम्ड", "gujaratiMeaning": "વખાણ કર્યા", "hindiMeaning": "प्रशंसा की" },
+        "V3 (Past Participle)": { "word": "Acclaimed", "gujaratiPronunciation": "અક્લેમ્ડ", "hindiPronunciation": "अक्लेम्ड", "gujaratiMeaning": "વખાણ કરેલા", "hindiMeaning": "प्रशंसित" },
+        "V4 (Present Participle)": { "word": "Acclaiming", "gujaratiPronunciation": "અક્લેમિંગ", "hindiPronunciation": "अक्लेमिंग", "gujaratiMeaning": "વખાણ કરી રહ્યું", "hindiMeaning": "प्रशंसा कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Praise", "gujaratiPronunciation": "પ્રેઇઝ", "hindiPronunciation": "प्रेज़", "gujaratiMeaning": "પ્રશંસા કરવી", "hindiMeaning": "प्रशंसा करना" },
+        { "word": "Laud", "gujaratiPronunciation": "લૉડ", "hindiPronunciation": "लॉड", "gujaratiMeaning": "સ્તુતિ કરવી", "hindiMeaning": "स्तुति करना" }
+      ],
+      "antonyms": [
+        { "word": "Criticize", "gujaratiPronunciation": "ક્રિટિસાઇઝ", "hindiPronunciation": "क्रिटिसाइज़", "gujaratiMeaning": "ટીકા કરવી", "hindiMeaning": "आलोचना करना" },
+        { "word": "Condemn", "gujaratiPronunciation": "કન્ડેમ", "hindiPronunciation": "कंडेम", "gujaratiMeaning": "નિંદા કરવી", "hindiMeaning": "निंदा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Claim", "gujaratiPronunciation": "ક્લેમ", "hindiPronunciation": "क्लेम", "gujaratiMeaning": "દાવો કરવો", "hindiMeaning": "दावा करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The novel was critically acclaimed.",
+          "gujaratiTranslation": "આ નવલકથાની વિવેચકો દ્વારા ખૂબ પ્રશંસા કરવામાં આવી.",
+          "hindiTranslation": "उपन्यास की समीक्षकों द्वारा अत्यधिक प्रशंसा की गई।",
+          "gujaratiPronunciation": "ધ નોવેલ વૉઝ ક્રિટિકલી અક્લેમ્ડ.",
+          "hindiPronunciation": "द नॉवेल वॉज़ क्रिटिकली अक्लेम्ड।"
+        }
+      ]
+    },
+    {
+      "word": "Welcome",
+      "gujaratiPronunciation": "વેલકમ",
+      "hindiPronunciation": "वेलकम",
+      "gujaratiMeaning": "સ્વાગત કરવું",
+      "hindiMeaning": "स्वागत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Welcome", "gujaratiPronunciation": "વેલકમ", "hindiPronunciation": "वेलकम", "gujaratiMeaning": "સ્વાગત કરવું", "hindiMeaning": "स्वागत करना" },
+        "V2 (Past)": { "word": "Welcomed", "gujaratiPronunciation": "વેલકમ્ડ", "hindiPronunciation": "वेलकमड", "gujaratiMeaning": "સ્વાગત કર્યું", "hindiMeaning": "स्वागत किया" },
+        "V3 (Past Participle)": { "word": "Welcomed", "gujaratiPronunciation": "વેલકમ્ડ", "hindiPronunciation": "वेलकमड", "gujaratiMeaning": "સ્વાગત કરેલું", "hindiMeaning": "स्वागत किया हुआ" },
+        "V4 (Present Participle)": { "word": "Welcoming", "gujaratiPronunciation": "વેલકમિંગ", "hindiPronunciation": "वेलकमिंग", "gujaratiMeaning": "સ્વાગત કરી રહ્યું", "hindiMeaning": "स्वागत कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Greet", "gujaratiPronunciation": "ગ્રીટ", "hindiPronunciation": "ग्रीट", "gujaratiMeaning": "અભિવાદન કરવું", "hindiMeaning": "अभिवादन करना" },
+        { "word": "Receive", "gujaratiPronunciation": "રિસીવ", "hindiPronunciation": "रिसीव", "gujaratiMeaning": "આવકારવું", "hindiMeaning": "स्वीकार करना" }
+      ],
+      "antonyms": [
+        { "word": "Exclude", "gujaratiPronunciation": "એક્સક્લુડ", "hindiPronunciation": "एक्सक्लूड", "gujaratiMeaning": "બાકાત રાખવું", "hindiMeaning": "बाहर रखना" },
+        { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Well come", "gujaratiPronunciation": "વેલ કમ", "hindiPronunciation": "वेल कम", "gujaratiMeaning": "સારી રીતે આવવું (ખોટો પ્રયોગ)", "hindiMeaning": "अच्छी तरह से आना (गलत प्रयोग)" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They welcomed the guests with open arms.",
+          "gujaratiTranslation": "તેઓએ મહેમાનોનું ઉમળકાભેર સ્વાગત કર્યું.",
+          "hindiTranslation": "उन्होंने मेहमानों का खुले दिल से स्वागत किया।",
+          "gujaratiPronunciation": "ધે વેલકમ્ડ ધ ગેસ્ટ્સ વિથ ઓપન આર્મ્સ.",
+          "hindiPronunciation": "दे वेलकमड द गेस्ट्स विद ओपन आर्म्स।"
+        }
+      ]
+    },
+    {
+      "word": "Bestow",
+      "gujaratiPronunciation": "બિસ્ટો",
+      "hindiPronunciation": "बिस्टो",
+      "gujaratiMeaning": "પ્રદાન કરવું, અર્પણ કરવું",
+      "hindiMeaning": "प्रदान करना, अर्पित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Bestow", "gujaratiPronunciation": "બિસ્ટો", "hindiPronunciation": "बिस्टो", "gujaratiMeaning": "પ્રદાન કરવું", "hindiMeaning": "प्रदान करना" },
+        "V2 (Past)": { "word": "Bestowed", "gujaratiPronunciation": "બિસ્ટોડ", "hindiPronunciation": "बिस्टोड", "gujaratiMeaning": "પ્રદાન કર્યું", "hindiMeaning": "प्रदान किया" },
+        "V3 (Past Participle)": { "word": "Bestowed", "gujaratiPronunciation": "બિસ્ટોડ", "hindiPronunciation": "बिस्टोड", "gujaratiMeaning": "પ્રદાન કરેલું", "hindiMeaning": "प्रदान किया हुआ" },
+        "V4 (Present Participle)": { "word": "Bestowing", "gujaratiPronunciation": "બિસ્ટોઇંગ", "hindiPronunciation": "बिस्टोइंग", "gujaratiMeaning": "પ્રદાન કરી રહ્યું", "hindiMeaning": "प्रदान कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Grant", "gujaratiPronunciation": "ગ્રાન્ટ", "hindiPronunciation": "ग्रांट", "gujaratiMeaning": "આપવું", "hindiMeaning": "देना" },
+        { "word": "Confer", "gujaratiPronunciation": "કન્ફર", "hindiPronunciation": "कन्फर", "gujaratiMeaning": "પ્રદાન કરવું", "hindiMeaning": "प्रदान करना" }
+      ],
+      "antonyms": [
+        { "word": "Withhold", "gujaratiPronunciation": "વિથહોલ્ડ", "hindiPronunciation": "विथहोल्ड", "gujaratiMeaning": "રોકી રાખવું", "hindiMeaning": "रोक रखना" },
+        { "word": "Deny", "gujaratiPronunciation": "ડિનાય", "hindiPronunciation": "डिनाई", "gujaratiMeaning": "ઇનકાર કરવો", "hindiMeaning": "इनकार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Below", "gujaratiPronunciation": "બિલો", "hindiPronunciation": "बिलो", "gujaratiMeaning": "નીચે", "hindiMeaning": "नीचे" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The queen bestowed a knighthood upon him.",
+          "gujaratiTranslation": "રાણીએ તેને નાઈટહુડની પદવી પ્રદાન કરી.",
+          "hindiTranslation": "रानी ने उसे नाइटहुड की उपाधि प्रदान की।",
+          "gujaratiPronunciation": "ધ ક્વીન બિસ્ટોડ અ નાઇટહુડ અપોન હિમ.",
+          "hindiPronunciation": "द क्वीन बिस्टोड अ नाइटहुड अपॉन हिम।"
+        }
+      ]
+    }
+  ]
+}

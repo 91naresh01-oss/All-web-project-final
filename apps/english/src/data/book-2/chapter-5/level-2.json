@@ -1,0 +1,77 @@
+
+{
+  "id": "level-2",
+  "title": "Sports 2",
+  "words": [
+    {
+      "word": "Race",
+      "gujaratiPronunciation": "રેસ",
+      "hindiPronunciation": "रेस",
+      "gujaratiMeaning": "દોડ",
+      "hindiMeaning": "दौड़",
+      "exampleSentences": [
+        {
+          "sentence": "He won the 100-meter race.",
+          "gujaratiTranslation": "તેણે 100-મીટરની દોડ જીતી.",
+          "hindiTranslation": "उसने 100-मीटर की दौड़ जीती।"
+        }
+      ]
+    },
+    {
+      "word": "Swim",
+      "gujaratiPronunciation": "સ્વિમ",
+      "hindiPronunciation": "स्विम",
+      "gujaratiMeaning": "તરવું",
+      "hindiMeaning": "तैरना",
+      "exampleSentences": [
+        {
+          "sentence": "I like to swim in the pool.",
+          "gujaratiTranslation": "મને પૂલમાં તરવું ગમે છે.",
+          "hindiTranslation": "मुझे पूल में तैरना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Cycle",
+      "gujaratiPronunciation": "સાયકલ",
+      "hindiPronunciation": "साइकिल",
+      "gujaratiMeaning": "સાયકલ ચલાવવી",
+      "hindiMeaning": "साइकिल चलाना",
+      "exampleSentences": [
+        {
+          "sentence": "We cycle to school every day.",
+          "gujaratiTranslation": "અમે દરરોજ શાળાએ સાયકલ ચલાવીને જઈએ છીએ.",
+          "hindiTranslation": "हम हर दिन स्कूल साइकिल से जाते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Skate",
+      "gujaratiPronunciation": "સ્કેટ",
+      "hindiPronunciation": "स्केट",
+      "gujaratiMeaning": "સ્કેટિંગ કરવું",
+      "hindiMeaning": "स्केटिंग करना",
+      "exampleSentences": [
+        {
+          "sentence": "She learned how to skate last winter.",
+          "gujaratiTranslation": "તેણીએ ગયા શિયાળામાં સ્કેટિંગ કરવાનું શીખ્યું.",
+          "hindiTranslation": "उसने पिछली सर्दियों में स्केटिंग करना सीखा।"
+        }
+      ]
+    },
+    {
+      "word": "Box",
+      "gujaratiPronunciation": "બોક્સ",
+      "hindiPronunciation": "बॉक्स",
+      "gujaratiMeaning": "મુક્કેબાજી",
+      "hindiMeaning": "मुक्केबाज़ी",
+      "exampleSentences": [
+        {
+          "sentence": "He is a professional boxer.",
+          "gujaratiTranslation": "તે એક વ્યાવસાયિક મુક્કેબાજ છે.",
+          "hindiTranslation": "वह एक पेशेवर मुक्केबाज है।"
+        }
+      ]
+    }
+  ]
+}

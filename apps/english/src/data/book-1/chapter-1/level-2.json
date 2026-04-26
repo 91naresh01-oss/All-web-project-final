@@ -1,0 +1,47 @@
+
+{
+    "id": "level-2",
+    "title": "Numbers 2",
+    "words": [
+        {
+            "word": "Six",
+            "icon": "6️⃣",
+            "gujaratiPronunciation": "સિક્સ",
+            "hindiPronunciation": "सिक्स",
+            "gujaratiMeaning": "છ",
+            "hindiMeaning": "छह"
+        },
+        {
+            "word": "Seven",
+            "icon": "7️⃣",
+            "gujaratiPronunciation": "સેવન",
+            "hindiPronunciation": "सेवन",
+            "gujaratiMeaning": "સાત",
+            "hindiMeaning": "सात"
+        },
+        {
+            "word": "Eight",
+            "icon": "8️⃣",
+            "gujaratiPronunciation": "એટ",
+            "hindiPronunciation": "एट",
+            "gujaratiMeaning": "આઠ",
+            "hindiMeaning": "आठ"
+        },
+        {
+            "word": "Nine",
+            "icon": "9️⃣",
+            "gujaratiPronunciation": "નાઇન",
+            "hindiPronunciation": "नाइन",
+            "gujaratiMeaning": "નવ",
+            "hindiMeaning": "नौ"
+        },
+        {
+            "word": "Ten",
+            "icon": "🔟",
+            "gujaratiPronunciation": "ટેન",
+            "hindiPronunciation": "टेन",
+            "gujaratiMeaning": "દસ",
+            "hindiMeaning": "दस"
+        }
+    ]
+}

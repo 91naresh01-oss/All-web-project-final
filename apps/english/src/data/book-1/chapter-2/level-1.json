@@ -1,0 +1,47 @@
+
+{
+    "id": "level-1",
+    "title": "Body Parts 1",
+    "words": [
+        {
+            "word": "Head",
+            "icon": "👤",
+            "gujaratiPronunciation": "હેડ",
+            "hindiPronunciation": "हेड",
+            "gujaratiMeaning": "માથું",
+            "hindiMeaning": "सिर"
+        },
+        {
+            "word": "Eye",
+            "icon": "👁️",
+            "gujaratiPronunciation": "આઇ",
+            "hindiPronunciation": "आई",
+            "gujaratiMeaning": "આંખ",
+            "hindiMeaning": "आंख"
+        },
+        {
+            "word": "Ear",
+            "icon": "👂",
+            "gujaratiPronunciation": "ઇઅર",
+            "hindiPronunciation": "इअर",
+            "gujaratiMeaning": "કાન",
+            "hindiMeaning": "कान"
+        },
+        {
+            "word": "Nose",
+            "icon": "👃",
+            "gujaratiPronunciation": "નોઝ",
+            "hindiPronunciation": "नोज़",
+            "gujaratiMeaning": "નાક",
+            "hindiMeaning": "नाक"
+        },
+        {
+            "word": "Mouth",
+            "icon": "👄",
+            "gujaratiPronunciation": "માઉથ",
+            "hindiPronunciation": "माउथ",
+            "gujaratiMeaning": "મોં",
+            "hindiMeaning": "मुंह"
+        }
+    ]
+}

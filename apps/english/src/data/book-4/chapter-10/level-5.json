@@ -1,0 +1,141 @@
+
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Persist",
+            "gujaratiPronunciation": "પર્સિસ્ટ",
+            "hindiPronunciation": "पर्सिस्ट",
+            "gujaratiMeaning": "ટકી રહેવું, મક્કમ રહેવું",
+            "hindiMeaning": "बने रहना, दृढ़ रहना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Persist", "gujaratiPronunciation": "પર્સિસ્ટ", "hindiPronunciation": "पर्सिस्ट", "gujaratiMeaning": "મક્કમ રહેવું", "hindiMeaning": "दृढ़ रहना" },
+                "V2 (Past)": { "word": "Persisted", "gujaratiPronunciation": "પર્સિસ્ટેડ", "hindiPronunciation": "पर्सिस्टेड", "gujaratiMeaning": "મક્કમ રહ્યું", "hindiMeaning": "दृढ़ रहा" },
+                "V3 (Past Participle)": { "word": "Persisted", "gujaratiPronunciation": "પર્સિસ્ટેડ", "hindiPronunciation": "पर्सिस्टेड", "gujaratiMeaning": "મક્કમ રહેલું", "hindiMeaning": "दृढ़ रहा" },
+                "V4 (Present Participle)": { "word": "Persisting", "gujaratiPronunciation": "પર્સિસ્ટિંગ", "hindiPronunciation": "पर्सिस्टिंग", "gujaratiMeaning": "મક્કમ રહી રહ્યું છે", "hindiMeaning": "दृढ़ रह रहा है" }
+            },
+            "synonyms": [
+                { "word": "Continue", "gujaratiPronunciation": "કન્ટીન્યુ", "hindiPronunciation": "कंटिन्यू", "gujaratiMeaning": "ચાલુ રાખવું", "hindiMeaning": "जारी रखना" },
+                { "word": "Endure", "gujaratiPronunciation": "એન્ડ્યોર", "hindiPronunciation": "एंड्योर", "gujaratiMeaning": "સહન કરવું", "hindiMeaning": "सहन करना" }
+            ],
+            "antonyms": [
+                { "word": "Stop", "gujaratiPronunciation": "સ્ટોપ", "hindiPronunciation": "स्टॉप", "gujaratiMeaning": "અટકવું", "hindiMeaning": "रुकना" },
+                { "word": "Quit", "gujaratiPronunciation": "ક્વિટ", "hindiPronunciation": "क्विट", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ देना" }
+            ],
+            "confusingWords": [
+                { "word": "Resist", "gujaratiPronunciation": "રઝિસ્ટ", "hindiPronunciation": "रेज़िस्ट", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "If you persist, you will succeed.", "gujaratiTranslation": "જો તમે મક્કમ રહેશો, તો તમે સફળ થશો.", "hindiTranslation": "यदि आप दृढ़ रहते हैं, तो आप सफल होंगे।", "gujaratiPronunciation": "ઇફ યુ પર્સિસ્ટ, યુ વિલ સક્સીડ.", "hindiPronunciation": "इफ यू पर्सिस्ट, यू विल सक्सीड।" }
+            ]
+        },
+        {
+            "word": "Etherealize",
+            "gujaratiPronunciation": "ઇથિરિયલાઇઝ",
+            "hindiPronunciation": "इथीरियलाइज़",
+            "gujaratiMeaning": "અત્યંત નાજુક બનાવવું, આધ્યાત્મિક બનાવવું",
+            "hindiMeaning": "अत्यंत नाजुक बनाना, आध्यात्मिक बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Etherealize", "gujaratiPronunciation": "ઇથિરિયલાઇઝ", "hindiPronunciation": "इथीरियलाइज़", "gujaratiMeaning": "નાજુક બનાવવું", "hindiMeaning": "नाजुक बनाना" },
+                "V2 (Past)": { "word": "Etherealized", "gujaratiPronunciation": "ઇથિરિયલાઇઝ્ડ", "hindiPronunciation": "इथीरियलाइज़्ड", "gujaratiMeaning": "નાજુક બનાવ્યું", "hindiMeaning": "नाजुक बनाया" },
+                "V3 (Past Participle)": { "word": "Etherealized", "gujaratiPronunciation": "ઇથિરિયલાઇઝ્ડ", "hindiPronunciation": "इथीरियलाइज़्ड", "gujaratiMeaning": "નાજુક બનાવેલું", "hindiMeaning": "नाजुक बनाया हुआ" },
+                "V4 (Present Participle)": { "word": "Etherealizing", "gujaratiPronunciation": "ઇથિરિયલાઇઝિંગ", "hindiPronunciation": "इथीरियलाइजिंग", "gujaratiMeaning": "નાજુક બનાવી રહ્યું છે", "hindiMeaning": "नाजુક बना रहा है" }
+            },
+            "synonyms": [
+                { "word": "Refine", "gujaratiPronunciation": "રિફાઇન", "hindiPronunciation": "रिफाइन", "gujaratiMeaning": "શુદ્ધ કરવું", "hindiMeaning": "परिष्कृत करना" },
+                { "word": "Spiritualize", "gujaratiPronunciation": "સ્પિરિચ્યુઅલાઇઝ", "hindiPronunciation": "स्पिरिचुअलाइज़", "gujaratiMeaning": "આધ્યાત્મિક બનાવવું", "hindiMeaning": "आध्यात्मिक बनाना" }
+            ],
+            "antonyms": [
+                { "word": "Materialize", "gujaratiPronunciation": "મટિરિયલાઇઝ", "hindiPronunciation": "मटेरियलाइज़", "gujaratiMeaning": "મૂર્ત બનાવવું", "hindiMeaning": "भौतिक बनाना" },
+                { "word": "Coarsen", "gujaratiPronunciation": "કોર્સન", "hindiPronunciation": "कोर्सन", "gujaratiMeaning": "ખરબચડું બનાવવું", "hindiMeaning": "खुरदरा बनाना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The artist tried to etherealize the human form in his painting.", "gujaratiTranslation": "કલાકારે તેના ચિત્રમાં માનવ સ્વરૂપને આધ્યાત્મિક બનાવવાનો પ્રયાસ કર્યો.", "hindiTranslation": "कलाकार ने अपनी पेंटिंग में मानव रूप को अलौकिक बनाने का प्रयास किया।", "gujaratiPronunciation": "ધ આર્ટિસ્ટ ટ્રાઇડ ટુ ઇથિરિયલાઇઝ ધ હ્યુમન ફોર્મ ઇન હિઝ પેઇન્ટિંગ.", "hindiPronunciation": "द आर्टिस्ट ट्राइड टू इथीरियलाइज़ द ह्यूमन फॉर्म इन हिज़ पेंटिंग।" }
+            ]
+        },
+        {
+            "word": "Awaken",
+            "gujaratiPronunciation": "અવેકન",
+            "hindiPronunciation": "अवेकन",
+            "gujaratiMeaning": "જગાડવું, જાગૃત થવું",
+            "hindiMeaning": "जगाना, जागृत होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Awaken", "gujaratiPronunciation": "અવેકન", "hindiPronunciation": "अवेकन", "gujaratiMeaning": "જગાડવું", "hindiMeaning": "जगाना" },
+                "V2 (Past)": { "word": "Awakened", "gujaratiPronunciation": "અવેકન્ડ", "hindiPronunciation": "अवेकंड", "gujaratiMeaning": "જગાડ્યું", "hindiMeaning": "जगाया" },
+                "V3 (Past Participle)": { "word": "Awakened", "gujaratiPronunciation": "અવેકન્ડ", "hindiPronunciation": "अवेकंड", "gujaratiMeaning": "જગાડેલું", "hindiMeaning": "जगाया हुआ" },
+                "V4 (Present Participle)": { "word": "Awakening", "gujaratiPronunciation": "અવેકનિંગ", "hindiPronunciation": "अवेकनिंग", "gujaratiMeaning": "જગાડી રહ્યું છે", "hindiMeaning": "जगा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Wake up", "gujaratiPronunciation": "વેક અપ", "hindiPronunciation": "वेक अप", "gujaratiMeaning": "જાગવું", "hindiMeaning": "जागना" },
+                { "word": "Rouse", "gujaratiPronunciation": "રાઉઝ", "hindiPronunciation": "राउज़", "gujaratiMeaning": "ઉઠાડવું", "hindiMeaning": "उठाना" }
+            ],
+            "antonyms": [
+                { "word": "Sleep", "gujaratiPronunciation": "સ્લીપ", "hindiPronunciation": "स्लीप", "gujaratiMeaning": "સૂવું", "hindiMeaning": "सोना" },
+                { "word": "Doze", "gujaratiPronunciation": "ડોઝ", "hindiPronunciation": "डोज़", "gujaratiMeaning": "ઝોકું ખાવું", "hindiMeaning": "ऊँघना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The noise awakened the sleeping baby.", "gujaratiTranslation": "અવાજે સૂતેલા બાળકને જગાડી દીધું.", "hindiTranslation": "शोर ने सोए हुए बच्चे को जगा दिया।", "gujaratiPronunciation": "ધ નોઇઝ અવેકન્ડ ધ સ્લીપિંગ બેબી.", "hindiPronunciation": "द नॉइज़ अवेकंड द स्लीपिंग बेबी।" }
+            ]
+        },
+        {
+            "word": "Endure",
+            "gujaratiPronunciation": "એન્ડ્યોર",
+            "hindiPronunciation": "एंड्योर",
+            "gujaratiMeaning": "સહન કરવું, ટકવું",
+            "hindiMeaning": "सहन करना, टिकना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Endure", "gujaratiPronunciation": "એન્ડ્યોર", "hindiPronunciation": "एंड्योर", "gujaratiMeaning": "સહન કરવું", "hindiMeaning": "सहन करना" },
+                "V2 (Past)": { "word": "Endured", "gujaratiPronunciation": "એન્ડ્યોર્ડ", "hindiPronunciation": "एंड्योर्ड", "gujaratiMeaning": "સહન કર્યું", "hindiMeaning": "सहन किया" },
+                "V3 (Past Participle)": { "word": "Endured", "gujaratiPronunciation": "એન્ડ્યોર્ડ", "hindiPronunciation": "एंड्योर्ड", "gujaratiMeaning": "સહન કરેલું", "hindiMeaning": "सहन किया हुआ" },
+                "V4 (Present Participle)": { "word": "Enduring", "gujaratiPronunciation": "એન્ડ્યોરિંગ", "hindiPronunciation": "एंड्योरिंग", "gujaratiMeaning": "સહન કરી રહ્યું છે", "hindiMeaning": "सहन कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Tolerate", "gujaratiPronunciation": "ટોલરેટ", "hindiPronunciation": "टॉलरेट", "gujaratiMeaning": "સહનશીલતા રાખવી", "hindiMeaning": "सहन करना" },
+                { "word": "Last", "gujaratiPronunciation": "લાસ્ટ", "hindiPronunciation": "लास्ट", "gujaratiMeaning": "ટકવું", "hindiMeaning": "टिकना" }
+            ],
+            "antonyms": [
+                { "word": "Perish", "gujaratiPronunciation": "પેરિશ", "hindiPronunciation": "पेरिश", "gujaratiMeaning": "નાશ પામવું", "hindiMeaning": "नष्ट होना" },
+                { "word": "Give up", "gujaratiPronunciation": "ગિવ અપ", "hindiPronunciation": "गिव अप", "gujaratiMeaning": "હાર માનવી", "hindiMeaning": "हार मान लेना" }
+            ],
+            "confusingWords": [
+                { "word": "Indoor", "gujaratiPronunciation": "ઇનડોર", "hindiPronunciation": "इनडोर", "gujaratiMeaning": "ઘરની અંદરનું", "hindiMeaning": "घर के अंदर" }
+            ],
+            "exampleSentences": [
+                { "sentence": "They had to endure great hardship.", "gujaratiTranslation": "તેમણે મોટી મુશ્કેલીઓ સહન કરવી પડી.", "hindiTranslation": "उन्हें बड़ी कठिनाइयों का सामना करना पड़ा।", "gujaratiPronunciation": "ધે હેડ ટુ એન્ડ્યોર ગ્રેટ હાર્ડશિપ.", "hindiPronunciation": "दे हैड टू एंड्योर ग्रेट हार्डशिप।" }
+            ]
+        },
+        {
+            "word": "Emanate",
+            "gujaratiPronunciation": "એમનેટ",
+            "hindiPronunciation": "एमनेट",
+            "gujaratiMeaning": "માંથી નીકળવું, પ્રસરવું",
+            "hindiMeaning": "से निकलना, फैलना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Emanate", "gujaratiPronunciation": "એમનેટ", "hindiPronunciation": "एमनेट", "gujaratiMeaning": "નીકળવું", "hindiMeaning": "निकलना" },
+                "V2 (Past)": { "word": "Emanated", "gujaratiPronunciation": "એમનેટેડ", "hindiPronunciation": "एमनेटेड", "gujaratiMeaning": "નીકળ્યું", "hindiMeaning": "निकला" },
+                "V3 (Past Participle)": { "word": "Emanated", "gujaratiPronunciation": "એમનેટેડ", "hindiPronunciation": "एमनेटेड", "gujaratiMeaning": "નીકળેલું", "hindiMeaning": "निकला हुआ" },
+                "V4 (Present Participle)": { "word": "Emanating", "gujaratiPronunciation": "એમનેટિંગ", "hindiPronunciation": "एमनेटिंग", "gujaratiMeaning": "નીકળી રહ્યું છે", "hindiMeaning": "निकल रहा है" }
+            },
+            "synonyms": [
+                { "word": "Originate", "gujaratiPronunciation": "ઓરિજિનેટ", "hindiPronunciation": "ओरिजिनेट", "gujaratiMeaning": "ઉદ્ભવવું", "hindiMeaning": "उत्पन्न होना" },
+                { "word": "Radiate", "gujaratiPronunciation": "રેડિએટ", "hindiPronunciation": "रेडिएट", "gujaratiMeaning": "ફેલાવવું", "hindiMeaning": "फैलना" }
+            ],
+            "antonyms": [
+                { "word": "Absorb", "gujaratiPronunciation": "એબ્સોર્બ", "hindiPronunciation": "एब्सॉर्ब", "gujaratiMeaning": "શોષી લેવું", "hindiMeaning": "सोख लेना" },
+                { "word": "Contain", "gujaratiPronunciation": "કન્ટેન", "hindiPronunciation": "कंटेन", "gujaratiMeaning": "સમાવવું", "hindiMeaning": "शामिल करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "A sweet smell emanated from the flowers.", "gujaratiTranslation": "ફૂલોમાંથી મીઠી સુગંધ નીકળી રહી હતી.", "hindiTranslation": "फूलों से मीठी सुगंध आ रही थी।", "gujaratiPronunciation": "અ સ્વીટ સ્મેલ એમનેટેડ ફ્રોમ ધ ફ્લાવર્સ.", "hindiPronunciation": "अ स्वीट स्मेल एमनेटेड फ्रॉम द फ्लावर्स।" }
+            ]
+        }
+    ]
+}

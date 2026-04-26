@@ -1,0 +1,47 @@
+
+{
+    "id": "level-4",
+    "title": "Polygons",
+    "words": [
+        {
+            "word": "Pentagon",
+            "icon": "⬠",
+            "gujaratiPronunciation": "પેન્ટાગોન",
+            "hindiPronunciation": "पेंटागन",
+            "gujaratiMeaning": "પંચકોણ",
+            "hindiMeaning": "पंचकोण"
+        },
+        {
+            "word": "Hexagon",
+            "icon": "⬢",
+            "gujaratiPronunciation": "હેક્સાગોન",
+            "hindiPronunciation": "हेक्सागन",
+            "gujaratiMeaning": "ષટ્કોણ",
+            "hindiMeaning": "षट्कोण"
+        },
+        {
+            "word": "Octagon",
+            "icon": "🛑",
+            "gujaratiPronunciation": "ઓક્ટાગોન",
+            "hindiPronunciation": "ऑक्टागन",
+            "gujaratiMeaning": "અષ્ટકોણ",
+            "hindiMeaning": "अष्टकोण"
+        },
+        {
+            "word": "Ellipse",
+            "icon": "⬭",
+            "gujaratiPronunciation": "એલિપ્સ",
+            "hindiPronunciation": "एलिप्स",
+            "gujaratiMeaning": "દીર્ઘવૃત્ત",
+            "hindiMeaning": "दीर्घवृत्त"
+        },
+        {
+            "word": "Rhombus",
+            "icon": "♦️",
+            "gujaratiPronunciation": "રોમ્બસ",
+            "hindiPronunciation": "रॉम्बस",
+            "gujaratiMeaning": "સમબાજુ ચતુષ્કોણ",
+            "hindiMeaning": "समचतुर्भुज"
+        }
+    ]
+}

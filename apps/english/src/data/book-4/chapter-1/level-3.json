@@ -1,0 +1,176 @@
+{
+  "id": "level-3",
+  "title": "Level 3: Emotional Actions",
+  "words": [
+    {
+      "word": "Commiserate",
+      "gujaratiPronunciation": "કમિઝરેટ",
+      "hindiPronunciation": "कमिज़रेट",
+      "gujaratiMeaning": "સહાનુભૂતિ બતાવવી",
+      "hindiMeaning": "सहानुभूति व्यक्त करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Commiserate", "gujaratiPronunciation": "કમિઝરેટ", "hindiPronunciation": "कमिज़रेट", "gujaratiMeaning": "સહાનુભૂતિ બતાવવી", "hindiMeaning": "सहानुभूति व्यक्त करना" },
+        "V2 (Past)": { "word": "Commiserated", "gujaratiPronunciation": "કમિઝરેટેડ", "hindiPronunciation": "कमिज़रेटेड", "gujaratiMeaning": "સહાનુભૂતિ બતાવી", "hindiMeaning": "सहानुभूति व्यक्त की" },
+        "V3 (Past Participle)": { "word": "Commiserated", "gujaratiPronunciation": "કમિઝરેટેડ", "hindiPronunciation": "कमिज़रेटेड", "gujaratiMeaning": "સહાનુભૂતિ બતાવેલી", "hindiMeaning": "सहानुभूति व्यक्त की हुई" },
+        "V4 (Present Participle)": { "word": "Commiserating", "gujaratiPronunciation": "કમિઝરેટિંગ", "hindiPronunciation": "कमिज़रेटिंग", "gujaratiMeaning": "સહાનુભૂતિ બતાવતો", "hindiMeaning": "सहानुभूति व्यक्त कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Sympathize", "gujaratiPronunciation": "સિમ્પથાઇઝ", "hindiPronunciation": "सिंपथाइज़", "gujaratiMeaning": "દિલસોજી કરવી", "hindiMeaning": "सहानुभूति रखना" },
+        { "word": "Empathize", "gujaratiPronunciation": "એમ્પથાઇઝ", "hindiPronunciation": "एंपथाइज़", "gujaratiMeaning": "સમાનુભૂતિ અનુભવવી", "hindiMeaning": "समानुभूति रखना" }
+      ],
+      "antonyms": [
+        { "word": "Celebrate", "gujaratiPronunciation": "સેલિબ્રેટ", "hindiPronunciation": "सेलिब्रेट", "gujaratiMeaning": "ઉજવણી કરવી", "hindiMeaning": "जश्न मनाना" },
+        { "word": "Indifference", "gujaratiPronunciation": "ઇન્ડિફરન્સ", "hindiPronunciation": "इंडिफरेंस", "gujaratiMeaning": "ઉદાસીનતા", "hindiMeaning": "उदासीनता" }
+      ],
+      "confusingWords": [
+        { "word": "Commeasure", "gujaratiPronunciation": "કોમેઝર", "hindiPronunciation": "कोमेज़र", "gujaratiMeaning": "માપવું", "hindiMeaning": "मापना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I commiserated with him on the loss of his job.",
+          "gujaratiTranslation": "મેં તેની નોકરી ગુમાવવા પર તેની સાથે સહાનુભૂતિ વ્યક્ત કરી.",
+          "hindiTranslation": "मैंने उसकी नौकरी छूटने पर उसके साथ सहानुभूति व्यक्त की।",
+          "gujaratiPronunciation": "આઈ કમિઝરેટેડ વિથ હિમ ઓન ધ લોસ ઓફ હિઝ જોબ.",
+          "hindiPronunciation": "आई कमिज़रेटेड विद हिम ऑन द लॉस ऑफ हिज़ जॉब।"
+        }
+      ]
+    },
+    {
+      "word": "Agitate",
+      "gujaratiPronunciation": "એજિટેટ",
+      "hindiPronunciation": "एजिटेट",
+      "gujaratiMeaning": "ઉશ્કેરવું",
+      "hindiMeaning": "उत्तेजित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Agitate", "gujaratiPronunciation": "એજિટેટ", "hindiPronunciation": "एजिटेट", "gujaratiMeaning": "ઉશ્કેરવું", "hindiMeaning": "उत्तेजित करना" },
+        "V2 (Past)": { "word": "Agitated", "gujaratiPronunciation": "એજિટેટેડ", "hindiPronunciation": "एजिटेटेड", "gujaratiMeaning": "ઉશ્કેર્યો", "hindiMeaning": "उत्तेजित किया" },
+        "V3 (Past Participle)": { "word": "Agitated", "gujaratiPronunciation": "એજિટેટેડ", "hindiPronunciation": "एजिटेटेड", "gujaratiMeaning": "ઉશ્કેરાયેલો", "hindiMeaning": "उत्तेजित" },
+        "V4 (Present Participle)": { "word": "Agitating", "gujaratiPronunciation": "એજિટેટિંગ", "hindiPronunciation": "एजिटेटिंग", "gujaratiMeaning": "ઉશ્કેરતો", "hindiMeaning": "उत्तेजित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Disturb", "gujaratiPronunciation": "ડિસ્ટર્બ", "hindiPronunciation": "डिस्टर्ब", "gujaratiMeaning": "પરેશાન કરવું", "hindiMeaning": "परेशान करना" },
+        { "word": "Upset", "gujaratiPronunciation": "અપસેટ", "hindiPronunciation": "अपसेट", "gujaratiMeaning": "વ્યાકુળ કરવું", "hindiMeaning": "परेशान करना" }
+      ],
+      "antonyms": [
+        { "word": "Calm", "gujaratiPronunciation": "કામ", "hindiPronunciation": "काम", "gujaratiMeaning": "શાંત કરવું", "hindiMeaning": "शांत करना" },
+        { "word": "Soothe", "gujaratiPronunciation": "સૂધ", "hindiPronunciation": "सूद", "gujaratiMeaning": "શાંત પાડવું", "hindiMeaning": "शांत करना" }
+      ],
+      "confusingWords": [
+        { "word": "Navigate", "gujaratiPronunciation": "નેવિગેટ", "hindiPronunciation": "नेविगेट", "gujaratiMeaning": "માર્ગદર્શન કરવું", "hindiMeaning": "मार्गदर्शन करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The news seemed to agitate him.",
+          "gujaratiTranslation": "સમાચાર તેને ઉશ્કેરતા લાગતા હતા.",
+          "hindiTranslation": "खबर ने उसे उत्तेजित कर दिया।",
+          "gujaratiPronunciation": "ધ ન્યૂઝ સીમ્ડ ટુ એજિટેટ હિમ.",
+          "hindiPronunciation": "द न्यूज़ सीम्ड टू एजिटेट हिम।"
+        }
+      ]
+    },
+    {
+      "word": "Console",
+      "gujaratiPronunciation": "કન્સોલ",
+      "hindiPronunciation": "कंसोल",
+      "gujaratiMeaning": "દિલાસો આપવો",
+      "hindiMeaning": "सांत्वना देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Console", "gujaratiPronunciation": "કન્સોલ", "hindiPronunciation": "कंसोल", "gujaratiMeaning": "દિલાસો આપવો", "hindiMeaning": "सांत्वना देना" },
+        "V2 (Past)": { "word": "Consoled", "gujaratiPronunciation": "કન્સોલ્ડ", "hindiPronunciation": "कंसोल्ड", "gujaratiMeaning": "દિલાસો આપ્યો", "hindiMeaning": "सांत्वना दी" },
+        "V3 (Past Participle)": { "word": "Consoled", "gujaratiPronunciation": "કન્સોલ્ડ", "hindiPronunciation": "कंसोल्ड", "gujaratiMeaning": "દિલાસો આપેલો", "hindiMeaning": "सांत्वना दी हुई" },
+        "V4 (Present Participle)": { "word": "Consoling", "gujaratiPronunciation": "કન્સોલિંગ", "hindiPronunciation": "कंसोलिंग", "gujaratiMeaning": "દિલાસો આપતો", "hindiMeaning": "सांत्वना दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Comfort", "gujaratiPronunciation": "કમ્ફર્ટ", "hindiPronunciation": "कम्फर्ट", "gujaratiMeaning": "આરામ આપવો", "hindiMeaning": "आराम देना" },
+        { "word": "Soothe", "gujaratiPronunciation": "સૂધ", "hindiPronunciation": "सूद", "gujaratiMeaning": "શાંત પાડવું", "hindiMeaning": "शांत करना" }
+      ],
+      "antonyms": [
+        { "word": "Upset", "gujaratiPronunciation": "અપસેટ", "hindiPronunciation": "अपसेट", "gujaratiMeaning": "વ્યાકુળ કરવું", "hindiMeaning": "परेशान करना" },
+        { "word": "Agitate", "gujaratiPronunciation": "એજિટેટ", "hindiPronunciation": "एजिटेट", "gujaratiMeaning": "ઉશ્કેરવું", "hindiMeaning": "उत्तेजित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Counsel", "gujaratiPronunciation": "કાઉન્સેલ", "hindiPronunciation": "काउंसल", "gujaratiMeaning": "સલાહ આપવી", "hindiMeaning": "परामर्श देना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Nothing could console him when his dog died.",
+          "gujaratiTranslation": "જ્યારે તેનો કૂતરો મૃત્યુ પામ્યો ત્યારે કંઈપણ તેને દિલાસો આપી શક્યું નહીં.",
+          "hindiTranslation": "जब उसका कुत्ता मर गया तो उसे कोई सांत्वना नहीं दे सका।",
+          "gujaratiPronunciation": "નથિંગ કુડ કન્સોલ હિમ વેન હિઝ ડોગ ડાઇડ.",
+          "hindiPronunciation": "नथिंग कुड कंसोल हिम व्हेन हिज़ डॉग डाइड।"
+        }
+      ]
+    },
+    {
+      "word": "Endure",
+      "gujaratiPronunciation": "એન્ડ્યોર",
+      "hindiPronunciation": "एंड्योर",
+      "gujaratiMeaning": "સહન કરવું",
+      "hindiMeaning": "सहन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Endure", "gujaratiPronunciation": "એન્ડ્યોર", "hindiPronunciation": "एंड्योर", "gujaratiMeaning": "સહન કરવું", "hindiMeaning": "सहन करना" },
+        "V2 (Past)": { "word": "Endured", "gujaratiPronunciation": "એન્ડ્યોર્ડ", "hindiPronunciation": "एंड्योर्ड", "gujaratiMeaning": "સહન કર્યું", "hindiMeaning": "सहन किया" },
+        "V3 (Past Participle)": { "word": "Endured", "gujaratiPronunciation": "એન્ડ્યોર્ડ", "hindiPronunciation": "एंड्योर्ड", "gujaratiMeaning": "સહન કરેલું", "hindiMeaning": "सहन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Enduring", "gujaratiPronunciation": "એન્ડ્યોરિંગ", "hindiPronunciation": "एंड्योरिंग", "gujaratiMeaning": "સહન કરતો", "hindiMeaning": "सहन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Tolerate", "gujaratiPronunciation": "ટોલરેટ", "hindiPronunciation": "टॉलरेट", "gujaratiMeaning": "સહનશીલતા રાખવી", "hindiMeaning": "सहन करना" },
+        { "word": "Bear", "gujaratiPronunciation": "બેર", "hindiPronunciation": "बेयर", "gujaratiMeaning": "વહન કરવું", "hindiMeaning": "सहन करना" }
+      ],
+      "antonyms": [
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "हार मान लेना" },
+        { "word": "Yield", "gujaratiPronunciation": "યીલ્ડ", "hindiPronunciation": "यील्ड", "gujaratiMeaning": "વશ થવું", "hindiMeaning": "झुक जाना" }
+      ],
+      "confusingWords": [
+        { "word": "Insure", "gujaratiPronunciation": "ઇન્શ્યોર", "hindiPronunciation": "इंश्योर", "gujaratiMeaning": "વીમો ઉતરાવવો", "hindiMeaning": "बीमा कराना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He had to endure a lot of pain.",
+          "gujaratiTranslation": "તેને ઘણી પીડા સહન કરવી પડી.",
+          "hindiTranslation": "उसे बहुत दर्द सहना पड़ा।",
+          "gujaratiPronunciation": "હી હેડ ટુ એન્ડ્યોર અ લોટ ઓફ પેઇન.",
+          "hindiPronunciation": "ही हैड टू एंड्योर अ लॉट ऑफ पेन।"
+        }
+      ]
+    },
+    {
+      "word": "Suppress",
+      "gujaratiPronunciation": "સપ્રેસ",
+      "hindiPronunciation": "सप्रेस",
+      "gujaratiMeaning": "દબાવવું",
+      "hindiMeaning": "दबाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Suppress", "gujaratiPronunciation": "સપ્રેસ", "hindiPronunciation": "सप्रेस", "gujaratiMeaning": "દબાવવું", "hindiMeaning": "दबाना" },
+        "V2 (Past)": { "word": "Suppressed", "gujaratiPronunciation": "સપ્રેસ્ડ", "hindiPronunciation": "सप्रेस्ड", "gujaratiMeaning": "દબાવ્યું", "hindiMeaning": "दबाया" },
+        "V3 (Past Participle)": { "word": "Suppressed", "gujaratiPronunciation": "સપ્રેસ્ડ", "hindiPronunciation": "सप्रेस्ड", "gujaratiMeaning": "દબાવેલું", "hindiMeaning": "दबा हुआ" },
+        "V4 (Present Participle)": { "word": "Suppressing", "gujaratiPronunciation": "સપ્રેસિંગ", "hindiPronunciation": "सप्रेसिंग", "gujaratiMeaning": "દબાવતો", "hindiMeaning": "दबा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Repress", "gujaratiPronunciation": "રિપ્રેસ", "hindiPronunciation": "रिप्रेस", "gujaratiMeaning": "દમન કરવું", "hindiMeaning": "दमन करना" },
+        { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "antonyms": [
+        { "word": "Express", "gujaratiPronunciation": "એક્સપ્રેસ", "hindiPronunciation": "एक्सप्रेस", "gujaratiMeaning": "વ્યક્ત કરવું", "hindiMeaning": "व्यक्त करना" },
+        { "word": "Release", "gujaratiPronunciation": "રિલીઝ", "hindiPronunciation": "रिलीज़", "gujaratiMeaning": "છોડવું", "hindiMeaning": "छोड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Surpass", "gujaratiPronunciation": "સરપાસ", "hindiPronunciation": "सरपास", "gujaratiMeaning": "વટાવી જવું", "hindiMeaning": "आगे निकल जाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She tried to suppress her giggles.",
+          "gujaratiTranslation": "તેણીએ તેની હાસ્યને દબાવવાનો પ્રયાસ કર્યો.",
+          "hindiTranslation": "उसने अपनी हँसी को दबाने की कोशिश की।",
+          "gujaratiPronunciation": "શી ટ્રાઇડ ટુ સપ્રેસ હર ગિગલ્સ.",
+          "hindiPronunciation": "शी ट्राइड टू सप्रेस हर गिगल्स।"
+        }
+      ]
+    }
+  ]
+}

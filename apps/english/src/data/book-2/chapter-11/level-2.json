@@ -1,0 +1,76 @@
+{
+  "id": "level-2",
+  "title": "Health and Safety 2",
+  "words": [
+    {
+      "word": "Sick",
+      "gujaratiPronunciation": "સિક",
+      "hindiPronunciation": "सिक",
+      "gujaratiMeaning": "બીમાર",
+      "hindiMeaning": "बीमार",
+      "exampleSentences": [
+        {
+          "sentence": "She is feeling sick today.",
+          "gujaratiTranslation": "તે આજે બીમાર અનુભવી રહી છે.",
+          "hindiTranslation": "वह आज बीमार महसूस कर रही है।"
+        }
+      ]
+    },
+    {
+      "word": "Well",
+      "gujaratiPronunciation": "વેલ",
+      "hindiPronunciation": "वेल",
+      "gujaratiMeaning": "સ્વસ્થ",
+      "hindiMeaning": "स्वस्थ",
+      "exampleSentences": [
+        {
+          "sentence": "I hope you get well soon.",
+          "gujaratiTranslation": "હું આશા રાખું છું કે તમે જલ્દી સ્વસ્થ થઈ જશો.",
+          "hindiTranslation": "मुझे उम्मीद है कि आप जल्द ही ठीक हो जाएंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Cold",
+      "gujaratiPronunciation": "કોલ્ડ",
+      "hindiPronunciation": "कोल्ड",
+      "gujaratiMeaning": "શરદી",
+      "hindiMeaning": "सर्दी",
+      "exampleSentences": [
+        {
+          "sentence": "He has a common cold.",
+          "gujaratiTranslation": "તેને સામાન્ય શરદી છે.",
+          "hindiTranslation": "उसे सामान्य सर्दी है।"
+        }
+      ]
+    },
+    {
+      "word": "Cough",
+      "gujaratiPronunciation": "કફ",
+      "hindiPronunciation": "कफ",
+      "gujaratiMeaning": "ખાંસી",
+      "hindiMeaning": "खांसी",
+      "exampleSentences": [
+        {
+          "sentence": "He has a bad cough.",
+          "gujaratiTranslation": "તેને ખરાબ ખાંસી છે.",
+          "hindiTranslation": "उसे बुरी तरह से खांसी है।"
+        }
+      ]
+    },
+    {
+      "word": "Fever",
+      "gujaratiPronunciation": "ફીવર",
+      "hindiPronunciation": "फीवर",
+      "gujaratiMeaning": "તાવ",
+      "hindiMeaning": "बुखार",
+      "exampleSentences": [
+        {
+          "sentence": "She has a high fever.",
+          "gujaratiTranslation": "તેણીને સખત તાવ છે.",
+          "hindiTranslation": "उसे तेज बुखार है।"
+        }
+      ]
+    }
+  ]
+}

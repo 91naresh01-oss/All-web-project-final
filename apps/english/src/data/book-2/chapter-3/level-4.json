@@ -1,0 +1,77 @@
+
+{
+  "id": "level-4",
+  "title": "Feelings 4",
+  "words": [
+    {
+      "word": "Jealous",
+      "gujaratiPronunciation": "જેલસ",
+      "hindiPronunciation": "जेलस",
+      "gujaratiMeaning": "ઈર્ષ્યાળુ",
+      "hindiMeaning": "ईर्ष्यालु",
+      "exampleSentences": [
+        {
+          "sentence": "He is jealous of his friend's success.",
+          "gujaratiTranslation": "તે તેના મિત્રની સફળતાથી ઈર્ષ્યા કરે છે.",
+          "hindiTranslation": "उसे अपने दोस्त की सफलता से ईर्ष्या होती है।"
+        }
+      ]
+    },
+    {
+      "word": "Proud",
+      "gujaratiPronunciation": "પ્રાઉડ",
+      "hindiPronunciation": "प्राउड",
+      "gujaratiMeaning": "ગૌરવ",
+      "hindiMeaning": "गौरव",
+      "exampleSentences": [
+        {
+          "sentence": "I am proud of my country.",
+          "gujaratiTranslation": "મને મારા દેશ પર ગર્વ છે.",
+          "hindiTranslation": "मुझे अपने देश पर गर्व है।"
+        }
+      ]
+    },
+    {
+      "word": "Curious",
+      "gujaratiPronunciation": "ક્યુરિયસ",
+      "hindiPronunciation": "क्यूरियस",
+      "gujaratiMeaning": "જિજ્ઞાસુ",
+      "hindiMeaning": "जिज्ञासु",
+      "exampleSentences": [
+        {
+          "sentence": "The child was curious about the new toy.",
+          "gujaratiTranslation": "બાળક નવા રમકડા વિશે જિજ્ઞાસુ હતું.",
+          "hindiTranslation": "बच्चा नए खिलौने के बारे में जिज्ञासु था।"
+        }
+      ]
+    },
+    {
+      "word": "Sleepy",
+      "gujaratiPronunciation": "સ્લીપી",
+      "hindiPronunciation": "स्लीपी",
+      "gujaratiMeaning": "ઊંઘમાં",
+      "hindiMeaning": "नींद में",
+      "exampleSentences": [
+        {
+          "sentence": "I am feeling sleepy.",
+          "gujaratiTranslation": "મને ઊંઘ આવી રહી છે.",
+          "hindiTranslation": "मुझे नींद आ रही है।"
+        }
+      ]
+    },
+    {
+      "word": "Loving",
+      "gujaratiPronunciation": "લવિંગ",
+      "hindiPronunciation": "लविंग",
+      "gujaratiMeaning": "પ્રેમાળ",
+      "hindiMeaning": "प्यार करने वाला",
+      "exampleSentences": [
+        {
+          "sentence": "She has a loving family.",
+          "gujaratiTranslation": "તેણીનો પરિવાર પ્રેમાળ છે.",
+          "hindiTranslation": "उसका एक प्यारा परिवार है।"
+        }
+      ]
+    }
+  ]
+}

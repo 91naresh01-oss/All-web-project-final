@@ -1,0 +1,414 @@
+{
+  "id": "articles-gu",
+  "title": "Articles (A, An, The)",
+  "description": "A, An અને The ના ઉપયોગ માટેના સંપૂર્ણ નિયમો, અપવાદો અને ઉદાહરણો.",
+  "content": [
+    {
+      "type": "section",
+      "title": "Article શું છે? (Introduction)",
+      "content": [
+        {
+          "type": "list",
+          "content": [
+            "Article એ એવો શબ્દ છે જે <b>નાઉન (નામ)</b> પહેલા આવે છે.",
+            "તેના બે પ્રકાર છે: 1️⃣ <b>Indefinite (અનિશ્ચિત)</b> - A, An અને 2️⃣ <b>Definite (નિશ્ચિત)</b> - The.",
+            "યાદ રાખો: Article નો ઉપયોગ શબ્દના સ્પેલિંગ (Spelling) પરથી નહિ, પરંતુ તેના <b>ઉચ્ચાર (Pronunciation)</b> પરથી થાય છે."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Article 'An' - ક્યારે વપરાય?",
+      "content": [
+        {
+          "type": "note",
+          "content": "જ્યારે એકવચન નામના ઉચ્ચારની શરૂઆત ગુજરાતી સ્વર (અ, આ, ઇ, ઈ, ઉ, ઊ, એ, ઐ, ઓ, ઔ, અં, અઃ) થી થતી હોય."
+        },
+        {
+          "type": "table",
+          "content": {
+            "headers": [
+              "નિયમ",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "નિયમ-1: સ્વર ઉચ્ચાર",
+                "<b>An</b> apple<br/><b>An</b> artist<br/><b>An</b> inkpot<br/><b>An</b> eagle<br/><b>An</b> umbrella<br/><b>An</b> engineer",
+                "ઉચ્ચાર 'અ', 'આ', 'ઇ', 'ઈ' થી શરૂ થાય છે."
+              ],
+              [
+                "નિયમ-2: Silent 'H' (અનુચ્ચારિત H)",
+                "<b>An</b> hour (અવર)<br/><b>An</b> honest man (ઓનેસ્ટ)<br/><b>An</b> heir (એર)<br/><b>An</b> honorable guest (ઓનરેબલ)",
+                "'H' લખાય છે પણ બોલાતો નથી. ઉચ્ચાર સ્વરથી શરૂ થાય છે."
+              ],
+              [
+                "નિયમ-3: ટૂંકાક્ષરો (Abbreviations)",
+                "<b>An</b> M.B.A. (એમ...)<br/><b>An</b> S.P. (એસ...)<br/><b>An</b> N.C.C. cadet (એન...)<br/><b>An</b> H.S.C student (એચ...)<br/><b>An</b> S.S.C student",
+                "પ્રથમ અક્ષરનો ઉચ્ચાર સ્વરથી થાય છે (M = એમ, S = એસ)."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>ખાસ નોંધ:</b>\n(1) I travels in <b>an</b> I.T.I. bus. (I = આઈ, સ્વર છે).\n(2) They came by <b>an</b> S.T. bus. (S = એસ, સ્વર છે)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Article 'A' - ક્યારે વપરાય?",
+      "content": [
+        {
+          "type": "note",
+          "content": "જ્યારે એકવચન નામના ઉચ્ચારની શરૂઆત ગુજરાતી વ્યંજન (ક, ખ, ગ...જ્ઞ) થી થતી હોય."
+        },
+        {
+          "type": "table",
+          "content": {
+            "headers": [
+              "નિયમ",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "નિયમ-1: વ્યંજન ઉચ્ચાર",
+                "<b>A</b> car<br/><b>A</b> book<br/><b>A</b> table<br/><b>A</b> mango tree<br/><b>A</b> bag",
+                "ઉચ્ચાર વ્યંજનથી શરૂ થાય છે."
+              ],
+              [
+                "નિયમ-2: ' યુ ' (Yu) / ' વ ' (Wa) ઉચ્ચાર",
+                "<b>A</b> university (યુનિવર્સિટી)<br/><b>A</b> union<br/><b>A</b> unit<br/><b>A</b> unicorn<br/><b>A</b> European (યુરોપિયન)<br/><b>A</b> one-rupee coin (વન...)",
+                "શબ્દ સ્વર (U, E, O) થી શરૂ થાય છે પણ ઉચ્ચાર 'ય' (Yu) કે 'વ' (Wa) વ્યંજન છે."
+              ],
+              [
+                "નિયમ-3: વ્યવસાય દર્શાવવા",
+                "He is <b>a</b> lawyer.<br/>She is <b>a</b> nurse.<br/>Hareshbhai is <b>a</b> carpenter.<br/>Rajesh is <b>a</b> Police Inspector.",
+                "કોઈ વ્યક્તિનો હોદ્દો કે વ્યવસાય દર્શાવવા."
+              ],
+              [
+                "નિયમ-4: ઉદગાર વાક્યો (Exclamatory)",
+                "What <b>a</b> lovely day!<br/>What <b>a</b> smart boy!",
+                "એકવચન નામ સાથે ઉદગારમાં."
+              ],
+              [
+                "નિયમ-5: 'Such' પછી",
+                "I saw such <b>a</b> movie.<br/>He spoke in such <b>a</b> tone.<br/>such <b>an</b> efficient worker (સ્વર હોય તો An).",
+                "'Such' પછી ગણી શકાય તેવું એકવચન નામ હોય તો."
+              ],
+              [
+                "નિયમ-6: ગણતરી કરી શકાય તેવી સંખ્યા",
+                "<b>A</b> hundred<br/><b>A</b> dozen<br/><b>A</b> million<br/>I have <b>a</b> thousand rupee note.<br/>I bought <b>a</b> score of oranges.",
+                "સંખ્યાવાચક શબ્દોની આગળ."
+              ],
+              [
+                "નિયમ-7: કિંમત, ઝડપ, માપ",
+                "Ten millimeters make <b>a</b> centimeter.<br/>Once <b>a</b> month.<br/>Take this syrup twice <b>a</b> day.<br/>It costs <b>a</b> thousand dollars.",
+                "માપ, દર કે ઝડપ દર્શાવવા."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Article 'The' - ક્યારે વપરાય? (Definite Article)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "headers": [
+              "નિયમ",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "નિયમ-1: નિશ્ચિત વસ્તુ / ફરી ઉલ્લેખ",
+                "I bought a book. <b>The</b> book is interesting.<br/>This is a bag. <b>The</b> bag is heavy.",
+                "કોઈ વસ્તુનો બીજીવાર ઉલ્લેખ થાય ત્યારે તે 'ચોક્કસ' બને છે."
+              ],
+              [
+                "નિયમ-2: જાતિવાચક નામ (સમગ્ર વર્ગ)",
+                "<b>The</b> camel is the ship of the desert.<br/><b>The</b> lotus is a beautiful flower.<br/><b>The</b> rich should help <b>the</b> poor.",
+                "એક નામ આખા વર્ગનું સૂચન કરે."
+              ],
+              [
+                "નિયમ-3: ભૌગોલિક નામો (નદી, પર્વત, સાગર)",
+                "<b>The</b> Narmada, <b>The</b> Ganges<br/><b>The</b> Himalayas, <b>The</b> Alps, <b>The</b> Rocky Mountains<br/><b>The</b> Indian Ocean, <b>The</b> Arabian Sea<br/><b>The</b> Gulf of Mexico, <b>The</b> Gobi Desert",
+                "નદીઓ, મહાસાગરો, પર્વતમાળાઓ, રણ, ખાડીઓ, ટાપુઓ, નહેરો."
+              ],
+              [
+                "નિયમ-4: પવિત્ર ગ્રંથો અને પુસ્તકો",
+                "<b>The</b> Gita, <b>The</b> Ramayana<br/><b>The</b> Bible, <b>The</b> Quran<br/><b>The</b> Upanishads, <b>The</b> Jataka Tales<br/><b>The</b> Guru Granth Sahib",
+                "ધાર્મિક કે પ્રખ્યાત પુસ્તકોના નામની આગળ."
+              ],
+              [
+                "નિયમ-5: સનાતન/અજોડ વસ્તુઓ",
+                "<b>The</b> Sun, <b>The</b> Moon, <b>The</b> Universe<br/><b>The</b> Eiffel Tower, <b>The</b> Taj Mahal<br/><b>The</b> Statue of Unity",
+                "દુનિયામાં જે એકમાત્ર છે અને પ્રખ્યાત ઈમારતો."
+              ],
+              [
+                "નિયમ-6: શ્રેષ્ઠતાવાચક (Superlative Degree)",
+                "This is <b>the</b> fastest car.<br/>Rahul is <b>the</b> smartest boy.<br/>Mt. Everest is <b>the</b> highest peak.",
+                "Superlative વિશેષણની આગળ."
+              ],
+              [
+                "નિયમ-7: દિશાઓ અને ક્રમ",
+                "The wind blows from <b>the</b> West.<br/>She was <b>the</b> second person.<br/><b>The</b> fifth row.<br/><b>The</b> previous, <b>The</b> following, <b>The</b> last",
+                "દિશાઓ અને ક્રમવાચક સંખ્યાઓ."
+              ],
+              [
+                "નિયમ-8: પ્રજાતિઓ/સમુદાય (બહુવચન)",
+                "<b>The</b> Asians are hardworking.<br/><b>The</b> Japanese are disciplined.<br/><b>The</b> French, <b>The</b> Americans<br/><b>The</b> Sharmas live next door.",
+                "આખી કોમ, દેશવાસીઓ કે કુટુંબ (બહુવચન) માટે."
+              ],
+              [
+                "નિયમ-9: ચોક્કસ વર્ણન સાથે",
+                "<b>The</b> man in the black suit.<br/><b>The</b> house where I was born.<br/>Give me <b>the</b> pen that is on the table.",
+                "જ્યારે 'કયો/કઈ?' તે ચોક્કસ હોય."
+              ],
+              [
+                "નિયમ-10: સંયુક્ત દેશો (સંક્ષિપ્ત નામ)",
+                "<b>The</b> U.S.A., <b>The</b> U.K.<br/><b>The</b> U.S.S.R.<br/><b>The</b> United Arab Emirates",
+                "જે દેશો રાજ્યોનો સંઘ છે."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>ખાસ યાદ રાખો (Exceptions):</b>\n(1) જો ગ્રંથ કે પુસ્તકના નામની આગળ <b>લેખકનું નામ</b> હોય, તો Article લાગતો નથી.\nExample: Homer's Odyssey (✅), Valmiki's Ramayana (✅) (The Valmiki's Ramayana ❌).\n\n(2) જો Superlative Degree ની આગળ માલિકી દર્શક શબ્દ (Possessive like <b>my, his, her, their, Rohan's</b>) હોય, તો 'The' લાગતો નથી.\nExample: He is <b>my</b> best friend. (He is my the best friend ❌).\nExample: This is <b>his</b> most difficult task."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "સૌથી વધુ ગૂંચવણભર્યા વાક્યો (Most Confusing Sentences)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "Confusion 1: School / Hospital / Prison",
+            "headers": [
+              "નિયમ (Rule)",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી (Explanation)"
+            ],
+            "rows": [
+              {
+                "Rule": "<b>WITHOUT 'The'</b><br>(સામાન્ય હેતુ માટે)",
+                "Example": "I go to <b>school</b>.<br>He is in <b>prison</b>.",
+                "Explanation": "અહીં 'school' જવાનો હેતુ ભણવાનો અને 'prison'માં રહેવાનો હેતુ સજા ભોગવવાનો છે. મુખ્ય હેતુની વાત હોય ત્યારે 'The' નથી લાગતું."
+              },
+              {
+                "Rule": "<b>WITH 'The'</b><br>(ચોક્કસ ઇમારત માટે)",
+                "Example": "I went to <b>the school</b> to meet the principal.",
+                "Explanation": "અહીં ભણવા જવાની વાત નથી, પણ આચાર્યને મળવા માટે એક ચોક્કસ 'સ્કૂલની ઇમારત'માં જવાની વાત છે."
+              }
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Confusion 2: Life vs The Life",
+            "headers": [
+              "નિયમ (Rule)",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી (Explanation)"
+            ],
+            "rows": [
+              {
+                "Rule": "<b>Life</b> (સામાન્ય અર્થમાં)",
+                "Example": "<b>Life</b> is beautiful.",
+                "Explanation": "અહીં 'જીવન'ની સામાન્ય વાત છે."
+              },
+              {
+                "Rule": "<b>The life</b> (ખાસ પ્રકારનું જીવન)",
+                "Example": "<b>The life</b> of a soldier is difficult.",
+                "Explanation": "અહીં ફક્ત 'સૈનિકના જીવન' જેવા ખાસ પ્રકારના જીવનની વાત છે."
+              }
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Confusion 3: Nature vs The Nature",
+            "headers": [
+              "નિયમ (Rule)",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી (Explanation)"
+            ],
+            "rows": [
+              {
+                "Rule": "<b>Nature</b> (પ્રકૃતિ)",
+                "Example": "<b>Nature</b> is beautiful.",
+                "Explanation": "અહીં કુદરત/પ્રકૃતિની સામાન્ય વાત છે."
+              },
+              {
+                "Rule": "<b>The nature</b> (સ્વભાવ/ગુણધર્મ)",
+                "Example": "We must understand <b>the nature</b> of our country.",
+                "Explanation": "અહીં 'nature' નો અર્થ 'સ્વભાવ' કે 'ગુણધર્મ' છે."
+              }
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Confusion 4: A Few / Few / The Few",
+            "headers": [
+              "શબ્દ",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી (Explanation)"
+            ],
+            "rows": [
+              {
+                "શબ્દ": "<b>A few</b>",
+                "Example": "<b>A few</b> students came.",
+                "Explanation": "થોડાક (હકારાત્મક અર્થ). પૂરતા પ્રમાણમાં, પણ બહુ નહિ."
+              },
+              {
+                "શબ્દ": "<b>Few</b>",
+                "Example": "<b>Few</b> students came.",
+                "Explanation": "નહિવત્ (નકારાત્મક અર્થ). ભાગ્યે જ કોઈ."
+              },
+              {
+                "શબ્દ": "<b>The few</b>",
+                "Example": "<b>The few</b> students who came were bored.",
+                "Explanation": "જે થોડા હતા તે બધા જ."
+              }
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Confusion 5: A Little / Little / The Little",
+            "headers": [
+              "શબ્દ",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી (Explanation)"
+            ],
+            "rows": [
+              {
+                "શબ્દ": "<b>A little</b>",
+                "Example": "<b>A little</b> water is left.",
+                "Explanation": "થોડુંક (હકારાત્મક અર્થ). કામ ચાલી જાય તેટલું."
+              },
+              {
+                "શબ્દ": "<b>Little</b>",
+                "Example": "<b>Little</b> water is left.",
+                "Explanation": "નહિવત્ (નકારાત્મક અર્થ). લગભગ નથી."
+              },
+              {
+                "શબ્દ": "<b>The little</b>",
+                "Example": "<b>The little</b> water he had, he drank it.",
+                "Explanation": "જે થોડું હતું તે બધું જ."
+              }
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Confusion 6: A Paper vs The Paper",
+            "headers": [
+              "શબ્દ",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી (Explanation)"
+            ],
+            "rows": [
+              {
+                "શબ્દ": "<b>A paper</b>",
+                "Example": "I need <b>a paper</b> to write on.",
+                "Explanation": "કાગળનો એક ટુકડો."
+              },
+              {
+                "શબ્દ": "<b>The paper</b>",
+                "Example": "<b>The paper</b> was difficult.<br>I read <b>the paper</b> every morning.",
+                "Explanation": "પરીક્ષાનું ચોક્કસ પેપર.<br>અખબાર/છાપું (જે ઓળખીતું છે)."
+              }
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Confusion 7: A Doctor vs The Doctor",
+            "headers": [
+              "શબ્દ",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી (Explanation)"
+            ],
+            "rows": [
+              {
+                "શબ્દ": "<b>A doctor</b>",
+                "Example": "She is <b>a doctor</b>.",
+                "Explanation": "તેણીનો વ્યવસાય ડોક્ટર છે (કોઈપણ એક ડોક્ટર)."
+              },
+              {
+                "શબ્દ": "<b>The doctor</b>",
+                "Example": "<b>The doctor</b> I met yesterday is kind.",
+                "Explanation": "એક ચોક્કસ ડોક્ટર જેમને હું ગઈકાલે મળ્યો હતો."
+              }
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Confusion 8: A Police vs The Police",
+            "headers": [
+              "નિયમ",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી (Explanation)"
+            ],
+            "rows": [
+              {
+                "Rule": "<b>A police</b> (ખોટું)",
+                "Example": "❌ He is <b>a police</b>.",
+                "Explanation": "એક વચનમાં 'a police' વપરાતું નથી. 'a police officer' કહી શકાય."
+              },
+              {
+                "Rule": "<b>The police</b> (સાચું)",
+                "Example": "✅ <b>The police</b> are coming.",
+                "Explanation": "'The police' નો અર્થ 'આખું પોલીસ દળ' થાય છે અને તે બહુવચન ગણાય છે."
+              }
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Confusion 9: Work vs The Work",
+            "headers": [
+              "શબ્દ",
+              "ઉદાહરણ (Example)",
+              "સમજૂતી (Explanation)"
+            ],
+            "rows": [
+              {
+                "શબ્દ": "<b>Work</b>",
+                "Example": "I have <b>work</b> to do.",
+                "Explanation": "સામાન્ય 'કામ' (Uncountable Noun)."
+              },
+              {
+                "શબ્દ": "<b>The work</b>",
+                "Example": "<b>The work</b> you gave me is completed.",
+                "Explanation": "તમે સોંપેલું 'ચોક્કસ કામ'."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

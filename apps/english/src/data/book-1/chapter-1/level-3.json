@@ -1,0 +1,46 @@
+{
+    "id": "level-3",
+    "title": "Numbers 3",
+    "words": [
+        {
+            "word": "Eleven",
+            "icon": "1️⃣1️⃣",
+            "gujaratiPronunciation": "ઇલેવન",
+            "hindiPronunciation": "इलेवन",
+            "gujaratiMeaning": "અગિયાર",
+            "hindiMeaning": "ग्यारह"
+        },
+        {
+            "word": "Twelve",
+            "icon": "1️⃣2️⃣",
+            "gujaratiPronunciation": "ટ્વેલ્વ",
+            "hindiPronunciation": "ट्वेल्व",
+            "gujaratiMeaning": "બાર",
+            "hindiMeaning": "बारह"
+        },
+        {
+            "word": "Thirteen",
+            "icon": "1️⃣3️⃣",
+            "gujaratiPronunciation": "થર્ટીન",
+            "hindiPronunciation": "थर्टीन",
+            "gujaratiMeaning": "તેર",
+            "hindiMeaning": "तेरह"
+        },
+        {
+            "word": "Fourteen",
+            "icon": "1️⃣4️⃣",
+            "gujaratiPronunciation": "ફોર્ટિન",
+            "hindiPronunciation": "फोर्टीन",
+            "gujaratiMeaning": "ચૌદ",
+            "hindiMeaning": "चौदह"
+        },
+        {
+            "word": "Fifteen",
+            "icon": "1️⃣5️⃣",
+            "gujaratiPronunciation": "ફિફટીન",
+            "hindiPronunciation": "फिफ्टीन",
+            "gujaratiMeaning": "પંદર",
+            "hindiMeaning": "पंद्रह"
+        }
+    ]
+}

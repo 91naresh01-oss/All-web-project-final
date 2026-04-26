@@ -1,0 +1,11 @@
+{
+    "id": "level-1",
+    "title": "Food 1",
+    "words": [
+        { "word": "Rice", "icon": "🍚", "gujaratiPronunciation": "રાઇસ", "hindiPronunciation": "राइस", "gujaratiMeaning": "ચોખા", "hindiMeaning": "चावल" },
+        { "word": "Roti / Bread", "icon": "🍞", "gujaratiPronunciation": "રોટી / બ્રેડ", "hindiPronunciation": "रोटी / ब्रेड", "gujaratiMeaning": "રોટલી / બ્રેડ", "hindiMeaning": "रोटी / ब्रेड" },
+        { "word": "Milk", "icon": "🥛", "gujaratiPronunciation": "મિલ્ક", "hindiPronunciation": "मिल्क", "gujaratiMeaning": "દૂધ", "hindiMeaning": "दूध" },
+        { "word": "Egg", "icon": "🥚", "gujaratiPronunciation": "એગ", "hindiPronunciation": "एग", "gujaratiMeaning": "ઈંડું", "hindiMeaning": "अंडा" },
+        { "word": "Butter", "icon": "🧈", "gujaratiPronunciation": "બટર", "hindiPronunciation": "बटर", "gujaratiMeaning": "માખણ", "hindiMeaning": "मक्खन" }
+    ]
+}

@@ -1,0 +1,47 @@
+
+{
+    "id": "level-1",
+    "title": "Colors 1",
+    "words": [
+        {
+            "word": "Red",
+            "icon": "🔴",
+            "gujaratiPronunciation": "રેડ",
+            "hindiPronunciation": "रेड",
+            "gujaratiMeaning": "લાલ",
+            "hindiMeaning": "लाल"
+        },
+        {
+            "word": "Blue",
+            "icon": "🔵",
+            "gujaratiPronunciation": "બ્લુ",
+            "hindiPronunciation": "ब्लू",
+            "gujaratiMeaning": "વાદળી",
+            "hindiMeaning": "नीला"
+        },
+        {
+            "word": "Green",
+            "icon": "🟢",
+            "gujaratiPronunciation": "ગ્રીન",
+            "hindiPronunciation": "ग्रीन",
+            "gujaratiMeaning": "લીલો",
+            "hindiMeaning": "हरा"
+        },
+        {
+            "word": "Yellow",
+            "icon": "🟡",
+            "gujaratiPronunciation": "યલો",
+            "hindiPronunciation": "यलो",
+            "gujaratiMeaning": "પીળો",
+            "hindiMeaning": "पीला"
+        },
+        {
+            "word": "Black",
+            "icon": "⚫",
+            "gujaratiPronunciation": "બ્લેક",
+            "hindiPronunciation": "ब्लैक",
+            "gujaratiMeaning": "કાળો",
+            "hindiMeaning": "काला"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Enhance",
+      "partOfSpeech": "verb",
+      "pronunciation": "એન્હાન્સ",
+      "gujaratiMeaning": "વધારવું, સુધારવું",
+      "hindiMeaning": "बढ़ाना, सुधारना",
+      "gujaratiPronunciation": "એન્હાન્સ",
+      "hindiPronunciation": "एनहान्स",
+      "verbForms": {
+        "v1": { "word": "Enhance", "pronunciation": "એન્હાન્સ", "gujaratiMeaning": "વધારવું", "hindiMeaning": "बढ़ाना" },
+        "v2": { "word": "Enhanced", "pronunciation": "એન્હાન્સ્ડ", "gujaratiMeaning": "વધાર્યું", "hindiMeaning": "बढ़ाया" },
+        "v3": { "word": "Enhanced", "pronunciation": "એન્હાન્સ્ડ", "gujaratiMeaning": "વધારેલું", "hindiMeaning": "बढ़ाया हुआ" },
+        "v4": { "word": "Enhancing", "pronunciation": "એન્હાન્સિંગ", "gujaratiMeaning": "વધારી રહ્યું છે", "hindiMeaning": "बढ़ा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Improve", "pronunciation": "ઇમ્પ્રૂવ", "gujaratiMeaning": "સુધારવું", "hindiMeaning": "सुधारना" },
+        { "word": "Augment", "pronunciation": "ઓગ્મેન્ટ", "gujaratiMeaning": "વૃદ્ધિ કરવી", "hindiMeaning": "बढ़ाना" }
+      ],
+      "antonyms": [
+        { "word": "Diminish", "pronunciation": "ડિમિનિશ", "gujaratiMeaning": "ઘટાડવું", "hindiMeaning": "कम करना" },
+        { "word": "Reduce", "pronunciation": "રિડ્યુસ", "gujaratiMeaning": "ઓછું કરવું", "hindiMeaning": "घटाना" }
+      ],
+      "confusingWords": [
+        { "word": "Entrance", "pronunciation": "એન્ટ્રન્સ", "gujaratiMeaning": "પ્રવેશદ્વાર", "hindiMeaning": "प्रवेश द्वार" },
+        { "word": "Announce", "pronunciation": "અનાઉન્સ", "gujaratiMeaning": "જાહેરાત કરવી", "hindiMeaning": "घोषणा करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Using good lighting can enhance the quality of your photos.",
+          "gujaratiTranslation": "સારી લાઇટિંગનો ઉપયોગ કરવાથી તમારા ફોટાની ગુણવત્તા વધી શકે છે.",
+          "hindiTranslation": "अच्छी रोशनी का उपयोग करने से आपकी तस्वीरों की गुणवत्ता बढ़ सकती है।",
+          "gujaratiPronunciation": "યુઝિંગ ગુડ લાઇટિંગ કેન એન્હાન્સ ધ ક્વોલિટી ઓફ યોર ફોટોઝ.",
+          "hindiPronunciation": "यूजिंग गुड लाइटिंग कैन एनहान्स द क्वालिटी ऑफ योर फोटोज।"
+        }
+      ]
+    },
+    {
+      "word": "Curate",
+      "partOfSpeech": "verb",
+      "pronunciation": "ક્યુરેટ",
+      "gujaratiMeaning": "સંગ્રહ કરવો અને ગોઠવવું",
+      "hindiMeaning": "संग्रह करना और व्यवस्थित करना",
+      "gujaratiPronunciation": "ક્યુરેટ",
+      "hindiPronunciation": "क्यूरेट",
+      "verbForms": {
+        "v1": { "word": "Curate", "pronunciation": "ક્યુરેટ", "gujaratiMeaning": "સંગ્રહ કરવો", "hindiMeaning": "संग्रह करना" },
+        "v2": { "word": "Curated", "pronunciation": "ક્યુરેટેડ", "gujaratiMeaning": "સંગ્રહ કર્યો", "hindiMeaning": "संग्रह किया" },
+        "v3": { "word": "Curated", "pronunciation": "ક્યુરેટેડ", "gujaratiMeaning": "સંગ્રહ કરેલો", "hindiMeaning": "संग्रह किया हुआ" },
+        "v4": { "word": "Curating", "pronunciation": "ક્યુરેટિંગ", "gujaratiMeaning": "સંગ્રહ કરી રહ્યું છે", "hindiMeaning": "संग्रह कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Select", "pronunciation": "સિલેક્ટ", "gujaratiMeaning": "પસંદ કરવું", "hindiMeaning": "चुनना" },
+        { "word": "Organize", "pronunciation": "ઓર્ગેનાઇઝ", "gujaratiMeaning": "આયોજન કરવું", "hindiMeaning": "आयोजित करना" }
+      ],
+      "antonyms": [
+        { "word": "Randomize", "pronunciation": "રેન્ડમાઇઝ", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "यादृच्छिक करना" },
+        { "word": "Disorganize", "pronunciation": "ડિસઓર્ગેનાઇઝ", "gujaratiMeaning": "અસ્તવ્યસ્ત કરવું", "hindiMeaning": "अव्यवस्थित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Cure", "pronunciation": "ક્યોર", "gujaratiMeaning": "ઇલાજ", "hindiMeaning": "इलाज" },
+        { "word": "Create", "pronunciation": "ક્રિએટ", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She curated a playlist of her favorite songs.",
+          "gujaratiTranslation": "તેણીએ તેના મનપસંદ ગીતોની પ્લેલિસ્ટ તૈયાર કરી.",
+          "hindiTranslation": "उसने अपने पसंदीदा गानों की एक प्लेलिस्ट क्यूरेट की।",
+          "gujaratiPronunciation": "શી ક્યુરેટેડ અ પ્લેલિસ્ટ ઓફ હર ફેવરિટ સોંગ્સ.",
+          "hindiPronunciation": "शी क्यूरेटेड अ प्लेलिस्ट ऑफ हर फेवरेट सॉन्ग्स।"
+        }
+      ]
+    },
+    {
+      "word": "Illuminate",
+      "partOfSpeech": "verb",
+      "pronunciation": "ઇલ્યુમિનેટ",
+      "gujaratiMeaning": "પ્રકાશિત કરવું, સ્પષ્ટ કરવું",
+      "hindiMeaning": "प्रकाशित करना, स्पष्ट करना",
+      "gujaratiPronunciation": "ઇલ્યુમિનેટ",
+      "hindiPronunciation": "इल्युमिनेट",
+      "verbForms": {
+        "v1": { "word": "Illuminate", "pronunciation": "ઇલ્યુમિનેટ", "gujaratiMeaning": "પ્રકાશિત કરવું", "hindiMeaning": "प्रकाशित करना" },
+        "v2": { "word": "Illuminated", "pronunciation": "ઇલ્યુમિનેટેડ", "gujaratiMeaning": "પ્રકાશિત કર્યું", "hindiMeaning": "प्रकाशित किया" },
+        "v3": { "word": "Illuminated", "pronunciation": "ઇલ્યુમિનેટેડ", "gujaratiMeaning": "પ્રકાશિત કરેલું", "hindiMeaning": "प्रकाशित किया हुआ" },
+        "v4": { "word": "Illuminating", "pronunciation": "ઇલ્યુમિનેટિંગ", "gujaratiMeaning": "પ્રકાશિત કરી રહ્યું છે", "hindiMeaning": "प्रकाशित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Light up", "pronunciation": "લાઇટ અપ", "gujaratiMeaning": "પ્રકાશિત કરવું", "hindiMeaning": "रोशन करना" },
+        { "word": "Clarify", "pronunciation": "ક્લેરિફાય", "gujaratiMeaning": "સ્પષ્ટ કરવું", "hindiMeaning": "स्पष्ट करना" }
+      ],
+      "antonyms": [
+        { "word": "Darken", "pronunciation": "ડાર્કન", "gujaratiMeaning": "અંધારું કરવું", "hindiMeaning": "अंधेरा करना" },
+        { "word": "Obscure", "pronunciation": "ઓબ્સ્ક્યોર", "gujaratiMeaning": "અસ્પષ્ટ કરવું", "hindiMeaning": "अस्पष्ट करना" }
+      ],
+      "confusingWords": [
+        { "word": "Eliminate", "pronunciation": "એલિમિનેટ", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" },
+        { "word": "Illustrate", "pronunciation": "ઇલસ્ટ્રેટ", "gujaratiMeaning": "ઉદાહરણ સાથે સમજાવવું", "hindiMeaning": "उदाहरण देकर समझाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The candles will illuminate the room.",
+          "gujaratiTranslation": "મીણબત્તીઓ ઓરડાને પ્રકાશિત કરશે.",
+          "hindiTranslation": "मोमबत्तियाँ कमरे को रोशन करेंगी।",
+          "gujaratiPronunciation": "ધ કેન્ડલ્સ વિલ ઇલ્યુમિનેટ ધ રૂમ.",
+          "hindiPronunciation": "द कैंडल्स विल इल्युमिनेट द रूम।"
+        }
+      ]
+    },
+    {
+      "word": "Manifest",
+      "partOfSpeech": "verb",
+      "pronunciation": "મેનિફેસ્ટ",
+      "gujaratiMeaning": "પ્રગટ કરવું, દેખીતું બનાવવું",
+      "hindiMeaning": "प्रकट करना, स्पष्ट करना",
+      "gujaratiPronunciation": "મેનિફેસ્ટ",
+      "hindiPronunciation": "मैनिफेस्ट",
+      "verbForms": {
+        "v1": { "word": "Manifest", "pronunciation": "મેનિફેસ્ટ", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+        "v2": { "word": "Manifested", "pronunciation": "મેનિફેસ્ટેડ", "gujaratiMeaning": "પ્રગટ કર્યું", "hindiMeaning": "प्रकट किया" },
+        "v3": { "word": "Manifested", "pronunciation": "મેનિફેસ્ટેડ", "gujaratiMeaning": "પ્રગટ કરેલું", "hindiMeaning": "प्रकट किया हुआ" },
+        "v4": { "word": "Manifesting", "pronunciation": "મેનિફેસ્ટિંગ", "gujaratiMeaning": "પ્રગટ કરી રહ્યું છે", "hindiMeaning": "प्रकट कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Display", "pronunciation": "ડિસ્પ્લે", "gujaratiMeaning": "પ્રદર્શિત કરવું", "hindiMeaning": "प्रदर्शित करना" },
+        { "word": "Reveal", "pronunciation": "રિવિલ", "gujaratiMeaning": "જાહેર કરવું", "hindiMeaning": "प्रकट करना" }
+      ],
+      "antonyms": [
+        { "word": "Hide", "pronunciation": "હાઇડ", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        { "word": "Conceal", "pronunciation": "કન્સીલ", "gujaratiMeaning": "સંતાડવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Manufacture", "pronunciation": "મેન્યુફેક્ચર", "gujaratiMeaning": "ઉત્પાદન કરવું", "hindiMeaning": "निर्माण करना" },
+        { "word": "Main fest", "pronunciation": "મેઇન ફેસ્ટ", "gujaratiMeaning": "મુખ્ય તહેવાર", "hindiMeaning": "मुख्य त्योहार" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Her anxiety manifested itself as a constant headache.",
+          "gujaratiTranslation": "તેણીની ચિંતા સતત માથાના દુખાવા તરીકે પ્રગટ થઈ.",
+          "hindiTranslation": "उसकी चिंता एक निरंतर सिरदर्द के रूप में प्रकट हुई।",
+          "gujaratiPronunciation": "હર એન્ગ્ઝાયટી મેનિફેસ્ટેડ ઇટસેલ્ફ એઝ અ કોન્સ્ટન્ટ હેડેક.",
+          "hindiPronunciation": "हर एंग्जायटी मैनिफेस्टेड इटसेल्फ एज अ कांस्टेंट हेडेक।"
+        }
+      ]
+    },
+    {
+      "word": "Masterpiece",
+      "partOfSpeech": "noun",
+      "pronunciation": "માસ્ટરપીસ",
+      "gujaratiMeaning": "શ્રેષ્ઠ કૃતિ",
+      "hindiMeaning": "उत्कृष्ट कृति",
+      "gujaratiPronunciation": "માસ્ટરપીસ",
+      "hindiPronunciation": "मास्टरपीस",
+      "verbForms": {
+        "v1": { "word": "N/A", "pronunciation": "N/A", "gujaratiMeaning": "લાગુ નથી", "hindiMeaning": "लागू नहीं" },
+        "v2": { "word": "N/A", "pronunciation": "N/A", "gujaratiMeaning": "લાગુ નથી", "hindiMeaning": "लागू नहीं" },
+        "v3": { "word": "N/A", "pronunciation": "N/A", "gujaratiMeaning": "લાગુ નથી", "hindiMeaning": "लागू नहीं" },
+        "v4": { "word": "N/A", "pronunciation": "N/A", "gujaratiMeaning": "લાગુ નથી", "hindiMeaning": "लागू नहीं" }
+      },
+      "synonyms": [
+        { "word": "Magnum opus", "pronunciation": "મેગ્નમ ઓપસ", "gujaratiMeaning": "શ્રેષ્ઠ રચના", "hindiMeaning": "सर्वश्रेष्ठ रचना" },
+        { "word": "Classic", "pronunciation": "ક્લાસિક", "gujaratiMeaning": "ઉત્તમ કૃતિ", "hindiMeaning": "उत्कृष्ट कृति" }
+      ],
+      "antonyms": [
+        { "word": "Dud", "pronunciation": "ડડ", "gujaratiMeaning": "નકામી વસ્તુ", "hindiMeaning": "असफल वस्तु" },
+        { "word": "Failure", "pronunciation": "ફેલ્યર", "gujaratiMeaning": "નિષ્ફળતા", "hindiMeaning": "विफलता" }
+      ],
+      "confusingWords": [
+        { "word": "Master key", "pronunciation": "માસ્ટર કી", "gujaratiMeaning": "મુખ્ય ચાવી", "hindiMeaning": "मुख्य चाबी" },
+        { "word": "Peace", "pronunciation": "પીસ", "gujaratiMeaning": "શાંતિ", "hindiMeaning": "शांति" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The Mona Lisa is considered a masterpiece of Renaissance art.",
+          "gujaratiTranslation": "મોના લિસાને પુનરુજ્જીવન કળાની શ્રેષ્ઠ કૃતિ માનવામાં આવે છે.",
+          "hindiTranslation": "मोना लिसा को पुनर्जागरण कला की एक उत्कृष्ट कृति माना जाता है।",
+          "gujaratiPronunciation": "ધ મોના લિસા ઇઝ કન્સિડર્ડ અ માસ્ટરપીસ ઓફ રેનેસન્સ આર્ટ.",
+          "hindiPronunciation": "द मोना लिसा इज कंसिडर्ड अ मास्टरपीस ऑफ रेनेसंस आर्ट।"
+        }
+      ]
+    }
+  ]
+}

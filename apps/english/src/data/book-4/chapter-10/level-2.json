@@ -1,0 +1,140 @@
+
+{
+    "id": "level-2",
+    "title": "Level 2",
+    "words": [
+        {
+            "word": "Flourish",
+            "gujaratiPronunciation": "ફ્લરિશ",
+            "hindiPronunciation": "फ्लरिश",
+            "gujaratiMeaning": "ફૂલવું-ફાલવું, વિકસવું",
+            "hindiMeaning": "फलना-फूलना, विकसित होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Flourish", "gujaratiPronunciation": "ફ્લરિશ", "hindiPronunciation": "फ्लरिश", "gujaratiMeaning": "વિકસવું", "hindiMeaning": "विकसित होना" },
+                "V2 (Past)": { "word": "Flourished", "gujaratiPronunciation": "ફ્લરિશ્ડ", "hindiPronunciation": "फ्लरिश्ड", "gujaratiMeaning": "વિકસ્યું", "hindiMeaning": "विकसित हुआ" },
+                "V3 (Past Participle)": { "word": "Flourished", "gujaratiPronunciation": "ફ્લરિશ્ડ", "hindiPronunciation": "फ्लरिश्ड", "gujaratiMeaning": "વિકસિત", "hindiMeaning": "विकसित" },
+                "V4 (Present Participle)": { "word": "Flourishing", "gujaratiPronunciation": "ફ્લરિશિંગ", "hindiPronunciation": "फ्लरिशिंग", "gujaratiMeaning": "વિકસી રહ્યું છે", "hindiMeaning": "विकसित हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Thrive", "gujaratiPronunciation": "થ્રાઇવ", "hindiPronunciation": "थ्राइव", "gujaratiMeaning": "સમૃદ્ધ થવું", "hindiMeaning": "समृद्ध होना" },
+                { "word": "Prosper", "gujaratiPronunciation": "પ્રોસ્પર", "hindiPronunciation": "प्रॉस्पर", "gujaratiMeaning": "સફળ થવું", "hindiMeaning": "सफल होना" }
+            ],
+            "antonyms": [
+                { "word": "Decline", "gujaratiPronunciation": "ડિક્લાઇન", "hindiPronunciation": "डिक्लाइन", "gujaratiMeaning": "પતન થવું", "hindiMeaning": "पतन होना" },
+                { "word": "Wither", "gujaratiPronunciation": "વિધર", "hindiPronunciation": "विदर", "gujaratiMeaning": "કરમાઈ જવું", "hindiMeaning": "मुरझाना" }
+            ],
+            "confusingWords": [
+                { "word": "Floorish", "gujaratiPronunciation": "ફ્લોરિશ", "hindiPronunciation": "फ्लोरिश", "gujaratiMeaning": "કોઈ શબ્દ નથી", "hindiMeaning": "कोई शब्द नहीं" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The plants flourish in the new soil.", "gujaratiTranslation": "નવી જમીનમાં છોડ સારી રીતે વિકસે છે.", "hindiTranslation": "नई मिट्टी में पौधे अच्छी तरह से फलते-फूलते हैं।", "gujaratiPronunciation": "ધ પ્લાન્ટ્સ ફ્લરિશ ઇન ધ ન્યુ સોઇલ.", "hindiPronunciation": "द प्लांट्स फ्लरिश इन द न्यू सॉइल।" }
+            ]
+        },
+        {
+            "word": "Manifest",
+            "gujaratiPronunciation": "મેનિફેસ્ટ",
+            "hindiPronunciation": "मैनिफेस्ट",
+            "gujaratiMeaning": "પ્રગટ કરવું, સ્પષ્ટ કરવું",
+            "hindiMeaning": "प्रकट करना, स्पष्ट करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Manifest", "gujaratiPronunciation": "મેનિફેસ્ટ", "hindiPronunciation": "मैनिफेस्ट", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+                "V2 (Past)": { "word": "Manifested", "gujaratiPronunciation": "મેનિફેસ્ટેડ", "hindiPronunciation": "मैनिफेस्टेड", "gujaratiMeaning": "પ્રગટ કર્યું", "hindiMeaning": "प्रकट किया" },
+                "V3 (Past Participle)": { "word": "Manifested", "gujaratiPronunciation": "મેનિફેસ્ટેડ", "hindiPronunciation": "मैनिफेस्टेड", "gujaratiMeaning": "પ્રગટ કરેલું", "hindiMeaning": "प्रकट किया हुआ" },
+                "V4 (Present Participle)": { "word": "Manifesting", "gujaratiPronunciation": "મેનિફેસ્ટિંગ", "hindiPronunciation": "मैनिफेस्टिंग", "gujaratiMeaning": "પ્રગટ કરી રહ્યું છે", "hindiMeaning": "प्रकट कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Display", "gujaratiPronunciation": "ડિસ્પ્લે", "hindiPronunciation": "डिस्प्ले", "gujaratiMeaning": "પ્રદર્શિત કરવું", "hindiMeaning": "प्रदर्शित करना" },
+                { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "જાહેર કરવું", "hindiMeaning": "प्रकट करना" }
+            ],
+            "antonyms": [
+                { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+                { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "સંતાડવું", "hindiMeaning": "छिपाना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "Her sadness manifested in her lack of appetite.", "gujaratiTranslation": "તેણીની ઉદાસી તેની ભૂખ ન લાગવામાં પ્રગટ થઈ.", "hindiTranslation": "उसकी उदासी उसकी भूख की कमी में प्रकट हुई।", "gujaratiPronunciation": "હર સેડનેસ મેનિફેસ્ટેડ ઇન હર લેક ઓફ એપેટાઇટ.", "hindiPronunciation": "हर सैडनेस मैनिफेस्टेड इन हर लैक ऑफ़ ऐपेटाइट।" }
+            ]
+        },
+        {
+            "word": "Contemplate",
+            "gujaratiPronunciation": "કોન્ટેમ્પ્લેટ",
+            "hindiPronunciation": "कॉन्टेम्प्लेट",
+            "gujaratiMeaning": "વિચાર કરવો, મનન કરવું",
+            "hindiMeaning": "विचार करना, मनन करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Contemplate", "gujaratiPronunciation": "કોન્ટેમ્પ્લેટ", "hindiPronunciation": "कॉन्टेम्प्लेट", "gujaratiMeaning": "વિચાર કરવો", "hindiMeaning": "विचार करना" },
+                "V2 (Past)": { "word": "Contemplated", "gujaratiPronunciation": "કોન્ટેમ્પ્લેટેડ", "hindiPronunciation": "कॉन्टेम्प्लेटेड", "gujaratiMeaning": "વિચાર કર્યો", "hindiMeaning": "विचार किया" },
+                "V3 (Past Participle)": { "word": "Contemplated", "gujaratiPronunciation": "કોન્ટેમ્પ્લેટેડ", "hindiPronunciation": "कॉन्टेम्प्लेटेड", "gujaratiMeaning": "વિચાર કરેલો", "hindiMeaning": "विचार किया हुआ" },
+                "V4 (Present Participle)": { "word": "Contemplating", "gujaratiPronunciation": "કોન્ટેમ્પ્લેટિંગ", "hindiPronunciation": "कॉन्टेम्प्लेटिंग", "gujaratiMeaning": "વિચાર કરી રહ્યું છે", "hindiMeaning": "विचार कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Ponder", "gujaratiPronunciation": "પોન્ડર", "hindiPronunciation": "पॉन्डर", "gujaratiMeaning": "ઊંડો વિચાર કરવો", "hindiMeaning": "गहराई से सोचना" },
+                { "word": "Meditate", "gujaratiPronunciation": "મેડિટેટ", "hindiPronunciation": "मेडिटेट", "gujaratiMeaning": "ધ્યાન કરવું", "hindiMeaning": "ध्यान करना" }
+            ],
+            "antonyms": [
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" },
+                { "word": "Forget", "gujaratiPronunciation": "ફર્ગેટ", "hindiPronunciation": "फॉरगेट", "gujaratiMeaning": "ભૂલી જવું", "hindiMeaning": "भूल जाना" }
+            ],
+            "confusingWords": [
+                { "word": "Template", "gujaratiPronunciation": "ટેમ્પલેટ", "hindiPronunciation": "टेम्पलेट", "gujaratiMeaning": "નમૂનો", "hindiMeaning": "नमूना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "He sat and contemplated the meaning of life.", "gujaratiTranslation": "તે બેઠો અને જીવનના અર્થ પર વિચાર કર્યો.", "hindiTranslation": "वह बैठा और जीवन के अर्थ पर विचार करने लगा।", "gujaratiPronunciation": "હી સેટ એન્ડ કોન્ટેમ્પ્લેટેડ ધ મિનિંગ ઓફ લાઇફ.", "hindiPronunciation": "ही सैट एंड कॉन्टेम्प्लेटेड द मीनिंग ऑफ़ लाइफ़।" }
+            ]
+        },
+        {
+            "word": "Aspire",
+            "gujaratiPronunciation": "એસ્પાયર",
+            "hindiPronunciation": "एस्पायर",
+            "gujaratiMeaning": "મહત્વાકાંક્ષા રાખવી",
+            "hindiMeaning": "महत्वाकांक्षा रखना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Aspire", "gujaratiPronunciation": "એસ્પાયર", "hindiPronunciation": "एस्पायर", "gujaratiMeaning": "મહત્વાકાંક્ષા રાખવી", "hindiMeaning": "महत्वाकांक्षा रखना" },
+                "V2 (Past)": { "word": "Aspired", "gujaratiPronunciation": "એસ્પાયર્ડ", "hindiPronunciation": "एस्पायर्ड", "gujaratiMeaning": "મહત્વાકાંક્ષા રાખી", "hindiMeaning": "महत्वाकांक्षा रखी" },
+                "V3 (Past Participle)": { "word": "Aspired", "gujaratiPronunciation": "એસ્પાયર્ડ", "hindiPronunciation": "एस्पायर्ड", "gujaratiMeaning": "મહત્વાકાંક્ષા રાખેલી", "hindiMeaning": "महत्वाकांक्षा रखी हुई" },
+                "V4 (Present Participle)": { "word": "Aspiring", "gujaratiPronunciation": "એસ્પાયરિંગ", "hindiPronunciation": "एस्पायरिंग", "gujaratiMeaning": "મહત્વાકાંક્ષા રાખી રહ્યું છે", "hindiMeaning": "महत्वाकांक्षा रख रहा है" }
+            },
+            "synonyms": [
+                { "word": "Aim", "gujaratiPronunciation": "એમ", "hindiPronunciation": "एम", "gujaratiMeaning": "લક્ષ્ય રાખવું", "hindiMeaning": "लक्ष्य रखना" },
+                { "word": "Yearn", "gujaratiPronunciation": "યર્ન", "hindiPronunciation": "यर्न", "gujaratiMeaning": "તલસવું", "hindiMeaning": "तरसना" }
+            ],
+            "antonyms": [
+                { "word": "Despair", "gujaratiPronunciation": "ડિસ્પેર", "hindiPronunciation": "डिस्पेयर", "gujaratiMeaning": "નિરાશ થવું", "hindiMeaning": "निराश होना" }
+            ],
+            "confusingWords": [
+                { "word": "Expire", "gujaratiPronunciation": "એક્સપાયર", "hindiPronunciation": "एक्सपायर", "gujaratiMeaning": "સમાપ્ત થવું", "hindiMeaning": "समाप्त होना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Many people aspire to be famous.", "gujaratiTranslation": "ઘણા લોકો પ્રખ્યાત બનવાની મહત્વાકાંક્ષા રાખે છે.", "hindiTranslation": "बहुत से लोग प्रसिद्ध होने की आकांक्षा रखते हैं।", "gujaratiPronunciation": "મેની પીપલ એસ્પાયર ટુ બી ફેમસ.", "hindiPronunciation": "मेनी पीपल एस्पायर टू बी फेमस।" }
+            ]
+        },
+        {
+            "word": "Coexist",
+            "gujaratiPronunciation": "કોએક્ઝિસ્ટ",
+            "hindiPronunciation": "कोएग्ज़िस्ट",
+            "gujaratiMeaning": "સહઅસ્તિત્વ ધરાવવું",
+            "hindiMeaning": "सह-अस्तित्व में होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Coexist", "gujaratiPronunciation": "કોએક્ઝિસ્ટ", "hindiPronunciation": "कोएग्ज़िस्ट", "gujaratiMeaning": "સહઅસ્તિત્વ ધરાવવું", "hindiMeaning": "सह-अस्तित्व में होना" },
+                "V2 (Past)": { "word": "Coexisted", "gujaratiPronunciation": "કોએક્ઝિસ્ટેડ", "hindiPronunciation": "कोएग्ज़िस्टेड", "gujaratiMeaning": "સહઅસ્તિત્વ ધરાવતું હતું", "hindiMeaning": "सह-अस्तित्व में था" },
+                "V3 (Past Participle)": { "word": "Coexisted", "gujaratiPronunciation": "કોએક્ઝિસ્ટેડ", "hindiPronunciation": "कोएग्ज़िस्टेड", "gujaratiMeaning": "સહઅસ્તિત્વ ધરાવેલું", "hindiMeaning": "सह-अस्तित्व में रहा" },
+                "V4 (Present Participle)": { "word": "Coexisting", "gujaratiPronunciation": "કોએક્ઝિસ્ટિંગ", "hindiPronunciation": "कोएग्ज़िस्टिंग", "gujaratiMeaning": "સહઅસ્તિત્વ ધરાવી રહ્યું છે", "hindiMeaning": "सह-अस्तित्व में है" }
+            },
+            "synonyms": [
+                { "word": "Live together", "gujaratiPronunciation": "લિવ ટુગેધર", "hindiPronunciation": "लिव टुगेदर", "gujaratiMeaning": "સાથે રહેવું", "hindiMeaning": "साथ रहना" }
+            ],
+            "antonyms": [
+                { "word": "Conflict", "gujaratiPronunciation": "કોન્ફ્લિક્ટ", "hindiPronunciation": "कॉन्फ्लिक्ट", "gujaratiMeaning": "સંઘર્ષ કરવો", "hindiMeaning": "संघर्ष करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "Different cultures can coexist peacefully.", "gujaratiTranslation": "વિવિધ સંસ્કૃતિઓ શાંતિપૂર્વક સહઅસ્તિત્વ ધરાવી શકે છે.", "hindiTranslation": "विभिन्न संस्कृतियाँ शांतिपूर्वक सह-अस्तित्व में रह सकती हैं।", "gujaratiPronunciation": "ડિફરન્ટ કલ્ચર્સ કેન કોએક્ઝિસ્ટ પીસફુલી.", "hindiPronunciation": "डिफरेंट कल्चर्स कैन कोएग्ज़िस्ट पीसफुली।" }
+            ]
+        }
+    ]
+}

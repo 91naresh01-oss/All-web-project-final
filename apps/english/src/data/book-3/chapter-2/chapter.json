@@ -1,0 +1,14 @@
+
+{
+  "id": "chapter-2",
+  "title": "Body & Movement 🏃",
+  "gujaratiTitle": "શરીર અને હલનચલન 🏃",
+  "hindiTitle": "शरीर और हरकत 🏃",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" },
+    { "id": "level-5" }
+  ]
+}

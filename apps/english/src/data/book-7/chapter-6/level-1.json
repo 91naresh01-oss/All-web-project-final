@@ -1,0 +1,482 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Solve",
+      "gujaratiPronunciation": "સૉલ્વ",
+      "hindiPronunciation": "सॉल्व",
+      "gujaratiMeaning": "ઉકેલવું",
+      "hindiMeaning": "हल करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Solve",
+          "gujaratiPronunciation": "સૉલ્વ",
+          "hindiPronunciation": "सॉल्व",
+          "gujaratiMeaning": "ઉકેલવું",
+          "hindiMeaning": "हल करना"
+        },
+        "v2": {
+          "word": "Solved",
+          "gujaratiPronunciation": "સૉલ્વ્ડ",
+          "hindiPronunciation": "सॉल्वड",
+          "gujaratiMeaning": "ઉકેલ્યું",
+          "hindiMeaning": "हल किया"
+        },
+        "v3": {
+          "word": "Solved",
+          "gujaratiPronunciation": "સૉલ્વ્ડ",
+          "hindiPronunciation": "सॉल्वड",
+          "gujaratiMeaning": "ઉકેલેલું",
+          "hindiMeaning": "हल किया हुआ"
+        },
+        "v4": {
+          "word": "Solving",
+          "gujaratiPronunciation": "સૉલ્વિંગ",
+          "hindiPronunciation": "सॉल्विंग",
+          "gujaratiMeaning": "ઉકેલી રહ્યું છે",
+          "hindiMeaning": "हल कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Resolve",
+          "gujaratiPronunciation": "રિઝૉલ્વ",
+          "hindiPronunciation": "रिज़ॉल्व",
+          "gujaratiMeaning": "નિરાકરણ કરવું",
+          "hindiMeaning": "समाधान करना"
+        },
+        {
+          "word": "Answer",
+          "gujaratiPronunciation": "આન્સર",
+          "hindiPronunciation": "आंसर",
+          "gujaratiMeaning": "જવાબ આપવો",
+          "hindiMeaning": "उत्तर देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Complicate",
+          "gujaratiPronunciation": "કૉમ્પ્લિકેટ",
+          "hindiPronunciation": "कॉम्प्लिकेट",
+          "gujaratiMeaning": "જટિલ બનાવવું",
+          "hindiMeaning": "जटिल बनाना"
+        },
+        {
+          "word": "Create",
+          "gujaratiPronunciation": "ક્રિએટ",
+          "hindiPronunciation": "क्रिएट",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Salve",
+          "gujaratiPronunciation": "સૅલ્વ",
+          "hindiPronunciation": "सैल्व",
+          "gujaratiMeaning": "મલમ",
+          "hindiMeaning": "मरहम"
+        },
+        {
+          "word": "Serve",
+          "gujaratiPronunciation": "સર્વ",
+          "hindiPronunciation": "सर्व",
+          "gujaratiMeaning": "સેવા કરવી",
+          "hindiMeaning": "सेवा करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She helped me solve the difficult math problem.",
+          "gujaratiTranslation": "તેણે મને ગણિતનો અઘરો દાખલો ઉકેલવામાં મદદ કરી.",
+          "hindiTranslation": "उसने मुझे गणित की कठिन समस्या को हल करने में मदद की।",
+          "gujaratiPronunciation": "શી હેલ્પ્ડ મી સોલ્વ ધ ડિફિકલ્ટ મૅથ પ્રોબ્લેમ.",
+          "hindiPronunciation": "शी हेल्पेड मी सॉल्व द डिफिकल्ट मैथ प्रॉब्लम।"
+        }
+      ]
+    },
+    {
+      "word": "Ask",
+      "gujaratiPronunciation": "આસ્ક",
+      "hindiPronunciation": "आस्क",
+      "gujaratiMeaning": "પૂછવું",
+      "hindiMeaning": "पूछना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Ask",
+          "gujaratiPronunciation": "આસ્ક",
+          "hindiPronunciation": "आस्क",
+          "gujaratiMeaning": "પૂછવું",
+          "hindiMeaning": "पूछना"
+        },
+        "v2": {
+          "word": "Asked",
+          "gujaratiPronunciation": "આસ્ક્ડ",
+          "hindiPronunciation": "आस्क्ड",
+          "gujaratiMeaning": "પૂછ્યું",
+          "hindiMeaning": "पूछा"
+        },
+        "v3": {
+          "word": "Asked",
+          "gujaratiPronunciation": "આસ્ક્ડ",
+          "hindiPronunciation": "आस्क्ड",
+          "gujaratiMeaning": "પૂછેલું",
+          "hindiMeaning": "पूछा हुआ"
+        },
+        "v4": {
+          "word": "Asking",
+          "gujaratiPronunciation": "આસ્કિંગ",
+          "hindiPronunciation": "आस्किंग",
+          "gujaratiMeaning": "પૂછી રહ્યું છે",
+          "hindiMeaning": "पूछ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Inquire",
+          "gujaratiPronunciation": "ઇન્ક્વાયર",
+          "hindiPronunciation": "इन्क्वायर",
+          "gujaratiMeaning": "પૂછપરછ કરવી",
+          "hindiMeaning": "पूछताछ करना"
+        },
+        {
+          "word": "Question",
+          "gujaratiPronunciation": "ક્વેશ્ચન",
+          "hindiPronunciation": "क्वेश्चन",
+          "gujaratiMeaning": "પ્રશ્ન કરવો",
+          "hindiMeaning": "प्रश्न करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Answer",
+          "gujaratiPronunciation": "આન્સર",
+          "hindiPronunciation": "आंसर",
+          "gujaratiMeaning": "જવાબ આપવો",
+          "hindiMeaning": "उत्तर देना"
+        },
+        {
+          "word": "Reply",
+          "gujaratiPronunciation": "રિપ્લાય",
+          "hindiPronunciation": "रिप्लाइ",
+          "gujaratiMeaning": "પ્રત્યુત્તર આપવો",
+          "hindiMeaning": "जवाब देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Axe",
+          "gujaratiPronunciation": "ઍક્સ",
+          "hindiPronunciation": "एक्स",
+          "gujaratiMeaning": "કુહાડી",
+          "hindiMeaning": "कुल्हाड़ी"
+        },
+        {
+          "word": "Task",
+          "gujaratiPronunciation": "ટાસ્ક",
+          "hindiPronunciation": "टास्क",
+          "gujaratiMeaning": "કાર્ય",
+          "hindiMeaning": "कार्य"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't be afraid to ask for help if you need it.",
+          "gujaratiTranslation": "જો તમને જરૂર હોય તો મદદ માટે પૂછવામાં ડરશો નહીં.",
+          "hindiTranslation": "यदि आपको आवश्यकता हो तो सहायता मांगने से न डरें।",
+          "gujaratiPronunciation": "ડોન્ટ બી અફ્રેઇડ ટુ આસ્ક ફોર હેલ્પ ઇફ યુ નીડ ઇટ.",
+          "hindiPronunciation": "डोंट बी अफ्रेड टू आस्क फॉर हेल्प इफ यू नीड इट।"
+        }
+      ]
+    },
+    {
+      "word": "Check",
+      "gujaratiPronunciation": "ચેક",
+      "hindiPronunciation": "चेक",
+      "gujaratiMeaning": "તપાસવું",
+      "hindiMeaning": "जाँचना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Check",
+          "gujaratiPronunciation": "ચેક",
+          "hindiPronunciation": "चेक",
+          "gujaratiMeaning": "તપાસવું",
+          "hindiMeaning": "जाँचना"
+        },
+        "v2": {
+          "word": "Checked",
+          "gujaratiPronunciation": "ચેક્ડ",
+          "hindiPronunciation": "चेक्ड",
+          "gujaratiMeaning": "તપાસ્યું",
+          "hindiMeaning": "जाँचा"
+        },
+        "v3": {
+          "word": "Checked",
+          "gujaratiPronunciation": "ચેક્ડ",
+          "hindiPronunciation": "चेक्ड",
+          "gujaratiMeaning": "તપાસેલું",
+          "hindiMeaning": "जाँचा हुआ"
+        },
+        "v4": {
+          "word": "Checking",
+          "gujaratiPronunciation": "ચેકિંગ",
+          "hindiPronunciation": "चेकिंग",
+          "gujaratiMeaning": "તપાસી રહ્યું છે",
+          "hindiMeaning": "जाँच रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Verify",
+          "gujaratiPronunciation": "વેરિફાય",
+          "hindiPronunciation": "वेरीफाई",
+          "gujaratiMeaning": "ચકાસણી કરવી",
+          "hindiMeaning": "सत्यापित करना"
+        },
+        {
+          "word": "Examine",
+          "gujaratiPronunciation": "એક્ઝામિન",
+          "hindiPronunciation": "एग्जामिन",
+          "gujaratiMeaning": "પરીક્ષણ કરવું",
+          "hindiMeaning": "जांच करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नजरअंदाज करना"
+        },
+        {
+          "word": "Overlook",
+          "gujaratiPronunciation": "ઓવરલૂક",
+          "hindiPronunciation": "ओवरलुक",
+          "gujaratiMeaning": "ધ્યાન ન આપવું",
+          "hindiMeaning": "अनदेखा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Cheque",
+          "gujaratiPronunciation": "ચેક",
+          "hindiPronunciation": "चेक",
+          "gujaratiMeaning": "બેંકનો ચેક",
+          "hindiMeaning": "बैंक का चेक"
+        },
+        {
+          "word": "Cheek",
+          "gujaratiPronunciation": "ચીક",
+          "hindiPronunciation": "चीक",
+          "gujaratiMeaning": "ગાલ",
+          "hindiMeaning": "गाल"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please check your work for any mistakes before submitting.",
+          "gujaratiTranslation": "સબમિટ કરતા પહેલા કૃપા કરીને ભૂલો માટે તમારું કામ તપાસો.",
+          "hindiTranslation": "कृपया सबमिट करने से पहले किसी भी गलती के लिए अपने काम की जाँच करें।",
+          "gujaratiPronunciation": "પ્લીઝ ચેક યોર વર્ક ફોર એની મિસ્ટેક્સ બિફોર સબમિટિંગ.",
+          "hindiPronunciation": "प्लीज चेक योर वर्क फॉर एनी मिस्टेक्स बिफोर सबमिटिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Try",
+      "gujaratiPronunciation": "ટ્રાય",
+      "hindiPronunciation": "ट्राइ",
+      "gujaratiMeaning": "પ્રયત્ન કરવો",
+      "hindiMeaning": "कोशिश करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Try",
+          "gujaratiPronunciation": "ટ્રાય",
+          "hindiPronunciation": "ट्राइ",
+          "gujaratiMeaning": "પ્રયત્ન કરવો",
+          "hindiMeaning": "कोशिश करना"
+        },
+        "v2": {
+          "word": "Tried",
+          "gujaratiPronunciation": "ટ્રાઇડ",
+          "hindiPronunciation": "ट्राइड",
+          "gujaratiMeaning": "પ્રયત્ન કર્યો",
+          "hindiMeaning": "कोशिश की"
+        },
+        "v3": {
+          "word": "Tried",
+          "gujaratiPronunciation": "ટ્રાઇડ",
+          "hindiPronunciation": "ट्राइड",
+          "gujaratiMeaning": "પ્રયત્ન કરેલો",
+          "hindiMeaning": "कोशिश की हुई"
+        },
+        "v4": {
+          "word": "Trying",
+          "gujaratiPronunciation": "ટ્રાઇંગ",
+          "hindiPronunciation": "ट्राइंग",
+          "gujaratiMeaning": "પ્રયત્ન કરી રહ્યું છે",
+          "hindiMeaning": "कोशिश कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Attempt",
+          "gujaratiPronunciation": "અટેમ્પ્ટ",
+          "hindiPronunciation": "अटेम्प्ट",
+          "gujaratiMeaning": "પ્રયાસ કરવો",
+          "hindiMeaning": "प्रयास करना"
+        },
+        {
+          "word": "Endeavor",
+          "gujaratiPronunciation": "એન્ડેવર",
+          "hindiPronunciation": "एंडेवर",
+          "gujaratiMeaning": "મહેનત કરવી",
+          "hindiMeaning": "प्रयत्न करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Quit",
+          "gujaratiPronunciation": "ક્વિટ",
+          "hindiPronunciation": "क्विट",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ देना"
+        },
+        {
+          "word": "Give up",
+          "gujaratiPronunciation": "ગિવ અપ",
+          "hindiPronunciation": "गिव अप",
+          "gujaratiMeaning": "હાર માનવી",
+          "hindiMeaning": "हार मान लेना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Dry",
+          "gujaratiPronunciation": "ડ્રાય",
+          "hindiPronunciation": "ड्राइ",
+          "gujaratiMeaning": "સૂકું",
+          "hindiMeaning": "सूखा"
+        },
+        {
+          "word": "Tray",
+          "gujaratiPronunciation": "ટ્રે",
+          "hindiPronunciation": "ट्रे",
+          "gujaratiMeaning": "ટ્રે",
+          "hindiMeaning": "ट्रे"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "If you don't succeed at first, try again.",
+          "gujaratiTranslation": "જો તમે પહેલા પ્રયત્નમાં સફળ ન થાઓ, તો ફરી પ્રયત્ન કરો.",
+          "hindiTranslation": "यदि आप पहली बार में सफल नहीं होते हैं, तो फिर से प्रयास करें।",
+          "gujaratiPronunciation": "ઇફ યુ ડોન્ટ સક્સીડ એટ ફર્સ્ટ, ટ્રાય અગેઇન.",
+          "hindiPronunciation": "इफ यू डोंट सक्सीड एट फर्स्ट, ट्राई अगेन।"
+        }
+      ]
+    },
+    {
+      "word": "Probe",
+      "gujaratiPronunciation": "પ્રોબ",
+      "hindiPronunciation": "प्रोब",
+      "gujaratiMeaning": "તપાસ કરવી",
+      "hindiMeaning": "जांच करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Probe",
+          "gujaratiPronunciation": "પ્રોબ",
+          "hindiPronunciation": "प्रोब",
+          "gujaratiMeaning": "તપાસ કરવી",
+          "hindiMeaning": "जांच करना"
+        },
+        "v2": {
+          "word": "Probed",
+          "gujaratiPronunciation": "પ્રોબ્ડ",
+          "hindiPronunciation": "प्रोब्ड",
+          "gujaratiMeaning": "તપાસ કરી",
+          "hindiMeaning": "जांच की"
+        },
+        "v3": {
+          "word": "Probed",
+          "gujaratiPronunciation": "પ્રોબ્ડ",
+          "hindiPronunciation": "प्रोब्ड",
+          "gujaratiMeaning": "તપાસ કરેલી",
+          "hindiMeaning": "जांच की हुई"
+        },
+        "v4": {
+          "word": "Probing",
+          "gujaratiPronunciation": "પ્રોબિંગ",
+          "hindiPronunciation": "प्रोबिंग",
+          "gujaratiMeaning": "તપાસ કરી રહ્યું છે",
+          "hindiMeaning": "जांच कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Investigate",
+          "gujaratiPronunciation": "ઇન્વેસ્ટિગેટ",
+          "hindiPronunciation": "इन्वेस्टिगेट",
+          "gujaratiMeaning": "તપાસ કરવી",
+          "hindiMeaning": "जांच-पड़ताल करना"
+        },
+        {
+          "word": "Examine",
+          "gujaratiPronunciation": "એક્ઝામિન",
+          "hindiPronunciation": "एग्जामिन",
+          "gujaratiMeaning": "પરીક્ષણ કરવું",
+          "hindiMeaning": "जांच करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नजरअंदाज करना"
+        },
+        {
+          "word": "Conceal",
+          "gujaratiPronunciation": "કન્સીલ",
+          "hindiPronunciation": "कंसील",
+          "gujaratiMeaning": "છુપાવવું",
+          "hindiMeaning": "छिपाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Robe",
+          "gujaratiPronunciation": "રોબ",
+          "hindiPronunciation": "रोब",
+          "gujaratiMeaning": "ઝભ્ભો",
+          "hindiMeaning": "लबादा"
+        },
+        {
+          "word": "Problem",
+          "gujaratiPronunciation": "પ્રોબ્લેમ",
+          "hindiPronunciation": "प्रॉब्लम",
+          "gujaratiMeaning": "સમસ્યા",
+          "hindiMeaning": "समस्या"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The detective decided to probe deeper into the case.",
+          "gujaratiTranslation": "ડિટેક્ટિવે કેસમાં વધુ ઊંડી તપાસ કરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "जासूस ने मामले में और गहराई से जांच करने का फैसला किया।",
+          "gujaratiPronunciation": "ધ ડિટેક્ટિવ ડિસાઇડેડ ટુ પ્રોબ ડીપર ઇનટુ ધ કેસ.",
+          "hindiPronunciation": "द डिटेक्टिव डिसाइडेड टू प्रोब डीपर इनटू द केस।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Disseminate",
+      "gujaratiPronunciation": "ડિસેમિનેટ",
+      "hindiPronunciation": "डिसेमिनेट",
+      "gujaratiMeaning": "ફેલાવો કરવો",
+      "hindiMeaning": "प्रसार करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Disseminate", "gujaratiPronunciation": "ડિસેમિનેટ", "hindiPronunciation": "डिसेमिनेट", "gujaratiMeaning": "ફેલાવો કરવો", "hindiMeaning": "प्रसार करना" },
+        "V2 (Past Simple)": { "word": "Disseminated", "gujaratiPronunciation": "ડિસેમિનેટેડ", "hindiPronunciation": "डिसेमिनेटेड", "gujaratiMeaning": "ફેલાવો કર્યો", "hindiMeaning": "प्रसारित किया" },
+        "V3 (Past Participle)": { "word": "Disseminated", "gujaratiPronunciation": "ડિસેમિનેટેડ", "hindiPronunciation": "डिसेमिनेटेड", "gujaratiMeaning": "ફેલાવો કરેલ", "hindiMeaning": "प्रसारित" },
+        "V4 (Present Participle)": { "word": "Disseminating", "gujaratiPronunciation": "ડિસેમિનેટિંગ", "hindiPronunciation": "डिसेमिनेटिंग", "gujaratiMeaning": "ફેલાવો કરી રહ્યું છે", "hindiMeaning": "प्रसार कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Spread", "gujaratiPronunciation": "સ્પ્રેડ", "hindiPronunciation": "स्प्रेड", "gujaratiMeaning": "ફેલાવવું", "hindiMeaning": "फैलाना" },
+        { "word": "Distribute", "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ", "hindiPronunciation": "डिस्ट्रीब्यूट", "gujaratiMeaning": "વહેંચવું", "hindiMeaning": "बांटना" }
+      ],
+      "antonyms": [
+        { "word": "Collect", "gujaratiPronunciation": "કલેક્ટ", "hindiPronunciation": "कलेक्ट", "gujaratiMeaning": "એકત્ર કરવું", "hindiMeaning": "इकट्ठा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Discriminate", "gujaratiPronunciation": "ડિસ્ક્રિમિનેટ", "hindiPronunciation": "डिस्क्रिमिनेट", "gujaratiMeaning": "ભેદભાવ કરવો", "hindiMeaning": "भेदभाव करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The goal is to disseminate information about the new policy.",
+          "gujaratiTranslation": "ધ્યેય નવી નીતિ વિશે માહિતીનો ફેલાવો કરવાનો છે.",
+          "hindiTranslation": "लक्ष्य नई नीति के बारे में जानकारी प्रसारित करना है।",
+          "gujaratiPronunciation": "ધ ગોલ ઇઝ ટુ ડિસેમિનેટ ઇન્ફર્મેશન અબાઉટ ધ ન્યૂ પોલિસી.",
+          "hindiPronunciation": "द गोल इज़ टू डिसेमिनेट इनफॉर्मेशन अबाउट द न्यू पॉलिसी।"
+        }
+      ]
+    },
+    {
+      "word": "Replicate",
+      "gujaratiPronunciation": "રેપ્લિકેટ",
+      "hindiPronunciation": "रेप्लिकेट",
+      "gujaratiMeaning": "પ્રતિકૃતિ બનાવવી",
+      "hindiMeaning": "प्रतिकृति बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Replicate", "gujaratiPronunciation": "રેપ્લિકેટ", "hindiPronunciation": "रेप्लिकेट", "gujaratiMeaning": "પ્રતિકૃતિ બનાવવી", "hindiMeaning": "प्रतिकृति बनाना" },
+        "V2 (Past Simple)": { "word": "Replicated", "gujaratiPronunciation": "રેપ્લિકેટેડ", "hindiPronunciation": "रेप्लिकेटेड", "gujaratiMeaning": "પ્રતિકૃતિ બનાવી", "hindiMeaning": "प्रतिकृति बनाई" },
+        "V3 (Past Participle)": { "word": "Replicated", "gujaratiPronunciation": "રેપ્લિકેટેડ", "hindiPronunciation": "रेप्लिकेटेड", "gujaratiMeaning": "પ્રતિકૃતિ બનાવેલ", "hindiMeaning": "प्रतिरूपित" },
+        "V4 (Present Participle)": { "word": "Replicating", "gujaratiPronunciation": "રેપ્લિકેટિંગ", "hindiPronunciation": "रेप्लिकेटिंग", "gujaratiMeaning": "પ્રતિકૃતિ બનાવી રહ્યું છે", "hindiMeaning": "प्रतिकृति बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Duplicate", "gujaratiPronunciation": "ડુપ્લિકેટ", "hindiPronunciation": "डुप्लिकेट", "gujaratiMeaning": "નકલ બનાવવી", "hindiMeaning": "नकल बनाना" },
+        { "word": "Reproduce", "gujaratiPronunciation": "રીપ્રોડ્યુસ", "hindiPronunciation": "रिप्रोड्यूस", "gujaratiMeaning": "પુનઃઉત્પાદન કરવું", "hindiMeaning": "पुनरुत्पादन करना" }
+      ],
+      "antonyms": [
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" }
+      ],
+      "confusingWords": [
+        { "word": "Implicate", "gujaratiPronunciation": "ઇમ્પ્લિકેટ", "hindiPronunciation": "इम्प्लिकेट", "gujaratiMeaning": "સંડોવવું", "hindiMeaning": "फंसाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is difficult to replicate the experiment's results.",
+          "gujaratiTranslation": "પ્રયોગના પરિણામોની પ્રતિકૃતિ બનાવવી મુશ્કેલ છે.",
+          "hindiTranslation": "प्रयोग के परिणामों की प्रतिकृति बनाना मुश्किल है।",
+          "gujaratiPronunciation": "ઇટ ઇઝ ડિફિકલ્ટ ટુ રેપ્લિકેટ ધ એક્સપેરિમેન્ટ્સ રિઝલ્ટ્સ.",
+          "hindiPronunciation": "इट इज़ डिफिकल्ट टू रेप्लिकेट द एक्सपेरिमेंट्स रिजल्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Inquire",
+      "gujaratiPronunciation": "ઇન્ક્વાયર",
+      "hindiPronunciation": "इन्क्वायर",
+      "gujaratiMeaning": "પૂછપરછ કરવી",
+      "hindiMeaning": "पूछताछ करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Inquire", "gujaratiPronunciation": "ઇન્ક્વાયર", "hindiPronunciation": "इन्क्वायर", "gujaratiMeaning": "પૂછપરછ કરવી", "hindiMeaning": "पूछताछ करना" },
+        "V2 (Past Simple)": { "word": "Inquired", "gujaratiPronunciation": "ઇન્ક્વાયર્ડ", "hindiPronunciation": "इन्क्वायर्ड", "gujaratiMeaning": "પૂછપરછ કરી", "hindiMeaning": "पूछताछ की" },
+        "V3 (Past Participle)": { "word": "Inquired", "gujaratiPronunciation": "ઇન્ક્વાયર્ડ", "hindiPronunciation": "इन्क्वायर्ड", "gujaratiMeaning": "પૂછપરછ કરેલ", "hindiMeaning": "पूछताछ की हुई" },
+        "V4 (Present Participle)": { "word": "Inquiring", "gujaratiPronunciation": "ઇન્ક્વાયરિંગ", "hindiPronunciation": "इन्क्वायरिंग", "gujaratiMeaning": "પૂછપરછ કરી રહ્યું છે", "hindiMeaning": "पूछताछ कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Ask", "gujaratiPronunciation": "આસ્ક", "hindiPronunciation": "आस्क", "gujaratiMeaning": "પૂછવું", "hindiMeaning": "पूछना" },
+        { "word": "Question", "gujaratiPronunciation": "ક્વેશ્ચન", "hindiPronunciation": "क्वेश्चन", "gujaratiMeaning": "પ્રશ્ન પૂછવો", "hindiMeaning": "सवाल करना" }
+      ],
+      "antonyms": [
+        { "word": "Answer", "gujaratiPronunciation": "આન્સર", "hindiPronunciation": "आंसर", "gujaratiMeaning": "જવાબ આપવો", "hindiMeaning": "जवाब देना" }
+      ],
+      "confusingWords": [
+        { "word": "Acquire", "gujaratiPronunciation": "એક્વાયર", "hindiPronunciation": "एक्वायर", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She called to inquire about the job opening.",
+          "gujaratiTranslation": "તેણીએ નોકરીની ખાલી જગ્યા વિશે પૂછપરછ કરવા માટે ફોન કર્યો.",
+          "hindiTranslation": "उसने नौकरी की रिक्ति के बारे में पूछताछ करने के लिए फोन किया।",
+          "gujaratiPronunciation": "શી કોલ્ડ ટુ ઇન્ક્વાયર અબાઉટ ધ જોબ ઓપનિંગ.",
+          "hindiPronunciation": "शी कॉल्ड टू इन्क्वायर अबाउट द जॉब ओपनिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Deconstruct",
+      "gujaratiPronunciation": "ડિકન્સ્ટ્રક્ટ",
+      "hindiPronunciation": "डिकंस्ट्रक्ट",
+      "gujaratiMeaning": "વિઘટન કરવું",
+      "hindiMeaning": "विघटित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Deconstruct", "gujaratiPronunciation": "ડિકન્સ્ટ્રક્ટ", "hindiPronunciation": "डिकंस्ट्रक्ट", "gujaratiMeaning": "વિઘટન કરવું", "hindiMeaning": "विघटित करना" },
+        "V2 (Past Simple)": { "word": "Deconstructed", "gujaratiPronunciation": "ડિકન્સ્ટ્રક્ટેડ", "hindiPronunciation": "डिकंस्ट्रक्टेड", "gujaratiMeaning": "વિઘટન કર્યું", "hindiMeaning": "विघटित किया" },
+        "V3 (Past Participle)": { "word": "Deconstructed", "gujaratiPronunciation": "ડિકન્સ્ટ્રક્ટેડ", "hindiPronunciation": "डिकंस्ट्रक्टेड", "gujaratiMeaning": "વિઘટન કરેલ", "hindiMeaning": "विखंडित" },
+        "V4 (Present Participle)": { "word": "Deconstructing", "gujaratiPronunciation": "ડિકન્સ્ટ્રક્ટિંગ", "hindiPronunciation": "डिकंस्ट्रक्टिंग", "gujaratiMeaning": "વિઘટન કરી રહ્યું છે", "hindiMeaning": "विघटित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Dismantle", "gujaratiPronunciation": "ડિસમેન્ટલ", "hindiPronunciation": "डिसमेंटल", "gujaratiMeaning": "વિખેરી નાખવું", "hindiMeaning": "विघटित करना" },
+        { "word": "Analyze", "gujaratiPronunciation": "એનલાઇઝ", "hindiPronunciation": "एनालाइज़", "gujaratiMeaning": "વિશ્લેષણ કરવું", "hindiMeaning": "विश्लेषण करना" }
+      ],
+      "antonyms": [
+        { "word": "Construct", "gujaratiPronunciation": "કન્સ્ટ્રક્ટ", "hindiPronunciation": "कंस्ट्रक्ट", "gujaratiMeaning": "નિર્માણ કરવું", "hindiMeaning": "निर्माण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Reconstruct", "gujaratiPronunciation": "રિકન્સ્ટ્રક્ટ", "hindiPronunciation": "रिकंस्ट्रक्ट", "gujaratiMeaning": "પુનઃનિર્માણ કરવું", "hindiMeaning": "पुनर्निर्माण करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The students learned to deconstruct the author's argument.",
+          "gujaratiTranslation": "વિદ્યાર્થીઓએ લેખકની દલીલનું વિઘટન કરવાનું શીખ્યા.",
+          "hindiTranslation": "छात्रों ने लेखक के तर्क का विघटन करना सीखा।",
+          "gujaratiPronunciation": "ધ સ્ટુડન્ટ્સ લર્ન્ડ ટુ ડિકન્સ્ટ્રક્ટ ધ ઓથર્સ આર્ગ્યુમેન્ટ.",
+          "hindiPronunciation": "द स्टूडेंट्स लर्न्ड टू डिकंस्ट्रक्ट द ऑथर्स आर्ग्युमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Tabulate",
+      "gujaratiPronunciation": "ટેબ્યુલેટ",
+      "hindiPronunciation": "टैबलेट",
+      "gujaratiMeaning": "કોષ્ટક બનાવવું",
+      "hindiMeaning": "सारणी बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Tabulate", "gujaratiPronunciation": "ટેબ્યુલેટ", "hindiPronunciation": "टैबलेट", "gujaratiMeaning": "કોષ્ટક બનાવવું", "hindiMeaning": "सारणी बनाना" },
+        "V2 (Past Simple)": { "word": "Tabulated", "gujaratiPronunciation": "ટેબ્યુલેટેડ", "hindiPronunciation": "टैबलेटेड", "gujaratiMeaning": "કોષ્ટક બનાવ્યું", "hindiMeaning": "सारणीबद्ध किया" },
+        "V3 (Past Participle)": { "word": "Tabulated", "gujaratiPronunciation": "ટેબ્યુલેટેડ", "hindiPronunciation": "टैबलेटेड", "gujaratiMeaning": "કોષ્ટક બનાવેલ", "hindiMeaning": "सारणीबद्ध" },
+        "V4 (Present Participle)": { "word": "Tabulating", "gujaratiPronunciation": "ટેબ્યુલેટિંગ", "hindiPronunciation": "टैबलेटिंग", "gujaratiMeaning": "કોષ્ટક બનાવી રહ્યું છે", "hindiMeaning": "सारणी बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઇઝ", "hindiPronunciation": "ऑर्गेनाइज़", "gujaratiMeaning": "આયોજન કરવું", "hindiMeaning": "व्यवस्थित करना" },
+        { "word": "Chart", "gujaratiPronunciation": "ચાર્ટ", "hindiPronunciation": "चार्ट", "gujaratiMeaning": "આલેખ બનાવવો", "hindiMeaning": "चार्ट बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गेनाइज़", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अव्यवस्थित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Tablet", "gujaratiPronunciation": "ટેબ્લેટ", "hindiPronunciation": "टैबलेट", "gujaratiMeaning": "ગોળી", "hindiMeaning": "गोली" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please tabulate the survey results.",
+          "gujaratiTranslation": "કૃપા કરીને સર્વેક્ષણના પરિણામોનું કોષ્ટક બનાવો.",
+          "hindiTranslation": "कृपया सर्वेक्षण के परिणामों को सारणीबद्ध करें।",
+          "gujaratiPronunciation": "પ્લીઝ ટેબ્યુલેટ ધ સર્વે રિઝલ્ટ્સ.",
+          "hindiPronunciation": "प्लीज़ टैबलेट द सर्वे रिजल्ट्स।"
+        }
+      ]
+    }
+  ]
+}

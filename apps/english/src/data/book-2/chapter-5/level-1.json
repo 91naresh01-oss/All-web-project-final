@@ -1,0 +1,77 @@
+
+{
+  "id": "level-1",
+  "title": "Sports 1",
+  "words": [
+    {
+      "word": "Cricket",
+      "gujaratiPronunciation": "ક્રિકેટ",
+      "hindiPronunciation": "क्रिकेट",
+      "gujaratiMeaning": "ક્રિકેટ",
+      "hindiMeaning": "क्रिकेट",
+      "exampleSentences": [
+        {
+          "sentence": "Cricket is a popular sport in India.",
+          "gujaratiTranslation": "ભારતમાં ક્રિકેટ એક લોકપ્રિય રમત છે.",
+          "hindiTranslation": "भारत में क्रिकेट एक लोकप्रिय खेल है।"
+        }
+      ]
+    },
+    {
+      "word": "Football",
+      "gujaratiPronunciation": "ફૂટબોલ",
+      "hindiPronunciation": "फ़ुटबॉल",
+      "gujaratiMeaning": "ફૂટબોલ",
+      "hindiMeaning": "फ़ुटबॉल",
+      "exampleSentences": [
+        {
+          "sentence": "He loves to play football with his friends.",
+          "gujaratiTranslation": "તેને તેના મિત્રો સાથે ફૂટબોલ રમવાનું પસંદ છે.",
+          "hindiTranslation": "उसे अपने दोस्तों के साथ फुटबॉल खेलना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Hockey",
+      "gujaratiPronunciation": "હોકી",
+      "hindiPronunciation": "हॉकी",
+      "gujaratiMeaning": "હોકી",
+      "hindiMeaning": "हॉकी",
+      "exampleSentences": [
+        {
+          "sentence": "Hockey is the national sport of India.",
+          "gujaratiTranslation": "હોકી ભારતની રાષ્ટ્રીય રમત છે.",
+          "hindiTranslation": "हॉकी भारत का राष्ट्रीय खेल है।"
+        }
+      ]
+    },
+    {
+      "word": "Tennis",
+      "gujaratiPronunciation": "ટેનિસ",
+      "hindiPronunciation": "टेनिस",
+      "gujaratiMeaning": "ટેનિસ",
+      "hindiMeaning": "टेनिस",
+      "exampleSentences": [
+        {
+          "sentence": "She plays tennis every weekend.",
+          "gujaratiTranslation": "તેણી દર સપ્તાહના અંતે ટેનિસ રમે છે.",
+          "hindiTranslation": "वह हर सप्ताहांत टेनिस खेलती है।"
+        }
+      ]
+    },
+    {
+      "word": "Badminton",
+      "gujaratiPronunciation": "બેડમિન્ટન",
+      "hindiPronunciation": "बैडमिंटन",
+      "gujaratiMeaning": "બેડમિન્ટન",
+      "hindiMeaning": "बैडमिंटन",
+      "exampleSentences": [
+        {
+          "sentence": "They are playing badminton in the park.",
+          "gujaratiTranslation": "તેઓ પાર્કમાં બેડમિન્ટન રમી રહ્યા છે.",
+          "hindiTranslation": "वे पार्क में बैडमिंटन खेल रहे हैं।"
+        }
+      ]
+    }
+  ]
+}

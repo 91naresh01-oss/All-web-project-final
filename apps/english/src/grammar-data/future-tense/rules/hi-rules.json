@@ -1,0 +1,531 @@
+{
+    "id": "future-tense-hi",
+    "title": "Future Tense (भविष्य काल)",
+    "description": "Comprehensive guide to all forms of Future Tense with detailed rules, examples, and exceptions.",
+    "content": [
+        {
+            "type": "section",
+            "title": "1. Simple Future Tense (सामान्य भविष्य काल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions that will happen in the future.<br>भविष्य में होने वाली क्रियाओं, भविष्यवाणियों या वादों को दर्शाने के लिए उपयोग किया जाता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण"
+                        ],
+                        "rows": [
+                            [
+                                "सकारात्मक (+)",
+                                "Subject + will/shall + V1 + Object",
+                                "I **will write** a letter."
+                            ],
+                            [
+                                "नकारात्मक (-)",
+                                "Subject + will/shall + not + V1 + Object",
+                                "I **will not write** a letter."
+                            ],
+                            [
+                                "प्रश्नवाचक (?)",
+                                "Will/Shall + Subject + V1 + Object?",
+                                "**Will** you **write** a letter?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "section",
+                    "title": "Will vs Shall Rules",
+                    "content": [
+                        {
+                            "type": "note",
+                            "content": "<b>Modern English Note:</b><br>आजकल ज्यादातर सभी कर्ताओं (I, We, You, He, She, It, They) के साथ **'Will'** का प्रयोग होता है। 'Shall' का उपयोग अब मुख्य रूप से प्रश्नवाचक वाक्यों में सलाह या अनुमति (Shall I...?, Shall we...?) के लिए होता है।"
+                        },
+                        {
+                            "type": "table",
+                            "content": {
+                                "title": "Traditional Rule (पुराना नियम)",
+                                "headers": [
+                                    "Subject (कर्ता)",
+                                    "Helping Verb"
+                                ],
+                                "rows": [
+                                    [
+                                        "I, We",
+                                        "Shall"
+                                    ],
+                                    [
+                                        "You, He, She, It, They",
+                                        "Will"
+                                    ]
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words (पहचान वाले शब्द)",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "Tomorrow, Next week/month/year/Sunday, Soon, Shortly, In the future, Later."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. I will call you tomorrow.",
+                            "translation": "(मैं तुम्हें कल फोन करूंगा।)"
+                        },
+                        {
+                            "text": "2. She will help us.",
+                            "translation": "(वह हमारी मदद करेगी।)"
+                        },
+                        {
+                            "text": "3. They will not come today.",
+                            "translation": "(वे आज नहीं आएंगे।)"
+                        },
+                        {
+                            "text": "4. Will you marry me?",
+                            "translation": "(क्या तुम मुझसे शादी करोगी?)"
+                        },
+                        {
+                            "text": "5. We shall overcome someday.",
+                            "translation": "(हम किसी दिन जरूर सफल होंगे।)"
+                        },
+                        {
+                            "text": "6. It will rain tonight.",
+                            "translation": "(आज रात बारिश होगी।)"
+                        },
+                        {
+                            "text": "7. The train will arrive shortly.",
+                            "translation": "(ट्रेन थोड़ी देर में आएगी।)"
+                        },
+                        {
+                            "text": "8. He will pass the exam.",
+                            "translation": "(वह परीक्षा पास कर लेगा।)"
+                        },
+                        {
+                            "text": "9. I won't (will not) tell anyone.",
+                            "translation": "(मैं किसी को नहीं बताऊंगा।)"
+                        },
+                        {
+                            "text": "10. Shall I open the window?",
+                            "translation": "(क्या मैं खिड़की खोल दूं?)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2. Future Continuous Tense (निरंतर भविष्य काल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions that will be in progress at a specific time in the future.<br>भविष्य में किसी विशेष समय पर कोई क्रिया चल रही होगी, यह दर्शाने के लिए उपयोग किया जाता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण"
+                        ],
+                        "rows": [
+                            [
+                                "सकारात्मक (+)",
+                                "Sub + will be + V-ing",
+                                "She **will be sleeping**."
+                            ],
+                            [
+                                "नकारात्मक (-)",
+                                "Sub + will not be + V-ing",
+                                "She **will not be sleeping**."
+                            ],
+                            [
+                                "प्रश्नवाचक (?)",
+                                "Will + Sub + be + V-ing?",
+                                "**Will** she **be sleeping**?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "At this time tomorrow, At 5 PM tomorrow, Next week at this time."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. I will be waiting for you.",
+                            "translation": "(मैं तुम्हारा इंतजार कर रहा हूँगा।)"
+                        },
+                        {
+                            "text": "2. At this time tomorrow, we will be flying to London.",
+                            "translation": "(कल इस समय, हम लंदन के लिए उड़ान भर रहे होंगे।)"
+                        },
+                        {
+                            "text": "3. She will be cooking when you reach home.",
+                            "translation": "(जब आप घर पहुंचेंगे, तो वह खाना बना रही होगी।)"
+                        },
+                        {
+                            "text": "4. They will not be playing cricket.",
+                            "translation": "(वे क्रिकेट नहीं खेल रहे होंगे।)"
+                        },
+                        {
+                            "text": "5. Will it be raining tomorrow?",
+                            "translation": "(क्या कल बारिश हो रही होगी?)"
+                        },
+                        {
+                            "text": "6. He will be sleeping now.",
+                            "translation": "(वह अब सो रहा होगा - अनुमान।)"
+                        },
+                        {
+                            "text": "7. We will be watching a movie tonight.",
+                            "translation": "(हम आज रात फिल्म देख रहे होंगे।)"
+                        },
+                        {
+                            "text": "8. Who will be coming to the party?",
+                            "translation": "(पार्टी में कौन आ रहा होगा?)"
+                        },
+                        {
+                            "text": "9. Don't call him, he will be working.",
+                            "translation": "(उसे फोन मत करो, वह काम कर रहा होगा।)"
+                        },
+                        {
+                            "text": "10. I will be studying all day tomorrow.",
+                            "translation": "(मैं कल पूरा दिन पढ़ाई कर रहा हूँगा।)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3. Future Perfect Tense (पूर्ण भविष्य काल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions that will be completed by a certain time in the future.<br>भविष्य में किसी निश्चित समय तक कोई क्रिया पूरी हो चुकी होगी।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण"
+                        ],
+                        "rows": [
+                            [
+                                "सकारात्मक (+)",
+                                "Sub + will have + V3",
+                                "I **will have finished**."
+                            ],
+                            [
+                                "नकारात्मक (-)",
+                                "Sub + will not have + V3",
+                                "I **will not have finished**."
+                            ],
+                            [
+                                "प्रश्नवाचक (?)",
+                                "Will + Sub + have + V3?",
+                                "**Will** you **have finished**?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>'By' Rule:</b><br>इस काल में समय के साथ आमतौर पर **'By'** का प्रयोग होता है। जैसे By tomorrow, By next year (अगले साल तक)।"
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "By tomorrow, By next week/month/year, By the end of this month, Before."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. I will have finished my work by 5 PM.",
+                            "translation": "(मैं शाम 5 बजे तक अपना काम पूरा कर लूंगा।)"
+                        },
+                        {
+                            "text": "2. She will have reached Mumbai by now.",
+                            "translation": "(वह अब तक मुंबई पहुंच चुकी होगी।)"
+                        },
+                        {
+                            "text": "3. India will have become a superpower by 2030.",
+                            "translation": "(भारत 2030 तक महाशक्ति बन चुका होगा।)"
+                        },
+                        {
+                            "text": "4. They will have left before you reach.",
+                            "translation": "(आपके पहुंचने से पहले वे निकल चुके होंगे।)"
+                        },
+                        {
+                            "text": "5. Will you have completed the project by Monday?",
+                            "translation": "(क्या आपने सोमवार तक प्रोजेक्ट पूरा कर लिया होगा?)"
+                        },
+                        {
+                            "text": "6. The train will have arrived by then.",
+                            "translation": "(तब तक ट्रेन आ चुकी होगी।)"
+                        },
+                        {
+                            "text": "7. We will not have eaten dinner by 8 PM.",
+                            "translation": "(हम रात 8 बजे तक खाना नहीं खा चुके होंगे।)"
+                        },
+                        {
+                            "text": "8. He will have forgotten everything.",
+                            "translation": "(वह सब कुछ भूल चुका होगा।)"
+                        },
+                        {
+                            "text": "9. By the end of this year, I will have saved 1 Lakh rupees.",
+                            "translation": "(इस साल के अंत तक, मैंने 1 लाख रुपये बचा लिए होंगे।)"
+                        },
+                        {
+                            "text": "10. Will the shops have closed by 10 PM?",
+                            "translation": "(क्या रात 10 बजे तक दुकानें बंद हो चुकी होंगी?)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4. Future Perfect Continuous Tense (पूर्ण निरंतर भविष्य काल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions that will continue up until a point in the future.<br>भविष्य में किसी समय से कोई क्रिया चल रही होगी (बहुत कम उपयोग होता है)।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण"
+                        ],
+                        "rows": [
+                            [
+                                "सकारात्मक (+)",
+                                "Sub + will have been + V-ing",
+                                "It **will have been raining**."
+                            ],
+                            [
+                                "नकारात्मक (-)",
+                                "Sub + will not have been + V-ing",
+                                "It **will not have been raining**."
+                            ],
+                            [
+                                "प्रश्नवाचक (?)",
+                                "Will + Sub + have been + V-ing?",
+                                "**Will** it **have been raining**?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "By... for... (e.g., By next year... for 10 years)."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. By next year, I will have been working here for 5 years.",
+                            "translation": "(अगले साल तक, मैं यहाँ 5 साल से काम कर रहा हूँगा।)"
+                        },
+                        {
+                            "text": "2. In 2025, we will have been living in this house for 10 years.",
+                            "translation": "(2025 में, हम इस घर में 10 साल से रह रहे होंगे।)"
+                        },
+                        {
+                            "text": "3. She will have been teaching for 20 years by the time she retires.",
+                            "translation": "(जब वह सेवानिवृत्त होंगी, तब तक वह 20 साल से पढ़ा रही होंगी।)"
+                        },
+                        {
+                            "text": "4. Will you have been waiting for long?",
+                            "translation": "(क्या आप लंबे समय से इंतजार कर रहे होंगे?)"
+                        },
+                        {
+                            "text": "5. By 5 PM, they will have been playing cricket for 3 hours.",
+                            "translation": "(शाम 5 बजे तक, वे 3 घंटे से क्रिकेट खेल रहे होंगे।)"
+                        },
+                        {
+                            "text": "6. He will have been driving all night.",
+                            "translation": "(वह पूरी रात गाड़ी चला रहा होगा।)"
+                        },
+                        {
+                            "text": "7. By the time you arrive, I will have been sleeping.",
+                            "translation": "(जब आप पहुंचेंगे, तब तक मैं सो रहा हूँगा।)"
+                        },
+                        {
+                            "text": "8. We will have been studying English for a month by next week.",
+                            "translation": "(अगले हफ्ते तक, हम एक महीने से अंग्रेजी सीख रहे होंगे।)"
+                        },
+                        {
+                            "text": "9. My father will have been working in this bank for 25 years tomorrow.",
+                            "translation": "(मेरे पिता कल इस बैंक में 25 साल से काम कर रहे होंगे।)"
+                        },
+                        {
+                            "text": "10. Will it have been raining for a week?",
+                            "translation": "(क्या एक हफ्ते से बारिश हो रही होगी?)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary_table": {
+        "title": "Future Tense Summary (भविष्य काल सारांश)",
+        "headers": [
+            "Tense (काल)",
+            "When Used (कब प्रयोग करें?)",
+            "Key Words (शब्द)",
+            "Example (उदाहरण)"
+        ],
+        "rows": [
+            {
+                "tense_name": "Simple Future (सामान्य भविष्य काल)",
+                "usage": "भविष्य में होने वाली क्रियाओं को दर्शाने के लिए।",
+                "keywords": "Tomorrow, Next week, Soon",
+                "example": "I will write a letter. (मैं पत्र लिखूंगा।)"
+            },
+            {
+                "tense_name": "Future Continuous (निरंतर भविष्य काल)",
+                "usage": "भविष्य में किसी समय क्रिया चल रही होगी।",
+                "keywords": "At this time tomorrow",
+                "example": "I will be writing. (मैं लिख रहा हूँगा।)"
+            },
+            {
+                "tense_name": "Future Perfect (पूर्ण भविष्य काल)",
+                "usage": "भविष्य में किसी निश्चित समय तक क्रिया पूरी हो चुकी होगी।",
+                "keywords": "By tomorrow, By next year",
+                "example": "I will have written. (मैंने लिख लिया होगा।)"
+            },
+            {
+                "tense_name": "Future Perfect Continuous (पूर्ण निरंतर भविष्य काल)",
+                "usage": "भविष्य में किसी समय से क्रिया चल रही होगी (कम उपयोग होता है)।",
+                "keywords": "By... for...",
+                "example": "I will have been writing. (मैं लिखता आ रहा हूँगा।)"
+            }
+        ]
+    },
+    "confusion_section": {
+        "title": "Common Confusions (सामान्य भ्रम)",
+        "items": [
+            {
+                "title": "Simple Future vs Present Continuous (Future Plan)",
+                "comparison": [
+                    {
+                        "tense": "Simple Future",
+                        "note": "तत्काल निर्णय या भविष्यवाणी के लिए। (Not Planned)",
+                        "example": "I think it will rain. (मुझे लगता है बारिश होगी)"
+                    },
+                    {
+                        "tense": "Present Continuous",
+                        "note": "पहले से तय योजना के लिए। (Planned)",
+                        "example": "I am meeting him tomorrow. (मैं कल उससे मिल रहा हूँ - तय है)"
+                    }
+                ],
+                "extra_examples": [
+                    {
+                        "sentence": "I will call you later. (मैं तुम्हें बाद में फोन करूँगा)",
+                        "explanation": "Simple Future: Promise or Instant decision."
+                    },
+                    {
+                        "sentence": "We are flying to Paris next week. (हम अगले हफ्ते पेरिस जा रहे हैं)",
+                        "explanation": "Present Continuous: Fixed arrangement (Tickets booked)."
+                    },
+                    {
+                        "sentence": "I think India will win. (मुझे लगता है भारत जीतेगा)",
+                        "explanation": "Simple Future: Prediction/Opinion."
+                    },
+                    {
+                        "sentence": "What are you doing tonight? (आज रात तुम क्या कर रहे हो?)",
+                        "explanation": "Present Continuous: Asking about plan."
+                    },
+                    {
+                        "sentence": "Wait, I will help you. (रुको, मैं तुम्हारी मदद करूँगा)",
+                        "explanation": "Simple Future: Instant decision at speaking time."
+                    }
+                ]
+            },
+            {
+                "title": "Future Perfect vs Future Continuous",
+                "comparison": [
+                    {
+                        "tense": "Future Perfect",
+                        "note": "क्रिया भविष्य में **पूरी** हो चुकी होगी।",
+                        "example": "I will have finished by 5 PM. (मैंने 5 बजे तक पूरा कर लिया होगा)"
+                    },
+                    {
+                        "tense": "Future Continuous",
+                        "note": "क्रिया भविष्य में **चल** रही होगी।",
+                        "example": "I will be working at 5 PM. (मैं 5 बजे काम कर रहा हूँगा)"
+                    }
+                ],
+                "extra_examples": [
+                    {
+                        "sentence": "Don't call at 8, I will be eating. (8 बजे फोन मत करना, मैं खाना खा रहा हूँगा)",
+                        "explanation": "Future Continuous: Action in progress at specific time."
+                    },
+                    {
+                        "sentence": "By 8 PM, I will have eaten. (8 बजे तक मैं खाना खा चुका हूँगा)",
+                        "explanation": "Future Perfect: Action finished before specific time."
+                    },
+                    {
+                        "sentence": "This time next year, I will be living in London. (अगले साल इस समय मैं लंदन में रह रहा हूँगा)",
+                        "explanation": "Future Continuous: Ongoing situation."
+                    },
+                    {
+                        "sentence": "By next year, I will have bought a car. (अगले साल तक मैंने कार खरीद ली होगी)",
+                        "explanation": "Future Perfect: Completed achievement."
+                    },
+                    {
+                        "sentence": "She will be sleeping when you reach. (जब तुम पहुँचोगे तब वह सो रही होगी)",
+                        "explanation": "Future Continuous: Action in progress."
+                    }
+                ]
+            }
+        ]
+    }
+}

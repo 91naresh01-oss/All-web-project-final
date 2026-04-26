@@ -1,0 +1,76 @@
+{
+  "id": "level-1",
+  "title": "Measurements 1",
+  "words": [
+    {
+      "word": "Height",
+      "gujaratiPronunciation": "હાઇટ",
+      "hindiPronunciation": "हाइट",
+      "gujaratiMeaning": "ઊંચાઈ",
+      "hindiMeaning": "ऊंचाई",
+      "exampleSentences": [
+        {
+          "sentence": "What is the height of this building?",
+          "gujaratiTranslation": "આ ઇમારતની ઊંચાઈ કેટલી છે?",
+          "hindiTranslation": "इस इमारत की ऊंचाई कितनी है?"
+        }
+      ]
+    },
+    {
+      "word": "Length",
+      "gujaratiPronunciation": "લેન્થ",
+      "hindiPronunciation": "लेंथ",
+      "gujaratiMeaning": "લંબાઈ",
+      "hindiMeaning": "लंबाई",
+      "exampleSentences": [
+        {
+          "sentence": "The length of the river is 200 km.",
+          "gujaratiTranslation": "નદીની લંબાઈ 200 કિમી છે.",
+          "hindiTranslation": "नदी की लंबाई 200 किमी है।"
+        }
+      ]
+    },
+    {
+      "word": "Width",
+      "gujaratiPronunciation": "વિડ્થ",
+      "hindiPronunciation": "विड्थ",
+      "gujaratiMeaning": "પહોળાઈ",
+      "hindiMeaning": "चौड़ाई",
+      "exampleSentences": [
+        {
+          "sentence": "The width of the road is 10 meters.",
+          "gujaratiTranslation": "રસ્તાની પહોળાઈ 10 મીટર છે.",
+          "hindiTranslation": "सड़क की चौड़ाई 10 मीटर है।"
+        }
+      ]
+    },
+    {
+      "word": "Depth",
+      "gujaratiPronunciation": "ડેપ્થ",
+      "hindiPronunciation": "डेप्थ",
+      "gujaratiMeaning": "ઊંડાઈ",
+      "hindiMeaning": "गहराई",
+      "exampleSentences": [
+        {
+          "sentence": "The depth of the ocean is amazing.",
+          "gujaratiTranslation": "સમુદ્રની ઊંડાઈ અદ્ભુત છે.",
+          "hindiTranslation": "समुद्र की गहराई अद्भुत है।"
+        }
+      ]
+    },
+    {
+      "word": "Size",
+      "gujaratiPronunciation": "સાઇઝ",
+      "hindiPronunciation": "साइज़",
+      "gujaratiMeaning": "કદ",
+      "hindiMeaning": "आकार",
+      "exampleSentences": [
+        {
+          "sentence": "What size of shirt do you wear?",
+          "gujaratiTranslation": "તમે કયા કદનો શર્ટ પહેરો છો?",
+          "hindiTranslation": "आप किस साइज़ की शर्ट पहनते हैं?"
+        }
+      ]
+    }
+  ]
+}

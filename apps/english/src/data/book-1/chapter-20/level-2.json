@@ -1,0 +1,11 @@
+{
+    "id": "level-2",
+    "title": "Accessories & Footwear",
+    "words": [
+        { "word": "Socks", "icon": "🧦", "gujaratiMeaning": "મોજાં", "hindiMeaning": "मोज़े", "gujaratiPronunciation": "સૉક્સ", "hindiPronunciation": "सॉक्स" },
+        { "word": "Shoes", "icon": "👟", "gujaratiMeaning": "બૂટ", "hindiMeaning": "जूते", "gujaratiPronunciation": "શૂઝ", "hindiPronunciation": "शूज" },
+        { "word": "Cap", "icon": "🧢", "gujaratiMeaning": "ટોપી", "hindiMeaning": "टोपी", "gujaratiPronunciation": "કેપ", "hindiPronunciation": "कैप" },
+        { "word": "Hat", "icon": "👒", "gujaratiMeaning": "હેટ", "hindiMeaning": "हैट", "gujaratiPronunciation": "હેટ", "hindiPronunciation": "हैट" },
+        { "word": "Coat", "icon": "🧥", "gujaratiMeaning": "કોટ", "hindiMeaning": "कोट", "gujaratiPronunciation": "કોટ", "hindiPronunciation": "कोट" }
+    ]
+}

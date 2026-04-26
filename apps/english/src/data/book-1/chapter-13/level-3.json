@@ -1,0 +1,11 @@
+{
+    "id": "level-3",
+    "title": "Flowers 3",
+    "words": [
+        { "word": "Carnation", "icon": "💐", "gujaratiPronunciation": "કાર્નેશન", "hindiPronunciation": "कार्नेशन", "gujaratiMeaning": "કાર્નેશન", "hindiMeaning": "कार्नेशन" },
+        { "word": "Gladiolus", "icon": "🌷", "gujaratiPronunciation": "ગ્લેડીઓલસ", "hindiPronunciation": "ग्लेडियोलस", "gujaratiMeaning": "ગ્લેડીઓલસ", "hindiMeaning": "ग्लेडियोलस" },
+        { "word": "Magnolia", "icon": "🌸", "gujaratiPronunciation": "મેગ્નોલિયા", "hindiPronunciation": "मैग्नोलिया", "gujaratiMeaning": "મેગ્નોલિયા", "hindiMeaning": "मैग्नोलिया" },
+        { "word": "Peony", "icon": "🌼", "gujaratiPronunciation": "પીની", "hindiPronunciation": "पिओनी", "gujaratiMeaning": "પીની", "hindiMeaning": "पिओनी" },
+        { "word": "Daffodil", "icon": "💛", "gujaratiPronunciation": "ડેફોડિલ", "hindiPronunciation": "डैफ़ोडिल", "gujaratiMeaning": "ડેફોડિલ", "hindiMeaning": "डैफ़ोडिल" }
+    ]
+}

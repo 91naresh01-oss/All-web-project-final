@@ -1,0 +1,166 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Roam",
+      "gujaratiPronunciation": "રોમ",
+      "hindiPronunciation": "रोम",
+      "gujaratiMeaning": "ભટકવું",
+      "hindiMeaning": "घूमना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Roam", "gujaratiPronunciation": "રોમ", "hindiPronunciation": "रोम", "gujaratiMeaning": "ભટકવું", "hindiMeaning": "घूमना" },
+        "V2 (Past Simple)": { "word": "Roamed", "gujaratiPronunciation": "રોમ્ડ", "hindiPronunciation": "रोम्ड", "gujaratiMeaning": "ભટક્યો", "hindiMeaning": "घूमा" },
+        "V3 (Past Participle)": { "word": "Roamed", "gujaratiPronunciation": "રોમ્ડ", "hindiPronunciation": "रोम्ड", "gujaratiMeaning": "ભટકેલ", "hindiMeaning": "घूमा हुआ" },
+        "V4 (Present Participle)": { "word": "Roaming", "gujaratiPronunciation": "રોમિંગ", "hindiPronunciation": "रोमिंग", "gujaratiMeaning": "ભટકી રહ્યું છે", "hindiMeaning": "घूम रहा है" }
+      },
+      "synonyms": [
+        { "word": "Wander", "gujaratiPronunciation": "વોન્ડર", "hindiPronunciation": "वांडर", "gujaratiMeaning": "રખડવું", "hindiMeaning": "भटकना" },
+        { "word": "Stroll", "gujaratiPronunciation": "સ્ટ્રોલ", "hindiPronunciation": "स्ट्रॉल", "gujaratiMeaning": "ટહેલવું", "hindiMeaning": "टहलना" }
+      ],
+      "antonyms": [
+        { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Room", "gujaratiPronunciation": "રૂમ", "hindiPronunciation": "रूम", "gujaratiMeaning": "ઓરડો", "hindiMeaning": "कमरा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He loves to roam through the city at night.",
+          "gujaratiTranslation": "તેને રાત્રે શહેરમાં ભટકવું ગમે છે.",
+          "hindiTranslation": "उसे रात में शहर में घूमना पसंद है।",
+          "gujaratiPronunciation": "હી લવ્સ ટુ રોમ થ્રુ ધ સિટી એટ નાઇટ.",
+          "hindiPronunciation": "ही लव्स टू रोम थ्रू द सिटी एट नाइट।"
+        }
+      ]
+    },
+    {
+      "word": "Trek",
+      "gujaratiPronunciation": "ટ્રેક",
+      "hindiPronunciation": "ट्रेक",
+      "gujaratiMeaning": "પહાડી પ્રવાસ કરવો",
+      "hindiMeaning": "लंबी पैदल यात्रा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Trek", "gujaratiPronunciation": "ટ્રેક", "hindiPronunciation": "ट्रेक", "gujaratiMeaning": "પહાડી પ્રવાસ કરવો", "hindiMeaning": "लंबी पैदल यात्रा करना" },
+        "V2 (Past Simple)": { "word": "Trekked", "gujaratiPronunciation": "ટ્રેક્ડ", "hindiPronunciation": "ट्रेक्ड", "gujaratiMeaning": "પહાડી પ્રવાસ કર્યો", "hindiMeaning": "लंबी पैदल यात्रा की" },
+        "V3 (Past Participle)": { "word": "Trekked", "gujaratiPronunciation": "ટ્રેક્ડ", "hindiPronunciation": "ट्रेक्ड", "gujaratiMeaning": "પહાડી પ્રવાસ કરેલ", "hindiMeaning": "लंबी पैदल यात्रा की हुई" },
+        "V4 (Present Participle)": { "word": "Trekking", "gujaratiPronunciation": "ટ્રેકિંગ", "hindiPronunciation": "ट्रेकिंग", "gujaratiMeaning": "પહાડી પ્રવાસ કરી રહ્યું છે", "hindiMeaning": "लंबी पैदल यात्रा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Hike", "gujaratiPronunciation": "હાઇક", "hindiPronunciation": "हाइक", "gujaratiMeaning": "પગપાળા પ્રવાસ કરવો", "hindiMeaning": "पैदल यात्रा करना" },
+        { "word": "March", "gujaratiPronunciation": "માર્ચ", "hindiPronunciation": "मार्च", "gujaratiMeaning": "કૂચ કરવી", "hindiMeaning": "कूच करना" }
+      ],
+      "antonyms": [
+        { "word": "Ride", "gujaratiPronunciation": "રાઇડ", "hindiPronunciation": "राइड", "gujaratiMeaning": "સવારી કરવી", "hindiMeaning": "सवारी करना" }
+      ],
+      "confusingWords": [
+        { "word": "Track", "gujaratiPronunciation": "ટ્રેક", "hindiPronunciation": "ट्रैक", "gujaratiMeaning": "માર્ગ", "hindiMeaning": "पथ" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They will trek to the Everest base camp.",
+          "gujaratiTranslation": "તેઓ એવરેસ્ટ બેઝ કેમ્પ સુધી પહાડી પ્રવાસ કરશે.",
+          "hindiTranslation": "वे एवरेस्ट बेस कैंप तक ट्रेक करेंगे।",
+          "gujaratiPronunciation": "ધે વિલ ટ્રેક ટુ ધ એવરેસ્ટ બેઝ કેમ્પ.",
+          "hindiPronunciation": "दे विल ट्रेक टू द एवरेस्ट बेस कैंप।"
+        }
+      ]
+    },
+    {
+      "word": "Detour",
+      "gujaratiPronunciation": "ડિટોર",
+      "hindiPronunciation": "डिटूर",
+      "gujaratiMeaning": "વળાંક લેવો",
+      "hindiMeaning": "चक्कर काटना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Detour", "gujaratiPronunciation": "ડિટોર", "hindiPronunciation": "डिटूर", "gujaratiMeaning": "વળાંક લેવો", "hindiMeaning": "चक्कर काटना" },
+        "V2 (Past Simple)": { "word": "Detoured", "gujaratiPronunciation": "ડિટોર્ડ", "hindiPronunciation": "डिटूर्ड", "gujaratiMeaning": "વળાંક લીધો", "hindiMeaning": "चक्कर काटा" },
+        "V3 (Past Participle)": { "word": "Detoured", "gujaratiPronunciation": "ડિટોર્ડ", "hindiPronunciation": "डिटूर्ड", "gujaratiMeaning": "વળાંક લીધેલ", "hindiMeaning": "चक्कर काटा हुआ" },
+        "V4 (Present Participle)": { "word": "Detouring", "gujaratiPronunciation": "ડિટોરિંગ", "hindiPronunciation": "डिटूरिंग", "gujaratiMeaning": "વળાંક લઈ રહ્યું છે", "hindiMeaning": "चक्कर काट रहा है" }
+      },
+      "synonyms": [
+        { "word": "Divert", "gujaratiPronunciation": "ડાઇવર્ટ", "hindiPronunciation": "डाइवर्ट", "gujaratiMeaning": "માર્ગ બદલવો", "hindiMeaning": "मार्ग बदलना" },
+        { "word": "Deviate", "gujaratiPronunciation": "ડેવિએટ", "hindiPronunciation": "डेविएट", "gujaratiMeaning": "વિચલિત થવું", "hindiMeaning": "विचलित होना" }
+      ],
+      "antonyms": [
+        { "word": "Continue", "gujaratiPronunciation": "કન્ટીન્યુ", "hindiPronunciation": "कंटिन्यू", "gujaratiMeaning": "ચાલુ રાખવું", "hindiMeaning": "जारी रखना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "We had to detour around the construction site.",
+          "gujaratiTranslation": "અમારે બાંધકામ સ્થળની આસપાસ વળાંક લેવો પડ્યો.",
+          "hindiTranslation": "हमें निर्माण स्थल के चारों ओर चक्कर काटना पड़ा।",
+          "gujaratiPronunciation": "વી હેડ ટુ ડિટોર અરાઉન્ડ ધ કન્સ્ટ્રક્શન સાઇટ.",
+          "hindiPronunciation": "वी हैड टू डिटूर अराउंड द कंस्ट्रक्शन साइट।"
+        }
+      ]
+    },
+    {
+      "word": "Embark",
+      "gujaratiPronunciation": "એમ્બાર્ક",
+      "hindiPronunciation": "एम्बार्क",
+      "gujaratiMeaning": "શરૂઆત કરવી",
+      "hindiMeaning": "आरंभ करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Embark", "gujaratiPronunciation": "એમ્બાર્ક", "hindiPronunciation": "एम्बार्क", "gujaratiMeaning": "શરૂઆત કરવી", "hindiMeaning": "आरंभ करना" },
+        "V2 (Past Simple)": { "word": "Embarked", "gujaratiPronunciation": "એમ્બાર્ક્ડ", "hindiPronunciation": "एम्बार्क्ड", "gujaratiMeaning": "શરૂઆત કરી", "hindiMeaning": "आरंभ किया" },
+        "V3 (Past Participle)": { "word": "Embarked", "gujaratiPronunciation": "એમ્બાર્ક્ડ", "hindiPronunciation": "एम्बार्क्ड", "gujaratiMeaning": "શરૂઆત કરેલ", "hindiMeaning": "आरंभ किया हुआ" },
+        "V4 (Present Participle)": { "word": "Embarking", "gujaratiPronunciation": "એમ્બાર્કિંગ", "hindiPronunciation": "एम्बार्किंग", "gujaratiMeaning": "શરૂઆત કરી રહ્યું છે", "hindiMeaning": "आरंभ कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Begin", "gujaratiPronunciation": "બિગિન", "hindiPronunciation": "बिगिन", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+        { "word": "Start", "gujaratiPronunciation": "સ્ટાર્ટ", "hindiPronunciation": "स्टार्ट", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" }
+      ],
+      "antonyms": [
+        { "word": "Disembark", "gujaratiPronunciation": "ડિસેમ્બાર્ક", "hindiPronunciation": "डिसएम्बार्क", "gujaratiMeaning": "ઉતરવું", "hindiMeaning": "उतरना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "She is about to embark on a new career.",
+          "gujaratiTranslation": "તેણી નવી કારકિર્દીની શરૂઆત કરવા જઈ રહી છે.",
+          "hindiTranslation": "वह एक नए करियर की शुरुआत करने वाली है।",
+          "gujaratiPronunciation": "શી ઇઝ અબાઉટ ટુ એમ્બાર્ક ઓન અ ન્યૂ કરિયર.",
+          "hindiPronunciation": "शी इज़ अबाउट टू एम्बार्क ऑन अ न्यू करियर।"
+        }
+      ]
+    },
+    {
+      "word": "Navigate",
+      "gujaratiPronunciation": "નેવિગેટ",
+      "hindiPronunciation": "नेविगेट",
+      "gujaratiMeaning": "માર્ગ શોધવો",
+      "hindiMeaning": "मार्गदर्शन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Navigate", "gujaratiPronunciation": "નેવિગેટ", "hindiPronunciation": "नेविगेट", "gujaratiMeaning": "માર્ગ શોધવો", "hindiMeaning": "मार्गदर्शन करना" },
+        "V2 (Past Simple)": { "word": "Navigated", "gujaratiPronunciation": "નેવિગેટેડ", "hindiPronunciation": "नेविगेटेड", "gujaratiMeaning": "માર્ગ શોધ્યો", "hindiMeaning": "मार्गदर्शन किया" },
+        "V3 (Past Participle)": { "word": "Navigated", "gujaratiPronunciation": "નેવિગેટેડ", "hindiPronunciation": "नेविगेटेड", "gujaratiMeaning": "માર્ગ શોધેલ", "hindiMeaning": "मार्गदर्शन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Navigating", "gujaratiPronunciation": "નેવિગેટિંગ", "hindiPronunciation": "नेविगेटिंग", "gujaratiMeaning": "માર્ગ શોધી રહ્યું છે", "hindiMeaning": "मार्गदर्शन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Steer", "gujaratiPronunciation": "સ્ટીયર", "hindiPronunciation": "स्टीयर", "gujaratiMeaning": "દિશા આપવી", "hindiMeaning": "दिशा देना" },
+        { "word": "Direct", "gujaratiPronunciation": "ડિરેક્ટ", "hindiPronunciation": "डायरेक्ट", "gujaratiMeaning": "માર્ગદર્શન આપવું", "hindiMeaning": "निर्देश देना" }
+      ],
+      "antonyms": [
+        { "word": "Get lost", "gujaratiPronunciation": "ગેટ લોસ્ટ", "hindiPronunciation": "गेट लॉस्ट", "gujaratiMeaning": "ખોવાઈ જવું", "hindiMeaning": "खो जाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "He can navigate through the city using a map.",
+          "gujaratiTranslation": "તે નકશાનો ઉપયોગ કરીને શહેરમાં માર્ગ શોધી શકે છે.",
+          "hindiTranslation": "वह नक्शे का उपयोग करके शहर में नेविगेट कर सकता है।",
+          "gujaratiPronunciation": "હી કેન નેવિગેટ થ્રુ ધ સિટી યુઝિંગ અ મેપ.",
+          "hindiPronunciation": "ही कैन नेविगेट थ्रू द सिटी यूजिंग अ मैप।"
+        }
+      ]
+    }
+  ]
+}

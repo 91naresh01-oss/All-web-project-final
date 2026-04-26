@@ -1,0 +1,76 @@
+{
+  "id": "level-5",
+  "title": "Events and Fun 5",
+  "words": [
+    {
+      "word": "Ceremony",
+      "gujaratiPronunciation": "સેરેમની",
+      "hindiPronunciation": "सेरेमनी",
+      "gujaratiMeaning": "સમારોહ",
+      "hindiMeaning": "समारोह",
+      "exampleSentences": [
+        {
+          "sentence": "The opening ceremony was spectacular.",
+          "gujaratiTranslation": "ઉદઘાટન સમારોહ જોવાલાયક હતો.",
+          "hindiTranslation": "उद्घाटन समारोह शानदार था।"
+        }
+      ]
+    },
+    {
+      "word": "Anniversary",
+      "gujaratiPronunciation": "એનિવર્સરી",
+      "hindiPronunciation": "एनिवर्सरी",
+      "gujaratiMeaning": "વર્ષગાંઠ",
+      "hindiMeaning": "साल dönüm",
+      "exampleSentences": [
+        {
+          "sentence": "They celebrated their 25th wedding anniversary.",
+          "gujaratiTranslation": "તેમણે તેમની 25મી લગ્નની વર્ષગાંઠની ઉજવણી કરી.",
+          "hindiTranslation": "उन्होंने अपनी 25वीं शादी की सालगिरह मनाई।"
+        }
+      ]
+    },
+    {
+      "word": "Carnival",
+      "gujaratiPronunciation": "કાર્નિવલ",
+      "hindiPronunciation": "कार्निवल",
+      "gujaratiMeaning": "કાર્નિવલ",
+      "hindiMeaning": "कार्निवल",
+      "exampleSentences": [
+        {
+          "sentence": "The city holds a carnival every year.",
+          "gujaratiTranslation": "આ શહેરમાં દર વર્ષે કાર્નિવલ યોજાય છે.",
+          "hindiTranslation": "यह शहर हर साल एक कार्निवल आयोजित करता है।"
+        }
+      ]
+    },
+    {
+      "word": "Parade",
+      "gujaratiPronunciation": "પરેડ",
+      "hindiPronunciation": "परेड",
+      "gujaratiMeaning": "પરેડ",
+      "hindiMeaning": "परेड",
+      "exampleSentences": [
+        {
+          "sentence": "We watched the Republic Day parade.",
+          "gujaratiTranslation": "અમે ગણતંત્ર દિવસની પરેડ જોઈ.",
+          "hindiTranslation": "हमने गणतंत्र दिवस की परेड देखी।"
+        }
+      ]
+    },
+    {
+      "word": "Festival",
+      "gujaratiPronunciation": "ફેસ્ટિવલ",
+      "hindiPronunciation": "फेस्टिवल",
+      "gujaratiMeaning": "ઉત્સવ",
+      "hindiMeaning": "उत्सव",
+      "exampleSentences": [
+        {
+          "sentence": "Holi is a festival of colors.",
+          "gujaratiTranslation": "હોળી રંગોનો તહેવાર છે.",
+          "hindiTranslation": "होली रंगों का त्योहार है।"
+        }
+      ]
+    }
+  ]
+}

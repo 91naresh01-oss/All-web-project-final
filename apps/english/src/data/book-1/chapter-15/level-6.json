@@ -1,0 +1,47 @@
+
+{
+  "id": "level-6",
+  "title": "Appliances 1",
+  "words": [
+    {
+      "word": "Washing Machine",
+      "icon": "🧺",
+      "gujaratiPronunciation": "વોશિંગ મશીન",
+      "hindiPronunciation": "वाशिंग मशीन",
+      "gujaratiMeaning": "વોશિંગ મશીન",
+      "hindiMeaning": "वाशिंग मशीन"
+    },
+    {
+      "word": "Vacuum Cleaner",
+      "icon": "🧹",
+      "gujaratiPronunciation": "વેક્યુમ ક્લીનર",
+      "hindiPronunciation": "वैक्यूम क्लीनर",
+      "gujaratiMeaning": "વેક્યુમ ક્લીનર",
+      "hindiMeaning": "वैक्यूम क्लीनर"
+    },
+    {
+      "word": "Air Conditioner",
+      "icon": "❄️",
+      "gujaratiPronunciation": "એર કંડિશનર",
+      "hindiPronunciation": "एयर कंडीशनर",
+      "gujaratiMeaning": "એર કંડિશનર",
+      "hindiMeaning": "एयर कंडीशनर"
+    },
+    {
+      "word": "Heater",
+      "icon": "🔥",
+      "gujaratiPronunciation": "હીટર",
+      "hindiPronunciation": "हीटर",
+      "gujaratiMeaning": "હીટર",
+      "hindiMeaning": "हीटर"
+    },
+    {
+      "word": "Water Filter",
+      "icon": "💧",
+      "gujaratiPronunciation": "વોટર ફિલ્ટર",
+      "hindiPronunciation": "वॉटर फिल्टर",
+      "gujaratiMeaning": "પાણીનું ફિલ્ટર",
+      "hindiMeaning": "पानी का फिल्टर"
+    }
+  ]
+}

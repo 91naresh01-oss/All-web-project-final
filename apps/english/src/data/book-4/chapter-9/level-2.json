@@ -1,0 +1,141 @@
+
+{
+    "id": "level-2",
+    "title": "Level 2",
+    "words": [
+        {
+            "word": "Delay",
+            "gujaratiPronunciation": "ડિલે",
+            "hindiPronunciation": "डिले",
+            "gujaratiMeaning": "વિલંબ કરવો",
+            "hindiMeaning": "देर करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Delay", "gujaratiPronunciation": "ડિલે", "hindiPronunciation": "डिले", "gujaratiMeaning": "વિલંબ કરવો", "hindiMeaning": "देर करना" },
+                "V2 (Past)": { "word": "Delayed", "gujaratiPronunciation": "ડિલેડ", "hindiPronunciation": "डिलेड", "gujaratiMeaning": "વિલંબ કર્યો", "hindiMeaning": "देर की" },
+                "V3 (Past Participle)": { "word": "Delayed", "gujaratiPronunciation": "ડિલેડ", "hindiPronunciation": "डिलेड", "gujaratiMeaning": "વિલંબ કરેલો", "hindiMeaning": "देर की हुई" },
+                "V4 (Present Participle)": { "word": "Delaying", "gujaratiPronunciation": "ડિલેઇંગ", "hindiPronunciation": "डिलेइंग", "gujaratiMeaning": "વિલંબ કરી રહ્યું છે", "hindiMeaning": "देर कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Postpone", "gujaratiPronunciation": "પોસ્ટપોન", "hindiPronunciation": "पोस्टपोन", "gujaratiMeaning": "મુલ્તવી રાખવું", "hindiMeaning": "स्थगित करना" },
+                { "word": "Hold up", "gujaratiPronunciation": "હોલ્ડ અપ", "hindiPronunciation": "होल्ड अप", "gujaratiMeaning": "રોકી રાખવું", "hindiMeaning": "रोक रखना" }
+            ],
+            "antonyms": [
+                { "word": "Expedite", "gujaratiPronunciation": "એક્સપિડાઇટ", "hindiPronunciation": "एक्सपिडाइट", "gujaratiMeaning": "ઝડપી બનાવવું", "hindiMeaning": "तेजी लाना" },
+                { "word": "Hasten", "gujaratiPronunciation": "હેસન", "hindiPronunciation": "हेसन", "gujaratiMeaning": "ઉતાવળ કરવી", "hindiMeaning": "जल्दी करना" }
+            ],
+            "confusingWords": [
+                { "word": "Daily", "gujaratiPronunciation": "ડેઇલી", "hindiPronunciation": "डेली", "gujaratiMeaning": "દૈનિક", "hindiMeaning": "दैनिक" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The flight was delayed due to bad weather.", "gujaratiTranslation": "ખરાબ હવામાનને કારણે ફ્લાઇટમાં વિલંબ થયો હતો.", "hindiTranslation": "खराब मौसम के कारण उड़ान में देरी हुई।", "gujaratiPronunciation": "ધ ફ્લાઇટ વોઝ ડિલેડ ડ્યુ ટુ બેડ વેધર.", "hindiPronunciation": "द फ्लाइट वॉज़ डिलेड ड्यू टू बैड वेदर।" }
+            ]
+        },
+        {
+            "word": "Extend",
+            "gujaratiPronunciation": "એક્સટેન્ડ",
+            "hindiPronunciation": "एक्सटेंड",
+            "gujaratiMeaning": "વિસ્તારવું, લંબાવવું",
+            "hindiMeaning": "बढ़ाना, लंबा करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Extend", "gujaratiPronunciation": "એક્સટેન્ડ", "hindiPronunciation": "एक्सटेंड", "gujaratiMeaning": "લંબાવવું", "hindiMeaning": "बढ़ाना" },
+                "V2 (Past)": { "word": "Extended", "gujaratiPronunciation": "એક્સટેન્ડેડ", "hindiPronunciation": "एक्सटेंडेड", "gujaratiMeaning": "લંબાવ્યું", "hindiMeaning": "बढ़ाया" },
+                "V3 (Past Participle)": { "word": "Extended", "gujaratiPronunciation": "એક્સટેન્ડેડ", "hindiPronunciation": "एक्सटेंडेड", "gujaratiMeaning": "લંબાવેલું", "hindiMeaning": "बढ़ाया हुआ" },
+                "V4 (Present Participle)": { "word": "Extending", "gujaratiPronunciation": "એક્સટેન્ડિંગ", "hindiPronunciation": "एक्सटेंडिंग", "gujaratiMeaning": "લંબાવી રહ્યું છે", "hindiMeaning": "बढ़ा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Prolong", "gujaratiPronunciation": "પ્રોલોંગ", "hindiPronunciation": "प्रोलॉन्ग", "gujaratiMeaning": "લંબાવવું", "hindiMeaning": "लंबा करना" },
+                { "word": "Lengthen", "gujaratiPronunciation": "લેન્થન", "hindiPronunciation": "लेंग्थेन", "gujaratiMeaning": "લાંબુ કરવું", "hindiMeaning": "लंबा करना" }
+            ],
+            "antonyms": [
+                { "word": "Shorten", "gujaratiPronunciation": "શોર્ટન", "hindiPronunciation": "शॉर्टेन", "gujaratiMeaning": "ટૂંકું કરવું", "hindiMeaning": "छोटा करना" },
+                { "word": "Curtail", "gujaratiPronunciation": "કર્ટેલ", "hindiPronunciation": "कर्टेल", "gujaratiMeaning": "ઘટાડવું", "hindiMeaning": "कम करना" }
+            ],
+            "confusingWords": [
+                { "word": "Extent", "gujaratiPronunciation": "એક્સટેન્ટ", "hindiPronunciation": "एक्सटेंट", "gujaratiMeaning": "હદ, વિસ્તાર", "hindiMeaning": "सीमा, विस्तार" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Can you extend the deadline for the project?", "gujaratiTranslation": "શું તમે પ્રોજેક્ટ માટેની સમયમર્યાદા લંબાવી શકો છો?", "hindiTranslation": "क्या आप परियोजना के लिए समय सीमा बढ़ा सकते हैं?", "gujaratiPronunciation": "કેન યુ એક્સટેન્ડ ધ ડેડલાઇન ફોર ધ પ્રોજેક્ટ?", "hindiPronunciation": "कैन यू एक्सटेंड द डेडलाइन फॉर द प्रोजेक्ट?" }
+            ]
+        },
+        {
+            "word": "Sequence",
+            "gujaratiPronunciation": "સિક્વન્સ",
+            "hindiPronunciation": "सीक्वेंस",
+            "gujaratiMeaning": "ક્રમમાં ગોઠવવું",
+            "hindiMeaning": "क्रम में लगाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Sequence", "gujaratiPronunciation": "સિક્વન્સ", "hindiPronunciation": "सीक्वेंस", "gujaratiMeaning": "ક્રમમાં ગોઠવવું", "hindiMeaning": "क्रम में लगाना" },
+                "V2 (Past)": { "word": "Sequenced", "gujaratiPronunciation": "સિક્વન્સડ", "hindiPronunciation": "सीक्वेंसड", "gujaratiMeaning": "ક્રમમાં ગોઠવ્યું", "hindiMeaning": "क्रम में लगाया" },
+                "V3 (Past Participle)": { "word": "Sequenced", "gujaratiPronunciation": "સિક્વન્સડ", "hindiPronunciation": "सीक्वेंसड", "gujaratiMeaning": "ક્રમમાં ગોઠવેલું", "hindiMeaning": "क्रम में लगाया हुआ" },
+                "V4 (Present Participle)": { "word": "Sequencing", "gujaratiPronunciation": "સિક્વન્સિંગ", "hindiPronunciation": "सीक्वेंसिंग", "gujaratiMeaning": "ક્રમમાં ગોઠવી રહ્યું છે", "hindiMeaning": "क्रम में लगा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Order", "gujaratiPronunciation": "ઓર્ડર", "hindiPronunciation": "ऑर्डर", "gujaratiMeaning": "ક્રમમાં મૂકવું", "hindiMeaning": "क्रम में रखना" },
+                { "word": "Arrange", "gujaratiPronunciation": "એરેન્જ", "hindiPronunciation": "अरेंज", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "व्यवस्थित करना" }
+            ],
+            "antonyms": [
+                { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઈઝ", "hindiPronunciation": "डिसऑर्गेनाइज़", "gujaratiMeaning": "અસ્તવ્યસ્ત કરવું", "hindiMeaning": "अव्यवस्थित करना" },
+                { "word": "Scramble", "gujaratiPronunciation": "સ્ક્રેમ્બલ", "hindiPronunciation": "स्क्रैम्बल", "gujaratiMeaning": "આડુંઅવળું કરવું", "hindiMeaning": "उलट-पुलट करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The tasks must be sequenced correctly.", "gujaratiTranslation": "કાર્યોને યોગ્ય ક્રમમાં ગોઠવવા જોઈએ.", "hindiTranslation": "कार्यों को सही क्रम में व्यवस्थित किया जाना चाहिए।", "gujaratiPronunciation": "ધ ટાસ્ક્સ મસ્ટ બી સિક્વન્સડ કરેક્ટલી.", "hindiPronunciation": "द टास्क्स मस्ट बी सीक्वेंस्ड करेक्टली।" }
+            ]
+        },
+        {
+            "word": "Postpone",
+            "gujaratiPronunciation": "પોસ્ટપોન",
+            "hindiPronunciation": "पोस्टपोन",
+            "gujaratiMeaning": "મુલ્તવી રાખવું",
+            "hindiMeaning": "स्थगित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Postpone", "gujaratiPronunciation": "પોસ્ટપોન", "hindiPronunciation": "पोस्टपोन", "gujaratiMeaning": "મુલ્તવી રાખવું", "hindiMeaning": "स्थगित करना" },
+                "V2 (Past)": { "word": "Postponed", "gujaratiPronunciation": "પોસ્ટપોન્ડ", "hindiPronunciation": "पोस्टपोंड", "gujaratiMeaning": "મુલ્તવી રાખ્યું", "hindiMeaning": "स्थगित किया" },
+                "V3 (Past Participle)": { "word": "Postponed", "gujaratiPronunciation": "પોસ્ટપોન્ડ", "hindiPronunciation": "पोस्टपोंड", "gujaratiMeaning": "મુલ્તવી રાખેલું", "hindiMeaning": "स्थगित किया हुआ" },
+                "V4 (Present Participle)": { "word": "Postponing", "gujaratiPronunciation": "પોસ્ટપોનિંગ", "hindiPronunciation": "पोस्टपोनिंग", "gujaratiMeaning": "મુલ્તવી રાખી રહ્યું છે", "hindiMeaning": "स्थगित कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Delay", "gujaratiPronunciation": "ડિલે", "hindiPronunciation": "डिले", "gujaratiMeaning": "વિલંબ કરવો", "hindiMeaning": "देर करना" },
+                { "word": "Defer", "gujaratiPronunciation": "ડિફર", "hindiPronunciation": "डिफर", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" }
+            ],
+            "antonyms": [
+                { "word": "Advance", "gujaratiPronunciation": "એડવાન્સ", "hindiPronunciation": "एडवांस", "gujaratiMeaning": "આગળ વધારવું", "hindiMeaning": "आगे बढ़ाना" },
+                { "word": "Bring forward", "gujaratiPronunciation": "બ્રિંગ ફોરવર્ડ", "hindiPronunciation": "ब्रिंग फॉरवर्ड", "gujaratiMeaning": "પહેલા કરવું", "hindiMeaning": "पहले करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "We had to postpone the trip until next week.", "gujaratiTranslation": "અમારે આવતા અઠવાડિયા સુધી પ્રવાસ મુલતવી રાખવો પડ્યો.", "hindiTranslation": "हमें अगले सप्ताह तक यात्रा स्थगित करनी पड़ी।", "gujaratiPronunciation": "વી હેડ ટુ પોસ્ટપોન ધ ટ્રીપ અનટિલ નેક્સ્ટ વીક.", "hindiPronunciation": "वी हैड टू पोस्टपोन द ट्रिप अंटिल नेक्स्ट वीक।" }
+            ]
+        },
+        {
+            "word": "Synchronize",
+            "gujaratiPronunciation": "સિંક્રોનાઇઝ",
+            "hindiPronunciation": "सिंक्रोनाइज़",
+            "gujaratiMeaning": "સમન્વય સાધવો",
+            "hindiMeaning": "समकालिक बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Synchronize", "gujaratiPronunciation": "સિંક્રોનાઇઝ", "hindiPronunciation": "सिंक्रोनाइज़", "gujaratiMeaning": "સમન્વય સાધવો", "hindiMeaning": "समकालिक बनाना" },
+                "V2 (Past)": { "word": "Synchronized", "gujaratiPronunciation": "સિંક્રોનાઇઝ્ડ", "hindiPronunciation": "सिंक्रोनाइज़्ड", "gujaratiMeaning": "સમન્વય સાધ્યો", "hindiMeaning": "समकालिक बनाया" },
+                "V3 (Past Participle)": { "word": "Synchronized", "gujaratiPronunciation": "સિંક્રોનાઇઝ્ડ", "hindiPronunciation": "सिंक्रोनाइज़्ड", "gujaratiMeaning": "સમન્વય સાધેલો", "hindiMeaning": "समकालिक बनाया हुआ" },
+                "V4 (Present Participle)": { "word": "Synchronizing", "gujaratiPronunciation": "સિંક્રોનાઇઝિંગ", "hindiPronunciation": "सिंक्रोनाइजिंग", "gujaratiMeaning": "સમન્વય સાધી રહ્યું છે", "hindiMeaning": "समकालिक बना रहा है" }
+            },
+            "synonyms": [
+                { "word": "Coordinate", "gujaratiPronunciation": "કોઓર્ડિનેટ", "hindiPronunciation": "कोऑर्डिनेट", "gujaratiMeaning": "સંકલન કરવું", "hindiMeaning": "समन्वय करना" },
+                { "word": "Align", "gujaratiPronunciation": "અલાઈન", "hindiPronunciation": "अलाइन", "gujaratiMeaning": "એક રેખામાં લાવવું", "hindiMeaning": "संरेखित करना" }
+            ],
+            "antonyms": [
+                { "word": "Desynchronize", "gujaratiPronunciation": "ડિસિંક્રોનાઇઝ", "hindiPronunciation": "डिसिंक्रोनाइज़", "gujaratiMeaning": "અસમન્વય કરવો", "hindiMeaning": "असमकालिक करना" },
+                { "word": "Mismatch", "gujaratiPronunciation": "મિસમેચ", "hindiPronunciation": "मिसमैच", "gujaratiMeaning": "મેળ ન ખાવો", "hindiMeaning": "बेमेल होना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "Let's synchronize our watches.", "gujaratiTranslation": "ચાલો આપણી ઘડિયાળોનો સમન્વય કરીએ.", "hindiTranslation": "चलो अपनी घड़ियों को समकालिक करें।", "gujaratiPronunciation": "લેટ્સ સિંક્રોનાઇઝ અવર વોચીસ.", "hindiPronunciation": "लेट्स सिंक्रोनाइज़ आवर वॉचेस।" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+
+{
+  "id": "level-4",
+  "title": "Strategic Control",
+  "words": [
+    {
+      "word": "Helm",
+      "gujaratiPronunciation": "હેલ્મ",
+      "hindiPronunciation": "हेल्म",
+      "gujaratiMeaning": "સંચાલન કરવું",
+      "hindiMeaning": "संचालन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Helm", "gujaratiPronunciation": "હેલ્મ", "gujaratiMeaning": "સંચાલન કરવું", "hindiMeaning": "संचालन करना" },
+        "V2 (Past)": { "word": "Helmed", "gujaratiPronunciation": "હેલ્મ્ડ", "gujaratiMeaning": "સંચાલન કર્યું", "hindiMeaning": "संचालन किया" },
+        "V3 (Past Participle)": { "word": "Helmed", "gujaratiPronunciation": "હેલ્મ્ડ", "gujaratiMeaning": "સંચાલન કરેલું", "hindiMeaning": "संचालन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Helming", "gujaratiPronunciation": "હેલ્મિંગ", "gujaratiMeaning": "સંચાલન કરી રહ્યું છે", "hindiMeaning": "संचालन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Steer", "gujaratiPronunciation": "સ્ટીયર", "gujaratiMeaning": "માર્ગદર્શન આપવું", "hindiMeaning": "मार्गदर्शन करना" },
+        { "word": "Direct", "gujaratiPronunciation": "ડિરેક્ટ", "gujaratiMeaning": "નિર્દેશન કરવું", "hindiMeaning": "निर्देशन करना" }
+      ],
+      "antonyms": [
+        { "word": "Follow", "gujaratiPronunciation": "ફોલો", "gujaratiMeaning": "અનુસરવું", "hindiMeaning": "अनुसरण करना" },
+        { "word": "Obey", "gujaratiPronunciation": "ઓબે", "gujaratiMeaning": "આજ્ઞા પાળવી", "hindiMeaning": "आज्ञा का पालन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Helmet", "gujaratiPronunciation": "હેલ્મેટ", "gujaratiMeaning": "હેલ્મેટ", "hindiMeaning": "हेलमेट" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She will helm the new marketing department.",
+          "gujaratiTranslation": "તેણી નવા માર્કેટિંગ વિભાગનું સંચાલન કરશે.",
+          "hindiTranslation": "वह नए मार्केटिंग विभाग का संचालन करेंगी।"
+        }
+      ]
+    },
+    {
+      "word": "Fashion",
+      "gujaratiPronunciation": "ફેશન",
+      "hindiPronunciation": "फैशन",
+      "gujaratiMeaning": "બનાવવું/ઘડવું",
+      "hindiMeaning": "बनाना/आकार देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Fashion", "gujaratiPronunciation": "ફેશન", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" },
+        "V2 (Past)": { "word": "Fashioned", "gujaratiPronunciation": "ફેશન્ડ", "gujaratiMeaning": "બનાવ્યું", "hindiMeaning": "बनाया" },
+        "V3 (Past Participle)": { "word": "Fashioned", "gujaratiPronunciation": "ફેશન્ડ", "gujaratiMeaning": "બનાવેલું", "hindiMeaning": "बनाया हुआ" },
+        "V4 (Present Participle)": { "word": "Fashioning", "gujaratiPronunciation": "ફેશનિંગ", "gujaratiMeaning": "બનાવી રહ્યું છે", "hindiMeaning": "बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" },
+        { "word": "Shape", "gujaratiPronunciation": "શેપ", "gujaratiMeaning": "આકાર આપવો", "hindiMeaning": "आकार देना" }
+      ],
+      "antonyms": [
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Demolish", "gujaratiPronunciation": "ડિમોલિશ", "gujaratiMeaning": "તોડી પાડવું", "hindiMeaning": "ध्वस्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Fusion", "gujaratiPronunciation": "ફ્યુઝન", "gujaratiMeaning": "સંગમ", "hindiMeaning": "संलयन" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He fashioned a small boat out of wood.",
+          "gujaratiTranslation": "તેણે લાકડામાંથી એક નાની હોડી બનાવી.",
+          "hindiTranslation": "उसने लकड़ी से एक छोटी नाव बनाई।"
+        }
+      ]
+    },
+    {
+      "word": "Settle",
+      "gujaratiPronunciation": "સેટલ",
+      "hindiPronunciation": "सेटल",
+      "gujaratiMeaning": "સ્થાયી થવું/પતાવટ કરવી",
+      "hindiMeaning": "बसना/समझौता करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Settle", "gujaratiPronunciation": "સેટલ", "gujaratiMeaning": "સ્થાયી થવું", "hindiMeaning": "बसना" },
+        "V2 (Past)": { "word": "Settled", "gujaratiPronunciation": "સેટલ્ડ", "gujaratiMeaning": "સ્થાયી થયા", "hindiMeaning": "बस गया" },
+        "V3 (Past Participle)": { "word": "Settled", "gujaratiPronunciation": "સેટલ્ડ", "gujaratiMeaning": "સ્થાયી થયેલા", "hindiMeaning": "बसा हुआ" },
+        "V4 (Present Participle)": { "word": "Settling", "gujaratiPronunciation": "સેટલિંગ", "gujaratiMeaning": "સ્થાયી થઈ રહ્યું છે", "hindiMeaning": "बस रहा है" }
+      },
+      "synonyms": [
+        { "word": "Establish", "gujaratiPronunciation": "એસ્ટાબ્લિશ", "gujaratiMeaning": "સ્થાપના કરવી", "hindiMeaning": "स्थापित करना" },
+        { "word": "Resolve", "gujaratiPronunciation": "રિઝોલ્વ", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "सुलझाना" }
+      ],
+      "antonyms": [
+        { "word": "Move", "gujaratiPronunciation": "મુવ", "gujaratiMeaning": "ખસવું", "hindiMeaning": "हिलना" },
+        { "word": "Dispute", "gujaratiPronunciation": "ડિસ્પ્યુટ", "gujaratiMeaning": "વિવાદ કરવો", "hindiMeaning": "विवाद करना" }
+      ],
+      "confusingWords": [
+        { "word": "Cattle", "gujaratiPronunciation": "કેટલ", "gujaratiMeaning": "ઢોર", "hindiMeaning": "मवेशी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They decided to settle the argument peacefully.",
+          "gujaratiTranslation": "તેઓએ શાંતિથી વિવાદની પતાવટ કરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "उन्होंने शांतिपूर्वक विवाद निपटाने का फैसला किया।"
+        }
+      ]
+    },
+    {
+      "word": "Systematize",
+      "gujaratiPronunciation": "સિસ્ટમેટાઇઝ",
+      "hindiPronunciation": "सिस्टमेटाइज",
+      "gujaratiMeaning": "વ્યવસ્થિત કરવું",
+      "hindiMeaning": "व्यवस्थित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Systematize", "gujaratiPronunciation": "સિસ્ટમેટાઇઝ", "gujaratiMeaning": "વ્યવસ્થિત કરવું", "hindiMeaning": "व्यवस्थित करना" },
+        "V2 (Past)": { "word": "Systematized", "gujaratiPronunciation": "સિસ્ટમેટાઇઝ્ડ", "gujaratiMeaning": "વ્યવસ્થિત કર્યું", "hindiMeaning": "व्यवस्थित किया" },
+        "V3 (Past Participle)": { "word": "Systematized", "gujaratiPronunciation": "સિસ્ટમેટાઇઝ્ડ", "gujaratiMeaning": "વ્યવસ્થિત કરેલું", "hindiMeaning": "व्यवस्थित किया हुआ" },
+        "V4 (Present Participle)": { "word": "Systematizing", "gujaratiPronunciation": "સિસ્ટમેટાઇઝિંગ", "gujaratiMeaning": "વ્યવસ્થિત કરી રહ્યું છે", "hindiMeaning": "व्यवस्थित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઇઝ", "gujaratiMeaning": "આયોજન કરવું", "hindiMeaning": "संगठित करना" },
+        { "word": "Arrange", "gujaratiPronunciation": "એરેન્જ", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "व्यवस्थित करना" }
+      ],
+      "antonyms": [
+        { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "असंगठित करना" },
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" }
+      ],
+      "confusingWords": [
+        { "word": "Sympathize", "gujaratiPronunciation": "સિમ્પથાઇઝ", "gujaratiMeaning": "સહાનુભૂતિ દર્શાવવી", "hindiMeaning": "सहानुभूति रखना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to systematize our process for better efficiency.",
+          "gujaratiTranslation": "વધુ સારી કાર્યક્ષમતા માટે આપણે આપણી પ્રક્રિયાને વ્યવસ્થિત કરવાની જરૂર છે.",
+          "hindiTranslation": "बेहतर दक्षता के लिए हमें अपनी प्रक्रिया को व्यवस्थित करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Dispatch",
+      "gujaratiPronunciation": "ડિસ્પેચ",
+      "hindiPronunciation": "डिस्पैच",
+      "gujaratiMeaning": "મોકલવું",
+      "hindiMeaning": "भेजना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Dispatch", "gujaratiPronunciation": "ડિસ્પેચ", "gujaratiMeaning": "મોકલવું", "hindiMeaning": "भेजना" },
+        "V2 (Past)": { "word": "Dispatched", "gujaratiPronunciation": "ડિસ્પેચ્ડ", "gujaratiMeaning": "મોકલ્યું", "hindiMeaning": "भेजा" },
+        "V3 (Past Participle)": { "word": "Dispatched", "gujaratiPronunciation": "ડિસ્પેચ્ડ", "gujaratiMeaning": "મોકલેલું", "hindiMeaning": "भेजा हुआ" },
+        "V4 (Present Participle)": { "word": "Dispatching", "gujaratiPronunciation": "ડિસ્પેચિંગ", "gujaratiMeaning": "મોકલી રહ્યું છે", "hindiMeaning": "भेज रहा है" }
+      },
+      "synonyms": [
+        { "word": "Send", "gujaratiPronunciation": "સેન્ડ", "gujaratiMeaning": "મોકલવું", "hindiMeaning": "भेजना" },
+        { "word": "Ship", "gujaratiPronunciation": "શિપ", "gujaratiMeaning": "વહાણ દ્વારા મોકલવું", "hindiMeaning": "भेजना" }
+      ],
+      "antonyms": [
+        { "word": "Receive", "gujaratiPronunciation": "રિસીવ", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" },
+        { "word": "Hold", "gujaratiPronunciation": "હોલ્ડ", "gujaratiMeaning": "પકડી રાખવું", "hindiMeaning": "पकड़ कर रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Mismatch", "gujaratiPronunciation": "મિસમેચ", "gujaratiMeaning": "બેસૂરું", "hindiMeaning": "बेमेल" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The goods will be dispatched tomorrow morning.",
+          "gujaratiTranslation": "માલસામાન આવતીકાલે સવારે મોકલવામાં આવશે.",
+          "hindiTranslation": "माल कल सुबह भेजा जाएगा।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Monetize",
+      "gujaratiPronunciation": "મોનેટાઇઝ",
+      "hindiPronunciation": "मॉनेटाइज़",
+      "gujaratiMeaning": "મુદ્રીકરણ કરવું",
+      "hindiMeaning": "मुद्रीकरण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Monetize", "gujaratiPronunciation": "મોનેટાઇઝ", "hindiPronunciation": "मॉनेटाइज़", "gujaratiMeaning": "મુદ્રીકરણ કરવું", "hindiMeaning": "मुद्रीकरण करना" },
+        "v2": { "word": "Monetized", "gujaratiPronunciation": "મોનેટાઇઝ્ડ", "hindiPronunciation": "मॉनेटाइज़्ड", "gujaratiMeaning": "મુદ્રીકરણ કર્યું", "hindiMeaning": "मुद्रीकरण किया" },
+        "v3": { "word": "Monetized", "gujaratiPronunciation": "મોનેટાઇઝ્ડ", "hindiPronunciation": "मॉनेटाइज़्ड", "gujaratiMeaning": "મુદ્રીકરણ કરેલું", "hindiMeaning": "मुद्रीकरण किया हुआ" },
+        "v4": { "word": "Monetizing", "gujaratiPronunciation": "મોનેટાઇઝિંગ", "hindiPronunciation": "मॉनेटाइज़िंग", "gujaratiMeaning": "મુદ્રીકરણ કરી રહ્યું છે", "hindiMeaning": "मुद्रीकरण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Commercialize", "gujaratiPronunciation": "કમર્શિયલાઇઝ", "hindiPronunciation": "कमर्शियलाइज़", "gujaratiMeaning": "વ્યાપારીકરણ કરવું", "hindiMeaning": "व्यावसायीकरण करना" },
+        { "word": "Profit from", "gujaratiPronunciation": "પ્રોફિટ ફ્રોમ", "hindiPronunciation": "प्रॉफिट फ्रॉम", "gujaratiMeaning": "માંથી નફો મેળવવો", "hindiMeaning": "से लाभ कमाना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The website hopes to monetize its content through advertising.",
+          "gujaratiTranslation": "વેબસાઇટ જાહેરાત દ્વારા તેની સામગ્રીનું મુદ્રીકરણ કરવાની આશા રાખે છે.",
+          "hindiTranslation": "वेबसाइट विज्ञापन के माध्यम से अपनी सामग्री का मुद्रीकरण करने की उम्मीद करती है।",
+          "gujaratiPronunciation": "ધ વેબસાઇટ હોપ્સ ટુ મોનેટાઇઝ ઇટ્સ કન્ટેન્ટ થ્રુ એડવર્ટાઇઝિંગ.",
+          "hindiPronunciation": "द वेबसाइट होप्स टू मॉनेटाइज़ इट्स कंटेंट थ्रू एडवरटाइजिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Default",
+      "gujaratiPronunciation": "ડિફોલ્ટ",
+      "hindiPronunciation": "डिफ़ॉल्ट",
+      "gujaratiMeaning": "ચૂકવણી ન કરવી",
+      "hindiMeaning": "चूक करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Default", "gujaratiPronunciation": "ડિફોલ્ટ", "hindiPronunciation": "डिफ़ॉल्ट", "gujaratiMeaning": "ચૂકવણી ન કરવી", "hindiMeaning": "चूक करना" },
+        "v2": { "word": "Defaulted", "gujaratiPronunciation": "ડિફોલ્ટેડ", "hindiPronunciation": "डिफ़ॉल्टेड", "gujaratiMeaning": "ચૂકવણી ન કરી", "hindiMeaning": "चूक की" },
+        "v3": { "word": "Defaulted", "gujaratiPronunciation": "ડિફોલ્ટેડ", "hindiPronunciation": "डिफ़ॉल्टेड", "gujaratiMeaning": "ચૂકવણી ન કરેલી", "hindiMeaning": "चूक की हुई" },
+        "v4": { "word": "Defaulting", "gujaratiPronunciation": "ડિફોલ્ટિંગ", "hindiPronunciation": "डिफ़ॉल्टिंग", "gujaratiMeaning": "ચૂકવણી કરી રહ્યું નથી", "hindiMeaning": "चूक कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Fail to pay", "gujaratiPronunciation": "ફેઇલ ટુ પે", "hindiPronunciation": "फेल टू पे", "gujaratiMeaning": "ચૂકવવામાં નિષ્ફળ જવું", "hindiMeaning": "भुगतान करने में विफल होना" },
+        { "word": "Renege", "gujaratiPronunciation": "રિનેગ", "hindiPronunciation": "रिनेग", "gujaratiMeaning": "વચનભંગ કરવો", "hindiMeaning": "वादा खिलाफी करना" }
+      ],
+      "antonyms": [
+        { "word": "Pay", "gujaratiPronunciation": "પે", "hindiPronunciation": "पे", "gujaratiMeaning": "ચૂકવવું", "hindiMeaning": "भुगतान करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "If you default on your loan payments, the bank can repossess your car.",
+          "gujaratiTranslation": "જો તમે તમારી લોનની ચૂકવણીમાં નિષ્ફળ જશો, તો બેંક તમારી કાર જપ્ત કરી શકે છે.",
+          "hindiTranslation": "यदि आप अपने ऋण भुगतान में चूक करते हैं, तो बैंक आपकी कार को फिर से अपने कब्जे में ले सकता है।",
+          "gujaratiPronunciation": "ઇફ યુ ડિફોલ્ટ ઓન યોર લોન પેમેન્ટ્સ, ધ બેંક કેન રિપઝેસ યોર કાર.",
+          "hindiPronunciation": "इफ यू डिफॉल्ट ऑन योर लोन पेमेंट्स, द बैंक कैन रिपजे़स योर कार।"
+        }
+      ]
+    },
+    {
+      "word": "Underwrite",
+      "gujaratiPronunciation": "અંડરરાઇટ",
+      "hindiPronunciation": "अंडरराइट",
+      "gujaratiMeaning": "વીમો ઉતારવો",
+      "hindiMeaning": "बीमा करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Underwrite", "gujaratiPronunciation": "અંડરરાઇટ", "hindiPronunciation": "अंडरराइट", "gujaratiMeaning": "વીમો ઉતારવો", "hindiMeaning": "बीमा करना" },
+        "v2": { "word": "Underwrote", "gujaratiPronunciation": "અંડરરોટ", "hindiPronunciation": "अंडररोट", "gujaratiMeaning": "વીમો ઉતાર્યો", "hindiMeaning": "बीमा किया" },
+        "v3": { "word": "Underwritten", "gujaratiPronunciation": "અંડરરિટન", "hindiPronunciation": "अंडररिटन", "gujaratiMeaning": "વીમો ઉતારેલો", "hindiMeaning": "बीमा किया हुआ" },
+        "v4": { "word": "Underwriting", "gujaratiPronunciation": "અંડરરાઇટિંગ", "hindiPronunciation": "अंडरराइटिंग", "gujaratiMeaning": "વીમો ઉતારી રહ્યું છે", "hindiMeaning": "बीमा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Guarantee", "gujaratiPronunciation": "ગેરેન્ટી", "hindiPronunciation": "गारंटी", "gujaratiMeaning": "ખાતરી આપવી", "hindiMeaning": "गारंटी देना" },
+        { "word": "Sponsor", "gujaratiPronunciation": "સ્પોન્સર", "hindiPronunciation": "स्पॉन्सर", "gujaratiMeaning": "પ્રાયોજક બનવું", "hindiMeaning": "प्रायोजित करना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The bank will underwrite the new share issue.",
+          "gujaratiTranslation": "બેંક નવા શેર ઇશ્યૂનો વીમો ઉતારશે.",
+          "hindiTranslation": "बैंक नए शेयर निर्गम का हामीदारी करेगा।",
+          "gujaratiPronunciation": "ધ બેંક વિલ અંડરરાઇટ ધ ન્યૂ શેર ઇશ્યૂ.",
+          "hindiPronunciation": "द बैंक विल अंडरराइट द न्यू शेयर इश्यू।"
+        }
+      ]
+    },
+    {
+      "word": "Disburse",
+      "gujaratiPronunciation": "ડિસ્બર્સ",
+      "hindiPronunciation": "डिस्बर्स",
+      "gujaratiMeaning": "ચૂકવણી કરવી/વિતરણ કરવું",
+      "hindiMeaning": "वितरित करना/भुगतान करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Disburse", "gujaratiPronunciation": "ડિસ્બર્સ", "hindiPronunciation": "डिस्बर्स", "gujaratiMeaning": "ચૂકવણી કરવી", "hindiMeaning": "वितरित करना" },
+        "v2": { "word": "Disbursed", "gujaratiPronunciation": "ડિસ્બર્સ્ડ", "hindiPronunciation": "डिस्बर्स्ड", "gujaratiMeaning": "ચૂકવણી કરી", "hindiMeaning": "वितरित किया" },
+        "v3": { "word": "Disbursed", "gujaratiPronunciation": "ડિસ્બર્સ્ડ", "hindiPronunciation": "डिस्बर्स्ड", "gujaratiMeaning": "ચૂકવણી કરેલી", "hindiMeaning": "वितरित किया हुआ" },
+        "v4": { "word": "Disbursing", "gujaratiPronunciation": "ડિસ્બર્સિંગ", "hindiPronunciation": "डिस्बर्सिंग", "gujaratiMeaning": "ચૂકવણી કરી રહ્યું છે", "hindiMeaning": "वितरित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Pay out", "gujaratiPronunciation": "પે આઉટ", "hindiPronunciation": "पे आउट", "gujaratiMeaning": "ચૂકવી દેવું", "hindiMeaning": "भुगतान करना" },
+        { "word": "Distribute", "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ", "hindiPronunciation": "डिस्ट्रीब्यूट", "gujaratiMeaning": "વહેંચવું", "hindiMeaning": "बांटना" }
+      ],
+      "antonyms": [
+        { "word": "Collect", "gujaratiPronunciation": "કલેક્ટ", "hindiPronunciation": "कलेक्ट", "gujaratiMeaning": "એકત્રિત કરવું", "hindiMeaning": "एकत्र करना" }
+      ],
+      "confusingWords": [
+        { "word": "Disperse", "gujaratiPronunciation": "ડિસ્પર્સ", "hindiPronunciation": "डिस्पर्स", "gujaratiMeaning": "વિખેરવું", "hindiMeaning": "बिखेरना", "difference": "Disburse એટલે ચૂકવણી કરવી, જ્યારે Disperse એટલે વિખેરી નાખવું." }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The funds will be disbursed to the students next week.",
+          "gujaratiTranslation": "આવતા અઠવાડિયે વિદ્યાર્થીઓને ભંડોળનું વિતરણ કરવામાં આવશે.",
+          "hindiTranslation": "धनराशि अगले सप्ताह छात्रों को वितरित की जाएगी।",
+          "gujaratiPronunciation": "ધ ફંડ્સ વિલ બી ડિસ્બર્સ્ડ ટુ ધ સ્ટુડન્ટ્સ નેક્સ્ટ વીક.",
+          "hindiPronunciation": "द फंड्स विल बी डिस्बर्स्ड टू द स्टूडेंट्स नेक्स्ट वीक।"
+        }
+      ]
+    },
+    {
+      "word": "Venture",
+      "gujaratiPronunciation": "વેન્ચર",
+      "hindiPronunciation": "वेंचर",
+      "gujaratiMeaning": "સાહસ કરવું",
+      "hindiMeaning": "साहस करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Venture", "gujaratiPronunciation": "વેન્ચર", "hindiPronunciation": "वेंचर", "gujaratiMeaning": "સાહસ કરવું", "hindiMeaning": "साहस करना" },
+        "v2": { "word": "Ventured", "gujaratiPronunciation": "વેન્ચર્ડ", "hindiPronunciation": "वेंचर्ड", "gujaratiMeaning": "સાહસ કર્યું", "hindiMeaning": "साहस किया" },
+        "v3": { "word": "Ventured", "gujaratiPronunciation": "વેન્ચર્ડ", "hindiPronunciation": "वेंचर्ड", "gujaratiMeaning": "સાહસ કરેલું", "hindiMeaning": "साहस किया हुआ" },
+        "v4": { "word": "Venturing", "gujaratiPronunciation": "વેન્ચરિંગ", "hindiPronunciation": "वेंचरिंग", "gujaratiMeaning": "સાહસ કરી રહ્યું છે", "hindiMeaning": "साहस कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Dare", "gujaratiPronunciation": "ડેર", "hindiPronunciation": "डेयर", "gujaratiMeaning": "હિંમત કરવી", "hindiMeaning": "हिम्मत करना" },
+        { "word": "Undertake", "gujaratiPronunciation": "અંડરટેક", "hindiPronunciation": "अंडरटेक", "gujaratiMeaning": "હાથ ધરવું", "hindiMeaning": "शुरू करना" }
+      ],
+      "antonyms": [
+        { "word": "Abstain", "gujaratiPronunciation": "એબ્સ્ટેન", "hindiPronunciation": "एब्सटेन", "gujaratiMeaning": "દૂર રહેવું", "hindiMeaning": "से बचना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "He ventured into the stock market with a small investment.",
+          "gujaratiTranslation": "તેણે નાના રોકાણ સાથે શેરબજારમાં સાહસ કર્યું.",
+          "hindiTranslation": "उसने एक छोटे से निवेश के साथ शेयर बाजार में कदम रखा।",
+          "gujaratiPronunciation": "હી વેન્ચર્ડ ઇનટુ ધ સ્ટોક માર્કેટ વિથ અ સ્મોલ ઇન્વેસ્ટમેન્ટ.",
+          "hindiPronunciation": "ही वेंचरड इनटू द स्टॉक मार्केट विद अ स्मॉल इन्वेस्टमेंट।"
+        }
+      ]
+    }
+  ]
+}

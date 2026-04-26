@@ -1,0 +1,176 @@
+{
+  "id": "level-1",
+  "title": "Level 1: Basic Changes",
+  "words": [
+    {
+      "word": "Alter",
+      "gujaratiPronunciation": "ઓલ્ટર",
+      "hindiPronunciation": "ऑल्टर",
+      "gujaratiMeaning": "બદલવું",
+      "hindiMeaning": "बदलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Alter", "gujaratiPronunciation": "ઓલ્ટર", "hindiPronunciation": "ऑल्टर", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" },
+        "V2 (Past)": { "word": "Altered", "gujaratiPronunciation": "ઓલ્ટર્ડ", "hindiPronunciation": "ऑल्टर्ड", "gujaratiMeaning": "બદલ્યું", "hindiMeaning": "बदला" },
+        "V3 (Past Participle)": { "word": "Altered", "gujaratiPronunciation": "ઓલ્ટર્ડ", "hindiPronunciation": "ऑल्टर्ड", "gujaratiMeaning": "બદલેલું", "hindiMeaning": "बदला हुआ" },
+        "V4 (Present Participle)": { "word": "Altering", "gujaratiPronunciation": "ઓલ્ટરિંગ", "hindiPronunciation": "ऑल्टरिंग", "gujaratiMeaning": "બદલી રહ્યું છે", "hindiMeaning": "बदल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Change", "gujaratiPronunciation": "ચેન્જ", "hindiPronunciation": "चेंज", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" },
+        { "word": "Modify", "gujaratiPronunciation": "મોડિફાય", "hindiPronunciation": "मॉडिफाई", "gujaratiMeaning": "ફેરફાર કરવો", "hindiMeaning": "संशोधित करना" }
+      ],
+      "antonyms": [
+        { "word": "Preserve", "gujaratiPronunciation": "પ્રિઝર્વ", "hindiPronunciation": "प्रिजर्व", "gujaratiMeaning": "જાળવવું", "hindiMeaning": "संरक्षित करना" },
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Altar", "gujaratiPronunciation": "ઓલ્ટર", "hindiPronunciation": "ऑल्टर", "gujaratiMeaning": "વેદી", "hindiMeaning": "वेदी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He had to alter his plans.",
+          "gujaratiTranslation": "તેને તેની યોજનાઓ બદલવી પડી.",
+          "hindiTranslation": "उसे अपनी योजनाएँ बदलनी पड़ीं।",
+          "gujaratiPronunciation": "હી હેડ ટુ ઓલ્ટર હિઝ પ્લાન્સ.",
+          "hindiPronunciation": "ही हैड टू ऑल्टर हिज़ प्लान्स।"
+        }
+      ]
+    },
+    {
+      "word": "Shift",
+      "gujaratiPronunciation": "શિફ્ટ",
+      "hindiPronunciation": "शिफ्ट",
+      "gujaratiMeaning": "ખસેડવું, બદલવું",
+      "hindiMeaning": "खिसकाना, बदलना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Shift", "gujaratiPronunciation": "શિફ્ટ", "hindiPronunciation": "शिफ्ट", "gujaratiMeaning": "ખસેડવું", "hindiMeaning": "खिसकाना" },
+        "V2 (Past)": { "word": "Shifted", "gujaratiPronunciation": "શિફ્ટેડ", "hindiPronunciation": "शिफ्टेड", "gujaratiMeaning": "ખસેડ્યું", "hindiMeaning": "खिसकाया" },
+        "V3 (Past Participle)": { "word": "Shifted", "gujaratiPronunciation": "શિફ્ટેડ", "hindiPronunciation": "शिफ्टेड", "gujaratiMeaning": "ખસેડેલું", "hindiMeaning": "खिसकाया हुआ" },
+        "V4 (Present Participle)": { "word": "Shifting", "gujaratiPronunciation": "શિફ્ટિંગ", "hindiPronunciation": "शिफ्टिंग", "gujaratiMeaning": "ખસેડી રહ્યું છે", "hindiMeaning": "खिसका रहा है" }
+      },
+      "synonyms": [
+        { "word": "Move", "gujaratiPronunciation": "મૂવ", "hindiPronunciation": "मूव", "gujaratiMeaning": "ખસેડવું", "hindiMeaning": "हटाना" },
+        { "word": "Transfer", "gujaratiPronunciation": "ટ્રાન્સફર", "hindiPronunciation": "ट्रांसफर", "gujaratiMeaning": "બદલી કરવી", "hindiMeaning": "स्थानांतरण करना" }
+      ],
+      "antonyms": [
+        { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" },
+        { "word": "Fix", "gujaratiPronunciation": "ફિક્સ", "hindiPronunciation": "फिक्स", "gujaratiMeaning": "સ્થિર કરવું", "hindiMeaning": "स्थिर करना" }
+      ],
+      "confusingWords": [
+        { "word": "Sift", "gujaratiPronunciation": "સિફ્ટ", "hindiPronunciation": "सिफ्ट", "gujaratiMeaning": "ચાળવું", "hindiMeaning": "छानना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you help me shift this table?",
+          "gujaratiTranslation": "શું તમે મને આ ટેબલ ખસેડવામાં મદદ કરી શકો છો?",
+          "hindiTranslation": "क्या आप मुझे इस मेज को खिसकाने में मदद कर सकते हैं?",
+          "gujaratiPronunciation": "કેન યુ હેલ્પ મી શિફ્ટ ધિસ ટેબલ?",
+          "hindiPronunciation": "कैन यू हेल्प मी शिफ्ट दिस टेबल?"
+        }
+      ]
+    },
+    {
+      "word": "Modify",
+      "gujaratiPronunciation": "મોડિફાય",
+      "hindiPronunciation": "मॉडिफाई",
+      "gujaratiMeaning": "ફેરફાર કરવો, સુધારવું",
+      "hindiMeaning": "संशोधित करना, सुधारना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Modify", "gujaratiPronunciation": "મોડિફાય", "hindiPronunciation": "मॉडिफाई", "gujaratiMeaning": "ફેરફાર કરવો", "hindiMeaning": "संशोधित करना" },
+        "V2 (Past)": { "word": "Modified", "gujaratiPronunciation": "મોડિફાઇડ", "hindiPronunciation": "मॉडिफाइड", "gujaratiMeaning": "ફેરફાર કર્યો", "hindiMeaning": "संशोधित किया" },
+        "V3 (Past Participle)": { "word": "Modified", "gujaratiPronunciation": "મોડિફાઇડ", "hindiPronunciation": "मॉडिफाइड", "gujaratiMeaning": "ફેરફાર કરેલ", "hindiMeaning": "संशोधित" },
+        "V4 (Present Participle)": { "word": "Modifying", "gujaratiPronunciation": "મોડિફાઇંગ", "hindiPronunciation": "मॉडिफाइंग", "gujaratiMeaning": "ફેરફાર કરી રહ્યું છે", "hindiMeaning": "संशोधित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Change", "gujaratiPronunciation": "ચેન્જ", "hindiPronunciation": "चेंज", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" },
+        { "word": "Alter", "gujaratiPronunciation": "ઓલ્ટર", "hindiPronunciation": "ऑल्टर", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" }
+      ],
+      "antonyms": [
+        { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "રાખવું", "hindiMeaning": "रखना" },
+        { "word": "Retain", "gujaratiPronunciation": "રિટેન", "hindiPronunciation": "रिटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Mortify", "gujaratiPronunciation": "મોર્ટિફાય", "hindiPronunciation": "मॉर्टिफाई", "gujaratiMeaning": "અપમાનિત કરવું", "hindiMeaning": "अपमानित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The design was modified to reduce costs.",
+          "gujaratiTranslation": "ખર્ચ ઘટાડવા માટે ડિઝાઇનમાં ફેરફાર કરવામાં આવ્યો હતો.",
+          "hindiTranslation": "लागत कम करने के लिए डिज़ाइन को संशोधित किया गया था।",
+          "gujaratiPronunciation": "ધ ડિઝાઇન વોઝ મોડિફાઇડ ટુ રિડ્યુસ કોસ્ટ્સ.",
+          "hindiPronunciation": "द डिज़ाइन वॉज़ मॉडिफाइड टू रिड्यूस कॉस्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Adjust",
+      "gujaratiPronunciation": "એડજસ્ટ",
+      "hindiPronunciation": "एडजस्ट",
+      "gujaratiMeaning": "ગોઠવવું, અનુકૂળ કરવું",
+      "hindiMeaning": "समायोजित करना, अनुकूल बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Adjust", "gujaratiPronunciation": "એડજસ્ટ", "hindiPronunciation": "एडजस्ट", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "समायोजित करना" },
+        "V2 (Past)": { "word": "Adjusted", "gujaratiPronunciation": "એડજસ્ટેડ", "hindiPronunciation": "एडजस्टेड", "gujaratiMeaning": "ગોઠવ્યું", "hindiMeaning": "समायोजित किया" },
+        "V3 (Past Participle)": { "word": "Adjusted", "gujaratiPronunciation": "એડજસ્ટેડ", "hindiPronunciation": "एडजस्टेड", "gujaratiMeaning": "ગોઠવેલું", "hindiMeaning": "समायोजित" },
+        "V4 (Present Participle)": { "word": "Adjusting", "gujaratiPronunciation": "એડજસ્ટિંગ", "hindiPronunciation": "एडजस्टिंग", "gujaratiMeaning": "ગોઠવી રહ્યું છે", "hindiMeaning": "समायोजित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Adapt", "gujaratiPronunciation": "એડેપ્ટ", "hindiPronunciation": "अडैप्ट", "gujaratiMeaning": "અનુકૂલન સાધવું", "hindiMeaning": "अनुकूल बनाना" },
+        { "word": "Regulate", "gujaratiPronunciation": "રેગ્યુલેટ", "hindiPronunciation": "रेगुलेट", "gujaratiMeaning": "નિયમન કરવું", "hindiMeaning": "विनियमित करना" }
+      ],
+      "antonyms": [
+        { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गेनाइज़", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अव्यवस्थित करना" },
+        { "word": "Upset", "gujaratiPronunciation": "અપસેટ", "hindiPronunciation": "अपसेट", "gujaratiMeaning": "પરેશાન કરવું", "hindiMeaning": "परेशान करना" }
+      ],
+      "confusingWords": [
+        { "word": "Adjudged", "gujaratiPronunciation": "એડજજ્ડ", "hindiPronunciation": "एडजज्ड", "gujaratiMeaning": "ન્યાય કર્યો", "hindiMeaning": "न्याय किया गया" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to adjust the settings.",
+          "gujaratiTranslation": "તમારે સેટિંગ્સને એડજસ્ટ કરવાની જરૂર છે.",
+          "hindiTranslation": "आपको सेटिंग्स को समायोजित करने की आवश्यकता है।",
+          "gujaratiPronunciation": "યુ નીડ ટુ એડજસ્ટ ધ સેટિંગ્સ.",
+          "hindiPronunciation": "यू नीड टू एडजस्ट द सेटिंग्स।"
+        }
+      ]
+    },
+    {
+      "word": "Swap",
+      "gujaratiPronunciation": "સ્વેપ",
+      "hindiPronunciation": "स्वैप",
+      "gujaratiMeaning": "અદલાબદલી કરવી",
+      "hindiMeaning": "अदला-बदली करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Swap", "gujaratiPronunciation": "સ્વેપ", "hindiPronunciation": "स्वैप", "gujaratiMeaning": "અદલાબદલી કરવી", "hindiMeaning": "अदला-बदली करना" },
+        "V2 (Past)": { "word": "Swapped", "gujaratiPronunciation": "સ્વેપ્ડ", "hindiPronunciation": "स्वैप्ड", "gujaratiMeaning": "અદલાબદલી કરી", "hindiMeaning": "अदला-बदली की" },
+        "V3 (Past Participle)": { "word": "Swapped", "gujaratiPronunciation": "સ્વેપ્ડ", "hindiPronunciation": "स्वैप्ड", "gujaratiMeaning": "અદલાબદલી કરેલ", "hindiMeaning": "अदला-बदली किया हुआ" },
+        "V4 (Present Participle)": { "word": "Swapping", "gujaratiPronunciation": "સ્વેપિંગ", "hindiPronunciation": "स्वैपिंग", "gujaratiMeaning": "અદલાબદલી કરી રહ્યું છે", "hindiMeaning": "अदला-बदली कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Exchange", "gujaratiPronunciation": "એક્સચેન્જ", "hindiPronunciation": "एक्सचेंज", "gujaratiMeaning": "વિનિમય કરવો", "hindiMeaning": "विनिमय करना" },
+        { "word": "Trade", "gujaratiPronunciation": "ટ્રેડ", "hindiPronunciation": "ट्रेड", "gujaratiMeaning": "વેપાર કરવો", "hindiMeaning": "व्यापार करना" }
+      ],
+      "antonyms": [
+        { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "રાખવું", "hindiMeaning": "रखना" },
+        { "word": "Hold", "gujaratiPronunciation": "હોલ્ડ", "hindiPronunciation": "होल्ड", "gujaratiMeaning": "પકડી રાખવું", "hindiMeaning": "पकड़ कर रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Swab", "gujaratiPronunciation": "સ્વોબ", "hindiPronunciation": "स्वैब", "gujaratiMeaning": "પોતું", "hindiMeaning": "पोंछा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Let's swap our seats.",
+          "gujaratiTranslation": "ચાલો આપણે આપણી બેઠકોની અદલાબદલી કરીએ.",
+          "hindiTranslation": "चलो अपनी सीटें बदल लेते हैं।",
+          "gujaratiPronunciation": "લેટ્સ સ્વેપ અવર સીટ્સ.",
+          "hindiPronunciation": "लेट्स स्वैप आवर सीट्स।"
+        }
+      ]
+    }
+  ]
+}

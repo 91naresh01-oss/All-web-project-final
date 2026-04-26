@@ -1,0 +1,76 @@
+{
+  "id": "level-4",
+  "title": "Opposites 2",
+  "words": [
+    {
+      "word": "Thick",
+      "gujaratiPronunciation": "થિક",
+      "hindiPronunciation": "थिक",
+      "gujaratiMeaning": "જાડું",
+      "hindiMeaning": "मोटा",
+      "exampleSentences": [
+        {
+          "sentence": "This book is very thick.",
+          "gujaratiTranslation": "આ પુસ્તક ખૂબ જાડું છે.",
+          "hindiTranslation": "यह किताब बहुत मोटी है।"
+        }
+      ]
+    },
+    {
+      "word": "Thin",
+      "gujaratiPronunciation": "થિન",
+      "hindiPronunciation": "थिन",
+      "gujaratiMeaning": "પાતળું",
+      "hindiMeaning": "पतला",
+      "exampleSentences": [
+        {
+          "sentence": "The paper is very thin.",
+          "gujaratiTranslation": "કાગળ ખૂબ પાતળો છે.",
+          "hindiTranslation": "कागज बहुत पतला है।"
+        }
+      ]
+    },
+    {
+      "word": "Fast",
+      "gujaratiPronunciation": "ફાસ્ટ",
+      "hindiPronunciation": "फास्ट",
+      "gujaratiMeaning": "ઝડપી",
+      "hindiMeaning": "तेज",
+      "exampleSentences": [
+        {
+          "sentence": "A cheetah runs very fast.",
+          "gujaratiTranslation": "ચિત્તો ખૂબ ઝડપથી દોડે છે.",
+          "hindiTranslation": "चीता बहुत तेज दौड़ता है।"
+        }
+      ]
+    },
+    {
+      "word": "Slow",
+      "gujaratiPronunciation": "સ્લો",
+      "hindiPronunciation": "स्लो",
+      "gujaratiMeaning": "ધીમું",
+      "hindiMeaning": "धीमा",
+      "exampleSentences": [
+        {
+          "sentence": "A turtle moves very slow.",
+          "gujaratiTranslation": "કાચબો ખૂબ ધીમે ચાલે છે.",
+          "hindiTranslation": "कछुआ बहुत धीरे चलता है।"
+        }
+      ]
+    },
+    {
+      "word": "Strong",
+      "gujaratiPronunciation": "સ્ટ્રોંગ",
+      "hindiPronunciation": "स्ट्रांग",
+      "gujaratiMeaning": "મજબૂત",
+      "hindiMeaning": "मजबूत",
+      "exampleSentences": [
+        {
+          "sentence": "He is a strong man.",
+          "gujaratiTranslation": "તે એક મજબૂત માણસ છે.",
+          "hindiTranslation": "वह एक मजबूत आदमी है।"
+        }
+      ]
+    }
+  ]
+}

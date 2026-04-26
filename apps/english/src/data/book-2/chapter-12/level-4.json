@@ -1,0 +1,76 @@
+{
+  "id": "level-4",
+  "title": "Feelings and Actions 4",
+  "words": [
+    {
+      "word": "Trust",
+      "gujaratiPronunciation": "ટ્રસ્ટ",
+      "hindiPronunciation": "ट्रस्ट",
+      "gujaratiMeaning": "વિશ્વાસ",
+      "hindiMeaning": "विश्वास",
+      "exampleSentences": [
+        {
+          "sentence": "Trust is important in a relationship.",
+          "gujaratiTranslation": "સંબંધમાં વિશ્વાસ મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "एक रिश्ते में विश्वास महत्वपूर्ण है।"
+        }
+      ]
+    },
+    {
+      "word": "Believe",
+      "gujaratiPronunciation": "બિલીવ",
+      "hindiPronunciation": "बिलीव",
+      "gujaratiMeaning": "માનવું",
+      "hindiMeaning": "मानना",
+      "exampleSentences": [
+        {
+          "sentence": "I believe in you.",
+          "gujaratiTranslation": "હું તમારા પર વિશ્વાસ કરું છું.",
+          "hindiTranslation": "मैं तुम पर विश्वास करता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Respect",
+      "gujaratiPronunciation": "રિસ્પેક્ટ",
+      "hindiPronunciation": "रिस्पेक्ट",
+      "gujaratiMeaning": "આદર",
+      "hindiMeaning": "आदर",
+      "exampleSentences": [
+        {
+          "sentence": "We should respect our elders.",
+          "gujaratiTranslation": "આપણે આપણા વડીલોનો આદર કરવો જોઈએ.",
+          "hindiTranslation": "हमें अपने बड़ों का आदर کرنا चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Thank",
+      "gujaratiPronunciation": "થેંક",
+      "hindiPronunciation": "थैंक",
+      "gujaratiMeaning": "આભાર માનવો",
+      "hindiMeaning": "धन्यवाद देना",
+      "exampleSentences": [
+        {
+          "sentence": "I want to thank you for your help.",
+          "gujaratiTranslation": "હું તમારી મદદ માટે તમારો આભાર માનવા માંગુ છું.",
+          "hindiTranslation": "मैं आपकी मदद के लिए आपको धन्यवाद देना चाहता हूं।"
+        }
+      ]
+    },
+    {
+      "word": "Worry",
+      "gujaratiPronunciation": "વરી",
+      "hindiPronunciation": "वरी",
+      "gujaratiMeaning": "ચિંતા કરવી",
+      "hindiMeaning": "चिंता करना",
+      "exampleSentences": [
+        {
+          "sentence": "Don't worry, everything will be fine.",
+          "gujaratiTranslation": "ચિંતા કરશો નહીં, બધું સારું થઈ જશે.",
+          "hindiTranslation": "चिंता मत करो, सब کچھ ٹھیک ہو جائے گا۔"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Comm. & Digital",
+  "words": [
+    {
+      "word": "Upload",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "અપલોડ",
+      "hindiPronunciation": "अपलोड",
+      "gujaratiMeaning": "અપલોડ કરવું (કમ્પ્યુટરમાંથી ઇન્ટરનેટ પર મોકલવું)",
+      "hindiMeaning": "अपलोड करना (कंप्यूटर से इंटरनेट पर भेजना)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Upload",
+          "gujaratiPronunciation": "અપલોડ",
+          "hindiPronunciation": "अपलोड",
+          "gujaratiMeaning": "અપલોડ કરવું",
+          "hindiMeaning": "अपलोड करना"
+        },
+        "v2 (Past)": {
+          "word": "Uploaded",
+          "gujaratiPronunciation": "અપલોડેડ",
+          "hindiPronunciation": "अपलोडेड",
+          "gujaratiMeaning": "અપલોડ કર્યું",
+          "hindiMeaning": "अपलोड किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Uploaded",
+          "gujaratiPronunciation": "અપલોડેડ",
+          "hindiPronunciation": "अपलोडेड",
+          "gujaratiMeaning": "અપલોડ કરેલું",
+          "hindiMeaning": "अपलोड किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Uploading",
+          "gujaratiPronunciation": "અપલોડિંગ",
+          "hindiPronunciation": "अपलोडिंग",
+          "gujaratiMeaning": "અપલોડ કરી રહ્યું છે",
+          "hindiMeaning": "अपलोड कर रहा है"
+        }
+      },
+      "synonyms": [],
+      "antonyms": [
+        {
+          "word": "Download",
+          "gujaratiPronunciation": "ડાઉનલોડ",
+          "hindiPronunciation": "डाउनलोड",
+          "gujaratiMeaning": "ડાઉનલોડ કરવું",
+          "hindiMeaning": "डाउनलोड करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "She needs to upload the photos to her social media account.",
+          "gujaratiTranslation": "તેણીએ તેના સોશિયલ મીડિયા એકાઉન્ટ પર ફોટા અપલોડ કરવાની જરૂર છે.",
+          "hindiTranslation": "उसे अपनी तस्वीरें सोशल मीडिया अकाउंट पर अपलोड करनी हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Download",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "ડાઉનલોડ",
+      "hindiPronunciation": "डाउनलोड",
+      "gujaratiMeaning": "ડાઉનલોડ કરવું (ઇન્ટરનેટ પરથી કમ્પ્યુટરમાં લેવું)",
+      "hindiMeaning": "डाउनलोड करना (इंटरनेट से कंप्यूटर पर लेना)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Download",
+          "gujaratiPronunciation": "ડાઉનલોડ",
+          "hindiPronunciation": "डाउनलोड",
+          "gujaratiMeaning": "ડાઉનલોડ કરવું",
+          "hindiMeaning": "डाउनलोड करना"
+        },
+        "v2 (Past)": {
+          "word": "Downloaded",
+          "gujaratiPronunciation": "ડાઉનલોડેડ",
+          "hindiPronunciation": "डाउनलोडेड",
+          "gujaratiMeaning": "ડાઉનલોડ કર્યું",
+          "hindiMeaning": "डाउनलोड किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Downloaded",
+          "gujaratiPronunciation": "ડાઉનલોડેડ",
+          "hindiPronunciation": "डाउनलोडेड",
+          "gujaratiMeaning": "ડાઉનલોડ કરેલું",
+          "hindiMeaning": "डाउनलोड किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Downloading",
+          "gujaratiPronunciation": "ડાઉનલોડિંગ",
+          "hindiPronunciation": "डाउनलोडिंग",
+          "gujaratiMeaning": "ડાઉનલોડ કરી રહ્યું છે",
+          "hindiMeaning": "डाउनलोड कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Save",
+          "gujaratiPronunciation": "સેવ",
+          "hindiPronunciation": "सेव",
+          "gujaratiMeaning": "સાચવવું",
+          "hindiMeaning": "सहेजना"
+        },
+        {
+          "word": "Get",
+          "gujaratiPronunciation": "ગેટ",
+          "hindiPronunciation": "गेट",
+          "gujaratiMeaning": "મેળવવું",
+          "hindiMeaning": "पाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Upload",
+          "gujaratiPronunciation": "અપલોડ",
+          "hindiPronunciation": "अपलोड",
+          "gujaratiMeaning": "અપલોડ કરવું",
+          "hindiMeaning": "अपलोड करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You can download the movie from this website.",
+          "gujaratiTranslation": "તમે આ વેબસાઇટ પરથી ફિલ્મ ડાઉનલોડ કરી શકો છો.",
+          "hindiTranslation": "आप इस वेबसाइट से फिल्म डाउनलोड कर सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Stream",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "સ્ટ્રીમ",
+      "hindiPronunciation": "स्ट्रीम",
+      "gujaratiMeaning": "સ્ટ્રીમ કરવું (ડાઉનલોડ કર્યા વિના ઓનલાઈન જોવું/સાંભળવું)",
+      "hindiMeaning": "स्ट्रीम करना (बिना डाउनलोड किए ऑनलाइन देखना/सुनना)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Stream",
+          "gujaratiPronunciation": "સ્ટ્રીમ",
+          "hindiPronunciation": "स्ट्रीम",
+          "gujaratiMeaning": "સ્ટ્રીમ કરવું",
+          "hindiMeaning": "स्ट्रीम करना"
+        },
+        "v2 (Past)": {
+          "word": "Streamed",
+          "gujaratiPronunciation": "સ્ટ્રીમ્ડ",
+          "hindiPronunciation": "स्ट्रीम किया",
+          "gujaratiMeaning": "સ્ટ્રીમ કર્યું",
+          "hindiMeaning": "स्ट्रीम किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Streamed",
+          "gujaratiPronunciation": "સ્ટ્રીમ્ડ",
+          "hindiPronunciation": "स्ट्रीम किया",
+          "gujaratiMeaning": "સ્ટ્રીમ કરેલું",
+          "hindiMeaning": "स्ट्रीम किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Streaming",
+          "gujaratiPronunciation": "સ્ટ્રીમિંગ",
+          "hindiPronunciation": "स्ट्रीमिंग",
+          "gujaratiMeaning": "સ્ટ્રીમ કરી રહ્યું છે",
+          "hindiMeaning": "स्ट्रीम कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Watch online",
+          "gujaratiPronunciation": "વૉચ ઓનલાઇન",
+          "hindiPronunciation": "वॉच ऑनलाइन",
+          "gujaratiMeaning": "ઓનલાઈન જોવું",
+          "hindiMeaning": "ऑनलाइन देखना"
+        },
+        {
+          "word": "Broadcast",
+          "gujaratiPronunciation": "બ્રોડકાસ્ટ",
+          "hindiPronunciation": "ब्रॉडकास्ट",
+          "gujaratiMeaning": "પ્રસારણ કરવું",
+          "hindiMeaning": "प्रसारण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Download",
+          "gujaratiPronunciation": "ડાઉનલોડ",
+          "hindiPronunciation": "डाउनलोड",
+          "gujaratiMeaning": "ડાઉનલોડ કરવું",
+          "hindiMeaning": "डाउनलोड करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Scream",
+          "gujaratiPronunciation": "સ્ક્રીમ",
+          "hindiPronunciation": "स्क्रीम",
+          "gujaratiMeaning": "ચીસ પાડવી",
+          "hindiMeaning": "चीखना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We can stream the new series tonight.",
+          "gujaratiTranslation": "આપણે આજે રાત્રે નવી સિરીઝ સ્ટ્રીમ કરી શકીએ છીએ.",
+          "hindiTranslation": "हम आज रात नई श्रृंखला स्ट्रीम कर सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Browse",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "બ્રાઉઝ",
+      "hindiPronunciation": "ब्राउज़",
+      "gujaratiMeaning": "બ્રાઉઝ કરવું (ઇન્ટરનેટ પર આમતેમ જોવું)",
+      "hindiMeaning": "ब्राउज़ करना (इंटरनेट पर इधर-उधर देखना)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Browse",
+          "gujaratiPronunciation": "બ્રાઉઝ",
+          "hindiPronunciation": "ब्राउज़",
+          "gujaratiMeaning": "બ્રાઉઝ કરવું",
+          "hindiMeaning": "ब्राउज़ करना"
+        },
+        "v2 (Past)": {
+          "word": "Browsed",
+          "gujaratiPronunciation": "બ્રાઉઝ્ડ",
+          "hindiPronunciation": "ब्राउज़ किया",
+          "gujaratiMeaning": "બ્રાઉઝ કર્યું",
+          "hindiMeaning": "ब्राउज़ किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Browsed",
+          "gujaratiPronunciation": "બ્રાઉઝ્ડ",
+          "hindiPronunciation": "ब्राउज़ किया",
+          "gujaratiMeaning": "બ્રાઉઝ કરેલું",
+          "hindiMeaning": "ब्राउज़ किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Browsing",
+          "gujaratiPronunciation": "બ્રાઉઝિંગ",
+          "hindiPronunciation": "ब्राउज़िंग",
+          "gujaratiMeaning": "બ્રાઉઝ કરી રહ્યું છે",
+          "hindiMeaning": "ब्राउज़ कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Surf",
+          "gujaratiPronunciation": "સર્ફ",
+          "hindiPronunciation": "सर्फ",
+          "gujaratiMeaning": "સર્ફ કરવું",
+          "hindiMeaning": "सर्फ करना"
+        },
+        {
+          "word": "Scan",
+          "gujaratiPronunciation": "સ્કેન",
+          "hindiPronunciation": "स्कैन",
+          "gujaratiMeaning": "ઝડપથી જોવું",
+          "hindiMeaning": "सरसरी निगाह से देखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Focus",
+          "gujaratiPronunciation": "ફોકસ",
+          "hindiPronunciation": "फोकस",
+          "gujaratiMeaning": "ધ્યાન કેન્દ્રિત કરવું",
+          "hindiMeaning": "ध्यान केंद्रित करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "I like to browse different online stores.",
+          "gujaratiTranslation": "મને જુદા જુદા ઓનલાઈન સ્ટોર્સ બ્રાઉઝ કરવાનું ગમે છે.",
+          "hindiTranslation": "मुझे विभिन्न ऑनलाइन स्टोर ब्राउज़ करना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Encode",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "એન્કોડ",
+      "hindiPronunciation": "एन्कोड",
+      "gujaratiMeaning": "એન્કોડ કરવું (માહિતીને કોડમાં ફેરવવી)",
+      "hindiMeaning": "एन्कोड करना (जानकारी को कोड में बदलना)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Encode",
+          "gujaratiPronunciation": "એન્કોડ",
+          "hindiPronunciation": "एन्कोड",
+          "gujaratiMeaning": "એન્કોડ કરવું",
+          "hindiMeaning": "एन्कोड करना"
+        },
+        "v2 (Past)": {
+          "word": "Encoded",
+          "gujaratiPronunciation": "એન્કોડેડ",
+          "hindiPronunciation": "एन्कोडेड",
+          "gujaratiMeaning": "એન્કોડ કર્યું",
+          "hindiMeaning": "एन्कोड किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Encoded",
+          "gujaratiPronunciation": "એન્કોડેડ",
+          "hindiPronunciation": "एन्कोडेड",
+          "gujaratiMeaning": "એન્કોડ કરેલું",
+          "hindiMeaning": "एन्कोड किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Encoding",
+          "gujaratiPronunciation": "એન્કોડિંગ",
+          "hindiPronunciation": "एन्कोडिंग",
+          "gujaratiMeaning": "એન્કોડ કરી રહ્યું છે",
+          "hindiMeaning": "एन्कोड कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Encrypt",
+          "gujaratiPronunciation": "એન્ક્રિપ્ટ",
+          "hindiPronunciation": "एन्क्रिप्ट",
+          "gujaratiMeaning": "એન્ક્રિપ્ટ કરવું",
+          "hindiMeaning": "एन्क्रिप्ट करना"
+        },
+        {
+          "word": "Code",
+          "gujaratiPronunciation": "કોડ",
+          "hindiPronunciation": "कोड",
+          "gujaratiMeaning": "કોડ કરવું",
+          "hindiMeaning": "कोड करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Decode",
+          "gujaratiPronunciation": "ડીકોડ",
+          "hindiPronunciation": "डिकोड",
+          "gujaratiMeaning": "ડીકોડ કરવું",
+          "hindiMeaning": "डिकोड करना"
+        },
+        {
+          "word": "Decrypt",
+          "gujaratiPronunciation": "ડીક્રિપ્ટ",
+          "hindiPronunciation": "डिक्रिप्ट",
+          "gujaratiMeaning": "ડिक्रિપ્ટ કરવું",
+          "hindiMeaning": "डिक्रिप्ट करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The software will encode the video file into a smaller format.",
+          "gujaratiTranslation": "સોફ્ટવેર વિડિયો ફાઇલને નાના ફોર્મેટમાં એન્કોડ કરશે.",
+          "hindiTranslation": "सॉफ्टवेयर वीडियो फ़ाइल को एक छोटे प्रारूप में एन्कोड करेगा।"
+        }
+      ]
+    }
+  ]
+}
+
+    

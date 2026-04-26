@@ -1,0 +1,76 @@
+{
+  "id": "level-7",
+  "title": "Prepositions 2",
+  "words": [
+    {
+      "word": "Out",
+      "gujaratiPronunciation": "આઉટ",
+      "hindiPronunciation": "आउट",
+      "gujaratiMeaning": "બહાર",
+      "hindiMeaning": "बाहर",
+      "exampleSentences": [
+        {
+          "sentence": "He went out of the room.",
+          "gujaratiTranslation": "તે રૂમની બહાર ગયો.",
+          "hindiTranslation": "वह कमरे से बाहर चला गया।"
+        }
+      ]
+    },
+    {
+      "word": "Other",
+      "gujaratiPronunciation": "અધર",
+      "hindiPronunciation": "अदर",
+      "gujaratiMeaning": "બીજું",
+      "hindiMeaning": "दूसरा",
+      "exampleSentences": [
+        {
+          "sentence": "Do you have any other questions?",
+          "gujaratiTranslation": "શું તમારી પાસે કોઈ બીજા પ્રશ્નો છે?",
+          "hindiTranslation": "क्या आपके पास कोई अन्य प्रश्न हैं?"
+        }
+      ]
+    },
+    {
+      "word": "Above",
+      "gujaratiPronunciation": "અબવ",
+      "hindiPronunciation": "अबव",
+      "gujaratiMeaning": "ઉપર",
+      "hindiMeaning": "ऊपर",
+      "exampleSentences": [
+        {
+          "sentence": "The sky is above us.",
+          "gujaratiTranslation": "આકાશ આપણી ઉપર છે.",
+          "hindiTranslation": "आसमान हमारे ऊपर है।"
+        }
+      ]
+    },
+    {
+      "word": "Below",
+      "gujaratiPronunciation": "બિલો",
+      "hindiPronunciation": "बिलो",
+      "gujaratiMeaning": "નીચે",
+      "hindiMeaning": "नीचे",
+      "exampleSentences": [
+        {
+          "sentence": "His score was below average.",
+          "gujaratiTranslation": "તેનો સ્કોર સરેરાશથી નીચે હતો.",
+          "hindiTranslation": "उसका स्कोर औसत से नीचे था।"
+        }
+      ]
+    },
+    {
+      "word": "Around",
+      "gujaratiPronunciation": "અરાઉન્ડ",
+      "hindiPronunciation": "अराउंड",
+      "gujaratiMeaning": "આસપાસ",
+      "hindiMeaning": "चारों ओर",
+      "exampleSentences": [
+        {
+          "sentence": "The Earth moves around the Sun.",
+          "gujaratiTranslation": "પૃથ્વી સૂર્યની આસપાસ ફરે છે.",
+          "hindiTranslation": "पृथ्वी सूर्य کے चारों ओर घूमती है।"
+        }
+      ]
+    }
+  ]
+}

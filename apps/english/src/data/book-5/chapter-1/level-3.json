@@ -1,0 +1,449 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Cherish",
+      "gujaratiPronunciation": "ચેરિશ",
+      "hindiPronunciation": "चेरिश",
+      "gujaratiMeaning": "સંઘરવું, વહાલું ગણવું",
+      "hindiMeaning": "संजोना, प्रिय मानना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Cherish",
+          "gujaratiPronunciation": "ચેરિશ",
+          "hindiPronunciation": "चेरिश",
+          "gujaratiMeaning": "સંઘરવું",
+          "hindiMeaning": "संजोना"
+        },
+        "V2 (Past)": {
+          "word": "Cherished",
+          "gujaratiPronunciation": "ચેરિસ્ડ",
+          "hindiPronunciation": "चेरिश्ड",
+          "gujaratiMeaning": "સંઘર્યું",
+          "hindiMeaning": "संजोया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Cherished",
+          "gujaratiPronunciation": "ચેરિસ્ડ",
+          "hindiPronunciation": "चेरिश्ड",
+          "gujaratiMeaning": "સંઘરેલું",
+          "hindiMeaning": "संजोया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Cherishing",
+          "gujaratiPronunciation": "ચેરિશિંગ",
+          "hindiPronunciation": "चेरिशिंग",
+          "gujaratiMeaning": "સંઘરી રહ્યું છે",
+          "hindiMeaning": "संजो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Treasure",
+          "gujaratiPronunciation": "ટ્રેઝર",
+          "hindiPronunciation": "ट्रेजर",
+          "gujaratiMeaning": "ખજાનો માનવો",
+          "hindiMeaning": "खजाना मानना"
+        },
+        {
+          "word": "Adore",
+          "gujaratiPronunciation": "અડોર",
+          "hindiPronunciation": "अडोर",
+          "gujaratiMeaning": "આરાધના કરવી",
+          "hindiMeaning": "आराधना करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "અવગણના કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Despise",
+          "gujaratiPronunciation": "ડિસ્પાઇઝ",
+          "hindiPronunciation": "डेस्पाइस",
+          "gujaratiMeaning": "તિરસ્કાર કરવો",
+          "hindiMeaning": "तिरस्कार करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Perish",
+          "gujaratiPronunciation": "પેરિશ",
+          "hindiPronunciation": "पेरिश",
+          "gujaratiMeaning": "નાશ પામવું",
+          "hindiMeaning": "नष्ट होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I will always cherish the memories of our time together.",
+          "gujaratiPronunciation": "આઈ વિલ ઓલવેઝ ચેરિશ ધ મેમરીઝ ઓફ અવર ટાઈમ ટુગેધર.",
+          "hindiPronunciation": "आई विल ऑलवेज चेरिश द मेमोरीज़ ऑफ अवर टाइम टुगेदर।",
+          "gujaratiMeaning": "હું હંમેશા આપણા સાથે વિતાવેલા સમયની યાદોને સંઘરીશ.",
+          "hindiMeaning": "मैं हमेशा हमारे साथ बिताए समय की यादों को संजो कर रखूंगा।"
+        }
+      ]
+    },
+    {
+      "word": "Disclose",
+      "gujaratiPronunciation": "ડિસ્ક્લોઝ",
+      "hindiPronunciation": "डिस्क्लोज",
+      "gujaratiMeaning": "જાહેર કરવું, ખોલવું",
+      "hindiMeaning": "खुलासा करना, प्रकट करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Disclose",
+          "gujaratiPronunciation": "ડિસ્ક્લોઝ",
+          "hindiPronunciation": "डिस्क्लोज",
+          "gujaratiMeaning": "જાહેર કરવું",
+          "hindiMeaning": "खुलासा करना"
+        },
+        "V2 (Past)": {
+          "word": "Disclosed",
+          "gujaratiPronunciation": "ડિસ્ક્લોઝ્ડ",
+          "hindiPronunciation": "डिस्क्लोज्ड",
+          "gujaratiMeaning": "જાહેર કર્યું",
+          "hindiMeaning": "खुलासा किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Disclosed",
+          "gujaratiPronunciation": "ડિસ્ક્લોઝ્ડ",
+          "hindiPronunciation": "डिस्क्लोज्ड",
+          "gujaratiMeaning": "જાહેર કરેલું",
+          "hindiMeaning": "खुलासा किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Disclosing",
+          "gujaratiPronunciation": "ડિસ્ક્લોઝિંગ",
+          "hindiPronunciation": "डिस्क्लोजिंग",
+          "gujaratiMeaning": "જાહેર કરી રહ્યું છે",
+          "hindiMeaning": "खुलासा कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Reveal",
+          "gujaratiPronunciation": "રિવિલ",
+          "hindiPronunciation": "रिवील",
+          "gujaratiMeaning": "પ્રગટ કરવું",
+          "hindiMeaning": "प्रकट करना"
+        },
+        {
+          "word": "Divulge",
+          "gujaratiPronunciation": "ડાઇવલ્જ",
+          "hindiPronunciation": "डाइवल्ज",
+          "gujaratiMeaning": "ભેદ ખોલવો",
+          "hindiMeaning": "भेद खोलना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Conceal",
+          "gujaratiPronunciation": "કન્સીલ",
+          "hindiPronunciation": "कंसील",
+          "gujaratiMeaning": "છુપાવવું",
+          "hindiMeaning": "छिपाना"
+        },
+        {
+          "word": "Hide",
+          "gujaratiPronunciation": "હાઇડ",
+          "hindiPronunciation": "हाइड",
+          "gujaratiMeaning": "સંતાડવું",
+          "hindiMeaning": "छिपाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Enclose",
+          "gujaratiPronunciation": "એન્ક્લોઝ",
+          "hindiPronunciation": "एन्क्लोज",
+          "gujaratiMeaning": "બીડવું",
+          "hindiMeaning": "संलग्न करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company refused to disclose the details of the agreement.",
+          "gujaratiPronunciation": "ધ કંપની રિફ્યુઝ્ડ ટુ ડિસ્ક્લોઝ ધ ડિટેલ્સ ઓફ ધ એગ્રીમેન્ટ.",
+          "hindiPronunciation": "द कंपनी रिफ्यूज्ड टू डिस्क्लोज द डिटेल्स ऑफ द एग्रीमेंट।",
+          "gujaratiMeaning": "કંપનીએ કરારની વિગતો જાહેર કરવાનો ઇનકાર કર્યો.",
+          "hindiMeaning": "कंपनी ने समझौते का विवरण प्रकट करने से इनकार कर दिया।"
+        }
+      ]
+    },
+    {
+      "word": "Commit",
+      "gujaratiPronunciation": "કમિટ",
+      "hindiPronunciation": "कमिट",
+      "gujaratiMeaning": "વચન આપવું, કરવું",
+      "hindiMeaning": "वचनबद्ध होना, करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Commit",
+          "gujaratiPronunciation": "કમિટ",
+          "hindiPronunciation": "कमिट",
+          "gujaratiMeaning": "વચન આપવું",
+          "hindiMeaning": "वचनबद्ध होना"
+        },
+        "V2 (Past)": {
+          "word": "Committed",
+          "gujaratiPronunciation": "કમિટડ",
+          "hindiPronunciation": "कमिटेड",
+          "gujaratiMeaning": "વચન આપ્યું",
+          "hindiMeaning": "वचनबद्ध हुआ"
+        },
+        "V3 (Past Participle)": {
+          "word": "Committed",
+          "gujaratiPronunciation": "કમિટડ",
+          "hindiPronunciation": "कमिटेड",
+          "gujaratiMeaning": "વચન આપેલું",
+          "hindiMeaning": "वचनबद्ध"
+        },
+        "V4 (Present Participle)": {
+          "word": "Committing",
+          "gujaratiPronunciation": "કમિટીંગ",
+          "hindiPronunciation": "कमिटिंग",
+          "gujaratiMeaning": "વચન આપી રહ્યું છે",
+          "hindiMeaning": "वचनबद्ध हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Pledge",
+          "gujaratiPronunciation": "પ્લેજ",
+          "hindiPronunciation": "प्लेज",
+          "gujaratiMeaning": "પ્રતિજ્ઞા કરવી",
+          "hindiMeaning": "प्रतिज्ञा करना"
+        },
+        {
+          "word": "Dedicate",
+          "gujaratiPronunciation": "ડેડિકેટ",
+          "hindiPronunciation": "डेडिकेट",
+          "gujaratiMeaning": "સમર્પિત કરવું",
+          "hindiMeaning": "समर्पित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Omit",
+          "gujaratiPronunciation": "ઓમિટ",
+          "hindiPronunciation": "ओमिट",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ देना"
+        },
+        {
+          "word": "Emit",
+          "gujaratiPronunciation": "એમિટ",
+          "hindiPronunciation": "एमिट",
+          "gujaratiMeaning": "ઉત્સર્જન કરવું",
+          "hindiMeaning": "उत्सर्जन करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She committed herself to finding a solution.",
+          "gujaratiPronunciation": "શી કમિટેડ હરસેલ્ફ ટુ ફાઇન્ડિંગ અ સોલ્યુશન.",
+          "hindiPronunciation": "शी कमिटेड हरसेल्फ टू फाइंडिंग अ सॉल्यूशन।",
+          "gujaratiMeaning": "તેણીએ ઉકેલ શોધવા માટે પોતાને વચનબદ્ધ કરી.",
+          "hindiMeaning": "उसने समाधान खोजने के लिए खुद को प्रतिबद्ध किया।"
+        }
+      ]
+    },
+    {
+      "word": "Harmonize",
+      "gujaratiPronunciation": "હાર્મોનાઇઝ",
+      "hindiPronunciation": "हार्मोनाइज़",
+      "gujaratiMeaning": "સામંજસ્ય સ્થાપવું",
+      "hindiMeaning": "सामंजस्य स्थापित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Harmonize",
+          "gujaratiPronunciation": "હાર્મોનાઇઝ",
+          "hindiPronunciation": "हार्मोनाइज़",
+          "gujaratiMeaning": "સામંજસ્ય સ્થાપવું",
+          "hindiMeaning": "सामंजस्य स्थापित करना"
+        },
+        "V2 (Past)": {
+          "word": "Harmonized",
+          "gujaratiPronunciation": "હાર્મોનાઇઝ્ડ",
+          "hindiPronunciation": "हार्मोनाइज़्ड",
+          "gujaratiMeaning": "સામંજસ્ય સ્થાપ્યું",
+          "hindiMeaning": "सामंजस्य स्थापित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Harmonized",
+          "gujaratiPronunciation": "હાર્મોનાઇઝ્ડ",
+          "hindiPronunciation": "हार्मोनाइज़्ड",
+          "gujaratiMeaning": "સામંજસ્ય સ્થાપેલું",
+          "hindiMeaning": "सामंजस्य स्थापित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Harmonizing",
+          "gujaratiPronunciation": "હાર્મોનાઇઝિંગ",
+          "hindiPronunciation": "हार्मोनाइजिंग",
+          "gujaratiMeaning": "સામંજસ્ય સ્થાપી રહ્યું છે",
+          "hindiMeaning": "सामंजस्य स्थापित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Coordinate",
+          "gujaratiPronunciation": "કોઓર્ડિનેટ",
+          "hindiPronunciation": "कोऑर्डिनेट",
+          "gujaratiMeaning": "સંકલન કરવું",
+          "hindiMeaning": "समन्वय करना"
+        },
+        {
+          "word": "Balance",
+          "gujaratiPronunciation": "બેલેન્સ",
+          "hindiPronunciation": "बैलेंस",
+          "gujaratiMeaning": "સંતુલન કરવું",
+          "hindiMeaning": "संतुलन बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Clash",
+          "gujaratiPronunciation": "ક્લેશ",
+          "hindiPronunciation": "क्लैश",
+          "gujaratiMeaning": "ટકરાવ થવો",
+          "hindiMeaning": "टकराव होना"
+        },
+        {
+          "word": "Conflict",
+          "gujaratiPronunciation": "કોન્ફ્લિક્ટ",
+          "hindiPronunciation": "कॉनफ्लिक्ट",
+          "gujaratiMeaning": "સંઘર્ષ થવો",
+          "hindiMeaning": "संघर्ष होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Homogenize",
+          "gujaratiPronunciation": "હોમોજનાઇઝ",
+          "hindiPronunciation": "होमोजेनाइज",
+          "gujaratiMeaning": "એકરૂપ કરવું",
+          "hindiMeaning": "समरूप बनाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The new design harmonizes with the existing architecture.",
+          "gujaratiPronunciation": "ધ ન્યુ ડિઝાઇન હાર્મોનાઇઝિસ વિથ ધ એક્ઝિસ્ટિંગ આર્કિટેક્ચર.",
+          "hindiPronunciation": "द न्यू डिजाइन हार्मोनाइजेज विद द एग्जिस्टिंग आर्किटेक्चर।",
+          "gujaratiMeaning": "નવી ડિઝાઇન હાલના સ્થાપત્ય સાથે સામંજસ્ય સ્થાપે છે.",
+          "hindiMeaning": "नई डिजाइन मौजूदा वास्तुकला के साथ सामंजस्य स्थापित करती है।"
+        }
+      ]
+    },
+    {
+      "word": "Intertwine",
+      "gujaratiPronunciation": "ઇન્ટરટ્વાઇન",
+      "hindiPronunciation": "इंटरटाइन",
+      "gujaratiMeaning": "એકબીજા સાથે ગૂંથાવું",
+      "hindiMeaning": "एक दूसरे से गुँथना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Intertwine",
+          "gujaratiPronunciation": "ઇન્ટરટ્વાઇન",
+          "hindiPronunciation": "इंटरटाइन",
+          "gujaratiMeaning": "ગૂંથાવું",
+          "hindiMeaning": "गुँथना"
+        },
+        "V2 (Past)": {
+          "word": "Intertwined",
+          "gujaratiPronunciation": "ઇન્ટરટ્વાઇન્ડ",
+          "hindiPronunciation": "इंटरटाइन्ड",
+          "gujaratiMeaning": "ગૂંથાયું",
+          "hindiMeaning": "गुँथा हुआ"
+        },
+        "V3 (Past Participle)": {
+          "word": "Intertwined",
+          "gujaratiPronunciation": "ઇન્ટરટ્વાઇન્ડ",
+          "hindiPronunciation": "इंटरटाइन्ड",
+          "gujaratiMeaning": "ગૂંથાયેલું",
+          "hindiMeaning": "गुँथा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Intertwining",
+          "gujaratiPronunciation": "ઇન્ટરટ્વાઇનિંગ",
+          "hindiPronunciation": "इंटरटाइनिंग",
+          "gujaratiMeaning": "ગૂંથાઈ રહ્યું છે",
+          "hindiMeaning": "गुँथ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Interweave",
+          "gujaratiPronunciation": "ઇન્ટરવીવ",
+          "hindiPronunciation": "इंटरवीव",
+          "gujaratiMeaning": "વણાવું",
+          "hindiMeaning": "बुनना"
+        },
+        {
+          "word": "Link",
+          "gujaratiPronunciation": "લિંક",
+          "hindiPronunciation": "लिंक",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Unravel",
+          "gujaratiPronunciation": "અનરેવલ",
+          "hindiPronunciation": "अनरेवल",
+          "gujaratiMeaning": "ઉકેલવું",
+          "hindiMeaning": "सुलझाना"
+        },
+        {
+          "word": "Separate",
+          "gujaratiPronunciation": "સેપરેટ",
+          "hindiPronunciation": "सेपरेट",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Interview",
+          "gujaratiPronunciation": "ઇન્ટરવ્યૂ",
+          "hindiPronunciation": "इंटरव्यू",
+          "gujaratiMeaning": "મુલાકાત",
+          "hindiMeaning": "साक्षात्कार"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Their fates seemed to be intertwined.",
+          "gujaratiPronunciation": "ધેર ફેટ્સ સીમ્ડ ટુ બી ઇન્ટરટ્વાઇન્ડ.",
+          "hindiPronunciation": "देयर फेट्स सीम्ड टू बी इंटरटाइन्ड।",
+          "gujaratiMeaning": "તેમના ભાગ્ય એકબીજા સાથે ગૂંથાયેલા લાગતા હતા.",
+          "hindiMeaning": "उनकी किस्मत एक दूसरे से गुंथी हुई लग रही थी।"
+        }
+      ]
+    }
+  ]
+}
+
+    

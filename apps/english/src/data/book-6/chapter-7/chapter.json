@@ -1,0 +1,14 @@
+
+{
+  "id": "chapter-7",
+  "title": "Maintenance & Upkeep 🧹",
+  "gujaratiTitle": "જાળવણી અને સમારકામ 🧹",
+  "hindiTitle": "रखरखाव और मरम्मत 🧹",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" },
+    { "id": "level-5" }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Biodynamic",
+      "gujaratiPronunciation": "બાયોડાયનેમિક",
+      "hindiPronunciation": "बायोडायनामिक",
+      "gujaratiMeaning": "જૈવિક ગતિશીલ",
+      "hindiMeaning": "जैव-गतिशील",
+      "partOfSpeech": "adjective",
+      "verbForms": {},
+      "synonyms": [
+        { "word": "Organic", "gujaratiPronunciation": "ઓર્ગેનિક", "hindiPronunciation": "ऑर्गेनिक", "gujaratiMeaning": "જૈવિક", "hindiMeaning": "जैविक" },
+        { "word": "Holistic", "gujaratiPronunciation": "હોલિસ્ટિક", "hindiPronunciation": "होलिस्टिक", "gujaratiMeaning": "સમગ્રલક્ષી", "hindiMeaning": "समग्र" }
+      ],
+      "antonyms": [
+        { "word": "Conventional", "gujaratiPronunciation": "કન્વેન્શનલ", "hindiPronunciation": "कन्वेंशनल", "gujaratiMeaning": "પારંપરિક", "hindiMeaning": "पारंपरिक" },
+        { "word": "Chemical", "gujaratiPronunciation": "કેમિકલ", "hindiPronunciation": "केमिकल", "gujaratiMeaning": "રાસાયણિક", "hindiMeaning": "रासायनिक" }
+      ],
+      "confusingWords": [
+        { "word": "Aerodynamic", "gujaratiPronunciation": "એરોડાયનેમિક", "hindiPronunciation": "एरोडायनामिक", "gujaratiMeaning": "વાયુગતિકીય", "hindiMeaning": "वायुगतिकीय" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Biodynamic farming considers the farm as a single, self-sustaining organism.", "gujaratiPronunciation": "બાયોડાયનેમિક ફાર્મિંગ કન્સિડર્સ ધ ફાર્મ એઝ અ સિંગલ, સેલ્ફ-સસ્ટેનિંગ ઓર્ગેનિઝમ.", "hindiPronunciation": "बायोडायनामिक फार्मिंग कंसीडर्स द फार्म ऐज़ अ सिंगल, सेल्फ-सस्टेनिंग ऑर्गनिज्म।", "gujaratiTranslation": "બાયોડાયનેમિક ખેતી ખેતરને એક જ, આત્મનિર્ભર જીવ માને છે.", "hindiTranslation": "बायोडायनामिक खेती खेत को एक एकल, आत्मनिर्भर जीव मानती है।" }
+      ]
+    },
+    {
+      "word": "Cross-pollinate",
+      "gujaratiPronunciation": "ક્રોસ-પોલિનેટ",
+      "hindiPronunciation": "क्रॉस-पॉलिनेट",
+      "gujaratiMeaning": "પાર-પરાગનયન કરવું",
+      "hindiMeaning": "पर-परागण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Cross-pollinate", "gujaratiPronunciation": "ક્રોસ-પોલિનેટ", "hindiPronunciation": "क्रॉस-पॉलिनेट", "gujaratiMeaning": "પાર-પરાગનયન કરવું", "hindiMeaning": "पर-परागण करना" },
+        "V2 (Past)": { "word": "Cross-pollinated", "gujaratiPronunciation": "ક્રોસ-પોલિનેટેડ", "hindiPronunciation": "क्रॉस-पॉलिनेटेड", "gujaratiMeaning": "પાર-પરાગનયન કર્યું", "hindiMeaning": "पर-परागण किया" },
+        "V3 (Past Participle)": { "word": "Cross-pollinated", "gujaratiPronunciation": "ક્રોસ-પોલિનેટેડ", "hindiPronunciation": "क्रॉस-पॉलिनेटेड", "gujaratiMeaning": "પાર-પરાગનયન કરેલું", "hindiMeaning": "पर-परागण किया हुआ" },
+        "V4 (Present Participle)": { "word": "Cross-pollinating", "gujaratiPronunciation": "ક્રોસ-પોલિનેટિંગ", "hindiPronunciation": "क्रॉस-पॉलिनेटिंग", "gujaratiMeaning": "પાર-પરાગનયન કરી રહ્યું છે", "hindiMeaning": "पर-परागण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Interbreed", "gujaratiPronunciation": "ઇન્ટરબ્રીડ", "hindiPronunciation": "इंटरब्रीड", "gujaratiMeaning": "આંતર-પ્રજનન કરવું", "hindiMeaning": "अंतःप्रजनन करना" },
+        { "word": "Hybridize", "gujaratiPronunciation": "હાઇબ્રિડાઇઝ", "hindiPronunciation": "हाइब्रिडाइज़", "gujaratiMeaning": "સંકર કરવું", "hindiMeaning": "संकर करना" }
+      ],
+      "antonyms": [
+        { "word": "Self-pollinate", "gujaratiPronunciation": "સેલ્ફ-પોલિનેટ", "hindiPronunciation": "सेल्फ-पॉलिनेट", "gujaratiMeaning": "સ્વ-પરાગનયન કરવું", "hindiMeaning": "स्व-परागण करना" },
+        { "word": "Isolate", "gujaratiPronunciation": "આઇસોલેટ", "hindiPronunciation": "आइसोलेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        { "sentence": "Bees help to cross-pollinate the flowers.", "gujaratiPronunciation": "બીઝ હેલ્પ ટુ ક્રોસ-પોલિનેટ ધ ફ્લાવર્સ.", "hindiPronunciation": "बीज़ हेल्प टू क्रॉस-पॉलिनेट द फ्लावर्स।", "gujaratiTranslation": "મધમાખીઓ ફૂલોનું પાર-પરાગનયન કરવામાં મદદ કરે છે.", "hindiTranslation": "मधुमक्खियां फूलों को पर-परागण करने में मदद करती हैं।" }
+      ]
+    },
+    {
+      "word": "Fallow",
+      "gujaratiPronunciation": "ફેલો",
+      "hindiPronunciation": "फैलो",
+      "gujaratiMeaning": "પડતર (જમીન)",
+      "hindiMeaning": "परती (भूमि)",
+      "partOfSpeech": "adjective",
+      "verbForms": {},
+      "synonyms": [
+        { "word": "Uncultivated", "gujaratiPronunciation": "અનકલ્ટિવેટેડ", "hindiPronunciation": "अनकल्टिवेटेड", "gujaratiMeaning": "ન ખેડાયેલું", "hindiMeaning": "बिना जुताई का" },
+        { "word": "Inactive", "gujaratiPronunciation": "ઇનએક્ટિવ", "hindiPronunciation": "इनएक्टिव", "gujaratiMeaning": "નિષ્ક્રિય", "hindiMeaning": "निष्क्रिय" }
+      ],
+      "antonyms": [
+        { "word": "Cultivated", "gujaratiPronunciation": "કલ્ટિવેટેડ", "hindiPronunciation": "कल्टिवेटेड", "gujaratiMeaning": "ખેડાયેલું", "hindiMeaning": "खेती की हुई" },
+        { "word": "Productive", "gujaratiPronunciation": "પ્રોડક્ટિવ", "hindiPronunciation": "प्रोडक्टिव", "gujaratiMeaning": "ઉત્પાદક", "hindiMeaning": "उपजाऊ" }
+      ],
+      "confusingWords": [
+        { "word": "Follow", "gujaratiPronunciation": "ફોલો", "hindiPronunciation": "फॉलो", "gujaratiMeaning": "અનુસરવું", "hindiMeaning": "अनुसरण करना" },
+        { "word": "Fellow", "gujaratiPronunciation": "ફેલો", "hindiPronunciation": "फेलो", "gujaratiMeaning": "સાથી", "hindiMeaning": "साथी" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The farmer left the field fallow for a year to restore its fertility.", "gujaratiPronunciation": "ધ ફાર્મર લેફ્ટ ધ ફિલ્ડ ફેલો ફોર અ યર ટુ રિસ્ટોર ઇટ્સ ફર્ટિલિટી.", "hindiPronunciation": "द फार्मर लेफ्ट द फील्ड फैलो फॉर अ ईयर टू रिस्टोर इट्स फर्टिलिटी।", "gujaratiTranslation": "ખેડૂતે તેની ફળદ્રુપતા પુનઃસ્થાપિત કરવા માટે એક વર્ષ માટે ખેતર પડતર રાખ્યું.", "hindiTranslation": "किसान ने अपनी उर्वरता बहाल करने के लिए खेत को एक साल के लिए परती छोड़ दिया।" }
+      ]
+    },
+    {
+      "word": "Cultivate",
+      "gujaratiPronunciation": "કલ્ટિવેટ",
+      "hindiPronunciation": "कल्टिवेट",
+      "gujaratiMeaning": "ખેતી કરવી",
+      "hindiMeaning": "खेती करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Cultivate", "gujaratiPronunciation": "કલ્ટિવેટ", "hindiPronunciation": "कल्टिवेट", "gujaratiMeaning": "ખેતી કરવી", "hindiMeaning": "खेती करना" },
+        "V2 (Past)": { "word": "Cultivated", "gujaratiPronunciation": "કલ્ટિવેટેડ", "hindiPronunciation": "कल्टिवेटेड", "gujaratiMeaning": "ખેતી કરી", "hindiMeaning": "खेती की" },
+        "V3 (Past Participle)": { "word": "Cultivated", "gujaratiPronunciation": "કલ્ટિવેટેડ", "hindiPronunciation": "कल्टिवेटेड", "gujaratiMeaning": "ખેતી કરેલું", "hindiMeaning": "खेती किया हुआ" },
+        "V4 (Present Participle)": { "word": "Cultivating", "gujaratiPronunciation": "કલ્ટિવેટિંગ", "hindiPronunciation": "कल्टिवेटिंग", "gujaratiMeaning": "ખેતી કરી રહ્યું છે", "hindiMeaning": "खेती कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Grow", "gujaratiPronunciation": "ગ્રો", "hindiPronunciation": "ग्रो", "gujaratiMeaning": "ઉગાડવું", "hindiMeaning": "उगाना" },
+        { "word": "Nurture", "gujaratiPronunciation": "નર્ચર", "hindiPronunciation": "नर्चर", "gujaratiMeaning": "ઉછેરવું", "hindiMeaning": "पालन-पोषण करना" }
+      ],
+      "antonyms": [
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "उपेक्षा करना" },
+        { "word": "Abandon", "gujaratiPronunciation": "અબૅન્ડન", "hindiPronunciation": "अबैंडन", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "छोड़ देना" }
+      ],
+      "confusingWords": [
+        { "word": "Captivate", "gujaratiPronunciation": "કેપ્ટિવેટ", "hindiPronunciation": "कैप्टिवेट", "gujaratiMeaning": "મોહિત કરવું", "hindiMeaning": "मंत्रमुग्ध करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "They cultivate a variety of vegetables on their farm.", "gujaratiPronunciation": "ધે કલ્ટિવેટ અ વેરાયટી ઓફ વેજિટેબલ્સ ઓન ધેર ફાર્મ.", "hindiPronunciation": "दे कल्टिवेट अ वैरायटी ऑफ वेजिटेबल्स ऑन देयर फार्म।", "gujaratiTranslation": "તેઓ તેમના ખેતરમાં વિવિધ પ્રકારની શાકભાજી ઉગાડે છે.", "hindiTranslation": "वे अपने खेत में विभिन्न प्रकार की सब्जियाँ उगाते हैं।" }
+      ]
+    },
+    {
+      "word": "Germinate",
+      "gujaratiPronunciation": "જર્મિનેટ",
+      "hindiPronunciation": "जर्मिनेट",
+      "gujaratiMeaning": "અંકુરિત થવું",
+      "hindiMeaning": "अंकुरित होना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Germinate", "gujaratiPronunciation": "જર્મિનેટ", "hindiPronunciation": "जर्मिनेट", "gujaratiMeaning": "અંકુરિત થવું", "hindiMeaning": "अंकुरित होना" },
+        "V2 (Past)": { "word": "Germinated", "gujaratiPronunciation": "જર્મિનેટેડ", "hindiPronunciation": "जर्मिनेटेड", "gujaratiMeaning": "અંકુરિત થયું", "hindiMeaning": "अंकुरित हुआ" },
+        "V3 (Past Participle)": { "word": "Germinated", "gujaratiPronunciation": "જર્મિનેટેડ", "hindiPronunciation": "जर्मिनेटेड", "gujaratiMeaning": "અંકુરિત થયેલું", "hindiMeaning": "अंकुरित" },
+        "V4 (Present Participle)": { "word": "Germinating", "gujaratiPronunciation": "જર્મિનેટિંગ", "hindiPronunciation": "जर्मिनेटिंग", "gujaratiMeaning": "અંકુરિત થઈ રહ્યું છે", "hindiMeaning": "अंकुरित हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Sprout", "gujaratiPronunciation": "સ્પ્રાઉટ", "hindiPronunciation": "स्प्राउट", "gujaratiMeaning": "ફૂટવું", "hindiMeaning": "अंकुरित होना" },
+        { "word": "Develop", "gujaratiPronunciation": "ડેવલપ", "hindiPronunciation": "डेवलप", "gujaratiMeaning": "વિકસવું", "hindiMeaning": "विकसित होना" }
+      ],
+      "antonyms": [
+        { "word": "Die", "gujaratiPronunciation": "ડાઇ", "hindiPronunciation": "डाई", "gujaratiMeaning": "મરી જવું", "hindiMeaning": "मरना" },
+        { "word": "Wither", "gujaratiPronunciation": "વિધર", "hindiPronunciation": "विदर", "gujaratiMeaning": "કરમાઈ જવું", "hindiMeaning": "मुरझाना" }
+      ],
+      "confusingWords": [
+        { "word": "Eliminate", "gujaratiPronunciation": "એલિમિનેટ", "hindiPronunciation": "एलिमिनेट", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The seeds will germinate in a few days.", "gujaratiPronunciation": "ધ સીડ્સ વિલ જર્મિનેટ ઇન અ ફ્યુ ડેઝ.", "hindiPronunciation": "द सीड्स विल जर्मिनेट इन अ फ्यू डेज़।", "gujaratiTranslation": "બીજ થોડા દિવસોમાં અંકુરિત થશે.", "hindiTranslation": "बीज कुछ दिनों में अंकुरित हो जाएंगे।" }
+      ]
+    }
+  ]
+}
+    

@@ -1,0 +1,47 @@
+
+{
+    "id": "level-1",
+    "title": "Insects 1",
+    "words": [
+        {
+            "word": "Ant",
+            "icon": "🐜",
+            "gujaratiPronunciation": "એન્ટ",
+            "hindiPronunciation": "एंट",
+            "gujaratiMeaning": "કીડી",
+            "hindiMeaning": "चींटी"
+        },
+        {
+            "word": "Bee",
+            "icon": "🐝",
+            "gujaratiPronunciation": "બી",
+            "hindiPronunciation": "बी",
+            "gujaratiMeaning": "મધમાખી",
+            "hindiMeaning": "मधुमक्खी"
+        },
+        {
+            "word": "Butterfly",
+            "icon": "🦋",
+            "gujaratiPronunciation": "બટરફ્લાય",
+            "hindiPronunciation": "बटरफ्लाई",
+            "gujaratiMeaning": "પતંગિયું",
+            "hindiMeaning": "तितली"
+        },
+        {
+            "word": "Fly",
+            "icon": "🪰",
+            "gujaratiPronunciation": "ફ્લાય",
+            "hindiPronunciation": "फ्लाई",
+            "gujaratiMeaning": "માખી",
+            "hindiMeaning": "मक्खी"
+        },
+        {
+            "word": "Cockroach",
+            "icon": "🪳",
+            "gujaratiPronunciation": "કોકરોચ",
+            "hindiPronunciation": "कॉकरोच",
+            "gujaratiMeaning": "વંદો",
+            "hindiMeaning": "तिलचट्टा"
+        }
+    ]
+}

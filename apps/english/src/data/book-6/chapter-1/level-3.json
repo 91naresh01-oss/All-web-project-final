@@ -1,0 +1,140 @@
+{
+    "id": "level-3",
+    "title": "Level 3: Medical Interventions",
+    "words": [
+        {
+            "word": "Rehabilitate",
+            "gujaratiPronunciation": "રિહેબિલિટેટ",
+            "hindiPronunciation": "रिहैबिलिटेट",
+            "gujaratiMeaning": "પુનર્વસન કરવું",
+            "hindiMeaning": "पुनर्वास करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Rehabilitate", "gujaratiPronunciation": "રિહેબિલિટેટ", "hindiPronunciation": "रिहैबिलिटेट", "gujaratiMeaning": "પુનર્વસન કરવું", "hindiMeaning": "पुनर्वास करना" },
+                "V2 (Past)": { "word": "Rehabilitated", "gujaratiPronunciation": "રિહેબિલિટેટેડ", "hindiPronunciation": "रिहैबिलिटेटेड", "gujaratiMeaning": "પુનર્વસન કર્યું", "hindiMeaning": "पुनर्वास किया" },
+                "V3 (Past Participle)": { "word": "Rehabilitated", "gujaratiPronunciation": "રિહેબિલિટેટેડ", "hindiPronunciation": "रिहैबिलिटेटेड", "gujaratiMeaning": "પુનર્વસન કરેલ", "hindiMeaning": "पुनर्वास कर चुका" },
+                "V4 (Present Participle)": { "word": "Rehabilitating", "gujaratiPronunciation": "રિહેબિલિટેટિંગ", "hindiPronunciation": "रिहैबिलिटेटिंग", "gujaratiMeaning": "પુનર્વસન કરી રહ્યું છે", "hindiMeaning": "पुनर्वास कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Restore", "gujaratiPronunciation": "રિસ્ટોર", "hindiPronunciation": "रिस्टोर", "gujaratiMeaning": "પુનઃસ્થાપિત કરવું", "hindiMeaning": "पुनर्स्थापित करना" },
+                { "word": "Reintegrate", "gujaratiPronunciation": "રીઇન્ટિગ્રેટ", "hindiPronunciation": "रीइंटीग्रेट", "gujaratiMeaning": "ફરીથી એકીકૃત કરવું", "hindiMeaning": "फिर से एकीकृत करना" }
+            ],
+            "antonyms": [
+                { "word": "Damage", "gujaratiPronunciation": "ડેમેજ", "hindiPronunciation": "डैमेज", "gujaratiMeaning": "નુકસાન કરવું", "hindiMeaning": "नुकसान पहुँचाना" },
+                { "word": "Weaken", "gujaratiPronunciation": "વિકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमज़ोर करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The program helps to rehabilitate prisoners.", "gujaratiPronunciation": "ધ પ્રોગ્રામ હેલ્પ્સ ટુ રિહેબિલિટેટ પ્રિઝનર્સ.", "hindiPronunciation": "द प्रोग्राम हेल्प्स टू रिहैबिलिटेट प्रिज़नर्स।", "gujaratiTranslation": "આ કાર્યક્રમ કેદીઓના પુનર્વસનમાં મદદ કરે છે.", "hindiTranslation": "यह कार्यक्रम कैदियों के पुनर्वास में मदद करता है।" }
+            ]
+        },
+        {
+            "word": "Detoxify",
+            "gujaratiPronunciation": "ડિટોક્સિફાય",
+            "hindiPronunciation": "डिटॉक्सिफ़ाइ",
+            "gujaratiMeaning": "ઝેર દૂર કરવું",
+            "hindiMeaning": "ज़हर दूर करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Detoxify", "gujaratiPronunciation": "ડિટોક્સિફાય", "hindiPronunciation": "डिटॉक्सिफ़ाइ", "gujaratiMeaning": "ઝેર દૂર કરવું", "hindiMeaning": "ज़हर दूर करना" },
+                "V2 (Past)": { "word": "Detoxified", "gujaratiPronunciation": "ડિટોક્સિફાઇડ", "hindiPronunciation": "डिटॉक्सिफ़ाइड", "gujaratiMeaning": "ઝેર દૂર કર્યું", "hindiMeaning": "ज़हर दूर किया" },
+                "V3 (Past Participle)": { "word": "Detoxified", "gujaratiPronunciation": "ડિટોક્સિફાઇડ", "hindiPronunciation": "डिटॉक्सिफ़ाइड", "gujaratiMeaning": "ઝેર દૂર કરેલ", "hindiMeaning": "ज़हर दूर कर चुका" },
+                "V4 (Present Participle)": { "word": "Detoxifying", "gujaratiPronunciation": "ડિટોક્સિફાઇંગ", "hindiPronunciation": "डिटॉक्सिफ़ाइंग", "gujaratiMeaning": "ઝેર દૂર કરી રહ્યું છે", "hindiMeaning": "ज़हर दूर कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Cleanse", "gujaratiPronunciation": "ક્લેન્ઝ", "hindiPronunciation": "क्लेंज़", "gujaratiMeaning": "શુદ્ધ કરવું", "hindiMeaning": "शुद्ध करना" },
+                { "word": "Purify", "gujaratiPronunciation": "પ્યોરિફાય", "hindiPronunciation": "प्यूरिफ़ाइ", "gujaratiMeaning": "શુદ્ધ કરવું", "hindiMeaning": "शुद्ध करना" }
+            ],
+            "antonyms": [
+                { "word": "Poison", "gujaratiPronunciation": "પોઇઝન", "hindiPronunciation": "पॉइज़न", "gujaratiMeaning": "ઝેર આપવું", "hindiMeaning": "ज़हर देना" },
+                { "word": "Contaminate", "gujaratiPronunciation": "કન્ટેમિનેટ", "hindiPronunciation": "कन्टैमिनेट", "gujaratiMeaning": "દૂષિત કરવું", "hindiMeaning": "दूषित करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "This drink helps to detoxify the body.", "gujaratiPronunciation": "ધીસ ડ્રિંક હેલ્પ્સ ટુ ડિટોક્સિફાય ધ બોડી.", "hindiPronunciation": "दिस ड्रिंक हेल्प्स टू डिटॉक्सिफ़ाइ द बॉडी।", "gujaratiTranslation": "આ પીણું શરીરને ઝેરમુક્ત કરવામાં મદદ કરે છે.", "hindiTranslation": "यह पेय शरीर को डिटॉक्स करने में मदद करता है।" }
+            ]
+        },
+        {
+            "word": "Diagnose",
+            "gujaratiPronunciation": "ડાયગ્નોઝ",
+            "hindiPronunciation": "डायग्नोस",
+            "gujaratiMeaning": "નિદાન કરવું",
+            "hindiMeaning": "निदान करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Diagnose", "gujaratiPronunciation": "ડાયગ્નોઝ", "hindiPronunciation": "डायग्नोस", "gujaratiMeaning": "નિદાન કરવું", "hindiMeaning": "निदान करना" },
+                "V2 (Past)": { "word": "Diagnosed", "gujaratiPronunciation": "ડાયગ્નોઝ્ડ", "hindiPronunciation": "डायग्नोस्ड", "gujaratiMeaning": "નિદાન કર્યું", "hindiMeaning": "निदान किया" },
+                "V3 (Past Participle)": { "word": "Diagnosed", "gujaratiPronunciation": "ડાયગ્નોઝ્ડ", "hindiPronunciation": "डायग्नोस्ड", "gujaratiMeaning": "નિદાન કરેલ", "hindiMeaning": "निदान कर चुका" },
+                "V4 (Present Participle)": { "word": "Diagnosing", "gujaratiPronunciation": "ડાયગ્નોઝિંગ", "hindiPronunciation": "डायग्नोसिंग", "gujaratiMeaning": "નિદાન કરી રહ્યું છે", "hindiMeaning": "निदान कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Identify", "gujaratiPronunciation": "આઇડેન્ટિફાય", "hindiPronunciation": "आइडेंटिफ़ाइ", "gujaratiMeaning": "ઓળખવું", "hindiMeaning": "पहचानना" },
+                { "word": "Determine", "gujaratiPronunciation": "ડિટર્માઇન", "hindiPronunciation": "डिटरमाइन", "gujaratiMeaning": "નક્કી કરવું", "hindiMeaning": "निर्धारित करना" }
+            ],
+            "antonyms": [
+                { "word": "Misdiagnose", "gujaratiPronunciation": "મિસડાયગ્નોઝ", "hindiPronunciation": "मिसडायग्नोस", "gujaratiMeaning": "ખોટું નિદાન કરવું", "hindiMeaning": "गलत निदान करना" },
+                { "word": "Overlook", "gujaratiPronunciation": "ઓવરલુક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "નજરઅંદાજ કરવું", "hindiMeaning": "नज़रअंदाज़ करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The doctor was able to diagnose the illness.", "gujaratiPronunciation": "ધ ડોક્ટર વોઝ એબલ ટુ ડાયગ્નોઝ ધ ઇલનેસ.", "hindiPronunciation": "द डॉक्टर वॉज़ एबल टू डायग्नोस द इलनेस।", "gujaratiTranslation": "ડૉક્ટર બીમારીનું નિદાન કરવામાં સક્ષમ હતા.", "hindiTranslation": "डॉक्टर बीमारी का निदान करने में सक्षम थे।" }
+            ]
+        },
+        {
+            "word": "Alleviate",
+            "gujaratiPronunciation": "અલિવિએટ",
+            "hindiPronunciation": "एलीविएट",
+            "gujaratiMeaning": "ઓછું કરવું / હળવું કરવું",
+            "hindiMeaning": "कम करना / हल्का करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Alleviate", "gujaratiPronunciation": "અલિવિએટ", "hindiPronunciation": "एलीविएट", "gujaratiMeaning": "ઓછું કરવું", "hindiMeaning": "कम करना" },
+                "V2 (Past)": { "word": "Alleviated", "gujaratiPronunciation": "અલિવિએટેડ", "hindiPronunciation": "एलीविएटेड", "gujaratiMeaning": "ઓછું કર્યું", "hindiMeaning": "कम किया" },
+                "V3 (Past Participle)": { "word": "Alleviated", "gujaratiPronunciation": "અલિવિએટેડ", "hindiPronunciation": "एलीविएटेड", "gujaratiMeaning": "ઓછું કરેલ", "hindiMeaning": "कम कर चुका" },
+                "V4 (Present Participle)": { "word": "Alleviating", "gujaratiPronunciation": "અલિવિએટિંગ", "hindiPronunciation": "एलीविएटिंग", "gujaratiMeaning": "ઓછું કરી રહ્યું છે", "hindiMeaning": "कम कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Reduce", "gujaratiPronunciation": "રિડ્યુસ", "hindiPronunciation": "रिड्यूस", "gujaratiMeaning": "ઘટાડવું", "hindiMeaning": "घटाना" },
+                { "word": "Ease", "gujaratiPronunciation": "ઇઝ", "hindiPronunciation": "ईज़", "gujaratiMeaning": "સરળ બનાવવું", "hindiMeaning": "आसान बनाना" }
+            ],
+            "antonyms": [
+                { "word": "Aggravate", "gujaratiPronunciation": "એગ્રાવેટ", "hindiPronunciation": "एग्रवेट", "gujaratiMeaning": "વધારવું", "hindiMeaning": "बढ़ाना" },
+                { "word": "Intensify", "gujaratiPronunciation": "ઇન્ટેન્સિફાય", "hindiPronunciation": "इंटेंसिफ़ाइ", "gujaratiMeaning": "તીવ્ર બનાવવું", "hindiMeaning": "तीव्र करना" }
+            ],
+            "confusingWords": [
+                { "word": "Elevate", "gujaratiPronunciation": "એલિવેટ", "hindiPronunciation": "एलिवेट", "gujaratiMeaning": "ઉંચુ કરવું", "hindiMeaning": "ऊपर उठाना", "difference": "Alleviate એટલે પીડા ઓછી કરવી, જ્યારે Elevate એટલે કોઈ વસ્તુને ઉંચી કરવી." }
+            ],
+            "exampleSentences": [
+                { "sentence": "This medicine will alleviate your pain.", "gujaratiPronunciation": "ધીસ મેડિસિન વિલ અલિવિએટ યોર પેઇન.", "hindiPronunciation": "दिस मेडिसिन विल एलीविएट योर पेन।", "gujaratiTranslation": "આ દવા તમારી પીડાને ઓછી કરશે.", "hindiTranslation": "यह दवा आपके दर्द को कम करेगी।" }
+            ]
+        },
+        {
+            "word": "Prescribe",
+            "gujaratiPronunciation": "પ્રિસ્ક્રાઇબ",
+            "hindiPronunciation": "प्रिस्क्राइब",
+            "gujaratiMeaning": "દવા લખી આપવી",
+            "hindiMeaning": "दवा लिखना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Prescribe", "gujaratiPronunciation": "પ્રિસ્ક્રાઇબ", "hindiPronunciation": "प्रिस्क्राइब", "gujaratiMeaning": "દવા લખી આપવી", "hindiMeaning": "दवा लिखना" },
+                "V2 (Past)": { "word": "Prescribed", "gujaratiPronunciation": "પ્રિસ્ક્રાઇબ્ડ", "hindiPronunciation": "प्रिस्क्राइब्ड", "gujaratiMeaning": "દવા લખી આપી", "hindiMeaning": "दवा लिखी" },
+                "V3 (Past Participle)": { "word": "Prescribed", "gujaratiPronunciation": "પ્રિસ્ક્રાઇબ્ડ", "hindiPronunciation": "प्रिस्क्राइब्ड", "gujaratiMeaning": "દવા લખી આપેલ", "hindiMeaning": "दवा लिख चुका" },
+                "V4 (Present Participle)": { "word": "Prescribing", "gujaratiPronunciation": "પ્રિસ્ક્રાઇબિંગ", "hindiPronunciation": "प्रिस्क्राइबिंग", "gujaratiMeaning": "દવા લખી રહ્યું છે", "hindiMeaning": "दवा लिख रहा है" }
+            },
+            "synonyms": [
+                { "word": "Recommend", "gujaratiPronunciation": "રેકમેન્ડ", "hindiPronunciation": "रिकमेंड", "gujaratiMeaning": "ભલામણ કરવી", "hindiMeaning": "सिफारिश करना" },
+                { "word": "Order", "gujaratiPronunciation": "ઓર્ડર", "hindiPronunciation": "ऑर्डर", "gujaratiMeaning": "આદેશ આપવો", "hindiMeaning": "आदेश देना" }
+            ],
+            "antonyms": [
+                { "word": "Proscribe", "gujaratiPronunciation": "પ્રોસ્ક્રાઇબ", "hindiPronunciation": "प्रोस्क्राइब", "gujaratiMeaning": "પ્રતિબંધ મૂકવો", "hindiMeaning": "प्रतिबंध लगाना" },
+                { "word": "Forbid", "gujaratiPronunciation": "ફોરબિડ", "hindiPronunciation": "फॉरबिड", "gujaratiMeaning": "મનાઈ કરવી", "hindiMeaning": "मना करना" }
+            ],
+            "confusingWords": [
+                { "word": "Proscribe", "gujaratiPronunciation": "પ્રોસ્ક્રાઇબ", "hindiPronunciation": "प्रोस्क्राइब", "gujaratiMeaning": "પ્રતિબંધ મૂકવો", "hindiMeaning": "प्रतिबंध लगाना", "difference": "Prescribe એટલે ભલામણ કરવી (ખાસ કરીને દવા), જ્યારે Proscribe એટલે સત્તાવાર રીતે પ્રતિબંધ મૂકવો." }
+            ],
+            "exampleSentences": [
+                { "sentence": "The doctor prescribed antibiotics for the infection.", "gujaratiPronunciation": "ધ ડોક્ટર પ્રિસ્ક્રાઇબ્ડ એન્ટિબાયોટિક્સ ફોર ધ ઇન્ફેક્શન.", "hindiPronunciation": "द डॉक्टर प्रिस्क्राइब्ड एंटीबायोटिक्स फॉर द इन्फेक्शन।", "gujaratiTranslation": "ડૉક્ટરે ચેપ માટે એન્ટિબાયોટિક્સ લખી આપી.", "hindiTranslation": "डॉक्टर ने संक्रमण के लिए एंटीबायोटिक्स लिखीं।" }
+            ]
+        }
+    ]
+}

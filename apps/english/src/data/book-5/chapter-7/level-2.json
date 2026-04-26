@@ -1,0 +1,161 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Deposit",
+      "gujaratiPronunciation": "ડિપોઝિટ",
+      "hindiPronunciation": "डिपॉजिट",
+      "gujaratiMeaning": "જમા કરવું",
+      "hindiMeaning": "जमा करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Deposit", "gujaratiPronunciation": "ડિપોઝિટ", "hindiPronunciation": "डिपॉजिट", "gujaratiMeaning": "જમા કરવું", "hindiMeaning": "जमा करना" },
+        "v2": { "word": "Deposited", "gujaratiPronunciation": "ડિપોઝિટેડ", "hindiPronunciation": "डिपॉजिटेड", "gujaratiMeaning": "જમા કર્યું", "hindiMeaning": "जमा किया" },
+        "v3": { "word": "Deposited", "gujaratiPronunciation": "ડિપોઝિટેડ", "hindiPronunciation": "डिपॉजिटेड", "gujaratiMeaning": "જમા કરેલું", "hindiMeaning": "जमा किया हुआ" },
+        "v4": { "word": "Depositing", "gujaratiPronunciation": "ડિપોઝિટિંગ", "hindiPronunciation": "डिपॉजिटिंग", "gujaratiMeaning": "જમા કરી રહ્યું છે", "hindiMeaning": "जमा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Place", "gujaratiPronunciation": "પ્લેસ", "hindiPronunciation": "प्लेस", "gujaratiMeaning": "મૂકવું", "hindiMeaning": "रखना" },
+        { "word": "Lodge", "gujaratiPronunciation": "લોજ", "hindiPronunciation": "लॉज", "gujaratiMeaning": "દાખલ કરવું", "hindiMeaning": "दर्ज करना" }
+      ],
+      "antonyms": [
+        { "word": "Withdraw", "gujaratiPronunciation": "વિથડ્રો", "hindiPronunciation": "विद्ड्रॉ", "gujaratiMeaning": "ઉપાડવું", "hindiMeaning": "निकालना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "I need to deposit this cheque at the bank.",
+          "gujaratiTranslation": "મારે આ ચેક બેંકમાં જમા કરાવવાની જરૂર છે.",
+          "hindiTranslation": "मुझे यह चेक बैंक में जमा करना है।",
+          "gujaratiPronunciation": "આઈ નીડ ટુ ડિપોઝિટ ધિસ ચેક એટ ધ બેંક.",
+          "hindiPronunciation": "आई नीड टू डिपॉजिट दिस चेक एट द बैंक।"
+        }
+      ]
+    },
+    {
+      "word": "Withdraw",
+      "gujaratiPronunciation": "વિથડ્રો",
+      "hindiPronunciation": "विद्ड्रॉ",
+      "gujaratiMeaning": "ઉપાડવું",
+      "hindiMeaning": "निकालना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Withdraw", "gujaratiPronunciation": "વિથડ્રો", "hindiPronunciation": "विद्ड्रॉ", "gujaratiMeaning": "ઉપાડવું", "hindiMeaning": "निकालना" },
+        "v2": { "word": "Withdrew", "gujaratiPronunciation": "વિથડ્રૂ", "hindiPronunciation": "विद्ड्रू", "gujaratiMeaning": "ઉપાડ્યું", "hindiMeaning": "निकाला" },
+        "v3": { "word": "Withdrawn", "gujaratiPronunciation": "વિથડ્રોન", "hindiPronunciation": "विद्ड्रॉन", "gujaratiMeaning": "ઉપાડેલું", "hindiMeaning": "निकाला हुआ" },
+        "v4": { "word": "Withdrawing", "gujaratiPronunciation": "વિથડ્રોઇંગ", "hindiPronunciation": "विद्ड्रॉइंग", "gujaratiMeaning": "ઉપાડી રહ્યું છે", "hindiMeaning": "निकाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Remove", "gujaratiPronunciation": "રિમૂવ", "hindiPronunciation": "रिमूव", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" },
+        { "word": "Extract", "gujaratiPronunciation": "એક્સટ્રેક્ટ", "hindiPronunciation": "एक्सट्रेक्ट", "gujaratiMeaning": "બહાર કાઢવું", "hindiMeaning": "निकालना" }
+      ],
+      "antonyms": [
+        { "word": "Deposit", "gujaratiPronunciation": "ડિપોઝિટ", "hindiPronunciation": "डिपॉजिट", "gujaratiMeaning": "જમા કરવું", "hindiMeaning": "जमा करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "He went to the ATM to withdraw some cash.",
+          "gujaratiTranslation": "તે કેટલાક રોકડા ઉપાડવા માટે એટીએમ પર ગયો.",
+          "hindiTranslation": "वह कुछ नकदी निकालने के लिए एटीएम गया।",
+          "gujaratiPronunciation": "હી વેન્ટ ટુ ધ એટીએમ ટુ વિથડ્રો સમ કેશ.",
+          "hindiPronunciation": "ही वेंट टू द एटीएम टू विद्ड्रॉ सम कैश।"
+        }
+      ]
+    },
+    {
+      "word": "Transact",
+      "gujaratiPronunciation": "ટ્રાન્ઝેક્ટ",
+      "hindiPronunciation": "ट्रांजैक्ट",
+      "gujaratiMeaning": "વ્યવહાર કરવો",
+      "hindiMeaning": "लेन-देन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Transact", "gujaratiPronunciation": "ટ્રાન્ઝેક્ટ", "hindiPronunciation": "ट्रांजैक्ट", "gujaratiMeaning": "વ્યવહાર કરવો", "hindiMeaning": "लेन-देन करना" },
+        "v2": { "word": "Transacted", "gujaratiPronunciation": "ટ્રાન્ઝેક્ટેડ", "hindiPronunciation": "ट्रांजैक्टेड", "gujaratiMeaning": "વ્યવહાર કર્યો", "hindiMeaning": "लेन-देन किया" },
+        "v3": { "word": "Transacted", "gujaratiPronunciation": "ટ્રાન્ઝેક્ટેડ", "hindiPronunciation": "ट्रांजैक्टेड", "gujaratiMeaning": "વ્યવહાર કરેલો", "hindiMeaning": "लेन-देन किया हुआ" },
+        "v4": { "word": "Transacting", "gujaratiPronunciation": "ટ્રાન્ઝેક્ટિંગ", "hindiPronunciation": "ट्रांजैक्टिंग", "gujaratiMeaning": "વ્યવહાર કરી રહ્યું છે", "hindiMeaning": "लेन-देन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Conduct", "gujaratiPronunciation": "કન્ડક્ટ", "hindiPronunciation": "कंडक्ट", "gujaratiMeaning": "સંચાલન કરવું", "hindiMeaning": "संचालन करना" },
+        { "word": "Perform", "gujaratiPronunciation": "પરફોર્મ", "hindiPronunciation": "परफॉर्म", "gujaratiMeaning": "પ્રદર્શન કરવું", "hindiMeaning": "प्रदर्शन करना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Most of our business is transacted online.",
+          "gujaratiTranslation": "આપણા મોટાભાગના વ્યવસાયનો વ્યવહાર ઓનલાઈન થાય છે.",
+          "hindiTranslation": "हमारा अधिकांश व्यवसाय ऑनलाइन किया जाता है।",
+          "gujaratiPronunciation": "મોસ્ટ ઓફ અવર બિઝનેસ ઇઝ ટ્રાન્ઝેક્ટેડ ઓનલાઇન.",
+          "hindiPronunciation": "मोस्ट ऑफ आवर बिजनेस इज ट्रांजैक्टेड ऑनलाइन।"
+        }
+      ]
+    },
+    {
+      "word": "Allocate",
+      "gujaratiPronunciation": "એલોકેટ",
+      "hindiPronunciation": "एलोकेट",
+      "gujaratiMeaning": "ફાળવવું",
+      "hindiMeaning": "आवंटित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Allocate", "gujaratiPronunciation": "એલોકેટ", "hindiPronunciation": "एलोकेट", "gujaratiMeaning": "ફાળવવું", "hindiMeaning": "आवंटित करना" },
+        "v2": { "word": "Allocated", "gujaratiPronunciation": "એલોકેટેડ", "hindiPronunciation": "एलोकेटेड", "gujaratiMeaning": "ફાળવ્યું", "hindiMeaning": "आवंटित किया" },
+        "v3": { "word": "Allocated", "gujaratiPronunciation": "એલોકેટેડ", "hindiPronunciation": "एलोकेटेड", "gujaratiMeaning": "ફાળવેલું", "hindiMeaning": "आवंटित किया हुआ" },
+        "v4": { "word": "Allocating", "gujaratiPronunciation": "એલોકેટિંગ", "hindiPronunciation": "एलोकेटिंग", "gujaratiMeaning": "ફાળવી રહ્યું છે", "hindiMeaning": "आवंटित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Assign", "gujaratiPronunciation": "અસાઇન", "hindiPronunciation": "असाइन", "gujaratiMeaning": "સોંપવું", "hindiMeaning": "सौंपना" },
+        { "word": "Distribute", "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ", "hindiPronunciation": "डिस्ट्रीब्यूट", "gujaratiMeaning": "વહેંચવું", "hindiMeaning": "बांटना" }
+      ],
+      "antonyms": [
+        { "word": "Withhold", "gujaratiPronunciation": "વિથહોલ્ડ", "hindiPronunciation": "विद्होल्ड", "gujaratiMeaning": "રોકી રાખવું", "hindiMeaning": "रोक रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Locate", "gujaratiPronunciation": "લોકેટ", "hindiPronunciation": "लोकेट", "gujaratiMeaning": "શોધવું", "hindiMeaning": "खोजना", "difference": "Allocate એટલે ફાળવવું, જ્યારે Locate એટલે શોધવું." }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government will allocate more funds for education.",
+          "gujaratiTranslation": "સરકાર શિક્ષણ માટે વધુ ભંડોળ ફાળવશે.",
+          "hindiTranslation": "सरकार शिक्षा के लिए और अधिक धन आवंटित करेगी।",
+          "gujaratiPronunciation": "ધ ગવર્મેન્ટ વિલ એલોકેટ મોર ફંડ્સ ફોર એજ્યુકેશન.",
+          "hindiPronunciation": "द गवर्नमेंट विल एलोकेट मोर फंड्स फॉर एजुकेशन।"
+        }
+      ]
+    },
+    {
+      "word": "Invoice",
+      "gujaratiPronunciation": "ઇનવોઇસ",
+      "hindiPronunciation": "इनवॉइस",
+      "gujaratiMeaning": "ભરતિયું બનાવવું",
+      "hindiMeaning": "बिल बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Invoice", "gujaratiPronunciation": "ઇનવોઇસ", "hindiPronunciation": "इनवॉइस", "gujaratiMeaning": "ભરતિયું બનાવવું", "hindiMeaning": "बिल बनाना" },
+        "v2": { "word": "Invoiced", "gujaratiPronunciation": "ઇનવોઇસ્ડ", "hindiPronunciation": "इनवॉइस्ड", "gujaratiMeaning": "ભરતિયું બનાવ્યું", "hindiMeaning": "बिल बनाया" },
+        "v3": { "word": "Invoiced", "gujaratiPronunciation": "ઇનવોઇસ્ડ", "hindiPronunciation": "इनवॉइस्ड", "gujaratiMeaning": "ભરતિયું બનાવેલું", "hindiMeaning": "बिल बनाया हुआ" },
+        "v4": { "word": "Invoicing", "gujaratiPronunciation": "ઇનવોઇસિંગ", "hindiPronunciation": "इनवॉइसिंग", "gujaratiMeaning": "ભરતિયું બનાવી રહ્યું છે", "hindiMeaning": "बिल बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Bill", "gujaratiPronunciation": "બિલ", "hindiPronunciation": "बिल", "gujaratiMeaning": "બિલ બનાવવું", "hindiMeaning": "बिल बनाना" },
+        { "word": "Charge", "gujaratiPronunciation": "ચાર્જ", "hindiPronunciation": "चार्ज", "gujaratiMeaning": "ચાર્જ લગાવવો", "hindiMeaning": "शुल्क लगाना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        { "word": "Voice", "gujaratiPronunciation": "વોઇસ", "hindiPronunciation": "वॉइस", "gujaratiMeaning": "અવાજ", "hindiMeaning": "आवाज़", "difference": "Invoice એટલે ભરતિયું, જ્યારે Voice એટલે અવાજ." }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please invoice us for the services provided.",
+          "gujaratiTranslation": "કૃપા કરીને પૂરી પાડવામાં આવેલી સેવાઓ માટે અમને ભરતિયું મોકલો.",
+          "hindiTranslation": "कृपया प्रदान की गई सेवाओं के लिए हमें बिल भेजें।",
+          "gujaratiPronunciation": "પ્લીઝ ઇનવોઇસ અસ ફોર ધ સર્વિસીસ પ્રોવાઇડેડ.",
+          "hindiPronunciation": "प्लीज इनवॉइस अस फॉर द सर्विसेज प्रोवाइडेड।"
+        }
+      ]
+    }
+  ]
+}

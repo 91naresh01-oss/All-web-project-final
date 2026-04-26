@@ -1,0 +1,172 @@
+
+{
+    "id": "level-2",
+    "title": "Level 2",
+    "words": [
+        {
+            "word": "Interface",
+            "gujaratiPronunciation": "ઇન્ટરફેસ",
+            "hindiPronunciation": "इंटरफ़ेस",
+            "gujaratiMeaning": "બે સિસ્ટમ વચ્ચે જોડાણ સ્થાપિત કરવું",
+            "hindiMeaning": "दो प्रणालियों के बीच जुड़ना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Interface", "pronunciation": "ઇન્ટરફેસ", "meaning": "જોડાણ કરવું" },
+                "v2": { "word": "Interfaced", "pronunciation": "ઇન્ટરફેસ્ડ", "meaning": "જોડાણ કર્યું" },
+                "v3": { "word": "Interfaced", "pronunciation": "ઇન્ટરફેસ્ડ", "meaning": "જોડાણ કરેલું" },
+                "v4": { "word": "Interfacing", "pronunciation": "ઇન્ટરફેસિંગ", "meaning": "જોડાણ કરી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Connect", "pronunciation": "કનેક્ટ", "meaning": "જોડવું" },
+                { "word": "Interact", "pronunciation": "ઇન્ટરેક્ટ", "meaning": "ક્રિયા-પ્રતિક્રિયા કરવી" }
+            ],
+            "antonyms": [
+                { "word": "Disconnect", "pronunciation": "ડિસ્કનેક્ટ", "meaning": "જોડાણ તોડવું" },
+                { "word": "Isolate", "pronunciation": "આઇસોલેટ", "meaning": "અલગ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Interfere", "pronunciation": "ઇન્ટરફિયર", "meaning": "દખલગીરી કરવી" },
+                { "word": "In your face", "pronunciation": "ઇન યોર ફેસ", "meaning": "આક્રમક રીતે સ્પષ્ટ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The software is designed to interface seamlessly with existing systems.",
+                    "gujaratiTranslation": "આ સોફ્ટવેર હાલની સિસ્ટમ સાથે સરળતાથી જોડાણ સ્થાપિત કરવા માટે બનાવવામાં આવ્યું છે.",
+                    "hindiTranslation": "यह सॉफ्टवेयर मौजूदा सिस्टम के साथ सहजता से इंटरफ़ेस करने के लिए डिज़ाइन किया गया है।"
+                }
+            ]
+        },
+        {
+            "word": "Coincide",
+            "gujaratiPronunciation": "કોઇનસાઇડ",
+            "hindiPronunciation": "कोइंसाइड",
+            "gujaratiMeaning": "એક જ સમયે અથવા જગ્યાએ બનવું",
+            "hindiMeaning": "एक ही समय या स्थान पर घटित होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Coincide", "pronunciation": "કોઇનસાઇડ", "meaning": "એકસાથે બનવું" },
+                "v2": { "word": "Coincided", "pronunciation": "કોઇનસાઇડેડ", "meaning": "એકસાથે બન્યું" },
+                "v3": { "word": "Coincided", "pronunciation": "કોઇનસાઇડેડ", "meaning": "એકસાથે બનેલું" },
+                "v4": { "word": "Coinciding", "pronunciation": "કોઇનસાઇડિંગ", "meaning": "એકસાથે બની રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Correspond", "pronunciation": "કોરસ્પોન્ડ", "meaning": "અનુરૂપ હોવું" },
+                { "word": "Concur", "pronunciation": "કનકર", "meaning": "સહમત થવું" }
+            ],
+            "antonyms": [
+                { "word": "Differ", "pronunciation": "ડિફર", "meaning": "અલગ હોવું" },
+                { "word": "Diverge", "pronunciation": "ડાઇવર્જ", "meaning": "વિભાજીત થવું" }
+            ],
+            "confusingWords": [
+                { "word": "Coin a side", "pronunciation": "કોઇન અ સાઇડ", "meaning": "એક બાજુ પસંદ કરવી" },
+                { "word": "Collide", "pronunciation": "કોલાઇડ", "meaning": "ટકરાવું" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "My vacation plans coincide with the company's annual retreat.",
+                    "gujaratiTranslation": "મારી વેકેશનની યોજનાઓ કંપનીના વાર્ષિક રિટ્રીટ સાથે એક જ સમયે આવે છે.",
+                    "hindiTranslation": "मेरी छुट्टियों की योजनाएँ कंपनी के वार्षिक रिट्रीट के साथ मेल खाती हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Bind",
+            "gujaratiPronunciation": "બાઇન્ડ",
+            "hindiPronunciation": "बाइंड",
+            "gujaratiMeaning": "બાંધવું, જોડવું",
+            "hindiMeaning": "बांधना, जोड़ना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Bind", "pronunciation": "બાઇન્ડ", "meaning": "બાંધવું" },
+                "v2": { "word": "Bound", "pronunciation": "બાઉન્ડ", "meaning": "બાંધ્યું" },
+                "v3": { "word": "Bound", "pronunciation": "બાઉન્ડ", "meaning": "બંધાયેલું" },
+                "v4": { "word": "Binding", "pronunciation": "બાઇન્ડિંગ", "meaning": "બાંધી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Tie", "pronunciation": "ટાઇ", "meaning": "બાંધવું" },
+                { "word": "Fasten", "pronunciation": "ફાસન", "meaning": "જકડીને બાંધવું" }
+            ],
+            "antonyms": [
+                { "word": "Unbind", "pronunciation": "અનબાઇન્ડ", "meaning": "છોડવું" },
+                { "word": "Release", "pronunciation": "રિલીઝ", "meaning": "મુક્ત કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Bend", "pronunciation": "બેન્ડ", "meaning": "વાળવું" },
+                { "word": "Bond", "pronunciation": "બોન્ડ", "meaning": "બંધન" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The contract will bind them to the terms for five years.",
+                    "gujaratiTranslation": "આ કરાર તેમને પાંચ વર્ષ માટે શરતોથી બાંધશે.",
+                    "hindiTranslation": "यह अनुबंध उन्हें पांच साल के लिए शर्तों से बांध देगा।"
+                }
+            ]
+        },
+        {
+            "word": "Adhere",
+            "gujaratiPronunciation": "અડહિયર",
+            "hindiPronunciation": "अडिअर",
+            "gujaratiMeaning": "ચોંટી રહેવું, વળગી રહેવું",
+            "hindiMeaning": "चिपकना, पालन करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Adhere", "pronunciation": "અડહિયર", "meaning": "વળગી રહેવું" },
+                "v2": { "word": "Adhered", "pronunciation": "અડહિયર્ડ", "meaning": "વળગી રહ્યું" },
+                "v3": { "word": "Adhered", "pronunciation": "અડહિયર્ડ", "meaning": "વળગી રહેલું" },
+                "v4": { "word": "Adhering", "pronunciation": "અડહિયરિંગ", "meaning": "વળગી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Stick", "pronunciation": "સ્ટિક", "meaning": "ચોંટવું" },
+                { "word": "Comply", "pronunciation": "કમ્પ્લાય", "meaning": "પાલન કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Detach", "pronunciation": "ડિટેચ", "meaning": "અલગ થવું" },
+                { "word": "Ignore", "pronunciation": "ઇગ્નોર", "meaning": "અવગણના કરવી" }
+            ],
+            "confusingWords": [
+                { "word": "Add here", "pronunciation": "ઍડ હિયર", "meaning": "અહીં ઉમેરો" },
+                { "word": "A dear", "pronunciation": "અ ડિયર", "meaning": "એક પ્રિય" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "All members must adhere to the club's rules.",
+                    "gujaratiTranslation": "બધા સભ્યોએ ક્લબના નિયમોને વળગી રહેવું જોઈએ.",
+                    "hindiTranslation": "सभी सदस्यों को क्लब के नियमों का पालन करना होगा।"
+                }
+            ]
+        },
+        {
+            "word": "Resonate",
+            "gujaratiPronunciation": "રેઝોનેટ",
+            "hindiPronunciation": "रेज़ोनेट",
+            "gujaratiMeaning": "અનુનાદ કરવો, ભાવનાત્મક રીતે સંબંધિત લાગવું",
+            "hindiMeaning": "प्रतिध्वनित होना, भावनात्मक रूप से संबंधित महसूस होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Resonate", "pronunciation": "રેઝોનેટ", "meaning": "અનુનાદ કરવો" },
+                "v2": { "word": "Resonated", "pronunciation": "રેઝોનેટેડ", "meaning": "અનુનાદ કર્યો" },
+                "v3": { "word": "Resonated", "pronunciation": "રેઝોનેટેડ", "meaning": "અનુનાદ કરેલો" },
+                "v4": { "word": "Resonating", "pronunciation": "રેઝોનેટિંગ", "meaning": "અનુનાદ કરી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Echo", "pronunciation": "એકો", "meaning": "પડઘો પાડવો" },
+                { "word": "Vibrate", "pronunciation": "વાઇબ્રેટ", "meaning": "કંપન કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Clash", "pronunciation": "ક્લેશ", "meaning": "સંઘર્ષ થવો" },
+                { "word": "Disagree", "pronunciation": "ડિસએગ્રી", "meaning": "અસંમત થવું" }
+            ],
+            "confusingWords": [
+                { "word": "Resignate", "pronunciation": "રેઝિગ્નેટ", "meaning": "(કોઈ શબ્દ નથી)" },
+                { "word": "Reason eight", "pronunciation": "રીઝન એટ", "meaning": "આઠમું કારણ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Her story resonated with millions of women.",
+                    "gujaratiTranslation": "તેની વાર્તા લાખો સ્ત્રીઓના દિલને સ્પર્શી ગઈ.",
+                    "hindiTranslation": "उनकी कहानी लाखों महिलाओं के दिलों में गूंज उठी।"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,482 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Troubleshoot",
+      "gujaratiPronunciation": "ટ્રબલશૂટ",
+      "hindiPronunciation": "ट्रबलशूट",
+      "gujaratiMeaning": "સમસ્યાનું નિવારણ કરવું",
+      "hindiMeaning": "समस्या निवारण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Troubleshoot",
+          "gujaratiPronunciation": "ટ્રબલશૂટ",
+          "hindiPronunciation": "ट्रबलशूट",
+          "gujaratiMeaning": "સમસ્યાનું નિવારણ કરવું",
+          "hindiMeaning": "समस्या निवारण करना"
+        },
+        "v2": {
+          "word": "Troubleshot",
+          "gujaratiPronunciation": "ટ્રબલશૉટ",
+          "hindiPronunciation": "ट्रबलशॉट",
+          "gujaratiMeaning": "સમસ્યાનું નિવારણ કર્યું",
+          "hindiMeaning": "समस्या निवारण किया"
+        },
+        "v3": {
+          "word": "Troubleshot",
+          "gujaratiPronunciation": "ટ્રબલશૉટ",
+          "hindiPronunciation": "ट्रबलशॉट",
+          "gujaratiMeaning": "સમસ્યાનું નિવારણ કરેલું",
+          "hindiMeaning": "समस्या निवारण किया हुआ"
+        },
+        "v4": {
+          "word": "Troubleshooting",
+          "gujaratiPronunciation": "ટ્રબલશૂટિંગ",
+          "hindiPronunciation": "ट्रबलशूटिंग",
+          "gujaratiMeaning": "સમસ્યાનું નિવારણ કરી રહ્યું છે",
+          "hindiMeaning": "समस्या निवारण कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Debug",
+          "gujaratiPronunciation": "ડિબગ",
+          "hindiPronunciation": "डीबग",
+          "gujaratiMeaning": "ભૂલ સુધારવી",
+          "hindiMeaning": "त्रुटि सुधारना"
+        },
+        {
+          "word": "Diagnose",
+          "gujaratiPronunciation": "ડાયગ્નોઝ",
+          "hindiPronunciation": "डायग्नोज़",
+          "gujaratiMeaning": "નિદાન કરવું",
+          "hindiMeaning": "निदान करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Create",
+          "gujaratiPronunciation": "ક્રિએટ",
+          "hindiPronunciation": "क्रिएट",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Cause",
+          "gujaratiPronunciation": "કૉઝ",
+          "hindiPronunciation": "कॉज़",
+          "gujaratiMeaning": "કારણ બનવું",
+          "hindiMeaning": "कारण बनना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Shoot",
+          "gujaratiPronunciation": "શૂટ",
+          "hindiPronunciation": "शूट",
+          "gujaratiMeaning": "ગોળી મારવી",
+          "hindiMeaning": "गोली मारना"
+        },
+        {
+          "word": "Trouble",
+          "gujaratiPronunciation": "ટ્રબલ",
+          "hindiPronunciation": "ट्रबल",
+          "gujaratiMeaning": "મુશ્કેલી",
+          "hindiMeaning": "परेशानी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The technician can troubleshoot the problem with your computer.",
+          "gujaratiTranslation": "ટેકનિશિયન તમારા કમ્પ્યુટરની સમસ્યાનું નિવારણ કરી શકે છે.",
+          "hindiTranslation": "तकनीशियन आपके कंप्यूटर की समस्या का निवारण कर सकता है।",
+          "gujaratiPronunciation": "ધ ટેકનિશિયન કેન ટ્રબલશૂટ ધ પ્રોબ્લેમ વિથ યોર કમ્પ્યુટર.",
+          "hindiPronunciation": "द टेक्निशियन कैन ट्रबलशूट द प्रॉब्लम विथ योर कंप्यूटर।"
+        }
+      ]
+    },
+    {
+      "word": "Elucidate",
+      "gujaratiPronunciation": "ઇલ્યુસિડેટ",
+      "hindiPronunciation": "एल्यूसिडेट",
+      "gujaratiMeaning": "સ્પષ્ટ કરવું",
+      "hindiMeaning": "स्पष्ट करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Elucidate",
+          "gujaratiPronunciation": "ઇલ્યુસિડેટ",
+          "hindiPronunciation": "एल्यूसिडेट",
+          "gujaratiMeaning": "સ્પષ્ટ કરવું",
+          "hindiMeaning": "स्पष्ट करना"
+        },
+        "v2": {
+          "word": "Elucidated",
+          "gujaratiPronunciation": "ઇલ્યુસિડેટેડ",
+          "hindiPronunciation": "एल्यूसिडेटेड",
+          "gujaratiMeaning": "સ્પષ્ટ કર્યું",
+          "hindiMeaning": "स्पष्ट किया"
+        },
+        "v3": {
+          "word": "Elucidated",
+          "gujaratiPronunciation": "ઇલ્યુસિડેટેડ",
+          "hindiPronunciation": "एल्यूसिडेटेड",
+          "gujaratiMeaning": "સ્પષ્ટ કરેલું",
+          "hindiMeaning": "स्पष्ट किया हुआ"
+        },
+        "v4": {
+          "word": "Elucidating",
+          "gujaratiPronunciation": "ઇલ્યુસિડેટિંગ",
+          "hindiPronunciation": "एल्यूसिडेटिंग",
+          "gujaratiMeaning": "સ્પષ્ટ કરી રહ્યું છે",
+          "hindiMeaning": "स्पष्ट कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Clarify",
+          "gujaratiPronunciation": "ક્લેરિફાય",
+          "hindiPronunciation": "क्लैरिफाइ",
+          "gujaratiMeaning": "સ્પષ્ટતા કરવી",
+          "hindiMeaning": "स्पष्टीकरण करना"
+        },
+        {
+          "word": "Explain",
+          "gujaratiPronunciation": "એક્સપ્લેન",
+          "hindiPronunciation": "एक्सप्लेन",
+          "gujaratiMeaning": "સમજાવવું",
+          "hindiMeaning": "समझाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Confuse",
+          "gujaratiPronunciation": "કન્ફ્યુઝ",
+          "hindiPronunciation": "कन्फ्यूज़",
+          "gujaratiMeaning": "ગૂંચવવું",
+          "hindiMeaning": "उलझाना"
+        },
+        {
+          "word": "Obscure",
+          "gujaratiPronunciation": "ઑબ્સ્ક્યોર",
+          "hindiPronunciation": "ऑब्स्क्योर",
+          "gujaratiMeaning": "અસ્પષ્ટ કરવું",
+          "hindiMeaning": "अस्पष्ट करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Liquidate",
+          "gujaratiPronunciation": "લિક્વિડેટ",
+          "hindiPronunciation": "लिक्विडेट",
+          "gujaratiMeaning": "સમાપ્ત કરવું",
+          "hindiMeaning": "समाप्त करना"
+        },
+        {
+          "word": "Lucid",
+          "gujaratiPronunciation": "લ્યુસિડ",
+          "hindiPronunciation": "ल्यूसिड",
+          "gujaratiMeaning": "સ્પષ્ટ",
+          "hindiMeaning": "स्पष्ट"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Could you elucidate your point for us?",
+          "gujaratiTranslation": "શું તમે અમારા માટે તમારો મુદ્દો સ્પષ્ટ કરી શકશો?",
+          "hindiTranslation": "क्या आप हमारे लिए अपनी बात स्पष्ट कर सकते हैं?",
+          "gujaratiPronunciation": "કુડ યુ ઇલ્યુસિડેટ યોર પોઇન્ટ ફોર અસ?",
+          "hindiPronunciation": "कुड यू एल्यूसिडेट योर पॉइंट फॉर अस?"
+        }
+      ]
+    },
+    {
+      "word": "Discern",
+      "gujaratiPronunciation": "ડિસર્ન",
+      "hindiPronunciation": "डिसर्न",
+      "gujaratiMeaning": "ઓળખવું",
+      "hindiMeaning": "पहचानना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Discern",
+          "gujaratiPronunciation": "ડિસર્ન",
+          "hindiPronunciation": "डिसर्न",
+          "gujaratiMeaning": "ઓળખવું",
+          "hindiMeaning": "पहचानना"
+        },
+        "v2": {
+          "word": "Discerned",
+          "gujaratiPronunciation": "ડિસર્ન્ડ",
+          "hindiPronunciation": "डिसर्न्ड",
+          "gujaratiMeaning": "ઓળખ્યું",
+          "hindiMeaning": "पहचाना"
+        },
+        "v3": {
+          "word": "Discerned",
+          "gujaratiPronunciation": "ડિસર્ન્ડ",
+          "hindiPronunciation": "डिसर्न्ड",
+          "gujaratiMeaning": "ઓળખેલું",
+          "hindiMeaning": "पहचाना हुआ"
+        },
+        "v4": {
+          "word": "Discerning",
+          "gujaratiPronunciation": "ડિસર્નિંગ",
+          "hindiPronunciation": "डिसर्निंग",
+          "gujaratiMeaning": "ઓળખી રહ્યું છે",
+          "hindiMeaning": "पहचान रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Perceive",
+          "gujaratiPronunciation": "પર્સીવ",
+          "hindiPronunciation": "पर्सिव",
+          "gujaratiMeaning": "સમજવું",
+          "hindiMeaning": "समझना"
+        },
+        {
+          "word": "Recognize",
+          "gujaratiPronunciation": "રેકગ્નાઇઝ",
+          "hindiPronunciation": "रेकग्नाइज़",
+          "gujaratiMeaning": "ઓળખવું",
+          "hindiMeaning": "पहचानना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Overlook",
+          "gujaratiPronunciation": "ઓવરલૂક",
+          "hindiPronunciation": "ओवरलुक",
+          "gujaratiMeaning": "ધ્યાન ન આપવું",
+          "hindiMeaning": "अनदेखा करना"
+        },
+        {
+          "word": "Miss",
+          "gujaratiPronunciation": "મિસ",
+          "hindiPronunciation": "मिस",
+          "gujaratiMeaning": "ચૂકી જવું",
+          "hindiMeaning": "चूक जाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Concern",
+          "gujaratiPronunciation": "કન્સર્ન",
+          "hindiPronunciation": "कंसर्न",
+          "gujaratiMeaning": "ચિંતા",
+          "hindiMeaning": "चिंता"
+        },
+        {
+          "word": "Decern",
+          "gujaratiPronunciation": "ડિસર્ન",
+          "hindiPronunciation": "डिसर्न",
+          "gujaratiMeaning": "ન્યાય કરવો (જૂનો શબ્દ)",
+          "hindiMeaning": "न्याय करना (पुराना शब्द)"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It was difficult to discern the truth from the lies.",
+          "gujaratiTranslation": "જૂઠાણામાંથી સત્યને ઓળખવું મુશ્કેલ હતું.",
+          "hindiTranslation": "झूठ से सच को पहचानना मुश्किल था।",
+          "gujaratiPronunciation": "ઇટ વોઝ ડિફિકલ્ટ ટુ ડિસર્ન ધ ટ્રુથ ફ્રોમ ધ લાઇઝ.",
+          "hindiPronunciation": "इट वॉज़ डिफिकल्ट टू डिसर्न द ट्रुथ फ्रॉम द लाइज़।"
+        }
+      ]
+    },
+    {
+      "word": "Remedy",
+      "gujaratiPronunciation": "રેમેડિ",
+      "hindiPronunciation": "रेमेडी",
+      "gujaratiMeaning": "ઉપચાર કરવો",
+      "hindiMeaning": "उपचार करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Remedy",
+          "gujaratiPronunciation": "રેમેડિ",
+          "hindiPronunciation": "रेमेडी",
+          "gujaratiMeaning": "ઉપચાર કરવો",
+          "hindiMeaning": "उपचार करना"
+        },
+        "v2": {
+          "word": "Remedied",
+          "gujaratiPronunciation": "રેમેડિડ",
+          "hindiPronunciation": "रेमेडीयड",
+          "gujaratiMeaning": "ઉપચાર કર્યો",
+          "hindiMeaning": "उपचार किया"
+        },
+        "v3": {
+          "word": "Remedied",
+          "gujaratiPronunciation": "રેમેડિડ",
+          "hindiPronunciation": "रेमेडीयड",
+          "gujaratiMeaning": "ઉપચાર કરેલો",
+          "hindiMeaning": "उपचार किया हुआ"
+        },
+        "v4": {
+          "word": "Remedying",
+          "gujaratiPronunciation": "રેમેડિઇંગ",
+          "hindiPronunciation": "रेमेडीइंग",
+          "gujaratiMeaning": "ઉપચાર કરી રહ્યું છે",
+          "hindiMeaning": "उपचार कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Cure",
+          "gujaratiPronunciation": "ક્યોર",
+          "hindiPronunciation": "क्योर",
+          "gujaratiMeaning": "ઇલાજ કરવો",
+          "hindiMeaning": "इलाज करना"
+        },
+        {
+          "word": "Fix",
+          "gujaratiPronunciation": "ફિક્સ",
+          "hindiPronunciation": "फिक्स",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "ठीक करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Worsen",
+          "gujaratiPronunciation": "વર્સન",
+          "hindiPronunciation": "वर्सन",
+          "gujaratiMeaning": "વધુ ખરાબ કરવું",
+          "hindiMeaning": "और खराब करना"
+        },
+        {
+          "word": "Harm",
+          "gujaratiPronunciation": "હાર્મ",
+          "hindiPronunciation": "हार्म",
+          "gujaratiMeaning": "નુકસાન પહોંચાડવું",
+          "hindiMeaning": "नुकसान पहुँचाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Comedy",
+          "gujaratiPronunciation": "કૉમેડિ",
+          "hindiPronunciation": "कॉमेडी",
+          "gujaratiMeaning": "હાસ્ય",
+          "hindiMeaning": "कॉमेडी"
+        },
+        {
+          "word": "Melody",
+          "gujaratiPronunciation": "મેલડિ",
+          "hindiPronunciation": "मेलोडी",
+          "gujaratiMeaning": "સુર",
+          "hindiMeaning": "धुन"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government is trying to remedy the situation.",
+          "gujaratiTranslation": "સરકાર પરિસ્થિતિનો ઉપચાર કરવાનો પ્રયાસ કરી રહી છે.",
+          "hindiTranslation": "सरकार स्थिति का उपचार करने की कोशिश कर रही है।",
+          "gujaratiPronunciation": "ધ ગવર્નમેન્ટ ઇઝ ટ્રાઇંગ ટુ રેમેડી ધ સિચ્યુએશન.",
+          "hindiPronunciation": "द गवर्नमेंट इज ट्राइंग टू रेमेडी द सिचुएशन।"
+        }
+      ]
+    },
+    {
+      "word": "Untangle",
+      "gujaratiPronunciation": "અનટૅંગલ",
+      "hindiPronunciation": "अनटैंगल",
+      "gujaratiMeaning": "ગૂંચ ઉકેલવી",
+      "hindiMeaning": "उलझन सुलझाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Untangle",
+          "gujaratiPronunciation": "અનટૅંગલ",
+          "hindiPronunciation": "अनटैंगल",
+          "gujaratiMeaning": "ગૂંચ ઉકેલવી",
+          "hindiMeaning": "उलझन सुलझाना"
+        },
+        "v2": {
+          "word": "Untangled",
+          "gujaratiPronunciation": "અનટૅંગલ્ડ",
+          "hindiPronunciation": "अनटैंगल्ड",
+          "gujaratiMeaning": "ગૂંચ ઉકેલી",
+          "hindiMeaning": "उलझन सुलझाई"
+        },
+        "v3": {
+          "word": "Untangled",
+          "gujaratiPronunciation": "અનટૅંગલ્ડ",
+          "hindiPronunciation": "अनटैंगल्ड",
+          "gujaratiMeaning": "ગૂંચ ઉકેલેલી",
+          "hindiMeaning": "उलझन सुलझाई हुई"
+        },
+        "v4": {
+          "word": "Untangling",
+          "gujaratiPronunciation": "અનટૅંગલિંગ",
+          "hindiPronunciation": "अनटैंगलिंग",
+          "gujaratiMeaning": "ગૂંચ ઉકેલી રહ્યું છે",
+          "hindiMeaning": "उलझन सुलझा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Unravel",
+          "gujaratiPronunciation": "અનરૅવલ",
+          "hindiPronunciation": "अनरैवल",
+          "gujaratiMeaning": "ઉકેલવું",
+          "hindiMeaning": "सुलझाना"
+        },
+        {
+          "word": "Disentangle",
+          "gujaratiPronunciation": "ડિસેન્ટૅંગલ",
+          "hindiPronunciation": "डिसेंटैंगल",
+          "gujaratiMeaning": "છૂટું પાડવું",
+          "hindiMeaning": "अलग करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Tangle",
+          "gujaratiPronunciation": "ટૅંગલ",
+          "hindiPronunciation": "टैंगल",
+          "gujaratiMeaning": "ગૂંચવવું",
+          "hindiMeaning": "उलझाना"
+        },
+        {
+          "word": "Entangle",
+          "gujaratiPronunciation": "એન્ટૅંગલ",
+          "hindiPronunciation": "एंटैंगल",
+          "gujaratiMeaning": "ફસાવવું",
+          "hindiMeaning": "फंसाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Angle",
+          "gujaratiPronunciation": "ઍંગલ",
+          "hindiPronunciation": "एंगल",
+          "gujaratiMeaning": "ખૂણો",
+          "hindiMeaning": "कोण"
+        },
+        {
+          "word": "Uncle",
+          "gujaratiPronunciation": "અંકલ",
+          "hindiPronunciation": "अंकल",
+          "gujaratiMeaning": "કાકા/મામા",
+          "hindiMeaning": "चाचा/मामा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It took a long time to untangle the knotted ropes.",
+          "gujaratiTranslation": "ગૂંચવાયેલા દોરડાને ઉકેલવામાં ઘણો સમય લાગ્યો.",
+          "hindiTranslation": "उलझे हुए रस्सियों को सुलझाने में बहुत समय लगा।",
+          "gujaratiPronunciation": "ઇટ ટૂક અ લોંગ ટાઇમ ટુ અનટેંગલ ધ નોટેડ રોપ્સ.",
+          "hindiPronunciation": "इट टूक अ लॉन्ग टाइम टू अनटैंगल द नॉटेड रोप्स।"
+        }
+      ]
+    }
+  ]
+}

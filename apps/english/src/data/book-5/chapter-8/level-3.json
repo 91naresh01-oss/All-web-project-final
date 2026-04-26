@@ -1,0 +1,434 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Erupt",
+      "gujaratiPronunciation": "ઇરપ્ટ",
+      "hindiPronunciation": "इरप्ट",
+      "gujaratiMeaning": "ફાટી નીકળવું",
+      "hindiMeaning": "फूट पड़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Erupt",
+          "gujaratiPronunciation": "ઇરપ્ટ",
+          "hindiPronunciation": "इरप्ट",
+          "gujaratiMeaning": "ફાટી નીકળવું",
+          "hindiMeaning": "फूट पड़ना"
+        },
+        "V2": {
+          "word": "Erupted",
+          "gujaratiPronunciation": "ઇરપ્ટેડ",
+          "hindiPronunciation": "इरप्टेड",
+          "gujaratiMeaning": "ફાટી નીકળ્યું",
+          "hindiMeaning": "फूट पड़ा"
+        },
+        "V3": {
+          "word": "Erupted",
+          "gujaratiPronunciation": "ઇરપ્ટેડ",
+          "hindiPronunciation": "इरप्टेड",
+          "gujaratiMeaning": "ફાટી નીકળેલું",
+          "hindiMeaning": "फूट चुका"
+        },
+        "V4": {
+          "word": "Erupting",
+          "gujaratiPronunciation": "ઇરપ્ટિંગ",
+          "hindiPronunciation": "इरप्टिंग",
+          "gujaratiMeaning": "ફાટી નીકળી રહ્યું છે",
+          "hindiMeaning": "फूट रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Explode",
+          "gujaratiPronunciation": "એક્સપ્લોડ",
+          "hindiPronunciation": "एक्सप्लोड",
+          "gujaratiMeaning": "વિસ્ફોટ થવો",
+          "hindiMeaning": "विस्फोट होना"
+        },
+        {
+          "word": "Break out",
+          "gujaratiPronunciation": "બ્રેક આઉટ",
+          "hindiPronunciation": "ब्रेक आउट",
+          "gujaratiMeaning": "ફાટી નીકળવું",
+          "hindiMeaning": "फैल जाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Subside",
+          "gujaratiPronunciation": "સબસાઇડ",
+          "hindiPronunciation": "सबसाइड",
+          "gujaratiMeaning": "શાંત થવું",
+          "hindiMeaning": "शांत होना"
+        },
+        {
+          "word": "Contain",
+          "gujaratiPronunciation": "કન્ટેન",
+          "hindiPronunciation": "कंटेन",
+          "gujaratiMeaning": "નિયંત્રિત કરવું",
+          "hindiMeaning": "नियंत्रित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Abrupt",
+          "gujaratiPronunciation": "અબ્રપ્ટ",
+          "hindiPronunciation": "अब्रेप्ट",
+          "gujaratiMeaning": "અચાનક",
+          "hindiMeaning": "अचानक",
+          "difference": "Erupt એ ફાટી નીકળવું છે, જ્યારે Abrupt એ અચાનક થતી કોઈ ઘટના છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The volcano could erupt at any time.",
+          "gujaratiPronunciation": "ધ વોલ્કેનો કુડ ઇરપ્ટ એટ એની ટાઇમ.",
+          "hindiPronunciation": "द वोल्केनो कुड इरप्ट ऐट एनी टाइम।",
+          "gujaratiTranslation": "જ્વાળામુખી ગમે ત્યારે ફાટી શકે છે.",
+          "hindiTranslation": "ज्वालामुखी किसी भी समय फट सकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Thaw",
+      "gujaratiPronunciation": "થૉ",
+      "hindiPronunciation": "थॉ",
+      "gujaratiMeaning": "પીગળવું",
+      "hindiMeaning": "पिघलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Thaw",
+          "gujaratiPronunciation": "થૉ",
+          "hindiPronunciation": "थॉ",
+          "gujaratiMeaning": "પીગળવું",
+          "hindiMeaning": "पिघलना"
+        },
+        "V2": {
+          "word": "Thawed",
+          "gujaratiPronunciation": "થૉડ",
+          "hindiPronunciation": "थॉड",
+          "gujaratiMeaning": "પીગળ્યું",
+          "hindiMeaning": "पिघला"
+        },
+        "V3": {
+          "word": "Thawed",
+          "gujaratiPronunciation": "થૉડ",
+          "hindiPronunciation": "थॉड",
+          "gujaratiMeaning": "પીગળેલું",
+          "hindiMeaning": "पिघल चुका"
+        },
+        "V4": {
+          "word": "Thawing",
+          "gujaratiPronunciation": "થૉઇંગ",
+          "hindiPronunciation": "थॉइंग",
+          "gujaratiMeaning": "પીગળી રહ્યું છે",
+          "hindiMeaning": "पिघल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Melt",
+          "gujaratiPronunciation": "મેલ્ટ",
+          "hindiPronunciation": "मेल्ट",
+          "gujaratiMeaning": "ઓગળવું",
+          "hindiMeaning": "पिघलना"
+        },
+        {
+          "word": "Defrost",
+          "gujaratiPronunciation": "ડિફ્રોસ્ટ",
+          "hindiPronunciation": "डीफ्रॉस्ट",
+          "gujaratiMeaning": "બરફ ઓગાળવો",
+          "hindiMeaning": "बर्फ पिघलाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Freeze",
+          "gujaratiPronunciation": "ફ્રીઝ",
+          "hindiPronunciation": "फ्रीज",
+          "gujaratiMeaning": "જામવું",
+          "hindiMeaning": "जमना"
+        },
+        {
+          "word": "Solidify",
+          "gujaratiPronunciation": "સોલિડીફાય",
+          "hindiPronunciation": "सॉलिडिफाई",
+          "gujaratiMeaning": "ઘન બનવું",
+          "hindiMeaning": "ठोस बनना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Throw",
+          "gujaratiPronunciation": "થ્રો",
+          "hindiPronunciation": "थ्रो",
+          "gujaratiMeaning": "ફેંકવું",
+          "hindiMeaning": "फेंकना",
+          "difference": "Thaw એ પીગળવું છે, જ્યારે Throw એ ફેંકવું છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The ice began to thaw as the sun came out.",
+          "gujaratiPronunciation": "ધ આઇસ બિગેન ટુ થૉ એઝ ધ સન કેમ આઉટ.",
+          "hindiPronunciation": "द आइस बिगेन टू थॉ ऐज़ द सन केम आउट।",
+          "gujaratiTranslation": "સૂર્ય નીકળતા જ બરફ પીગળવા લાગ્યો.",
+          "hindiTranslation": "जैसे ही सूरज निकला, बर्फ पिघलने लगी।"
+        }
+      ]
+    },
+    {
+      "word": "Weather",
+      "gujaratiPronunciation": "વેધર",
+      "hindiPronunciation": "वेदर",
+      "gujaratiMeaning": "સામનો કરવો",
+      "hindiMeaning": "सामना करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Weather",
+          "gujaratiPronunciation": "વેધર",
+          "hindiPronunciation": "वेदर",
+          "gujaratiMeaning": "સામનો કરવો",
+          "hindiMeaning": "सामना करना"
+        },
+        "V2": {
+          "word": "Weathered",
+          "gujaratiPronunciation": "વેધર્ડ",
+          "hindiPronunciation": "वेदर्ड",
+          "gujaratiMeaning": "સામનો કર્યો",
+          "hindiMeaning": "सामना किया"
+        },
+        "V3": {
+          "word": "Weathered",
+          "gujaratiPronunciation": "વેધર્ડ",
+          "hindiPronunciation": "वेदर्ड",
+          "gujaratiMeaning": "સામનો કરેલો",
+          "hindiMeaning": "सामना कर चुका"
+        },
+        "V4": {
+          "word": "Weathering",
+          "gujaratiPronunciation": "વેધરિંગ",
+          "hindiPronunciation": "वेदरिंग",
+          "gujaratiMeaning": "સામનો કરી રહ્યું છે",
+          "hindiMeaning": "सामना कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Endure",
+          "gujaratiPronunciation": "એન્ડ્યોર",
+          "hindiPronunciation": "एंड्योर",
+          "gujaratiMeaning": "સહન કરવું",
+          "hindiMeaning": "सहना"
+        },
+        {
+          "word": "Withstand",
+          "gujaratiPronunciation": "વિથસ્ટેન્ડ",
+          "hindiPronunciation": "विदस्टैंड",
+          "gujaratiMeaning": "ટકી રહેવું",
+          "hindiMeaning": "टिके रहना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Yield",
+          "gujaratiPronunciation": "યીલ્ડ",
+          "hindiPronunciation": "यील्ड",
+          "gujaratiMeaning": "હાર માનવી",
+          "hindiMeaning": "हार मान लेना"
+        },
+        {
+          "word": "Succumb",
+          "gujaratiPronunciation": "સકમ",
+          "hindiPronunciation": "सकम्ब",
+          "gujaratiMeaning": "વશ થવું",
+          "hindiMeaning": "वश में होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Whether",
+          "gujaratiPronunciation": "વેધર",
+          "hindiPronunciation": "वेदर",
+          "gujaratiMeaning": "કે શું",
+          "hindiMeaning": "कि क्या",
+          "difference": "Weather (verb) એ સામનો કરવો છે અને Weather (noun) એ હવામાન છે. Whether એ એક વિકલ્પ સૂચવે છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company managed to weather the economic storm.",
+          "gujaratiPronunciation": "ધ કંપની મેનેજ્ડ ટુ વેધર ધ ઇકોનોમિક સ્ટોર્મ.",
+          "hindiPronunciation": "द कंपनी मैनेज्ड टू वेदर द इकोनॉमिक स्टॉर्म।",
+          "gujaratiTranslation": "કંપની આર્થિક સંકટનો સામનો કરવામાં સફળ રહી.",
+          "hindiTranslation": "कंपनी आर्थिक तूफान का सामना करने में कामयाब रही।"
+        }
+      ]
+    },
+    {
+      "word": "Percolate",
+      "gujaratiPronunciation": "પર્કોલેટ",
+      "hindiPronunciation": "पर्कोलेट",
+      "gujaratiMeaning": "ગળાવું",
+      "hindiMeaning": "रिसना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Percolate",
+          "gujaratiPronunciation": "પર્કોલેટ",
+          "hindiPronunciation": "पर्कोलेट",
+          "gujaratiMeaning": "ગળાવું",
+          "hindiMeaning": "रिसना"
+        },
+        "V2": {
+          "word": "Percolated",
+          "gujaratiPronunciation": "પર્કોલેટેડ",
+          "hindiPronunciation": "पर्कोलेटेड",
+          "gujaratiMeaning": "ગળાયું",
+          "hindiMeaning": "रिसा"
+        },
+        "V3": {
+          "word": "Percolated",
+          "gujaratiPronunciation": "પર્કોલેટેડ",
+          "hindiPronunciation": "पर्कोलेटेड",
+          "gujaratiMeaning": "ગળાયેલું",
+          "hindiMeaning": "रिस चुका"
+        },
+        "V4": {
+          "word": "Percolating",
+          "gujaratiPronunciation": "પર્કોલેટિંગ",
+          "hindiPronunciation": "पर्कोलेटिंग",
+          "gujaratiMeaning": "ગળાઈ રહ્યું છે",
+          "hindiMeaning": "रिस रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Filter",
+          "gujaratiPronunciation": "ફિલ્ટર",
+          "hindiPronunciation": "फ़िल्टर",
+          "gujaratiMeaning": "ગાળવું",
+          "hindiMeaning": "छानना"
+        },
+        {
+          "word": "Seep",
+          "gujaratiPronunciation": "સીપ",
+          "hindiPronunciation": "सीप",
+          "gujaratiMeaning": "ઝમવું",
+          "hindiMeaning": "रिसना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Pour",
+          "gujaratiPronunciation": "પોર",
+          "hindiPronunciation": "पोर",
+          "gujaratiMeaning": "રેડવું",
+          "hindiMeaning": "डालना"
+        },
+        {
+          "word": "Flood",
+          "gujaratiPronunciation": "ફ્લડ",
+          "hindiPronunciation": "फ्लड",
+          "gujaratiMeaning": "પૂર આવવું",
+          "hindiMeaning": "बाढ़ आना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Rainwater percolates through the soil into the groundwater.",
+          "gujaratiPronunciation": "રેઇનવોટર પર્કોલેટ્સ થ્રુ ધ સોઇલ ઇન્ટુ ધ ગ્રાઉન્ડવોટર.",
+          "hindiPronunciation": "रेनवाटर पर्कोलेट्स थ्रू द सॉइल इनटू द ग्राउंडवाटर।",
+          "gujaratiTranslation": "વરસાદનું પાણી જમીનમાંથી ગળાઈને ભૂગર્ભજળમાં જાય છે.",
+          "hindiTranslation": "बारिश का पानी मिट्टी से रिसकर भूजल में चला जाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Effloresce",
+      "gujaratiPronunciation": "એફ્લોરેસ",
+      "hindiPronunciation": "एफ्लोरेस",
+      "gujaratiMeaning": "ખીલવું",
+      "hindiMeaning": "विकसित होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Effloresce",
+          "gujaratiPronunciation": "એફ્લોરેસ",
+          "hindiPronunciation": "एफ्लोरेस",
+          "gujaratiMeaning": "ખીલવું",
+          "hindiMeaning": "विकसित होना"
+        },
+        "V2": {
+          "word": "Effloresced",
+          "gujaratiPronunciation": "એફ્લોરેસ્ડ",
+          "hindiPronunciation": "एफ्लोरेस्ड",
+          "gujaratiMeaning": "ખીલ્યું",
+          "hindiMeaning": "विकसित हुआ"
+        },
+        "V3": {
+          "word": "Effloresced",
+          "gujaratiPronunciation": "એફ્લોરેસ્ડ",
+          "hindiPronunciation": "एफ्लोरेस्ड",
+          "gujaratiMeaning": "ખીલેલું",
+          "hindiMeaning": "विकसित हो चुका"
+        },
+        "V4": {
+          "word": "Efflorescing",
+          "gujaratiPronunciation": "એફ્લોરેસિંગ",
+          "hindiPronunciation": "एफ्लोरेसिंग",
+          "gujaratiMeaning": "ખીલી રહ્યું છે",
+          "hindiMeaning": "विकसित हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Bloom",
+          "gujaratiPronunciation": "બ્લૂમ",
+          "hindiPronunciation": "ब्लूम",
+          "gujaratiMeaning": "ખીલવું",
+          "hindiMeaning": "खिलना"
+        },
+        {
+          "word": "Flourish",
+          "gujaratiPronunciation": "ફ્લોરિશ",
+          "hindiPronunciation": "फ्लोरिश",
+          "gujaratiMeaning": "વિકસવું",
+          "hindiMeaning": "फलना-फूलना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Decay",
+          "gujaratiPronunciation": "ડિકે",
+          "hindiPronunciation": "डिके",
+          "gujaratiMeaning": "સડો",
+          "hindiMeaning": "क्षय होना"
+        },
+        {
+          "word": "Wither",
+          "gujaratiPronunciation": "વિથર",
+          "hindiPronunciation": "विदर",
+          "gujaratiMeaning": "કરમાવું",
+          "hindiMeaning": "मुरझाना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The artistic movement began to effloresce in the early 20th century.",
+          "gujaratiPronunciation": "ધ આર્ટિસ્ટિક મૂવમેન્ટ બિગેન ટુ એફ્લોરેસ ઇન ધ અર્લી 20થ સેન્ચ્યુરી.",
+          "hindiPronunciation": "द आर्टिस्टिक मूवमेंट बिगेन टू एफ्लोरेस इन द अर्ली 20th सेंचुरी।",
+          "gujaratiTranslation": "20મી સદીની શરૂઆતમાં કલાત્મક ચળવળ ખીલવા લાગી.",
+          "hindiTranslation": "20वीं सदी की शुरुआत में कलात्मक आंदोलन विकसित होने लगा।"
+        }
+      ]
+    }
+  ]
+}

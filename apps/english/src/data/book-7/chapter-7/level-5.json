@@ -1,0 +1,481 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Expedite",
+      "gujaratiPronunciation": "એક્સપિડાઇટ",
+      "hindiPronunciation": "एक्सपेडाइट",
+      "gujaratiMeaning": "શીઘ્ર કરવું",
+      "hindiMeaning": "शीघ्र करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Expedite",
+          "gujaratiPronunciation": "એક્સપિડાઇટ",
+          "hindiPronunciation": "एक्सपेडाइट",
+          "gujaratiMeaning": "શીઘ્ર કરવું",
+          "hindiMeaning": "शीघ्र करना"
+        },
+        "v2": {
+          "word": "Expedited",
+          "gujaratiPronunciation": "એક્સપિડાઇટેડ",
+          "hindiPronunciation": "एक्सपेडाइटेड",
+          "gujaratiMeaning": "શીઘ્ર કર્યું",
+          "hindiMeaning": "शीघ्र किया"
+        },
+        "v3": {
+          "word": "Expedited",
+          "gujaratiPronunciation": "એક્સપિડાઇટેડ",
+          "hindiPronunciation": "एक्सपेडाइटेड",
+          "gujaratiMeaning": "શીઘ્ર કરેલું",
+          "hindiMeaning": "शीघ्र किया हुआ"
+        },
+        "v4": {
+          "word": "Expediting",
+          "gujaratiPronunciation": "એક્સપિડાઇટિંગ",
+          "hindiPronunciation": "एक्सपेडाइटिंग",
+          "gujaratiMeaning": "શીઘ્ર કરી રહ્યા છે",
+          "hindiMeaning": "शीघ्र कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Accelerate",
+          "gujaratiPronunciation": "એક્સેલરેટ",
+          "hindiPronunciation": "एक्सेलरेट",
+          "gujaratiMeaning": "ગતિ વધારવી",
+          "hindiMeaning": "गति बढ़ाना"
+        },
+        {
+          "word": "Hasten",
+          "gujaratiPronunciation": "હેસન",
+          "hindiPronunciation": "हेसन",
+          "gujaratiMeaning": "ઉતાવળ કરવી",
+          "hindiMeaning": "जल्दी करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Delay",
+          "gujaratiPronunciation": "ડિલે",
+          "hindiPronunciation": "डिले",
+          "gujaratiMeaning": "વિલંબ કરવો",
+          "hindiMeaning": "देरी करना"
+        },
+        {
+          "word": "Hinder",
+          "gujaratiPronunciation": "હિન્ડર",
+          "hindiPronunciation": "हिंडर",
+          "gujaratiMeaning": "અવરોધ કરવો",
+          "hindiMeaning": "बाधा डालना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Expert",
+          "gujaratiPronunciation": "એક્સપર્ટ",
+          "hindiPronunciation": "एक्सपर्ट",
+          "gujaratiMeaning": "નિષ્ણાત",
+          "hindiMeaning": "विशेषज्ञ"
+        },
+        {
+          "word": "Exceed",
+          "gujaratiPronunciation": "એક્સીડ",
+          "hindiPronunciation": "एक्सीड",
+          "gujaratiMeaning": "વધી જવું",
+          "hindiMeaning": "अधिक होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to expedite the delivery of the goods.",
+          "gujaratiTranslation": "આપણે માલની ડિલિવરીને ઝડપી બનાવવાની જરૂર છે.",
+          "hindiTranslation": "हमें माल की डिलीवरी में तेजी लाने की जरूरत है।",
+          "gujaratiPronunciation": "વી નીડ ટુ એક્સપિડાઇટ ધ ડિલિવરી ઓફ ધ ગુડ્સ.",
+          "hindiPronunciation": "वी नीड टू एक्सपेडाइट द डिलीवरी ऑफ द गुड्स।"
+        }
+      ]
+    },
+    {
+      "word": "Prolong",
+      "gujaratiPronunciation": "પ્રોલોંગ",
+      "hindiPronunciation": "प्रोलॉन्ग",
+      "gujaratiMeaning": "લંબાવવું",
+      "hindiMeaning": "लंबा करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Prolong",
+          "gujaratiPronunciation": "પ્રોલોંગ",
+          "hindiPronunciation": "प्रोलॉन्ग",
+          "gujaratiMeaning": "લંબાવવું",
+          "hindiMeaning": "लंबा करना"
+        },
+        "v2": {
+          "word": "Prolonged",
+          "gujaratiPronunciation": "પ્રોલોંગ્ડ",
+          "hindiPronunciation": "प्रोलॉन्ग्ड",
+          "gujaratiMeaning": "લંબાવ્યું",
+          "hindiMeaning": "लंबा किया"
+        },
+        "v3": {
+          "word": "Prolonged",
+          "gujaratiPronunciation": "પ્રોલોંગ્ડ",
+          "hindiPronunciation": "प्रोलॉन्ग्ड",
+          "gujaratiMeaning": "લંબાવેલું",
+          "hindiMeaning": "लंबा किया हुआ"
+        },
+        "v4": {
+          "word": "Prolonging",
+          "gujaratiPronunciation": "પ્રોલોંગિંગ",
+          "hindiPronunciation": "प्रोलॉन्गिंग",
+          "gujaratiMeaning": "લંબાવી રહ્યા છે",
+          "hindiMeaning": "लंबा कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Extend",
+          "gujaratiPronunciation": "એક્સટેન્ડ",
+          "hindiPronunciation": "एक्सटेंड",
+          "gujaratiMeaning": "વિસ્તાર કરવો",
+          "hindiMeaning": "विस्तार करना"
+        },
+        {
+          "word": "Lengthen",
+          "gujaratiPronunciation": "લેન્થન",
+          "hindiPronunciation": "लेंग्थेन",
+          "gujaratiMeaning": "લાંબું કરવું",
+          "hindiMeaning": "लंबा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Shorten",
+          "gujaratiPronunciation": "શોર્ટન",
+          "hindiPronunciation": "शॉर्टन",
+          "gujaratiMeaning": "ટૂંકું કરવું",
+          "hindiMeaning": "छोटा करना"
+        },
+        {
+          "word": "Abbreviate",
+          "gujaratiPronunciation": "એબ્રિવિયેટ",
+          "hindiPronunciation": "एब्रीविएट",
+          "gujaratiMeaning": "સંક્ષિપ્ત કરવું",
+          "hindiMeaning": "संक्षिप्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Along",
+          "gujaratiPronunciation": "અલોંગ",
+          "hindiPronunciation": "अलॉन्ग",
+          "gujaratiMeaning": "સાથે",
+          "hindiMeaning": "साथ में"
+        },
+        {
+          "word": "Prong",
+          "gujaratiPronunciation": "પ્રોંગ",
+          "hindiPronunciation": "प्रोंग",
+          "gujaratiMeaning": "કાંટો",
+          "hindiMeaning": "कांटा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The negotiations were prolonged for several weeks.",
+          "gujaratiTranslation": "વાટાઘાટોને ઘણા અઠવાડિયા સુધી લંબાવવામાં આવી હતી.",
+          "hindiTranslation": "बातचीत कई हफ्तों तक लंबी खिंच गई।",
+          "gujaratiPronunciation": "ધ નેગોસિએશન્સ વર પ્રોલોંગ્ડ ફોર સેવરલ વીક્સ.",
+          "hindiPronunciation": "द नेगोशिएशन्स वर प्रोलॉन्ग्ड फॉर सेवरल वीक्स।"
+        }
+      ]
+    },
+    {
+      "word": "Extend",
+      "gujaratiPronunciation": "એક્સટેન્ડ",
+      "hindiPronunciation": "एक्सटेंड",
+      "gujaratiMeaning": "વિસ્તાર કરવો",
+      "hindiMeaning": "विस्तार करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Extend",
+          "gujaratiPronunciation": "એક્સટેન્ડ",
+          "hindiPronunciation": "एक्सटेंड",
+          "gujaratiMeaning": "વિસ્તાર કરવો",
+          "hindiMeaning": "विस्तार करना"
+        },
+        "v2": {
+          "word": "Extended",
+          "gujaratiPronunciation": "એક્સટેન્ડેડ",
+          "hindiPronunciation": "एक्सटेंडेड",
+          "gujaratiMeaning": "વિસ્તાર કર્યો",
+          "hindiMeaning": "विस्तार किया"
+        },
+        "v3": {
+          "word": "Extended",
+          "gujaratiPronunciation": "એક્સટેન્ડેડ",
+          "hindiPronunciation": "एक्सटेंडेड",
+          "gujaratiMeaning": "વિસ્તાર કરેલ",
+          "hindiMeaning": "विस्तार किया हुआ"
+        },
+        "v4": {
+          "word": "Extending",
+          "gujaratiPronunciation": "એક્સટેન્ડિંગ",
+          "hindiPronunciation": "एक्सटेंडिंग",
+          "gujaratiMeaning": "વિસ્તાર કરી રહ્યા છે",
+          "hindiMeaning": "विस्तार कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Expand",
+          "gujaratiPronunciation": "એક્સપાન્ડ",
+          "hindiPronunciation": "एक्सपैंड",
+          "gujaratiMeaning": "ફેલાવવું",
+          "hindiMeaning": "फैलाना"
+        },
+        {
+          "word": "Prolong",
+          "gujaratiPronunciation": "પ્રોલોંગ",
+          "hindiPronunciation": "प्रोलॉन्ग",
+          "gujaratiMeaning": "લંબાવવું",
+          "hindiMeaning": "लंबा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Shorten",
+          "gujaratiPronunciation": "શોર્ટન",
+          "hindiPronunciation": "शॉर्टन",
+          "gujaratiMeaning": "ટૂંકું કરવું",
+          "hindiMeaning": "छोटा करना"
+        },
+        {
+          "word": "Reduce",
+          "gujaratiPronunciation": "રિડ્યુસ",
+          "hindiPronunciation": "रिड्यूस",
+          "gujaratiMeaning": "ઘટાડવું",
+          "hindiMeaning": "कम करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Extent",
+          "gujaratiPronunciation": "એક્સટેન્ટ",
+          "hindiPronunciation": "एक्सटेंट",
+          "gujaratiMeaning": "હદ",
+          "hindiMeaning": "सीमा"
+        },
+        {
+          "word": "Attend",
+          "gujaratiPronunciation": "એટેન્ડ",
+          "hindiPronunciation": "अटेंड",
+          "gujaratiMeaning": "હાજરી આપવી",
+          "hindiMeaning": "उपस्थित होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you extend the deadline by one week?",
+          "gujaratiTranslation": "શું તમે સમયમર્યાદા એક અઠવાડિયા માટે લંબાવી શકો છો?",
+          "hindiTranslation": "क्या आप समय सीमा को एक सप्ताह बढ़ा सकते हैं?",
+          "gujaratiPronunciation": "કેન યુ એક્સટેન્ડ ધ ડેડલાઇન બાય વન વીક?",
+          "hindiPronunciation": "कैन यू एक्सटेंड द डेडलाइन बाय वन वीक?"
+        }
+      ]
+    },
+    {
+      "word": "Chronologize",
+      "gujaratiPronunciation": "ક્રોનોલોજાઇઝ",
+      "hindiPronunciation": "क्रोनोलॉजाइज़",
+      "gujaratiMeaning": "કાળક્રમમાં ગોઠવવું",
+      "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Chronologize",
+          "gujaratiPronunciation": "ક્રોનોલોજાઇઝ",
+          "hindiPronunciation": "क्रोनोलॉजाइज़",
+          "gujaratiMeaning": "કાળક્રમમાં ગોઠવવું",
+          "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित करना"
+        },
+        "v2": {
+          "word": "Chronologized",
+          "gujaratiPronunciation": "ક્રોનોલોજાઇઝ્ડ",
+          "hindiPronunciation": "क्रोनोलॉजाइज़्ड",
+          "gujaratiMeaning": "કાળક્રમમાં ગોઠવ્યું",
+          "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित किया"
+        },
+        "v3": {
+          "word": "Chronologized",
+          "gujaratiPronunciation": "ક્રોનોલોજાઇઝ્ડ",
+          "hindiPronunciation": "क्रोनोलॉजाइज़्ड",
+          "gujaratiMeaning": "કાળક્રમમાં ગોઠવેલું",
+          "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित किया हुआ"
+        },
+        "v4": {
+          "word": "Chronologizing",
+          "gujaratiPronunciation": "ક્રોનોલોજાઇઝિંગ",
+          "hindiPronunciation": "क्रोनोलॉजाइज़िंग",
+          "gujaratiMeaning": "કાળક્રમમાં ગોઠવી રહ્યા છે",
+          "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Order",
+          "gujaratiPronunciation": "ઓર્ડર",
+          "hindiPronunciation": "ऑर्डर",
+          "gujaratiMeaning": "ક્રમમાં ગોઠવવું",
+          "hindiMeaning": "क्रम में रखना"
+        },
+        {
+          "word": "Sequence",
+          "gujaratiPronunciation": "સિક્વન્સ",
+          "hindiPronunciation": "सीक्वेंस",
+          "gujaratiMeaning": "અનુક્રમમાં ગોઠવવું",
+          "hindiMeaning": "अनुक्रम में रखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Disorder",
+          "gujaratiPronunciation": "ડિસઓર્ડર",
+          "hindiPronunciation": "डिसऑर्डर",
+          "gujaratiMeaning": "અસ્તવ્યસ્ત કરવું",
+          "hindiMeaning": "अस्त-व्यस्त करना"
+        },
+        {
+          "word": "Jumble",
+          "gujaratiPronunciation": "જમ્બલ",
+          "hindiPronunciation": "जंबल",
+          "gujaratiMeaning": "ગૂંચવવું",
+          "hindiMeaning": "उलझाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Chronology",
+          "gujaratiPronunciation": "ક્રોનોલોજી",
+          "hindiPronunciation": "क्रोनोलॉजी",
+          "gujaratiMeaning": "કાળક્રમ",
+          "hindiMeaning": "कालक्रम"
+        },
+        {
+          "word": "Apologize",
+          "gujaratiPronunciation": "એપોલોજાઇઝ",
+          "hindiPronunciation": "अपोलोजाइज़",
+          "gujaratiMeaning": "માફી માંગવી",
+          "hindiMeaning": "माफी मांगना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The historian's task is to chronologize the events of the war.",
+          "gujaratiTranslation": "ઇતિહાસકારનું કાર્ય યુદ્ધની ઘટનાઓને કાળક્રમમાં ગોઠવવાનું છે.",
+          "hindiTranslation": "इतिहासकार का कार्य युद्ध की घटनाओं को कालानुक्रमिक रूप से व्यवस्थित करना है।",
+          "gujaratiPronunciation": "ધ હિસ્ટોરિયન્સ ટાસ્ક ઇઝ ટુ ક્રોનોલોજાઇઝ ધ ઇવેન્ટ્સ ઓફ ધ વોર.",
+          "hindiPronunciation": "द हिस्टोरियंस टास्क इज़ टू क्रोनोलॉजाइज़ द इवेंट्स ऑफ द वॉर।"
+        }
+      ]
+    },
+    {
+      "word": "Recur",
+      "gujaratiPronunciation": "રિકર",
+      "hindiPronunciation": "रिकर",
+      "gujaratiMeaning": "પુનરાવર્તન થવું",
+      "hindiMeaning": "पुनरावृत्ति होना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Recur",
+          "gujaratiPronunciation": "રિકર",
+          "hindiPronunciation": "रिकर",
+          "gujaratiMeaning": "પુનરાવર્તન થવું",
+          "hindiMeaning": "पुनरावृत्ति होना"
+        },
+        "v2": {
+          "word": "Recurred",
+          "gujaratiPronunciation": "રિકર્ડ",
+          "hindiPronunciation": "रिकर्ड",
+          "gujaratiMeaning": "પુનરાવર્તન થયું",
+          "hindiMeaning": "पुनरावृत्ति हुई"
+        },
+        "v3": {
+          "word": "Recurred",
+          "gujaratiPronunciation": "રિકર્ડ",
+          "hindiPronunciation": "रिकर्ड",
+          "gujaratiMeaning": "પુનરાવર્તિત થયેલું",
+          "hindiMeaning": "पुनरावृत्ति हुई"
+        },
+        "v4": {
+          "word": "Recurring",
+          "gujaratiPronunciation": "રિકરિંગ",
+          "hindiPronunciation": "रिकरिंग",
+          "gujaratiMeaning": "પુનરાવર્તિત થઈ રહ્યું છે",
+          "hindiMeaning": "पुनरावृत्ति हो रही है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Repeat",
+          "gujaratiPronunciation": "રિપીટ",
+          "hindiPronunciation": "रिपीट",
+          "gujaratiMeaning": "પુનરાવર્તન કરવું",
+          "hindiMeaning": "दोहराना"
+        },
+        {
+          "word": "Reappear",
+          "gujaratiPronunciation": "રિઅપિયર",
+          "hindiPronunciation": "रिअपीयर",
+          "gujaratiMeaning": "ફરીથી દેખાવું",
+          "hindiMeaning": "फिर से प्रकट होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cease",
+          "gujaratiPronunciation": "સીઝ",
+          "hindiPronunciation": "सीज़",
+          "gujaratiMeaning": "બંધ થવું",
+          "hindiMeaning": "रुक जाना"
+        },
+        {
+          "word": "Stop",
+          "gujaratiPronunciation": "સ્ટોપ",
+          "hindiPronunciation": "स्टॉप",
+          "gujaratiMeaning": "અટકવું",
+          "hindiMeaning": "रुकना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Recover",
+          "gujaratiPronunciation": "રિકવર",
+          "hindiPronunciation": "रिकवर",
+          "gujaratiMeaning": "પુનઃપ્રાપ્ત કરવું",
+          "hindiMeaning": "ठीक होना"
+        },
+        {
+          "word": "Occur",
+          "gujaratiPronunciation": "અકર",
+          "hindiPronunciation": "अकर",
+          "gujaratiMeaning": "બનવું",
+          "hindiMeaning": "घटित होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The same dream would recur every night.",
+          "gujaratiTranslation": "એ જ સ્વપ્ન દરરોજ રાત્રે પુનરાવર્તિત થતું.",
+          "hindiTranslation": "वही सपना हर रात फिर से आता था।",
+          "gujaratiPronunciation": "ધ સેમ ડ્રીમ વુડ રિકર એવરી નાઇટ.",
+          "hindiPronunciation": "द सेम ड्रीम वुड रिकर एवरी नाइट।"
+        }
+      ]
+    }
+  ]
+}

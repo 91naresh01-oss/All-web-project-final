@@ -1,0 +1,361 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Adjourn",
+      "gujaratiPronunciation": "એડજર્ન",
+      "hindiPronunciation": "एडजर्न",
+      "gujaratiMeaning": "સ્થગિત કરવું",
+      "hindiMeaning": "स्थगित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Adjourn",
+          "gujaratiMeaning": "સ્થગિત કરવું",
+          "hindiMeaning": "स्थगित करना"
+        },
+        "V2 (Past)": {
+          "word": "Adjourned",
+          "gujaratiMeaning": "સ્થગિત કર્યું",
+          "hindiMeaning": "स्थगित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Adjourned",
+          "gujaratiMeaning": "સ્થગિત કરેલું",
+          "hindiMeaning": "स्थगित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Adjourning",
+          "gujaratiPronunciation": "એડજર્નિંગ",
+          "hindiPronunciation": "एडजर्निंग",
+          "gujaratiMeaning": "સ્થગિત કરી રહ્યું",
+          "hindiMeaning": "स्थगित कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Postpone",
+          "gujaratiMeaning": "મુલતવી રાખવું",
+          "hindiMeaning": "स्थगित करना"
+        },
+        {
+          "word": "Suspend",
+          "gujaratiMeaning": "રોકી દેવું",
+          "hindiMeaning": "निलंबित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Continue",
+          "gujaratiMeaning": "ચાલુ રાખવું",
+          "hindiMeaning": "जारी रखना"
+        },
+        {
+          "word": "Convene",
+          "gujaratiMeaning": "બોલાવવું",
+          "hindiMeaning": "बुलाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Adjoin",
+          "gujaratiMeaning": "જોડાયેલું હોવું",
+          "hindiMeaning": "सटा होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The meeting was adjourned until the next day.",
+          "gujaratiTranslation": "મીટિંગ બીજા દિવસ સુધી સ્થગિત કરવામાં આવી હતી.",
+          "hindiTranslation": "बैठक अगले दिन तक के लिए स्थगित कर दी गई।",
+          "gujaratiPronunciation": "ધ મીટિંગ વોઝ એડજર્ન્ડ અનટિલ ધ નેક્સ્ટ ડે.",
+          "hindiPronunciation": "द मीटिंग वॉज़ एडजर्न्ड अंटिल द नेक्स्ट डे।"
+        }
+      ]
+    },
+    {
+      "word": "Acquit",
+      "gujaratiPronunciation": "એક્વિટ",
+      "hindiPronunciation": "एक्विट",
+      "gujaratiMeaning": "નિર્દોષ છોડી મૂકવું",
+      "hindiMeaning": "निर्दोष बरी करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Acquit",
+          "gujaratiMeaning": "નિર્દોષ છોડવું",
+          "hindiMeaning": "निर्दोष बरी करना"
+        },
+        "V2 (Past)": {
+          "word": "Acquitted",
+          "gujaratiMeaning": "નિર્દોષ છોડ્યા",
+          "hindiMeaning": "निर्दोष बरी किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Acquitted",
+          "gujaratiMeaning": "નિર્દોષ છૂટેલા",
+          "hindiMeaning": "निर्दोष बरी किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Acquitting",
+          "gujaratiPronunciation": "એક્વિટિંગ",
+          "hindiPronunciation": "एक्विटिंग",
+          "gujaratiMeaning": "નિર્દોષ છોડી રહ્યું",
+          "hindiMeaning": "निर्दोष बरी कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Exonerate",
+          "gujaratiMeaning": "નિર્દોષ જાહેર કરવું",
+          "hindiMeaning": "दोषमुक्त करना"
+        },
+        {
+          "word": "Clear",
+          "gujaratiMeaning": "નિર્દોષ સાબિત કરવું",
+          "hindiMeaning": "निर्दोष साबित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Convict",
+          "gujaratiMeaning": "દોષિત ઠેરવવું",
+          "hindiMeaning": "दोषी ठहराना"
+        },
+        {
+          "word": "Condemn",
+          "gujaratiMeaning": "દોષી ઠેરવવું",
+          "hindiMeaning": "दोषी ठहराना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "A quit",
+          "gujaratiMeaning": "એક છોડવું",
+          "hindiMeaning": "एक छोड़ना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The jury acquitted him of all charges.",
+          "gujaratiTranslation": "જ્યુરીએ તેને તમામ આરોપોમાંથી નિર્દોષ છોડી દીધો.",
+          "hindiTranslation": "जूरी ने उसे सभी आरोपों से बरी कर दिया।",
+          "gujaratiPronunciation": "ધ જ્યુરી એક્વિટેડ હિમ ઓફ ઓલ ચાર્જીસ.",
+          "hindiPronunciation": "द जूरी एक्विटेड हिम ऑफ ऑल चार्जेज़।"
+        }
+      ]
+    },
+    {
+      "word": "Legislate",
+      "gujaratiPronunciation": "લેજિસ્લેટ",
+      "hindiPronunciation": "लेजिसलेट",
+      "gujaratiMeaning": "કાયદો ઘડવો",
+      "hindiMeaning": "कानून बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Legislate",
+          "gujaratiMeaning": "કાયદો ઘડવો",
+          "hindiMeaning": "कानून बनाना"
+        },
+        "V2 (Past)": {
+          "word": "Legislated",
+          "gujaratiMeaning": "કાયદો ઘડ્યો",
+          "hindiMeaning": "कानून बनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Legislated",
+          "gujaratiMeaning": "કાયદો ઘડેલો",
+          "hindiMeaning": "कानून बनाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Legislating",
+          "gujaratiPronunciation": "લેજિસ્લેટિંગ",
+          "hindiPronunciation": "लेजिसलेटिंग",
+          "gujaratiMeaning": "કાયદો ઘડી રહ્યું",
+          "hindiMeaning": "कानून बना रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Enact",
+          "gujaratiMeaning": "અમલમાં મૂકવું",
+          "hindiMeaning": "लागू करना"
+        },
+        {
+          "word": "Ordain",
+          "gujaratiMeaning": "આદેશ આપવો",
+          "hindiMeaning": "आदेश देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Repeal",
+          "gujaratiMeaning": "રદ કરવું",
+          "hindiMeaning": "रद्द करना"
+        },
+        {
+          "word": "Abolish",
+          "gujaratiMeaning": "નાબૂદ કરવું",
+          "hindiMeaning": "समाप्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Legitimate",
+          "gujaratiPronunciation": "લેજિટિમેટ",
+          "hindiPronunciation": "लेजिटिमेट",
+          "gujaratiMeaning": "કાયદેસર",
+          "hindiMeaning": "वैध"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is the job of the government to legislate.",
+          "gujaratiTranslation": "કાયદો ઘડવો એ સરકારનું કામ છે.",
+          "hindiTranslation": "कानून बनाना सरकार का काम है।",
+          "gujaratiPronunciation": "ઇટ ઇઝ ધ જોબ ઓફ ધ ગવર્નમેન્ટ ટુ લેજિસ્લેટ.",
+          "hindiPronunciation": "इट इज़ द जॉब ऑफ द गवर्नमेंट टू लेजिसलेट।"
+        }
+      ]
+    },
+    {
+      "word": "Incriminate",
+      "gujaratiPronunciation": "ઇન્ક્રિમિનેટ",
+      "hindiPronunciation": "इन्क्रिमिनेट",
+      "gujaratiMeaning": "આરોપમાં ફસાવવું",
+      "hindiMeaning": "आरोप में फँसाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Incriminate",
+          "gujaratiMeaning": "ફસાવવું",
+          "hindiMeaning": "फँसाना"
+        },
+        "V2 (Past)": {
+          "word": "Incriminated",
+          "gujaratiMeaning": "ફસાવ્યું",
+          "hindiMeaning": "फँसाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Incriminated",
+          "gujaratiMeaning": "ફસાયેલું",
+          "hindiMeaning": "फँसाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Incriminating",
+          "gujaratiPronunciation": "ઇન્ક્રિમિનેટિંગ",
+          "hindiPronunciation": "इन्क्रिमिनेटिंग",
+          "gujaratiMeaning": "ફસાવી રહ્યું",
+          "hindiMeaning": "फँसा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Implicate",
+          "gujaratiMeaning": "સંડોવવું",
+          "hindiMeaning": "शामिल करना"
+        },
+        {
+          "word": "Accuse",
+          "gujaratiMeaning": "આરોપ મૂકવો",
+          "hindiMeaning": "आरोप लगाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Exonerate",
+          "gujaratiMeaning": "નિર્દોષ જાહેર કરવું",
+          "hindiMeaning": "दोषमुक्त करना"
+        },
+        {
+          "word": "Absolve",
+          "gujaratiMeaning": "પાપમુક્ત કરવું",
+          "hindiMeaning": "पापमुक्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Discriminate",
+          "gujaratiPronunciation": "ડિસ્ક્રિમિનેટ",
+          "hindiPronunciation": "डिस्क्रिमिनेट",
+          "gujaratiMeaning": "ભેદભાવ રાખવો",
+          "hindiMeaning": "भेदभाव करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The evidence seemed to incriminate him.",
+          "gujaratiTranslation": "પુરાવા તેને આરોપમાં ફસાવતા હોય તેવું લાગતું હતું.",
+          "hindiTranslation": "सबूत उसे आरोप में फँसाते हुए प्रतीत हो रहे थे।",
+          "gujaratiPronunciation": "ધ એવિડન્સ સીમ્ડ ટુ ઇન્ક્રિમિનેટ હિમ.",
+          "hindiPronunciation": "द एविडेंस सीम्ड टू इन्क्रिमिनेट हिम।"
+        }
+      ]
+    },
+    {
+      "word": "Subpoena",
+      "gujaratiPronunciation": "સપીના",
+      "hindiPronunciation": "सपीना",
+      "gujaratiMeaning": "સમન્સ મોકલવો",
+      "hindiMeaning": "समन भेजना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Subpoena",
+          "gujaratiMeaning": "સમન્સ મોકલવો",
+          "hindiMeaning": "समन भेजना"
+        },
+        "V2 (Past)": {
+          "word": "Subpoenaed",
+          "gujaratiMeaning": "સમન્સ મોકલ્યો",
+          "hindiMeaning": "समन भेजा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Subpoenaed",
+          "gujaratiMeaning": "સમન્સ મોકલેલો",
+          "hindiMeaning": "समन भेजा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Subpoenaing",
+          "gujaratiPronunciation": "સપીનાિંગ",
+          "hindiPronunciation": "सपीनािंग",
+          "gujaratiMeaning": "સમન્સ મોકલી રહ્યું",
+          "hindiMeaning": "समन भेज रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Summon",
+          "gujaratiMeaning": "બોલાવવું",
+          "hindiMeaning": "बुलाना"
+        },
+        {
+          "word": "Cite",
+          "gujaratiMeaning": "ઉલ્લેખ કરવો",
+          "hindiMeaning": "उल्लेख करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        {
+          "word": "Submarine",
+          "gujaratiPronunciation": "સબમરીન",
+          "hindiPronunciation": "सबमरीन",
+          "gujaratiMeaning": "પાણીની અંદર ચાલતી નાવ",
+          "hindiMeaning": "पनडुब्बी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He was subpoenaed to testify in the case.",
+          "gujaratiTranslation": "તેને કેસમાં જુબાની આપવા માટે સમન્સ મોકલવામાં આવ્યો હતો.",
+          "hindiTranslation": "उसे मामले में गवाही देने के लिए समन भेजा गया था।",
+          "gujaratiPronunciation": "હી વોઝ સપીનાડ ટુ ટેસ્ટિફાય ઇન ધ કેસ.",
+          "hindiPronunciation": "ही वॉज़ सपीनाड टू टेस्टिफाई इन द केस।"
+        }
+      ]
+    }
+  ]
+}

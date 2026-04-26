@@ -1,0 +1,47 @@
+
+{
+    "id": "level-6",
+    "title": "Facial Features",
+    "words": [
+        {
+            "word": "Lip",
+            "icon": "👄",
+            "gujaratiPronunciation": "લિપ",
+            "hindiPronunciation": "लिप",
+            "gujaratiMeaning": "હોઠ",
+            "hindiMeaning": "होंठ"
+        },
+        {
+            "word": "Tongue",
+            "icon": "👅",
+            "gujaratiPronunciation": "ટંગ",
+            "hindiPronunciation": "टंग",
+            "gujaratiMeaning": "જીભ",
+            "hindiMeaning": "जीभ"
+        },
+        {
+            "word": "Chin",
+            "icon": "턱",
+            "gujaratiPronunciation": "ચિન",
+            "hindiPronunciation": "चिन",
+            "gujaratiMeaning": "દાઢી",
+            "hindiMeaning": "ठोड़ी"
+        },
+        {
+            "word": "Cheek",
+            "icon": "😊",
+            "gujaratiPronunciation": "ચીક",
+            "hindiPronunciation": "चीक",
+            "gujaratiMeaning": "ગાલ",
+            "hindiMeaning": "गाल"
+        },
+        {
+            "word": "Forehead",
+            "icon": "🤦",
+            "gujaratiPronunciation": "ફોરહેડ",
+            "hindiPronunciation": "फोरहेड",
+            "gujaratiMeaning": "કપાળ",
+            "hindiMeaning": "माथा"
+        }
+    ]
+}

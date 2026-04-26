@@ -1,0 +1,353 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Condense",
+      "gujaratiPronunciation": "કન્ડેન્સ",
+      "hindiPronunciation": "कंडेंस",
+      "gujaratiMeaning": "ઘટ્ટ કરવું",
+      "hindiMeaning": "गाढ़ा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Condense",
+          "gujaratiPronunciation": "કન્ડેન્સ",
+          "hindiPronunciation": "कंडेंस",
+          "gujaratiMeaning": "ઘટ્ટ કરવું",
+          "hindiMeaning": "गाढ़ा करना"
+        },
+        "V2": {
+          "word": "Condensed",
+          "gujaratiPronunciation": "કન્ડેન્સ્ડ",
+          "hindiPronunciation": "कंडेंस्ड",
+          "gujaratiMeaning": "ઘટ્ટ કર્યું",
+          "hindiMeaning": "गाढ़ा किया"
+        },
+        "V3": {
+          "word": "Condensed",
+          "gujaratiPronunciation": "કન્ડેન્સ્ડ",
+          "hindiPronunciation": "कंडेंस्ड",
+          "gujaratiMeaning": "ઘટ્ટ કરેલું",
+          "hindiMeaning": "गाढ़ा कर चुका"
+        },
+        "V4": {
+          "word": "Condensing",
+          "gujaratiPronunciation": "કન્ડેન્સિંગ",
+          "hindiPronunciation": "कंडेंसिंग",
+          "gujaratiMeaning": "ઘટ્ટ કરી રહ્યું છે",
+          "hindiMeaning": "गाढ़ा कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Compress",
+          "gujaratiPronunciation": "કમ્પ્રેસ",
+          "hindiPronunciation": "कंप्रेस",
+          "gujaratiMeaning": "સંકોચવું",
+          "hindiMeaning": "संपीड़ित करना"
+        },
+        {
+          "word": "Summarize",
+          "gujaratiPronunciation": "સમરાઇઝ",
+          "hindiPronunciation": "समराइज़",
+          "gujaratiMeaning": "સારાંશ આપવો",
+          "hindiMeaning": "सारांश करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Expand",
+          "gujaratiPronunciation": "એક્સપાન્ડ",
+          "hindiPronunciation": "एक्सपैंड",
+          "gujaratiMeaning": "વિસ્તારવું",
+          "hindiMeaning": "विस्तार करना"
+        },
+        {
+          "word": "Dilute",
+          "gujaratiPronunciation": "ડાયલ્યુટ",
+          "hindiPronunciation": "डाइल्यूट",
+          "gujaratiMeaning": "પાતળું કરવું",
+          "hindiMeaning": "पतला करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Steam condenses into water when it cools.",
+          "gujaratiPronunciation": "સ્ટીમ કન્ડેન્સીસ ઇન્ટુ વોટર વેન ઇટ કૂલ્સ.",
+          "hindiPronunciation": "स्टीम कंडेंसेज इनटू वॉटर वेन इट कूल्स।",
+          "gujaratiTranslation": "વરાળ ઠંડી પડતાં પાણીમાં ઘટ્ટ થાય છે.",
+          "hindiTranslation": "भाप ठंडा होने पर पानी में संघनित हो जाती है।"
+        }
+      ]
+    },
+    {
+      "word": "Extinct",
+      "gujaratiPronunciation": "એક્સ્ટિંક્ટ",
+      "hindiPronunciation": "एक्सटिंक्ट",
+      "gujaratiMeaning": "વિલુપ્ત",
+      "hindiMeaning": "विलुप्त",
+      "partOfSpeech": "Adjective",
+      "verbForms": {},
+      "synonyms": [
+        {
+          "word": "Vanished",
+          "gujaratiPronunciation": "વેનિશ્ડ",
+          "hindiPronunciation": "वैनिश्ड",
+          "gujaratiMeaning": "અદ્રશ્ય",
+          "hindiMeaning": "गायब"
+        },
+        {
+          "word": "Defunct",
+          "gujaratiPronunciation": "ડિફંક્ટ",
+          "hindiPronunciation": "डिफंक्ट",
+          "gujaratiMeaning": "નિષ્ક્રિય",
+          "hindiMeaning": "निष्क्रिय"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Existing",
+          "gujaratiPronunciation": "એક્ઝિસ્ટિંગ",
+          "hindiPronunciation": "एक्जिस्टिंग",
+          "gujaratiMeaning": "અસ્તિત્વમાં",
+          "hindiMeaning": "मौजूद"
+        },
+        {
+          "word": "Living",
+          "gujaratiPronunciation": "લિવિંગ",
+          "hindiPronunciation": "लिविंग",
+          "gujaratiMeaning": "જીવંત",
+          "hindiMeaning": "जीवित"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Instinct",
+          "gujaratiPronunciation": "ઇન્સ્ટિંક્ટ",
+          "hindiPronunciation": "इंस्टिंक्ट",
+          "gujaratiMeaning": "સહજવૃત્તિ",
+          "hindiMeaning": "सहज प्रवृत्ति",
+          "difference": "Extinct એ વિલુપ્ત છે, જ્યારે Instinct એ પ્રાણીઓની સહજવૃત્તિ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Dinosaurs have been extinct for millions of years.",
+          "gujaratiPronunciation": "ડાયનાસોર્સ હેવ બીન એક્સ્ટિંક્ટ ફોર મિલિયન્સ ઓફ યર્સ.",
+          "hindiPronunciation": "डायनासोर हैव बीन एक्सटिंक्ट फॉर मिलियंस ऑफ इयर्स।",
+          "gujaratiTranslation": "ડાયનાસોર લાખો વર્ષોથી વિલુપ્ત છે.",
+          "hindiTranslation": "डायनासोर लाखों वर्षों से विलुप्त हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Terrestrialize",
+      "gujaratiPronunciation": "ટેરેસ્ટ્રિઅલાઇઝ",
+      "hindiPronunciation": "टेरेस्ट्रियलाइज़",
+      "gujaratiMeaning": "જમીન પર વસવાટ માટે અનુકૂળ બનાવવું",
+      "hindiMeaning": "भूमि पर बसने के लिए अनुकूल बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Terrestrialize",
+          "gujaratiPronunciation": "ટેરેસ્ટ્રિઅલાઇઝ",
+          "hindiPronunciation": "टेरेस्ट्रियलाइज़",
+          "gujaratiMeaning": "જમીન પર વસવાટ માટે અનુકૂળ બનાવવું",
+          "hindiMeaning": "भूमि पर बसने के लिए अनुकूल बनाना"
+        },
+        "V2": {
+          "word": "Terrestrialized",
+          "gujaratiPronunciation": "ટેરેસ્ટ્રિઅલાઇઝ્ડ",
+          "hindiPronunciation": "टेरेस्ट्रियलाइज्ड",
+          "gujaratiMeaning": "અનુકૂળ બનાવ્યું",
+          "hindiMeaning": "अनुकूल बनाया"
+        },
+        "V3": {
+          "word": "Terrestrialized",
+          "gujaratiPronunciation": "ટેરેસ્ટ્રિઅલાઇઝ્ડ",
+          "hindiPronunciation": "टेरेस्ट्रियलाइज्ड",
+          "gujaratiMeaning": "અનુકૂળ બનાવેલું",
+          "hindiMeaning": "अनुकूल बना चुका"
+        },
+        "V4": {
+          "word": "Terrestrializing",
+          "gujaratiPronunciation": "ટેરેસ્ટ્રિઅલાઇઝિંગ",
+          "hindiPronunciation": "टेरेस्ट्रियलाइजिंग",
+          "gujaratiMeaning": "અનુકૂળ બનાવી રહ્યું છે",
+          "hindiMeaning": "अनुकूल बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Land-adapt",
+          "gujaratiPronunciation": "લેન્ડ-એડેપ્ટ",
+          "hindiPronunciation": "लैंड-अडेप्ट",
+          "gujaratiMeaning": "જમીન પર અનુકૂલન સાધવું",
+          "hindiMeaning": "भूमि पर अनुकूलन करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Aquaticize",
+          "gujaratiPronunciation": "એક્વેટિસાઇઝ",
+          "hindiPronunciation": "एक्वेटिसाइज़",
+          "gujaratiMeaning": "પાણીમાં વસવાટ માટે અનુકૂળ બનાવવું",
+          "hindiMeaning": "पानी में बसने के लिए अनुकूल बनाना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Early amphibians began to terrestrialize during the Devonian period.",
+          "gujaratiPronunciation": "અર્લી એમ્ફિબિયન્સ બિગેન ટુ ટેરેસ્ટ્રિઅલાઇઝ ડ્યુરિંગ ધ ડેવોનિયન પીરિયડ.",
+          "hindiPronunciation": "अर्ली एम्फीबियंस बिगेन टू टेरेस्ट्रियलाइज़ ड्यूरिंग द डेवोनियन पीरियड।",
+          "gujaratiTranslation": "પ્રારંભિક ઉભયજીવીઓ ડેવોનિયન કાળ દરમિયાન જમીન પર વસવાટ માટે અનુકૂળ થવા લાગ્યા.",
+          "hindiTranslation": "प्रारंभिक उभयचर डेवोनियन काल के दौरान भूमि पर बसने के लिए अनुकूल होने लगे।"
+        }
+      ]
+    },
+    {
+      "word": "Mutate",
+      "gujaratiPronunciation": "મ્યુટેટ",
+      "hindiPronunciation": "म्यूटेट",
+      "gujaratiMeaning": "રૂપાંતર થવું",
+      "hindiMeaning": "उत्परिवर्तित होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Mutate",
+          "gujaratiPronunciation": "મ્યુટેટ",
+          "hindiPronunciation": "म्यूटेट",
+          "gujaratiMeaning": "રૂપાંતર થવું",
+          "hindiMeaning": "उत्परिवर्तित होना"
+        },
+        "V2": {
+          "word": "Mutated",
+          "gujaratiPronunciation": "મ્યુટેટેડ",
+          "hindiPronunciation": "म्यूटेटेड",
+          "gujaratiMeaning": "રૂપાંતર થયું",
+          "hindiMeaning": "उत्परिवर्तित हुआ"
+        },
+        "V3": {
+          "word": "Mutated",
+          "gujaratiPronunciation": "મ્યુટેટેડ",
+          "hindiPronunciation": "म्यूटेटेड",
+          "gujaratiMeaning": "રૂપાંતરિત",
+          "hindiMeaning": "उत्परिवर्तित हो चुका"
+        },
+        "V4": {
+          "word": "Mutating",
+          "gujaratiPronunciation": "મ્યુટેટિંગ",
+          "hindiPronunciation": "म्यूटेटिंग",
+          "gujaratiMeaning": "રૂપાંતર થઈ રહ્યું છે",
+          "hindiMeaning": "उत्परिवर्तित हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Change",
+          "gujaratiPronunciation": "ચેન્જ",
+          "hindiPronunciation": "चेंज",
+          "gujaratiMeaning": "બદલાવું",
+          "hindiMeaning": "बदलना"
+        },
+        {
+          "word": "Transform",
+          "gujaratiPronunciation": "ટ્રાન્સફોર્મ",
+          "hindiPronunciation": "ट्रांसफॉर्म",
+          "gujaratiMeaning": "રૂપાંતર કરવું",
+          "hindiMeaning": "रूपांतरित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Remain",
+          "gujaratiPronunciation": "રિમેઇન",
+          "hindiPronunciation": "रिमेन",
+          "gujaratiMeaning": "રહેવું",
+          "hindiMeaning": "बना रहना"
+        },
+        {
+          "word": "Preserve",
+          "gujaratiPronunciation": "પ્રિઝર્વ",
+          "hindiPronunciation": "प्रिज़र्व",
+          "gujaratiMeaning": "જાળવવું",
+          "hindiMeaning": "संरक्षित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Mute",
+          "gujaratiPronunciation": "મ્યુટ",
+          "hindiPronunciation": "म्यूट",
+          "gujaratiMeaning": "મૌન",
+          "hindiMeaning": "मौन",
+          "difference": "Mutate એ રૂપાંતર થવું છે, જ્યારે Mute એ અવાજ બંધ કરવો છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The virus can mutate into new forms.",
+          "gujaratiPronunciation": "ધ વાયરસ કેન મ્યુટેટ ઇન્ટુ ન્યુ ફોર્મ્સ.",
+          "hindiPronunciation": "द वायरस कैन म्यूटेट इनटू न्यू फॉर्म्स।",
+          "gujaratiTranslation": "વાયરસ નવા સ્વરૂપોમાં રૂપાંતરિત થઈ શકે છે.",
+          "hindiTranslation": "वायरस नए रूपों में उत्परिवर्तित हो सकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Porous",
+      "gujaratiPronunciation": "પોરસ",
+      "hindiPronunciation": "पोरस",
+      "gujaratiMeaning": "છિદ્રાળુ",
+      "hindiMeaning": "छिद्रयुक्त",
+      "partOfSpeech": "Adjective",
+      "verbForms": {},
+      "synonyms": [
+        {
+          "word": "Permeable",
+          "gujaratiPronunciation": "પર્મિએબલ",
+          "hindiPronunciation": "परमीएबल",
+          "gujaratiMeaning": "પારગમ્ય",
+          "hindiMeaning": "पारगम्य"
+        },
+        {
+          "word": "Spongy",
+          "gujaratiPronunciation": "સ્પંજી",
+          "hindiPronunciation": "स्पंजी",
+          "gujaratiMeaning": "વાળ જેવું",
+          "hindiMeaning": "स्पंजी"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Impermeable",
+          "gujaratiPronunciation": "ઇમ્પર્મિએબલ",
+          "hindiPronunciation": "इम्परमीएबल",
+          "gujaratiMeaning": "અપારગમ્ય",
+          "hindiMeaning": "अभेद्य"
+        },
+        {
+          "word": "Solid",
+          "gujaratiPronunciation": "સોલિડ",
+          "hindiPronunciation": "सॉलिड",
+          "gujaratiMeaning": "ઘન",
+          "hindiMeaning": "ठोस"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The porous soil quickly absorbed the rainwater.",
+          "gujaratiPronunciation": "ધ પોરસ સોઇલ ક્વિકલી એબ્સોર્બ્ડ ધ રેઇનવોટર.",
+          "hindiPronunciation": "द पोरस सॉइल क्विकली एब्जॉर्बड द रेनवाटर।",
+          "gujaratiTranslation": "છિદ્રાળુ જમીને વરસાદનું પાણી ઝડપથી શોષી લીધું.",
+          "hindiTranslation": "छिद्रयुक्त मिट्टी ने बारिश का पानी जल्दी सोख लिया।"
+        }
+      ]
+    }
+  ]
+}

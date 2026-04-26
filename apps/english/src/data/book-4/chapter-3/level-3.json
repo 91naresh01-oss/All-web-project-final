@@ -1,0 +1,166 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Circumnavigate",
+      "gujaratiPronunciation": "સર્કમનૅવિગેટ",
+      "hindiPronunciation": "सर्कमनेविगेट",
+      "gujaratiMeaning": "પ્રદક્ષિણા કરવી",
+      "hindiMeaning": "परिक्रमा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Circumnavigate", "gujaratiPronunciation": "સર્કમનૅવિગેટ", "hindiPronunciation": "सर्कमनेविगेट", "gujaratiMeaning": "પ્રદક્ષિણા કરવી", "hindiMeaning": "परिक्रमा करना" },
+        "V2 (Past Simple)": { "word": "Circumnavigated", "gujaratiPronunciation": "સર્કમનૅવિગેટેડ", "hindiPronunciation": "सर्कमनेविगेटेड", "gujaratiMeaning": "પ્રદક્ષિણા કરી", "hindiMeaning": "परिक्रमा की" },
+        "V3 (Past Participle)": { "word": "Circumnavigated", "gujaratiPronunciation": "સર્કમનૅવિગેટેડ", "hindiPronunciation": "सर्कमनेविगेटेड", "gujaratiMeaning": "પ્રદક્ષિણા કરેલ", "hindiMeaning": "परिक्रमित" },
+        "V4 (Present Participle)": { "word": "Circumnavigating", "gujaratiPronunciation": "સર્કમનૅવિગેટિંગ", "hindiPronunciation": "सर्कमनेविगेटिंग", "gujaratiMeaning": "પ્રદક્ષિણા કરી રહ્યું છે", "hindiMeaning": "परिक्रमा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Circle", "gujaratiPronunciation": "સર્કલ", "hindiPronunciation": "सर्कल", "gujaratiMeaning": "ચક્કર લગાવવું", "hindiMeaning": "चक्कर लगाना" },
+        { "word": "Encircle", "gujaratiPronunciation": "એન્સર્કલ", "hindiPronunciation": "एनसर्कल", "gujaratiMeaning": "ઘેરી લેવું", "hindiMeaning": "घेरना" }
+      ],
+      "antonyms": [
+        { "word": "Go straight", "gujaratiPronunciation": "ગો સ્ટ્રેટ", "hindiPronunciation": "गो स्ट्रेट", "gujaratiMeaning": "સીધા જવું", "hindiMeaning": "सीधे जाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "They want to circumnavigate the globe in a sailboat.",
+          "gujaratiTranslation": "તેઓ સેઇલબોટમાં પૃથ્વીની પ્રદક્ષિણા કરવા માંગે છે.",
+          "hindiTranslation": "वे एक सेलबोट में दुनिया की परिक्रमा करना चाहते हैं।",
+          "gujaratiPronunciation": "ધે વોન્ટ ટુ સર્કમનૅવિગેટ ધ ગ્લોબ ઇન અ સેઇલબોટ.",
+          "hindiPronunciation": "दे वांट टू सर्कमनेविगेट द ग्लोब इन अ सेलबोट।"
+        }
+      ]
+    },
+    {
+      "word": "Disembark",
+      "gujaratiPronunciation": "ડિસેમ્બાર્ક",
+      "hindiPronunciation": "डिसएम्बार्क",
+      "gujaratiMeaning": "જહાજમાંથી ઉતરવું",
+      "hindiMeaning": "जहाज से उतरना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Disembark", "gujaratiPronunciation": "ડિસેમ્બાર્ક", "hindiPronunciation": "डिसएम्बार्क", "gujaratiMeaning": "જહાજમાંથી ઉતરવું", "hindiMeaning": "जहाज से उतरना" },
+        "V2 (Past Simple)": { "word": "Disembarked", "gujaratiPronunciation": "ડિસેમ્બાર્ક્ડ", "hindiPronunciation": "डिसएम्बार्क्ड", "gujaratiMeaning": "જહાજમાંથી ઉતર્યા", "hindiMeaning": "जहाज से उतरा" },
+        "V3 (Past Participle)": { "word": "Disembarked", "gujaratiPronunciation": "ડિસેમ્બાર્ક્ડ", "hindiPronunciation": "डिसएम्बार्क्ड", "gujaratiMeaning": "જહાજમાંથી ઉતરેલ", "hindiMeaning": "जहाज से उतरा हुआ" },
+        "V4 (Present Participle)": { "word": "Disembarking", "gujaratiPronunciation": "ડિસેમ્બાર્કિંગ", "hindiPronunciation": "डिसएम्बार्किंग", "gujaratiMeaning": "જહાજમાંથી ઉતરી રહ્યું છે", "hindiMeaning": "जहाज से उतर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Alight", "gujaratiPronunciation": "અલાઇટ", "hindiPronunciation": "अलाइट", "gujaratiMeaning": "ઉતરવું", "hindiMeaning": "उतरना" },
+        { "word": "Land", "gujaratiPronunciation": "લેન્ડ", "hindiPronunciation": "लैंड", "gujaratiMeaning": "જમીન પર ઉતરવું", "hindiMeaning": "उतरना" }
+      ],
+      "antonyms": [
+        { "word": "Embark", "gujaratiPronunciation": "એમ્બાર્ક", "hindiPronunciation": "एम्बार्क", "gujaratiMeaning": "જહાજમાં ચડવું", "hindiMeaning": "जहाज पर चढ़ना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Passengers must disembark at the next port.",
+          "gujaratiTranslation": "મુસાફરોએ આગલા બંદર પર ઉતરવું જ જોઈએ.",
+          "hindiTranslation": "यात्रियों को अगले बंदरगाह पर उतरना होगा।",
+          "gujaratiPronunciation": "પેસેન્જર્સ મસ્ટ ડિસેમ્બાર્ક એટ ધ નેક્સ્ટ પોર્ટ.",
+          "hindiPronunciation": "पैसेंजर्स मस्ट डिसएम्बार्क एट द नेक्स्ट पोर्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Traverse",
+      "gujaratiPronunciation": "ટ્રાવર્સ",
+      "hindiPronunciation": "ट्रैवर्स",
+      "gujaratiMeaning": "પાર કરવું",
+      "hindiMeaning": "पार करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Traverse", "gujaratiPronunciation": "ટ્રાવર્સ", "hindiPronunciation": "ट्रैवर्स", "gujaratiMeaning": "પાર કરવું", "hindiMeaning": "पार करना" },
+        "V2 (Past Simple)": { "word": "Traversed", "gujaratiPronunciation": "ટ્રાવર્સ્ડ", "hindiPronunciation": "ट्रैवर्स्ड", "gujaratiMeaning": "પાર કર્યું", "hindiMeaning": "पार किया" },
+        "V3 (Past Participle)": { "word": "Traversed", "gujaratiPronunciation": "ટ્રાવર્સ્ડ", "hindiPronunciation": "ट्रैवर्स्ड", "gujaratiMeaning": "પાર કરેલ", "hindiMeaning": "पार किया हुआ" },
+        "V4 (Present Participle)": { "word": "Traversing", "gujaratiPronunciation": "ટ્રાવર્સિંગ", "hindiPronunciation": "ट्रैवर्सिंग", "gujaratiMeaning": "પાર કરી રહ્યું છે", "hindiMeaning": "पार कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Cross", "gujaratiPronunciation": "ક્રોસ", "hindiPronunciation": "क्रॉस", "gujaratiMeaning": "પાર કરવું", "hindiMeaning": "पार करना" },
+        { "word": "Pass through", "gujaratiPronunciation": "પાસ થ્રુ", "hindiPronunciation": "पास थ्रू", "gujaratiMeaning": "માંથી પસાર થવું", "hindiMeaning": "से गुज़रना" }
+      ],
+      "antonyms": [
+        { "word": "Avoid", "gujaratiPronunciation": "અવોઇડ", "hindiPronunciation": "अवॉइड", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The explorers had to traverse a dense jungle.",
+          "gujaratiTranslation": "શોધકર્તાઓને ગાઢ જંગલ પાર કરવું પડ્યું.",
+          "hindiTranslation": "खोजकर्ताओं को एक घने जंगल को पार करना पड़ा।",
+          "gujaratiPronunciation": "ધ એક્સપ્લોરર્સ હેડ ટુ ટ્રાવર્સ અ ડેન્સ જંગલ.",
+          "hindiPronunciation": "द एक्सप्लोरर्स हैड टू ट्रैवर्स अ डेंस जंगल।"
+        }
+      ]
+    },
+    {
+      "word": "Lodge",
+      "gujaratiPronunciation": "લોજ",
+      "hindiPronunciation": "लॉज",
+      "gujaratiMeaning": "રહેઠાણ કરવું",
+      "hindiMeaning": "रहना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Lodge", "gujaratiPronunciation": "લોજ", "hindiPronunciation": "लॉज", "gujaratiMeaning": "રહેઠાણ કરવું", "hindiMeaning": "रहना" },
+        "V2 (Past Simple)": { "word": "Lodged", "gujaratiPronunciation": "લોજ્ડ", "hindiPronunciation": "लॉज्ड", "gujaratiMeaning": "રહેઠાણ કર્યું", "hindiMeaning": "रहा" },
+        "V3 (Past Participle)": { "word": "Lodged", "gujaratiPronunciation": "લોજ્ડ", "hindiPronunciation": "लॉज्ड", "gujaratiMeaning": "રહેઠાણ કરેલ", "hindiMeaning": "रहा हुआ" },
+        "V4 (Present Participle)": { "word": "Lodging", "gujaratiPronunciation": "લોજિંગ", "hindiPronunciation": "लॉजिंग", "gujaratiMeaning": "રહેઠાણ કરી રહ્યું છે", "hindiMeaning": "रह रहा है" }
+      },
+      "synonyms": [
+        { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" },
+        { "word": "Reside", "gujaratiPronunciation": "રિસાઇડ", "hindiPronunciation": "रिसाइड", "gujaratiMeaning": "નિવાસ કરવો", "hindiMeaning": "निवास करना" }
+      ],
+      "antonyms": [
+        { "word": "Leave", "gujaratiPronunciation": "લીવ", "hindiPronunciation": "लीव", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Large", "gujaratiPronunciation": "લાર્જ", "hindiPronunciation": "लार्ज", "gujaratiMeaning": "મોટું", "hindiMeaning": "बड़ा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They will lodge at a hotel near the airport.",
+          "gujaratiTranslation": "તેઓ એરપોર્ટ નજીકની હોટલમાં રહેશે.",
+          "hindiTranslation": "वे हवाई अड्डे के पास एक होटल में ठहरेंगे।",
+          "gujaratiPronunciation": "ધે વિલ લોજ એટ અ હોટેલ નિયર ધ એરપોર્ટ.",
+          "hindiPronunciation": "दे विल लॉज एट अ होटल नियर द एयरपोर्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Convey",
+      "gujaratiPronunciation": "કન્વે",
+      "hindiPronunciation": "कन्वे",
+      "gujaratiMeaning": "પહોંચાડવું",
+      "hindiMeaning": "पहुंचाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Convey", "gujaratiPronunciation": "કન્વે", "hindiPronunciation": "कन्वे", "gujaratiMeaning": "પહોંચાડવું", "hindiMeaning": "पहुंचाना" },
+        "V2 (Past Simple)": { "word": "Conveyed", "gujaratiPronunciation": "કન્વેડ", "hindiPronunciation": "कन्वेड", "gujaratiMeaning": "પહોંચાડ્યું", "hindiMeaning": "पहुंचाया" },
+        "V3 (Past Participle)": { "word": "Conveyed", "gujaratiPronunciation": "કન્વેડ", "hindiPronunciation": "कन्वेड", "gujaratiMeaning": "પહોંચાડેલ", "hindiMeaning": "पहुंचाया हुआ" },
+        "V4 (Present Participle)": { "word": "Conveying", "gujaratiPronunciation": "કન્વેઇંગ", "hindiPronunciation": "कन्वेइंग", "gujaratiMeaning": "પહોંચાડી રહ્યું છે", "hindiMeaning": "पहुंचा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Transport", "gujaratiPronunciation": "ટ્રાન્સપોર્ટ", "hindiPronunciation": "ट्रांसपोर्ट", "gujaratiMeaning": "પરિવહન કરવું", "hindiMeaning": "परिवहन करना" },
+        { "word": "Carry", "gujaratiPronunciation": "કેરી", "hindiPronunciation": "कैरी", "gujaratiMeaning": "લઈ જવું", "hindiMeaning": "ले जाना" }
+      ],
+      "antonyms": [
+        { "word": "Receive", "gujaratiPronunciation": "રિસિવ", "hindiPronunciation": "रिसीव", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Convoy", "gujaratiPronunciation": "કોન્વોય", "hindiPronunciation": "कॉनवॉय", "gujaratiMeaning": "કાફલો", "hindiMeaning": "काफिला" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A bus will convey passengers to the terminal.",
+          "gujaratiTranslation": "એક બસ મુસાફરોને ટર્મિનલ સુધી પહોંચાડશે.",
+          "hindiTranslation": "एक बस यात्रियों को टर्मिनल तक पहुंचाएगी।",
+          "gujaratiPronunciation": "અ બસ વિલ કન્વે પેસેન્જર્સ ટુ ધ ટર્મિનલ.",
+          "hindiPronunciation": "अ बस विल कन्वे पैसेंजर्स टू द टर्मिनल।"
+        }
+      ]
+    }
+  ]
+}

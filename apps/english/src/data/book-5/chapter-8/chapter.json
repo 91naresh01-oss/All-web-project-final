@@ -1,0 +1,13 @@
+{
+  "id": "chapter-8",
+  "title": "Natural World 🌍",
+  "gujaratiTitle": "કુદરતી વિશ્વ 🌍",
+  "hindiTitle": "प्राकृतिक दुनिया 🌍",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" },
+    { "id": "level-5" }
+  ]
+}

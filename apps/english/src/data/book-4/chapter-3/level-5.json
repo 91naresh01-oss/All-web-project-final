@@ -1,0 +1,167 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Globe-trot",
+      "gujaratiPronunciation": "ગ્લોબ-ટ્રોટ",
+      "hindiPronunciation": "ग्लोब-ट्रॉट",
+      "gujaratiMeaning": "વિશ્વભરમાં ફરવું",
+      "hindiMeaning": "दुनिया भर में घूमना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Globe-trot", "gujaratiPronunciation": "ગ્લોબ-ટ્રોટ", "hindiPronunciation": "ग्लोब-ट्रॉट", "gujaratiMeaning": "વિશ્વભરમાં ફરવું", "hindiMeaning": "दुनिया भर में घूमना" },
+        "V2 (Past Simple)": { "word": "Globe-trotted", "gujaratiPronunciation": "ગ્લોબ-ટ્રોટેડ", "hindiPronunciation": "ग्लोब-ट्रॉटेड", "gujaratiMeaning": "વિશ્વભરમાં ફર્યા", "hindiMeaning": "दुनिया भर में घूमा" },
+        "V3 (Past Participle)": { "word": "Globe-trotted", "gujaratiPronunciation": "ગ્લોબ-ટ્રોટેડ", "hindiPronunciation": "ग्लोब-ट्रॉटेड", "gujaratiMeaning": "વિશ્વભરમાં ફરેલ", "hindiMeaning": "दुनिया भर में घूमा हुआ" },
+        "V4 (Present Participle)": { "word": "Globe-trotting", "gujaratiPronunciation": "ગ્લોબ-ટ્રોટિંગ", "hindiPronunciation": "ग्लोब-ट्रॉटिंग", "gujaratiMeaning": "વિશ્વભરમાં ફરી રહ્યું છે", "hindiMeaning": "दुनिया भर में घूम रहा है" }
+      },
+      "synonyms": [
+        { "word": "Travel widely", "gujaratiPronunciation": "ટ્રાવેલ વાઇડલી", "hindiPronunciation": "ट्रैवल वाइडली", "gujaratiMeaning": "વ્યાપકપણે મુસાફરી કરવી", "hindiMeaning": "व्यापक रूप से यात्रा करना" }
+      ],
+      "antonyms": [
+        { "word": "Stay home", "gujaratiPronunciation": "સ્ટે હોમ", "hindiPronunciation": "स्टे होम", "gujaratiMeaning": "ઘરે રહેવું", "hindiMeaning": "घर पर रहना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "After retiring, she decided to globe-trot.",
+          "gujaratiTranslation": "નિવૃત્તિ પછી, તેણીએ વિશ્વભરમાં ફરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "सेवानिवृत्ति के बाद, उसने दुनिया भर में घूमने का फैसला किया।",
+          "gujaratiPronunciation": "આફ્ટર રિટાયરિંગ, શી ડિસાઇડેડ ટુ ગ્લોબ-ટ્રોટ.",
+          "hindiPronunciation": "आफ्टर रिटायरिंग, शी डिसाइडेड टू ग्लोब-ट्रॉट।"
+        }
+      ]
+    },
+    {
+      "word": "Anchor",
+      "gujaratiPronunciation": "એન્કર",
+      "hindiPronunciation": "एंकर",
+      "gujaratiMeaning": "લંગર નાખવું",
+      "hindiMeaning": "लंगर डालना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Anchor", "gujaratiPronunciation": "એન્કર", "hindiPronunciation": "एंकर", "gujaratiMeaning": "લંગર નાખવું", "hindiMeaning": "लंगर डालना" },
+        "V2 (Past Simple)": { "word": "Anchored", "gujaratiPronunciation": "એન્કર્ડ", "hindiPronunciation": "एंकरड", "gujaratiMeaning": "લંગર નાખ્યું", "hindiMeaning": "लंगर डाला" },
+        "V3 (Past Participle)": { "word": "Anchored", "gujaratiPronunciation": "એન્કર્ડ", "hindiPronunciation": "एंकरड", "gujaratiMeaning": "લંગર નાખેલ", "hindiMeaning": "लंगर डाला हुआ" },
+        "V4 (Present Participle)": { "word": "Anchoring", "gujaratiPronunciation": "એન્કરિંગ", "hindiPronunciation": "एंकरिंग", "gujaratiMeaning": "લંગર નાખી રહ્યું છે", "hindiMeaning": "लंगर डाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Moor", "gujaratiPronunciation": "મૂર", "hindiPronunciation": "मूर", "gujaratiMeaning": "લાંગરવું", "hindiMeaning": "लंगर डालना" },
+        { "word": "Secure", "gujaratiPronunciation": "સિક્યોર", "hindiPronunciation": "सिक्योर", "gujaratiMeaning": "સુરક્ષિત કરવું", "hindiMeaning": "सुरक्षित करना" }
+      ],
+      "antonyms": [
+        { "word": "Sail", "gujaratiPronunciation": "સેઇલ", "hindiPronunciation": "सेल", "gujaratiMeaning": "સફર કરવી", "hindiMeaning": "यात्रा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Anger", "gujaratiPronunciation": "એંગર", "hindiPronunciation": "एंगर", "gujaratiMeaning": "ગુસ્સો", "hindiMeaning": "गुस्सा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The boat will anchor near the shore.",
+          "gujaratiTranslation": "હોડી કિનારા પાસે લંગર નાખશે.",
+          "hindiTranslation": "नाव किनारे के पास लंगर डालेगी।",
+          "gujaratiPronunciation": "ધ બોટ વિલ એન્કર નિયર ધ શોર.",
+          "hindiPronunciation": "द बोट विल एंकर नियर द शोर।"
+        }
+      ]
+    },
+    {
+      "word": "Veer",
+      "gujaratiPronunciation": "વીયર",
+      "hindiPronunciation": "वीर",
+      "gujaratiMeaning": "દિશા બદલવી",
+      "hindiMeaning": "दिशा बदलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Veer", "gujaratiPronunciation": "વીયર", "hindiPronunciation": "वीर", "gujaratiMeaning": "દિશા બદલવી", "hindiMeaning": "दिशा बदलना" },
+        "V2 (Past Simple)": { "word": "Veered", "gujaratiPronunciation": "વીયર્ડ", "hindiPronunciation": "वीर्ड", "gujaratiMeaning": "દિશા બદલી", "hindiMeaning": "दिशा बदली" },
+        "V3 (Past Participle)": { "word": "Veered", "gujaratiPronunciation": "વીયર્ડ", "hindiPronunciation": "वीर्ड", "gujaratiMeaning": "દિશા બદલેલ", "hindiMeaning": "दिशा बदली हुई" },
+        "V4 (Present Participle)": { "word": "Veering", "gujaratiPronunciation": "વીયરિંગ", "hindiPronunciation": "वीरिंग", "gujaratiMeaning": "દિશા બદલી રહ્યું છે", "hindiMeaning": "दिशा बदल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Swerve", "gujaratiPronunciation": "સ્વર્વ", "hindiPronunciation": "स्वर्व", "gujaratiMeaning": "એકાએક વળવું", "hindiMeaning": "अचानक मुड़ना" },
+        { "word": "Turn", "gujaratiPronunciation": "ટર્ન", "hindiPronunciation": "टर्न", "gujaratiMeaning": "વળવું", "hindiMeaning": "मुड़ना" }
+      ],
+      "antonyms": [
+        { "word": "Go straight", "gujaratiPronunciation": "ગો સ્ટ્રેટ", "hindiPronunciation": "गो स्ट्रेट", "gujaratiMeaning": "સીધા જવું", "hindiMeaning": "सीधे जाना" }
+      ],
+      "confusingWords": [
+        { "word": "Beer", "gujaratiPronunciation": "બિયર", "hindiPronunciation": "बीयर", "gujaratiMeaning": "બિયર", "hindiMeaning": "बीयर" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The car started to veer off the road.",
+          "gujaratiTranslation": "કાર રસ્તા પરથી દિશા બદલવા લાગી.",
+          "hindiTranslation": "कार सड़क से दिशा बदलने लगी।",
+          "gujaratiPronunciation": "ધ કાર સ્ટાર્ટેડ ટુ વીયર ઓફ ધ રોડ.",
+          "hindiPronunciation": "द कार स्टार्टेड टू वीर ऑफ द रोड।"
+        }
+      ]
+    },
+    {
+      "word": "Meander",
+      "gujaratiPronunciation": "મિયેન્ડર",
+      "hindiPronunciation": "मिएंडर",
+      "gujaratiMeaning": "આડુંઅવળું ફરવું",
+      "hindiMeaning": "टेढ़ा-मेढ़ा चलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Meander", "gujaratiPronunciation": "મિયેન્ડર", "hindiPronunciation": "मिएंडर", "gujaratiMeaning": "આડુંઅવળું ફરવું", "hindiMeaning": "टेढ़ा-मेढ़ा चलना" },
+        "V2 (Past Simple)": { "word": "Meandered", "gujaratiPronunciation": "મિયેન્ડર્ડ", "hindiPronunciation": "मिएंडर्ड", "gujaratiMeaning": "આડુંઅવળું ફર્યું", "hindiMeaning": "टेढ़ा-मेढ़ा चला" },
+        "V3 (Past Participle)": { "word": "Meandered", "gujaratiPronunciation": "મિયેન્ડર્ડ", "hindiPronunciation": "मिएंडर्ड", "gujaratiMeaning": "આડુંઅવળું ફરેલ", "hindiMeaning": "टेढ़ा-मेढ़ा चला हुआ" },
+        "V4 (Present Participle)": { "word": "Meandering", "gujaratiPronunciation": "મિયેન્ડરિંગ", "hindiPronunciation": "मिएंडरिंग", "gujaratiMeaning": "આડુંઅવળું ફરી રહ્યું છે", "hindiMeaning": "टेढ़ा-मेढ़ा चल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Wander", "gujaratiPronunciation": "વોન્ડર", "hindiPronunciation": "वांडर", "gujaratiMeaning": "ભટકવું", "hindiMeaning": "भटकना" },
+        { "word": "Wind", "gujaratiPronunciation": "વાઇન્ડ", "hindiPronunciation": "वाइंड", "gujaratiMeaning": "વાંકાચૂંકા માર્ગે જવું", "hindiMeaning": "घुमावदार रास्ते पर चलना" }
+      ],
+      "antonyms": [
+        { "word": "Go directly", "gujaratiPronunciation": "ગો ડિરેક્ટલી", "hindiPronunciation": "गो डायरेक्टली", "gujaratiMeaning": "સીધા જવું", "hindiMeaning": "सीधे जाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The river meanders through the valley.",
+          "gujaratiTranslation": "નદી ખીણમાંથી આડીઅવળી વહે છે.",
+          "hindiTranslation": "नदी घाटी से होकर टेढ़ी-मेढ़ी बहती है।",
+          "gujaratiPronunciation": "ધ રિવર મિયેન્ડર્સ થ્રુ ધ વેલી.",
+          "hindiPronunciation": "द रिवर मिएंडर्स थ्रू द वैली।"
+        }
+      ]
+    },
+    {
+      "word": "Stroll",
+      "gujaratiPronunciation": "સ્ટ્રોલ",
+      "hindiPronunciation": "स्ट्रॉल",
+      "gujaratiMeaning": "ટહેલવું",
+      "hindiMeaning": "टहलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Stroll", "gujaratiPronunciation": "સ્ટ્રોલ", "hindiPronunciation": "स्ट्रॉल", "gujaratiMeaning": "ટહેલવું", "hindiMeaning": "टहलना" },
+        "V2 (Past Simple)": { "word": "Strolled", "gujaratiPronunciation": "સ્ટ્રોલ્ડ", "hindiPronunciation": "स्ट्रोल्ड", "gujaratiMeaning": "ટહેલ્યો", "hindiMeaning": "टहला" },
+        "V3 (Past Participle)": { "word": "Strolled", "gujaratiPronunciation": "સ્ટ્રોલ્ડ", "hindiPronunciation": "स्ट्रोल्ड", "gujaratiMeaning": "ટહેલેલ", "hindiMeaning": "टहला हुआ" },
+        "V4 (Present Participle)": { "word": "Strolling", "gujaratiPronunciation": "સ્ટ્રોલિંગ", "hindiPronunciation": "स्ट्रॉलिंग", "gujaratiMeaning": "ટહેલી રહ્યું છે", "hindiMeaning": "टहल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Amble", "gujaratiPronunciation": "એમ્બલ", "hindiPronunciation": "एम्बल", "gujaratiMeaning": "ધીમે ધીમે ચાલવું", "hindiMeaning": "धीमी चाल चलना" },
+        { "word": "Saunter", "gujaratiPronunciation": "સોન્ટર", "hindiPronunciation": "सॉन्टर", "gujaratiMeaning": "આરામથી ચાલવું", "hindiMeaning": "आराम से चलना" }
+      ],
+      "antonyms": [
+        { "word": "Rush", "gujaratiPronunciation": "રશ", "hindiPronunciation": "रश", "gujaratiMeaning": "દોડવું", "hindiMeaning": "जल्दी करना" }
+      ],
+      "confusingWords": [
+        { "word": "Scroll", "gujaratiPronunciation": "સ્ક્રોલ", "hindiPronunciation": "स्क्रॉल", "gujaratiMeaning": "સ્ક્રોલ કરવું", "hindiMeaning": "स्क्रॉल करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They went for a stroll in the park.",
+          "gujaratiTranslation": "તેઓ બગીચામાં ટહેલવા ગયા.",
+          "hindiTranslation": "वे पार्क में टहलने गए।",
+          "gujaratiPronunciation": "ધે વેન્ટ ફોર અ સ્ટ્રોલ ઇન ધ પાર્ક.",
+          "hindiPronunciation": "दे वेंट फॉर अ स्ट्रॉल इन द पार्क।"
+        }
+      ]
+    }
+  ]
+}

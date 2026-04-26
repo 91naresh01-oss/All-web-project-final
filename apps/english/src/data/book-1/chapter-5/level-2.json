@@ -1,0 +1,47 @@
+
+{
+    "id": "level-2",
+    "title": "Animals 2",
+    "words": [
+        {
+            "word": "Horse",
+            "icon": "🐴",
+            "gujaratiPronunciation": "હૉર્સ",
+            "hindiPronunciation": "हॉर्स",
+            "gujaratiMeaning": "ઘોડો",
+            "hindiMeaning": "घोड़ा"
+        },
+        {
+            "word": "Goat",
+            "icon": "🐐",
+            "gujaratiPronunciation": "ગોટ",
+            "hindiPronunciation": "गोट",
+            "gujaratiMeaning": "બકરી",
+            "hindiMeaning": "बकरी"
+        },
+        {
+            "word": "Sheep",
+            "icon": "🐑",
+            "gujaratiPronunciation": "શીપ",
+            "hindiPronunciation": "शीप",
+            "gujaratiMeaning": "ઘેટું",
+            "hindiMeaning": " भेड़"
+        },
+        {
+            "word": "Pig",
+            "icon": "🐷",
+            "gujaratiPronunciation": "પિગ",
+            "hindiPronunciation": "पिग",
+            "gujaratiMeaning": "ડુક્કર",
+            "hindiMeaning": "सूअर"
+        },
+        {
+            "word": "Hen",
+            "icon": "🐔",
+            "gujaratiPronunciation": "હેન",
+            "hindiPronunciation": "हेन",
+            "gujaratiMeaning": "મરઘી",
+            "hindiMeaning": "मुर्गी"
+        }
+    ]
+}

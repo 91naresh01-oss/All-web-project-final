@@ -1,0 +1,169 @@
+{
+  "id": "level-1",
+  "title": "Level 1: Fundamental Transactions",
+  "words": [
+    {
+      "word": "Buy",
+      "gujaratiPronunciation": "બાય",
+      "hindiPronunciation": "बाय",
+      "gujaratiMeaning": "ખરીદવું",
+      "hindiMeaning": "खरीदना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Buy", "gujaratiPronunciation": "બાય", "hindiPronunciation": "बाय", "gujaratiMeaning": "ખરીદવું", "hindiMeaning": "खरीदना" },
+        "V2 (Past)": { "word": "Bought", "gujaratiPronunciation": "બોટ", "hindiPronunciation": "बॉट", "gujaratiMeaning": "ખરીદ્યું", "hindiMeaning": "खरीदा" },
+        "V3 (Past Participle)": { "word": "Bought", "gujaratiPronunciation": "બોટ", "hindiPronunciation": "बॉट", "gujaratiMeaning": "ખરીદેલું", "hindiMeaning": "खरीदा हुआ" },
+        "V4 (Present Participle)": { "word": "Buying", "gujaratiPronunciation": "બાઇંગ", "hindiPronunciation": "बाइंग", "gujaratiMeaning": "ખરીદી રહ્યું છે", "hindiMeaning": "खरीद रहा है" }
+      },
+      "synonyms": [
+        { "word": "Purchase", "gujaratiPronunciation": "પરચેઝ", "hindiPronunciation": "परचेज", "gujaratiMeaning": "ખરીદી કરવી", "hindiMeaning": "खरीदना" }
+      ],
+      "antonyms": [
+        { "word": "Sell", "gujaratiPronunciation": "સેલ", "hindiPronunciation": "सेल", "gujaratiMeaning": "વેચવું", "hindiMeaning": "बेचना" }
+      ],
+      "confusingWords": [
+        { "word": "By", "gujaratiPronunciation": "બાય", "hindiPronunciation": "बाय", "gujaratiMeaning": "દ્વારા", "hindiMeaning": "द्वारा" },
+        { "word": "Bye", "gujaratiPronunciation": "બાય", "hindiPronunciation": "बाय", "gujaratiMeaning": "આવજો", "hindiMeaning": "अलविदा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I need to buy some groceries.",
+          "gujaratiTranslation": "મારે થોડી કરિયાણાની વસ્તુઓ ખરીદવાની જરૂર છે.",
+          "hindiTranslation": "मुझे कुछ किराने का सामान खरीदना है।",
+          "gujaratiPronunciation": "આઇ નીડ ટુ બાય સમ ગ્રોસરીઝ.",
+          "hindiPronunciation": "आई नीड टू बाय सम ग्रोसरीज़।"
+        }
+      ]
+    },
+    {
+      "word": "Sell",
+      "gujaratiPronunciation": "સેલ",
+      "hindiPronunciation": "सेल",
+      "gujaratiMeaning": "વેચવું",
+      "hindiMeaning": "बेचना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Sell", "gujaratiPronunciation": "સેલ", "hindiPronunciation": "सेल", "gujaratiMeaning": "વેચવું", "hindiMeaning": "बेचना" },
+        "V2 (Past)": { "word": "Sold", "gujaratiPronunciation": "સોલ્ડ", "hindiPronunciation": "सोल्ड", "gujaratiMeaning": "વેચ્યું", "hindiMeaning": "बेचा" },
+        "V3 (Past Participle)": { "word": "Sold", "gujaratiPronunciation": "સોલ્ડ", "hindiPronunciation": "सोल्ड", "gujaratiMeaning": "વેચેલું", "hindiMeaning": "बिका हुआ" },
+        "V4 (Present Participle)": { "word": "Selling", "gujaratiPronunciation": "સેલિંગ", "hindiPronunciation": "सेलिंग", "gujaratiMeaning": "વેચી રહ્યું છે", "hindiMeaning": "बेच रहा है" }
+      },
+      "synonyms": [
+        { "word": "Market", "gujaratiPronunciation": "માર્કેટ", "hindiPronunciation": "मार्केट", "gujaratiMeaning": "બજારમાં વેચવું", "hindiMeaning": "बाजार में बेचना" }
+      ],
+      "antonyms": [
+        { "word": "Buy", "gujaratiPronunciation": "બાય", "hindiPronunciation": "बाय", "gujaratiMeaning": "ખરીદવું", "hindiMeaning": "खरीदना" }
+      ],
+      "confusingWords": [
+        { "word": "Cell", "gujaratiPronunciation": "સેલ", "hindiPronunciation": "सेल", "gujaratiMeaning": "કોષ", "hindiMeaning": "कोशिका" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They sell fresh vegetables at the market.",
+          "gujaratiTranslation": "તેઓ બજારમાં તાજા શાકભાજી વેચે છે.",
+          "hindiTranslation": "वे बाजार में ताजी सब्जियां बेचते हैं।",
+          "gujaratiPronunciation": "ધે સેલ ફ્રેશ વેજીટેબલ્સ એટ ધ માર્કેટ.",
+          "hindiPronunciation": "दे सेल फ्रेश वेजिटेबल्स ऐट द मार्केट।"
+        }
+      ]
+    },
+    {
+      "word": "Fund",
+      "gujaratiPronunciation": "ફંડ",
+      "hindiPronunciation": "फंड",
+      "gujaratiMeaning": "ભંડોળ પૂરું પાડવું",
+      "hindiMeaning": "वित्त पोषण करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Fund", "gujaratiPronunciation": "ફંડ", "hindiPronunciation": "फंड", "gujaratiMeaning": "ભંડોળ પૂરું પાડવું", "hindiMeaning": "वित्त पोषण करना" },
+        "V2 (Past)": { "word": "Funded", "gujaratiPronunciation": "ફંડેડ", "hindiPronunciation": "फंडेड", "gujaratiMeaning": "ભંડોળ પૂરું પાડ્યું", "hindiMeaning": "वित्त पोषित किया" },
+        "V3 (Past Participle)": { "word": "Funded", "gujaratiPronunciation": "ફંડેડ", "hindiPronunciation": "फंडेड", "gujaratiMeaning": "ભંડોળ પૂરું પાડેલું", "hindiMeaning": "वित्त पोषित" },
+        "V4 (Present Participle)": { "word": "Funding", "gujaratiPronunciation": "ફંડિંગ", "hindiPronunciation": "फंडिंग", "gujaratiMeaning": "ભંડોળ પૂરું પાડી રહ્યું છે", "hindiMeaning": "वित्त पोषण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Finance", "gujaratiPronunciation": "ફાઇનાન્સ", "hindiPronunciation": "फाइनेंस", "gujaratiMeaning": "નાણાકીય સહાય કરવી", "hindiMeaning": "वित्त देना" },
+        { "word": "Sponsor", "gujaratiPronunciation": "સ્પોન્સર", "hindiPronunciation": "स्पॉन्सर", "gujaratiMeaning": "પ્રાયોજક બનવું", "hindiMeaning": "प्रायोजित करना" }
+      ],
+      "antonyms": [
+        { "word": "Defund", "gujaratiPronunciation": "ડિફંડ", "hindiPronunciation": "डिफंड", "gujaratiMeaning": "ભંડોળ પાછું ખેંચવું", "hindiMeaning": "वित्त पोषण बंद करना" }
+      ],
+      "confusingWords": [
+        { "word": "Find", "gujaratiPronunciation": "ફાઇન્ડ", "hindiPronunciation": "फाइंड", "gujaratiMeaning": "શોધવું", "hindiMeaning": "खोजना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government will fund the new research project.",
+          "gujaratiTranslation": "સરકાર નવા સંશોધન પ્રોજેક્ટને ભંડોળ પૂરું પાડશે.",
+          "hindiTranslation": "सरकार नई अनुसंधान परियोजना को निधि देगी।",
+          "gujaratiPronunciation": "ધ ગવર્નમેન્ટ વિલ ફંડ ધ ન્યૂ રિસર્ચ પ્રોજેક્ટ.",
+          "hindiPronunciation": "द गवर्नमेंट विल फंड द न्यू रिसर्च प्रोजेक्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Manage",
+      "gujaratiPronunciation": "મેનેજ",
+      "hindiPronunciation": "मैनेज",
+      "gujaratiMeaning": "સંચાલન કરવું",
+      "hindiMeaning": "प्रबंधन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Manage", "gujaratiPronunciation": "મેનેજ", "hindiPronunciation": "मैनेज", "gujaratiMeaning": "સંચાલન કરવું", "hindiMeaning": "प्रबंधन करना" },
+        "V2 (Past)": { "word": "Managed", "gujaratiPronunciation": "મેનેજ્ડ", "hindiPronunciation": "मैनेज्ड", "gujaratiMeaning": "સંચાલન કર્યું", "hindiMeaning": "प्रबंधन किया" },
+        "V3 (Past Participle)": { "word": "Managed", "gujaratiPronunciation": "મેનેજ્ડ", "hindiPronunciation": "मैनेज्ड", "gujaratiMeaning": "સંચાલન કરેલું", "hindiMeaning": "प्रबंधित" },
+        "V4 (Present Participle)": { "word": "Managing", "gujaratiPronunciation": "મેનેજિંગ", "hindiPronunciation": "मैनेजिंग", "gujaratiMeaning": "સંચાલન કરી રહ્યું છે", "hindiMeaning": "प्रबंधन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Handle", "gujaratiPronunciation": "હેન્ડલ", "hindiPronunciation": "हैंडल", "gujaratiMeaning": "સંભાળવું", "hindiMeaning": "संभालना" },
+        { "word": "Control", "gujaratiPronunciation": "કંટ્રોલ", "hindiPronunciation": "कंट्रोल", "gujaratiMeaning": "નિયંત્રણ કરવું", "hindiMeaning": "नियंत्रित करना" }
+      ],
+      "antonyms": [
+        { "word": "Mismanage", "gujaratiPronunciation": "મિસમેનેજ", "hindiPronunciation": "मिसमैनेज", "gujaratiMeaning": "ગેરવહીવટ કરવો", "hindiMeaning": "कुप्रबंधन करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "She knows how to manage a team effectively.",
+          "gujaratiTranslation": "તેણી જાણે છે કે ટીમને અસરકારક રીતે કેવી રીતે સંચાલિત કરવી.",
+          "hindiTranslation": "वह जानती है कि एक टीम को प्रभावी ढंग से कैसे प्रबंधित किया जाए।",
+          "gujaratiPronunciation": "શી નોઝ હાઉ ટુ મેનેજ અ ટીમ ઇફેક્ટિવલી.",
+          "hindiPronunciation": "शी नोज़ हाउ टू मैनेज अ टीम इफेक्टिवली।"
+        }
+      ]
+    },
+    {
+      "word": "Save",
+      "gujaratiPronunciation": "સેવ",
+      "hindiPronunciation": "सेव",
+      "gujaratiMeaning": "બચાવવું",
+      "hindiMeaning": "बचाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Save", "gujaratiPronunciation": "સેવ", "hindiPronunciation": "सेव", "gujaratiMeaning": "બચાવવું", "hindiMeaning": "बचाना" },
+        "V2 (Past)": { "word": "Saved", "gujaratiPronunciation": "સેવ્ડ", "hindiPronunciation": "सेव्ड", "gujaratiMeaning": "બચાવ્યું", "hindiMeaning": "बचाया" },
+        "V3 (Past Participle)": { "word": "Saved", "gujaratiPronunciation": "સેવ્ડ", "hindiPronunciation": "सेव्ड", "gujaratiMeaning": "બચાવેલું", "hindiMeaning": "बचाया हुआ" },
+        "V4 (Present Participle)": { "word": "Saving", "gujaratiPronunciation": "સેવિંગ", "hindiPronunciation": "सेविंग", "gujaratiMeaning": "બચાવી રહ્યું છે", "hindiMeaning": "बचा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Rescue", "gujaratiPronunciation": "રેસ્ક્યુ", "hindiPronunciation": "रेस्क्यू", "gujaratiMeaning": "બચાવવું", "hindiMeaning": "बचाना" },
+        { "word": "Preserve", "gujaratiPronunciation": "પ્રિઝર્વ", "hindiPronunciation": "प्रिजर्व", "gujaratiMeaning": "જાળવવું", "hindiMeaning": "संरक्षित करना" }
+      ],
+      "antonyms": [
+        { "word": "Spend", "gujaratiPronunciation": "સ્પેન્ડ", "hindiPronunciation": "स्पेंड", "gujaratiMeaning": "ખર્ચ કરવો", "hindiMeaning": "खर्च करना" },
+        { "word": "Waste", "gujaratiPronunciation": "વેસ્ટ", "hindiPronunciation": "वेस्ट", "gujaratiMeaning": "બગાડવું", "hindiMeaning": "बर्बाद करना" }
+      ],
+      "confusingWords": [
+        { "word": "Shave", "gujaratiPronunciation": "શેવ", "hindiPronunciation": "शेव", "gujaratiMeaning": "દાઢી કરવી", "hindiMeaning": "दाढ़ी बनाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You should save money for the future.",
+          "gujaratiTranslation": "તમારે ભવિષ્ય માટે પૈસા બચાવવા જોઈએ.",
+          "hindiTranslation": "आपको भविष्य के लिए पैसे बचाने चाहिए।",
+          "gujaratiPronunciation": "યુ શુડ સેવ મની ફોર ધ ફ્યુચર.",
+          "hindiPronunciation": "यू शुड सेव मनी फॉर द फ्यूचर।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "level-3",
+  "title": "Events and Fun 3",
+  "words": [
+    {
+      "word": "Festival",
+      "gujaratiPronunciation": "ફેસ્ટિવલ",
+      "hindiPronunciation": "फेस्टिवल",
+      "gujaratiMeaning": "તહેવાર",
+      "hindiMeaning": "त्योहार",
+      "exampleSentences": [
+        {
+          "sentence": "Diwali is a major festival in India.",
+          "gujaratiTranslation": "દિવાળી ભારતમાં એક મોટો તહેવાર છે.",
+          "hindiTranslation": "दिवाली भारत में एक प्रमुख त्योहार है।"
+        }
+      ]
+    },
+    {
+      "word": "Firework",
+      "gujaratiPronunciation": "ફાયરવર્ક",
+      "hindiPronunciation": "फायरवर्क",
+      "gujaratiMeaning": "ફટાકડા",
+      "hindiMeaning": "आतिशबाजी",
+      "exampleSentences": [
+        {
+          "sentence": "We saw beautiful fireworks at night.",
+          "gujaratiTranslation": "અમે રાત્રે સુંદર ફટાકડા જોયા.",
+          "hindiTranslation": "हमने रात में सुंदर आतिशबाजी देखी।"
+        }
+      ]
+    },
+    {
+      "word": "Music",
+      "gujaratiPronunciation": "મ્યુઝિક",
+      "hindiPronunciation": "म्यूजिक",
+      "gujaratiMeaning": "સંગીત",
+      "hindiMeaning": "संगीत",
+      "exampleSentences": [
+        {
+          "sentence": "I enjoy listening to classical music.",
+          "gujaratiTranslation": "મને શાસ્ત્રીય સંગીત સાંભળવાનો આનંદ આવે છે.",
+          "hindiTranslation": "मुझे शास्त्रीय संगीत सुनना अच्छा लगता है।"
+        }
+      ]
+    },
+    {
+      "word": "Friend",
+      "gujaratiPronunciation": "ફ્રેન્ડ",
+      "hindiPronunciation": "फ्रेंड",
+      "gujaratiMeaning": "મિત્ર",
+      "hindiMeaning": "दोस्त",
+      "exampleSentences": [
+        {
+          "sentence": "He is my best friend.",
+          "gujaratiTranslation": "તે મારો શ્રેષ્ઠ મિત્ર છે.",
+          "hindiTranslation": "वह मेरा सबसे अच्छा दोस्त है।"
+        }
+      ]
+    },
+    {
+      "word": "Fun",
+      "gujaratiPronunciation": "ફન",
+      "hindiPronunciation": "फन",
+      "gujaratiMeaning": "મજા",
+      "hindiMeaning": "मजा",
+      "exampleSentences": [
+        {
+          "sentence": "We had a lot of fun at the beach.",
+          "gujaratiTranslation": "અમને બીચ પર ખૂબ મજા આવી.",
+          "hindiTranslation": "हमने समुद्र तट पर बहुत मज़ा किया।"
+        }
+      ]
+    }
+  ]
+}

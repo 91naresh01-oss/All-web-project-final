@@ -1,0 +1,165 @@
+{
+  "id": "level-5",
+  "title": "Level 5: Subtle Perceptions",
+  "words": [
+    {
+      "word": "Augur",
+      "gujaratiPronunciation": "ઓગર",
+      "hindiPronunciation": "ऑगर",
+      "gujaratiMeaning": "ભવિષ્યવાણી કરવી, શુકન બતાવવું",
+      "hindiMeaning": "भविष्यवाणी करना, शकुन बताना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Augur", "gujaratiPronunciation": "ઓગર", "hindiPronunciation": "ऑगर", "gujaratiMeaning": "ભવિષ્યવાણી કરવી", "hindiMeaning": "भविष्यवाणी करना" },
+        "V2 (Past)": { "word": "Augured", "gujaratiPronunciation": "ઓગર્ડ", "hindiPronunciation": "ऑगर्ड", "gujaratiMeaning": "ભવિષ્યવાણી કરી", "hindiMeaning": "भविष्यवाणी की" },
+        "V3 (Past Participle)": { "word": "Augured", "gujaratiPronunciation": "ઓગર્ડ", "hindiPronunciation": "ऑगर्ड", "gujaratiMeaning": "ભવિષ્યવાણી કરેલ", "hindiMeaning": "भविष्यवाणी किया हुआ" },
+        "V4 (Present Participle)": { "word": "Auguring", "gujaratiPronunciation": "ઓગરિંગ", "hindiPronunciation": "ऑगरिंग", "gujaratiMeaning": "ભવિષ્યવાણી કરી રહ્યું છે", "hindiMeaning": "भविष्यवाणी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Predict", "gujaratiPronunciation": "પ્રેડિક્ટ", "hindiPronunciation": "प्रेडिक्ट", "gujaratiMeaning": "ભવિષ્યવાણી કરવી", "hindiMeaning": "भविष्यवाणी करना" },
+        { "word": "Portend", "gujaratiPronunciation": "પોર્ટેન્ડ", "hindiPronunciation": "पोर्टेंड", "gujaratiMeaning": "સૂચવવું", "hindiMeaning": "पूर्वाभास देना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        { "word": "Anger", "gujaratiPronunciation": "એંગર", "hindiPronunciation": "एंगर", "gujaratiMeaning": "ગુસ્સો", "hindiMeaning": "गुस्सा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The recent sales figures augur well for the company's future.",
+          "gujaratiTranslation": "તાજેતરના વેચાણના આંકડા કંપનીના ભવિષ્ય માટે સારા શુકન બતાવે છે.",
+          "hindiTranslation": "हालिया बिक्री के आंकड़े कंपनी के भविष्य के लिए अच्छा संकेत देते हैं।",
+          "gujaratiPronunciation": "ધ રિસન્ટ સેલ્સ ફિગર્સ ઓગર વેલ ફોર ધ કંપનીઝ ફ્યુચર.",
+          "hindiPronunciation": "द रीसेंट सेल्स फिगर्स ऑगर वेल फॉर द कंपनीज़ फ्यूचर।"
+        }
+      ]
+    },
+    {
+      "word": "Pretend",
+      "gujaratiPronunciation": "પ્રિટેન્ડ",
+      "hindiPronunciation": "प्रिटेंड",
+      "gujaratiMeaning": "ઢોંગ કરવો",
+      "hindiMeaning": "ढोंग करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Pretend", "gujaratiPronunciation": "પ્રિટેન્ડ", "hindiPronunciation": "प्रिटेंड", "gujaratiMeaning": "ઢોંગ કરવો", "hindiMeaning": "ढोंग करना" },
+        "V2 (Past)": { "word": "Pretended", "gujaratiPronunciation": "પ્રિટેન્ડેડ", "hindiPronunciation": "प्रिटेंडेड", "gujaratiMeaning": "ઢોંગ કર્યો", "hindiMeaning": "ढोंग किया" },
+        "V3 (Past Participle)": { "word": "Pretended", "gujaratiPronunciation": "પ્રિટેન્ડેડ", "hindiPronunciation": "प्रिटेंडेड", "gujaratiMeaning": "ઢોંગ કરેલ", "hindiMeaning": "ढोंग किया हुआ" },
+        "V4 (Present Participle)": { "word": "Pretending", "gujaratiPronunciation": "પ્રિટેન્ડિંગ", "hindiPronunciation": "प्रिटेंडिंग", "gujaratiMeaning": "ઢોંગ કરી રહ્યું છે", "hindiMeaning": "ढोंग कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Fake", "gujaratiPronunciation": "ફેક", "hindiPronunciation": "फेक", "gujaratiMeaning": "બનાવટ કરવી", "hindiMeaning": "दिखावा करना" },
+        { "word": "Simulate", "gujaratiPronunciation": "સિમ્યુલેટ", "hindiPronunciation": "सिमुलेट", "gujaratiMeaning": "અનુકરણ કરવું", "hindiMeaning": "अनुकरण करना" }
+      ],
+      "antonyms": [
+        { "word": "Be genuine", "gujaratiPronunciation": "બી જેન્યુઇન", "hindiPronunciation": "बी जेन्युइन", "gujaratiMeaning": "અસલી હોવું", "hindiMeaning": "वास्तविक होना" },
+        { "word": "Be honest", "gujaratiPronunciation": "બી ઓનેસ્ટ", "hindiPronunciation": "बी ऑनेस्ट", "gujaratiMeaning": "પ્રામાણિક હોવું", "hindiMeaning": "ईमानदार होना" }
+      ],
+      "confusingWords": [
+        { "word": "Portend", "gujaratiPronunciation": "પોર્ટેન્ડ", "hindiPronunciation": "पोर्टेंड", "gujaratiMeaning": "સૂચવવું", "hindiMeaning": "पूर्वाभास देना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't pretend to be asleep.",
+          "gujaratiTranslation": "સૂવાનો ઢોંગ ન કરો.",
+          "hindiTranslation": "सोने का ढोंग मत करो।",
+          "gujaratiPronunciation": "ડોન્ટ પ્રિટેન્ડ ટુ બી અસ્લીપ.",
+          "hindiPronunciation": "डोंट प्रिटेंड टू बी अस्लीप।"
+        }
+      ]
+    },
+    {
+      "word": "Glimpse",
+      "gujaratiPronunciation": "ગ્લિમ્પ્સ",
+      "hindiPronunciation": "ग्लिम्प्स",
+      "gujaratiMeaning": "ઝલક, ઝાંખી",
+      "hindiMeaning": "झलक",
+      "partOfSpeech": "Noun, Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Glimpse", "gujaratiPronunciation": "ગ્લિમ્પ્સ", "hindiPronunciation": "ग्लिम्प्स", "gujaratiMeaning": "ઝલક જોવી", "hindiMeaning": "झलक देखना" },
+        "V2 (Past)": { "word": "Glimpsed", "gujaratiPronunciation": "ગ્લિમ્પ્સ્ડ", "hindiPronunciation": "ग्लिम्प्स्ड", "gujaratiMeaning": "ઝલક જોઈ", "hindiMeaning": "झलक देखी" },
+        "V3 (Past Participle)": { "word": "Glimpsed", "gujaratiPronunciation": "ગ્લિમ્પ્સ્ડ", "hindiPronunciation": "ग्लिम्प्स्ड", "gujaratiMeaning": "ઝલક જોયેલી", "hindiMeaning": "झलक देखी हुई" },
+        "V4 (Present Participle)": { "word": "Glimpsing", "gujaratiPronunciation": "ગ્લિમ્પ્સિંગ", "hindiPronunciation": "ग्लिम्प्सिंग", "gujaratiMeaning": "ઝલક જોઈ રહ્યું છે", "hindiMeaning": "झलक देख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Peek", "gujaratiPronunciation": "પીક", "hindiPronunciation": "पीक", "gujaratiMeaning": "ઝાંખી", "hindiMeaning": "झाँकना" },
+        { "word": "Quick look", "gujaratiPronunciation": "ક્વિક લુક", "hindiPronunciation": "क्विक लुक", "gujaratiMeaning": "ઝડપી નજર", "hindiMeaning": "त्वरित नज़र" }
+      ],
+      "antonyms": [
+        { "word": "Stare", "gujaratiPronunciation": "સ્ટેર", "hindiPronunciation": "स्टेयर", "gujaratiMeaning": "તાકીને જોવું", "hindiMeaning": "घूरना" },
+        { "word": "Gaze", "gujaratiPronunciation": "ગેઝ", "hindiPronunciation": "गेज़", "gujaratiMeaning": "તાકીને જોવું", "hindiMeaning": "टकटकी लगाकर देखना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "I caught a glimpse of the celebrity.",
+          "gujaratiTranslation": "મેં સેલિબ્રિટીની એક ઝલક જોઈ.",
+          "hindiTranslation": "मैंने सेलिब्रिटी की एक झलक देखी।",
+          "gujaratiPronunciation": "આઇ કોટ અ ગ્લિમ્પ્સ ઓફ ધ સેલિબ્રિટી.",
+          "hindiPronunciation": "आई कॉट अ ग्लिम्प्स ऑफ द सेलिब्रिटी।"
+        }
+      ]
+    },
+    {
+      "word": "Palpate",
+      "gujaratiPronunciation": "પાલ્પેટ",
+      "hindiPronunciation": "पैल्पेट",
+      "gujaratiMeaning": "સ્પર્શ કરીને તપાસવું (તબીબી)",
+      "hindiMeaning": "स्पर्श करके जाँच करना (चिकित्सकीय)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Palpate", "gujaratiPronunciation": "પાલ્પેટ", "hindiPronunciation": "पैल्पेट", "gujaratiMeaning": "સ્પર્શ કરીને તપાસવું", "hindiMeaning": "स्पर्श करके जाँच करना" },
+        "V2 (Past)": { "word": "Palpated", "gujaratiPronunciation": "પાલ્પેટેડ", "hindiPronunciation": "पैल्पेटेड", "gujaratiMeaning": "સ્પર્શ કરીને તપાસ્યું", "hindiMeaning": "स्पर्श करके जाँच की" },
+        "V3 (Past Participle)": { "word": "Palpated", "gujaratiPronunciation": "પાલ્પેટેડ", "hindiPronunciation": "पैल्पेटेड", "gujaratiMeaning": "સ્પર્શ કરીને તપાસેલું", "hindiMeaning": "स्पर्श किया हुआ" },
+        "V4 (Present Participle)": { "word": "Palpating", "gujaratiPronunciation": "પાલ્પેટિંગ", "hindiPronunciation": "पैल्पेटिंग", "gujaratiMeaning": "સ્પર્શ કરીને તપાસી રહ્યું છે", "hindiMeaning": "स्पर्श करके जाँच कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एक्जामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जाँचना" },
+        { "word": "Feel", "gujaratiPronunciation": "ફીલ", "hindiPronunciation": "फील", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        { "word": "Palpitate", "gujaratiPronunciation": "પાલ્પિટેટ", "hindiPronunciation": "पैल्पिटेट", "gujaratiMeaning": "ધબકવું", "hindiMeaning": "धड़कना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The doctor will palpate your abdomen.",
+          "gujaratiTranslation": "ડોક્ટર તમારા પેટને સ્પર્શ કરીને તપાસશે.",
+          "hindiTranslation": "डॉक्टर आपके पेट को स्पर्श करके जाँचेंगे।",
+          "gujaratiPronunciation": "ધ ડોક્ટર વિલ પાલ્પેટ યોર એબ્ડોમેન.",
+          "hindiPronunciation": "द डॉक्टर विल पैल्पेट योर एब्डोमेन।"
+        }
+      ]
+    },
+    {
+      "word": "Audition",
+      "gujaratiPronunciation": "ઓડિશન",
+      "hindiPronunciation": "ऑडिशन",
+      "gujaratiMeaning": "કલાકારની કસોટી",
+      "hindiMeaning": "कलाकार की परीक्षा",
+      "partOfSpeech": "Noun, Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Audition", "gujaratiPronunciation": "ઓડિશન", "hindiPronunciation": "ऑडिशन", "gujaratiMeaning": "કસોટી આપવી", "hindiMeaning": "परीक्षा देना" },
+        "V2 (Past)": { "word": "Auditioned", "gujaratiPronunciation": "ઓડિશન્ડ", "hindiPronunciation": "ऑडिशन्ड", "gujaratiMeaning": "કસોટી આપી", "hindiMeaning": "परीक्षा दी" },
+        "V3 (Past Participle)": { "word": "Auditioned", "gujaratiPronunciation": "ઓડિશન્ડ", "hindiPronunciation": "ऑडिशन्ड", "gujaratiMeaning": "કસોટી આપેલ", "hindiMeaning": "परीक्षा दी हुई" },
+        "V4 (Present Participle)": { "word": "Auditioning", "gujaratiPronunciation": "ઓડિશનિંગ", "hindiPronunciation": "ऑडिशनिंग", "gujaratiMeaning": "કસોટી આપી રહ્યું છે", "hindiMeaning": "परीक्षा दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Tryout", "gujaratiPronunciation": "ટ્રાયઆઉટ", "hindiPronunciation": "ट्राइआउट", "gujaratiMeaning": "પ્રયાસ", "hindiMeaning": "प्रयास" },
+        { "word": "Trial", "gujaratiPronunciation": "ટ્રાયલ", "hindiPronunciation": "ट्रायल", "gujaratiMeaning": "પરીક્ષણ", "hindiMeaning": "परीक्षण" }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        { "word": "Addition", "gujaratiPronunciation": "એડિશન", "hindiPronunciation": "एडिशन", "gujaratiMeaning": "ઉમેરો", "hindiMeaning": "जोड़" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She has an audition for the main role.",
+          "gujaratiTranslation": "તેની મુખ્ય ભૂમિકા માટે ઓડિશન છે.",
+          "hindiTranslation": "उसका मुख्य भूमिका के लिए ऑडिशन है।",
+          "gujaratiPronunciation": "શી હેઝ એન ઓડિશન ફોર ધ મેઇન રોલ.",
+          "hindiPronunciation": "शी हैज़ एन ऑडिशन फॉर द मेन रोल।"
+        }
+      ]
+    }
+  ]
+}

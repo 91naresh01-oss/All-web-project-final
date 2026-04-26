@@ -1,0 +1,446 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Read",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "વાંચવું",
+      "hindiMeaning": "पढ़ना",
+      "gujaratiPronunciation": "રીડ",
+      "hindiPronunciation": "रीड",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Read",
+          "gujaratiPronunciation": "રીડ",
+          "hindiPronunciation": "रीड",
+          "gujaratiMeaning": "વાંચવું",
+          "hindiMeaning": "पढ़ना"
+        },
+        "V2 (Past)": {
+          "word": "Read",
+          "gujaratiPronunciation": "રેડ",
+          "hindiPronunciation": "रेड",
+          "gujaratiMeaning": "વાંચ્યું",
+          "hindiMeaning": "पढ़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Read",
+          "gujaratiPronunciation": "રેડ",
+          "hindiPronunciation": "रेड",
+          "gujaratiMeaning": "વાંચેલું",
+          "hindiMeaning": "पढ़ा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Reading",
+          "gujaratiPronunciation": "રીડિંગ",
+          "hindiPronunciation": "रीडिंग",
+          "gujaratiMeaning": "વાંચી રહ્યું",
+          "hindiMeaning": "पढ़ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Peruse",
+          "gujaratiPronunciation": "પેર્યુઝ",
+          "hindiPronunciation": "पेरूज़",
+          "gujaratiMeaning": "ધ્યાનથી વાંચવું",
+          "hindiMeaning": "ध्यान से पढ़ना"
+        },
+        {
+          "word": "Scan",
+          "gujaratiPronunciation": "સ્કેન",
+          "hindiPronunciation": "स्कैन",
+          "gujaratiMeaning": "ઝડપથી વાંચવું",
+          "hindiMeaning": "सरसरी नज़र से पढ़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Write",
+          "gujaratiPronunciation": "રાઇટ",
+          "hindiPronunciation": "राइट",
+          "gujaratiMeaning": "લખવું",
+          "hindiMeaning": "लिखना"
+        },
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "अनदेखा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Reed",
+          "gujaratiPronunciation": "રીડ",
+          "hindiPronunciation": "रीड",
+          "gujaratiMeaning": "બરૂ",
+          "hindiMeaning": "सरकंडा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I like to read a book before bed.",
+          "gujaratiPronunciation": "આઇ લાઇક ટુ રીડ અ બુક બિફોર બેડ.",
+          "hindiPronunciation": "आई लाइक टू रीड अ बुक बिफोर बेड।",
+          "gujaratiTranslation": "મને સૂતા પહેલાં પુસ્તક વાંચવું ગમે છે.",
+          "hindiTranslation": "मुझे सोने से पहले किताब पढ़ना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Write",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "લખવું",
+      "hindiMeaning": "लिखना",
+      "gujaratiPronunciation": "રાઇટ",
+      "hindiPronunciation": "राइट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Write",
+          "gujaratiPronunciation": "રાઇટ",
+          "hindiPronunciation": "राइट",
+          "gujaratiMeaning": "લખવું",
+          "hindiMeaning": "लिखना"
+        },
+        "V2 (Past)": {
+          "word": "Wrote",
+          "gujaratiPronunciation": "રોટ",
+          "hindiPronunciation": "रोट",
+          "gujaratiMeaning": "લખ્યું",
+          "hindiMeaning": "लिखा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Written",
+          "gujaratiPronunciation": "રિટન",
+          "hindiPronunciation": "रिटन",
+          "gujaratiMeaning": "લખેલું",
+          "hindiMeaning": "लिखा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Writing",
+          "gujaratiPronunciation": "રાઇટિંગ",
+          "hindiPronunciation": "राइटिंग",
+          "gujaratiMeaning": "લખી રહ્યું",
+          "hindiMeaning": "लिख रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Compose",
+          "gujaratiPronunciation": "કમ્પોઝ",
+          "hindiPronunciation": "कंपोज़",
+          "gujaratiMeaning": "રચવું",
+          "hindiMeaning": "रचना करना"
+        },
+        {
+          "word": "Jot",
+          "gujaratiPronunciation": "જોટ",
+          "hindiPronunciation": "जॉट",
+          "gujaratiMeaning": "ટપકાવવું",
+          "hindiMeaning": "लिखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Read",
+          "gujaratiPronunciation": "રીડ",
+          "hindiPronunciation": "रीड",
+          "gujaratiMeaning": "વાંચવું",
+          "hindiMeaning": "पढ़ना"
+        },
+        {
+          "word": "Erase",
+          "gujaratiPronunciation": "ઇરેઝ",
+          "hindiPronunciation": "इरेज़",
+          "gujaratiMeaning": "ભૂંસવું",
+          "hindiMeaning": "मिटाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Right",
+          "gujaratiPronunciation": "રાઇટ",
+          "hindiPronunciation": "राइट",
+          "gujaratiMeaning": "સાચું",
+          "hindiMeaning": "सही"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She wants to write a novel someday.",
+          "gujaratiPronunciation": "શી વોન્ટ્સ ટુ રાઇટ અ નોવેલ સમડે.",
+          "hindiPronunciation": "शी वॉन्ट्स टू राइट अ नॉवेल समडे।",
+          "gujaratiTranslation": "તે કોઈક દિવસ નવલકથા લખવા માંગે છે.",
+          "hindiTranslation": "वह किसी दिन एक उपन्यास लिखना चाहती है।"
+        }
+      ]
+    },
+    {
+      "word": "Practice",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "મહાવરો કરવો",
+      "hindiMeaning": "अभ्यास करना",
+      "gujaratiPronunciation": "પ્રેક્ટિસ",
+      "hindiPronunciation": "प्रैक्टिस",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Practice",
+          "gujaratiPronunciation": "પ્રેક્ટિસ",
+          "hindiPronunciation": "प्रैक्टिस",
+          "gujaratiMeaning": "મહાવરો કરવો",
+          "hindiMeaning": "अभ्यास करना"
+        },
+        "V2 (Past)": {
+          "word": "Practiced",
+          "gujaratiPronunciation": "પ્રેક્ટિસ્ડ",
+          "hindiPronunciation": "प्रैक्टिस्ड",
+          "gujaratiMeaning": "મહાવરો કર્યો",
+          "hindiMeaning": "अभ्यास किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Practiced",
+          "gujaratiPronunciation": "પ્રેક્ટિસ્ડ",
+          "hindiPronunciation": "प्रैक्टिस्ड",
+          "gujaratiMeaning": "મહાવરો કરેલો",
+          "hindiMeaning": "अभ्यास किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Practicing",
+          "gujaratiPronunciation": "પ્રેક્ટિસિંગ",
+          "hindiPronunciation": "प्रैक्टिसिंग",
+          "gujaratiMeaning": "મહાવરો કરી રહ્યું",
+          "hindiMeaning": "अभ्यास कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rehearse",
+          "gujaratiPronunciation": "રિહર્સ",
+          "hindiPronunciation": "रिहर्स",
+          "gujaratiMeaning": "પૂર્વાભ્યાસ કરવો",
+          "hindiMeaning": "पूर्वाभ्यास करना"
+        },
+        {
+          "word": "Train",
+          "gujaratiPronunciation": "ટ્રેન",
+          "hindiPronunciation": "ट्रेन",
+          "gujaratiMeaning": "તાલીમ લેવી",
+          "hindiMeaning": "प्रशिक्षण लेना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Forget",
+          "gujaratiPronunciation": "ફર્ગેટ",
+          "hindiPronunciation": "फॉरगेट",
+          "gujaratiMeaning": "ભૂલી જવું",
+          "hindiMeaning": "भूल जाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Practical",
+          "gujaratiPronunciation": "પ્રેક્ટિકલ",
+          "hindiPronunciation": "प्रैक्टिकल",
+          "gujaratiMeaning": "વ્યાવહારિક",
+          "hindiMeaning": "व्यावहारिक"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to practice every day to become a good musician.",
+          "gujaratiPronunciation": "યુ નીડ ટુ પ્રેક્ટિસ એવરી ડે ટુ બીકમ અ ગુડ મ્યુઝિશિયન.",
+          "hindiPronunciation": "यू नीड टू प्रैक्टिस एवरी डे टू बिकम अ गुड म्यूजिशियन।",
+          "gujaratiTranslation": "એક સારા સંગીતકાર બનવા માટે તમારે દરરોજ મહાવરો કરવાની જરૂર છે.",
+          "hindiTranslation": "एक अच्छा संगीतकार बनने के लिए आपको हर दिन अभ्यास करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Mentor",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "માર્ગદર્શન આપવું",
+      "hindiMeaning": "मार्गदर्शन करना",
+      "gujaratiPronunciation": "મેન્ટર",
+      "hindiPronunciation": "मेंटर",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Mentor",
+          "gujaratiPronunciation": "મેન્ટર",
+          "hindiPronunciation": "मेंटर",
+          "gujaratiMeaning": "માર્ગદર્શન આપવું",
+          "hindiMeaning": "मार्गदर्शन करना"
+        },
+        "V2 (Past)": {
+          "word": "Mentored",
+          "gujaratiPronunciation": "મેન્સ્પ્ટેડ",
+          "hindiPronunciation": "मेंटर्ड",
+          "gujaratiMeaning": "માર્ગદર્શન આપ્યું",
+          "hindiMeaning": "मार्गदर्शन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Mentored",
+          "gujaratiPronunciation": "મેન્સ્પ્ટેડ",
+          "hindiPronunciation": "मेंटर्ड",
+          "gujaratiMeaning": "માર્ગદર્શન આપેલું",
+          "hindiMeaning": "मार्गदर्शन किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Mentoring",
+          "gujaratiPronunciation": "મેન્ટરિંગ",
+          "hindiPronunciation": "मेंटरिंग",
+          "gujaratiMeaning": "માર્ગદર્શન આપી રહ્યું",
+          "hindiMeaning": "मार्गदर्शन कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Guide",
+          "gujaratiPronunciation": "ગાઇડ",
+          "hindiPronunciation": "गाइड",
+          "gujaratiMeaning": "માર્ગદર્શન કરવું",
+          "hindiMeaning": "मार्गदर्शन करना"
+        },
+        {
+          "word": "Advise",
+          "gujaratiPronunciation": "એડવાઇઝ",
+          "hindiPronunciation": "एडवाइज",
+          "gujaratiMeaning": "સલાહ આપવી",
+          "hindiMeaning": "सलाह देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Misguide",
+          "gujaratiPronunciation": "મિસગાઇડ",
+          "hindiPronunciation": "मिसगाइड",
+          "gujaratiMeaning": "ગેરમાર્ગે દોરવું",
+          "hindiMeaning": "गुमराह करना"
+        },
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Motor",
+          "gujaratiPronunciation": "મોટર",
+          "hindiPronunciation": "मोटर",
+          "gujaratiMeaning": "મોટર",
+          "hindiMeaning": "मोटर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A senior colleague will mentor the new employees.",
+          "gujaratiPronunciation": "અ સિનિયર કલીગ વિલ મેન્ટર ધ ન્યૂ એમ્પ્લોઇઝ.",
+          "hindiPronunciation": "अ सीनियर कलीग विल मेंटर द न्यू एम्प्लॉईज़।",
+          "gujaratiTranslation": "એક વરિષ્ઠ સહકર્મી નવા કર્મચારીઓને માર્ગદર્શન આપશે.",
+          "hindiTranslation": "एक वरिष्ठ सहकर्मी नए कर्मचारियों का मार्गदर्शन करेगा।"
+        }
+      ]
+    },
+    {
+      "word": "Absorb",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "શોષી લેવું",
+      "hindiMeaning": "अवशोषित करना",
+      "gujaratiPronunciation": "એબ્સોર્બ",
+      "hindiPronunciation": "एब्सॉर्ब",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Absorb",
+          "gujaratiPronunciation": "એબ્સોર્બ",
+          "hindiPronunciation": "एब्सॉर्ब",
+          "gujaratiMeaning": "શોષી લેવું",
+          "hindiMeaning": "अवशोषित करना"
+        },
+        "V2 (Past)": {
+          "word": "Absorbed",
+          "gujaratiPronunciation": "એબ્સોર્બ્ડ",
+          "hindiPronunciation": "एब्सॉर्ब्ड",
+          "gujaratiMeaning": "શોષી લીધું",
+          "hindiMeaning": "अवशोषित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Absorbed",
+          "gujaratiPronunciation": "એબ્સોર્બ્ડ",
+          "hindiPronunciation": "एब्सॉर्ब्ड",
+          "gujaratiMeaning": "શોષી લીધેલું",
+          "hindiMeaning": "अवशोषित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Absorbing",
+          "gujaratiPronunciation": "એબ્સોર્બિંગ",
+          "hindiPronunciation": "एब्सॉर्बिंग",
+          "gujaratiMeaning": "શોષી લેી રહ્યું",
+          "hindiMeaning": "अवशोषित कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Soak up",
+          "gujaratiPronunciation": "સોક અપ",
+          "hindiPronunciation": "सोक अप",
+          "gujaratiMeaning": "ચૂસી લેવું",
+          "hindiMeaning": "सोख लेना"
+        },
+        {
+          "word": "Assimilate",
+          "gujaratiPronunciation": "અસિમિલેટ",
+          "hindiPronunciation": "एसिमिलेट",
+          "gujaratiMeaning": "આત્મસાત કરવું",
+          "hindiMeaning": "आत्मसात करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Emit",
+          "gujaratiPronunciation": "એમિટ",
+          "hindiPronunciation": "एमिट",
+          "gujaratiMeaning": "ઉત્સર્જન કરવું",
+          "hindiMeaning": "उत्सर्जित करना"
+        },
+        {
+          "word": "Reflect",
+          "gujaratiPronunciation": "રિફ્લેક્ટ",
+          "hindiPronunciation": "रिफ्लेक्ट",
+          "gujaratiMeaning": "પરાવર્તિત કરવું",
+          "hindiMeaning": "परावर्तित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Absurd",
+          "gujaratiPronunciation": "એબ્સર્ડ",
+          "hindiPronunciation": "एब्सर्ड",
+          "gujaratiMeaning": "વાહિયાત",
+          "hindiMeaning": "बेतुका"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Plants absorb carbon dioxide from the atmosphere.",
+          "gujaratiPronunciation": "પ્લાન્ટ્સ એબ્સોર્બ કાર્બન ડાયોક્સાઇડ ફ્રોમ ધ એટમોસ્ફિયર.",
+          "hindiPronunciation": "प्लांट्स एब्सॉर्ब कार्बन डाइऑक्साइड फ्रॉम द एटमॉस्फियर।",
+          "gujaratiTranslation": "છોડ વાતાવરણમાંથી કાર્બન ડાયોક્સાઇડ શોષી લે છે.",
+          "hindiTranslation": "पौधे वायुमंडल से कार्बन डाइऑक्साइड को अवशोषित करते हैं।"
+        }
+      ]
+    }
+  ]
+}

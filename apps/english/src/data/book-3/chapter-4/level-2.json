@@ -1,0 +1,176 @@
+{
+  "id": "level-2",
+  "title": "Investigation & Prediction",
+  "words": [
+    {
+      "word": "Scheme",
+      "gujaratiPronunciation": "સ્કીમ",
+      "hindiPronunciation": "स्कीम",
+      "gujaratiMeaning": "યોજના બનાવવી, ષડયંત્ર રચવું",
+      "hindiMeaning": "योजना बनाना, षड्यंत्र रचना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Scheme", "gujaratiPronunciation": "સ્કીમ", "hindiPronunciation": "स्कीम", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" },
+        "V2 (Past)": { "word": "Schemed", "gujaratiPronunciation": "સ્કીમ્ડ", "hindiPronunciation": "स्कीम्ड", "gujaratiMeaning": "યોજના બનાવી", "hindiMeaning": "योजना बनाई" },
+        "V3 (Past Participle)": { "word": "Schemed", "gujaratiPronunciation": "સ્કીમ્ડ", "hindiPronunciation": "स्कीम्ड", "gujaratiMeaning": "યોજના બનાવેલી", "hindiMeaning": "योजना बनाई हुई" },
+        "V4 (Present Participle)": { "word": "Scheming", "gujaratiPronunciation": "સ્કીમિંગ", "hindiPronunciation": "स्कीमिंग", "gujaratiMeaning": "યોજના બનાવી રહ્યું", "hindiMeaning": "योजना बना रहा" }
+      },
+      "synonyms": [
+        { "word": "Plot", "gujaratiPronunciation": "પ્લોટ", "hindiPronunciation": "प्लॉट", "gujaratiMeaning": "કાવતરું ઘડવું", "hindiMeaning": "साजिश रचना" },
+        { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "hindiPronunciation": "प्लान", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Improvise", "gujaratiPronunciation": "ઇમ્પ્રોવાઇઝ", "hindiPronunciation": "इम्प्रोवाइज़", "gujaratiMeaning": "તાત્કાલિક ઉપાય કરવો", "hindiMeaning": "तत्काल उपाय करना" },
+        { "word": "React", "gujaratiPronunciation": "રિએક્ટ", "hindiPronunciation": "रिएक्ट", "gujaratiMeaning": "પ્રતિક્રિયા આપવી", "hindiMeaning": "प्रतिक्रिया देना" }
+      ],
+      "confusingWords": [
+        { "word": "Scene", "gujaratiPronunciation": "સીન", "hindiPronunciation": "सीन", "gujaratiMeaning": "દ્રશ્ય", "hindiMeaning": "दृश्य" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They schemed to overthrow the government.",
+          "gujaratiTranslation": "તેઓએ સરકારને ઉથલાવી પાડવાનું ષડયંત્ર રચ્યું.",
+          "hindiTranslation": "उन्होंने सरकार को उखाड़ फेंकने की योजना बनाई।",
+          "gujaratiPronunciation": "ધે સ્કીમ્ડ ટુ ઓવરથ્રો ધ ગવર્નમેન્ટ.",
+          "hindiPronunciation": "दे स्कीम्ड टू ओवरथ्रो द गवर्नमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Probe",
+      "gujaratiPronunciation": "પ્રોબ",
+      "hindiPronunciation": "प्रोब",
+      "gujaratiMeaning": "ઊંડાણપૂર્વક તપાસ કરવી",
+      "hindiMeaning": "गहराई से जांच करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Probe", "gujaratiPronunciation": "પ્રોબ", "hindiPronunciation": "प्रोब", "gujaratiMeaning": "તપાસ કરવી", "hindiMeaning": "जांच करना" },
+        "V2 (Past)": { "word": "Probed", "gujaratiPronunciation": "પ્રોબ્ડ", "hindiPronunciation": "प्रोब्ड", "gujaratiMeaning": "તપાસ કરી", "hindiMeaning": "जांच की" },
+        "V3 (Past Participle)": { "word": "Probed", "gujaratiPronunciation": "પ્રોબ્ડ", "hindiPronunciation": "प्रोब्ड", "gujaratiMeaning": "તપાસેલું", "hindiMeaning": "जांच किया हुआ" },
+        "V4 (Present Participle)": { "word": "Probing", "gujaratiPronunciation": "પ્રોબિંગ", "hindiPronunciation": "प्रोबिंग", "gujaratiMeaning": "તપાસ કરી રહ્યું", "hindiMeaning": "जांच कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Investigate", "gujaratiPronunciation": "ઇન્વેસ્ટિગેટ", "hindiPronunciation": "इन्वेस्टिगेट", "gujaratiMeaning": "તપાસ કરવી", "hindiMeaning": "जांच पड़ताल करना" },
+        { "word": "Explore", "gujaratiPronunciation": "એક્સપ્લોર", "hindiPronunciation": "एक्सप्लोर", "gujaratiMeaning": "શોધખોળ કરવી", "hindiMeaning": "खोजबीन करना" }
+      ],
+      "antonyms": [
+        { "word": "Skim", "gujaratiPronunciation": "સ્કિમ", "hindiPronunciation": "स्किम", "gujaratiMeaning": "ઉપરછલ્લી નજર નાખવી", "hindiMeaning": "सरसरी नज़र डालना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Robe", "gujaratiPronunciation": "રોબ", "hindiPronunciation": "रोब", "gujaratiMeaning": "ઝભ્ભો", "hindiMeaning": "लबादा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The committee will probe into the matter.",
+          "gujaratiTranslation": "સમિતિ આ બાબતની ઊંડાણપૂર્વક તપાસ કરશે.",
+          "hindiTranslation": "समिति इस मामले की गहराई से जांच करेगी।",
+          "gujaratiPronunciation": "ધ કમિટી વિલ પ્રોબ ઇન્ટુ ધ મેટર.",
+          "hindiPronunciation": "द कमिटी विल प्रोब इनटू द मैटर।"
+        }
+      ]
+    },
+    {
+      "word": "Unravel",
+      "gujaratiPronunciation": "અનરેવલ",
+      "hindiPronunciation": "अनरेवल",
+      "gujaratiMeaning": "ગૂંચ ઉકેલવી, રહસ્ય ખોલવું",
+      "hindiMeaning": "गुत्थी सुलझाना, रहस्य खोलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Unravel", "gujaratiPronunciation": "અનરેવલ", "hindiPronunciation": "अनरेवल", "gujaratiMeaning": "ગૂંચ ઉકેલવી", "hindiMeaning": "गुत्थी सुलझाना" },
+        "V2 (Past)": { "word": "Unraveled", "gujaratiPronunciation": "અનરેવલ્ડ", "hindiPronunciation": "अनरेवल्ड", "gujaratiMeaning": "ગૂંચ ઉકેલી", "hindiMeaning": "गुत्थी सुलझाई" },
+        "V3 (Past Participle)": { "word": "Unraveled", "gujaratiPronunciation": "અનરેવલ્ડ", "hindiPronunciation": "अनरेवल्ड", "gujaratiMeaning": "ગૂંચ ઉકેલેલી", "hindiMeaning": "गुत्थी सुलझाई हुई" },
+        "V4 (Present Participle)": { "word": "Unraveling", "gujaratiPronunciation": "અનરેવલિંગ", "hindiPronunciation": "अनरेवलिंग", "gujaratiMeaning": "ગૂંચ ઉકેલી રહ્યું", "hindiMeaning": "गुत्थी सुलझा रहा" }
+      },
+      "synonyms": [
+        { "word": "Solve", "gujaratiPronunciation": "સોલ્વ", "hindiPronunciation": "सॉल्व", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "हल करना" },
+        { "word": "Clarify", "gujaratiPronunciation": "ક્લેરિફાય", "hindiPronunciation": "क्लैरिफाई", "gujaratiMeaning": "સ્પષ્ટ કરવું", "hindiMeaning": "स्पष्ट करना" }
+      ],
+      "antonyms": [
+        { "word": "Tangle", "gujaratiPronunciation": "ટેંગલ", "hindiPronunciation": "टैंगल", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" },
+        { "word": "Complicate", "gujaratiPronunciation": "કોમ્પ્લિકેટ", "hindiPronunciation": "कॉम्प्लिकेट", "gujaratiMeaning": "જટિલ બનાવવું", "hindiMeaning": "जटिल बनाना" }
+      ],
+      "confusingWords": [
+        { "word": "Unreal", "gujaratiPronunciation": "અનરિયલ", "hindiPronunciation": "अनरियल", "gujaratiMeaning": "અવાસ્તવિક", "hindiMeaning": "अवास्तविक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The detective tried to unravel the mystery.",
+          "gujaratiTranslation": "ડિટેક્ટીવે રહસ્ય ઉકેલવાનો પ્રયાસ કર્યો.",
+          "hindiTranslation": "जासूस ने रहस्य को सुलझाने की कोशिश की।",
+          "gujaratiPronunciation": "ધ ડિટેક્ટીવ ટ્રાઇડ ટુ અનરેવલ ધ મિસ્ટ્રી.",
+          "hindiPronunciation": "द डिटेक्टिव ट्राइड टू अनरेवल द मिस्ट्री।"
+        }
+      ]
+    },
+    {
+      "word": "Foresee",
+      "gujaratiPronunciation": "ફોરસી",
+      "hindiPronunciation": "फोरसी",
+      "gujaratiMeaning": "પૂર્વાનુમાન કરવું, ભવિષ્ય જોવું",
+      "hindiMeaning": "पूर्वानुमान करना, भविष्य देखना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Foresee", "gujaratiPronunciation": "ફોરસી", "hindiPronunciation": "फोरसी", "gujaratiMeaning": "પૂર્વાનુમાન કરવું", "hindiMeaning": "पूर्वानुमान करना" },
+        "V2 (Past)": { "word": "Foresaw", "gujaratiPronunciation": "ફોરસો", "hindiPronunciation": "फोरसॉ", "gujaratiMeaning": "પૂર્વાનુમાન કર્યું", "hindiMeaning": "पूर्वानुमान किया" },
+        "V3 (Past Participle)": { "word": "Foreseen", "gujaratiPronunciation": "ફોરસીન", "hindiPronunciation": "फोरसीन", "gujaratiMeaning": "પૂર્વાનુમાન કરેલું", "hindiMeaning": "पूर्वानुमान किया हुआ" },
+        "V4 (Present Participle)": { "word": "Foreseeing", "gujaratiPronunciation": "ફોરસીઇંગ", "hindiPronunciation": "फोरसीइंग", "gujaratiMeaning": "પૂર્વાનુમાન કરી રહ્યું", "hindiMeaning": "पूर्वानुमान कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Predict", "gujaratiPronunciation": "પ્રેડિક્ટ", "hindiPronunciation": "प्रेडिक्ट", "gujaratiMeaning": "ભવિષ્યવાણી કરવી", "hindiMeaning": "भविष्यवाणी करना" },
+        { "word": "Anticipate", "gujaratiPronunciation": "એન્ટિસિપેટ", "hindiPronunciation": "एंटिसिपेट", "gujaratiMeaning": "અપેક્ષા રાખવી", "hindiMeaning": "अपेक्षा करना" }
+      ],
+      "antonyms": [
+        { "word": "Recall", "gujaratiPronunciation": "રિકોલ", "hindiPronunciation": "रिकॉल", "gujaratiMeaning": "યાદ કરવું", "hindiMeaning": "याद करना" },
+        { "word": "Remember", "gujaratiPronunciation": "રિમેમ્બર", "hindiPronunciation": "रिमेम्बर", "gujaratiMeaning": "યાદ રાખવું", "hindiMeaning": "याद रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Force", "gujaratiPronunciation": "ફોર્સ", "hindiPronunciation": "फोर्स", "gujaratiMeaning": "બળ", "hindiMeaning": "बल" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "No one could foresee the outcome of the war.",
+          "gujaratiTranslation": "યુદ્ધના પરિણામની કોઈ આગાહી કરી શક્યું નહીં.",
+          "hindiTranslation": "युद्ध के परिणाम का कोई भी पूर्वानुमान नहीं लगा सका।",
+          "gujaratiPronunciation": "નો વન કુડ ફોરસી ધ આઉટકમ ઓફ ધ વોર.",
+          "hindiPronunciation": "नो वन कुड फोरसी द आउटकम ऑफ द वॉर।"
+        }
+      ]
+    },
+    {
+      "word": "Deduce",
+      "gujaratiPronunciation": "ડિડ્યુસ",
+      "hindiPronunciation": "डिड्यूस",
+      "gujaratiMeaning": "તારણ કાઢવું, અનુમાન કરવું",
+      "hindiMeaning": "निष्कर्ष निकालना, अनुमान लगाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Deduce", "gujaratiPronunciation": "ડિડ્યુસ", "hindiPronunciation": "डिड्यूस", "gujaratiMeaning": "તારણ કાઢવું", "hindiMeaning": "निष्कर्ष निकालना" },
+        "V2 (Past)": { "word": "Deduced", "gujaratiPronunciation": "ડિડ્યુસ્ડ", "hindiPronunciation": "डिड्यूस्ड", "gujaratiMeaning": "તારણ કાઢ્યું", "hindiMeaning": "निष्कर्ष निकाला" },
+        "V3 (Past Participle)": { "word": "Deduced", "gujaratiPronunciation": "ડિડ્યુસ્ડ", "hindiPronunciation": "डिड्यूस्ड", "gujaratiMeaning": "તારણ કાઢેલું", "hindiMeaning": "निष्कर्ष निकाला हुआ" },
+        "V4 (Present Participle)": { "word": "Deducing", "gujaratiPronunciation": "ડિડ્યુસિંગ", "hindiPronunciation": "डिड्यूसिंग", "gujaratiMeaning": "તારણ કાઢી રહ્યું", "hindiMeaning": "निष्कर्ष निकाल रहा" }
+      },
+      "synonyms": [
+        { "word": "Conclude", "gujaratiPronunciation": "કન્ક્લુડ", "hindiPronunciation": "कन्क्लूड", "gujaratiMeaning": "નિષ્કર્ષ કાઢવો", "hindiMeaning": "निष्कर्ष निकालना" },
+        { "word": "Infer", "gujaratiPronunciation": "ઇન્ફર", "hindiPronunciation": "इन्फर", "gujaratiMeaning": "અનુમાન કરવું", "hindiMeaning": "अनुमान लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Assume", "gujaratiPronunciation": "એઝ્યુમ", "hindiPronunciation": "एज़्यूम", "gujaratiMeaning": "માની લેવું", "hindiMeaning": "मान लेना" },
+        { "word": "Guess", "gujaratiPronunciation": "ગેસ", "hindiPronunciation": "गेस", "gujaratiMeaning": "અંદાજ લગાવવો", "hindiMeaning": "अंदाजा लगाना" }
+      ],
+      "confusingWords": [
+        { "word": "Reduce", "gujaratiPronunciation": "રિડ્યુસ", "hindiPronunciation": "रिड्यूस", "gujaratiMeaning": "ઘટાડવું", "hindiMeaning": "कम करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "From his silence, I deduced that he was angry.",
+          "gujaratiTranslation": "તેની ચુપકીદી પરથી મેં તારણ કાઢ્યું કે તે ગુસ્સામાં હતો.",
+          "hindiTranslation": "उसकी चुप्पी से मैंने यह निष्कर्ष निकाला कि वह गुस्से में था।",
+          "gujaratiPronunciation": "ફ્રોમ હિસ સાઇલન્સ, આઈ ડિડ્યુસ્ડ ધેટ હી વૉઝ એંગ્રી.",
+          "hindiPronunciation": "फ्रॉम हिज़ साइलेंस, आई डिड्यूस्ड दैट ही वॉज़ एंग्री।"
+        }
+      ]
+    }
+  ]
+}

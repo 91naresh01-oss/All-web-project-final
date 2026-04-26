@@ -1,0 +1,180 @@
+import React from 'react';
+import {
+    TheoryCard,
+    GradientCard,
+    TheoryHeading,
+    TheorySubHeading,
+    TheoryText,
+    HighlightBox,
+    TheoryList,
+    TheoryListItem,
+    TheoryGrid,
+    TheoryTable,
+    TheoryTableHeader,
+    TheoryTableRow
+} from '../../../components/TheoryComponents';
+
+export const chapter22Theory = [
+    {
+        title: "૧. અનુસ્વારની સમજ",
+        content: (
+            <div className="modern-theory-wrapper">
+                <GradientCard heading="૧. અનુસ્વાર એટલે શું?" theme="purple" icon="🔵">
+                    <div style={{ marginTop: '15px' }}>
+                        <TheorySubHeading glass>વ્યાખ્યા</TheorySubHeading>
+                        <TheoryText>
+                            અનુસ્વાર એટલે સ્વરની પાછળ ઉચ્ચારાતો અનુનાસિક વર્ણ. એનું ઉચ્ચારણ દર્શાવવા સ્વરને માથે મીંડુ કે બિંદુ ( . ) મૂકવામાં આવે છે.
+                        </TheoryText>
+                        <TheorySubHeading glass>ઉપયોગ</TheorySubHeading>
+                        <TheoryText>
+                            અનુસ્વાર સામાન્ય રીતે સ્વરનું અનુનાસિકત્વ દર્શાવવા વપરાય છે. સંસ્કૃતમાં માત્ર વ્યંજનો જ અનુનાસિક હતા, જ્યારે ગુજરાતીમાં સ્વરો પણ અનુનાસિક બન્યા છે.
+                        </TheoryText>
+                    </div>
+                </GradientCard>
+            </div>
+        )
+    },
+    {
+        title: "૨. નિયમો અને ઓળખ",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#9333ea">૨. નિયમો અને ઓળખ</TheoryHeading>
+                    <TheoryText>
+                        જ્યાં અનુસ્વારને સ્થાને અડધો અનુનાસિક વ્યંજન મૂકી શકાય ત્યાં અનુસ્વાર 'અનુનાસિક વ્યંજન' જ હોય છે. જ્યાં અનુસ્વારને સ્થાને બીજું કોઇ અનુનાસિકતા દર્શાવતું ચિહ્ન મૂકી ન શકાય ત્યાં અનુસ્વાર 'સાનુનાસિક સ્વર' જ હોય છે.
+                    </TheoryText>
+
+                    <TheoryGrid minWidth="300px">
+                        <HighlightBox type="info" title="હ્રસ્વ સ્વર (Short Vowels)">
+                            <TheoryText>
+                                જ્યાં અનુસ્વારને બદલે અનુનાસિક વ્યંજન મૂકી શકાતો હોય ત્યાં <strong>'ઇ' કે 'ઉ' હ્રસ્વ</strong> હોય છે.
+                            </TheoryText>
+                            <TheoryList>
+                                <TheoryListItem>ઉદાહરણ: કિંતુ, પિંડ, ચિંતા, ગુંદર, ગુંડો.</TheoryListItem>
+                            </TheoryList>
+                        </HighlightBox>
+                        <HighlightBox type="warning" title="દીર્ઘ સ્વર (Long Vowels)">
+                            <TheoryText>
+                                જયાં અનુસ્વારને બદલે અનુનાસિક વ્યંજનનું ચિહ્ન મૂકી શકાતું નથી ત્યાં અનુસ્વારવાળા <strong>'ઈ' કે 'ઊ' દીર્ઘ</strong> હોય છે.
+                            </TheoryText>
+                            <TheoryList>
+                                <TheoryListItem>ઉદાહરણ: છીંક, પીંછું, ભીંત, રીંછ, ઊંટ, સૂંઠ.</TheoryListItem>
+                            </TheoryList>
+                        </HighlightBox>
+                    </TheoryGrid>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૩. શબ્દભેદ (અર્થભેદ)",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#db2777">૩. શબ્દભેદ (અર્થભેદ)</TheoryHeading>
+                    <TheoryText>અનુસ્વાર હોવાથી કે ન હોવાથી શબ્દના અર્થમાં થતો ફેરફાર:</TheoryText>
+
+                    <TheoryTable>
+                        <TheoryTableHeader theme="pink" headers={['અનુસ્વાર વગર', 'અર્થ', 'અનુસ્વાર સાથે', 'અર્થ']} />
+                        {[
+                            ["આખુ", "ઉંદર", "આખું", "બધું"],
+                            ["ચારુ", "સુંદર", "ચારું", "આંટણ"],
+                            ["ચાલુ", "વર્તમાન", "ચાલું", "હીંડું"],
+                            ["ચોમાસુ", "ચોમાસામાં થતું", "ચોમાસું", "વરસાદની ઋતુ"],
+                            ["પરમાણુ", "સૂક્ષ્મ અણુ", "પરમાણું", "માપ, પરિમાણ"],
+                            ["પરુ", "પાચ", "પરું", "દૂર, અળગું"],
+                            ["સારુ", "માટે", "સારું", "મજાનું, સરસ"],
+                            ["કૂચી", "ગલી, મહોલ્લો", "કૂંચી", "ચાવી"],
+                            ["ચૂક", "ભૂલ", "ચૂંક", "આંકડી, ખીલી"],
+                            ["પૂજો", "પૂજા કરો", "પૂંજો", "કચરો"],
+                            ["કાપ", "કાનનું ઘરેણું", "કાંપ", "કાદવ"],
+                            ["ખાટ", "હીંડોળો", "ખાંટ", "એક જાતિ"],
+                            ["ખાડ", "ખાઈ", "ખાંડ", "ગળ્યો પદાર્થ"],
+                            ["ખાટું", "ખટાશવાળું", "ખાંટુ", "પક્કું, પાવરધું"],
+                            ["ગાડું", "વાહન", "ગાંડુ", "ઘેલું, પાગલ"],
+                            ["ચાપ", "ધનુષ્ય", "ચાંપ", "કળ-પેચ, સ્વીચ"]
+                        ].map((row, index) => (
+                            <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                        ))}
+                    </TheoryTable>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૪. લિંગ અને વચન વ્યવસ્થા",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#2563eb">૪. લિંગ અને વચન વ્યવસ્થા</TheoryHeading>
+                    <TheorySubHeading glass>વિકારી અંગોના નિયમો</TheorySubHeading>
+                    <TheoryList>
+                        <TheoryListItem><strong>એકવચન:</strong> 'ઉ' લિંગની અવિવક્ષા (નપું.) દર્શાવે છે. (છોકરો, છોકરી, <strong>છોકરું</strong>)</TheoryListItem>
+                        <TheoryListItem><strong>બહુવચન:</strong> 'ઉ' ને સ્થાને 'આં' પ્રત્યય મૂકવાથી નપુંસકલિંગ બહુવચન દર્શાવે છે.</TheoryListItem>
+                    </TheoryList>
+
+                    <div style={{ marginTop: '20px' }}>
+                        <TheoryTable>
+                            <TheoryTableHeader theme="pink" headers={['શબ્દ પ્રકાર', 'પુંલ્લિંગ', 'સ્ત્રીલિંગ', 'નપું. (એકવચન)', 'નપું. (બહુવચન)']} />
+                            {[
+                                ['વિશેષણ', 'મોટો / મોટા', 'મોટી', 'મોટું', 'મોટાં'],
+                                ['ક્રિયાપદ', 'દોડતો / દોડતા', 'દોડતી', 'દોડતું', 'દોડતાં'],
+                                ['સર્વનામ', 'પેલો / પેલા', 'પેલી', 'પેલું', 'પેલાં']
+                            ].map((row, index) => (
+                                <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                            ))}
+                        </TheoryTable>
+                    </div>
+                    <HighlightBox type="error" title="મહત્વપૂર્ણ નોંધ">
+                        <TheoryList>
+                            <TheoryListItem>'ઓ'કારાંત અંગ પુંલ્લિંગવાચક હોય છે અને તેના બહુવચનમાં અનુસ્વાર હોતો નથી (છોકરો → મોટા છોકરા).</TheoryListItem>
+                            <TheoryListItem>'ઉ'કારાંત અંગ નપુંસકલિંગ હોય તો તેના બહુવચનમાં અનુસ્વાર આવે જ (છોકરું → મોટાં છોકરાં).</TheoryListItem>
+                        </TheoryList>
+                    </HighlightBox>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૫. અનુસ્વારના અન્ય ઉપયોગો",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryGrid>
+                    <TheoryCard>
+                        <TheorySubHeading>૧. માનાર્થે (Respect)</TheorySubHeading>
+                        <TheoryText>સ્ત્રીલિંગ શબ્દો માનાર્થે બહુવચનમાં વપરાય ત્યારે અનુસ્વાર આવે.</TheoryText>
+                        <TheoryList>
+                            <TheoryListItem>બહેન આવ્યાં.</TheoryListItem>
+                            <TheoryListItem>બા કેમ બોલતાં નથી.</TheoryListItem>
+                            <TheoryListItem>શિક્ષિકાબેન ખૂબ જ સારાં છે.</TheoryListItem>
+                        </TheoryList>
+                    </TheoryCard>
+                    <TheoryCard>
+                        <TheorySubHeading>૨. 'નું' અને 'નાં' પ્રત્યયો</TheorySubHeading>
+                        <TheoryText>નપુંસકલિંગ બહુવચનમાં 'નાં' વપરાય.</TheoryText>
+                        <TheoryList>
+                            <TheoryListItem>છોકરાનું દફતર (એકવચન)</TheoryListItem>
+                            <TheoryListItem>છોકરાનાં માબાપ (બહુવચન)</TheoryListItem>
+                        </TheoryList>
+                    </TheoryCard>
+                    <TheoryCard>
+                        <TheorySubHeading>૩. સંયોજક 'અને'</TheorySubHeading>
+                        <TheoryText>ભિન્ન લિંગની સંજ્ઞાઓ જોડાય ત્યારે ક્રિયાપદ નપું. બહુવચન (અનુસ્વાર સાથે) આવે.</TheoryText>
+                        <TheoryList>
+                            <TheoryListItem>મેં કાગળ-પેન્સિલ જોયાં નથી.</TheoryListItem>
+                            <TheoryListItem>રામસીતા પંચવટીમાં રહ્યાં હતાં.</TheoryListItem>
+                        </TheoryList>
+                    </TheoryCard>
+                    <TheoryCard>
+                        <TheorySubHeading>૪. સર્વનામ & અધિકરણ</TheorySubHeading>
+                        <TheoryText>હું, તું, શું, છું, મેં, તેં અને 'માં' પ્રત્યય પર અનુસ્વાર આવે.</TheoryText>
+                        <TheoryList>
+                            <TheoryListItem>હું વાંચું છું.</TheoryListItem>
+                            <TheoryListItem>ઘરમાં કોઈ નથી.</TheoryListItem>
+                        </TheoryList>
+                    </TheoryCard>
+                </TheoryGrid>
+            </div>
+        )
+    }
+];

@@ -1,0 +1,76 @@
+{
+  "id": "level-2",
+  "title": "Question Words",
+  "words": [
+    {
+      "word": "What",
+      "gujaratiPronunciation": "વૉટ",
+      "hindiPronunciation": "वॉट",
+      "gujaratiMeaning": "શું",
+      "hindiMeaning": "क्या",
+      "exampleSentences": [
+        {
+          "sentence": "What is your name?",
+          "gujaratiTranslation": "તમારું નામ શું છે?",
+          "hindiTranslation": "आपका नाम क्या है?"
+        }
+      ]
+    },
+    {
+      "word": "Where",
+      "gujaratiPronunciation": "વ્હેર",
+      "hindiPronunciation": "वेयर",
+      "gujaratiMeaning": "ક્યાં",
+      "hindiMeaning": "कहाँ",
+      "exampleSentences": [
+        {
+          "sentence": "Where are you going?",
+          "gujaratiTranslation": "તમે ક્યાં જઈ રહ્યા છો?",
+          "hindiTranslation": "तुम कहाँ जा रहे हो?"
+        }
+      ]
+    },
+    {
+      "word": "When",
+      "gujaratiPronunciation": "વ્હેન",
+      "hindiPronunciation": "व्हेन",
+      "gujaratiMeaning": "ક્યારે",
+      "hindiMeaning": "कब",
+      "exampleSentences": [
+        {
+          "sentence": "When will you come?",
+          "gujaratiTranslation": "તમે ક્યારે આવશો?",
+          "hindiTranslation": "तुम कब आओगे?"
+        }
+      ]
+    },
+    {
+      "word": "Who",
+      "gujaratiPronunciation": "હૂ",
+      "hindiPronunciation": "हू",
+      "gujaratiMeaning": "કોણ",
+      "hindiMeaning": "कौन",
+      "exampleSentences": [
+        {
+          "sentence": "Who is that person?",
+          "gujaratiTranslation": "તે વ્યક્તિ કોણ છે?",
+          "hindiTranslation": "वह व्यक्ति कौन है?"
+        }
+      ]
+    },
+    {
+      "word": "Why",
+      "gujaratiPronunciation": "વ્હાય",
+      "hindiPronunciation": "व्हाय",
+      "gujaratiMeaning": "શા માટે",
+      "hindiMeaning": "क्यों",
+      "exampleSentences": [
+        {
+          "sentence": "Why are you late?",
+          "gujaratiTranslation": "તમે શા માટે મોડા પડ્યા છો?",
+          "hindiTranslation": "तुम देर से क्यों आए?"
+        }
+      ]
+    }
+  ]
+}

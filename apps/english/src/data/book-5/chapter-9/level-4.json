@@ -1,0 +1,177 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Auscultate",
+      "gujaratiPronunciation": "ઓસ્કલ્ટેટ",
+      "hindiPronunciation": "ऑस्कल्टेट",
+      "gujaratiMeaning": "સ્ટેથોસ્કોપથી તપાસવું",
+      "hindiMeaning": "स्टेथोस्कोप से सुनना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Auscultate", "gujaratiPronunciation": "ઓસ્કલ્ટેટ", "hindiPronunciation": "ऑस्कल्टेट", "gujaratiMeaning": "સ્ટેથોસ્કોપથી તપાસવું", "hindiMeaning": "स्टेथोस्कोप से सुनना" },
+        "V2": { "word": "Auscultated", "gujaratiPronunciation": "ઓસ્કલ્ટેટેડ", "hindiPronunciation": "ऑस्कल्टेटेड", "gujaratiMeaning": "તપાસ્યું", "hindiMeaning": "सुना" },
+        "V3": { "word": "Auscultated", "gujaratiPronunciation": "ઓસ્કલ્ટેટેડ", "hindiPronunciation": "ऑस्कल्टेटेड", "gujaratiMeaning": "તપાસેલું", "hindiMeaning": "सुना हुआ" },
+        "V4": { "word": "Auscultating", "gujaratiPronunciation": "ઓસ્કલ્ટેટિંગ", "hindiPronunciation": "ऑस्कल्टेटिंग", "gujaratiMeaning": "તપાસી રહ્યું છે", "hindiMeaning": "सुन रहा है" }
+      },
+      "synonyms": [
+        { "word": "Listen", "gujaratiPronunciation": "લિસન", "hindiPronunciation": "लिसन", "gujaratiMeaning": "સાંભળવું", "hindiMeaning": "सुनना" },
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एक्ज़ामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जाँचना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Overlook", "gujaratiPronunciation": "ઓવરલુક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "નજરઅંદાજ કરવું", "hindiMeaning": "नज़रअंदाज़ करना" }
+      ],
+      "confusingWords": [
+        { "word": "Oscillate", "gujaratiPronunciation": "ઓસિલેટ", "hindiPronunciation": "ऑसिलेट", "gujaratiMeaning": "ડોલવું", "hindiMeaning": "डोलना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The doctor will auscultate your chest.",
+          "gujaratiPronunciation": "ધ ડોક્ટર વિલ ઓસ્કલ્ટેટ યોર ચેસ્ટ.",
+          "hindiPronunciation": "द डॉक्टर विल ऑस्कल्टेट योर चेस्ट।",
+          "gujaratiTranslation": "ડૉક્ટર તમારી છાતીને સ્ટેથોસ્કોપથી તપાસશે.",
+          "hindiTranslation": "डॉक्टर आपके सीने को स्टेथोस्कोप से सुनेंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Feast",
+      "gujaratiPronunciation": "ફીસ્ટ",
+      "hindiPronunciation": "फीस्ट",
+      "gujaratiMeaning": "ભોજન સમારંભ, મિજબાની",
+      "hindiMeaning": "भोज, दावत",
+      "partOfSpeech": "noun",
+      "verbForms": {
+        "V1": { "word": "Feast", "gujaratiPronunciation": "ફીસ્ટ", "hindiPronunciation": "फीस्ट", "gujaratiMeaning": "મિજબાની કરવી", "hindiMeaning": "दावत करना" },
+        "V2": { "word": "Feasted", "gujaratiPronunciation": "ફીસ્ટેડ", "hindiPronunciation": "फीस्टेड", "gujaratiMeaning": "મિજબાની કરી", "hindiMeaning": "दावत की" },
+        "V3": { "word": "Feasted", "gujaratiPronunciation": "ફીસ્ટેડ", "hindiPronunciation": "फीस्टेड", "gujaratiMeaning": "મિજબાની કરેલી", "hindiMeaning": "दावत की हुई" },
+        "V4": { "word": "Feasting", "gujaratiPronunciation": "ફીસ્ટિંગ", "hindiPronunciation": "फीस्टिंग", "gujaratiMeaning": "મિજબાની કરી રહ્યું છે", "hindiMeaning": "दावत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Banquet", "gujaratiPronunciation": "બેન્ક્વેટ", "hindiPronunciation": "बैंक्वेट", "gujaratiMeaning": "ભોજન સમારંભ", "hindiMeaning": "भोज" },
+        { "word": "Meal", "gujaratiPronunciation": "મીલ", "hindiPronunciation": "मील", "gujaratiMeaning": "ભોજન", "hindiMeaning": "भोजन" }
+      ],
+      "antonyms": [
+        { "word": "Fast", "gujaratiPronunciation": "ફાસ્ટ", "hindiPronunciation": "फास्ट", "gujaratiMeaning": "ઉપવાસ", "hindiMeaning": "उपवास" },
+        { "word": "Starvation", "gujaratiPronunciation": "સ્ટારવેશન", "hindiPronunciation": "स्टारवेशन", "gujaratiMeaning": "ભૂખમરો", "hindiMeaning": "भुखमरी" }
+      ],
+      "confusingWords": [
+        { "word": "Fist", "gujaratiPronunciation": "ફિસ્ટ", "hindiPronunciation": "फिस्ट", "gujaratiMeaning": "મુઠ્ઠી", "hindiMeaning": "मुट्ठी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They prepared a grand feast for the wedding.",
+          "gujaratiPronunciation": "ધે પ્રિપેર્ડ અ ગ્રાન્ડ ફીસ્ટ ફોર ધ વેડિંગ.",
+          "hindiPronunciation": "दे प्रिपेयर्ड ए ग्रैंड फीस्ट फॉर द वेडिंग।",
+          "gujaratiTranslation": "તેઓએ લગ્ન માટે ભવ્ય ભોજન સમારંભ તૈયાર કર્યો.",
+          "hindiTranslation": "उन्होंने शादी के लिए एक भव्य दावत तैयार की।"
+        }
+      ]
+    },
+    {
+      "word": "Scour",
+      "gujaratiPronunciation": "સ્કાઉર",
+      "hindiPronunciation": "स्कावर",
+      "gujaratiMeaning": "ઘસીને સાફ કરવું, શોધવું",
+      "hindiMeaning": "रगड़कर साफ करना, खोजना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Scour", "gujaratiPronunciation": "સ્કાઉર", "hindiPronunciation": "स्कावर", "gujaratiMeaning": "ઘસીને સાફ કરવું", "hindiMeaning": "रगड़कर साफ करना" },
+        "V2": { "word": "Scoured", "gujaratiPronunciation": "સ્કાઉર્ડ", "hindiPronunciation": "स्कावर्ड", "gujaratiMeaning": "ઘસીને સાફ કર્યું", "hindiMeaning": "रगड़कर साफ किया" },
+        "V3": { "word": "Scoured", "gujaratiPronunciation": "સ્કાઉર્ડ", "hindiPronunciation": "स्कावर्ड", "gujaratiMeaning": "ઘસીને સાફ કરેલું", "hindiMeaning": "रगड़कर साफ किया हुआ" },
+        "V4": { "word": "Scouring", "gujaratiPronunciation": "સ્કાઉરિંગ", "hindiPronunciation": "स्कावरिंग", "gujaratiMeaning": "ઘસીને સાફ કરી રહ્યું છે", "hindiMeaning": "रगड़कर साफ कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Scrub", "gujaratiPronunciation": "સ્ક્રબ", "hindiPronunciation": "स्क्रब", "gujaratiMeaning": "ઘસવું", "hindiMeaning": "रगड़ना" },
+        { "word": "Search", "gujaratiPronunciation": "સર્ચ", "hindiPronunciation": "सर्च", "gujaratiMeaning": "શોધવું", "hindiMeaning": "खोजना" }
+      ],
+      "antonyms": [
+        { "word": "Dirty", "gujaratiPronunciation": "ડર્ટી", "hindiPronunciation": "डर्टी", "gujaratiMeaning": "ગંદુ કરવું", "hindiMeaning": "गंदा करना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Sour", "gujaratiPronunciation": "સાવર", "hindiPronunciation": "सावर", "gujaratiMeaning": "ખાટું", "hindiMeaning": "खट्टा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She scoured the pots and pans.",
+          "gujaratiPronunciation": "શી સ્કાઉર્ડ ધ પોટ્સ એન્ડ પેન્સ.",
+          "hindiPronunciation": "शी स्कावर्ड द पॉट्स एंड पैन्स।",
+          "gujaratiTranslation": "તેણીએ વાસણો અને તવાઓને ઘસીને સાફ કર્યા.",
+          "hindiTranslation": "उसने बर्तनों और कड़ाहियों को रगड़कर साफ किया।"
+        }
+      ]
+    },
+    {
+      "word": "Sense",
+      "gujaratiPronunciation": "સેન્સ",
+      "hindiPronunciation": "सेंस",
+      "gujaratiMeaning": "ઇન્દ્રિય, સમજ",
+      "hindiMeaning": "इंद्रिय, समझ",
+      "partOfSpeech": "noun",
+      "verbForms": {
+        "V1": { "word": "Sense", "gujaratiPronunciation": "સેન્સ", "hindiPronunciation": "सेंस", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" },
+        "V2": { "word": "Sensed", "gujaratiPronunciation": "સેન્સ્ડ", "hindiPronunciation": "सेंस्ड", "gujaratiMeaning": "અનુભવ્યું", "hindiMeaning": "महसूस किया" },
+        "V3": { "word": "Sensed", "gujaratiPronunciation": "સેન્સ્ડ", "hindiPronunciation": "सेंस्ड", "gujaratiMeaning": "અનુભવેલું", "hindiMeaning": "महसूस किया हुआ" },
+        "V4": { "word": "Sensing", "gujaratiPronunciation": "સેન્સિંગ", "hindiPronunciation": "सेंसिंग", "gujaratiMeaning": "અનુભવી રહ્યું છે", "hindiMeaning": "महसूस कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Feeling", "gujaratiPronunciation": "ફીલિંગ", "hindiPronunciation": "फीलिंग", "gujaratiMeaning": "લાગણી", "hindiMeaning": "भावना" },
+        { "word": "Perception", "gujaratiPronunciation": "પર્સેપ્શન", "hindiPronunciation": "परसेप्शन", "gujaratiMeaning": "ધારણા", "hindiMeaning": "धारणा" }
+      ],
+      "antonyms": [
+        { "word": "Nonsense", "gujaratiPronunciation": "નોનસેન્સ", "hindiPronunciation": "नॉनसेंस", "gujaratiMeaning": "અર્થહીન", "hindiMeaning": "बकवास" },
+        { "word": "Apathy", "gujaratiPronunciation": "એપથી", "hindiPronunciation": "एपैथी", "gujaratiMeaning": "ઉદાસીનતા", "hindiMeaning": "उदासीनता" }
+      ],
+      "confusingWords": [
+        { "word": "Since", "gujaratiPronunciation": "સિન્સ", "hindiPronunciation": "सिंस", "gujaratiMeaning": "ત્યારથી", "hindiMeaning": "जब से" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He has a good sense of direction.",
+          "gujaratiPronunciation": "હી હેઝ અ ગુડ સેન્સ ઓફ ડિરેક્શન.",
+          "hindiPronunciation": "ही हैज़ ए गुड सेंस ऑफ डायरेक्शन।",
+          "gujaratiTranslation": "તેની દિશાની સમજ સારી છે.",
+          "hindiTranslation": "उसकी दिशा की समझ अच्छी है।"
+        }
+      ]
+    },
+    {
+      "word": "View",
+      "gujaratiPronunciation": "વ્યૂ",
+      "hindiPronunciation": "व्यू",
+      "gujaratiMeaning": "દૃશ્ય, જોવું",
+      "hindiMeaning": "दृश्य, देखना",
+      "partOfSpeech": "noun/verb",
+      "verbForms": {
+        "V1": { "word": "View", "gujaratiPronunciation": "વ્યૂ", "hindiPronunciation": "व्यू", "gujaratiMeaning": "જોવું", "hindiMeaning": "देखना" },
+        "V2": { "word": "Viewed", "gujaratiPronunciation": "વ્યૂડ", "hindiPronunciation": "व्यूड", "gujaratiMeaning": "જોયું", "hindiMeaning": "देखा" },
+        "V3": { "word": "Viewed", "gujaratiPronunciation": "વ્યૂડ", "hindiPronunciation": "व्यूड", "gujaratiMeaning": "જોયેલું", "hindiMeaning": "देखा हुआ" },
+        "V4": { "word": "Viewing", "gujaratiPronunciation": "વ્યૂઇંગ", "hindiPronunciation": "व्यूइंग", "gujaratiMeaning": "જોઈ રહ્યું છે", "hindiMeaning": "देख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Sight", "gujaratiPronunciation": "સાઈટ", "hindiPronunciation": "साइट", "gujaratiMeaning": "દૃષ્ટિ", "hindiMeaning": "दृष्टि" },
+        { "word": "Perspective", "gujaratiPronunciation": "પર્સ્પેક્ટિવ", "hindiPronunciation": "पर्सपेक्टिव", "gujaratiMeaning": "દૃષ્ટિકોણ", "hindiMeaning": "दृष्टिकोण" }
+      ],
+      "antonyms": [
+        { "word": "Blindness", "gujaratiPronunciation": "બ્લાઇન્ડનેસ", "hindiPronunciation": "ब्लाइंडनेस", "gujaratiMeaning": "અંધત્વ", "hindiMeaning": "अंधापन" },
+        { "word": "Obscurity", "gujaratiPronunciation": "ઓબ્સ્ક્યોરિટી", "hindiPronunciation": "ऑब्स्क्योरिटी", "gujaratiMeaning": "અસ્પષ્ટતા", "hindiMeaning": "अस्पष्टता" }
+      ],
+      "confusingWords": [
+        { "word": "Few", "gujaratiPronunciation": "ફ્યુ", "hindiPronunciation": "फ्यू", "gujaratiMeaning": "થોડા", "hindiMeaning": "कुछ" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The view from the top is amazing.",
+          "gujaratiPronunciation": "ધ વ્યૂ ફ્રોમ ધ ટોપ ઇઝ અમેઝિંગ.",
+          "hindiPronunciation": "द व्यू फ्रॉम द टॉप इज़ अमेजिंग।",
+          "gujaratiTranslation": "ટોચ પરથી દૃશ્ય અદ્ભુત છે.",
+          "hindiTranslation": "ऊपर से दृश्य अद्भुत है।"
+        }
+      ]
+    }
+  ]
+}

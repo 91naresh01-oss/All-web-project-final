@@ -1,0 +1,11 @@
+{
+    "id": "level-5",
+    "title": "Competition",
+    "words": [
+        { "word": "Cheer", "icon": "🎉", "gujaratiMeaning": "ખુશ થવું", "hindiMeaning": "प्रोत्साहित करना", "gujaratiPronunciation": "ચિયર", "hindiPronunciation": "चियर" },
+        { "word": "Laugh", "icon": "😄", "gujaratiMeaning": "હસવું", "hindiMeaning": "हंसना", "gujaratiPronunciation": "લાફ", "hindiPronunciation": "लाफ" },
+        { "word": "Score", "icon": "🎯", "gujaratiMeaning": "સ્કોર", "hindiMeaning": "स्कोर", "gujaratiPronunciation": "સ્કોર", "hindiPronunciation": "स्कोर" },
+        { "word": "Win", "icon": "🏆", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना", "gujaratiPronunciation": "વિન", "hindiPronunciation": "विन" },
+        { "word": "Lose", "icon": "😞", "gujaratiMeaning": "હારવું", "hindiMeaning": "हारना", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज" }
+    ]
+}

@@ -1,0 +1,47 @@
+
+{
+  "id": "level-3",
+  "title": "Nature 3",
+  "words": [
+    {
+      "word": "Flower",
+      "icon": "🌸",
+      "gujaratiPronunciation": "ફ્લાવર",
+      "hindiPronunciation": "फ़्लॉवर",
+      "gujaratiMeaning": "ફૂલ",
+      "hindiMeaning": "फूल"
+    },
+    {
+      "word": "Tree",
+      "icon": "🌳",
+      "gujaratiPronunciation": "ટ્રી",
+      "hindiPronunciation": "ट्री",
+      "gujaratiMeaning": "વૃક્ષ",
+      "hindiMeaning": "पेड़"
+    },
+    {
+      "word": "Leaf",
+      "icon": "🍃",
+      "gujaratiPronunciation": "લીફ",
+      "hindiPronunciation": "लीफ़",
+      "gujaratiMeaning": "પાંદડું",
+      "hindiMeaning": "पत्ती"
+    },
+    {
+      "word": "Grass",
+      "icon": "🌱",
+      "gujaratiPronunciation": "ગ્રાસ",
+      "hindiPronunciation": "ग्रास",
+      "gujaratiMeaning": "ઘાસ",
+      "hindiMeaning": "घास"
+    },
+    {
+      "word": "Stone",
+      "icon": "🪨",
+      "gujaratiPronunciation": "સ્ટોન",
+      "hindiPronunciation": "स्टोन",
+      "gujaratiMeaning": "પથ્થર",
+      "hindiMeaning": "पत्थर"
+    }
+  ]
+}

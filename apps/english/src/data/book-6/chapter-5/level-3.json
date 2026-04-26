@@ -1,0 +1,491 @@
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Aspire",
+            "gujaratiPronunciation": "એસ્પાયર",
+            "hindiPronunciation": "एस्पायर",
+            "gujaratiMeaning": "મહત્વાકાંક્ષા રાખવી",
+            "hindiMeaning": "महत्वाकांक्षा रखना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Aspire",
+                    "gujaratiPronunciation": "એસ્પાયર",
+                    "hindiPronunciation": "एस्पायर",
+                    "gujaratiMeaning": "મહત્વાકાંક્ષા રાખવી",
+                    "hindiMeaning": "महत्वाकांक्षा रखना"
+                },
+                "V2 (Past)": {
+                    "word": "Aspired",
+                    "gujaratiPronunciation": "એસ્પાયર્ડ",
+                    "hindiPronunciation": "एस्पायर्ड",
+                    "gujaratiMeaning": "મહત્વાકાંક્ષા રાખી",
+                    "hindiMeaning": "महत्वाकांक्षा रखी"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Aspired",
+                    "gujaratiPronunciation": "એસ્પાયર્ડ",
+                    "hindiPronunciation": "एस्पायर्ड",
+                    "gujaratiMeaning": "મહત્વાકાંક્ષા રાખેલી",
+                    "hindiMeaning": "महत्वाकांक्षा रखी हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Aspiring",
+                    "gujaratiPronunciation": "એસ્પાયરિંગ",
+                    "hindiPronunciation": "एस्पायरिंग",
+                    "gujaratiMeaning": "મહત્વાકાંક્ષા રાખી રહ્યા છે",
+                    "hindiMeaning": "महत्वाकांक्षा रख रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Aim",
+                    "gujaratiPronunciation": "એમ",
+                    "hindiPronunciation": "एम",
+                    "gujaratiMeaning": "ધ્યેય રાખવો",
+                    "hindiMeaning": "लक्ष्य रखना"
+                },
+                {
+                    "word": "Yearn",
+                    "gujaratiPronunciation": "યર્ન",
+                    "hindiPronunciation": "यर्न",
+                    "gujaratiMeaning": "તડપવું",
+                    "hindiMeaning": "तरसना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Despair",
+                    "gujaratiPronunciation": "ડિસ્પેર",
+                    "hindiPronunciation": "डिस्पेयर",
+                    "gujaratiMeaning": "નિરાશ થવું",
+                    "hindiMeaning": "निराश होना"
+                },
+                {
+                    "word": "Detest",
+                    "gujaratiPronunciation": "ડિટેસ્ટ",
+                    "hindiPronunciation": "डिटेस्ट",
+                    "gujaratiMeaning": "નફરત કરવી",
+                    "hindiMeaning": "घृणा करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Inspire",
+                    "gujaratiPronunciation": "ઇન્સ્પાયર",
+                    "hindiPronunciation": "इंस्पायर",
+                    "gujaratiMeaning": "પ્રેરણા આપવી",
+                    "hindiMeaning": "प्रेरणा देना",
+                    "difference": "Aspire એટલે કંઈક બનવાની ઈચ્છા રાખવી, જ્યારે Inspire એટલે કોઈને કંઈક કરવા માટે પ્રેરણા આપવી."
+                },
+                {
+                    "word": "Expire",
+                    "gujaratiPronunciation": "એક્સપાયર",
+                    "hindiPronunciation": "एक्सपायर",
+                    "gujaratiMeaning": "સમાપ્ત થવું",
+                    "hindiMeaning": "समाप्त होना",
+                    "difference": "Aspire એ ભવિષ્યની ઈચ્છા છે, જ્યારે Expire એ કોઈ વસ્તુની અવધિ પૂરી થવી છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She aspires to be a great philosopher one day.",
+                    "gujaratiPronunciation": "શી એસ્પાયર્સ ટુ બી અ ગ્રેટ ફિલોસોફર વન ડે.",
+                    "hindiPronunciation": "शी एस्पायर्स टू बी अ ग्रेट फिलॉसॉफर वन डे।",
+                    "gujaratiTranslation": "તે એક દિવસ મહાન દાર્શનિક બનવાની મહત્વાકાંક્ષા રાખે છે.",
+                    "hindiTranslation": "वह एक दिन एक महान दार्शनिक बनने की आकांक्षा रखती है।"
+                }
+            ]
+        },
+        {
+            "word": "Surrender",
+            "gujaratiPronunciation": "સરેન્ડર",
+            "hindiPronunciation": "सरेंडर",
+            "gujaratiMeaning": "આત્મસમર્પણ કરવું",
+            "hindiMeaning": "आत्मसमर्पण करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Surrender",
+                    "gujaratiPronunciation": "સરેન્ડર",
+                    "hindiPronunciation": "सरेंडर",
+                    "gujaratiMeaning": "આત્મસમર્પણ કરવું",
+                    "hindiMeaning": "आत्मसमर्पण करना"
+                },
+                "V2 (Past)": {
+                    "word": "Surrendered",
+                    "gujaratiPronunciation": "સરેન્ડર્ડ",
+                    "hindiPronunciation": "सरेंडर्ड",
+                    "gujaratiMeaning": "આત્મસમર્પણ કર્યું",
+                    "hindiMeaning": "आत्मसमर्पण किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Surrendered",
+                    "gujaratiPronunciation": "સરેન્ડર્ડ",
+                    "hindiPronunciation": "सरेंडर्ड",
+                    "gujaratiMeaning": "આત્મસમર્પણ કરેલું",
+                    "hindiMeaning": "आत्मसमर्पण किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Surrendering",
+                    "gujaratiPronunciation": "સરેન્ડરિંગ",
+                    "hindiPronunciation": "सरेंडरिंग",
+                    "gujaratiMeaning": "આત્મસમર્પણ કરી રહ્યા છે",
+                    "hindiMeaning": "आत्मसमर्पण कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Yield",
+                    "gujaratiPronunciation": "યીલ્ડ",
+                    "hindiPronunciation": "यील्ड",
+                    "gujaratiMeaning": "વશ થવું",
+                    "hindiMeaning": "झुक जाना"
+                },
+                {
+                    "word": "Submit",
+                    "gujaratiPronunciation": "સબમિટ",
+                    "hindiPronunciation": "सबमिट",
+                    "gujaratiMeaning": "આધીન થવું",
+                    "hindiMeaning": "अधीन होना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Resist",
+                    "gujaratiPronunciation": "રેઝિસ્ટ",
+                    "hindiPronunciation": "रेजिस्ट",
+                    "gujaratiMeaning": "વિરોધ કરવો",
+                    "hindiMeaning": "विरोध करना"
+                },
+                {
+                    "word": "Fight",
+                    "gujaratiPronunciation": "ફાઇટ",
+                    "hindiPronunciation": "फाइट",
+                    "gujaratiMeaning": "લડવું",
+                    "hindiMeaning": "लड़ना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Surround",
+                    "gujaratiPronunciation": "સરાઉન્ડ",
+                    "hindiPronunciation": "सराउंड",
+                    "gujaratiMeaning": "ઘેરી લેવું",
+                    "hindiMeaning": "घेर लेना",
+                    "difference": "Surrender એટલે હાર માની લેવી, જ્યારે Surround એટલે ચારે બાજુથી ઘેરી લેવું."
+                },
+                {
+                    "word": "Slender",
+                    "gujaratiPronunciation": "સ્લેન્ડર",
+                    "hindiPronunciation": "स्लेंडर",
+                    "gujaratiMeaning": "પાતળું",
+                    "hindiMeaning": "पतला",
+                    "difference": "બંને શબ્દોના ઉચ્ચાર અને અર્થમાં કોઈ સામ્યતા નથી."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "In meditation, you learn to surrender your ego.",
+                    "gujaratiPronunciation": "ઇન મેડિટેશન, યુ લર્ન ટુ સરેન્ડર યોર ઇગો.",
+                    "hindiPronunciation": "इन मेडिटेशन, यू लर्न टू सरेंडर योर ईगो।",
+                    "gujaratiTranslation": "ધ્યાનમાં, તમે તમારા અહંકારનું સમર્પણ કરવાનું શીખો છો.",
+                    "hindiTranslation": "ध्यान में, आप अपने अहंकार को समर्पित करना सीखते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Emerge",
+            "gujaratiPronunciation": "ઇમર્જ",
+            "hindiPronunciation": "इमर्ज",
+            "gujaratiMeaning": "બહાર આવવું, ઊભરી આવવું",
+            "hindiMeaning": "बाहर आना, उभरना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Emerge",
+                    "gujaratiPronunciation": "ઇમર્જ",
+                    "hindiPronunciation": "इमर्ज",
+                    "gujaratiMeaning": "બહાર આવવું",
+                    "hindiMeaning": "बाहर आना"
+                },
+                "V2 (Past)": {
+                    "word": "Emerged",
+                    "gujaratiPronunciation": "ઇમર્જ્ડ",
+                    "hindiPronunciation": "इमर्ज्ड",
+                    "gujaratiMeaning": "બહાર આવ્યું",
+                    "hindiMeaning": "बाहर आया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Emerged",
+                    "gujaratiPronunciation": "ઇમર્જ્ડ",
+                    "hindiPronunciation": "इमर्ज्ड",
+                    "gujaratiMeaning": "બહાર આવેલું",
+                    "hindiMeaning": "बाहर आया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Emerging",
+                    "gujaratiPronunciation": "ઇમર્જિંગ",
+                    "hindiPronunciation": "इमर्जिंग",
+                    "gujaratiMeaning": "બહાર આવી રહ્યું છે",
+                    "hindiMeaning": "बाहर आ रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Appear",
+                    "gujaratiPronunciation": "અપિયર",
+                    "hindiPronunciation": "अपियर",
+                    "gujaratiMeaning": "દેખાવું",
+                    "hindiMeaning": "दिखाई देना"
+                },
+                {
+                    "word": "Arise",
+                    "gujaratiPronunciation": "અરાઇઝ",
+                    "hindiPronunciation": "अराइज़",
+                    "gujaratiMeaning": "ઉદ્ભવવું",
+                    "hindiMeaning": "उठना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Disappear",
+                    "gujaratiPronunciation": "ડિસઅપિયર",
+                    "hindiPronunciation": "डिसअपीयर",
+                    "gujaratiMeaning": "અદૃશ્ય થવું",
+                    "hindiMeaning": "गायब हो जाना"
+                },
+                {
+                    "word": "Vanish",
+                    "gujaratiPronunciation": "વેનિશ",
+                    "hindiPronunciation": "वैनिश",
+                    "gujaratiMeaning": "ગાયબ થવું",
+                    "hindiMeaning": "गायब हो जाना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Immerse",
+                    "gujaratiPronunciation": "ઇમર્સ",
+                    "hindiPronunciation": "इमर्स",
+                    "gujaratiMeaning": "ડૂબકી મારવી, લીન થવું",
+                    "hindiMeaning": "डुबोना, लीन होना",
+                    "difference": "Emerge એટલે બહાર આવવું, જ્યારે Immerse એટલે અંદર ડૂબી જવું."
+                },
+                {
+                    "word": "Merge",
+                    "gujaratiPronunciation": "મર્જ",
+                    "hindiPronunciation": "मर्ज",
+                    "gujaratiMeaning": "ભેળવી દેવું",
+                    "hindiMeaning": "विलय करना",
+                    "difference": "Emerge એ એક વસ્તુનું બહાર આવવું છે, જ્યારે Merge એ બે કે તેથી વધુ વસ્તુઓનું ભેગા થવું છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "New ideas often emerge from deep contemplation.",
+                    "gujaratiPronunciation": "ન્યુ આઇડિયાઝ ઓફન ઇમર્જ ફ્રોમ ડીપ કોન્ટેમ્પ્લેશન.",
+                    "hindiPronunciation": "न्यू आइडियाज़ ऑफ़न इमर्ज फ्रॉम डीप कॉन्टेम्प्लेशन।",
+                    "gujaratiTranslation": "નવા વિચારો ઘણીવાર ઊંડા મનનમાંથી ઉભરી આવે છે.",
+                    "hindiTranslation": "नए विचार अक्सर गहरे चिंतन से उभरते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Fathom",
+            "gujaratiPronunciation": "ફેધમ",
+            "hindiPronunciation": "फैदम",
+            "gujaratiMeaning": "સમજવું, ઊંડાણ માપવું",
+            "hindiMeaning": "समझना, गहराई मापना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Fathom",
+                    "gujaratiPronunciation": "ફેધમ",
+                    "hindiPronunciation": "फैदम",
+                    "gujaratiMeaning": "સમજવું",
+                    "hindiMeaning": "समझना"
+                },
+                "V2 (Past)": {
+                    "word": "Fathomed",
+                    "gujaratiPronunciation": "ફેધમ્ડ",
+                    "hindiPronunciation": "फैदम्ड",
+                    "gujaratiMeaning": "સમજ્યું",
+                    "hindiMeaning": "समझा"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Fathomed",
+                    "gujaratiPronunciation": "ફેધમ્ડ",
+                    "hindiPronunciation": "फैदम्ड",
+                    "gujaratiMeaning": "સમજેલું",
+                    "hindiMeaning": "समझा हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Fathoming",
+                    "gujaratiPronunciation": "ફેધમિંગ",
+                    "hindiPronunciation": "फैदमिंग",
+                    "gujaratiMeaning": "સમજી રહ્યા છે",
+                    "hindiMeaning": "समझ रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Understand",
+                    "gujaratiPronunciation": "અન્ડરસ્ટેન્ડ",
+                    "hindiPronunciation": "अंडरस्टैंड",
+                    "gujaratiMeaning": "સમજવું",
+                    "hindiMeaning": "समझना"
+                },
+                {
+                    "word": "Comprehend",
+                    "gujaratiPronunciation": "કોમ્પ્રિહેન્ડ",
+                    "hindiPronunciation": "कॉम्प्रिहेंड",
+                    "gujaratiMeaning": "ગ્રહણ કરવું",
+                    "hindiMeaning": "समझना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Misunderstand",
+                    "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ",
+                    "hindiPronunciation": "मिसअंडरस्टैंड",
+                    "gujaratiMeaning": "ખોટું સમજવું",
+                    "hindiMeaning": "गलत समझना"
+                },
+                {
+                    "word": "Guess",
+                    "gujaratiPronunciation": "ગેસ",
+                    "hindiPronunciation": "गेस",
+                    "gujaratiMeaning": "અનુમાન લગાવવું",
+                    "hindiMeaning": "अनुमान लगाना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Phantom",
+                    "gujaratiPronunciation": "ફેન્ટમ",
+                    "hindiPronunciation": "फैंटम",
+                    "gujaratiMeaning": "ભૂત, ભ્રમ",
+                    "hindiMeaning": "भूत, भ्रम",
+                    "difference": "Fathom એ સમજવાની ક્રિયા છે, જ્યારે Phantom એ ભ્રામક આકૃતિ છે."
+                },
+                {
+                    "word": "Fatigue",
+                    "gujaratiPronunciation": "ફટીગ",
+                    "hindiPronunciation": "फटीग",
+                    "gujaratiMeaning": "થાક",
+                    "hindiMeaning": "थकान",
+                    "difference": "બંને શબ્દોના ઉચ્ચાર અને અર્થ સંપૂર્ણપણે અલગ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "It is hard to fathom the vastness of the universe.",
+                    "gujaratiPronunciation": "ઈટ ઇઝ હાર્ડ ટુ ફેધમ ધ વાસ્ટનેસ ઓફ ધ યુનિવર્સ.",
+                    "hindiPronunciation": "इट इज़ हार्ड टू फैदम द वास्टनेस ऑफ़ द यूनिवर्स।",
+                    "gujaratiTranslation": "બ્રહ્માંડની વિશાળતાને સમજવી મુશ્કેલ છે.",
+                    "hindiTranslation": "ब्रह्मांड की विशालता को समझना मुश्किल है।"
+                }
+            ]
+        },
+        {
+            "word": "Venerate",
+            "gujaratiPronunciation": "વેનરેટ",
+            "hindiPronunciation": "वेनरेट",
+            "gujaratiMeaning": "આદર કરવો, પૂજવું",
+            "hindiMeaning": "आदर करना, पूजना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Venerate",
+                    "gujaratiPronunciation": "વેનરેટ",
+                    "hindiPronunciation": "वेनरेट",
+                    "gujaratiMeaning": "આદર કરવો",
+                    "hindiMeaning": "आदर करना"
+                },
+                "V2 (Past)": {
+                    "word": "Venerated",
+                    "gujaratiPronunciation": "વેનરેટેડ",
+                    "hindiPronunciation": "वेनरेटेड",
+                    "gujaratiMeaning": "આદર કર્યો",
+                    "hindiMeaning": "आदर किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Venerated",
+                    "gujaratiPronunciation": "વેનરેટેડ",
+                    "hindiPronunciation": "वेनरेटेड",
+                    "gujaratiMeaning": "આદર કરેલો",
+                    "hindiMeaning": "आदर किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Venerating",
+                    "gujaratiPronunciation": "વેનરેટિંગ",
+                    "hindiPronunciation": "वेनरेटिंग",
+                    "gujaratiMeaning": "આદર કરી રહ્યા છે",
+                    "hindiMeaning": "आदर कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Revere",
+                    "gujaratiPronunciation": "રિવિયર",
+                    "hindiPronunciation": "रेवियर",
+                    "gujaratiMeaning": "સન્માન કરવું",
+                    "hindiMeaning": "सम्मान करना"
+                },
+                {
+                    "word": "Respect",
+                    "gujaratiPronunciation": "રિસ્પેક્ટ",
+                    "hindiPronunciation": "रिस्पेक्ट",
+                    "gujaratiMeaning": "આદર કરવો",
+                    "hindiMeaning": "आदर करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Despise",
+                    "gujaratiPronunciation": "ડિસ્પાઇઝ",
+                    "hindiPronunciation": "डेस्पाइज़",
+                    "gujaratiMeaning": "તિરસ્કાર કરવો",
+                    "hindiMeaning": "तिरस्कार करना"
+                },
+                {
+                    "word": "Scorn",
+                    "gujaratiPronunciation": "સ્કૉર્ન",
+                    "hindiPronunciation": "स्कॉर्न",
+                    "gujaratiMeaning": "ધિક્કારવું",
+                    "hindiMeaning": "घृणा करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Generate",
+                    "gujaratiPronunciation": "જનરેટ",
+                    "hindiPronunciation": "जनरेट",
+                    "gujaratiMeaning": "ઉત્પન્ન કરવું",
+                    "hindiMeaning": "उत्पन्न करना",
+                    "difference": "Venerate એટલે ખૂબ આદર કરવો, જ્યારે Generate એટલે કંઈક બનાવવું."
+                },
+                {
+                    "word": "Inveterate",
+                    "gujaratiPronunciation": "ઇન્વેટરેટ",
+                    "hindiPronunciation": "इन्वेटरेट",
+                    "gujaratiMeaning": "જૂનું, કાયમી",
+                    "hindiMeaning": "पुराना, स्थायी",
+                    "difference": "બંને શબ્દોના ઉચ્ચાર અને અર્થ સંપૂર્ણપણે અલગ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "In many cultures, people venerate their ancestors.",
+                    "gujaratiPronunciation": "ઇન મેની કલ્ચર્સ, પીપલ વેનરેટ ધેર એન્સેસ્ટર્સ.",
+                    "hindiPronunciation": "इन मेनी कल्चर्स, पीपल वेनरेट देयर एंसेस्टर्स।",
+                    "gujaratiTranslation": "ઘણી સંસ્કૃતિઓમાં, લોકો તેમના પૂર્વજોનું પૂજન કરે છે.",
+                    "hindiTranslation": "कई संस्कृतियों में, लोग अपने पूर्वजों का सम्मान करते हैं।"
+                }
+            ]
+        }
+    ]
+}

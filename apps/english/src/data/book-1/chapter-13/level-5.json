@@ -1,0 +1,11 @@
+{
+    "id": "level-5",
+    "title": "Trees 2",
+    "words": [
+        { "word": "Teak Tree", "icon": "🌲", "gujaratiPronunciation": "ટીક ટ્રી", "hindiPronunciation": "टीक ट्री", "gujaratiMeaning": "સાગનું વૃક્ષ", "hindiMeaning": "सागौन का पेड़" },
+        { "word": "Mahogany", "icon": "🪵", "gujaratiPronunciation": "મહાગની", "hindiPronunciation": "महोगनी", "gujaratiMeaning": "મહાગની", "hindiMeaning": "महोगनी" },
+        { "word": "Sandalwood", "icon": "🪈", "gujaratiPronunciation": "સેન્ડલવુડ", "hindiPronunciation": "सैंडलवुड", "gujaratiMeaning": "ચંદનનું વૃક્ષ", "hindiMeaning": "चंदन" },
+        { "word": "Pine Tree", "icon": "🌿", "gujaratiPronunciation": "પાઈન ટ્રી", "hindiPronunciation": "पाइन ट्री", "gujaratiMeaning": "પાઈનનું વૃક્ષ", "hindiMeaning": "चीड़ का पेड़" },
+        { "word": "Eucalyptus", "icon": "🌱", "gujaratiPronunciation": "યુકેલિપ્ટસ", "hindiPronunciation": "यूकेलिप्टस", "gujaratiMeaning": "નીલગિરી", "hindiMeaning": "नीलगिरी" }
+    ]
+}

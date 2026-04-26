@@ -1,0 +1,46 @@
+{
+  "id": "level-1",
+  "title": "Crops 1",
+  "words": [
+    {
+      "word": "Wheat",
+      "icon": "🌾",
+      "gujaratiPronunciation": "વ્હીટ",
+      "hindiPronunciation": "व्हीट",
+      "gujaratiMeaning": "ઘઉં",
+      "hindiMeaning": "गेहूँ"
+    },
+    {
+      "word": "Rice",
+      "icon": "🍚",
+      "gujaratiPronunciation": "રાઇસ",
+      "hindiPronunciation": "राइस",
+      "gujaratiMeaning": "ચોખા",
+      "hindiMeaning": "चावल"
+    },
+    {
+      "word": "Maize",
+      "icon": "🌽",
+      "gujaratiPronunciation": "મેઇઝ",
+      "hindiPronunciation": "मेइज़",
+      "gujaratiMeaning": "મકાઈ",
+      "hindiMeaning": "मक्का"
+    },
+    {
+      "word": "Barley",
+      "icon": "🌾",
+      "gujaratiPronunciation": "બાર્લી",
+      "hindiPronunciation": "बार्ली",
+      "gujaratiMeaning": "જવ",
+      "hindiMeaning": "जौ"
+    },
+    {
+      "word": "Sorghum",
+      "icon": "🌾",
+      "gujaratiPronunciation": "સોર્ગમ",
+      "hindiPronunciation": "सोरगम",
+      "gujaratiMeaning": "જુવાર",
+      "hindiMeaning": "ज्वार"
+    }
+  ]
+}

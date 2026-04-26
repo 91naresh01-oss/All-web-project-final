@@ -1,0 +1,77 @@
+
+{
+  "id": "level-2",
+  "title": "Expressions",
+  "words": [
+    {
+      "word": "Cry",
+      "gujaratiPronunciation": "ક્રાય",
+      "hindiPronunciation": "क्राई",
+      "gujaratiMeaning": "રડવું",
+      "hindiMeaning": "रोना",
+      "exampleSentences": [
+        {
+          "sentence": "The baby started to cry.",
+          "gujaratiTranslation": "બાળક રડવા લાગ્યું.",
+          "hindiTranslation": "बच्चा रोने लगा।"
+        }
+      ]
+    },
+    {
+      "word": "Laugh",
+      "gujaratiPronunciation": "લાફ",
+      "hindiPronunciation": "लाफ",
+      "gujaratiMeaning": "હસવું",
+      "hindiMeaning": "हंसना",
+      "exampleSentences": [
+        {
+          "sentence": "His joke made everyone laugh.",
+          "gujaratiTranslation": "તેના જોકથી બધા હસી પડ્યા.",
+          "hindiTranslation": "उसके मजाक पर सब हंस पड़े।"
+        }
+      ]
+    },
+    {
+      "word": "Smile",
+      "gujaratiPronunciation": "સ્માઈલ",
+      "hindiPronunciation": "स्माइल",
+      "gujaratiMeaning": "સ્મિત કરવું",
+      "hindiMeaning": "मुस्कुराना",
+      "exampleSentences": [
+        {
+          "sentence": "She has a beautiful smile.",
+          "gujaratiTranslation": "તેણીનું સ્મિત સુંદર છે.",
+          "hindiTranslation": "उसकी मुस्कान सुंदर है।"
+        }
+      ]
+    },
+    {
+      "word": "Shout",
+      "gujaratiPronunciation": "શાઉટ",
+      "hindiPronunciation": "शाउट",
+      "gujaratiMeaning": "બૂમ પાડવી",
+      "hindiMeaning": "चिल्लाना",
+      "exampleSentences": [
+        {
+          "sentence": "Please don't shout in the library.",
+          "gujaratiTranslation": "કૃપા કરીને પુસ્તકાલયમાં બૂમો પાડશો નહીં.",
+          "hindiTranslation": "कृपया पुस्तकालय में चिल्लाएं नहीं।"
+        }
+      ]
+    },
+    {
+      "word": "Clap",
+      "gujaratiPronunciation": "ક્લેપ",
+      "hindiPronunciation": "क्लैप",
+      "gujaratiMeaning": "તાળી પાડવી",
+      "hindiMeaning": "ताली बजाना",
+      "exampleSentences": [
+        {
+          "sentence": "The audience began to clap.",
+          "gujaratiTranslation": "પ્રેક્ષકોએ તાળીઓ પાડવાનું શરૂ કર્યું.",
+          "hindiTranslation": "दर्शकों ने ताली बजानी शुरू कर दी।"
+        }
+      ]
+    }
+  ]
+}

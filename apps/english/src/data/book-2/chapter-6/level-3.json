@@ -1,0 +1,77 @@
+
+{
+  "id": "level-3",
+  "title": "Public Places",
+  "words": [
+    {
+      "word": "Library",
+      "gujaratiPronunciation": "લાઇબ્રેરી",
+      "hindiPronunciation": "लाइब्रेरी",
+      "gujaratiMeaning": "પુસ્તકાલય",
+      "hindiMeaning": "पुस्तकालय",
+      "exampleSentences": [
+        {
+          "sentence": "You can borrow books from the library.",
+          "gujaratiTranslation": "તમે પુસ્તકાલયમાંથી પુસ્તકો ઉછીના લઈ શકો છો.",
+          "hindiTranslation": "आप पुस्तकालय से किताबें उधार ले सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Airport",
+      "gujaratiPronunciation": "એરપોર્ટ",
+      "hindiPronunciation": "एयरपोर्ट",
+      "gujaratiMeaning": "વિમાનમથક",
+      "hindiMeaning": "हवाई अड्डा",
+      "exampleSentences": [
+        {
+          "sentence": "We need to be at the airport two hours before the flight.",
+          "gujaratiTranslation": "આપણે ફ્લાઇટના બે કલાક પહેલાં વિમાનમથક પર પહોંચવું પડશે.",
+          "hindiTranslation": "हमें उड़ान से दो घंटे पहले हवाई अड्डे पर होना चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Restaurant",
+      "gujaratiPronunciation": "રેસ્ટોરન્ટ",
+      "hindiPronunciation": "रेस्टोरेंट",
+      "gujaratiMeaning": "રેસ્ટોરન્ટ",
+      "hindiMeaning": "रेस्टोरेंट",
+      "exampleSentences": [
+        {
+          "sentence": "Let's have dinner at a new restaurant.",
+          "gujaratiTranslation": "ચાલો એક નવા રેસ્ટોરન્ટમાં રાત્રિભોજન કરીએ.",
+          "hindiTranslation": "चलो एक नए रेस्टोरेंट में रात का खाना खाते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Theater",
+      "gujaratiPronunciation": "થિયેટર",
+      "hindiPronunciation": "थिएटर",
+      "gujaratiMeaning": "નાટ્યગૃહ",
+      "hindiMeaning": "थिएटर",
+      "exampleSentences": [
+        {
+          "sentence": "We are going to the theater to watch a play.",
+          "gujaratiTranslation": "અમે એક નાટક જોવા માટે નાટ્યગૃહમાં જઈ રહ્યા છીએ.",
+          "hindiTranslation": "हम एक नाटक देखने के लिए थिएटर जा रहे हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Garden",
+      "gujaratiPronunciation": "ગાર્ડન",
+      "hindiPronunciation": "गार्डन",
+      "gujaratiMeaning": "બગીચો",
+      "hindiMeaning": "बगीचा",
+      "exampleSentences": [
+        {
+          "sentence": "The garden is full of beautiful flowers.",
+          "gujaratiTranslation": "બગીચો સુંદર ફૂલોથી ભરેલો છે.",
+          "hindiTranslation": "बगीचा सुंदर फूलों से भरा है।"
+        }
+      ]
+    }
+  ]
+}

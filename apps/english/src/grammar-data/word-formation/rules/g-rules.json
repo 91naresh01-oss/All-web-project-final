@@ -1,0 +1,113 @@
+
+{
+  "id": "word-formation-gu",
+  "title": "Word Formation - શબ્દ રચના",
+  "description": "અંગ્રેજીમાં શબ્દોની રચના અને તેના પ્રકારો વિશે જાણો.",
+  "content": [
+    {
+      "type": "heading",
+      "content": "શબ્દ નિર્માણ (Word Formation)"
+    },
+    {
+      "type": "paragraph",
+      "content": "અંગ્રેજી વ્યાકરણમાં શબ્દ નિર્માણ (Word Formation) એ એક રસપ્રદ અને મહત્વનો વિષય છે. આ પ્રક્રિયામાં, આપણે મૂળ શબ્દ (Root Word) માં ઉપસર્ગ (Prefix) અથવા પ્રત્યય (Suffix) ઉમેરીને નવા શબ્દો બનાવીએ છીએ. આનાથી શબ્દનો અર્થ અથવા તેનો પ્રકાર (જેમ કે સંજ્ઞા, ક્રિયાપદ, વિશેષણ) બદલાઈ શકે છે. ચાલો, સંજ્ઞા (Noun), ક્રિયાપદ (Verb), વિશેષણ (Adjective), અને ક્રિયાવિશેષણ (Adverb) જેવા શબ્દો એકબીજામાંથી કેવી રીતે બને છે તે વિગતવાર સમજીએ."
+    },
+    {
+      "type": "heading",
+      "content": "પ્રત્યય (Suffix) દ્વારા શબ્દ નિર્માણ"
+    },
+    {
+      "type": "paragraph",
+      "content": "શબ્દ નિર્માણનો સૌથી સામાન્ય રસ્તો શબ્દના અંતમાં પ્રત્યય (Suffix) ઉમેરવાનો છે. અલગ-અલગ પ્રત્યયો શબ્દને અલગ-અલગ પ્રકારમાં ફેરવે છે."
+    },
+    {
+      "type": "rules_table_section",
+      "content": {
+        "title": "1. ક્રિયાપદમાંથી સંજ્ઞા (Noun from Verb)",
+        "headers": ["Suffix (પ્રત્યય)", "Verb (ક્રિયાપદ)", "Noun (સંજ્ઞા)"],
+        "rows": [
+          ["-ance / -ence", "Accept (સ્વીકારવું)", "Acceptance (સ્વીકૃતિ)"],
+          ["-ion / -tion", "Act (કાર્ય કરવું)", "Action (કાર્ય)"],
+          ["-ment", "Govern (શાસન કરવું)", "Government (સરકાર)"],
+          ["-al", "Arrive (આવવું)", "Arrival (આગમન)"],
+          ["-er / -or", "Teach (શીખવવું)", "Teacher (શિક્ષક)"],
+          ["-ure", "Fail (નિષ્ફળ જવું)", "Failure (નિષ્ફળતા)"],
+          ["-age", "Marry (લગ્ન કરવા)", "Marriage (લગ્ન)"]
+        ]
+      }
+    },
+    {
+      "type": "rules_table_section",
+      "content": {
+        "title": "2. વિશેષણમાંથી સંજ્ઞા (Noun from Adjective)",
+        "headers": ["Suffix (પ્રત્યય)", "Adjective (વિશેષણ)", "Noun (સંજ્ઞા)"],
+        "rows": [
+          ["-ness", "Happy (ખુશ)", "Happiness (ખુશી)"],
+          ["-ity / -ty", "Able (સક્ષમ)", "Ability (ક્ષમતા)"],
+          ["-ance / -ence", "Important (મહત્વપૂર્ણ)", "Importance (મહત્વ)"],
+          ["-th", "Long (લાંબુ)", "Length (લંબાઈ)"],
+          ["-dom", "Free (સ્વતંત્ર)", "Freedom (સ્વતંત્રતા)"]
+        ]
+      }
+    },
+    {
+      "type": "rules_table_section",
+      "content": {
+        "title": "3. વિશેષણમાંથી ક્રિયાપદ (Verb from Adjective)",
+        "headers": ["Suffix (પ્રત્યય)", "Adjective (વિશેષણ)", "Verb (ક્રિયાપદ)"],
+        "rows": [
+          ["-en", "Weak (નબળું)", "Weaken (નબળું પાડવું)"],
+          ["-ify", "Simple (સરળ)", "Simplify (સરળ બનાવવું)"],
+          ["-ize / -ise", "Modern (આધુનિક)", "Modernize (આધુનિક બનાવવું)"]
+        ]
+      }
+    },
+     {
+      "type": "rules_table_section",
+      "content": {
+        "title": "4. સંજ્ઞામાંથી વિશેષણ (Adjective from Noun)",
+        "headers": ["Suffix (પ્રત્યય)", "Noun (સંજ્ઞા)", "Adjective (વિશેષણ)"],
+        "rows": [
+          ["-ful", "Beauty (સુંદરતા)", "Beautiful (સુંદર)"],
+          ["-less", "Care (કાળજી)", "Careless (કાળજી વિનાનું)"],
+          ["-ous", "Danger (ખતરો)", "Dangerous (ખતરનાક)"],
+          ["-al", "Nation (રાષ્ટ્ર)", "National (રાષ્ટ્રીય)"],
+          ["-y", "Dirt (ગંદકી)", "Dirty (ગંદુ)"],
+          ["-ic", "History (ઇતિહાસ)", "Historic (ઐતિહાસિક)"],
+          ["-ish", "Child (બાળક)", "Childish (બાલિશ)"]
+        ]
+      }
+    },
+    {
+      "type": "rules_table_section",
+      "content": {
+        "title": "5. ક્રિયાપદમાંથી વિશેષણ (Adjective from Verb)",
+        "headers": ["Suffix (પ્રત્યય)", "Verb (ક્રિયાપદ)", "Adjective (વિશેષણ)"],
+        "rows": [
+          ["-able / -ible", "Read (વાંચવું)", "Readable (વાંચી શકાય તેવું)"],
+          ["-ive", "Attract (આકર્ષવું)", "Attractive (આકર્ષક)"],
+          ["-ing", "Interest (રસ લેવો)", "Interesting (રસપ્રદ)"],
+          ["-ed", "Tire (થાકવું)", "Tired (થાકેલું)"]
+        ]
+      }
+    },
+    {
+      "type": "rules_table_section",
+      "content": {
+        "title": "6. વિશેષણમાંથી ક્રિયાવિશેષણ (Adverb from Adjective)",
+        "headers": ["Suffix (પ્રત્યય)", "Adjective (વિશેષણ)", "Adverb (ક્રિયાવિશેષણ)"],
+        "rows": [
+          ["-ly", "Slow (ધીમું)", "Slowly (ધીમેથી)"],
+          ["-ly", "Quick (ઝડપી)", "Quickly (ઝડપથી)"],
+          ["-ily (y ને બદલે)", "Happy (ખુશ)", "Happily (ખુશીથી)"]
+        ]
+      }
+    },
+    {
+      "type": "note",
+      "content": "યાદ રાખો કે બધા શબ્દો આ નિયમોનું પાલન કરતા નથી. અંગ્રેજીમાં ઘણા અનિયમિત શબ્દો પણ છે. જોકે, આ નિયમોને સમજવાથી તમારી શબ્દભંડોળ અને વ્યાકરણની સમજમાં નોંધપાત્ર સુધારો થશે."
+    }
+  ]
+}
+
+    

@@ -1,0 +1,1016 @@
+{
+    "id": "verb",
+    "title": "Verb (ક્રિયાપદ)",
+    "description": "Definition, Forms of Verbs (V1, V2, V3), Confusing Verbs and Special Adjective Forms.",
+    "content": [
+        {
+            "type": "section",
+            "title": "Introduction to Verb",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "A **Verb** is a word used to describe an action, state, or occurrence. It is the most important part of a sentence.<br/>જે શબ્દ કોઈ ક્રિયા, સ્થિતિ કે હોવાપણું દર્શાવે છે તેને **ક્રિયાપદ (Verb)** કહે છે."
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "**Action Verbs:** Run, Play, Eat, Write",
+                        "**State Verbs:** Is, Am, Are, Was, Were, Have, Has"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Forms of Verbs (ક્રિયાપદના રૂપો)",
+            "content": [
+                {
+                    "type": "note",
+                    "content": "There are three main forms of verbs:<br/>1. **Base Form (V1)** - મૂળ રૂપ<br/>2. **Past Form (V2)** - ભૂતકાળનું રૂપ<br/>3. **Past Participle (V3)** - ભૂતકૃદંત"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "List of Irregular Verbs",
+                        "headers": [
+                            "Infinitive (V1)",
+                            "Gujarati Meaning",
+                            "Simple Past (V2)",
+                            "Past Participle (V3)"
+                        ],
+                        "rows": [
+                            [
+                                "arise",
+                                "ઉગવું, દેખાવું",
+                                "arose",
+                                "arisen"
+                            ],
+                            [
+                                "awake",
+                                "જાગવું",
+                                "awoke",
+                                "awoken"
+                            ],
+                            [
+                                "be",
+                                "હોવું",
+                                "was, were",
+                                "been"
+                            ],
+                            [
+                                "bear",
+                                "સહન કરવું, જન્મ આપવો",
+                                "bore",
+                                "born / borne"
+                            ],
+                            [
+                                "beat",
+                                "મારવું, હરાવવું",
+                                "beat",
+                                "beaten"
+                            ],
+                            [
+                                "become",
+                                "બનવું",
+                                "became",
+                                "become"
+                            ],
+                            [
+                                "begin",
+                                "શરૂ કરવું",
+                                "began",
+                                "begun"
+                            ],
+                            [
+                                "bend",
+                                "વાળવું, નમવું",
+                                "bent",
+                                "bent"
+                            ],
+                            [
+                                "bet",
+                                "શરત મારવી",
+                                "bet",
+                                "bet"
+                            ],
+                            [
+                                "bind",
+                                "બાંધવું",
+                                "bound",
+                                "bound"
+                            ],
+                            [
+                                "bite",
+                                "કરડવું",
+                                "bit",
+                                "bitten"
+                            ],
+                            [
+                                "bleed",
+                                "લોહી વહેવું",
+                                "bled",
+                                "bled"
+                            ],
+                            [
+                                "blow",
+                                "ફૂંકવું",
+                                "blew",
+                                "blown"
+                            ],
+                            [
+                                "break",
+                                "તોડવું",
+                                "broke",
+                                "broken"
+                            ],
+                            [
+                                "bring",
+                                "લાવવું",
+                                "brought",
+                                "brought"
+                            ],
+                            [
+                                "broadcast",
+                                "પ્રસારિત કરવું",
+                                "broadcast",
+                                "broadcast"
+                            ],
+                            [
+                                "build",
+                                "બાંધવું",
+                                "built",
+                                "built"
+                            ],
+                            [
+                                "burn",
+                                "બળવું, બાળવું",
+                                "burnt / burned",
+                                "burnt / burned"
+                            ],
+                            [
+                                "burst",
+                                "ફાટી જવું, ફૂટી નીકળવું",
+                                "burst",
+                                "burst"
+                            ],
+                            [
+                                "buy",
+                                "ખરીદવું",
+                                "bought",
+                                "bought"
+                            ],
+                            [
+                                "catch",
+                                "પકડવું",
+                                "caught",
+                                "caught"
+                            ],
+                            [
+                                "choose",
+                                "પસંદ કરવું",
+                                "chose",
+                                "chosen"
+                            ],
+                            [
+                                "come",
+                                "આવવું",
+                                "came",
+                                "come"
+                            ],
+                            [
+                                "cost",
+                                "કિંમત હોવી",
+                                "cost",
+                                "cost"
+                            ],
+                            [
+                                "cut",
+                                "કાપવું",
+                                "cut",
+                                "cut"
+                            ],
+                            [
+                                "deal",
+                                "વ્યવહાર કરવો",
+                                "dealt",
+                                "dealt"
+                            ],
+                            [
+                                "dig",
+                                "ખોદવું",
+                                "dug",
+                                "dug"
+                            ],
+                            [
+                                "do",
+                                "કરવું",
+                                "did",
+                                "done"
+                            ],
+                            [
+                                "draw",
+                                "દોરવું",
+                                "drew",
+                                "drawn"
+                            ],
+                            [
+                                "dream",
+                                "સ્વપ્ન જોવું",
+                                "dreamt / dreamed",
+                                "dreamt / dreamed"
+                            ],
+                            [
+                                "drink",
+                                "પીવું",
+                                "drank",
+                                "drunk"
+                            ],
+                            [
+                                "drive",
+                                "ચલાવવું",
+                                "drove",
+                                "driven"
+                            ],
+                            [
+                                "eat",
+                                "ખાવું",
+                                "ate",
+                                "eaten"
+                            ],
+                            [
+                                "fall",
+                                "પડવું",
+                                "fell",
+                                "fallen"
+                            ],
+                            [
+                                "feed",
+                                "ખવડાવવું",
+                                "fed",
+                                "fed"
+                            ],
+                            [
+                                "feel",
+                                "અનુભવવું",
+                                "felt",
+                                "felt"
+                            ],
+                            [
+                                "fight",
+                                "લડવું",
+                                "fought",
+                                "fought"
+                            ],
+                            [
+                                "find",
+                                "શોધવું",
+                                "found",
+                                "found"
+                            ],
+                            [
+                                "fly",
+                                "ઉડવું",
+                                "flew",
+                                "flown"
+                            ],
+                            [
+                                "forbid",
+                                "મનાઈ કરવી",
+                                "forbade",
+                                "forbidden"
+                            ],
+                            [
+                                "forget",
+                                "ભૂલી જવું",
+                                "forgot",
+                                "forgotten"
+                            ],
+                            [
+                                "forgive",
+                                "માફ કરવું",
+                                "forgave",
+                                "forgiven"
+                            ],
+                            [
+                                "freeze",
+                                "થીજવું",
+                                "froze",
+                                "frozen"
+                            ],
+                            [
+                                "get",
+                                "મેળવવું",
+                                "got",
+                                "got"
+                            ],
+                            [
+                                "give",
+                                "આપવું",
+                                "gave",
+                                "given"
+                            ],
+                            [
+                                "go",
+                                "જવું",
+                                "went",
+                                "gone"
+                            ],
+                            [
+                                "grow",
+                                "ઉગવું",
+                                "grew",
+                                "grown"
+                            ],
+                            [
+                                "hang",
+                                "લટકાવવું",
+                                "hung",
+                                "hung"
+                            ],
+                            [
+                                "have",
+                                "પાસે હોવું",
+                                "had",
+                                "had"
+                            ],
+                            [
+                                "hear",
+                                "સાંભળવું",
+                                "heard",
+                                "heard"
+                            ],
+                            [
+                                "hide",
+                                "સંતાડવું",
+                                "hid",
+                                "hidden"
+                            ],
+                            [
+                                "hit",
+                                "ફટકારવું",
+                                "hit",
+                                "hit"
+                            ],
+                            [
+                                "hold",
+                                "પકડવું",
+                                "held",
+                                "held"
+                            ],
+                            [
+                                "hurt",
+                                "ઈજા પહોંચાડવી",
+                                "hurt",
+                                "hurt"
+                            ],
+                            [
+                                "keep",
+                                "રાખવું",
+                                "kept",
+                                "kept"
+                            ],
+                            [
+                                "kneel",
+                                "ઘૂંટણિયે પડવું",
+                                "knelt",
+                                "knelt"
+                            ],
+                            [
+                                "know",
+                                "જાણવું",
+                                "knew",
+                                "known"
+                            ],
+                            [
+                                "lay",
+                                "મૂકવું",
+                                "laid",
+                                "laid"
+                            ],
+                            [
+                                "lead",
+                                "દોરી જવું",
+                                "led",
+                                "led"
+                            ],
+                            [
+                                "lean",
+                                "નમવું, ટેકો લેવો",
+                                "leant / leaned",
+                                "leant / leaned"
+                            ],
+                            [
+                                "learn",
+                                "શીખવું",
+                                "learnt / learned",
+                                "learnt / learned"
+                            ],
+                            [
+                                "leave",
+                                "છોડી દેવું",
+                                "left",
+                                "left"
+                            ],
+                            [
+                                "lend",
+                                "ઉછીનું આપવું",
+                                "lent",
+                                "lent"
+                            ],
+                            [
+                                "let",
+                                "છૂટ આપવી",
+                                "let",
+                                "let"
+                            ],
+                            [
+                                "lie",
+                                "જૂઠું બોલવું",
+                                "lied",
+                                "lied"
+                            ],
+                            [
+                                "lie",
+                                "આડા પડવું / સૂવું",
+                                "lay",
+                                "lain"
+                            ],
+                            [
+                                "light",
+                                "પ્રકાશિત કરવું",
+                                "lit / lighted",
+                                "lit / lighted"
+                            ],
+                            [
+                                "lose",
+                                "ગુમાવવું",
+                                "lost",
+                                "lost"
+                            ],
+                            [
+                                "make",
+                                "બનાવવું",
+                                "made",
+                                "made"
+                            ],
+                            [
+                                "mean",
+                                "અર્થ હોવો",
+                                "meant",
+                                "meant"
+                            ],
+                            [
+                                "meet",
+                                "મળવું",
+                                "met",
+                                "met"
+                            ],
+                            [
+                                "pay",
+                                "ચૂકવવું",
+                                "paid",
+                                "paid"
+                            ],
+                            [
+                                "put",
+                                "મૂકવું",
+                                "put",
+                                "put"
+                            ],
+                            [
+                                "quit",
+                                "છોડી દેવું",
+                                "quit / quitted",
+                                "quit / quitted"
+                            ],
+                            [
+                                "read",
+                                "વાંચવું",
+                                "read",
+                                "read"
+                            ],
+                            [
+                                "ride",
+                                "સવારી કરવી",
+                                "rode",
+                                "ridden"
+                            ],
+                            [
+                                "ring",
+                                "વગાડવું",
+                                "rang",
+                                "rung"
+                            ],
+                            [
+                                "rise",
+                                "ઉગવું",
+                                "rose",
+                                "risen"
+                            ],
+                            [
+                                "run",
+                                "દોડવું",
+                                "ran",
+                                "run"
+                            ],
+                            [
+                                "say",
+                                "કહેવું",
+                                "said",
+                                "said"
+                            ],
+                            [
+                                "see",
+                                "જોવું",
+                                "saw",
+                                "seen"
+                            ],
+                            [
+                                "sell",
+                                "વેચવું",
+                                "sold",
+                                "sold"
+                            ],
+                            [
+                                "send",
+                                "મોકલવું",
+                                "sent",
+                                "sent"
+                            ],
+                            [
+                                "set",
+                                "આથમવું, ગોઠવવું",
+                                "set",
+                                "set"
+                            ],
+                            [
+                                "shake",
+                                "હલાવવું",
+                                "shook",
+                                "shaken"
+                            ],
+                            [
+                                "shine",
+                                "ચમકવું",
+                                "shone",
+                                "shone"
+                            ],
+                            [
+                                "shoot",
+                                "ગોળી મારવી",
+                                "shot",
+                                "shot"
+                            ],
+                            [
+                                "show",
+                                "બતાવવું",
+                                "showed",
+                                "shown"
+                            ],
+                            [
+                                "shrink",
+                                "સંકોચાવું",
+                                "shrank / shrunk",
+                                "shrunk"
+                            ],
+                            [
+                                "shut",
+                                "બંધ કરવું",
+                                "shut",
+                                "shut"
+                            ],
+                            [
+                                "sing",
+                                "ગાવું",
+                                "sang",
+                                "sung"
+                            ],
+                            [
+                                "sink",
+                                "ડૂબવું",
+                                "sank",
+                                "sunk"
+                            ],
+                            [
+                                "sit",
+                                "બેસવું",
+                                "sat",
+                                "sat"
+                            ],
+                            [
+                                "sleep",
+                                "સૂવું",
+                                "slept",
+                                "slept"
+                            ],
+                            [
+                                "slide",
+                                "લપસવું",
+                                "slid",
+                                "slid"
+                            ],
+                            [
+                                "smell",
+                                "સુંઘવું",
+                                "smelt / smelled",
+                                "smelt / smelled"
+                            ],
+                            [
+                                "speak",
+                                "બોલવું",
+                                "spoke",
+                                "spoken"
+                            ],
+                            [
+                                "speed",
+                                "ઝડપ વધારવી",
+                                "sped",
+                                "sped"
+                            ],
+                            [
+                                "spell",
+                                "જોડણી કરવી",
+                                "spelt / spelled",
+                                "spelt / spelled"
+                            ],
+                            [
+                                "spend",
+                                "ખર્ચવું",
+                                "spent",
+                                "spent"
+                            ],
+                            [
+                                "spill",
+                                "ઢોળવું / છલકાવું",
+                                "spilt / spilled",
+                                "spilt / spilled"
+                            ],
+                            [
+                                "spin",
+                                "ફરવું / સૂતર કાંતવું",
+                                "spun / span",
+                                "spun"
+                            ],
+                            [
+                                "spit",
+                                "થૂંકવું",
+                                "spat / spit",
+                                "spat / spit"
+                            ],
+                            [
+                                "split",
+                                "વિભાજિત કરવું / ફાડવું",
+                                "split",
+                                "split"
+                            ],
+                            [
+                                "spoil",
+                                "બગાડવું",
+                                "spoilt / spoiled",
+                                "spoilt / spoiled"
+                            ],
+                            [
+                                "spread",
+                                "ફેલાવવું",
+                                "spread",
+                                "spread"
+                            ],
+                            [
+                                "stand",
+                                "ઉભા રહેવું",
+                                "stood",
+                                "stood"
+                            ],
+                            [
+                                "steal",
+                                "ચોરી કરવી",
+                                "stole",
+                                "stolen"
+                            ],
+                            [
+                                "stick",
+                                "ચોંટવું / લગાવવું",
+                                "stuck",
+                                "stuck"
+                            ],
+                            [
+                                "sting",
+                                "ડંખ મારવો",
+                                "stung",
+                                "stung"
+                            ],
+                            [
+                                "strike",
+                                "ત્રાટકવું / પ્રહાર કરવો",
+                                "struck",
+                                "struck"
+                            ],
+                            [
+                                "swear",
+                                "સોગંદ લેવા",
+                                "swore",
+                                "sworn"
+                            ],
+                            [
+                                "sweep",
+                                "વાળવું / ઝાડવું",
+                                "swept",
+                                "swept"
+                            ],
+                            [
+                                "swim",
+                                "તરવું",
+                                "swam",
+                                "swum"
+                            ],
+                            [
+                                "swing",
+                                "ઝૂલવું",
+                                "swung",
+                                "swung"
+                            ],
+                            [
+                                "take",
+                                "લેવું",
+                                "took",
+                                "taken"
+                            ],
+                            [
+                                "teach",
+                                "શીખવવું",
+                                "taught",
+                                "taught"
+                            ],
+                            [
+                                "tear",
+                                "ફાડી નાખવું",
+                                "tore",
+                                "torn"
+                            ],
+                            [
+                                "tell",
+                                "કહેવું",
+                                "told",
+                                "told"
+                            ],
+                            [
+                                "think",
+                                "વિચારવું",
+                                "thought",
+                                "thought"
+                            ],
+                            [
+                                "throw",
+                                "ફેંકવું",
+                                "threw",
+                                "thrown"
+                            ],
+                            [
+                                "understand",
+                                "સમજવું",
+                                "understood",
+                                "understood"
+                            ],
+                            [
+                                "wake",
+                                "જાગવું",
+                                "woke",
+                                "woken"
+                            ],
+                            [
+                                "wear",
+                                "પહેરવું",
+                                "wore",
+                                "worn"
+                            ],
+                            [
+                                "win",
+                                "જીતવું",
+                                "won",
+                                "won"
+                            ],
+                            [
+                                "wind",
+                                "વીંટાળવું / ચાવી ભરવી",
+                                "wound",
+                                "wound"
+                            ],
+                            [
+                                "write",
+                                "લખવું",
+                                "wrote",
+                                "written"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Verbs with Special Adjective Forms (વિશેષણ તરીકે વપરાતા રૂપો)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Past vs Adjective Forms",
+                        "headers": [
+                            "V1 (Mool Rup)",
+                            "V2 (Bhootkal)",
+                            "V3 (Bhootkrudant)",
+                            "V3 as Adjective"
+                        ],
+                        "rows": [
+                            [
+                                "Bind (બાંધવું)",
+                                "bound",
+                                "bound",
+                                "bounden"
+                            ],
+                            [
+                                "Drink (પીવું)",
+                                "drank",
+                                "drunk",
+                                "drunken"
+                            ],
+                            [
+                                "Get (મેળવવું)",
+                                "got",
+                                "got",
+                                "gotten"
+                            ],
+                            [
+                                "Shrink (સંકોચાવું)",
+                                "shrank",
+                                "shrunk",
+                                "shrunken"
+                            ],
+                            [
+                                "Sink (ડૂબવું)",
+                                "sank",
+                                "sunk",
+                                "sunken"
+                            ],
+                            [
+                                "Strike (મારવું)",
+                                "struck",
+                                "struck",
+                                "stricken"
+                            ],
+                            [
+                                "Cleave (ફાડવું/ચીરવું)",
+                                "cleft / clove",
+                                "cleft",
+                                "cloven"
+                            ],
+                            [
+                                "Engrave (કોતરવું)",
+                                "engraved",
+                                "engraved",
+                                "engraven"
+                            ],
+                            [
+                                "Melt (પીગળવું)",
+                                "melted",
+                                "melted",
+                                "molten"
+                            ],
+                            [
+                                "Seethe (ઉકળવું)",
+                                "seethed",
+                                "seethed",
+                                "sodden"
+                            ],
+                            [
+                                "Shear (કાતરવું)",
+                                "sheared",
+                                "sheared",
+                                "shorn"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "list",
+                    "title": "Examples of Difference",
+                    "content": [
+                        "A sheep has **sunk** just now. (Verb - ભૂતકૃદંત)",
+                        "It was a **sunken** ship. (Adjective - વિશેષણ)",
+                        "He has **drunk** much. (Verb - ભૂતકૃદંત)",
+                        "He was a much **drunken** man. (Adjective - વિશેષણ)"
+                    ]
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Note:</b> For 'Learn', both **learnt** and **learned** are V2/V3 forms. However, 'learned' is also used as an Adjective (e.g., A learned man), while 'learnt' is not."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Confusing Verbs (ખાસ યાદ રાખવા)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Commonly Confused Pairs",
+                        "headers": [
+                            "V1 (Mool Rup)",
+                            "V2 (Bhootkal)",
+                            "V3 (Bhootkrudant)"
+                        ],
+                        "rows": [
+                            [
+                                "Lie (ખોટું બોલવું)",
+                                "lied",
+                                "lied"
+                            ],
+                            [
+                                "Lie (આડા પડવું)",
+                                "lay",
+                                "lain"
+                            ],
+                            [
+                                "Lay (મૂકવું / ઈંડા મૂકવા)",
+                                "laid",
+                                "laid"
+                            ],
+                            [
+                                "Rise (ઉગવું / ઉઠવું)",
+                                "rose",
+                                "risen"
+                            ],
+                            [
+                                "Raise (ઉચકવું / ઉભું કરવું)",
+                                "raised",
+                                "raised"
+                            ],
+                            [
+                                "Find (શોધવું)",
+                                "found",
+                                "found"
+                            ],
+                            [
+                                "Found (સ્થાપના કરવી)",
+                                "founded",
+                                "founded"
+                            ],
+                            [
+                                "Hang (લટકાવવું - વસ્તુ)",
+                                "hung",
+                                "hung"
+                            ],
+                            [
+                                "Hang (ફાંસી આપવી)",
+                                "hanged",
+                                "hanged"
+                            ],
+                            [
+                                "Bear (સહન કરવું)",
+                                "bore",
+                                "borne"
+                            ],
+                            [
+                                "Bear (જન્મ આપવો)",
+                                "bore",
+                                "born"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Note:</b> Born vs Borne:<br/>- **Born** is used for birth (Passive voice). Ex: I was born in India.<br/>- **Borne** is used for carrying/tolerating. Ex: He has borne the pain."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Invent vs Discover",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Word",
+                            "Meaning",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "**Invent**",
+                                "નવી વસ્તુ બનાવવી (આવિષ્કાર)",
+                                "Graham Bell **invented** the telephone."
+                            ],
+                            [
+                                "**Discover**",
+                                "હયાત વસ્તુ શોધવી (શોધ)",
+                                "Columbus **discovered** America."
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

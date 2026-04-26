@@ -1,0 +1,76 @@
+{
+  "id": "level-3",
+  "title": "More Question Words",
+  "words": [
+    {
+      "word": "How",
+      "gujaratiPronunciation": "હાઉ",
+      "hindiPronunciation": "हाउ",
+      "gujaratiMeaning": "કેવી રીતે",
+      "hindiMeaning": "कैसे",
+      "exampleSentences": [
+        {
+          "sentence": "How are you?",
+          "gujaratiTranslation": "તમે કેમ છો?",
+          "hindiTranslation": "आप कैसे हैं?"
+        }
+      ]
+    },
+    {
+      "word": "Which",
+      "gujaratiPronunciation": "વિચ",
+      "hindiPronunciation": "विच",
+      "gujaratiMeaning": "કયું",
+      "hindiMeaning": "कौन सा",
+      "exampleSentences": [
+        {
+          "sentence": "Which color do you like?",
+          "gujaratiTranslation": "તમને કયો રંગ ગમે છે?",
+          "hindiTranslation": "आपको कौन सा रंग पसंद है?"
+        }
+      ]
+    },
+    {
+      "word": "Whose",
+      "gujaratiPronunciation": "હુઝ",
+      "hindiPronunciation": "हूज़",
+      "gujaratiMeaning": "કોનું",
+      "hindiMeaning": "किसका",
+      "exampleSentences": [
+        {
+          "sentence": "Whose book is this?",
+          "gujaratiTranslation": "આ કોનું પુસ્તક છે?",
+          "hindiTranslation": "यह किसकी किताब है?"
+        }
+      ]
+    },
+    {
+      "word": "Whom",
+      "gujaratiPronunciation": "હુમ",
+      "hindiPronunciation": "हुम",
+      "gujaratiMeaning": "કોને",
+      "hindiMeaning": "किसे",
+      "exampleSentences": [
+        {
+          "sentence": "Whom did you meet?",
+          "gujaratiTranslation": "તમે કોને મળ્યા?",
+          "hindiTranslation": "तुम किससे मिले?"
+        }
+      ]
+    },
+    {
+      "word": "How many",
+      "gujaratiPronunciation": "હાઉ મેની",
+      "hindiPronunciation": "हाउ मेनी",
+      "gujaratiMeaning": "કેટલા",
+      "hindiMeaning": "कितने",
+      "exampleSentences": [
+        {
+          "sentence": "How many apples are there?",
+          "gujaratiTranslation": "ત્યાં કેટલા સફરજન છે?",
+          "hindiTranslation": "वहाँ कितने सेब हैं?"
+        }
+      ]
+    }
+  ]
+}

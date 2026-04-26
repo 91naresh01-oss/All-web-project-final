@@ -1,0 +1,76 @@
+{
+  "id": "level-5",
+  "title": "Measurements 5",
+  "words": [
+    {
+      "word": "Temperature",
+      "gujaratiPronunciation": "ટેમ્પરેચર",
+      "hindiPronunciation": "टेમ્પरेचर",
+      "gujaratiMeaning": "તાપમાન",
+      "hindiMeaning": "तापमान",
+      "exampleSentences": [
+        {
+          "sentence": "The temperature is 30 degrees Celsius.",
+          "gujaratiTranslation": "તાપમાન 30 ડિગ્રી સેલ્સિયસ છે.",
+          "hindiTranslation": "तापमान 30 डिग्री सेल्सियस है।"
+        }
+      ]
+    },
+    {
+      "word": "Speed",
+      "gujaratiPronunciation": "સ્પીડ",
+      "hindiPronunciation": "स्पीड",
+      "gujaratiMeaning": "ઝડપ",
+      "hindiMeaning": "गति",
+      "exampleSentences": [
+        {
+          "sentence": "The car is moving at a high speed.",
+          "gujaratiTranslation": "કાર વધુ ઝડપે આગળ વધી રહી છે.",
+          "hindiTranslation": "कार तेज गति से चल रही है।"
+        }
+      ]
+    },
+    {
+      "word": "Pressure",
+      "gujaratiPronunciation": "પ્રેશર",
+      "hindiPronunciation": "प्रेशर",
+      "gujaratiMeaning": "દબાણ",
+      "hindiMeaning": "दबाव",
+      "exampleSentences": [
+        {
+          "sentence": "The tire pressure is low.",
+          "gujaratiTranslation": "ટાયરનું દબાણ ઓછું છે.",
+          "hindiTranslation": "टायर का दबाव कम है।"
+        }
+      ]
+    },
+    {
+      "word": "Density",
+      "gujaratiPronunciation": "ડેન્સિટી",
+      "hindiPronunciation": "डेंसिटी",
+      "gujaratiMeaning": "ઘનતા",
+      "hindiMeaning": "घनत्व",
+      "exampleSentences": [
+        {
+          "sentence": "Lead has a high density.",
+          "gujaratiTranslation": "સીસાની ઘનતા વધુ હોય છે.",
+          "hindiTranslation": "सीसे का घनत्व अधिक होता है।"
+        }
+      ]
+    },
+    {
+      "word": "Measurement",
+      "gujaratiPronunciation": "મેઝરમેન્ટ",
+      "hindiPronunciation": "मेज़रमेंट",
+      "gujaratiMeaning": "માપ",
+      "hindiMeaning": "माप",
+      "exampleSentences": [
+        {
+          "sentence": "Accurate measurement is important.",
+          "gujaratiTranslation": "ચોક્કસ માપ મહત્વનું છે.",
+          "hindiTranslation": "सटीक माप महत्वपूर्ण है।"
+        }
+      ]
+    }
+  ]
+}

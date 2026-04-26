@@ -1,0 +1,148 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Encrypt",
+      "gujaratiPronunciation": "એન્ક્રિપ્ટ",
+      "hindiPronunciation": "एन्क्रिप्ट",
+      "gujaratiMeaning": "ગુપ્ત લિપિમાં લખવું",
+      "hindiMeaning": "कूटबद्ध करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Encrypt", "gujaratiPronunciation": "એન્ક્રિપ્ટ", "hindiPronunciation": "एन्क्रिप्ट", "gujaratiMeaning": "ગુપ્ત લિપિમાં લખવું", "hindiMeaning": "कूटबद्ध करना" },
+        "V2 (Past)": { "word": "Encrypted", "gujaratiPronunciation": "એન્ક્રિપ્ટેડ", "hindiPronunciation": "एन्क्रिप्टेड", "gujaratiMeaning": "ગુપ્ત લિપિમાં લખ્યું", "hindiMeaning": "कूटबद्ध किया" },
+        "V3 (Past Participle)": { "word": "Encrypted", "gujaratiPronunciation": "એન્ક્રિપ્ટેડ", "hindiPronunciation": "एन्क्रिप्टेड", "gujaratiMeaning": "ગુપ્ત લિપિમાં લખેલું", "hindiMeaning": "कूटबद्ध किया हुआ" },
+        "V4 (Present Participle)": { "word": "Encrypting", "gujaratiPronunciation": "એન્ક્રિપ્ટિંગ", "hindiPronunciation": "एन्क्रिप्टिंग", "gujaratiMeaning": "ગુપ્ત લિપિમાં લખી રહ્યું છે", "hindiMeaning": "कूटबद्ध कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Encode", "gujaratiPronunciation": "એન્કોડ", "hindiPronunciation": "एन्कोड", "gujaratiMeaning": "સંકેતલિપિમાં ફેરવવું", "hindiMeaning": "सांकेतिक शब्दों में बदलना" },
+        { "word": "Cipher", "gujaratiPronunciation": "સાયફર", "hindiPronunciation": "साइफर", "gujaratiMeaning": "ગુપ્ત ભાષામાં લખવું", "hindiMeaning": "गुप्त भाषा में लिखना" }
+      ],
+      "antonyms": [
+        { "word": "Decrypt", "gujaratiPronunciation": "ડિક્રિપ્ટ", "hindiPronunciation": "डिक्रिप्ट", "gujaratiMeaning": "ગુપ્ત લિપિ ઉકેલવી", "hindiMeaning": "कूटबद्ध लेख का अर्थ निकालना" },
+        { "word": "Decipher", "gujaratiPronunciation": "ડિસાઇફર", "hindiPronunciation": "डिसाइफर", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "गूढ़लिपि पढ़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Erupt", "gujaratiPronunciation": "ઇરપ્ટ", "hindiPronunciation": "इरप्ट", "gujaratiMeaning": "ફાટી નીકળવું", "hindiMeaning": "फूटना" },
+        { "word": "Crypt", "gujaratiPronunciation": "ક્રિપ્ટ", "hindiPronunciation": "क्रिप्ट", "gujaratiMeaning": "ભોંયરું", "hindiMeaning": "तहखाना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "We must encrypt the data for security.", "gujaratiPronunciation": "વી મસ્ટ એન્ક્રિપ્ટ ધ ડેટા ફોર સિક્યોરિટી.", "hindiPronunciation": "वी मस्ट एन्क्रिप्ट द डेटा फॉर सिक्योरिटी।", "gujaratiTranslation": "આપણે સુરક્ષા માટે ડેટાને એન્ક્રિપ્ટ કરવો જ જોઇએ.", "hindiTranslation": "हमें सुरक्षा के लिए डेटा को एन्क्रिप्ट करना होगा।" }
+      ]
+    },
+    {
+      "word": "Decipher",
+      "gujaratiPronunciation": "ડિસાઇફર",
+      "hindiPronunciation": "डिसाइफर",
+      "gujaratiMeaning": "ઉકેલવું",
+      "hindiMeaning": "गूढ़लिपि पढ़ना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Decipher", "gujaratiPronunciation": "ડિસાઇફર", "hindiPronunciation": "डिसाइफर", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "गूढ़लिपि पढ़ना" },
+        "V2 (Past)": { "word": "Deciphered", "gujaratiPronunciation": "ડિસાઇફર્ડ", "hindiPronunciation": "डिसाइफर्ड", "gujaratiMeaning": "ઉકેલ્યું", "hindiMeaning": "पढ़ लिया" },
+        "V3 (Past Participle)": { "word": "Deciphered", "gujaratiPronunciation": "ડિસાઇફર્ડ", "hindiPronunciation": "डिसाइफर्ड", "gujaratiMeaning": "ઉકેલેલું", "hindiMeaning": "पढ़ लिया हुआ" },
+        "V4 (Present Participle)": { "word": "Deciphering", "gujaratiPronunciation": "ડિસાઇફરિંગ", "hindiPronunciation": "डिसाइफरिंग", "gujaratiMeaning": "ઉકેલી રહ્યું છે", "hindiMeaning": "पढ़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Decode", "gujaratiPronunciation": "ડિકોડ", "hindiPronunciation": "डिकोड", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "अर्थ निकालना" },
+        { "word": "Interpret", "gujaratiPronunciation": "ઇન્ટરપ્રિટ", "hindiPronunciation": "इंटरप्रेट", "gujaratiMeaning": "અર્થઘટન કરવું", "hindiMeaning": "व्याख्या करना" }
+      ],
+      "antonyms": [
+        { "word": "Encrypt", "gujaratiPronunciation": "એન્ક્રિપ્ટ", "hindiPronunciation": "एन्क्रिप्ट", "gujaratiMeaning": "ગુપ્ત લિપિમાં લખવું", "hindiMeaning": "कूटबद्ध करना" },
+        { "word": "Encode", "gujaratiPronunciation": "એન્કોડ", "hindiPronunciation": "एन्कोड", "gujaratiMeaning": "સંકેતલિપિમાં ફેરવવું", "hindiMeaning": "सांकेतिक शब्दों में बदलना" }
+      ],
+      "confusingWords": [
+        { "word": "Decisive", "gujaratiPronunciation": "ડિસાઇસિવ", "hindiPronunciation": "डिसाइसिव", "gujaratiMeaning": "નિર્ણાયક", "hindiMeaning": "निर्णायक" }
+      ],
+      "exampleSentences": [
+        { "sentence": "It was difficult to decipher the ancient script.", "gujaratiPronunciation": "ઇટ વોઝ ડિફિકલ્ટ ટુ ડિસાઇફર ધ એન્શિયન્ટ સ્ક્રિપ્ટ.", "hindiPronunciation": "इट वॉज़ डिफिकल्ट टू डिसाइफर द एन्शिएंट स्क्रिप्ट।", "gujaratiTranslation": "પ્રાચીન લિપિને ઉકેલવી મુશ્કેલ હતી.", "hindiTranslation": "प्राचीन लिपि को समझना मुश्किल था।" }
+      ]
+    },
+    {
+      "word": "Suppress",
+      "gujaratiPronunciation": "સપ્રેસ",
+      "hindiPronunciation": "सप्रेस",
+      "gujaratiMeaning": "દબાવી દેવું",
+      "hindiMeaning": "दबाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Suppress", "gujaratiPronunciation": "સપ્રેસ", "hindiPronunciation": "सप्रेस", "gujaratiMeaning": "દબાવી દેવું", "hindiMeaning": "दबाना" },
+        "V2 (Past)": { "word": "Suppressed", "gujaratiPronunciation": "સપ્રેસ્ડ", "hindiPronunciation": "सप्रेस्ड", "gujaratiMeaning": "દબાવી દીધું", "hindiMeaning": "दबा दिया" },
+        "V3 (Past Participle)": { "word": "Suppressed", "gujaratiPronunciation": "સપ્રેસ્ડ", "hindiPronunciation": "सप्रेस्ड", "gujaratiMeaning": "દબાવી દીધેલું", "hindiMeaning": "दबाया हुआ" },
+        "V4 (Present Participle)": { "word": "Suppressing", "gujaratiPronunciation": "સપ્રેસિંગ", "hindiPronunciation": "सप्रेसिंग", "gujaratiMeaning": "દબાવી રહ્યું છે", "hindiMeaning": "दबा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Repress", "gujaratiPronunciation": "રિપ્રેસ", "hindiPronunciation": "रिप्रेस", "gujaratiMeaning": "દમન કરવું", "hindiMeaning": "दमन करना" },
+        { "word": "Subdue", "gujaratiPronunciation": "સબડ્યૂ", "hindiPronunciation": "सबड्यू", "gujaratiMeaning": "વશ કરવું", "hindiMeaning": "वश में करना" }
+      ],
+      "antonyms": [
+        { "word": "Encourage", "gujaratiPronunciation": "એન્કરેજ", "hindiPronunciation": "एन्करेज", "gujaratiMeaning": "પ્રોત્સાહન આપવું", "hindiMeaning": "प्रोत्साहित करना" },
+        { "word": "Release", "gujaratiPronunciation": "રિલીઝ", "hindiPronunciation": "रिलीज़", "gujaratiMeaning": "મુક્ત કરવું", "hindiMeaning": "छोड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Surpass", "gujaratiPronunciation": "સરપાસ", "hindiPronunciation": "सरपास", "gujaratiMeaning": "વટાવી જવું", "hindiMeaning": "आगे निकल जाना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The government tried to suppress the news.", "gujaratiPronunciation": "ધ ગવર્નમેન્ટ ટ્રાઇડ ટુ સપ્રેસ ધ ન્યૂઝ.", "hindiPronunciation": "द गवर्नमेंट ट्राइड टू सप्रेस द न्यूज़।", "gujaratiTranslation": "સરકારે સમાચાર દબાવવાનો પ્રયાસ કર્યો.", "hindiTranslation": "सरकार ने खबर को दबाने की कोशिश की।" }
+      ]
+    },
+    {
+      "word": "Reveal",
+      "gujaratiPronunciation": "રિવિલ",
+      "hindiPronunciation": "रिवील",
+      "gujaratiMeaning": "પ્રગટ કરવું",
+      "hindiMeaning": "प्रकट करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+        "V2 (Past)": { "word": "Revealed", "gujaratiPronunciation": "રિવિલ્ડ", "hindiPronunciation": "रिवील्ड", "gujaratiMeaning": "પ્રગટ કર્યું", "hindiMeaning": "प्रकट किया" },
+        "V3 (Past Participle)": { "word": "Revealed", "gujaratiPronunciation": "રિવિલ્ડ", "hindiPronunciation": "रिवील्ड", "gujaratiMeaning": "પ્રગટ કરેલું", "hindiMeaning": "प्रकट किया हुआ" },
+        "V4 (Present Participle)": { "word": "Revealing", "gujaratiPronunciation": "રિવિલિંગ", "hindiPronunciation": "रिवीलिंग", "gujaratiMeaning": "પ્રગટ કરી રહ્યું છે", "hindiMeaning": "प्रकट कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Disclose", "gujaratiPronunciation": "ડિસ્ક્લોઝ", "hindiPronunciation": "डिस्क्लोज़", "gujaratiMeaning": "જાહેર કરવું", "hindiMeaning": "खुलासा करना" },
+        { "word": "Unveil", "gujaratiPronunciation": "અનવેઇલ", "hindiPronunciation": "अनवेल", "gujaratiMeaning": "પડદો ઉઠાવવો", "hindiMeaning": "पर्दा उठाना" }
+      ],
+      "antonyms": [
+        { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Rebel", "gujaratiPronunciation": "રિબેલ", "hindiPronunciation": "रिबेल", "gujaratiMeaning": "બળવો કરવો", "hindiMeaning": "विद्रोह करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The evidence will reveal the truth.", "gujaratiPronunciation": "ધ એવિડન્સ વિલ રિવિલ ધ ટ્રુથ.", "hindiPronunciation": "द एविडेंस विल रिवील द ट्रुथ।", "gujaratiTranslation": "પુરાવા સત્યને ઉજાગર કરશે.", "hindiTranslation": "सबूत सच्चाई को उजागर करेंगे।" }
+      ]
+    },
+    {
+      "word": "Unmask",
+      "gujaratiPronunciation": "અનમાસ્ક",
+      "hindiPronunciation": "अनमास्क",
+      "gujaratiMeaning": "મહોરું ઉતારવું",
+      "hindiMeaning": "बेनकाब करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Unmask", "gujaratiPronunciation": "અનમાસ્ક", "hindiPronunciation": "अनमास्क", "gujaratiMeaning": "મહોરું ઉતારવું", "hindiMeaning": "बेनकाब करना" },
+        "V2 (Past)": { "word": "Unmasked", "gujaratiPronunciation": "અનમાસ્ક્ડ", "hindiPronunciation": "अनमास्क्ड", "gujaratiMeaning": "મહોરું ઉતાર્યું", "hindiMeaning": "बेनकाब किया" },
+        "V3 (Past Participle)": { "word": "Unmasked", "gujaratiPronunciation": "અનમાસ્ક્ડ", "hindiPronunciation": "अनमास्क्ड", "gujaratiMeaning": "મહોરું ઉતારેલું", "hindiMeaning": "बेनकाब किया हुआ" },
+        "V4 (Present Participle)": { "word": "Unmasking", "gujaratiPronunciation": "અનમાસ્કિંગ", "hindiPronunciation": "अनमास्किंग", "gujaratiMeaning": "મહોરું ઉતારી રહ્યું છે", "hindiMeaning": "बेनकाब कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Expose", "gujaratiPronunciation": "એક્સપોઝ", "hindiPronunciation": "एक्सपोज़", "gujaratiMeaning": "ખુલ્લું પાડવું", "hindiMeaning": "खुला करना" },
+        { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" }
+      ],
+      "antonyms": [
+        { "word": "Mask", "gujaratiPronunciation": "માસ્ક", "hindiPronunciation": "मास्क", "gujaratiMeaning": "મહોરું પહેરાવવું", "hindiMeaning": "नकाब लगाना" },
+        { "word": "Disguise", "gujaratiPronunciation": "ડિસ્ગાઇઝ", "hindiPronunciation": "डिस्गाइज़", "gujaratiMeaning": "વેશપલટો કરવો", "hindiMeaning": "भेष बदलना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        { "sentence": "The investigation helped to unmask the real criminal.", "gujaratiPronunciation": "ધ ઇન્વેસ્ટિગેશન હેલ્પ્ડ ટુ અનમાસ્ક ધ રિયલ ક્રિમિનલ.", "hindiPronunciation": "द इन्वेस्टिगेशन हेल्प्ड टू अनमास्क द रियल क्रिमिनल।", "gujaratiTranslation": "તપાસે વાસ્તવિક ગુનેગારને બેનકાબ કરવામાં મદદ કરી.", "hindiTranslation": "जांच ने असली अपराधी को बेनकाब करने में मदद की।" }
+      ]
+    }
+  ]
+}
+
+    

@@ -1,0 +1,47 @@
+
+{
+    "id": "level-4",
+    "title": "Colors 4",
+    "words": [
+        {
+            "word": "Peach",
+            "icon": "🍑",
+            "gujaratiPronunciation": "પીચ",
+            "hindiPronunciation": "पीच",
+            "gujaratiMeaning": "આછો ગુલાબી-પીળો",
+            "hindiMeaning": "आड़ू रंग"
+        },
+        {
+            "word": "Indigo",
+            "icon": "💙",
+            "gujaratiPronunciation": "ઇન્ડિગો",
+            "hindiPronunciation": "इंडिगो",
+            "gujaratiMeaning": "ઘેરો વાદળી",
+            "hindiMeaning": "गहरा नीला"
+        },
+        {
+            "word": "Maroon",
+            "icon": "🤎",
+            "gujaratiPronunciation": "મરૂન",
+            "hindiPronunciation": "मरून",
+            "gujaratiMeaning": "ઘેરો લાલ-ભૂરો",
+            "hindiMeaning": "गहरा लाल-भूरा"
+        },
+        {
+            "word": "Olive",
+            "icon": "🫒",
+            "gujaratiPronunciation": "ઓલિવ",
+            "hindiPronunciation": "ओलिव",
+            "gujaratiMeaning": "જેતૂન જેવો રંગ",
+            "hindiMeaning": "जैतून का रंग"
+        },
+        {
+            "word": "Sky",
+            "icon": "☁️",
+            "gujaratiPronunciation": "સ્કાય",
+            "hindiPronunciation": "स्काय",
+            "gujaratiMeaning": "આકાશી",
+            "hindiMeaning": "आसमानी"
+        }
+    ]
+}

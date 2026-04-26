@@ -1,0 +1,176 @@
+{
+  "id": "level-1",
+  "title": "Level 1: Basic Actions",
+  "words": [
+    {
+      "word": "Fight",
+      "gujaratiPronunciation": "ફાઇટ",
+      "hindiPronunciation": "फाइट",
+      "gujaratiMeaning": "લડવું",
+      "hindiMeaning": "लड़ना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Fight", "gujaratiPronunciation": "ફાઇટ", "hindiPronunciation": "फाइट", "gujaratiMeaning": "લડવું", "hindiMeaning": "लड़ना" },
+        "V2 (Past)": { "word": "Fought", "gujaratiPronunciation": "ફોટ", "hindiPronunciation": "फॉट", "gujaratiMeaning": "લડ્યું", "hindiMeaning": "लड़ा" },
+        "V3 (Past Participle)": { "word": "Fought", "gujaratiPronunciation": "ફોટ", "hindiPronunciation": "फॉट", "gujaratiMeaning": "લડેલું", "hindiMeaning": "लड़ा हुआ" },
+        "V4 (Present Participle)": { "word": "Fighting", "gujaratiPronunciation": "ફાઇટિંગ", "hindiPronunciation": "फाइटिंग", "gujaratiMeaning": "લડી રહ્યું છે", "hindiMeaning": "लड़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Battle", "gujaratiPronunciation": "બેટલ", "hindiPronunciation": "बैटल", "gujaratiMeaning": "યુદ્ધ કરવું", "hindiMeaning": "युद्ध करना" },
+        { "word": "Combat", "gujaratiPronunciation": "કોમ્બેટ", "hindiPronunciation": "कॉम्बैट", "gujaratiMeaning": "લડાઈ કરવી", "hindiMeaning": "मुकाबला करना" }
+      ],
+      "antonyms": [
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" },
+        { "word": "Agree", "gujaratiPronunciation": "એગ્રી", "hindiPronunciation": "एग्री", "gujaratiMeaning": "સંમત થવું", "hindiMeaning": "सहमत होना" }
+      ],
+      "confusingWords": [
+        { "word": "Flight", "gujaratiPronunciation": "ફ્લાઇટ", "hindiPronunciation": "फ्लाइट", "gujaratiMeaning": "ઉડાન", "hindiMeaning": "उड़ान" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The soldiers will fight for their country.",
+          "gujaratiTranslation": "સૈનિકો તેમના દેશ માટે લડશે.",
+          "hindiTranslation": "सैनिक अपने देश के लिए लड़ेंगे।",
+          "gujaratiPronunciation": "ધ સોલ્જર્સ વિલ ફાઇટ ફોર ધેર કન્ટ્રી.",
+          "hindiPronunciation": "द सोल्जर्स विल फाइट फॉर देयर कंट्री।"
+        }
+      ]
+    },
+    {
+      "word": "Resist",
+      "gujaratiPronunciation": "રેઝિસ્ટ",
+      "hindiPronunciation": "रेजिस्ट",
+      "gujaratiMeaning": "વિરોધ કરવો",
+      "hindiMeaning": "विरोध करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Resist", "gujaratiPronunciation": "રેઝિસ્ટ", "hindiPronunciation": "रेजिस्ट", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" },
+        "V2 (Past)": { "word": "Resisted", "gujaratiPronunciation": "રેઝિસ્ટેડ", "hindiPronunciation": "रेजिस्टेड", "gujaratiMeaning": "વિરોધ કર્યો", "hindiMeaning": "विरोध किया" },
+        "V3 (Past Participle)": { "word": "Resisted", "gujaratiPronunciation": "રેઝિસ્ટેડ", "hindiPronunciation": "रेजिस्टेड", "gujaratiMeaning": "વિરોધ કરેલ", "hindiMeaning": "विरोध किया हुआ" },
+        "V4 (Present Participle)": { "word": "Resisting", "gujaratiPronunciation": "રેઝિસ્ટિંગ", "hindiPronunciation": "रेजिस्टिंग", "gujaratiMeaning": "વિરોધ કરી રહ્યું છે", "hindiMeaning": "विरोध कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Oppose", "gujaratiPronunciation": "ઓપોઝ", "hindiPronunciation": "अपोज़", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" },
+        { "word": "Withstand", "gujaratiPronunciation": "વિથસ્ટેન્ડ", "hindiPronunciation": "विथस्टैंड", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" }
+      ],
+      "antonyms": [
+        { "word": "Accept", "gujaratiPronunciation": "એક્સેપ્ટ", "hindiPronunciation": "एक्सेप्ट", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" },
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Assist", "gujaratiPronunciation": "અસિસ્ટ", "hindiPronunciation": "असिस्ट", "gujaratiMeaning": "મદદ કરવી", "hindiMeaning": "सहायता करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It's hard to resist a delicious cake.",
+          "gujaratiTranslation": "એક સ્વાદિષ્ટ કેકનો વિરોધ કરવો મુશ્કેલ છે.",
+          "hindiTranslation": "एक स्वादिष्ट केक का विरोध करना मुश्किल है।",
+          "gujaratiPronunciation": "ઇટ્સ હાર્ડ ટુ રેઝિસ્ટ અ ડિલિશિયસ કેક.",
+          "hindiPronunciation": "इट्स हार्ड टू रेजिस्ट अ डिलीशियस केक।"
+        }
+      ]
+    },
+    {
+      "word": "Defend",
+      "gujaratiPronunciation": "ડિફેન્ડ",
+      "hindiPronunciation": "डिफेंड",
+      "gujaratiMeaning": "બચાવ કરવો",
+      "hindiMeaning": "बचाव करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Defend", "gujaratiPronunciation": "ડિફેન્ડ", "hindiPronunciation": "डिफेंड", "gujaratiMeaning": "બચાવ કરવો", "hindiMeaning": "बचाव करना" },
+        "V2 (Past)": { "word": "Defended", "gujaratiPronunciation": "ડિફેન્ડેડ", "hindiPronunciation": "डिफेंडेड", "gujaratiMeaning": "બચાવ કર્યો", "hindiMeaning": "बचाव किया" },
+        "V3 (Past Participle)": { "word": "Defended", "gujaratiPronunciation": "ડિફેન્ડેડ", "hindiPronunciation": "डिफेंडेड", "gujaratiMeaning": "બચાવ કરેલ", "hindiMeaning": "बचाव किया हुआ" },
+        "V4 (Present Participle)": { "word": "Defending", "gujaratiPronunciation": "ડિફેન્ડિંગ", "hindiPronunciation": "डिफेंडिंग", "gujaratiMeaning": "બચાવ કરી રહ્યું છે", "hindiMeaning": "बचाव कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" },
+        { "word": "Guard", "gujaratiPronunciation": "ગાર્ડ", "hindiPronunciation": "गार्ड", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" }
+      ],
+      "antonyms": [
+        { "word": "Attack", "gujaratiPronunciation": "એટેક", "hindiPronunciation": "अटैक", "gujaratiMeaning": "હુમલો કરવો", "hindiMeaning": "आक्रमण करना" },
+        { "word": "Assault", "gujaratiPronunciation": "અસોલ્ટ", "hindiPronunciation": "असॉल्ट", "gujaratiMeaning": "હુમલો કરવો", "hindiMeaning": "हमला करना" }
+      ],
+      "confusingWords": [
+        { "word": "Descend", "gujaratiPronunciation": "ડિસેન્ડ", "hindiPronunciation": "डिसेंड", "gujaratiMeaning": "નીચે ઉતરવું", "hindiMeaning": "नीचे उतरना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The lawyer will defend his client in court.",
+          "gujaratiTranslation": "વકીલ કોર્ટમાં તેના ક્લાયન્ટનો બચાવ કરશે.",
+          "hindiTranslation": "वकील अदालत में अपने मुवक्किल का बचाव करेगा।",
+          "gujaratiPronunciation": "ધ લોયર વિલ ડિફેન્ડ હિઝ ક્લાયન્ટ ઇન કોર્ટ.",
+          "hindiPronunciation": "द लॉयर विल डिफेंड हिज़ क्लाइंट इन कोर्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Oppose",
+      "gujaratiPronunciation": "ઓપોઝ",
+      "hindiPronunciation": "अपोज़",
+      "gujaratiMeaning": "વિરોધ કરવો",
+      "hindiMeaning": "विरोध करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Oppose", "gujaratiPronunciation": "ઓપોઝ", "hindiPronunciation": "अपोज़", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" },
+        "V2 (Past)": { "word": "Opposed", "gujaratiPronunciation": "ઓપોઝ્ડ", "hindiPronunciation": "अपोज्ड", "gujaratiMeaning": "વિરોધ કર્યો", "hindiMeaning": "विरोध किया" },
+        "V3 (Past Participle)": { "word": "Opposed", "gujaratiPronunciation": "ઓપોઝ્ડ", "hindiPronunciation": "अपोज्ड", "gujaratiMeaning": "વિરોધ કરેલ", "hindiMeaning": "विरोध किया हुआ" },
+        "V4 (Present Participle)": { "word": "Opposing", "gujaratiPronunciation": "ઓપોઝિંગ", "hindiPronunciation": "अपोजिंग", "gujaratiMeaning": "વિરોધ કરી રહ્યું છે", "hindiMeaning": "विरोध कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Resist", "gujaratiPronunciation": "રેઝિસ્ટ", "hindiPronunciation": "रेजिस्ट", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" },
+        { "word": "Challenge", "gujaratiPronunciation": "ચેલેન્જ", "hindiPronunciation": "चैलेंज", "gujaratiMeaning": "પડકારવું", "hindiMeaning": "चुनौती देना" }
+      ],
+      "antonyms": [
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" },
+        { "word": "Agree", "gujaratiPronunciation": "એગ્રી", "hindiPronunciation": "एग्री", "gujaratiMeaning": "સંમત થવું", "hindiMeaning": "सहमत होना" }
+      ],
+      "confusingWords": [
+        { "word": "Suppose", "gujaratiPronunciation": "સપોઝ", "hindiPronunciation": "सपोज़", "gujaratiMeaning": "માનવું", "hindiMeaning": "मानना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Many people oppose the new law.",
+          "gujaratiTranslation": "ઘણા લોકો નવા કાયદાનો વિરોધ કરે છે.",
+          "hindiTranslation": "कई लोग नए कानून का विरोध करते हैं।",
+          "gujaratiPronunciation": "મેની પીપલ ઓપોઝ ધ ન્યૂ લો.",
+          "hindiPronunciation": "मेनी पीपल अपोज़ द न्यू लॉ।"
+        }
+      ]
+    },
+    {
+      "word": "Attack",
+      "gujaratiPronunciation": "એટેક",
+      "hindiPronunciation": "अटैक",
+      "gujaratiMeaning": "હુમલો કરવો",
+      "hindiMeaning": "आक्रमण करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Attack", "gujaratiPronunciation": "એટેક", "hindiPronunciation": "अटैक", "gujaratiMeaning": "હુમલો કરવો", "hindiMeaning": "आक्रमण करना" },
+        "V2 (Past)": { "word": "Attacked", "gujaratiPronunciation": "એટેક્ડ", "hindiPronunciation": "अटैक्ड", "gujaratiMeaning": "હુમલો કર્યો", "hindiMeaning": "आक्रमण किया" },
+        "V3 (Past Participle)": { "word": "Attacked", "gujaratiPronunciation": "એટેક્ડ", "hindiPronunciation": "अटैक्ड", "gujaratiMeaning": "હુમલો કરેલ", "hindiMeaning": "आक्रमण किया हुआ" },
+        "V4 (Present Participle)": { "word": "Attacking", "gujaratiPronunciation": "એટેકિંગ", "hindiPronunciation": "अटैकिंग", "gujaratiMeaning": "હુમલો કરી રહ્યું છે", "hindiMeaning": "आक्रमण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Assault", "gujaratiPronunciation": "અસોલ્ટ", "hindiPronunciation": "असॉल्ट", "gujaratiMeaning": "હુમલો કરવો", "hindiMeaning": "हमला करना" },
+        { "word": "Charge", "gujaratiPronunciation": "ચાર્જ", "hindiPronunciation": "चार्ज", "gujaratiMeaning": "આક્રમણ કરવું", "hindiMeaning": "आक्रमण करना" }
+      ],
+      "antonyms": [
+        { "word": "Defend", "gujaratiPronunciation": "ડિફેન્ડ", "hindiPronunciation": "डिफेंड", "gujaratiMeaning": "બચાવ કરવો", "hindiMeaning": "बचाव करना" },
+        { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Attach", "gujaratiPronunciation": "અટેચ", "hindiPronunciation": "अटैच", "gujaratiMeaning": "જોડવું", "hindiMeaning": "जोड़ना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The lion will attack its prey.",
+          "gujaratiTranslation": "સિંહ તેના શિકાર પર હુમલો કરશે.",
+          "hindiTranslation": "शेर अपने शिकार पर हमला करेगा।",
+          "gujaratiPronunciation": "ધ લાયન વિલ એટેક ઇટ્સ પ્રે.",
+          "hindiPronunciation": "द लायन विल अटैक इट्स प्रे।"
+        }
+      ]
+    }
+  ]
+}

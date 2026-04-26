@@ -1,0 +1,491 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Chirp",
+      "gujaratiPronunciation": "ચર્પ",
+      "hindiPronunciation": "चर्प",
+      "gujaratiMeaning": "ચહેકવું (પક્ષી)",
+      "hindiMeaning": "चहकना (पक्षी)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Chirp",
+          "gujaratiPronunciation": "ચર્પ",
+          "hindiPronunciation": "चर्प",
+          "gujaratiMeaning": "ચહેકવું",
+          "hindiMeaning": "चहकना"
+        },
+        "V2 (Past)": {
+          "word": "Chirped",
+          "gujaratiPronunciation": "ચર્પ્ડ",
+          "hindiPronunciation": "चर्प्ड",
+          "gujaratiMeaning": "ચહેક્યું",
+          "hindiMeaning": "चहका"
+        },
+        "V3 (Past Participle)": {
+          "word": "Chirped",
+          "gujaratiPronunciation": "ચર્પ્ડ",
+          "hindiPronunciation": "चर्प्ड",
+          "gujaratiMeaning": "ચહેકેલું",
+          "hindiMeaning": "चहका हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Chirping",
+          "gujaratiPronunciation": "ચર્પિંગ",
+          "hindiPronunciation": "चर्पिंग",
+          "gujaratiMeaning": "ચહેકી રહ્યું છે",
+          "hindiMeaning": "चहक रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Tweet",
+          "gujaratiPronunciation": "ટ્વીટ",
+          "hindiPronunciation": "ट्वीट",
+          "gujaratiMeaning": "ચિવચિવાટ કરવો",
+          "hindiMeaning": "चहचहाना"
+        },
+        {
+          "word": "Peep",
+          "gujaratiPronunciation": "પીપ",
+          "hindiPronunciation": "पीप",
+          "gujaratiMeaning": "ચીં ચીં કરવું",
+          "hindiMeaning": "चीं-चीं करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Croak",
+          "gujaratiPronunciation": "ક્રોક",
+          "hindiPronunciation": "क्रोक",
+          "gujaratiMeaning": "ડ્રાંઉં ડ્રાંઉં કરવું (દેડકો)",
+          "hindiMeaning": "टर्राना (मेंढक)"
+        },
+        {
+          "word": "Howl",
+          "gujaratiPronunciation": "હાઉલ",
+          "hindiPronunciation": "हाउल",
+          "gujaratiMeaning": "ઓહળવું (વરુ)",
+          "hindiMeaning": "हूँकना (भेड़िया)"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Chip",
+          "gujaratiPronunciation": "ચિપ",
+          "hindiPronunciation": "चिप",
+          "gujaratiMeaning": "ટુકડો/કાતરી",
+          "hindiMeaning": "टुकड़ा/चिप्स",
+          "difference": "Chirp એટલે પક્ષીઓનું બોલવું, Chip એટલે ટુકડો."
+        },
+        {
+          "word": "Chair",
+          "gujaratiPronunciation": "ચેર",
+          "hindiPronunciation": "चेयर",
+          "gujaratiMeaning": "ખુરશી",
+          "hindiMeaning": "कुर्सी",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The birds began to chirp as the sun rose.",
+          "gujaratiPronunciation": "ધ બર્ડ્સ બિગેન ટુ ચર્પ એઝ ધ સન રોઝ.",
+          "hindiPronunciation": "द बर्ड्स बिगेन टू चर्प एज द सन रोज।",
+          "gujaratiTranslation": "સૂર્યોદય થતાં જ પક્ષીઓ ચહેકવા લાગ્યા.",
+          "hindiTranslation": "सूरज उगते ही पक्षी चहकने लगे।"
+        }
+      ]
+    },
+    {
+      "word": "Chime",
+      "gujaratiPronunciation": "ચાઇમ",
+      "hindiPronunciation": "चाइम",
+      "gujaratiMeaning": "ઘંટડીનો રણકાર",
+      "hindiMeaning": "घंटी की झंकार",
+      "partOfSpeech": "Noun/Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Chime",
+          "gujaratiPronunciation": "ચાઇમ",
+          "hindiPronunciation": "चाइम",
+          "gujaratiMeaning": "રણકાર કરવો",
+          "hindiMeaning": "झंकारना"
+        },
+        "V2 (Past)": {
+          "word": "Chimed",
+          "gujaratiPronunciation": "ચાઇમ્ડ",
+          "hindiPronunciation": "चाइम्ड",
+          "gujaratiMeaning": "રણકાર કર્યો",
+          "hindiMeaning": "झंकार हुई"
+        },
+        "V3 (Past Participle)": {
+          "word": "Chimed",
+          "gujaratiPronunciation": "ચાઇમ્ડ",
+          "hindiPronunciation": "चाइम्ड",
+          "gujaratiMeaning": "રણકાર કરેલો",
+          "hindiMeaning": "झंकारित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Chiming",
+          "gujaratiPronunciation": "ચાઇમિંગ",
+          "hindiPronunciation": "चाइमिंग",
+          "gujaratiMeaning": "રણકાર કરી રહ્યું છે",
+          "hindiMeaning": "झंकार रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Ring",
+          "gujaratiPronunciation": "રિંગ",
+          "hindiPronunciation": "रिंग",
+          "gujaratiMeaning": "વાગવું",
+          "hindiMeaning": "बजना"
+        },
+        {
+          "word": "Tinkle",
+          "gujaratiPronunciation": "ટિંકલ",
+          "hindiPronunciation": "टिंकल",
+          "gujaratiMeaning": "ખણખણાટ",
+          "hindiMeaning": "टनटनाहट"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Clang",
+          "gujaratiPronunciation": "ક્લેંગ",
+          "hindiPronunciation": "क्लैंग",
+          "gujaratiMeaning": "ખખડાટ",
+          "hindiMeaning": "खटाखट"
+        },
+        {
+          "word": "Crash",
+          "gujaratiPronunciation": "ક્રેશ",
+          "hindiPronunciation": "क्रैश",
+          "gujaratiMeaning": "ધડાકો",
+          "hindiMeaning": "धमाका"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Crime",
+          "gujaratiPronunciation": "ક્રાઇમ",
+          "hindiPronunciation": "क्राइम",
+          "gujaratiMeaning": "ગુનો",
+          "hindiMeaning": "अपराध",
+          "difference": "Chime એટલે રણકાર, Crime એટલે ગુનો."
+        },
+        {
+          "word": "Lime",
+          "gujaratiPronunciation": "લાઇમ",
+          "hindiPronunciation": "लाइम",
+          "gujaratiMeaning": "લીંબુ",
+          "hindiMeaning": "नींबू",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The doorbell chimed, and I went to answer it.",
+          "gujaratiPronunciation": "ધ ડોરબેલ ચાઇમ્ડ, એન્ડ આઇ વેન્ટ ટુ આન્સર ઇટ.",
+          "hindiPronunciation": "द डोरबेल चाइम्ड, एंड आई वेंट टू आंसर इट।",
+          "gujaratiTranslation": "દરવાજાની ઘંટડી વાગી, અને હું જવાબ આપવા ગયો.",
+          "hindiTranslation": "दरवाजे की घंटी बजी, और मैं जवाब देने गया।"
+        }
+      ]
+    },
+    {
+      "word": "Ring",
+      "gujaratiPronunciation": "રિંગ",
+      "hindiPronunciation": "रिंग",
+      "gujaratiMeaning": "વાગવું/વીંટી",
+      "hindiMeaning": "बजना/अंगूठी",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Ring",
+          "gujaratiPronunciation": "રિંગ",
+          "hindiPronunciation": "रिंग",
+          "gujaratiMeaning": "વાગવું",
+          "hindiMeaning": "बजना"
+        },
+        "V2 (Past)": {
+          "word": "Rang",
+          "gujaratiPronunciation": "રેંગ",
+          "hindiPronunciation": "रैंग",
+          "gujaratiMeaning": "વાગ્યું",
+          "hindiMeaning": "बजा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Rung",
+          "gujaratiPronunciation": "રંગ",
+          "hindiPronunciation": "रंग",
+          "gujaratiMeaning": "વાગેલું",
+          "hindiMeaning": "बजा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Ringing",
+          "gujaratiPronunciation": "રિંગિંગ",
+          "hindiPronunciation": "रिंगिंग",
+          "gujaratiMeaning": "વાગી રહ્યું છે",
+          "hindiMeaning": "बज रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Chime",
+          "gujaratiPronunciation": "ચાઇમ",
+          "hindiPronunciation": "चाइम",
+          "gujaratiMeaning": "રણકાર કરવો",
+          "hindiMeaning": "झंकारना"
+        },
+        {
+          "word": "Toll",
+          "gujaratiPronunciation": "ટોલ",
+          "hindiPronunciation": "टोल",
+          "gujaratiMeaning": "ઘંટ વગાડવો",
+          "hindiMeaning": "घंटा बजाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Be silent",
+          "gujaratiPronunciation": "બી સાઈલન્ટ",
+          "hindiPronunciation": "बी साइलेंट",
+          "gujaratiMeaning": "શાંત રહેવું",
+          "hindiMeaning": "शांत रहना"
+        },
+        {
+          "word": "Hush",
+          "gujaratiPronunciation": "હશ",
+          "hindiPronunciation": "हश",
+          "gujaratiMeaning": "ચૂપ રહેવું",
+          "hindiMeaning": "चुप रहना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Wing",
+          "gujaratiPronunciation": "વિંગ",
+          "hindiPronunciation": "विंग",
+          "gujaratiMeaning": "પાંખ",
+          "hindiMeaning": "पंख",
+          "difference": "Ring એટલે વાગવું, Wing એટલે પાંખ."
+        },
+        {
+          "word": "Wring",
+          "gujaratiPronunciation": "રિંગ",
+          "hindiPronunciation": "रिंग",
+          "gujaratiMeaning": "નીચોવવું",
+          "hindiMeaning": "निचोड़ना",
+          "difference": "બંનેનો ઉચ્ચાર સમાન છે, પરંતુ Ring એટલે ઘંટડી વાગવી અને Wring એટલે કપડાં નીચોવવા."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The telephone started to ring.",
+          "gujaratiPronunciation": "ધ ટેલિફોન સ્ટાર્ટેડ ટુ રિંગ.",
+          "hindiPronunciation": "द टेलीफोन स्टार्टेड टू रिंग।",
+          "gujaratiTranslation": "ટેલિફોન વાગવા લાગ્યો.",
+          "hindiTranslation": "टेलीफोन बजने लगा।"
+        }
+      ]
+    },
+    {
+      "word": "Buzz",
+      "gujaratiPronunciation": "બઝ",
+      "hindiPronunciation": "बज़",
+      "gujaratiMeaning": "ગણગણાટ કરવો",
+      "hindiMeaning": "भनभनाना",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Buzz",
+          "gujaratiPronunciation": "બઝ",
+          "hindiPronunciation": "बज़",
+          "gujaratiMeaning": "ગણગણાટ કરવો",
+          "hindiMeaning": "भनभनाना"
+        },
+        "V2 (Past)": {
+          "word": "Buzzed",
+          "gujaratiPronunciation": "બઝ્ડ",
+          "hindiPronunciation": "बज़्ड",
+          "gujaratiMeaning": "ગણગણાટ કર્યો",
+          "hindiMeaning": "भनभनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Buzzed",
+          "gujaratiPronunciation": "બઝ્ડ",
+          "hindiPronunciation": "बज़्ड",
+          "gujaratiMeaning": "ગણગણાટ કરેલો",
+          "hindiMeaning": "भनभनाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Buzzing",
+          "gujaratiPronunciation": "બઝિંગ",
+          "hindiPronunciation": "बज़िंग",
+          "gujaratiMeaning": "ગણગણાટ કરી રહ્યું છે",
+          "hindiMeaning": "भनभना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Hum",
+          "gujaratiPronunciation": "હમ",
+          "hindiPronunciation": "हम",
+          "gujaratiMeaning": "ગણગણવું",
+          "hindiMeaning": "गुनगुनाना"
+        },
+        {
+          "word": "Drone",
+          "gujaratiPronunciation": "ડ્રોન",
+          "hindiPronunciation": "ड्रोन",
+          "gujaratiMeaning": "એકધારું ગણગણવું",
+          "hindiMeaning": "एकस्वर में गुनगुनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Silence",
+          "gujaratiPronunciation": "સાઈલન્સ",
+          "hindiPronunciation": "साइलेंस",
+          "gujaratiMeaning": "શાંતિ",
+          "hindiMeaning": "शांति"
+        },
+        {
+          "word": "Stillness",
+          "gujaratiPronunciation": "સ્ટીલનેસ",
+          "hindiPronunciation": "स्टिलनेस",
+          "gujaratiMeaning": "સ્થિરતા",
+          "hindiMeaning": "स्थिरता"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Bus",
+          "gujaratiPronunciation": "બસ",
+          "hindiPronunciation": "बस",
+          "gujaratiMeaning": "બસ (વાહન)",
+          "hindiMeaning": "बस (वाहन)",
+          "difference": "Buzz એટલે ગણગણાટ, Bus એટલે વાહન."
+        },
+        {
+          "word": "Fuzz",
+          "gujaratiPronunciation": "ફઝ",
+          "hindiPronunciation": "फज़",
+          "gujaratiMeaning": "રુવાંટી/પોલીસ",
+          "hindiMeaning": "रोआं/पुलिस",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I could hear a bee buzzing.",
+          "gujaratiPronunciation": "આઇ કુડ હિયર અ બી બઝિંગ.",
+          "hindiPronunciation": "आई कुड हियर अ बी बज़िंग।",
+          "gujaratiTranslation": "હું એક મધમાખીનો ગણગણાટ સાંભળી શકતો હતો.",
+          "hindiTranslation": "मैं एक मधुमक्खी की भनभनाहट सुन सकता था।"
+        }
+      ]
+    },
+    {
+      "word": "Croon",
+      "gujaratiPronunciation": "ક્રૂન",
+      "hindiPronunciation": "क्रून",
+      "gujaratiMeaning": "ધીમેથી ગાવું",
+      "hindiMeaning": "धीरे से गाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Croon",
+          "gujaratiPronunciation": "ક્રૂન",
+          "hindiPronunciation": "क्रून",
+          "gujaratiMeaning": "ધીમેથી ગાવું",
+          "hindiMeaning": "धीरे से गाना"
+        },
+        "V2 (Past)": {
+          "word": "Crooned",
+          "gujaratiPronunciation": "ક્રૂન્ડ",
+          "hindiPronunciation": "क्रून्ड",
+          "gujaratiMeaning": "ધીમેથી ગાયું",
+          "hindiMeaning": "धीरे से गाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Crooned",
+          "gujaratiPronunciation": "ક્રૂન્ડ",
+          "hindiPronunciation": "क्रून्ड",
+          "gujaratiMeaning": "ધીમેથી ગાયેલું",
+          "hindiMeaning": "धीरे से गाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Crooning",
+          "gujaratiPronunciation": "ક્રૂનિંગ",
+          "hindiPronunciation": "क्रूनिंग",
+          "gujaratiMeaning": "ધીમેથી ગાઈ રહ્યું છે",
+          "hindiMeaning": "धीरे से गा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Hum",
+          "gujaratiPronunciation": "હમ",
+          "hindiPronunciation": "हम",
+          "gujaratiMeaning": "ગણગણવું",
+          "hindiMeaning": "गुनगुनाना"
+        },
+        {
+          "word": "Warble",
+          "gujaratiPronunciation": "વોર્બલ",
+          "hindiPronunciation": "वॉर्बल",
+          "gujaratiMeaning": "મધુર ગાવું",
+          "hindiMeaning": "मधुर गाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Shout",
+          "gujaratiPronunciation": "શાઉટ",
+          "hindiPronunciation": "शाउट",
+          "gujaratiMeaning": "બૂમ પાડવી",
+          "hindiMeaning": "चिल्लाना"
+        },
+        {
+          "word": "Scream",
+          "gujaratiPronunciation": "સ્ક્રીમ",
+          "hindiPronunciation": "स्क्रीम",
+          "gujaratiMeaning": "ચીસ પાડવી",
+          "hindiMeaning": "चीखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Crown",
+          "gujaratiPronunciation": "ક્રાઉન",
+          "hindiPronunciation": "क्राउन",
+          "gujaratiMeaning": "તાજ",
+          "hindiMeaning": "ताज",
+          "difference": "Croon એટલે ધીમેથી ગાવું, Crown એટલે તાજ."
+        },
+        {
+          "word": "Cartoon",
+          "gujaratiPronunciation": "કાર્ટૂન",
+          "hindiPronunciation": "कार्टून",
+          "gujaratiMeaning": "વ્યંગચિત્ર",
+          "hindiMeaning": "व्यंग्यचित्र",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She was crooning a lullaby to her baby.",
+          "gujaratiPronunciation": "શી વોઝ ક્રૂનિંગ અ લલાબાય ટુ હર બેબી.",
+          "hindiPronunciation": "शी वॉज क्रूनिंग अ ललाबाई टू हर बेबी।",
+          "gujaratiTranslation": "તેણી તેના બાળકને ધીમેથી હાલરડું ગાઈ રહી હતી.",
+          "hindiTranslation": "वह अपने बच्चे को धीरे से लोरी सुना रही थी।"
+        }
+      ]
+    }
+  ]
+}

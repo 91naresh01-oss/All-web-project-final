@@ -1,0 +1,449 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3: Enhance | Germinate | Progress | Maximize | Evolve",
+  "words": [
+    {
+      "word": "Enhance",
+      "gujaratiPronunciation": "એન્હાન્સ",
+      "hindiPronunciation": "एन्हान्स",
+      "gujaratiMeaning": "વધારવું, સુધારવું",
+      "hindiMeaning": "बढ़ाना, सुधारना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Enhance",
+          "gujaratiPronunciation": "એન્હાન્સ",
+          "hindiPronunciation": "एन्हान्स",
+          "gujaratiMeaning": "વધારવું",
+          "hindiMeaning": "बढ़ाना"
+        },
+        "V2": {
+          "word": "Enhanced",
+          "gujaratiPronunciation": "એન્હાન્સ્ડ",
+          "hindiPronunciation": "एन्हान्स्ड",
+          "gujaratiMeaning": "વધાર્યું",
+          "hindiMeaning": "बढ़ाया"
+        },
+        "V3": {
+          "word": "Enhanced",
+          "gujaratiPronunciation": "એન્હાન્સ્ડ",
+          "hindiPronunciation": "एन्हान्स्ड",
+          "gujaratiMeaning": "વધારેલું",
+          "hindiMeaning": "बढ़ाया हुआ"
+        },
+        "V4": {
+          "word": "Enhancing",
+          "gujaratiPronunciation": "એન્હાન્સિંગ",
+          "hindiPronunciation": "एन्हान्सिंग",
+          "gujaratiMeaning": "વધારી રહ્યું છે",
+          "hindiMeaning": "बढ़ा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Improve",
+          "gujaratiPronunciation": "ઇમ્પ્રુવ",
+          "hindiPronunciation": "इम्प्रूव",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "सुधारना"
+        },
+        {
+          "word": "Augment",
+          "gujaratiPronunciation": "ઓગ્મેન્ટ",
+          "hindiPronunciation": "ऑगमेंट",
+          "gujaratiMeaning": "વૃદ્ધિ કરવી",
+          "hindiMeaning": "वृद्धि करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Diminish",
+          "gujaratiPronunciation": "ડિમિનિશ",
+          "hindiPronunciation": "डिमिनिश",
+          "gujaratiMeaning": "ઘટાડવું",
+          "hindiMeaning": "कम करना"
+        },
+        {
+          "word": "Reduce",
+          "gujaratiPronunciation": "રિડ્યુસ",
+          "hindiPronunciation": "रिड्यूस",
+          "gujaratiMeaning": "ઓછું કરવું",
+          "hindiMeaning": "कम करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Entrance",
+          "gujaratiPronunciation": "એન્ટ્રન્સ",
+          "hindiPronunciation": "एंट्रेंस",
+          "gujaratiMeaning": "પ્રવેશદ્વાર",
+          "hindiMeaning": "प्रवेश द्वार"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The new software will enhance our productivity.",
+          "gujaratiTranslation": "નવું સોફ્ટવેર આપણી ઉત્પાદકતા વધારશે.",
+          "hindiTranslation": "नया सॉफ्टवेयर हमारी उत्पादकता बढ़ाएगा।",
+          "gujaratiPronunciation": "ધ ન્યુ સોફ્ટવેર વિલ એન્હાન્સ અવર પ્રોડક્ટિવિટી.",
+          "hindiPronunciation": "द न्यू सॉफ्टवेयर विल एन्हान्स अवर प्रोडक्टिविटी।"
+        }
+      ]
+    },
+    {
+      "word": "Germinate",
+      "gujaratiPronunciation": "જર્મિનેટ",
+      "hindiPronunciation": "जर्मिनेट",
+      "gujaratiMeaning": "અંકુરિત થવું",
+      "hindiMeaning": "अंकुरित होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Germinate",
+          "gujaratiPronunciation": "જર્મિનેટ",
+          "hindiPronunciation": "जर्मिनेट",
+          "gujaratiMeaning": "અંકુરિત થવું",
+          "hindiMeaning": "अंकुरित होना"
+        },
+        "V2": {
+          "word": "Germinated",
+          "gujaratiPronunciation": "જર્મિનેટેડ",
+          "hindiPronunciation": "जर्मिनेटेड",
+          "gujaratiMeaning": "અંકુરિત થયું",
+          "hindiMeaning": "अंकुरित हुआ"
+        },
+        "V3": {
+          "word": "Germinated",
+          "gujaratiPronunciation": "જર્મિનેટેડ",
+          "hindiPronunciation": "जर्मिनेटेड",
+          "gujaratiMeaning": "અંકુરિત થયેલું",
+          "hindiMeaning": "अंकुरित हुआ"
+        },
+        "V4": {
+          "word": "Germinating",
+          "gujaratiPronunciation": "જર્મિનેટિંગ",
+          "hindiPronunciation": "जर्मिनेटिंग",
+          "gujaratiMeaning": "અંકુરિત થઈ રહ્યું છે",
+          "hindiMeaning": "अंकुरित हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Sprout",
+          "gujaratiPronunciation": "સ્પ્રાઉટ",
+          "hindiPronunciation": "स्प्राउट",
+          "gujaratiMeaning": "ફણગો ફૂટવો",
+          "hindiMeaning": "अंकुरित होना"
+        },
+        {
+          "word": "Bud",
+          "gujaratiPronunciation": "બડ",
+          "hindiPronunciation": "बड",
+          "gujaratiMeaning": "કળી ફૂટવી",
+          "hindiMeaning": "कली निकलना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Wither",
+          "gujaratiPronunciation": "વિધર",
+          "hindiPronunciation": "विदर",
+          "gujaratiMeaning": "કરમાઈ જવું",
+          "hindiMeaning": "मुरझाना"
+        },
+        {
+          "word": "Decay",
+          "gujaratiPronunciation": "ડીકે",
+          "hindiPronunciation": "डिके",
+          "gujaratiMeaning": "સડી જવું",
+          "hindiMeaning": "सड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Eliminate",
+          "gujaratiPronunciation": "એલિમિનેટ",
+          "hindiPronunciation": "एलिमिनेट",
+          "gujaratiMeaning": "દૂર કરવું",
+          "hindiMeaning": "हटाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The seeds will germinate in a few days.",
+          "gujaratiTranslation": "બીજ થોડા દિવસોમાં અંકુરિત થશે.",
+          "hindiTranslation": "बीज कुछ दिनों में अंकुरित हो जाएंगे।",
+          "gujaratiPronunciation": "ધ સીડ્સ વિલ જર્મિનેટ ઇન અ ફ્યુ ડેઝ.",
+          "hindiPronunciation": "द सीड्स विल जर्मिनेट इन अ फ्यू डेज़।"
+        }
+      ]
+    },
+    {
+      "word": "Progress",
+      "gujaratiPronunciation": "પ્રોગ્રેસ",
+      "hindiPronunciation": "प्रोग्रेस",
+      "gujaratiMeaning": "પ્રગતિ કરવી",
+      "hindiMeaning": "प्रगति करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Progress",
+          "gujaratiPronunciation": "પ્રોગ્રેસ",
+          "hindiPronunciation": "प्रोग्रेस",
+          "gujaratiMeaning": "પ્રગતિ કરવી",
+          "hindiMeaning": "प्रगति करना"
+        },
+        "V2": {
+          "word": "Progressed",
+          "gujaratiPronunciation": "પ્રોગ્રેસ્ડ",
+          "hindiPronunciation": "प्रोग्रेस्ड",
+          "gujaratiMeaning": "પ્રગતિ કરી",
+          "hindiMeaning": "प्रगति की"
+        },
+        "V3": {
+          "word": "Progressed",
+          "gujaratiPronunciation": "પ્રોગ્રેસ્ડ",
+          "hindiPronunciation": "प्रोग्रेस्ड",
+          "gujaratiMeaning": "પ્રગતિ કરેલી",
+          "hindiMeaning": "प्रगति की हुई"
+        },
+        "V4": {
+          "word": "Progressing",
+          "gujaratiPronunciation": "પ્રોગ્રેસિંગ",
+          "hindiPronunciation": "प्रोग्रेसिंग",
+          "gujaratiMeaning": "પ્રગતિ કરી રહ્યું છે",
+          "hindiMeaning": "प्रगति कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Advance",
+          "gujaratiPronunciation": "એડવાન્સ",
+          "hindiPronunciation": "एडवांस",
+          "gujaratiMeaning": "આગળ વધવું",
+          "hindiMeaning": "आगे बढ़ना"
+        },
+        {
+          "word": "Develop",
+          "gujaratiPronunciation": "ડેવલપ",
+          "hindiPronunciation": "डेवलप",
+          "gujaratiMeaning": "વિકસવું",
+          "hindiMeaning": "विकसित होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Regress",
+          "gujaratiPronunciation": "રિગ્રેસ",
+          "hindiPronunciation": "रिग्रेस",
+          "gujaratiMeaning": "પાછળ જવું",
+          "hindiMeaning": "पीछे हटना"
+        },
+        {
+          "word": "Decline",
+          "gujaratiPronunciation": "ડીકલાઇન",
+          "hindiPronunciation": "डिक्लाइन",
+          "gujaratiMeaning": "પતન થવું",
+          "hindiMeaning": "पतन होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Process",
+          "gujaratiPronunciation": "પ્રોસેસ",
+          "hindiPronunciation": "प्रोसेस",
+          "gujaratiMeaning": "પ્રક્રિયા",
+          "hindiMeaning": "प्रक्रिया"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The project is progressing well.",
+          "gujaratiTranslation": "પ્રોજેક્ટ સારી રીતે પ્રગતિ કરી રહ્યો છે.",
+          "hindiTranslation": "परियोजना अच्छी तरह से प्रगति कर रही है।",
+          "gujaratiPronunciation": "ધ પ્રોજેક્ટ ઇઝ પ્રોગ્રેસિંગ વેલ.",
+          "hindiPronunciation": "द प्रोजेक्ट इज़ प्रोग्रेसिंग वेल।"
+        }
+      ]
+    },
+    {
+      "word": "Maximize",
+      "gujaratiPronunciation": "મેક્સિમાઇઝ",
+      "hindiPronunciation": "मैक्सिमाइज़",
+      "gujaratiMeaning": "મહત્તમ કરવું",
+      "hindiMeaning": "अधिकतम करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Maximize",
+          "gujaratiPronunciation": "મેક્સિમાઇઝ",
+          "hindiPronunciation": "मैक्सिमाइज़",
+          "gujaratiMeaning": "મહત્તમ કરવું",
+          "hindiMeaning": "अधिकतम करना"
+        },
+        "V2": {
+          "word": "Maximized",
+          "gujaratiPronunciation": "મેક્સિમાઇઝ્ડ",
+          "hindiPronunciation": "मैक्सिमाइज़्ड",
+          "gujaratiMeaning": "મહત્તમ કર્યું",
+          "hindiMeaning": "अधिकतम किया"
+        },
+        "V3": {
+          "word": "Maximized",
+          "gujaratiPronunciation": "મેક્સિમાઇઝ્ડ",
+          "hindiPronunciation": "मैक्सिमाइज़्ड",
+          "gujaratiMeaning": "મહત્તમ કરેલું",
+          "hindiMeaning": "अधिकतम किया हुआ"
+        },
+        "V4": {
+          "word": "Maximizing",
+          "gujaratiPronunciation": "મેક્સિમાઇઝિંગ",
+          "hindiPronunciation": "मैक्सिमाइज़िंग",
+          "gujaratiMeaning": "મહત્તમ કરી રહ્યું છે",
+          "hindiMeaning": "अधिकतम कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Optimize",
+          "gujaratiPronunciation": "ઓપ્ટિમાઇઝ",
+          "hindiPronunciation": "ऑप्टिमाइज़",
+          "gujaratiMeaning": "શ્રેષ્ઠ બનાવવું",
+          "hindiMeaning": "अनुकूलित करना"
+        },
+        {
+          "word": "Increase",
+          "gujaratiPronunciation": "ઇન્ક્રીઝ",
+          "hindiPronunciation": "इन्क्रीज़",
+          "gujaratiMeaning": "વધારો કરવો",
+          "hindiMeaning": "बढ़ाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Minimize",
+          "gujaratiPronunciation": "મિનિમાઇઝ",
+          "hindiPronunciation": "मिनिमाइज़",
+          "gujaratiMeaning": "ન્યૂનતમ કરવું",
+          "hindiMeaning": "न्यूनतम करना"
+        },
+        {
+          "word": "Reduce",
+          "gujaratiPronunciation": "રિડ્યુસ",
+          "hindiPronunciation": "रिड्यूस",
+          "gujaratiMeaning": "ઓછું કરવું",
+          "hindiMeaning": "कम करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Mix",
+          "gujaratiPronunciation": "મિક્સ",
+          "hindiPronunciation": "मिक्स",
+          "gujaratiMeaning": "ભેળવવું",
+          "hindiMeaning": "मिलाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to maximize our resources to succeed.",
+          "gujaratiTranslation": "સફળ થવા માટે આપણે આપણા સંસાધનોનો મહત્તમ ઉપયોગ કરવાની જરૂર છે.",
+          "hindiTranslation": "सफल होने के लिए हमें अपने संसाधनों को अधिकतम करने की आवश्यकता है।",
+          "gujaratiPronunciation": "વી નીડ ટુ મેક્સિમાઇઝ અવર રિસોર્સિસ ટુ સક્સીડ.",
+          "hindiPronunciation": "वी नीड टू मैक्सिमाइज़ अवर रिसोर्सेज़ टू सक्सीड।"
+        }
+      ]
+    },
+    {
+      "word": "Evolve",
+      "gujaratiPronunciation": "ઇવોલ્વ",
+      "hindiPronunciation": "इवॉल्व",
+      "gujaratiMeaning": "વિકસિત થવું, ઉત્ક્રાંતિ પામવી",
+      "hindiMeaning": "विकसित होना, विकसित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Evolve",
+          "gujaratiPronunciation": "ઇવોલ્વ",
+          "hindiPronunciation": "इवॉल्व",
+          "gujaratiMeaning": "વિકસિત થવું",
+          "hindiMeaning": "विकसित होना"
+        },
+        "V2": {
+          "word": "Evolved",
+          "gujaratiPronunciation": "ઇવોલ્વ્ડ",
+          "hindiPronunciation": "इवॉल्व्ड",
+          "gujaratiMeaning": "વિકસિત થયું",
+          "hindiMeaning": "विकसित हुआ"
+        },
+        "V3": {
+          "word": "Evolved",
+          "gujaratiPronunciation": "ઇવોલ્વ્ડ",
+          "hindiPronunciation": "इवॉल्व्ड",
+          "gujaratiMeaning": "વિકસિત થયેલું",
+          "hindiMeaning": "विकसित"
+        },
+        "V4": {
+          "word": "Evolving",
+          "gujaratiPronunciation": "ઇવોલ્વિંગ",
+          "hindiPronunciation": "इवॉल्विंग",
+          "gujaratiMeaning": "વિકસિત થઈ રહ્યું છે",
+          "hindiMeaning": "विकसित हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Develop",
+          "gujaratiPronunciation": "ડેવલપ",
+          "hindiPronunciation": "डेवलप",
+          "gujaratiMeaning": "વિકસવું",
+          "hindiMeaning": "विकसित होना"
+        },
+        {
+          "word": "Progress",
+          "gujaratiPronunciation": "પ્રોગ્રેસ",
+          "hindiPronunciation": "प्रोग्रेस",
+          "gujaratiMeaning": "પ્રગતિ કરવી",
+          "hindiMeaning": "प्रगति करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Stagnate",
+          "gujaratiPronunciation": "સ્ટેગ્નેટ",
+          "hindiPronunciation": "स्टैग्नेट",
+          "gujaratiMeaning": "સ્થિર થઈ જવું",
+          "hindiMeaning": "स्थिर होना"
+        },
+        {
+          "word": "Regress",
+          "gujaratiPronunciation": "રિગ્રેસ",
+          "hindiPronunciation": "रिग्रेस",
+          "gujaratiMeaning": "પાછળ જવું",
+          "hindiMeaning": "पीछे हटना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Involve",
+          "gujaratiPronunciation": "ઇન્વોલ્વ",
+          "hindiPronunciation": "इन्वॉल्व",
+          "gujaratiMeaning": "સમાવેશ કરવો",
+          "hindiMeaning": "शामिल करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company has evolved into a major player in the industry.",
+          "gujaratiTranslation": "કંપની ઉદ્યોગમાં એક મુખ્ય ખેલાડી તરીકે વિકસિત થઈ છે.",
+          "hindiTranslation": "कंपनी उद्योग में एक प्रमुख खिलाड़ी के रूप में विकसित हुई है।",
+          "gujaratiPronunciation": "ધ કંપની હેઝ ઇવોલ્વ્ડ ઇન્ટુ અ મેજર પ્લેયર ઇન ધ ઇન્ડસ્ટ્રી.",
+          "hindiPronunciation": "द कंपनी हैज़ इवॉल्व्ड इनटू अ मेजर प्लेयर इन द इंडस्ट्री।"
+        }
+      ]
+    }
+  ]
+}
+
+    

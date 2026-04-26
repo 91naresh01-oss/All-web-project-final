@@ -1,0 +1,174 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Structural Shifts",
+  "words": [
+    {
+      "word": "Mutate",
+      "gujaratiPronunciation": "મ્યુટેટ",
+      "hindiPronunciation": "म्यूटेट",
+      "gujaratiMeaning": "રૂપાંતરિત થવું, પરિવર્તન પામવું",
+      "hindiMeaning": "रूपांतरित होना, उत्परिवर्तित होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Mutate", "gujaratiPronunciation": "મ્યુટેટ", "hindiPronunciation": "म्यूटेट", "gujaratiMeaning": "રૂપાંતરિત થવું", "hindiMeaning": "रूपांतरित होना" },
+        "V2 (Past)": { "word": "Mutated", "gujaratiPronunciation": "મ્યુટેટેડ", "hindiPronunciation": "म्यूटेटेड", "gujaratiMeaning": "રૂપાંતરિત થયું", "hindiMeaning": "रूपांतरित हुआ" },
+        "V3 (Past Participle)": { "word": "Mutated", "gujaratiPronunciation": "મ્યુટેટેડ", "hindiPronunciation": "म्यूटेटेड", "gujaratiMeaning": "રૂપાંતરિત થયેલું", "hindiMeaning": "उत्परिवर्तित" },
+        "V4 (Present Participle)": { "word": "Mutating", "gujaratiPronunciation": "મ્યુટેટિંગ", "hindiPronunciation": "म्यूटेटिंग", "gujaratiMeaning": "રૂપાંતરિત થઈ રહ્યું છે", "hindiMeaning": "रूपांतरित हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Change", "gujaratiPronunciation": "ચેન્જ", "hindiPronunciation": "चेंज", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" },
+        { "word": "Transform", "gujaratiPronunciation": "ટ્રાન્સફોર્મ", "hindiPronunciation": "ट्रांसफॉर्म", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "रूपांतरित करना" }
+      ],
+      "antonyms": [
+        { "word": "Remain", "gujaratiPronunciation": "રિમેન", "hindiPronunciation": "रिमेन", "gujaratiMeaning": "રહેવું", "hindiMeaning": "बने रहना" },
+        { "word": "Stagnate", "gujaratiPronunciation": "સ્ટેગ્નેટ", "hindiPronunciation": "स्टैग्नेट", "gujaratiMeaning": "સ્થિર રહેવું", "hindiMeaning": "स्थिर रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Mute", "gujaratiPronunciation": "મ્યુટ", "hindiPronunciation": "म्यूट", "gujaratiMeaning": "મૂંગું", "hindiMeaning": "मूक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The virus can mutate into new forms.",
+          "gujaratiTranslation": "આ વાયરસ નવા સ્વરૂપોમાં રૂપાંતરિત થઈ શકે છે.",
+          "hindiTranslation": "यह वायरस नए रूपों में उत्परिवर्तित हो सकता है।",
+          "gujaratiPronunciation": "ધ વાયરસ કેન મ્યુટેટ ઇનટુ ન્યૂ ફોર્મ્સ.",
+          "hindiPronunciation": "द वायरस कैन म्यूटेट इनटू न्यू फॉर्म्स।"
+        }
+      ]
+    },
+    {
+      "word": "Convert",
+      "gujaratiPronunciation": "કન્વર્ટ",
+      "hindiPronunciation": "कन्वर्ट",
+      "gujaratiMeaning": "રૂપાંતર કરવું, બદલવું",
+      "hindiMeaning": "रूपांतरित करना, बदलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Convert", "gujaratiPronunciation": "કન્વર્ટ", "hindiPronunciation": "कन्वर्ट", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "रूपांतरित करना" },
+        "V2 (Past)": { "word": "Converted", "gujaratiPronunciation": "કન્વર્ટેડ", "hindiPronunciation": "कन्वर्टेड", "gujaratiMeaning": "રૂપાંતર કર્યું", "hindiMeaning": "रूपांतरित किया" },
+        "V3 (Past Participle)": { "word": "Converted", "gujaratiPronunciation": "કન્વર્ટેડ", "hindiPronunciation": "कन्वर्टेड", "gujaratiMeaning": "રૂપાંતરિત", "hindiMeaning": "रूपांतरित" },
+        "V4 (Present Participle)": { "word": "Converting", "gujaratiPronunciation": "કન્વર્ટિંગ", "hindiPronunciation": "कन्वर्टिंग", "gujaratiMeaning": "રૂપાંતર કરી રહ્યું છે", "hindiMeaning": "रूपांतरित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Transform", "gujaratiPronunciation": "ટ્રાન્સફોર્મ", "hindiPronunciation": "ट्रांसफॉर्म", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "रूपांतरित करना" },
+        { "word": "Change", "gujaratiPronunciation": "ચેન્જ", "hindiPronunciation": "चेंज", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" }
+      ],
+      "antonyms": [
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" },
+        { "word": "Preserve", "gujaratiPronunciation": "પ્રિઝર્વ", "hindiPronunciation": "प्रिजर्व", "gujaratiMeaning": "જાળવવું", "hindiMeaning": "संरक्षित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Covert", "gujaratiPronunciation": "કવર્ટ", "hindiPronunciation": "कवर्ट", "gujaratiMeaning": "ગુપ્ત", "hindiMeaning": "गुप्त" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You can convert the file to a different format.",
+          "gujaratiTranslation": "તમે ફાઇલને બીજા ફોર્મેટમાં રૂપાંતરિત કરી શકો છો.",
+          "hindiTranslation": "आप फ़ाइल को एक अलग प्रारूप में बदल सकते हैं।",
+          "gujaratiPronunciation": "યુ કેન કન્વર્ટ ધ ફાઇલ ટુ અ ડિફરન્ટ ફોર્મેટ.",
+          "hindiPronunciation": "यू कैन कन्वर्ट द फाइल टू अ डिफरेंट फॉर्मेट।"
+        }
+      ]
+    },
+    {
+      "word": "Reorganize",
+      "gujaratiPronunciation": "રિઓર્ગેનાઇઝ",
+      "hindiPronunciation": "रीऑर्गेनाइज़",
+      "gujaratiMeaning": "પુનર્ગઠન કરવું",
+      "hindiMeaning": "पुनर्गठित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Reorganize", "gujaratiPronunciation": "રિઓર્ગેનાઇઝ", "hindiPronunciation": "रीऑर्गेनाइज़", "gujaratiMeaning": "પુનર્ગઠન કરવું", "hindiMeaning": "पुनर्गठित करना" },
+        "V2 (Past)": { "word": "Reorganized", "gujaratiPronunciation": "રિઓર્ગેનાઇઝ્ડ", "hindiPronunciation": "रीऑर्गेनाइज़्ड", "gujaratiMeaning": "પુનર્ગઠન કર્યું", "hindiMeaning": "पुनर्गठित किया" },
+        "V3 (Past Participle)": { "word": "Reorganized", "gujaratiPronunciation": "રિઓર્ગેનાઇઝ્ડ", "hindiPronunciation": "रीऑर्गेनाइज़्ड", "gujaratiMeaning": "પુનર્ગઠિત", "hindiMeaning": "पुनर्गठित" },
+        "V4 (Present Participle)": { "word": "Reorganizing", "gujaratiPronunciation": "રિઓર્ગેનાઇઝિંગ", "hindiPronunciation": "रीऑर्गेनाइजिंग", "gujaratiMeaning": "પુનર્ગઠન કરી રહ્યું છે", "hindiMeaning": "पुनर्गठित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Restructure", "gujaratiPronunciation": "રિસ્ટ્રક્ચર", "hindiPronunciation": "रीस्ट्रक्चर", "gujaratiMeaning": "પુનઃરચના કરવી", "hindiMeaning": "पुनर्निर्माण करना" },
+        { "word": "Rearrange", "gujaratiPronunciation": "રિઅરેન્જ", "hindiPronunciation": "रीअरेंज", "gujaratiMeaning": "ફરીથી ગોઠવવું", "hindiMeaning": "पुनर्व्यवस्थित करना" }
+      ],
+      "antonyms": [
+        { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गेनाइज़", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अव्यवस्थित करना" },
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company decided to reorganize its departments.",
+          "gujaratiTranslation": "કંપનીએ તેના વિભાગોનું પુનર્ગઠન કરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "कंपनी ने अपने विभागों को पुनर्गठित करने का फैसला किया।",
+          "gujaratiPronunciation": "ધ કંપની ડિસાઇડેડ ટુ રિઓર્ગેનાઇઝ ઇટ્સ ડિપાર્ટમેન્ટ્સ.",
+          "hindiPronunciation": "द कंपनी डिसाइडेड टू रीऑर्गेनाइज़ इट्स डिपार्टमेंट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Divert",
+      "gujaratiPronunciation": "ડાયવર્ટ",
+      "hindiPronunciation": "डाइवर्ट",
+      "gujaratiMeaning": "માર્ગ બદલવો, ધ્યાન બીજે દોરવું",
+      "hindiMeaning": "मार्ग बदलना, ध्यान भटकाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Divert", "gujaratiPronunciation": "ડાયવર્ટ", "hindiPronunciation": "डाइवर्ट", "gujaratiMeaning": "માર્ગ બદલવો", "hindiMeaning": "मार्ग बदलना" },
+        "V2 (Past)": { "word": "Diverted", "gujaratiPronunciation": "ડાયવર્ટેડ", "hindiPronunciation": "डाइवर्टेड", "gujaratiMeaning": "માર્ગ બદલ્યો", "hindiMeaning": "मार्ग बदला" },
+        "V3 (Past Participle)": { "word": "Diverted", "gujaratiPronunciation": "ડાયવર્ટેડ", "hindiPronunciation": "डाइवर्टेड", "gujaratiMeaning": "માર્ગ બદલેલ", "hindiMeaning": "मार्ग बदला हुआ" },
+        "V4 (Present Participle)": { "word": "Diverting", "gujaratiPronunciation": "ડાયવર્ટિંગ", "hindiPronunciation": "डाइवर्टिंग", "gujaratiMeaning": "માર્ગ બદલી રહ્યું છે", "hindiMeaning": "मार्ग बदल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Redirect", "gujaratiPronunciation": "રિડિરેક્ટ", "hindiPronunciation": "रीडायरेक्ट", "gujaratiMeaning": "બીજા માર્ગે વાળવું", "hindiMeaning": "पुनर्निर्देशित करना" },
+        { "word": "Deflect", "gujaratiPronunciation": "ડિફ્લેક્ટ", "hindiPronunciation": "डिफ्लेक्ट", "gujaratiMeaning": "વાળવું", "hindiMeaning": "विचलित करना" }
+      ],
+      "antonyms": [
+        { "word": "Focus", "gujaratiPronunciation": "ફોકસ", "hindiPronunciation": "फोकस", "gujaratiMeaning": "ધ્યાન કેન્દ્રિત કરવું", "hindiMeaning": "ध्यान केंद्रित करना" },
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Divest", "gujaratiPronunciation": "ડાયવેસ્ટ", "hindiPronunciation": "डाइवेस्ट", "gujaratiMeaning": "વંચિત કરવું", "hindiMeaning": "वंचित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The police had to divert traffic.",
+          "gujaratiTranslation": "પોલીસને ટ્રાફિકને ડાયવર્ટ કરવો પડ્યો.",
+          "hindiTranslation": "पुलिस को ट्रैफिक डायवर्ट करना पड़ा।",
+          "gujaratiPronunciation": "ધ પોલીસ હેડ ટુ ડાયવર્ટ ટ્રાફિક.",
+          "hindiPronunciation": "द पुलिस हैड टू डाइवर्ट ट्रैफिक।"
+        }
+      ]
+    },
+    {
+      "word": "Substitute",
+      "gujaratiPronunciation": "સબસ્ટિટ્યૂટ",
+      "hindiPronunciation": "सब्सटीट्यूट",
+      "gujaratiMeaning": "બદલીમાં મૂકવું, વિકલ્પ",
+      "hindiMeaning": "प्रतिस्थापित करना, विकल्प",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Substitute", "gujaratiPronunciation": "સબસ્ટિટ્યૂટ", "hindiPronunciation": "सब्सटीट्यूट", "gujaratiMeaning": "બદલીમાં મૂકવું", "hindiMeaning": "प्रतिस्थापित करना" },
+        "V2 (Past)": { "word": "Substituted", "gujaratiPronunciation": "સબસ્ટિટ્યૂટેડ", "hindiPronunciation": "सब्सटीट्यूटेड", "gujaratiMeaning": "બદલીમાં મૂક્યું", "hindiMeaning": "प्रतिस्थापित किया" },
+        "V3 (Past Participle)": { "word": "Substituted", "gujaratiPronunciation": "સબસ્ટિટ્યૂટેડ", "hindiPronunciation": "सब्सटीट्यूटेड", "gujaratiMeaning": "બદલીમાં મૂકેલું", "hindiMeaning": "प्रतिस्थापित" },
+        "V4 (Present Participle)": { "word": "Substituting", "gujaratiPronunciation": "સબસ્ટિટ્યૂટિંગ", "hindiPronunciation": "सब्सटीट्यूटिंग", "gujaratiMeaning": "બદલીમાં મૂકી રહ્યું છે", "hindiMeaning": "प्रतिस्थापित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Replace", "gujaratiPronunciation": "રિપ્લેસ", "hindiPronunciation": "रिप्लेस", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" },
+        { "word": "Exchange", "gujaratiPronunciation": "એક્સચેન્જ", "hindiPronunciation": "एक्सचेंज", "gujaratiMeaning": "વિનિમય કરવો", "hindiMeaning": "विनिमय करना" }
+      ],
+      "antonyms": [
+        { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "રાખવું", "hindiMeaning": "रखना" },
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Substantiate", "gujaratiPronunciation": "સબસ્ટેન્શિએટ", "hindiPronunciation": "सब्सटेंशिएट", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You can substitute oil for butter in this recipe.",
+          "gujaratiTranslation": "આ રેસીપીમાં તમે માખણને બદલે તેલનો ઉપયોગ કરી શકો છો.",
+          "hindiTranslation": "आप इस रेसिपी में मक्खन की जगह तेल का इस्तेमाल कर सकते हैं।",
+          "gujaratiPronunciation": "યુ કેન સબસ્ટિટ્યૂટ ઓઇલ ફોર બટર ઇન ધિસ રેસિપી.",
+          "hindiPronunciation": "यू कैन सब्स्टीट्यूट ऑयल फॉर बटर इन दिस रेसिपी।"
+        }
+      ]
+    }
+  ]
+}

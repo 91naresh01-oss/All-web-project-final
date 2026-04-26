@@ -1,0 +1,331 @@
+{
+    "id": "personal-pronouns-h",
+    "title": "Personal Pronouns (पुरुषवाचक सर्वनाम)",
+    "lang": "h",
+    "content": [
+        {
+            "type": "heading",
+            "content": "💡 Personal Pronouns क्या हैं?"
+        },
+        {
+            "type": "paragraph",
+            "content": "अंग्रेजी व्याकरण में Personal Pronouns वे शब्द हैं जो किसी व्यक्ति/वस्तु के नाम के स्थान पर उपयोग किए जाते हैं ताकि नाम को बार-बार दोहराना न पड़े।"
+        },
+        {
+            "type": "table",
+            "content": {
+                "title": "📘 1. Personal Pronouns का चार्ट",
+                "headers": [
+                    "Person",
+                    "Number",
+                    "Subject Pronoun",
+                    "Object Pronoun",
+                    "Possessive Adjective",
+                    "Possessive Pronoun"
+                ],
+                "rows": [
+                    [
+                        "First Person",
+                        "Singular",
+                        "I (मैं)",
+                        "Me (मुझे)",
+                        "My (मेरा)",
+                        "Mine (मेरा)"
+                    ],
+                    [
+                        "",
+                        "Plural",
+                        "We (हम)",
+                        "Us (हमें)",
+                        "Our (हमारा)",
+                        "Ours (हमारा)"
+                    ],
+                    [
+                        "Second Person",
+                        "Singular/Plural",
+                        "You (तुम/आप)",
+                        "You (तुम्हें/आपको)",
+                        "Your (तुम्हारा/आपका)",
+                        "Yours (तुम्हारा/आपका)"
+                    ],
+                    [
+                        "Third Person",
+                        "Singular (Male)",
+                        "He (वह)",
+                        "Him (उसे)",
+                        "His (उसका)",
+                        "His (उसका)"
+                    ],
+                    [
+                        "",
+                        "Singular (Female)",
+                        "She (वह)",
+                        "Her (उसे)",
+                        "Her (उसकी)",
+                        "Hers (उसकी)"
+                    ],
+                    [
+                        "",
+                        "Singular (Neutral)",
+                        "It (वस्तु/प्राणी)",
+                        "It",
+                        "Its (इसका)",
+                        "-"
+                    ],
+                    [
+                        "",
+                        "Plural",
+                        "They (वे/वो)",
+                        "Them (उन्हें)",
+                        "Their (उनका)",
+                        "Theirs (उनका)"
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "heading",
+            "content": "🚀 Personal Pronouns – All Rules + Examples + Explained (Full Mega Pack)"
+        },
+        {
+            "type": "paragraph",
+            "content": "(Gen-Z Hindi mode: clean, short, stylish🔥)"
+        },
+        {
+            "type": "heading",
+            "content": "🧠 1️⃣ SUBJECT PRONOUNS (कर्ता)"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 Sentence में action करने वाला।"
+        },
+        {
+            "type": "list",
+            "content": [
+                "I play.",
+                "She is smart.",
+                "They are here."
+            ]
+        },
+        {
+            "type": "note",
+            "content": "💡 **Why?**<br/>कर्ता मतलब work कौन करता है।"
+        },
+        {
+            "type": "heading",
+            "content": "🎯 2️⃣ OBJECT PRONOUNS (कर्म)"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 Action जिसे मिलता है / Preposition के बाद आता है।"
+        },
+        {
+            "type": "list",
+            "content": [
+                "He called me.",
+                "I will help them.",
+                "Give it to her."
+            ]
+        },
+        {
+            "type": "note",
+            "content": "💡 **Why?**<br/>Verb के बाद हमेशा object आता है।"
+        },
+        {
+            "type": "heading",
+            "content": "🏠 3️⃣ POSSESSIVE ADJECTIVES"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 बाद में noun आता है।"
+        },
+        {
+            "type": "list",
+            "content": [
+                "This is my book.",
+                "That is their car."
+            ]
+        },
+        {
+            "type": "note",
+            "content": "💡 **Why?**<br/>Ownership + Noun combo."
+        },
+        {
+            "type": "heading",
+            "content": "🔑 4️⃣ POSSESSIVE PRONOUNS (Noun नहीं आता)"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 mine, yours, his, hers, ours, theirs"
+        },
+        {
+            "type": "list",
+            "content": [
+                "This book is mine.",
+                "The house is theirs."
+            ]
+        },
+        {
+            "type": "note",
+            "content": "💡 **Why?**<br/>Ownership alone."
+        },
+        {
+            "type": "heading",
+            "content": "🪞 5️⃣ REFLEXIVE PRONOUNS"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 Action अपने ऊपर → myself, yourself, himself…"
+        },
+        {
+            "type": "list",
+            "content": [
+                "I hurt myself.",
+                "They enjoyed themselves."
+            ]
+        },
+        {
+            "type": "note",
+            "content": "💡 **Why?**<br/>Doer & receiver same."
+        },
+        {
+            "type": "heading",
+            "content": "🫱🏼‍🫲🏻 6️⃣ RECIPROCAL PRONOUNS"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 दो लोग → each other<br/>👉 कई → one another"
+        },
+        {
+            "type": "list",
+            "content": [
+                "Twins love each other.",
+                "Students help one another."
+            ]
+        },
+        {
+            "type": "heading",
+            "content": "⚖️ 7️⃣ 231 RULE (Order of Pronouns)"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 Positive sentence → You → He/She → I"
+        },
+        {
+            "type": "list",
+            "content": [
+                "✔ **Correct:** You, he and I will go.",
+                "❌ **Wrong:** I, you and he will go."
+            ]
+        },
+        {
+            "type": "note",
+            "content": "💡 **Why?**<br/>Respect order → 2 → 3 → 1"
+        },
+        {
+            "type": "heading",
+            "content": "🪫 8️⃣ Preposition के बाद Object Case"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 between, to, for, with… के बाद → me, him, her, us, them"
+        },
+        {
+            "type": "list",
+            "content": [
+                "✔ **Examples:**",
+                "between you and me",
+                "with him",
+                "for them",
+                "❌ **Wrong:** between you and I"
+            ]
+        },
+        {
+            "type": "heading",
+            "content": "🌧 9️⃣ “IT” का सही उपयोग"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 Weather, time, distance, animal, thing"
+        },
+        {
+            "type": "list",
+            "content": [
+                "It is raining.",
+                "It is 4 PM.",
+                "I have a cat. It is cute."
+            ]
+        },
+        {
+            "type": "heading",
+            "content": "🏁 🔟 Comparison Rule (than/as)"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 Formal → Subject Case<br/>👉 Informal → Object Case"
+        },
+        {
+            "type": "list",
+            "content": [
+                "✔ **Formal:** He is taller than I (am).",
+                "✔ **Spoken:** He is taller than me."
+            ]
+        },
+        {
+            "type": "heading",
+            "content": "📝 1️⃣1️⃣ Pronoun + Noun Rule"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 Pronoun हमेशा noun से पहले"
+        },
+        {
+            "type": "list",
+            "content": [
+                "✔ **Examples:**",
+                "We students will speak.",
+                "You boys come here.",
+                "❌ **Wrong:** Students we will speak."
+            ]
+        },
+        {
+            "type": "heading",
+            "content": "🧍‍♂️🧍‍♀️ 1️⃣2️⃣ Gender-Neutral “They”"
+        },
+        {
+            "type": "paragraph",
+            "content": "👉 Gender unknown हो तो “They”"
+        },
+        {
+            "type": "list",
+            "content": [
+                "Someone called. They left no message.",
+                "Each student must bring their ID."
+            ]
+        },
+        {
+            "type": "heading",
+            "content": "🚫 1️⃣3️⃣ Common Mistakes Fix"
+        },
+        {
+            "type": "table",
+            "content": {
+                "headers": ["Wrong", "Correct", "Why"],
+                "rows": [
+                    ["Me and Rahul went", "Rahul and I went", "Start → Subject"],
+                    ["This is him bag", "This is his bag", "Ownership"],
+                    ["It’s tail", "Its tail", "It’s = it is"],
+                    ["She gave to we", "She gave to us", "Preposition"]
+                ]
+            }
+        },
+        {
+            "type": "heading",
+            "content": "📦 BONUS PACK (FREE🔥)"
+        },
+        {
+            "type": "note",
+            "content": "✔ **SUMMARY SHORT NOTES**<br/>• Subject → I, we, you, he, she, it, they<br/>• Object → me, us, you, him, her, it, them<br/>• Possessive Adj → my, our, your, his, her, its, their<br/>• Possessive Pronoun → mine, ours, yours, his, hers, theirs<br/>• Reflexive → myself, yourself, himself…<br/>• Order → 2 → 3 → 1<br/>• Preposition के बाद object<br/>• Comparison → than + (I/me)"
+        }
+    ]
+}

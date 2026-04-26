@@ -1,0 +1,88 @@
+{
+  "id": "adverbs-h",
+  "title": "Adverbs (क्रिया विशेषण)",
+  "description": "क्रिया विशेषण वे शब्द हैं जो क्रिया, विशेषण, या अन्य क्रिया विशेषण के अर्थ में वृद्धि करते हैं।",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": "Adverb (क्रिया विशेषण) वाक्य में यह दर्शाता है कि क्रिया कब, कहाँ, कैसे, कितनी बार, या कितनी मात्रा में हुई। यह क्रिया, विशेषण, या दूसरे क्रिया विशेषण के बारे में अधिक जानकारी देता है।"
+    },
+    {
+      "type": "heading",
+      "content": "Types of Adverbs (क्रिया विशेषण के प्रकार)"
+    },
+    {
+      "type": "paragraph",
+      "content": "क्रिया विशेषण के मुख्य प्रकार निम्नलिखित हैं:"
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "1. Adverb of Manner (रीतिवाचक क्रिया विशेषण)",
+        "headers": ["Adverb", "Hindi Meaning", "Example Sentence"],
+        "rows": [
+          ["Slowly", "धीरे से", "He walks slowly.<br>(वह धीरे चलता है।)"],
+          ["Happily", "खुशी से", "She smiled happily.<br>(वह खुशी से मुस्कुराई।)"],
+          ["Loudly", "जोर से", "The dog barked loudly.<br>(कुत्ता जोर से भौंका।)"],
+          ["Carefully", "सावधानी से", "She drives carefully.<br>(वह सावधानी से गाड़ी चलाती है।)"]
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "2. Adverb of Time (कालवाचक क्रिया विशेषण)",
+        "headers": ["Adverb", "Hindi Meaning", "Example Sentence"],
+        "rows": [
+          ["Now", "अब", "I am busy now.<br>(मैं अभी व्यस्त हूँ।)"],
+          ["Yesterday", "कल (बीता हुआ)", "He came yesterday.<br>(वह कल आया था।)"],
+          ["Soon", "जल्द ही", "They will arrive soon.<br>(वे जल्द ही पहुँचेंगे।)"],
+          ["Today", "आज", "We are going to the park today.<br>(आज हम पार्क जा रहे हैं।)"]
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "3. Adverb of Place (स्थानवाचक क्रिया विशेषણ)",
+        "headers": ["Adverb", "Hindi Meaning", "Example Sentence"],
+        "rows": [
+          ["Here", "यहाँ", "Please come here.<br>(कृपया यहाँ आइए।)"],
+          ["There", "वहाँ", "The book is there.<br>(किताब वहाँ है।)"],
+          ["Everywhere", "हर जगह", "I looked for my keys everywhere.<br>(मैंने अपनी चाबियाँ हर जगह ढूँઢી।)"],
+          ["Outside", "बाहर", "The children are playing outside.<br>(बच्चे बाहर खेल रहे हैं।)"]
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "4. Adverb of Frequency (आवृत्तिवाचक क्रिया विशेषण)",
+        "headers": ["Adverb", "Hindi Meaning", "Example Sentence"],
+        "rows": [
+          ["Always", "हमेशा", "He always tells the truth.<br>(वह हमेशा सच बोलता है।)"],
+          ["Often", "अक्सर", "We often go to the cinema.<br>(हम अक्सर सिनेमा जाते हैं।)"],
+          ["Sometimes", "कभी-कभी", "I sometimes drink coffee.<br>(मैं कभी-कभी कॉफ़ी पीता हूँ।)"],
+          ["Never", "कभी नहीं", "She never eats meat.<br>(वह कभी मांस नहीं खाती।)"]
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "5. Adverb of Degree (परिमाणवाचक क्रिया विशेषण)",
+        "headers": ["Adverb", "Hindi Meaning", "Example Sentence"],
+        "rows": [
+          ["Very", "बहुत", "It is very hot today.<br>(आज बहुत गर्मी है।)"],
+          ["Too", "भी / अत्यधिक", "The coffee is too hot to drink.<br>(कॉफ़ी पीने के लिए अत्यधिक गर्म है।)"],
+          ["Almost", "लगभग", "I have almost finished my work.<br>(मैंने लगभग अपना काम पूरा कर लिया है।)"],
+          ["Quite", "बिल्कुल / काफी", "The movie was quite interesting.<br>(फिल्म काफी दिलचस्प थी।)"]
+        ]
+      }
+    },
+    {
+        "type": "note",
+        "content": "कई Adverbs of Manner विशेषण (Adjective) में '-ly' प्रत्यय जोड़कर बनते हैं। जैसे, slow (धीमा) -> slowly (धीरे से), happy (खुश) -> happily (खुशी से)।"
+    }
+  ]
+}

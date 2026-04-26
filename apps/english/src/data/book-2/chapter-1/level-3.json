@@ -1,0 +1,76 @@
+{
+  "id": "level-3",
+  "title": "Months 2",
+  "words": [
+    {
+      "word": "April",
+      "gujaratiPronunciation": "એપ્રિલ",
+      "hindiPronunciation": "अप्रैल",
+      "gujaratiMeaning": "એપ્રિલ",
+      "hindiMeaning": "अप्रैल",
+      "exampleSentences": [
+        {
+          "sentence": "April Fool's Day is on the first of April.",
+          "gujaratiTranslation": "એપ્રિલ ફૂલ્સ ડે પહેલી એપ્રિલે હોય છે.",
+          "hindiTranslation": "अप्रैल फूल्स डे पहली अप्रैल को होता है।"
+        }
+      ]
+    },
+    {
+      "word": "May",
+      "gujaratiPronunciation": "મે",
+      "hindiPronunciation": "मई",
+      "gujaratiMeaning": "મે",
+      "hindiMeaning": "मई",
+      "exampleSentences": [
+        {
+          "sentence": "Summer vacation starts in May.",
+          "gujaratiTranslation": "ઉનાળુ વેકેશન મે મહિનામાં શરૂ થાય છે.",
+          "hindiTranslation": "गर्मियों की छुट्टियां मई में शुरू होती हैं।"
+        }
+      ]
+    },
+    {
+      "word": "June",
+      "gujaratiPronunciation": "જૂન",
+      "hindiPronunciation": "जून",
+      "gujaratiMeaning": "જૂન",
+      "hindiMeaning": "जून",
+      "exampleSentences": [
+        {
+          "sentence": "The monsoon arrives in June.",
+          "gujaratiTranslation": "ચોમાસું જૂનમાં આવે છે.",
+          "hindiTranslation": "मानसून जून में आता है।"
+        }
+      ]
+    },
+    {
+      "word": "July",
+      "gujaratiPronunciation": "જુલાઈ",
+      "hindiPronunciation": "जुलाई",
+      "gujaratiMeaning": "જુલાઈ",
+      "hindiMeaning": "जुलाई",
+      "exampleSentences": [
+        {
+          "sentence": "My friend's wedding is in July.",
+          "gujaratiTranslation": "મારા મિત્રના લગ્ન જુલાઈમાં છે.",
+          "hindiTranslation": "मेरे दोस्त की शादी जुलाई में है।"
+        }
+      ]
+    },
+    {
+      "word": "August",
+      "gujaratiPronunciation": "ઓગસ્ટ",
+      "hindiPronunciation": "अगस्त",
+      "gujaratiMeaning": "ઓગસ્ટ",
+      "hindiMeaning": "अगस्त",
+      "exampleSentences": [
+        {
+          "sentence": "India's Independence Day is in August.",
+          "gujaratiTranslation": "ભારતનો સ્વતંત્રતા દિવસ ઓગસ્ટમાં છે.",
+          "hindiTranslation": "भारत का स्वतंत्रता दिवस अगस्त में है।"
+        }
+      ]
+    }
+  ]
+}

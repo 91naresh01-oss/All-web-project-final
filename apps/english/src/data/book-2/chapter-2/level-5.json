@@ -1,0 +1,77 @@
+
+{
+  "id": "level-5",
+  "title": "Weather Phenomena 2",
+  "words": [
+    {
+      "word": "Drizzle",
+      "gujaratiPronunciation": "ડ્રિઝલ",
+      "hindiPronunciation": "ड्रिजल",
+      "gujaratiMeaning": "ઝરમર વરસાદ",
+      "hindiMeaning": "बूंदा बांदी",
+      "exampleSentences": [
+        {
+          "sentence": "It started to drizzle.",
+          "gujaratiTranslation": "ઝરમર વરસાદ શરૂ થયો.",
+          "hindiTranslation": "बूंदा बांदी शुरू हो गई।"
+        }
+      ]
+    },
+    {
+      "word": "Breeze",
+      "gujaratiPronunciation": "બ્રીઝ",
+      "hindiPronunciation": "ब्रीज",
+      "gujaratiMeaning": "લહેર",
+      "hindiMeaning": "हवा का झोंका",
+      "exampleSentences": [
+        {
+          "sentence": "A gentle breeze was blowing.",
+          "gujaratiTranslation": "મંદ લહેર વાઈ રહી હતી.",
+          "hindiTranslation": "एक हल्की हवा चल रही थी।"
+        }
+      ]
+    },
+    {
+      "word": "Heat",
+      "gujaratiPronunciation": "હીટ",
+      "hindiPronunciation": "हीट",
+      "gujaratiMeaning": "ગરમી",
+      "hindiMeaning": "गर्मी",
+      "exampleSentences": [
+        {
+          "sentence": "I can't bear the heat.",
+          "gujaratiTranslation": "હું ગરમી સહન કરી શકતો નથી.",
+          "hindiTranslation": "मैं गर्मी सहन नहीं कर सकता।"
+        }
+      ]
+    },
+    {
+      "word": "Chill",
+      "gujaratiPronunciation": "ચિલ",
+      "hindiPronunciation": "चिल",
+      "gujaratiMeaning": "ઠંડી",
+      "hindiMeaning": "ठंड",
+      "exampleSentences": [
+        {
+          "sentence": "There is a chill in the air.",
+          "gujaratiTranslation": "હવામાં ઠંડક છે.",
+          "hindiTranslation": "हवा में ठंडक है।"
+        }
+      ]
+    },
+    {
+      "word": "Storm",
+      "gujaratiPronunciation": "સ્ટોર્મ",
+      "hindiPronunciation": "स्टॉर्म",
+      "gujaratiMeaning": "તોફાન",
+      "hindiMeaning": "तूफान",
+      "exampleSentences": [
+        {
+          "sentence": "A big storm is coming.",
+          "gujaratiTranslation": "એક મોટું તોફાન આવી રહ્યું છે.",
+          "hindiTranslation": "एक बड़ा तूफान आ रहा है।"
+        }
+      ]
+    }
+  ]
+}

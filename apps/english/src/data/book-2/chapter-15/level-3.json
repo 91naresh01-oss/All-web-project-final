@@ -1,0 +1,76 @@
+{
+  "id": "level-3",
+  "title": "Measurements 3",
+  "words": [
+    {
+      "word": "Distance",
+      "gujaratiPronunciation": "ડિસ્ટન્સ",
+      "hindiPronunciation": "डिस्टेंस",
+      "gujaratiMeaning": "અંતર",
+      "hindiMeaning": "दूरी",
+      "exampleSentences": [
+        {
+          "sentence": "The distance to the city is 50 km.",
+          "gujaratiTranslation": "શહેરનું અંતર 50 કિમી છે.",
+          "hindiTranslation": "शहर की दूरी 50 किमी है।"
+        }
+      ]
+    },
+    {
+      "word": "Kilometer",
+      "gujaratiPronunciation": "કિલોમીટર",
+      "hindiPronunciation": "किलोमीटर",
+      "gujaratiMeaning": "કિલોમીટર",
+      "hindiMeaning": "किलोमीटर",
+      "exampleSentences": [
+        {
+          "sentence": "We walked for one kilometer.",
+          "gujaratiTranslation": "અમે એક કિલોમીટર ચાલ્યા.",
+          "hindiTranslation": "हम एक किलोमीटर चले।"
+        }
+      ]
+    },
+    {
+      "word": "Meter",
+      "gujaratiPronunciation": "મીટર",
+      "hindiPronunciation": "मीटर",
+      "gujaratiMeaning": "મીટર",
+      "hindiMeaning": "मीटर",
+      "exampleSentences": [
+        {
+          "sentence": "This cloth is two meters long.",
+          "gujaratiTranslation": "આ કાપડ બે મીટર લાંબું છે.",
+          "hindiTranslation": "यह कपड़ा दो मीटर लंबा है।"
+        }
+      ]
+    },
+    {
+      "word": "Centimeter",
+      "gujaratiPronunciation": "સેન્ટીમીટર",
+      "hindiPronunciation": "सेंटीमीटर",
+      "gujaratiMeaning": "સેન્ટીમીટર",
+      "hindiMeaning": "सेंटीमीटर",
+      "exampleSentences": [
+        {
+          "sentence": "The insect is about one centimeter long.",
+          "gujaratiTranslation": "જંતુ લગભગ એક સેન્ટીમીટર લાંબો છે.",
+          "hindiTranslation": "कीट लगभग एक सेंटीमीटर लंबा है।"
+        }
+      ]
+    },
+    {
+      "word": "Area",
+      "gujaratiPronunciation": "એરિયા",
+      "hindiPronunciation": "एरिया",
+      "gujaratiMeaning": "વિસ્તાર",
+      "hindiMeaning": "क्षेत्रफल",
+      "exampleSentences": [
+        {
+          "sentence": "The area of this room is 100 square feet.",
+          "gujaratiTranslation": "આ રૂમનો વિસ્તાર 100 ચોરસ ફૂટ છે.",
+          "hindiTranslation": "इस कमरे का क्षेत्रफल 100 वर्ग फुट है।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Echo",
+      "gujaratiPronunciation": "એકો",
+      "hindiPronunciation": "एको",
+      "gujaratiMeaning": "પડઘો પડવો",
+      "hindiMeaning": "गूंजना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Echo",
+          "gujaratiPronunciation": "એકો",
+          "hindiPronunciation": "एको",
+          "gujaratiMeaning": "પડઘો પડવો",
+          "hindiMeaning": "गूंजना"
+        },
+        "V2 (Past)": {
+          "word": "Echoed",
+          "gujaratiPronunciation": "એકોડ",
+          "hindiPronunciation": "एकोड",
+          "gujaratiMeaning": "પડઘો પડ્યો",
+          "hindiMeaning": "गूंजा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Echoed",
+          "gujaratiPronunciation": "એકોડ",
+          "hindiPronunciation": "एकोड",
+          "gujaratiMeaning": "પડઘો પડેલો",
+          "hindiMeaning": "गूंजा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Echoing",
+          "gujaratiPronunciation": "એકોઇંગ",
+          "hindiPronunciation": "एकोइंग",
+          "gujaratiMeaning": "પડઘો પડી રહ્યો છે",
+          "hindiMeaning": "गूंज रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Resound",
+          "gujaratiPronunciation": "રિસાઉન્ડ",
+          "hindiPronunciation": "रिसाउंड",
+          "gujaratiMeaning": "ગુંજી ઉઠવું",
+          "hindiMeaning": "प्रतिध्वनित होना"
+        },
+        {
+          "word": "Reverberate",
+          "gujaratiPronunciation": "રિવર્બરેટ",
+          "hindiPronunciation": "रिवर्बरेट",
+          "gujaratiMeaning": "પ્રતિધ્વનિત થવું",
+          "hindiMeaning": "प्रतिध्वनित होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Absorb",
+          "gujaratiPronunciation": "એબ્સોર્બ",
+          "hindiPronunciation": "एब्सॉर्ब",
+          "gujaratiMeaning": "શોષી લેવું",
+          "hindiMeaning": "सोख लेना"
+        },
+        {
+          "word": "Silence",
+          "gujaratiPronunciation": "સાઈલન્સ",
+          "hindiPronunciation": "साइलेंस",
+          "gujaratiMeaning": "શાંત કરવું",
+          "hindiMeaning": "शांत करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Eco",
+          "gujaratiPronunciation": "ઇકો",
+          "hindiPronunciation": "इको",
+          "gujaratiMeaning": "પર્યાવરણ સંબંધિત",
+          "hindiMeaning": "पर्यावरण संबंधी",
+          "difference": "Echo એટલે પડઘો, જ્યારે Eco પર્યાવરણ સાથે સંબંધિત છે (જેમ કે 'eco-friendly')."
+        },
+        {
+          "word": "Etch",
+          "gujaratiPronunciation": "એચ",
+          "hindiPronunciation": "एच",
+          "gujaratiMeaning": "કોતરવું",
+          "hindiMeaning": "नक्काशी करना",
+          "difference": "Echo અને Etch ના ઉચ્ચાર અને અર્થ તદ્દન અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Her laughter echoed through the empty hall.",
+          "gujaratiPronunciation": "હર લાફ્ટર એકોડ થ્રુ ધ એમ્પ્ટી હોલ.",
+          "hindiPronunciation": "हर लाफ्टर एकोड थ्रू द एम्प्टी हॉल।",
+          "gujaratiTranslation": "તેણીનું હાસ્ય ખાલી હોલમાં ગુંજી રહ્યું હતું.",
+          "hindiTranslation": "उसकी हँसी खाली हॉल में गूँज रही थी।"
+        }
+      ]
+    },
+    {
+      "word": "Muffle",
+      "gujaratiPronunciation": "મફલ",
+      "hindiPronunciation": "मफल",
+      "gujaratiMeaning": "અવાજ દબાવવો",
+      "hindiMeaning": "आवाज़ दबाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Muffle",
+          "gujaratiPronunciation": "મફલ",
+          "hindiPronunciation": "मफल",
+          "gujaratiMeaning": "અવાજ દબાવવો",
+          "hindiMeaning": "आवाज़ दबाना"
+        },
+        "V2 (Past)": {
+          "word": "Muffled",
+          "gujaratiPronunciation": "મફલ્ડ",
+          "hindiPronunciation": "मफल्ड",
+          "gujaratiMeaning": "અવાજ દબાવ્યો",
+          "hindiMeaning": "आवाज़ दबाई"
+        },
+        "V3 (Past Participle)": {
+          "word": "Muffled",
+          "gujaratiPronunciation": "મફલ્ડ",
+          "hindiPronunciation": "मफल्ड",
+          "gujaratiMeaning": "દબાયેલો અવાજ",
+          "hindiMeaning": "दबी हुई आवाज़"
+        },
+        "V4 (Present Participle)": {
+          "word": "Muffling",
+          "gujaratiPronunciation": "મફલિંગ",
+          "hindiPronunciation": "मफलिंग",
+          "gujaratiMeaning": "અવાજ દબાવી રહ્યું છે",
+          "hindiMeaning": "आवाज़ दबा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Dampen",
+          "gujaratiPronunciation": "ડેમ્પન",
+          "hindiPronunciation": "डैम्पन",
+          "gujaratiMeaning": "અવાજ ઓછો કરવો",
+          "hindiMeaning": "आवाज़ कम करना"
+        },
+        {
+          "word": "Suppress",
+          "gujaratiPronunciation": "સપ્રેસ",
+          "hindiPronunciation": "सप्रेस",
+          "gujaratiMeaning": "દબાવવું",
+          "hindiMeaning": "दबाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Amplify",
+          "gujaratiPronunciation": "એમ્પ્લીફાય",
+          "hindiPronunciation": "एम्प्लीफाई",
+          "gujaratiMeaning": "અવાજ વધારવો",
+          "hindiMeaning": "आवाज़ बढ़ाना"
+        },
+        {
+          "word": "Broadcast",
+          "gujaratiPronunciation": "બ્રોડકાસ્ટ",
+          "hindiPronunciation": "ब्रॉडकास्ट",
+          "gujaratiMeaning": "પ્રસારિત કરવું",
+          "hindiMeaning": "प्रसारित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Muffin",
+          "gujaratiPronunciation": "મફિન",
+          "hindiPronunciation": "मफिन",
+          "gujaratiMeaning": "એક પ્રકારની કેક",
+          "hindiMeaning": "एक प्रकार का केक",
+          "difference": "Muffle એટલે અવાજ દબાવવો, Muffin એ ખાવાની વસ્તુ છે."
+        },
+        {
+          "word": "Ruffle",
+          "gujaratiPronunciation": "રફલ",
+          "hindiPronunciation": "रफल",
+          "gujaratiMeaning": "વિખેરી નાખવું/ચિડવવું",
+          "hindiMeaning": "बिखेरना/चिढ़ाना",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He tried to muffle the sound of his cough with a handkerchief.",
+          "gujaratiPronunciation": "હી ટ્રાઈડ ટુ મફલ ધ સાઉન્ડ ઓફ હિઝ કફ વિથ અ હેન્કરચીફ.",
+          "hindiPronunciation": "ही ट्राइड टू मफल द साउंड ऑफ हिज कफ विद अ हेंकरचिफ।",
+          "gujaratiTranslation": "તેણે રૂમાલ વડે પોતાની ખાંસીનો અવાજ દબાવવાનો પ્રયત્ન કર્યો.",
+          "hindiTranslation": "उसने रूमाल से अपनी खांसी की आवाज़ को दबाने की कोशिश की।"
+        }
+      ]
+    },
+    {
+      "word": "Clamor",
+      "gujaratiPronunciation": "ક્લેમર",
+      "hindiPronunciation": "क्लैमर",
+      "gujaratiMeaning": "ઘોંઘાટ કરવો",
+      "hindiMeaning": "शोर मचाना",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Clamor",
+          "gujaratiPronunciation": "ક્લેમર",
+          "hindiPronunciation": "क्लैमर",
+          "gujaratiMeaning": "ઘોંઘાટ કરવો",
+          "hindiMeaning": "शोर मचाना"
+        },
+        "V2 (Past)": {
+          "word": "Clamored",
+          "gujaratiPronunciation": "ક્લેમર્ડ",
+          "hindiPronunciation": "क्लैमर्ड",
+          "gujaratiMeaning": "ઘોંઘાટ કર્યો",
+          "hindiMeaning": "शोर मचाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Clamored",
+          "gujaratiPronunciation": "ક્લેમર્ડ",
+          "hindiPronunciation": "क्लैमर्ड",
+          "gujaratiMeaning": "ઘોંઘાટ કરેલો",
+          "hindiMeaning": "शोर मचाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Clamoring",
+          "gujaratiPronunciation": "ક્લેમરિંગ",
+          "hindiPronunciation": "क्लैमरिंग",
+          "gujaratiMeaning": "ઘોંઘાટ કરી રહ્યું છે",
+          "hindiMeaning": "शोर मचा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Uproar",
+          "gujaratiPronunciation": "અપરોર",
+          "hindiPronunciation": "अपरौर",
+          "gujaratiMeaning": "કોલાહલ",
+          "hindiMeaning": "कोलाहल"
+        },
+        {
+          "word": "Din",
+          "gujaratiPronunciation": "ડિન",
+          "hindiPronunciation": "डिन",
+          "gujaratiMeaning": "તીવ્ર ઘોંઘાટ",
+          "hindiMeaning": "तीव्र शोर"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Silence",
+          "gujaratiPronunciation": "સાઈલન્સ",
+          "hindiPronunciation": "साइलेंस",
+          "gujaratiMeaning": "શાંતિ",
+          "hindiMeaning": "शांति"
+        },
+        {
+          "word": "Quiet",
+          "gujaratiPronunciation": "ક્વાયટ",
+          "hindiPronunciation": "क्वाइट",
+          "gujaratiMeaning": "ચૂપકીદી",
+          "hindiMeaning": "खामोशी"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Glamour",
+          "gujaratiPronunciation": "ગ્લેમર",
+          "hindiPronunciation": "ग्लैमर",
+          "gujaratiMeaning": "આકર્ષણ/ચમક",
+          "hindiMeaning": "आकर्षण/चमक",
+          "difference": "Clamor એટલે ઘોંઘાટ, જ્યારે Glamour એટલે આકર્ષણ."
+        },
+        {
+          "word": "Claim",
+          "gujaratiPronunciation": "ક્લેમ",
+          "hindiPronunciation": "क्लेम",
+          "gujaratiMeaning": "દાવો કરવો",
+          "hindiMeaning": "दावा करना",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The children were all clamoring for attention.",
+          "gujaratiPronunciation": "ધ ચિલ્ડ્રન વર ઓલ ક્લેમરિંગ ફોર અટેન્શન.",
+          "hindiPronunciation": "द चिल्ड्रन वर ऑल क्लैमरिंग फॉर अटेंशन।",
+          "gujaratiTranslation": "બાળકો બધા ધ્યાન ખેંચવા માટે ઘોંઘાટ કરી રહ્યા હતા.",
+          "hindiTranslation": "बच्चे सभी ध्यान आकर्षित करने के लिए शोर मचा रहे थे।"
+        }
+      ]
+    },
+    {
+      "word": "Articulate",
+      "gujaratiPronunciation": "આર્ટિક્યુલેટ",
+      "hindiPronunciation": "आर्टिकुलेट",
+      "gujaratiMeaning": "સ્પષ્ટ રીતે બોલવું",
+      "hindiMeaning": "स्पष्ट रूप से बोलना",
+      "partOfSpeech": "Verb/Adjective",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Articulate",
+          "gujaratiPronunciation": "આર્ટિક્યુલેટ",
+          "hindiPronunciation": "आर्टिकुलेट",
+          "gujaratiMeaning": "સ્પષ્ટ રીતે બોલવું",
+          "hindiMeaning": "स्पष्ट रूप से बोलना"
+        },
+        "V2 (Past)": {
+          "word": "Articulated",
+          "gujaratiPronunciation": "આર્ટિક્યુલેટેડ",
+          "hindiPronunciation": "आर्टिकुलेटेड",
+          "gujaratiMeaning": "સ્પષ્ટ રીતે બોલ્યા",
+          "hindiMeaning": "स्पष्ट रूप से बोला"
+        },
+        "V3 (Past Participle)": {
+          "word": "Articulated",
+          "gujaratiPronunciation": "આર્ટિક્યુલેટેડ",
+          "hindiPronunciation": "आर्टिकुलेटेड",
+          "gujaratiMeaning": "સ્પષ્ટ રીતે બોલેલું",
+          "hindiMeaning": "स्पष्ट रूप से बोला हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Articulating",
+          "gujaratiPronunciation": "આર્ટિક્યુલેટિંગ",
+          "hindiPronunciation": "आर्टिकुलेटिंग",
+          "gujaratiMeaning": "સ્પષ્ટ રીતે બોલી રહ્યું છે",
+          "hindiMeaning": "स्पष्ट रूप से बोल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Enunciate",
+          "gujaratiPronunciation": "ઇનન્સિએટ",
+          "hindiPronunciation": "एनंसिएट",
+          "gujaratiMeaning": "સ્પષ્ટ ઉચ્ચાર કરવો",
+          "hindiMeaning": "स्पष्ट उच्चारण करना"
+        },
+        {
+          "word": "Express",
+          "gujaratiPronunciation": "એક્સપ્રેસ",
+          "hindiPronunciation": "एक्सप्रेस",
+          "gujaratiMeaning": "વ્યક્ત કરવું",
+          "hindiMeaning": "व्यक्त करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Mumble",
+          "gujaratiPronunciation": "મમ્બલ",
+          "hindiPronunciation": "मम्बल",
+          "gujaratiMeaning": "ગણગણવું",
+          "hindiMeaning": "बुदबुदाना"
+        },
+        {
+          "word": "Stammer",
+          "gujaratiPronunciation": "સ્ટેમર",
+          "hindiPronunciation": "स्टैमर",
+          "gujaratiMeaning": "હકલાવું",
+          "hindiMeaning": "हकलाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Article",
+          "gujaratiPronunciation": "આર્ટિકલ",
+          "hindiPronunciation": "आर्टिकल",
+          "gujaratiMeaning": "લેખ/વસ્તુ",
+          "hindiMeaning": "लेख/वस्तु",
+          "difference": "Articulate એટલે સ્પષ્ટ બોલવું, જ્યારે Article એટલે લેખ."
+        },
+        {
+          "word": "Calculate",
+          "gujaratiPronunciation": "કેલ્ક્યુલેટ",
+          "hindiPronunciation": "कैल्कुलेट",
+          "gujaratiMeaning": "ગણતરી કરવી",
+          "hindiMeaning": "गणना करना",
+          "difference": "બંને ક્રિયાપદો છે પણ અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She is an intelligent and highly articulate speaker.",
+          "gujaratiPronunciation": "શી ઇઝ એન ઇન્ટેલિજન્ટ એન્ડ હાઇલી આર્ટિક્યુલેટ સ્પીકર.",
+          "hindiPronunciation": "शी इज एन इंटेलिजेंट एंड हाइली आर्टिकुलेट स्पीकर।",
+          "gujaratiTranslation": "તેણી એક બુદ્ધિશાળી અને અત્યંત સ્પષ્ટ વક્તા છે.",
+          "hindiTranslation": "वह एक बुद्धिमान और अत्यधिक स्पष्ट वक्ता है।"
+        }
+      ]
+    },
+    {
+      "word": "Intone",
+      "gujaratiPronunciation": "ઇન્ટોન",
+      "hindiPronunciation": "इंटोन",
+      "gujaratiMeaning": "એક સમાન સૂરમાં બોલવું",
+      "hindiMeaning": "एक समान स्वर में बोलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Intone",
+          "gujaratiPronunciation": "ઇન્ટોન",
+          "hindiPronunciation": "इंटोन",
+          "gujaratiMeaning": "એક સમાન સૂરમાં બોલવું",
+          "hindiMeaning": "एक समान स्वर में बोलना"
+        },
+        "V2 (Past)": {
+          "word": "Intoned",
+          "gujaratiPronunciation": "ઇન્ટોન્ડ",
+          "hindiPronunciation": "इंटोंड",
+          "gujaratiMeaning": "સૂરમાં બોલ્યા",
+          "hindiMeaning": "स्वर में बोला"
+        },
+        "V3 (Past Participle)": {
+          "word": "Intoned",
+          "gujaratiPronunciation": "ઇન્ટોન્ડ",
+          "hindiPronunciation": "इंटोंड",
+          "gujaratiMeaning": "સૂરમાં બોલેલું",
+          "hindiMeaning": "स्वर में बोला हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Intoning",
+          "gujaratiPronunciation": "ઇન્ટોનિંગ",
+          "hindiPronunciation": "इंटोनिंग",
+          "gujaratiMeaning": "સૂરમાં બોલી રહ્યું છે",
+          "hindiMeaning": "स्वर में बोल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Chant",
+          "gujaratiPronunciation": "ચાન્ટ",
+          "hindiPronunciation": "चैंट",
+          "gujaratiMeaning": "જાપ કરવો",
+          "hindiMeaning": "जाप करना"
+        },
+        {
+          "word": "Recite",
+          "gujaratiPronunciation": "રિસાઇટ",
+          "hindiPronunciation": "रिसाइट",
+          "gujaratiMeaning": "પઠન કરવું",
+          "hindiMeaning": "पाठ करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Shout",
+          "gujaratiPronunciation": "શાઉટ",
+          "hindiPronunciation": "शाउट",
+          "gujaratiMeaning": "બૂમ પાડવી",
+          "hindiMeaning": "चिल्लाना"
+        },
+        {
+          "word": "Mumble",
+          "gujaratiPronunciation": "મમ્બલ",
+          "hindiPronunciation": "मम्बल",
+          "gujaratiMeaning": "ગણગણવું",
+          "hindiMeaning": "बुदबुदाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "In tone",
+          "gujaratiPronunciation": "ઇન ટોન",
+          "hindiPronunciation": "इन टोन",
+          "gujaratiMeaning": "સૂરમાં હોવું (બે શબ્દો)",
+          "hindiMeaning": "सुर में होना (दो शब्द)",
+          "difference": "Intone એ એક ક્રિયાપદ છે, જ્યારે 'in tone' એ એક શબ્દસમૂહ છે."
+        },
+        {
+          "word": "Entomb",
+          "gujaratiPronunciation": "એન્ટૂમ",
+          "hindiPronunciation": "एंटूम",
+          "gujaratiMeaning": "દફનાવવું",
+          "hindiMeaning": "दफनाना",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The priest intoned the final prayers.",
+          "gujaratiPronunciation": "ધ પ્રીસ્ટ ઇન્ટોન્ડ ધ ફાઇનલ પ્રેયર્સ.",
+          "hindiPronunciation": "द प्रीस्ट इंटोंड द फाइनल प्रेयर्स।",
+          "gujaratiTranslation": "પાદરીએ અંતિમ પ્રાર્થનાઓ એક સૂરમાં ગાઈ.",
+          "hindiTranslation": "पुजारी ने अंतिम प्रार्थनाएँ एक स्वर में कहीं।"
+        }
+      ]
+    }
+  ]
+}

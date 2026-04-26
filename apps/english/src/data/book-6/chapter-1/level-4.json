@@ -1,0 +1,131 @@
+{
+    "id": "level-4",
+    "title": "Level 4: Holistic Concepts",
+    "words": [
+        {
+            "word": "Harmonize",
+            "gujaratiPronunciation": "હાર્મોનાઇઝ",
+            "hindiPronunciation": "हार्मोनाइज़",
+            "gujaratiMeaning": "સામંજસ્ય સાધવું",
+            "hindiMeaning": "सामंजस्य स्थापित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Harmonize", "gujaratiPronunciation": "હાર્મોનાઇઝ", "hindiPronunciation": "हार्मोनाइज़", "gujaratiMeaning": "સામંજસ્ય સાધવું", "hindiMeaning": "सामंजस्य स्थापित करना" },
+                "V2 (Past)": { "word": "Harmonized", "gujaratiPronunciation": "હાર્મોનાઇઝ્ડ", "hindiPronunciation": "हार्मोनाइज़्ड", "gujaratiMeaning": "સામંજસ્ય સાધ્યું", "hindiMeaning": "सामंजस्य स्थापित किया" },
+                "V3 (Past Participle)": { "word": "Harmonized", "gujaratiPronunciation": "હાર્મોનાઇઝ્ડ", "hindiPronunciation": "हार्मोनाइज़्ड", "gujaratiMeaning": "સામંજસ્ય સાધેલ", "hindiMeaning": "सामंजस्य स्थापित कर चुका" },
+                "V4 (Present Participle)": { "word": "Harmonizing", "gujaratiPronunciation": "હાર્મોનાઇઝિંગ", "hindiPronunciation": "हार्मोनाइज़िंग", "gujaratiMeaning": "સામંજસ્ય સાધી રહ્યું છે", "hindiMeaning": "सामंजस्य स्थापित कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Coordinate", "gujaratiPronunciation": "કોઓર્ડિનેટ", "hindiPronunciation": "कोऑर्डिनेट", "gujaratiMeaning": "સંકલન કરવું", "hindiMeaning": "समन्वय करना" },
+                { "word": "Integrate", "gujaratiPronunciation": "ઇન્ટિગ્રેટ", "hindiPronunciation": "इंटीग्रेट", "gujaratiMeaning": "એકીકૃત કરવું", "hindiMeaning": "एकीकृत करना" }
+            ],
+            "antonyms": [
+                { "word": "Conflict", "gujaratiPronunciation": "કોન્ફ્લિક્ટ", "hindiPronunciation": "कॉन्फ़्लिक्ट", "gujaratiMeaning": "સંઘર્ષ કરવો", "hindiMeaning": "संघर्ष करना" },
+                { "word": "Clash", "gujaratiPronunciation": "ક્લેશ", "hindiPronunciation": "क्लैश", "gujaratiMeaning": "ટકરાવ થવો", "hindiMeaning": "टकराव होना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "Yoga helps to harmonize the mind and body.", "gujaratiPronunciation": "યોગા હેલ્પ્સ ટુ હાર્મોનાઇઝ ધ માઇન્ડ એન્ડ બોડી.", "hindiPronunciation": "योगा हेल्प्स टू हार्मोनाइज़ द माइंड एंड बॉडी।", "gujaratiTranslation": "યોગ મન અને શરીર વચ્ચે સામંજસ્ય સાધવામાં મદદ કરે છે.", "hindiTranslation": "योग मन और शरीर में सामंजस्य स्थापित करने में मदद करता है।" }
+            ]
+        },
+        {
+            "word": "Rejuvenate",
+            "gujaratiPronunciation": "રિજુવિનેટ",
+            "hindiPronunciation": "रिजुविनेट",
+            "gujaratiMeaning": "કાયાકલ્પ કરવો / નવજીવન આપવું",
+            "hindiMeaning": "कायाकल्प करना / नवजीवन देना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Rejuvenate", "gujaratiPronunciation": "રિજુવિનેટ", "hindiPronunciation": "रिजुविनेट", "gujaratiMeaning": "કાયાકલ્પ કરવો", "hindiMeaning": "कायाकल्प करना" },
+                "V2 (Past)": { "word": "Rejuvenated", "gujaratiPronunciation": "રિજુવિનેટેડ", "hindiPronunciation": "रिजुविनेटेड", "gujaratiMeaning": "કાયાકલ્પ કર્યો", "hindiMeaning": "कायाकल्प किया" },
+                "V3 (Past Participle)": { "word": "Rejuvenated", "gujaratiPronunciation": "રિજુવિનેટેડ", "hindiPronunciation": "रिजुविनेटेड", "gujaratiMeaning": "કાયાકલ્પ કરેલ", "hindiMeaning": "कायाकल्प कर चुका" },
+                "V4 (Present Participle)": { "word": "Rejuvenating", "gujaratiPronunciation": "રિજુવિનેટિંગ", "hindiPronunciation": "रिजुविनेटिंग", "gujaratiMeaning": "કાયાકલ્પ કરી રહ્યું છે", "hindiMeaning": "कायाकल्प कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Refresh", "gujaratiPronunciation": "રિફ્રેશ", "hindiPronunciation": "रिफ़्रेश", "gujaratiMeaning": "તાજગી આપવી", "hindiMeaning": "ताज़ा करना" },
+                { "word": "Revitalize", "gujaratiPronunciation": "રિવાઇટલાઇઝ", "hindiPronunciation": "रिवाईटलाइज़", "gujaratiMeaning": "પુનર્જીવિત કરવું", "hindiMeaning": "पुनर्जीवित करना" }
+            ],
+            "antonyms": [
+                { "word": "Weaken", "gujaratiPronunciation": "વિકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमज़ोर करना" },
+                { "word": "Age", "gujaratiPronunciation": "એજ", "hindiPronunciation": "एज", "gujaratiMeaning": "વૃદ્ધ થવું", "hindiMeaning": "बूढ़ा करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "A good vacation can rejuvenate your spirit.", "gujaratiPronunciation": "અ ગુડ વેકેશન કેન રિજુવિનેટ યોર સ્પિરિટ.", "hindiPronunciation": "अ गुड वेकेशन कैन रिजुविनेट योर स्पिरिट।", "gujaratiTranslation": "એક સારી રજા તમારી ભાવનાને નવજીવન આપી શકે છે.", "hindiTranslation": "एक अच्छी छुट्टी आपकी आत्मा को फिर से جوان कर सकती है।" }
+            ]
+        },
+        {
+            "word": "Immunize",
+            "gujaratiPronunciation": "ઇમ્યુનાઇઝ",
+            "hindiPronunciation": "इम्यूनाइज़",
+            "gujaratiMeaning": "રસીકરણ કરવું",
+            "hindiMeaning": "टीकाकरण करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Immunize", "gujaratiPronunciation": "ઇમ્યુનાઇઝ", "hindiPronunciation": "इम्यूनाइज़", "gujaratiMeaning": "રસીકરણ કરવું", "hindiMeaning": "टीकाकरण करना" },
+                "V2 (Past)": { "word": "Immunized", "gujaratiPronunciation": "ઇમ્યુનાઇઝ્ડ", "hindiPronunciation": "इम्यूनाइज़्ड", "gujaratiMeaning": "રસીકરણ કર્યું", "hindiMeaning": "टीकाकरण किया" },
+                "V3 (Past Participle)": { "word": "Immunized", "gujaratiPronunciation": "ઇમ્યુનાઇઝ્ડ", "hindiPronunciation": "इम्यूनाइज़्ड", "gujaratiMeaning": "રસીકરણ કરેલ", "hindiMeaning": "टीकाकरण कर चुका" },
+                "V4 (Present Participle)": { "word": "Immunizing", "gujaratiPronunciation": "ઇમ્યુનાઇઝિંગ", "hindiPronunciation": "इम्यूनाइज़िंग", "gujaratiMeaning": "રસીકરણ કરી રહ્યું છે", "hindiMeaning": "टीकाकरण कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Vaccinate", "gujaratiPronunciation": "વેક્સિનેટ", "hindiPronunciation": "वैक्सीनेट", "gujaratiMeaning": "રસી આપવી", "hindiMeaning": "टीका लगाना" },
+                { "word": "Inoculate", "gujaratiPronunciation": "ઇનોક્યુલેટ", "hindiPronunciation": "इनोक्यूलेट", "gujaratiMeaning": "રસી મૂકવી", "hindiMeaning": "टीका लगाना" }
+            ],
+            "antonyms": [
+                { "word": "Expose", "gujaratiPronunciation": "એક્સપોઝ", "hindiPronunciation": "एक्सपोज़", "gujaratiMeaning": "ખુલ્લું કરવું", "hindiMeaning": "उजागर करना" },
+                { "word": "Sensitize", "gujaratiPronunciation": "સેન્સિટાઇઝ", "hindiPronunciation": "सेंसिटाइज़", "gujaratiMeaning": "સંવેદનશીલ બનાવવું", "hindiMeaning": "संवेदनशील बनाना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "It is important to immunize children against diseases.", "gujaratiPronunciation": "ઇટ ઇઝ ઇમ્પોર્ટન્ટ ટુ ઇમ્યુનાઇઝ ચિલ્ડ્રન અગેઇન્સ્ટ ડિસિઝીસ.", "hindiPronunciation": "इट इज़ इम्पोर्टेंट टू इम्यूनाइज़ चिल्ड्रन अगेंस्ट डिज़ीज़ेज़।", "gujaratiTranslation": "બાળકોને રોગો સામે રસીકરણ કરવું મહત્વપૂર્ણ છે.", "hindiTranslation": "बच्चों को बीमारियों के खिलाफ टीका लगवाना महत्वपूर्ण है।" }
+            ]
+        },
+        {
+            "word": "Holistically",
+            "gujaratiPronunciation": "હોલિસ્ટિકલી",
+            "hindiPronunciation": "होलिस्टिकली",
+            "gujaratiMeaning": "સમગ્રલક્ષી રીતે",
+            "hindiMeaning": "समग्र रूप से",
+            "partOfSpeech": "adverb",
+            "verbForms": {},
+            "synonyms": [
+                { "word": "Comprehensively", "gujaratiPronunciation": "કોમ્પ્રિહેન્સિવલી", "hindiPronunciation": "कॉम्प्रिहेंसिवली", "gujaratiMeaning": "વ્યાપકપણે", "hindiMeaning": "व्यापक रूप से" },
+                { "word": "Wholly", "gujaratiPronunciation": "હોલી", "hindiPronunciation": "होली", "gujaratiMeaning": "સંપૂર્ણપણે", "hindiMeaning": "पूरी तरह से" }
+            ],
+            "antonyms": [
+                { "word": "Partially", "gujaratiPronunciation": "પાર્શિયલી", "hindiPronunciation": "पार्शियली", "gujaratiMeaning": "આંશિક રીતે", "hindiMeaning": "आंशिक रूप से" },
+                { "word": "Narrowly", "gujaratiPronunciation": "નેરોલી", "hindiPronunciation": "नैरोली", "gujaratiMeaning": "સંકુચિત રીતે", "hindiMeaning": "संकीर्ण रूप से" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "We must approach the problem holistically.", "gujaratiPronunciation": "વી મસ્ટ એપ્રોચ ધ પ્રોબ્લેમ હોલિસ્ટિકલી.", "hindiPronunciation": "वी मस्ट अप्रोच द प्रॉब्लम होलिस्टिकली।", "gujaratiTranslation": "આપણે સમસ્યાનો સમગ્રલક્ષી રીતે ઉકેલ લાવવો જોઈએ.", "hindiTranslation": "हमें समस्या का समग्र रूप से समाधान करना चाहिए।" }
+            ]
+        },
+        {
+            "word": "Stabilize",
+            "gujaratiPronunciation": "સ્ટેબિલાઇઝ",
+            "hindiPronunciation": "स्टेबलाइज़",
+            "gujaratiMeaning": "સ્થિર કરવું",
+            "hindiMeaning": "स्थिर करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Stabilize", "gujaratiPronunciation": "સ્ટેબિલાઇઝ", "hindiPronunciation": "स्टेबलाइज़", "gujaratiMeaning": "સ્થિર કરવું", "hindiMeaning": "स्थिर करना" },
+                "V2 (Past)": { "word": "Stabilized", "gujaratiPronunciation": "સ્ટેબિલાઇઝ્ડ", "hindiPronunciation": "स्टेबलाइज़्ड", "gujaratiMeaning": "સ્થિર કર્યું", "hindiMeaning": "स्थिर किया" },
+                "V3 (Past Participle)": { "word": "Stabilized", "gujaratiPronunciation": "સ્ટેબિલાઇઝ્ડ", "hindiPronunciation": "स्टेबलाइज़्ड", "gujaratiMeaning": "સ્થિર કરેલ", "hindiMeaning": "स्थिर कर चुका" },
+                "V4 (Present Participle)": { "word": "Stabilizing", "gujaratiPronunciation": "સ્ટેબિલાઇઝિંગ", "hindiPronunciation": "स्टेबलाइज़िंग", "gujaratiMeaning": "સ્થિર કરી રહ્યું છે", "hindiMeaning": "स्थिर कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Balance", "gujaratiPronunciation": "બેલેન્સ", "hindiPronunciation": "बैलेंस", "gujaratiMeaning": "સંતુલિત કરવું", "hindiMeaning": "संतुलित करना" },
+                { "word": "Secure", "gujaratiPronunciation": "સિક્યોર", "hindiPronunciation": "सिक्योर", "gujaratiMeaning": "સુરક્ષિત કરવું", "hindiMeaning": "सुरक्षित करना" }
+            ],
+            "antonyms": [
+                { "word": "Destabilize", "gujaratiPronunciation": "ડિસ્ટેબિલાઇઝ", "hindiPronunciation": "डीस्टेबलाइज़", "gujaratiMeaning": "અસ્થિર કરવું", "hindiMeaning": "अस्थिर करना" },
+                { "word": "Upset", "gujaratiPronunciation": "અપસેટ", "hindiPronunciation": "अपसेट", "gujaratiMeaning": "ખલેલ પહોંચાડવી", "hindiMeaning": "अशांत करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The medicine helped to stabilize his condition.", "gujaratiPronunciation": "ધ મેડિસિન હેલ્પ્ડ ટુ સ્ટેબિલાઇઝ હિઝ કન્ડિશન.", "hindiPronunciation": "द मेडिसिन हेल्प्ड टू स्टेबलाइज़ हिज़ कंडीशन।", "gujaratiTranslation": "દવાએ તેની સ્થિતિને સ્થિર કરવામાં મદદ કરી.", "hindiTranslation": "दवा ने उसकी स्थिति को स्थिर करने में मदद की।" }
+            ]
+        }
+    ]
+}

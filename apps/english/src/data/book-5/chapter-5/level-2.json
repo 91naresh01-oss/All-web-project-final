@@ -1,0 +1,449 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2: Cultivate | Mature | Advance | Broaden | Elevate",
+  "words": [
+    {
+      "word": "Cultivate",
+      "gujaratiPronunciation": "કલ્ટિવેટ",
+      "hindiPronunciation": "कल्टिवेट",
+      "gujaratiMeaning": "ખેતી કરવી, વિકસાવવું",
+      "hindiMeaning": "खेती करना, विकसित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Cultivate",
+          "gujaratiPronunciation": "કલ્ટિવેટ",
+          "hindiPronunciation": "कल्टिवेट",
+          "gujaratiMeaning": "ખેતી કરવી",
+          "hindiMeaning": "खेती करना"
+        },
+        "V2": {
+          "word": "Cultivated",
+          "gujaratiPronunciation": "કલ્ટિવેટેડ",
+          "hindiPronunciation": "कल्टिवेटेड",
+          "gujaratiMeaning": "ખેતી કરી",
+          "hindiMeaning": "खेती की"
+        },
+        "V3": {
+          "word": "Cultivated",
+          "gujaratiPronunciation": "કલ્ટિવેટેડ",
+          "hindiPronunciation": "कल्टिवेटेड",
+          "gujaratiMeaning": "ખેતી કરેલું",
+          "hindiMeaning": "खेती किया हुआ"
+        },
+        "V4": {
+          "word": "Cultivating",
+          "gujaratiPronunciation": "કલ્ટિવેટિંગ",
+          "hindiPronunciation": "कल्टिवेटिंग",
+          "gujaratiMeaning": "ખેતી કરી રહ્યું છે",
+          "hindiMeaning": "खेती कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Nurture",
+          "gujaratiPronunciation": "નર્ચર",
+          "hindiPronunciation": "नर्चर",
+          "gujaratiMeaning": "પોષણ આપવું",
+          "hindiMeaning": "पोषण करना"
+        },
+        {
+          "word": "Develop",
+          "gujaratiPronunciation": "ડેવલપ",
+          "hindiPronunciation": "डेवलप",
+          "gujaratiMeaning": "વિકસાવવું",
+          "hindiMeaning": "विकसित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગલેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Abandon",
+          "gujaratiPronunciation": "અબૅન્ડન",
+          "hindiPronunciation": "अबैंडन",
+          "gujaratiMeaning": "ત્યાગ કરવો",
+          "hindiMeaning": "त्याग देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Captivate",
+          "gujaratiPronunciation": "કેપ્ટિવેટ",
+          "hindiPronunciation": "कैप्टिवेट",
+          "gujaratiMeaning": "મોહિત કરવું",
+          "hindiMeaning": "मोहित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is important to cultivate good habits.",
+          "gujaratiTranslation": "સારી આદતો કેળવવી મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "अच्छी आदतें डालना महत्वपूर्ण है।",
+          "gujaratiPronunciation": "ઇટ ઇઝ ઇમ્પોર્ટન્ટ ટુ કલ્ટિવેટ ગુડ હેબિટ્સ.",
+          "hindiPronunciation": "इट इज़ इम्पोर्टेंट टू कल्टिवेट गुड हैबिट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Mature",
+      "gujaratiPronunciation": "મેચ્યોર",
+      "hindiPronunciation": "मैच्योर",
+      "gujaratiMeaning": "પરિપક્વ થવું",
+      "hindiMeaning": "परिपक्व होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Mature",
+          "gujaratiPronunciation": "મેચ્યોર",
+          "hindiPronunciation": "मैच्योर",
+          "gujaratiMeaning": "પરિપક્વ થવું",
+          "hindiMeaning": "परिपक्व होना"
+        },
+        "V2": {
+          "word": "Matured",
+          "gujaratiPronunciation": "મેચ્યોર્ડ",
+          "hindiPronunciation": "मैच्योर्ड",
+          "gujaratiMeaning": "પરિપક્વ થયું",
+          "hindiMeaning": "परिपक्व हुआ"
+        },
+        "V3": {
+          "word": "Matured",
+          "gujaratiPronunciation": "મેચ્યોર્ડ",
+          "hindiPronunciation": "मैच्योर्ड",
+          "gujaratiMeaning": "પરિપક્વ થયેલું",
+          "hindiMeaning": "परिपक्व हुआ"
+        },
+        "V4": {
+          "word": "Maturing",
+          "gujaratiPronunciation": "મેચ્યોરિંગ",
+          "hindiPronunciation": "मैच्योरिंग",
+          "gujaratiMeaning": "પરિપક્વ થઈ રહ્યું છે",
+          "hindiMeaning": "परिपक्व हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Develop",
+          "gujaratiPronunciation": "ડેવલપ",
+          "hindiPronunciation": "डेवलप",
+          "gujaratiMeaning": "વિકસવું",
+          "hindiMeaning": "विकसित होना"
+        },
+        {
+          "word": "Ripen",
+          "gujaratiPronunciation": "રાઇપન",
+          "hindiPronunciation": "राइपन",
+          "gujaratiMeaning": "પાકવું",
+          "hindiMeaning": "पकना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Regress",
+          "gujaratiPronunciation": "રિગ્રેસ",
+          "hindiPronunciation": "रिग्रेस",
+          "gujaratiMeaning": "પાછળ જવું",
+          "hindiMeaning": "पीछे हटना"
+        },
+        {
+          "word": "Decline",
+          "gujaratiPronunciation": "ડીકલાઇન",
+          "hindiPronunciation": "डिक्लाइन",
+          "gujaratiMeaning": "પતન થવું",
+          "hindiMeaning": "पतन होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Manure",
+          "gujaratiPronunciation": "મેન્યોર",
+          "hindiPronunciation": "मैन्योर",
+          "gujaratiMeaning": "ખાતર",
+          "hindiMeaning": "खाद"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He has matured a lot over the past year.",
+          "gujaratiTranslation": "તે છેલ્લા એક વર્ષમાં ઘણો પરિપક્વ થયો છે.",
+          "hindiTranslation": "वह पिछले एक साल में बहुत परिपक्व हो गया है।",
+          "gujaratiPronunciation": "હી હેઝ મેચ્યોર્ડ અ લોટ ઓવર ધ પાસ્ટ યર.",
+          "hindiPronunciation": "ही हैज़ मैच्योर्ड अ लॉट ओवर द पास्ट इयर।"
+        }
+      ]
+    },
+    {
+      "word": "Advance",
+      "gujaratiPronunciation": "એડવાન્સ",
+      "hindiPronunciation": "एडवांस",
+      "gujaratiMeaning": "આગળ વધવું",
+      "hindiMeaning": "आगे बढ़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Advance",
+          "gujaratiPronunciation": "એડવાન્સ",
+          "hindiPronunciation": "एडवांस",
+          "gujaratiMeaning": "આગળ વધવું",
+          "hindiMeaning": "आगे बढ़ना"
+        },
+        "V2": {
+          "word": "Advanced",
+          "gujaratiPronunciation": "એડવાન્સ્ડ",
+          "hindiPronunciation": "एडवांस्ड",
+          "gujaratiMeaning": "આગળ વધ્યું",
+          "hindiMeaning": "आगे बढ़ा"
+        },
+        "V3": {
+          "word": "Advanced",
+          "gujaratiPronunciation": "એડવાન્સ્ડ",
+          "hindiPronunciation": "एडवांस्ड",
+          "gujaratiMeaning": "આગળ વધેલું",
+          "hindiMeaning": "उन्नत"
+        },
+        "V4": {
+          "word": "Advancing",
+          "gujaratiPronunciation": "એડવાન્સિંગ",
+          "hindiPronunciation": "एडवांसिंग",
+          "gujaratiMeaning": "આગળ વધી રહ્યું છે",
+          "hindiMeaning": "आगे बढ़ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Progress",
+          "gujaratiPronunciation": "પ્રોગ્રેસ",
+          "hindiPronunciation": "प्रोग्रेस",
+          "gujaratiMeaning": "પ્રગતિ કરવી",
+          "hindiMeaning": "प्रगति करना"
+        },
+        {
+          "word": "Proceed",
+          "gujaratiPronunciation": "પ્રોસીડ",
+          "hindiPronunciation": "प्रोसीड",
+          "gujaratiMeaning": "આગળ વધવું",
+          "hindiMeaning": "आगे बढ़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Retreat",
+          "gujaratiPronunciation": "રિટ્રીટ",
+          "hindiPronunciation": "रिट्रीट",
+          "gujaratiMeaning": "પાછળ હટવું",
+          "hindiMeaning": "पीछे हटना"
+        },
+        {
+          "word": "Recede",
+          "gujaratiPronunciation": "રિસીડ",
+          "hindiPronunciation": "रिसीड",
+          "gujaratiMeaning": "પાછળ જવું",
+          "hindiMeaning": "पीछे हटना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Advise",
+          "gujaratiPronunciation": "એડવાઇઝ",
+          "hindiPronunciation": "एडवाइज़",
+          "gujaratiMeaning": "સલાહ આપવી",
+          "hindiMeaning": "सलाह देना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The army began to advance on the city.",
+          "gujaratiTranslation": "સેનાએ શહેર પર આગળ વધવાનું શરૂ કર્યું.",
+          "hindiTranslation": "सेना ने शहर पर आगे बढ़ना शुरू कर दिया।",
+          "gujaratiPronunciation": "ધ આર્મી બિગેન ટુ એડવાન્સ ઓન ધ સિટી.",
+          "hindiPronunciation": "द आर्मी बिगेन टू एडवांस ऑन द सिटी।"
+        }
+      ]
+    },
+    {
+      "word": "Broaden",
+      "gujaratiPronunciation": "બ્રોડન",
+      "hindiPronunciation": "ब्रॉडन",
+      "gujaratiMeaning": "પહોળું કરવું",
+      "hindiMeaning": "चौड़ा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Broaden",
+          "gujaratiPronunciation": "બ્રોડન",
+          "hindiPronunciation": "ब्रॉडन",
+          "gujaratiMeaning": "પહોળું કરવું",
+          "hindiMeaning": "चौड़ा करना"
+        },
+        "V2": {
+          "word": "Broadened",
+          "gujaratiPronunciation": "બ્રોડન્ડ",
+          "hindiPronunciation": "ब्रॉडन्ड",
+          "gujaratiMeaning": "પહોળું કર્યું",
+          "hindiMeaning": "चौड़ा किया"
+        },
+        "V3": {
+          "word": "Broadened",
+          "gujaratiPronunciation": "બ્રોડન્ડ",
+          "hindiPronunciation": "ब्रॉडन्ड",
+          "gujaratiMeaning": "પહોળું કરેલું",
+          "hindiMeaning": "चौड़ा किया हुआ"
+        },
+        "V4": {
+          "word": "Broadening",
+          "gujaratiPronunciation": "બ્રોડનિંગ",
+          "hindiPronunciation": "ब्रॉडनिंग",
+          "gujaratiMeaning": "પહોળું કરી રહ્યું છે",
+          "hindiMeaning": "चौड़ा कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Widen",
+          "gujaratiPronunciation": "વાઇડન",
+          "hindiPronunciation": "वाइडन",
+          "gujaratiMeaning": "પહોળું કરવું",
+          "hindiMeaning": "चौड़ा करना"
+        },
+        {
+          "word": "Expand",
+          "gujaratiPronunciation": "એક્સપાન્ડ",
+          "hindiPronunciation": "एक्सपैंड",
+          "gujaratiMeaning": "વિસ્તાર કરવો",
+          "hindiMeaning": "विस्तार करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Narrow",
+          "gujaratiPronunciation": "નેરો",
+          "hindiPronunciation": "नैरो",
+          "gujaratiMeaning": "સાંકડું કરવું",
+          "hindiMeaning": "संकीर्ण करना"
+        },
+        {
+          "word": "Restrict",
+          "gujaratiPronunciation": "રિસ્ટ્રિક્ટ",
+          "hindiPronunciation": "रिस्ट्रिक्ट",
+          "gujaratiMeaning": "પ્રતિબંધિત કરવું",
+          "hindiMeaning": "प्रतिबंधित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Burden",
+          "gujaratiPronunciation": "બર્ડન",
+          "hindiPronunciation": "बर्डन",
+          "gujaratiMeaning": "બોજ",
+          "hindiMeaning": "बोझ"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Travel can broaden your horizons.",
+          "gujaratiTranslation": "પ્રવાસ તમારી ક્ષિતિજોને વિસ્તૃત કરી શકે છે.",
+          "hindiTranslation": "यात्रा आपके क्षितिज को व्यापक बना सकती है।",
+          "gujaratiPronunciation": "ટ્રાવેલ કેન બ્રોડન યોર હોરાઇઝન્સ.",
+          "hindiPronunciation": "ट्रैवल कैन ब्रॉडन योर होराइज़न्स।"
+        }
+      ]
+    },
+    {
+      "word": "Elevate",
+      "gujaratiPronunciation": "એલિવેટ",
+      "hindiPronunciation": "एलिवेट",
+      "gujaratiMeaning": "ઉન્નત કરવું, ઊંચે લઈ જવું",
+      "hindiMeaning": "उन्नत करना, ऊपर उठाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Elevate",
+          "gujaratiPronunciation": "એલિવેટ",
+          "hindiPronunciation": "एलिवेट",
+          "gujaratiMeaning": "ઉન્નત કરવું",
+          "hindiMeaning": "उन्नत करना"
+        },
+        "V2": {
+          "word": "Elevated",
+          "gujaratiPronunciation": "એલિવેટેડ",
+          "hindiPronunciation": "एलिवेटेड",
+          "gujaratiMeaning": "ઉન્નત કર્યું",
+          "hindiMeaning": "उन्नत किया"
+        },
+        "V3": {
+          "word": "Elevated",
+          "gujaratiPronunciation": "એલિવેટેડ",
+          "hindiPronunciation": "एलिवेटेड",
+          "gujaratiMeaning": "ઉન્નત કરેલું",
+          "hindiMeaning": "उन्नत"
+        },
+        "V4": {
+          "word": "Elevating",
+          "gujaratiPronunciation": "એલિવેટિંગ",
+          "hindiPronunciation": "एलिवेटिंग",
+          "gujaratiMeaning": "ઉન્નત કરી રહ્યું છે",
+          "hindiMeaning": "उन्नत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Raise",
+          "gujaratiPronunciation": "રેઇઝ",
+          "hindiPronunciation": "रेज़",
+          "gujaratiMeaning": "વધારવું",
+          "hindiMeaning": "बढ़ाना"
+        },
+        {
+          "word": "Lift",
+          "gujaratiPronunciation": "લિફ્ટ",
+          "hindiPronunciation": "लिफ्ट",
+          "gujaratiMeaning": "ઉંચકવું",
+          "hindiMeaning": "उठाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Lower",
+          "gujaratiPronunciation": "લોઅર",
+          "hindiPronunciation": "लोअर",
+          "gujaratiMeaning": "નીચું કરવું",
+          "hindiMeaning": "नीचा करना"
+        },
+        {
+          "word": "Demote",
+          "gujaratiPronunciation": "ડિમોટ",
+          "hindiPronunciation": "डिमोट",
+          "gujaratiMeaning": "પદભ્રષ્ટ કરવું",
+          "hindiMeaning": "पदावनत करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Alleviate",
+          "gujaratiPronunciation": "અલીવિએટ",
+          "hindiPronunciation": "एलीविएट",
+          "gujaratiMeaning": "ઓછું કરવું (દુખાવો)",
+          "hindiMeaning": "कम करना (दर्द)"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Good literature can elevate your mind.",
+          "gujaratiTranslation": "સારું સાહિત્ય તમારા મનને ઉન્નત કરી શકે છે.",
+          "hindiTranslation": "अच्छा साहित्य आपके मन को उन्नत कर सकता है।",
+          "gujaratiPronunciation": "ગુડ લિટરેચર કેન એલિવેટ યોર માઇન્ડ.",
+          "hindiPronunciation": "गुड लिटरेचर कैन एलिवेट योर माइंड।"
+        }
+      ]
+    }
+  ]
+}
+
+    

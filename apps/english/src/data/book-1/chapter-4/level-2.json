@@ -1,0 +1,47 @@
+
+{
+    "id": "level-2",
+    "title": "Shapes 2",
+    "words": [
+        {
+            "word": "Oval",
+            "icon": "🥚",
+            "gujaratiPronunciation": "ઓવલ",
+            "hindiPronunciation": "ओवल",
+            "gujaratiMeaning": "લંબગોળ",
+            "hindiMeaning": "अंडाकार"
+        },
+        {
+            "word": "Star",
+            "icon": "⭐",
+            "gujaratiPronunciation": "સ્ટાર",
+            "hindiPronunciation": "स्टार",
+            "gujaratiMeaning": "તારો",
+            "hindiMeaning": "तारा"
+        },
+        {
+            "word": "Heart",
+            "icon": "❤️",
+            "gujaratiPronunciation": "હાર્ટ",
+            "hindiPronunciation": "हार्ट",
+            "gujaratiMeaning": "હૃદય (આકાર)",
+            "hindiMeaning": "दिल (आकार)"
+        },
+        {
+            "word": "Diamond",
+            "icon": "💎",
+            "gujaratiPronunciation": "ડાયમંડ",
+            "hindiPronunciation": "डायमंड",
+            "gujaratiMeaning": "હીરા જેવો આકાર",
+            "hindiMeaning": "हीरे जैसा आकार"
+        },
+        {
+            "word": "Arrow",
+            "icon": "➡️",
+            "gujaratiPronunciation": "એરો",
+            "hindiPronunciation": "एरो",
+            "gujaratiMeaning": "તીર",
+            "hindiMeaning": "तीर"
+        }
+    ]
+}

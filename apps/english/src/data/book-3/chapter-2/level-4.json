@@ -1,0 +1,453 @@
+{
+  "id": "level-4",
+  "title": "Movement Verbs 4",
+  "words": [
+    {
+      "word": "Pierce",
+      "gujaratiPronunciation": "પિયર્સ",
+      "hindiPronunciation": "पियर्स",
+      "gujaratiMeaning": "વીંધવું, કાણું પાડવું",
+      "hindiMeaning": "छेदना, छेद करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Pierce",
+          "gujaratiPronunciation": "પિયર્સ",
+          "hindiPronunciation": "पियर्स",
+          "gujaratiMeaning": "વીંધવું",
+          "hindiMeaning": "छेदना"
+        },
+        "V2": {
+          "word": "Pierced",
+          "gujaratiPronunciation": "પિયર્સ્ડ",
+          "hindiPronunciation": "पियर्स्ड",
+          "gujaratiMeaning": "વીંધ્યું",
+          "hindiMeaning": "छेदा"
+        },
+        "V3": {
+          "word": "Pierced",
+          "gujaratiPronunciation": "પિયર્સ્ડ",
+          "hindiPronunciation": "पियर्स्ड",
+          "gujaratiMeaning": "વીંધેલું",
+          "hindiMeaning": "छेद चुका"
+        },
+        "V4": {
+          "word": "Piercing",
+          "gujaratiPronunciation": "પિયર્સિંગ",
+          "hindiPronunciation": "पियर्सिंग",
+          "gujaratiMeaning": "વીંધી રહ્યો છે",
+          "hindiMeaning": "छेद रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Puncture",
+          "gujaratiPronunciation": "પંક્ચર",
+          "hindiPronunciation": "पंक्चर",
+          "gujaratiMeaning": "કાણું પાડવું",
+          "hindiMeaning": "छेद करना"
+        },
+        {
+          "word": "Penetrate",
+          "gujaratiPronunciation": "પેનિટ્રેટ",
+          "hindiPronunciation": "पेनिट्रेट",
+          "gujaratiMeaning": "ઘૂસવું",
+          "hindiMeaning": "घुसना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Seal",
+          "gujaratiPronunciation": "સીલ",
+          "hindiPronunciation": "सील",
+          "gujaratiMeaning": "બંધ કરવું",
+          "hindiMeaning": "बंद करना"
+        },
+        {
+          "word": "Cover",
+          "gujaratiPronunciation": "કવર",
+          "hindiPronunciation": "कवर",
+          "gujaratiMeaning": "ઢાંકવું",
+          "hindiMeaning": "ढकना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Peer",
+          "gujaratiPronunciation": "પિયર",
+          "hindiPronunciation": "पीयर",
+          "gujaratiMeaning": "સમકક્ષ",
+          "hindiMeaning": "समकक्ष"
+        },
+        {
+          "word": "Fierce",
+          "gujaratiPronunciation": "ફિયર્સ",
+          "hindiPronunciation": "फियर्स",
+          "gujaratiMeaning": "ઉગ્ર",
+          "hindiMeaning": "उग्र"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The needle pierced her skin.",
+          "gujaratiTranslation": "સોય તેની ચામડીમાં વીંધાઈ ગઈ.",
+          "hindiTranslation": "सुई उसकी त्वचा में चुभ गई।",
+          "gujaratiPronunciation": "ધ નીડલ પિયર્સ્ડ હર સ્કિન.",
+          "hindiPronunciation": "द नीडल पियर्स्ड हर स्किन।"
+        }
+      ]
+    },
+    {
+      "word": "Spurt",
+      "gujaratiPronunciation": "સ્પર્ટ",
+      "hindiPronunciation": "स्पर्ट",
+      "gujaratiMeaning": "ફૂટી નીકળવું, ઉછાળો",
+      "hindiMeaning": "फूट पड़ना, उछाल",
+      "partOfSpeech": "Verb / Noun",
+      "verbForms": {
+        "V1": {
+          "word": "Spurt",
+          "gujaratiPronunciation": "સ્પર્ટ",
+          "hindiPronunciation": "स्पर्ट",
+          "gujaratiMeaning": "ફૂટી નીકળવું",
+          "hindiMeaning": "फूट पड़ना"
+        },
+        "V2": {
+          "word": "Spurted",
+          "gujaratiPronunciation": "સ્પર્ટેડ",
+          "hindiPronunciation": "स्पर्टेड",
+          "gujaratiMeaning": "ફૂટી નીકળ્યું",
+          "hindiMeaning": "फूट पड़ा"
+        },
+        "V3": {
+          "word": "Spurted",
+          "gujaratiPronunciation": "સ્પર્ટેડ",
+          "hindiPronunciation": "स्पर्टेड",
+          "gujaratiMeaning": "ફૂટી નીકળેલું",
+          "hindiMeaning": "फूट चुका"
+        },
+        "V4": {
+          "word": "Spurting",
+          "gujaratiPronunciation": "સ્પર્ટિંગ",
+          "hindiPronunciation": "स्पर्टिंग",
+          "gujaratiMeaning": "ફૂટી રહ્યું છે",
+          "hindiMeaning": "फूट रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Gush",
+          "gujaratiPronunciation": "ગશ",
+          "hindiPronunciation": "गश",
+          "gujaratiMeaning": "વહેવું",
+          "hindiMeaning": "बहना"
+        },
+        {
+          "word": "Surge",
+          "gujaratiPronunciation": "સર્જ",
+          "hindiPronunciation": "सर्ज",
+          "gujaratiMeaning": "ઉછળવું",
+          "hindiMeaning": "उमड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Drip",
+          "gujaratiPronunciation": "ડ્રિપ",
+          "hindiPronunciation": "ड्रिप",
+          "gujaratiMeaning": "ટપકવું",
+          "hindiMeaning": "टपकना"
+        },
+        {
+          "word": "Trickle",
+          "gujaratiPronunciation": "ટ્રિકલ",
+          "hindiPronunciation": "ट्रिकल",
+          "gujaratiMeaning": "ધીમે ધીમે વહેવું",
+          "hindiMeaning": "धीरे-धीरे बहना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sport",
+          "gujaratiPronunciation": "સ્પૉર્ટ",
+          "hindiPronunciation": "स्पोर्ट",
+          "gujaratiMeaning": "રમત",
+          "hindiMeaning": "खेल"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Water spurted from the broken pipe.",
+          "gujaratiTranslation": "તૂટેલા પાઇપમાંથી પાણી ફૂટી નીકળ્યું.",
+          "hindiTranslation": "टूटे हुए पाइप से पानी फूट पड़ा।",
+          "gujaratiPronunciation": "વૉટર સ્પર્ટેડ ફ્રોમ ધ બ્રોકન પાઇપ.",
+          "hindiPronunciation": "वाटर स्पर्टेड फ्रॉम द ब्रोकन पाइप।"
+        }
+      ]
+    },
+    {
+      "word": "Mount",
+      "gujaratiPronunciation": "માઉન્ટ",
+      "hindiPronunciation": "माउंट",
+      "gujaratiMeaning": "ચડવું, પર્વત",
+      "hindiMeaning": "चढ़ना, पर्वत",
+      "partOfSpeech": "Verb / Noun",
+      "verbForms": {
+        "V1": {
+          "word": "Mount",
+          "gujaratiPronunciation": "માઉન્ટ",
+          "hindiPronunciation": "माउंट",
+          "gujaratiMeaning": "ચડવું",
+          "hindiMeaning": "चढ़ना"
+        },
+        "V2": {
+          "word": "Mounted",
+          "gujaratiPronunciation": "માઉન્ટેડ",
+          "hindiPronunciation": "माउंटेड",
+          "gujaratiMeaning": "ચડ્યો",
+          "hindiMeaning": "चढ़ा"
+        },
+        "V3": {
+          "word": "Mounted",
+          "gujaratiPronunciation": "માઉન્ટેડ",
+          "hindiPronunciation": "माउंटेड",
+          "gujaratiMeaning": "ચડેલો",
+          "hindiMeaning": "चढ़ चुका"
+        },
+        "V4": {
+          "word": "Mounting",
+          "gujaratiPronunciation": "માઉન્ટિંગ",
+          "hindiPronunciation": "माउंटिंग",
+          "gujaratiMeaning": "ચડી રહ્યો છે",
+          "hindiMeaning": "चढ़ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Ascend",
+          "gujaratiPronunciation": "એસેન્ડ",
+          "hindiPronunciation": "एसेंड",
+          "gujaratiMeaning": "આરોહણ કરવું",
+          "hindiMeaning": "आरोहण करना"
+        },
+        {
+          "word": "Climb",
+          "gujaratiPronunciation": "ક્લાઇમ્બ",
+          "hindiPronunciation": "क्लाइंब",
+          "gujaratiMeaning": "ચડવું",
+          "hindiMeaning": "चढ़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Descend",
+          "gujaratiPronunciation": "ડિસેન્ડ",
+          "hindiPronunciation": "डिसेंड",
+          "gujaratiMeaning": "ઉતરવું",
+          "hindiMeaning": "उतरना"
+        },
+        {
+          "word": "Dismount",
+          "gujaratiPronunciation": "ડિસ્માઉન્ટ",
+          "hindiPronunciation": "डिसमाउंट",
+          "gujaratiMeaning": "નીચે ઉતરવું",
+          "hindiMeaning": "नीचे उतरना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Amount",
+          "gujaratiPronunciation": "અમાઉન્ટ",
+          "hindiPronunciation": "अमाउंट",
+          "gujaratiMeaning": "રકમ",
+          "hindiMeaning": "राशि"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He mounted the horse and rode away.",
+          "gujaratiTranslation": "તે ઘોડા પર ચડ્યો અને ચાલ્યો ગયો.",
+          "hindiTranslation": "वह घोड़े पर चढ़ा और चला गया।",
+          "gujaratiPronunciation": "હી માઉન્ટેડ ધ હૉર્સ એન્ડ રોડ અવે.",
+          "hindiPronunciation": "ही माउंटेड द हॉर्स एंड रोड अवे।"
+        }
+      ]
+    },
+    {
+      "word": "Plummet",
+      "gujaratiPronunciation": "પ્લમેટ",
+      "hindiPronunciation": "प्लमेट",
+      "gujaratiMeaning": "ઝડપથી નીચે પડવું",
+      "hindiMeaning": "तेज़ी से नीचे गिरना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Plummet",
+          "gujaratiPronunciation": "પ્લમેટ",
+          "hindiPronunciation": "प्लमेट",
+          "gujaratiMeaning": "નીચે પડવું",
+          "hindiMeaning": "गिरना"
+        },
+        "V2": {
+          "word": "Plummeted",
+          "gujaratiPronunciation": "પ્લમેટેડ",
+          "hindiPronunciation": "प्लमेटेड",
+          "gujaratiMeaning": "નીચે પડ્યો",
+          "hindiMeaning": "गिरा"
+        },
+        "V3": {
+          "word": "Plummeted",
+          "gujaratiPronunciation": "પ્લમેટેડ",
+          "hindiPronunciation": "प्लमेटेड",
+          "gujaratiMeaning": "નીચે પડેલો",
+          "hindiMeaning": "गिर चुका"
+        },
+        "V4": {
+          "word": "Plummeting",
+          "gujaratiPronunciation": "પ્લમેટિંગ",
+          "hindiPronunciation": "प्लमेटिंग",
+          "gujaratiMeaning": "નીચે પડી રહ્યો છે",
+          "hindiMeaning": "गिर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Plunge",
+          "gujaratiPronunciation": "પ્લન્જ",
+          "hindiPronunciation": "प्लंज",
+          "gujaratiMeaning": "ડૂબકી મારવી",
+          "hindiMeaning": "डुबकी लगाना"
+        },
+        {
+          "word": "Drop",
+          "gujaratiPronunciation": "ડ્રૉપ",
+          "hindiPronunciation": "ड्रॉप",
+          "gujaratiMeaning": "પડવું",
+          "hindiMeaning": "गिरना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Soar",
+          "gujaratiPronunciation": "સોર",
+          "hindiPronunciation": "सोर",
+          "gujaratiMeaning": "ઊંચે ઉડવું",
+          "hindiMeaning": "ऊँचे उड़ना"
+        },
+        {
+          "word": "Rise",
+          "gujaratiPronunciation": "રાઇઝ",
+          "hindiPronunciation": "राइज़",
+          "gujaratiMeaning": "ઉગવું",
+          "hindiMeaning": "उगना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Planet",
+          "gujaratiPronunciation": "પ્લેનેટ",
+          "hindiPronunciation": "प्लैनेट",
+          "gujaratiMeaning": "ગ્રહ",
+          "hindiMeaning": "ग्रह"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The stock prices plummeted yesterday.",
+          "gujaratiTranslation": "ગઈકાલે શેરના ભાવમાં ભારે ઘટાડો થયો.",
+          "hindiTranslation": "कल शेयर की कीमतें तेजी से गिर गईं।",
+          "gujaratiPronunciation": "ધ સ્ટૉક પ્રાઇસિસ પ્લમેટેડ યસ્ટરડે.",
+          "hindiPronunciation": "द स्टॉक प्राइसेज प्लमेटेड यस्टरडे।"
+        }
+      ]
+    },
+    {
+      "word": "Maneuver",
+      "gujaratiPronunciation": "મનુવર",
+      "hindiPronunciation": "मनूवर",
+      "gujaratiMeaning": "દાવપેચ કરવો, કુશળતાપૂર્વક હલનચલન કરવું",
+      "hindiMeaning": "पैंतरेबाज़ी करना, कुशलता से चलना",
+      "partOfSpeech": "Verb / Noun",
+      "verbForms": {
+        "V1": {
+          "word": "Maneuver",
+          "gujaratiPronunciation": "મનુવર",
+          "hindiPronunciation": "मनूवर",
+          "gujaratiMeaning": "દાવપેચ કરવો",
+          "hindiMeaning": "पैंतरेबाज़ी करना"
+        },
+        "V2": {
+          "word": "Maneuvered",
+          "gujaratiPronunciation": "મનુવર્ડ",
+          "hindiPronunciation": "मनूवार्ड",
+          "gujaratiMeaning": "દાવપેચ કર્યો",
+          "hindiMeaning": "पैंतरेबाज़ी की"
+        },
+        "V3": {
+          "word": "Maneuvered",
+          "gujaratiPronunciation": "મનુવર્ડ",
+          "hindiPronunciation": "मनूवार्ड",
+          "gujaratiMeaning": "દાવપેચ કરેલો",
+          "hindiMeaning": "पैंतरेबाज़ी कर चुका"
+        },
+        "V4": {
+          "word": "Maneuvering",
+          "gujaratiPronunciation": "મનુવરિંગ",
+          "hindiPronunciation": "मनूवरिंग",
+          "gujaratiMeaning": "દાવપેચ કરી રહ્યો છે",
+          "hindiMeaning": "पैंतरेबाज़ी कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Navigate",
+          "gujaratiPronunciation": "નેવિગેટ",
+          "hindiPronunciation": "नेविगेट",
+          "gujaratiMeaning": "માર્ગદર્શન કરવું",
+          "hindiMeaning": "मार्गदर्शन करना"
+        },
+        {
+          "word": "Steer",
+          "gujaratiPronunciation": "સ્ટિયર",
+          "hindiPronunciation": "स्टीयर",
+          "gujaratiMeaning": "ચલાવવું",
+          "hindiMeaning": "चलाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Struggle",
+          "gujaratiPronunciation": "સ્ટ્રગલ",
+          "hindiPronunciation": "स्ट्रगल",
+          "gujaratiMeaning": "સંઘર્ષ કરવો",
+          "hindiMeaning": "संघर्ष करना"
+        },
+        {
+          "word": "Fumble",
+          "gujaratiPronunciation": "ફમ્બલ",
+          "hindiPronunciation": "फम्बल",
+          "gujaratiMeaning": "ગડબડ કરવી",
+          "hindiMeaning": "गड़बड़ करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Manure",
+          "gujaratiPronunciation": "મેન્યુઅર",
+          "hindiPronunciation": "मैन्योर",
+          "gujaratiMeaning": "ખાતર",
+          "hindiMeaning": "खाद"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The pilot skillfully maneuvered the plane through the storm.",
+          "gujaratiTranslation": "પાયલટે કુશળતાપૂર્વક વિમાનને તોફાનમાંથી પસાર કર્યું.",
+          "hindiTranslation": "पायलट ने कुशलता से विमान को तूफान से निकाला।",
+          "gujaratiPronunciation": "ધ પાઇલટ સ્કિલફુલી મનુવર્ડ ધ પ્લેન થ્રુ ધ સ્ટૉર્મ.",
+          "hindiPronunciation": "द पायलट स्किलफुली मनूवार्ड द प्लेन थ्रू द स्टॉर्म।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "level-4",
+    "title": "Traditional Wear",
+    "words": [
+        { "word": "Kurta", "icon": "👚", "gujaratiMeaning": "કુર્તો", "hindiMeaning": "कुर्ता", "gujaratiPronunciation": "કુર્તા", "hindiPronunciation": "कुर्ता" },
+        { "word": "Saree", "icon": "👗", "gujaratiMeaning": "સાડી", "hindiMeaning": "साड़ी", "gujaratiPronunciation": "સાડી", "hindiPronunciation": "साड़ी" },
+        { "word": "Blouse", "icon": "👚", "gujaratiMeaning": "ब्लाउઝ", "hindiMeaning": "ब्लाउज", "gujaratiPronunciation": "બ્લાઉઝ", "hindiPronunciation": "ब्लाउज" },
+        { "word": "Lehenga", "icon": "👗", "gujaratiMeaning": "લહેંગા", "hindiMeaning": "लहంగా", "gujaratiPronunciation": "લહેંગા", "hindiPronunciation": "लहంగా" },
+        { "word": "Jacket", "icon": "🧥", "gujaratiMeaning": "જેકેટ", "hindiMeaning": "जैकेट", "gujaratiPronunciation": "જેકેટ", "hindiPronunciation": "जैकेट" }
+    ]
+}

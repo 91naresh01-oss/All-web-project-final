@@ -1,0 +1,47 @@
+
+{
+    "id": "level-4",
+    "title": "Writing",
+    "words": [
+        {
+            "word": "Uniform",
+            "icon": "🥋",
+            "gujaratiPronunciation": "યુનિફોર્મ",
+            "hindiPronunciation": "यूनिफार्म",
+            "gujaratiMeaning": "ગણવેશ",
+            "hindiMeaning": "वर्दी"
+        },
+        {
+            "word": "Notebook",
+            "icon": "📓",
+            "gujaratiPronunciation": "નોટબુક",
+            "hindiPronunciation": "नोटबुक",
+            "gujaratiMeaning": "નોટબુક",
+            "hindiMeaning": "कॉपी"
+        },
+        {
+            "word": "Paragraph",
+            "icon": "📄",
+            "gujaratiPronunciation": "પેરેગ્રાફ",
+            "hindiPronunciation": "पैराग्राफ",
+            "gujaratiMeaning": "ફકરો",
+            "hindiMeaning": "अनुच्छेद"
+        },
+        {
+            "word": "Essay",
+            "icon": "✍️",
+            "gujaratiPronunciation": "એસે",
+            "hindiPronunciation": "एसे",
+            "gujaratiMeaning": "નિબંધ",
+            "hindiMeaning": "निबंध"
+        },
+        {
+            "word": "Subject",
+            "icon": "📖",
+            "gujaratiPronunciation": "સબ્જેક્ટ",
+            "hindiPronunciation": "सब्जेक्ट",
+            "gujaratiMeaning": "વિષય",
+            "hindiMeaning": "विषय"
+        }
+    ]
+}

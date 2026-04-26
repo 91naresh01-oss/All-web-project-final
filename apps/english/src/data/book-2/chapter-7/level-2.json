@@ -1,0 +1,77 @@
+
+{
+  "id": "level-2",
+  "title": "Professions 2",
+  "words": [
+    {
+      "word": "Police",
+      "gujaratiPronunciation": "પોલીસ",
+      "hindiPronunciation": "पुलिस",
+      "gujaratiMeaning": "પોલીસ",
+      "hindiMeaning": "पुलिस",
+      "exampleSentences": [
+        {
+          "sentence": "The police protect the citizens.",
+          "gujaratiTranslation": "પોલીસ નાગરિકોની સુરક્ષા કરે છે.",
+          "hindiTranslation": "पुलिस नागरिकों की रक्षा करती है।"
+        }
+      ]
+    },
+    {
+      "word": "Soldier",
+      "gujaratiPronunciation": "સોલ્જર",
+      "hindiPronunciation": "सोल्जर",
+      "gujaratiMeaning": "સૈનિક",
+      "hindiMeaning": "सैनिक",
+      "exampleSentences": [
+        {
+          "sentence": "A soldier defends the country.",
+          "gujaratiTranslation": "એક સૈનિક દેશની રક્ષા કરે છે.",
+          "hindiTranslation": "एक सैनिक देश की रक्षा करता है।"
+        }
+      ]
+    },
+    {
+      "word": "Chef",
+      "gujaratiPronunciation": "શેફ",
+      "hindiPronunciation": "शेफ",
+      "gujaratiMeaning": "રસોઈયો",
+      "hindiMeaning": "बावर्ची",
+      "exampleSentences": [
+        {
+          "sentence": "The chef cooks delicious food.",
+          "gujaratiTranslation": "રસોઈયો સ્વાદિષ્ટ ભોજન બનાવે છે.",
+          "hindiTranslation": "बावर्ची स्वादिष्ट भोजन बनाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Pilot",
+      "gujaratiPronunciation": "પાઈલટ",
+      "hindiPronunciation": "पायलट",
+      "gujaratiMeaning": "વિમાનચાલક",
+      "hindiMeaning": "विमान-चालक",
+      "exampleSentences": [
+        {
+          "sentence": "The pilot flies the airplane.",
+          "gujaratiTranslation": "વિમાનચાલક વિમાન ઉડાવે છે.",
+          "hindiTranslation": "पायलट हवाई जहाज उड़ाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Worker",
+      "gujaratiPronunciation": "વર્કર",
+      "hindiPronunciation": "वर्कर",
+      "gujaratiMeaning": "કામદાર",
+      "hindiMeaning": "मजदूर",
+      "exampleSentences": [
+        {
+          "sentence": "The worker is building a wall.",
+          "gujaratiTranslation": "કામદાર દીવાલ બનાવી રહ્યો છે.",
+          "hindiTranslation": "मजदूर एक दीवार बना रहा है।"
+        }
+      ]
+    }
+  ]
+}

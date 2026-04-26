@@ -1,0 +1,177 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Utter",
+      "gujaratiPronunciation": "અટર",
+      "hindiPronunciation": "अटर",
+      "gujaratiMeaning": "બોલવું, ઉચ્ચારવું",
+      "hindiMeaning": "बोलना, उच्चारण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Utter", "gujaratiPronunciation": "અટર", "hindiPronunciation": "अटर", "gujaratiMeaning": "બોલવું", "hindiMeaning": "बोलना" },
+        "V2 (Past)": { "word": "Uttered", "gujaratiPronunciation": "અટર્ડ", "hindiPronunciation": "अटर्ड", "gujaratiMeaning": "બોલ્યું", "hindiMeaning": "बोला" },
+        "V3 (Past Participle)": { "word": "Uttered", "gujaratiPronunciation": "અટર્ડ", "hindiPronunciation": "अटर्ड", "gujaratiMeaning": "બોલેલું", "hindiMeaning": "बोला हुआ" },
+        "V4 (Present Participle)": { "word": "Uttering", "gujaratiPronunciation": "અટરિંગ", "hindiPronunciation": "अटरिंग", "gujaratiMeaning": "બોલતા", "hindiMeaning": "बोलते हुए" }
+      },
+      "synonyms": [
+        { "word": "Speak", "gujaratiPronunciation": "સ્પીક", "hindiPronunciation": "स्पीक", "gujaratiMeaning": "બોલવું", "hindiMeaning": "बोलना" },
+        { "word": "Voice", "gujaratiPronunciation": "વોઇસ", "hindiPronunciation": "वॉइस", "gujaratiMeaning": "અવાજ આપવો", "hindiMeaning": "आवाज देना" }
+      ],
+      "antonyms": [
+        { "word": "Suppress", "gujaratiPronunciation": "સપ્રેસ", "hindiPronunciation": "सप्रेस", "gujaratiMeaning": "દબાવવું", "hindiMeaning": "दबाना" },
+        { "word": "Mumble", "gujaratiPronunciation": "મમ્બલ", "hindiPronunciation": "मम्बल", "gujaratiMeaning": "ગણગણવું", "hindiMeaning": "बुदबुदाना" }
+      ],
+      "confusingWords": [
+        { "word": "Udder", "gujaratiPronunciation": "અડર", "hindiPronunciation": "अडर", "gujaratiMeaning": "આંચળ", "hindiMeaning": "थन" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She did not utter a single word.",
+          "gujaratiTranslation": "તેણી એક પણ શબ્દ બોલી નહીં.",
+          "hindiTranslation": "उसने एक भी शब्द नहीं बोला।",
+          "gujaratiPronunciation": "શી ડીડ નોટ અટર અ સિંગલ વર્ડ.",
+          "hindiPronunciation": "शी डिड नॉट अटर अ सिंगल वर्ड।"
+        }
+      ]
+    },
+    {
+      "word": "Converse",
+      "gujaratiPronunciation": "કન્વર્સ",
+      "hindiPronunciation": "कन्वर्स",
+      "gujaratiMeaning": "વાતચીત કરવી",
+      "hindiMeaning": "बातचीत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Converse", "gujaratiPronunciation": "કન્વર્સ", "hindiPronunciation": "कन्वर्स", "gujaratiMeaning": "વાતચીત કરવી", "hindiMeaning": "बातचीत करना" },
+        "V2 (Past)": { "word": "Conversed", "gujaratiPronunciation": "કન્વર્સ્ડ", "hindiPronunciation": "कन्वર્સ્ડ", "gujaratiMeaning": "વાતચીત કરી", "hindiMeaning": "बातचीत की" },
+        "V3 (Past Participle)": { "word": "Conversed", "gujaratiPronunciation": "કન્વર્સ્ડ", "hindiPronunciation": "कन्वર્સ્ડ", "gujaratiMeaning": "વાતચીત કરેલી", "hindiMeaning": "बातचीत की हुई" },
+        "V4 (Present Participle)": { "word": "Conversing", "gujaratiPronunciation": "કન્વર્સિંગ", "hindiPronunciation": "कन्वर्सिंग", "gujaratiMeaning": "વાતચીત કરતા", "hindiMeaning": "बातचीत करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Talk", "gujaratiPronunciation": "ટોક", "hindiPronunciation": "टॉक", "gujaratiMeaning": "વાત કરવી", "hindiMeaning": "बात करना" },
+        { "word": "Chat", "gujaratiPronunciation": "ચેટ", "hindiPronunciation": "चैट", "gujaratiMeaning": "ગપસપ કરવી", "hindiMeaning": "गपशप करना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Be silent", "gujaratiPronunciation": "બી સાયલન્ટ", "hindiPronunciation": "बी साइलेंट", "gujaratiMeaning": "શાંત રહેવું", "hindiMeaning": "चुप रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Inverse", "gujaratiPronunciation": "ઇન્વર્સ", "hindiPronunciation": "इन्वर्स", "gujaratiMeaning": "વિપરીત", "hindiMeaning": "विपरीत" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They were conversing in a low voice.",
+          "gujaratiTranslation": "તેઓ ધીમા અવાજમાં વાતચીત કરી રહ્યા હતા.",
+          "hindiTranslation": "वे धीमी आवाज़ में बातचीत कर रहे थे।",
+          "gujaratiPronunciation": "ધે વર કન્વર્સિંગ ઇન અ લો વોઇસ.",
+          "hindiPronunciation": "दे वर कन्वर्सिंग इन अ लो वॉइस।"
+        }
+      ]
+    },
+    {
+      "word": "Dial",
+      "gujaratiPronunciation": "ડાયલ",
+      "hindiPronunciation": "डायल",
+      "gujaratiMeaning": "નંબર લગાવવો",
+      "hindiMeaning": "नंबर लगाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Dial", "gujaratiPronunciation": "ડાયલ", "hindiPronunciation": "डायल", "gujaratiMeaning": "નંબર લગાવવો", "hindiMeaning": "नंबर लगाना" },
+        "V2 (Past)": { "word": "Dialed", "gujaratiPronunciation": "ડાયલ્ડ", "hindiPronunciation": "डायल्ड", "gujaratiMeaning": "નંબર લગાવ્યો", "hindiMeaning": "नंबर लगाया" },
+        "V3 (Past Participle)": { "word": "Dialed", "gujaratiPronunciation": "ડાયલ્ડ", "hindiPronunciation": "डायल्ड", "gujaratiMeaning": "નંબર લગાવેલો", "hindiMeaning": "नंबर लगाया हुआ" },
+        "V4 (Present Participle)": { "word": "Dialing", "gujaratiPronunciation": "ડાયલિંગ", "hindiPronunciation": "डायलिंग", "gujaratiMeaning": "નંબર લગાવતા", "hindiMeaning": "नंबर लगाते हुए" }
+      },
+      "synonyms": [
+        { "word": "Call", "gujaratiPronunciation": "કોલ", "hindiPronunciation": "कॉल", "gujaratiMeaning": "ફોન કરવો", "hindiMeaning": "फोन करना" },
+        { "word": "Ring", "gujaratiPronunciation": "રિંગ", "hindiPronunciation": "रिंग", "gujaratiMeaning": "ફોન કરવો", "hindiMeaning": "फोन करना" }
+      ],
+      "antonyms": [
+        { "word": "Hang up", "gujaratiPronunciation": "હેંગ અપ", "hindiPronunciation": "हैंग अप", "gujaratiMeaning": "ફોન કાપવો", "hindiMeaning": "फोन काटना" },
+        { "word": "Disconnect", "gujaratiPronunciation": "ડિસ્કનેક્ટ", "hindiPronunciation": "डिस्कनेक्ट", "gujaratiMeaning": "સંપર્ક તોડવો", "hindiMeaning": "संपर्क तोड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Trial", "gujaratiPronunciation": "ટ્રાયલ", "hindiPronunciation": "ट्रायल", "gujaratiMeaning": "પરીક્ષણ", "hindiMeaning": "परीक्षण" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He dialed the wrong number.",
+          "gujaratiTranslation": "તેણે ખોટો નંબર લગાવ્યો.",
+          "hindiTranslation": "उसने गलत नंबर लगा दिया।",
+          "gujaratiPronunciation": "હી ડાયલ્ડ ધ રોંગ નંબર.",
+          "hindiPronunciation": "ही डायल्ड द रॉन्ग नंबर।"
+        }
+      ]
+    },
+    {
+      "word": "Relay",
+      "gujaratiPronunciation": "રિલે",
+      "hindiPronunciation": "रिले",
+      "gujaratiMeaning": "પ્રસારિત કરવું, પહોંચાડવું",
+      "hindiMeaning": "प्रसारित करना, पहुँचाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Relay", "gujaratiPronunciation": "રિલે", "hindiPronunciation": "रिले", "gujaratiMeaning": "પ્રસારિત કરવું", "hindiMeaning": "प्रसारित करना" },
+        "V2 (Past)": { "word": "Relayed", "gujaratiPronunciation": "રિલેડ", "hindiPronunciation": "रिलेड", "gujaratiMeaning": "પ્રસારિત કર્યું", "hindiMeaning": "प्रसारित किया" },
+        "V3 (Past Participle)": { "word": "Relayed", "gujaratiPronunciation": "રિલેડ", "hindiPronunciation": "रिलेड", "gujaratiMeaning": "પ્રસારિત કરેલું", "hindiMeaning": "प्रसारित किया हुआ" },
+        "V4 (Present Participle)": { "word": "Relaying", "gujaratiPronunciation": "રિલેઇંગ", "hindiPronunciation": "रिलेइंग", "gujaratiMeaning": "પ્રસારિત કરતા", "hindiMeaning": "प्रसारित करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Transmit", "gujaratiPronunciation": "ટ્રાન્સમિટ", "hindiPronunciation": "ट्रांसमिट", "gujaratiMeaning": "પ્રસારિત કરવું", "hindiMeaning": "प्रसारित करना" },
+        { "word": "Pass on", "gujaratiPronunciation": "પાસ ઓન", "hindiPronunciation": "पास ऑन", "gujaratiMeaning": "આગળ મોકલવું", "hindiMeaning": "आगे भेजना" }
+      ],
+      "antonyms": [
+        { "word": "Withhold", "gujaratiPronunciation": "વિથહોલ્ડ", "hindiPronunciation": "विथहोल्ड", "gujaratiMeaning": "અટકાવી રાખવું", "hindiMeaning": "रोक रखना" },
+        { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Rely", "gujaratiPronunciation": "રિલાય", "hindiPronunciation": "रिलाय", "gujaratiMeaning": "આધાર રાખવો", "hindiMeaning": "निर्भर रहना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She relayed the message to her boss.",
+          "gujaratiTranslation": "તેણીએ તેના બોસને સંદેશો પહોંચાડ્યો.",
+          "hindiTranslation": "उसने अपने बॉस को संदेश पहुँचाया।",
+          "gujaratiPronunciation": "શી રિલેડ ધ મેસેજ ટુ હર બોસ.",
+          "hindiPronunciation": "शी रिलेड द मेसेज टू हर बॉस।"
+        }
+      ]
+    },
+    {
+      "word": "Heed",
+      "gujaratiPronunciation": "હીડ",
+      "hindiPronunciation": "हीड",
+      "gujaratiMeaning": "ધ્યાન આપવું",
+      "hindiMeaning": "ध्यान देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Heed", "gujaratiPronunciation": "હીડ", "hindiPronunciation": "हीड", "gujaratiMeaning": "ધ્યાન આપવું", "hindiMeaning": "ध्यान देना" },
+        "V2 (Past)": { "word": "Heeded", "gujaratiPronunciation": "હીડેડ", "hindiPronunciation": "हीडेड", "gujaratiMeaning": "ધ્યાન આપ્યું", "hindiMeaning": "ध्यान दिया" },
+        "V3 (Past Participle)": { "word": "Heeded", "gujaratiPronunciation": "હીડેડ", "hindiPronunciation": "हीडेड", "gujaratiMeaning": "ધ્યાન આપેલું", "hindiMeaning": "ध्यान दिया हुआ" },
+        "V4 (Present Participle)": { "word": "Heeding", "gujaratiPronunciation": "હીડિંગ", "hindiPronunciation": "हीडिंग", "gujaratiMeaning": "ધ્યાન આપતા", "hindiMeaning": "ध्यान देते हुए" }
+      },
+      "synonyms": [
+        { "word": "Pay attention", "gujaratiPronunciation": "પે અટેન્શન", "hindiPronunciation": "पे अटेंशन", "gujaratiMeaning": "ધ્યાન આપવું", "hindiMeaning": "ध्यान देना" },
+        { "word": "Listen to", "gujaratiPronunciation": "લિસન ટુ", "hindiPronunciation": "लिसन टू", "gujaratiMeaning": "સાંભળવું", "hindiMeaning": "सुनना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Disregard", "gujaratiPronunciation": "ડિસરિગાર્ડ", "hindiPronunciation": "डिसरिगार्ड", "gujaratiMeaning": "અનાદર કરવો", "hindiMeaning": "अवहेलना करना" }
+      ],
+      "confusingWords": [
+        { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You should heed my advice.",
+          "gujaratiTranslation": "તમારે મારી સલાહ પર ધ્યાન આપવું જોઈએ.",
+          "hindiTranslation": "आपको मेरी सलाह पर ध्यान देना चाहिए।",
+          "gujaratiPronunciation": "યુ શુડ હીડ માય એડવાઇસ.",
+          "hindiPronunciation": "यू शुड हीड माय एडवाइस।"
+        }
+      ]
+    }
+  ]
+}

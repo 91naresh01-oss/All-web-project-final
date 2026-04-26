@@ -1,0 +1,47 @@
+
+{
+    "id": "level-5",
+    "title": "Internal Organs",
+    "words": [
+        {
+            "word": "Heart",
+            "icon": "❤️",
+            "gujaratiPronunciation": "હાર્ટ",
+            "hindiPronunciation": "हार्ट",
+            "gujaratiMeaning": "હૃદય",
+            "hindiMeaning": "हृदय"
+        },
+        {
+            "word": "Brain",
+            "icon": "🧠",
+            "gujaratiPronunciation": "બ્રેઇન",
+            "hindiPronunciation": "ब्रेन",
+            "gujaratiMeaning": "મગજ",
+            "hindiMeaning": "मस्तिष्क"
+        },
+        {
+            "word": "Lungs",
+            "icon": "🫁",
+            "gujaratiPronunciation": "લંગ્ઝ",
+            "hindiPronunciation": "लंग्ज़",
+            "gujaratiMeaning": "ફેફસાં",
+            "hindiMeaning": "फेफड़े"
+        },
+        {
+            "word": "Bones",
+            "icon": "🦴",
+            "gujaratiPronunciation": "બોન્સ",
+            "hindiPronunciation": "बोन्स",
+            "gujaratiMeaning": "હાડકાં",
+            "hindiMeaning": "हड्डियाँ"
+        },
+        {
+            "word": "Skin",
+            "icon": "👋",
+            "gujaratiPronunciation": "સ્કિન",
+            "hindiPronunciation": "स्किन",
+            "gujaratiMeaning": "ચામડી",
+            "hindiMeaning": "त्वचा"
+        }
+    ]
+}

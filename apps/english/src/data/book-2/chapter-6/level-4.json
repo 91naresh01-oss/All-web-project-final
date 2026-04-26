@@ -1,0 +1,77 @@
+
+{
+  "id": "level-4",
+  "title": "Institutions & Structures",
+  "words": [
+    {
+      "word": "University",
+      "gujaratiPronunciation": "યુનિવર્સિટી",
+      "hindiPronunciation": "यूनिवर्सिटी",
+      "gujaratiMeaning": "વિશ્વવિદ્યાલય",
+      "hindiMeaning": "विश्वविद्यालय",
+      "exampleSentences": [
+        {
+          "sentence": "He is studying at a famous university.",
+          "gujaratiTranslation": "તે એક પ્રખ્યાત વિશ્વવિદ્યાલયમાં અભ્યાસ કરી રહ્યો છે.",
+          "hindiTranslation": "वह एक प्रसिद्ध विश्वविद्यालय में पढ़ रहा है।"
+        }
+      ]
+    },
+    {
+      "word": "Museum",
+      "gujaratiPronunciation": "મ્યુઝિયમ",
+      "hindiPronunciation": "म्यूजियम",
+      "gujaratiMeaning": "સંગ્રહાલય",
+      "hindiMeaning": "संग्रहालय",
+      "exampleSentences": [
+        {
+          "sentence": "The museum has many ancient artifacts.",
+          "gujaratiTranslation": "સંગ્રહાલયમાં ઘણી પ્રાચીન કલાકૃતિઓ છે.",
+          "hindiTranslation": "संग्रहालय में कई प्राचीन कलाकृतियाँ हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Stadium",
+      "gujaratiPronunciation": "સ્ટેડિયમ",
+      "hindiPronunciation": "स्टेडियम",
+      "gujaratiMeaning": "સ્ટેડિયમ",
+      "hindiMeaning": "स्टेडियम",
+      "exampleSentences": [
+        {
+          "sentence": "The cricket stadium was full of spectators.",
+          "gujaratiTranslation": "ક્રિકેટ સ્ટેડિયમ દર્શકોથી ભરેલું હતું.",
+          "hindiTranslation": "क्रिकेट स्टेडियम दर्शकों से भरा था।"
+        }
+      ]
+    },
+    {
+      "word": "Factory",
+      "gujaratiPronunciation": "ફેક્ટરી",
+      "hindiPronunciation": "फैक्टरी",
+      "gujaratiMeaning": "કારખાનું",
+      "hindiMeaning": "कारखाना",
+      "exampleSentences": [
+        {
+          "sentence": "This factory produces cars.",
+          "gujaratiTranslation": "આ કારખાનું કારનું ઉત્પાદન કરે છે.",
+          "hindiTranslation": "यह कारखाना कारें बनाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Bridge",
+      "gujaratiPronunciation": "બ્રિજ",
+      "hindiPronunciation": "ब्रिज",
+      "gujaratiMeaning": "પુલ",
+      "hindiMeaning": "पुल",
+      "exampleSentences": [
+        {
+          "sentence": "The bridge goes over the river.",
+          "gujaratiTranslation": "આ પુલ નદી ઉપરથી પસાર થાય છે.",
+          "hindiTranslation": "यह पुल नदी के ऊपर से जाता है।"
+        }
+      ]
+    }
+  ]
+}

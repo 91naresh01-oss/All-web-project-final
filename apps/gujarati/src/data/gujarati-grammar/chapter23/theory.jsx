@@ -1,0 +1,128 @@
+import React from 'react';
+import {
+    TheoryCard,
+    GradientCard,
+    TheoryHeading,
+    TheorySubHeading,
+    TheoryText,
+    HighlightBox,
+    TheoryList,
+    TheoryListItem,
+    TheoryGrid,
+    TheoryTable,
+    TheoryTableHeader,
+    TheoryTableRow
+} from '../../../components/TheoryComponents';
+
+export const chapter23Theory = [
+    {
+        title: "૧. પ્રૂફરીડિંગનો પરિચય",
+        content: (
+            <div className="modern-theory-wrapper">
+                <GradientCard heading="૧. પ્રૂફરીડિંગ (પ્રૂફવાચન) એટલે શું?" theme="orange" icon="📝">
+                    <div style={{ marginTop: '15px' }}>
+                        <TheorySubHeading glass>વ્યાખ્યા</TheorySubHeading>
+                        <TheoryText>
+                            હાથે લખેલા કે ટાઇપ કરેલા લખાણના આધારે પ્રેસ તરફથી તૈયાર કરાયેલ છાપકામ માટેનું કાચું લખાણ <strong>'પ્રૂફ'</strong>ના નામે ઓળખાય છે.
+                        </TheoryText>
+                        <TheoryText>
+                            સામગ્રી છપાવતાં પહેલાં તેના પ્રૂફ વાંચીને તેમાંની ભૂલો દર્શાવવી પડે છે. જરૂર પ્રમાણે તે એક-બે વાર કે વધારે વખત વાંચીને તેમાંની ભૂલો દર્શાવવી પડે છે.
+                        </TheoryText>
+                    </div>
+                </GradientCard>
+            </div>
+        )
+    },
+    {
+        title: "૨. પ્રૂફરીડિંગના નિયમો",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#ea580c">૨. પ્રૂફરીડિંગના નિયમો</TheoryHeading>
+
+                    <HighlightBox type="info" title="મહત્વની વાત">
+                        <TheoryText>
+                            પ્રૂફમાં ભૂલો દર્શાવવા માટે નીચેની <strong>સર્વમાન્ય નિશાનીઓ</strong> પ્રચલિત છે.
+                        </TheoryText>
+                    </HighlightBox>
+
+                    <TheoryList>
+                        <TheoryListItem>આ નિશાનીઓ પ્રૂફમાં <strong>જમણી કે ડાબી બાજુનાં હાંસિયામાં</strong> અનુકૂળતા પ્રમાણે દર્શાવવાની હોય છે.</TheoryListItem>
+                        <TheoryListItem>મૂળ લખાણમાં પણ અનુરૂપ નિશાની કરવાની હોય છે.</TheoryListItem>
+                        <TheoryListItem>પ્રૂફરીડર અને કંપોઝિટર બંને આ નિશાનીઓથી પરિચિત હોવા જોઈએ.</TheoryListItem>
+                    </TheoryList>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૩. પ્રૂફ રીડિંગ સંજ્ઞાઓ (કોષ્ટક)",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#c2410c">૩. પ્રૂફ રીડિંગ સંજ્ઞાઓ (કોષ્ટક)</TheoryHeading>
+                    <TheoryText>નીચે મુજબની નિશાનીઓ લખાણ સુધારવા માટે વપરાય છે:</TheoryText>
+
+                    <TheoryTable>
+                        <TheoryTableHeader theme="cyan" headers={['હાંસિયામાં નિશાની', 'નિશાનીનો અર્થ', 'મૂળ લખાણમાં નિશાની']} />
+                        {[
+                            ['/', 'અક્ષરને બદલીને મૂકો', '—'],
+                            ['λ', 'અક્ષર ઉમેરો', 'λ'],
+                            ['d', 'અક્ષર રદ કરો', '/'],
+                            ['d', 'અક્ષર રદ કરી લખાણ ભેગું કરો', 'd'],
+                            ['()', 'અક્ષર વચ્ચેની જગ્યા ભેગી કરો', '()'],
+                            ['#', 'જગ્યા કરો / અક્ષર છૂટાં પાડો', '/'],
+                            ['Trans', 'અક્ષરો કે શબ્દો અદલાબદલી કરો', '—'],
+                            ['State', 'યથાવત રાખો', '....'],
+                            ['w.f.', 'ખરા ફોન્ટનો અક્ષર મૂકો', '—'],
+                            ['=', 'લીટીઓ સીધી કરો', '='],
+                            ['n.p', 'નવો ફકરો શરૂ કરો', 'N/P'],
+                            ['run on', 'લખાણ સળંગ રાખો (નવો ફકરો નહીં)', '|-'],
+                            ['|-', 'હાઈફન કે ડેશ ઉમેરો', '|-'],
+                            ['V', 'માત્રા મૂકો', 'V'],
+                            ['ப', 'નીચે ઊતરેલ અક્ષર ઉપર લો', 'ப'],
+                            ['Π', 'ઉપર ચઢેલ અક્ષર નીચે ઊતારો', 'Π']
+                        ].map((row, index) => (
+                            <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                        ))}
+                    </TheoryTable>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૪. વધારાની સંજ્ઞાઓ",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryGrid>
+                    <TheoryCard>
+                        <TheorySubHeading color="orange">અવતરણ ચિહ્ન</TheorySubHeading>
+                        <TheoryText>અવતરણ ચિહ્ન મૂકવા માટે <strong>v'v</strong> નિશાની વપરાય છે.</TheoryText>
+                    </TheoryCard>
+                    <TheoryCard>
+                        <TheorySubHeading color="red">અનુસ્વાર</TheorySubHeading>
+                        <TheoryText>અનુસ્વાર મૂકવા માટે <strong>V</strong> નિશાની વપરાય છે.</TheoryText>
+                    </TheoryCard>
+                    <TheoryCard>
+                        <TheorySubHeading color="blue">પૂર્ણવિરામ</TheorySubHeading>
+                        <TheoryText>પૂર્ણ વિરામ મૂકવા માટે <strong>n</strong> નિશાની વપરાય છે.</TheoryText>
+                    </TheoryCard>
+                    <TheoryCard>
+                        <TheorySubHeading color="green">વિરામચિહ્નો</TheorySubHeading>
+                        <TheoryText>અલ્પવિરામ, અર્ધવિરામ કે ગુરુવિરામ માટે <strong>/</strong> નિશાની વપરાય છે.</TheoryText>
+                    </TheoryCard>
+                </TheoryGrid>
+
+                <div style={{ marginTop: '20px' }}>
+                    <HighlightBox type="warning" title="યાદ રાખો">
+                        <TheoryList>
+                            <TheoryListItem><strong>コ</strong> - ડાબી બાજુ ખસેડો</TheoryListItem>
+                            <TheoryListItem><strong>コ</strong> - જમણી બાજુ ખસેડો</TheoryListItem>
+                            <TheoryListItem>જગ્યા ઘટાડવા માટે વિશેષ નિશાની વપરાય છે.</TheoryListItem>
+                        </TheoryList>
+                    </HighlightBox>
+                </div>
+            </div>
+        )
+    }
+];

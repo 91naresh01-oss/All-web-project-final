@@ -1,0 +1,141 @@
+
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Deny",
+            "gujaratiPronunciation": "ડિનાય",
+            "hindiPronunciation": "डिनाई",
+            "gujaratiMeaning": "નકારવું, ઇનકાર કરવો",
+            "hindiMeaning": "अस्वीकार करना, इनकार करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Deny", "gujaratiPronunciation": "ડિનાય", "hindiPronunciation": "डिनाई", "gujaratiMeaning": "નકારવું", "hindiMeaning": "इनकार करना" },
+                "V2 (Past)": { "word": "Denied", "gujaratiPronunciation": "ડિનાઇડ", "hindiPronunciation": "डिनाइड", "gujaratiMeaning": "નકાર્યું", "hindiMeaning": "इनकार किया" },
+                "V3 (Past Participle)": { "word": "Denied", "gujaratiPronunciation": "ડિનાઇડ", "hindiPronunciation": "डिनाइड", "gujaratiMeaning": "નકારેલું", "hindiMeaning": "इनकार किया हुआ" },
+                "V4 (Present Participle)": { "word": "Denying", "gujaratiPronunciation": "ડિનાઇંગ", "hindiPronunciation": "डिनाइंग", "gujaratiMeaning": "નકારી રહ્યું છે", "hindiMeaning": "इनकार कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Refuse", "gujaratiPronunciation": "રિફ્યુઝ", "hindiPronunciation": "रिफ्यूज़", "gujaratiMeaning": "ના પાડવી", "hindiMeaning": "मना करना" },
+                { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" }
+            ],
+            "antonyms": [
+                { "word": "Admit", "gujaratiPronunciation": "એડમિટ", "hindiPronunciation": "एडमिट", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" },
+                { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "He denied any involvement in the crime.", "gujaratiTranslation": "તેણે ગુનામાં કોઈપણ સંડોવણીનો ઇનકાર કર્યો.", "hindiTranslation": "उसने अपराध में किसी भी संलिप्तता से इनकार किया।", "gujaratiPronunciation": "હી ડિનાઇડ એની ઇન્વોલ્વમેન્ટ ઇન ધ ક્રાઇમ.", "hindiPronunciation": "ही डिनाइड एनी इन्वॉल्वमेंट इन द क्राइम।" }
+            ]
+        },
+        {
+            "word": "Ponder",
+            "gujaratiPronunciation": "પોન્ડર",
+            "hindiPronunciation": "पॉन्डर",
+            "gujaratiMeaning": "ઊંડો વિચાર કરવો, મનન કરવું",
+            "hindiMeaning": "गहराई से सोचना, मनन करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Ponder", "gujaratiPronunciation": "પોન્ડર", "hindiPronunciation": "पॉन्डर", "gujaratiMeaning": "વિચાર કરવો", "hindiMeaning": "विचार करना" },
+                "V2 (Past)": { "word": "Pondered", "gujaratiPronunciation": "પોન્ડર્ડ", "hindiPronunciation": "पॉन्डर्ड", "gujaratiMeaning": "વિચાર કર્યો", "hindiMeaning": "विचार किया" },
+                "V3 (Past Participle)": { "word": "Pondered", "gujaratiPronunciation": "પોન્ડર્ડ", "hindiPronunciation": "पॉन्डर्ड", "gujaratiMeaning": "વિચાર કરેલો", "hindiMeaning": "विचार किया हुआ" },
+                "V4 (Present Participle)": { "word": "Pondering", "gujaratiPronunciation": "પોન્ડરિંગ", "hindiPronunciation": "पॉन्डरिंग", "gujaratiMeaning": "વિચાર કરી રહ્યું છે", "hindiMeaning": "विचार कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Contemplate", "gujaratiPronunciation": "કોન્ટેમ્પ્લેટ", "hindiPronunciation": "कॉन्टेम्प्लेट", "gujaratiMeaning": "મનન કરવું", "hindiMeaning": "मनन करना" },
+                { "word": "Meditate on", "gujaratiPronunciation": "મેડિટેટ ઓન", "hindiPronunciation": "मेडिटेट ऑन", "gujaratiMeaning": "પર ધ્યાન કરવું", "hindiMeaning": "पर ध्यान करना" }
+            ],
+            "antonyms": [
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Pounder", "gujaratiPronunciation": "પાઉન્ડર", "hindiPronunciation": "पाउंडर", "gujaratiMeaning": "દળવાની ઘંટી", "hindiMeaning": "पीसने की चक्की" }
+            ],
+            "exampleSentences": [
+                { "sentence": "She pondered the question for a moment.", "gujaratiTranslation": "તેણીએ એક ક્ષણ માટે પ્રશ્ન પર વિચાર કર્યો.", "hindiTranslation": "उसने एक पल के लिए सवाल पर विचार किया।", "gujaratiPronunciation": "શી પોન્ડર્ડ ધ ક્વેશ્ચન ફોર અ મોમેન્ટ.", "hindiPronunciation": "शी पॉन्डर्ड द क्वेश्चन फॉर अ मोमेंट।" }
+            ]
+        },
+        {
+            "word": "Fulfill",
+            "gujaratiPronunciation": "ફુલફિલ",
+            "hindiPronunciation": "फुलफिल",
+            "gujaratiMeaning": "પૂરું કરવું, પરિપૂર્ણ કરવું",
+            "hindiMeaning": "पूरा करना, परिपूर्ण करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Fulfill", "gujaratiPronunciation": "ફુલફિલ", "hindiPronunciation": "फुलफिल", "gujaratiMeaning": "પૂરું કરવું", "hindiMeaning": "पूरा करना" },
+                "V2 (Past)": { "word": "Fulfilled", "gujaratiPronunciation": "ફુલફિલ્ડ", "hindiPronunciation": "फुलफिल्ड", "gujaratiMeaning": "પૂરું કર્યું", "hindiMeaning": "पूरा किया" },
+                "V3 (Past Participle)": { "word": "Fulfilled", "gujaratiPronunciation": "ફુલફિલ્ડ", "hindiPronunciation": "फुलफिल्ड", "gujaratiMeaning": "પૂરું કરેલું", "hindiMeaning": "पूरा किया हुआ" },
+                "V4 (Present Participle)": { "word": "Fulfilling", "gujaratiPronunciation": "ફુલફિલિંગ", "hindiPronunciation": "फुलफिलिंग", "gujaratiMeaning": "પૂરું કરી રહ્યું છે", "hindiMeaning": "पूरा कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Accomplish", "gujaratiPronunciation": "એકમ્પલિશ", "hindiPronunciation": "एकम्प्लिश", "gujaratiMeaning": "સિદ્ધ કરવું", "hindiMeaning": "पूरा करना" },
+                { "word": "Achieve", "gujaratiPronunciation": "અચીવ", "hindiPronunciation": "अचीव", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "प्राप्त करना" }
+            ],
+            "antonyms": [
+                { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "उपेक्षा करना" },
+                { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ જવું", "hindiMeaning": "विफल होना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "He worked hard to fulfill his dreams.", "gujaratiTranslation": "તેણે તેના સપના પૂરા કરવા માટે સખત મહેનત કરી.", "hindiTranslation": "उसने अपने सपनों को पूरा करने के लिए कड़ी मेहनत की।", "gujaratiPronunciation": "હી વર્ક્ડ હાર્ડ ટુ ફુલફિલ હિઝ ડ્રીમ્સ.", "hindiPronunciation": "ही वर्क्ड हार्ड टू फुलफिल हिज़ ड्रीम्स।" }
+            ]
+        },
+        {
+            "word": "Actualize",
+            "gujaratiPronunciation": "એક્ચ્યુલાઇઝ",
+            "hindiPronunciation": "एक्चुअलाइज़",
+            "gujaratiMeaning": "સાકાર કરવું, વાસ્તવિક બનાવવું",
+            "hindiMeaning": "साकार करना, वास्तविक बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Actualize", "gujaratiPronunciation": "એક્ચ્યુલાઇઝ", "hindiPronunciation": "एक्चुअलाइज़", "gujaratiMeaning": "સાકાર કરવું", "hindiMeaning": "साकार करना" },
+                "V2 (Past)": { "word": "Actualized", "gujaratiPronunciation": "એક્ચ્યુલાઇઝ્ડ", "hindiPronunciation": "एक्चुअलाइज़्ड", "gujaratiMeaning": "સાકાર કર્યું", "hindiMeaning": "साकार किया" },
+                "V3 (Past Participle)": { "word": "Actualized", "gujaratiPronunciation": "એક્ચ્યુલાઇઝ્ડ", "hindiPronunciation": "एक्चुअलाइज़्ड", "gujaratiMeaning": "સાકાર કરેલું", "hindiMeaning": "साकार किया हुआ" },
+                "V4 (Present Participle)": { "word": "Actualizing", "gujaratiPronunciation": "એક્ચ્યુલાઇઝિંગ", "hindiPronunciation": "एक्चुअलाइजिंग", "gujaratiMeaning": "સાકાર કરી રહ્યું છે", "hindiMeaning": "साकार कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Realize", "gujaratiPronunciation": "રિયલાઇઝ", "hindiPronunciation": "रियलाइज़", "gujaratiMeaning": "ભાન થવું", "hindiMeaning": "साकार करना" },
+                { "word": "Fulfill", "gujaratiPronunciation": "ફુલફિલ", "hindiPronunciation": "फुलफिल", "gujaratiMeaning": "પૂરું કરવું", "hindiMeaning": "पूरा करना" }
+            ],
+            "antonyms": [
+                { "word": "Imagine", "gujaratiPronunciation": "ઇમેજિન", "hindiPronunciation": "इमैजिन", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" }
+            ],
+            "confusingWords": [
+                { "word": "Actually", "gujaratiPronunciation": "એક્ચ્યુઅલી", "hindiPronunciation": "एक्चुअली", "gujaratiMeaning": "ખરેખર", "hindiMeaning": "वास्तव में" }
+            ],
+            "exampleSentences": [
+                { "sentence": "She managed to actualize her potential.", "gujaratiTranslation": "તેણી તેની ક્ષમતાને સાકાર કરવામાં સફળ રહી.", "hindiTranslation": "वह अपनी क्षमता को साकार करने में कामयाब रही।", "gujaratiPronunciation": "શી મેનેજ્ડ ટુ એક્ચ્યુલાઇઝ હર પોટેન્શિયલ.", "hindiPronunciation": "शी मैनेज्ड टू एक्चुअलाइज़ हर पोटेंशियल।" }
+            ]
+        },
+        {
+            "word": "Materialize",
+            "gujaratiPronunciation": "મટિરિયલાઇઝ",
+            "hindiPronunciation": "मटेरियलाइज़",
+            "gujaratiMeaning": "મૂર્ત સ્વરૂપ આપવું, સાકાર થવું",
+            "hindiMeaning": "मूर्त रूप देना, साकार होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Materialize", "gujaratiPronunciation": "મટિરિયલાઇઝ", "hindiPronunciation": "मटेरियलाइज़", "gujaratiMeaning": "સાકાર થવું", "hindiMeaning": "साकार होना" },
+                "V2 (Past)": { "word": "Materialized", "gujaratiPronunciation": "મટિરિયલાઇઝ્ડ", "hindiPronunciation": "मटेरियलाइज्ड", "gujaratiMeaning": "સાકાર થયું", "hindiMeaning": "साकार हुआ" },
+                "V3 (Past Participle)": { "word": "Materialized", "gujaratiPronunciation": "મટિરિયલાઇઝ્ડ", "hindiPronunciation": "मटेरियलाइज्ड", "gujaratiMeaning": "સાકાર થયેલું", "hindiMeaning": "साकार हुआ" },
+                "V4 (Present Participle)": { "word": "Materializing", "gujaratiPronunciation": "મટિરિયલાઇઝિંગ", "hindiPronunciation": "मटेरियलाइजिंग", "gujaratiMeaning": "સાકાર થઈ રહ્યું છે", "hindiMeaning": "साकार हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Appear", "gujaratiPronunciation": "અપિયર", "hindiPronunciation": "अपियर", "gujaratiMeaning": "દેખાવું", "hindiMeaning": "दिखाई देना" },
+                { "word": "Take shape", "gujaratiPronunciation": "ટેક શેપ", "hindiPronunciation": "टेक शेप", "gujaratiMeaning": "આકાર લેવો", "hindiMeaning": "आकार लेना" }
+            ],
+            "antonyms": [
+                { "word": "Vanish", "gujaratiPronunciation": "વેનિશ", "hindiPronunciation": "वैनिश", "gujaratiMeaning": "અદૃશ્ય થવું", "hindiMeaning": "गायब होना" },
+                { "word": "Disappear", "gujaratiPronunciation": "ડિસઅપિયર", "hindiPronunciation": "डिसअपीयर", "gujaratiMeaning": "ગાયબ થવું", "hindiMeaning": "गायब होना" }
+            ],
+            "confusingWords": [
+                { "word": "Material", "gujaratiPronunciation": "મટિરિયલ", "hindiPronunciation": "मटेरियल", "gujaratiMeaning": "સામગ્રી", "hindiMeaning": "सामग्री" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The promised help never materialized.", "gujaratiTranslation": "વચન આપેલી મદદ ક્યારેય સાકાર થઈ નહીં.", "hindiTranslation": "वादा की गई मदद कभी साकार नहीं हुई।", "gujaratiPronunciation": "ધ પ્રોમિસ્ડ હેલ્પ નેવર મટિરિયલાઇઝ્ડ.", "hindiPronunciation": "द प्रॉमिस्ड हेल्प नेवर मटेरियलाइज़्ड।" }
+            ]
+        }
+    ]
+}

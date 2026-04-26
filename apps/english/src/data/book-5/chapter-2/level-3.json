@@ -1,0 +1,145 @@
+{
+  "id": "level-3",
+  "title": "Level 3: Systematic Control",
+  "words": [
+    {
+      "word": "Regulate",
+      "gujaratiPronunciation": "રેગ્યુલેટ",
+      "hindiPronunciation": "रेगुलेट",
+      "gujaratiMeaning": "નિયમન કરવું, નિયંત્રિત કરવું",
+      "hindiMeaning": "विनियमन करना, नियंत्रित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Regulate", "gujaratiPronunciation": "રેગ્યુલેટ", "hindiPronunciation": "रेगुलेट", "gujaratiMeaning": "નિયમન કરવું", "hindiMeaning": "विनियमन करना" },
+        "V2 (Past)": { "word": "Regulated", "gujaratiPronunciation": "રેગ્યુલેટેડ", "hindiPronunciation": "रेगुलेटेड", "gujaratiMeaning": "નિયમન કર્યું", "hindiMeaning": "विनियमित किया" },
+        "V3 (Past Participle)": { "word": "Regulated", "gujaratiPronunciation": "રેગ્યુલેટેડ", "hindiPronunciation": "रेगुलेटेड", "gujaratiMeaning": "નિયમન કરેલ", "hindiMeaning": "विनियमित" },
+        "V4 (Present Participle)": { "word": "Regulating", "gujaratiPronunciation": "રેગ્યુલેટિંગ", "hindiPronunciation": "रेगुलेटिंग", "gujaratiMeaning": "નિયમન કરી રહ્યું છે", "hindiMeaning": "विनियमन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Control", "gujaratiPronunciation": "કંટ્રોલ", "hindiPronunciation": "कंट्रोल", "gujaratiMeaning": "નિયંત્રણ કરવું", "hindiMeaning": "नियंत्रण करना" },
+        { "word": "Adjust", "gujaratiPronunciation": "એડજસ્ટ", "hindiPronunciation": "एडजस्ट", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "समायोजित करना" }
+      ],
+      "antonyms": [
+        { "word": "Deregulate", "gujaratiPronunciation": "ડિરેગ્યુલેટ", "hindiPronunciation": "डереगुलेट", "gujaratiMeaning": "નિયમનમુક્ત કરવું", "hindiMeaning": "अनियमित करना" },
+        { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गेनाइज", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अव्यवस्थित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Relegate", "gujaratiPronunciation": "રેલિગેટ", "hindiPronunciation": "रेलिगेट", "gujaratiMeaning": "નીચલા સ્થાને ઉતારી દેવું", "hindiMeaning": "निम्न पद पर पदावनत करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The government needs to regulate the price of fuel.", "gujaratiPronunciation": "ધ ગવર્મેન્ટ નીડ્સ ટુ રેગ્યુલેટ ધ પ્રાઇસ ઓફ ફ્યુઅલ.", "hindiPronunciation": "द गवर्नमेंट नीड्स टू रेगुलेट द प्राइस ऑफ फ्यूल।", "gujaratiTranslation": "સરકારે બળતણના ભાવનું નિયમન કરવાની જરૂર છે.", "hindiTranslation": "सरकार को ईंधन की कीमत को नियंत्रित करने की जरूरत है।" }
+      ]
+    },
+    {
+      "word": "Delegate",
+      "gujaratiPronunciation": "ડેલિગેટ",
+      "hindiPronunciation": "डेलिगेट",
+      "gujaratiMeaning": "પ્રતિનિધિ તરીકે મોકલવું, સત્તા સોંપવી",
+      "hindiMeaning": "प्रतिनिधि भेजना, अधिकार सौंपना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Delegate", "gujaratiPronunciation": "ડેલિગેટ", "hindiPronunciation": "डेलिगेट", "gujaratiMeaning": "સત્તા સોંપવી", "hindiMeaning": "अधिकार सौंपना" },
+        "V2 (Past)": { "word": "Delegated", "gujaratiPronunciation": "ડેલિગેટેડ", "hindiPronunciation": "डेलिगेटेड", "gujaratiMeaning": "સત્તા સોંપી", "hindiMeaning": "अधिकार सौंपा" },
+        "V3 (Past Participle)": { "word": "Delegated", "gujaratiPronunciation": "ડેલિગેટેડ", "hindiPronunciation": "डेलिगेटेड", "gujaratiMeaning": "સત્તા સોંપેલ", "hindiMeaning": "सौंपा हुआ" },
+        "V4 (Present Participle)": { "word": "Delegating", "gujaratiPronunciation": "ડેલિગેટિંગ", "hindiPronunciation": "डेलिगेटिंग", "gujaratiMeaning": "સત્તા સોંપી રહ્યું છે", "hindiMeaning": "अधिकार सौंप रहा है" }
+      },
+      "synonyms": [
+        { "word": "Assign", "gujaratiPronunciation": "અસાઇન", "hindiPronunciation": "असाइन", "gujaratiMeaning": "સોંપવું", "hindiMeaning": "सौंपना" },
+        { "word": "Entrust", "gujaratiPronunciation": "એન્ટ્રસ્ટ", "hindiPronunciation": "एंट्रस्ट", "gujaratiMeaning": "વિશ્વાસથી સોંપવું", "hindiMeaning": "विश्वास से सौंपना" }
+      ],
+      "antonyms": [
+        { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "પાસે રાખવું", "hindiMeaning": "पास रखना" },
+        { "word": "Retain", "gujaratiPronunciation": "રિટેન", "hindiPronunciation": "रिटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Relegate", "gujaratiPronunciation": "રેલિગેટ", "hindiPronunciation": "रेलिगेट", "gujaratiMeaning": "પદભ્રષ્ટ કરવું", "hindiMeaning": "पदावनत करना" },
+        { "word": "Delicate", "gujaratiPronunciation": "ડેલિકેટ", "hindiPronunciation": "डेलिकेट", "gujaratiMeaning": "નાજુક", "hindiMeaning": "नाजुक" }
+      ],
+      "exampleSentences": [
+        { "sentence": "A good manager knows when to delegate tasks.", "gujaratiPronunciation": "અ ગુડ મેનેજર નોઝ વ્હેન ટુ ડેલિગેટ ટાસ્ક્સ.", "hindiPronunciation": "अ गुड मैनेजर नोज व्हेन टू डेलिगेट टास्क्स।", "gujaratiTranslation": "એક સારા મેનેજર જાણે છે કે કાર્યો ક્યારે સોંપવા.", "hindiTranslation": "एक अच्छा प्रबंधक जानता है कि कार्यों को कब सौंपना है।" }
+      ]
+    },
+    {
+      "word": "Enforce",
+      "gujaratiPronunciation": "એન્ફોર્સ",
+      "hindiPronunciation": "एनफोर्स",
+      "gujaratiMeaning": "લાગુ કરવું, અમલ કરાવવો",
+      "hindiMeaning": "लागू करना, अमल कराना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Enforce", "gujaratiPronunciation": "એન્ફોર્સ", "hindiPronunciation": "एनफोर्स", "gujaratiMeaning": "લાગુ કરવું", "hindiMeaning": "लागू करना" },
+        "V2 (Past)": { "word": "Enforced", "gujaratiPronunciation": "એન્ફોર્સ્ડ", "hindiPronunciation": "एनफोर्स्ड", "gujaratiMeaning": "લાગુ કર્યું", "hindiMeaning": "लागू किया" },
+        "V3 (Past Participle)": { "word": "Enforced", "gujaratiPronunciation": "એન્ફોર્સ્ડ", "hindiPronunciation": "एनफोर्स्ड", "gujaratiMeaning": "લાગુ કરેલ", "hindiMeaning": "लागू किया हुआ" },
+        "V4 (Present Participle)": { "word": "Enforcing", "gujaratiPronunciation": "એન્ફોર્સિંગ", "hindiPronunciation": "एनफोर्सिंग", "gujaratiMeaning": "લાગુ કરી રહ્યું છે", "hindiMeaning": "लागू कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Implement", "gujaratiPronunciation": "ઇમ્પ્લિમેન્ટ", "hindiPronunciation": "इम्प्लीमेंट", "gujaratiMeaning": "અમલ કરવો", "hindiMeaning": "कार्यान्वित करना" },
+        { "word": "Apply", "gujaratiPronunciation": "એપ્લાય", "hindiPronunciation": "अप्लाई", "gujaratiMeaning": "લાગુ કરવું", "hindiMeaning": "लागू करना" }
+      ],
+      "antonyms": [
+        { "word": "Waive", "gujaratiPronunciation": "વેવ", "hindiPronunciation": "वेव", "gujaratiMeaning": "માફ કરવું", "hindiMeaning": "माफ करना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "नजरअंदाज करना" }
+      ],
+      "confusingWords": [
+        { "word": "Endorse", "gujaratiPronunciation": "એન્ડોર્સ", "hindiPronunciation": "एंडोर्स", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The police are there to enforce the law.", "gujaratiPronunciation": "ધ પોલીસ આર ધેર ટુ એન્ફોર્સ ધ લો.", "hindiPronunciation": "द पुलिस आर देयर टू एनफोर्स द लॉ।", "gujaratiTranslation": "પોલીસ કાયદાનો અમલ કરાવવા માટે છે.", "hindiTranslation": "पुलिस कानून को लागू करने के लिए है।" }
+      ]
+    },
+    {
+      "word": "Manipulate",
+      "gujaratiPronunciation": "મેનિપ્યુલેટ",
+      "hindiPronunciation": "मैनिपुलेट",
+      "gujaratiMeaning": "ચાલાકી કરવી, પોતાના ફાયદા માટે ઉપયોગ કરવો",
+      "hindiMeaning": "चालाकी करना, अपने लाभ के लिए उपयोग करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Manipulate", "gujaratiPronunciation": "મેનિપ્યુલેટ", "hindiPronunciation": "मैनिपुलेट", "gujaratiMeaning": "ચાલાકી કરવી", "hindiMeaning": "चालाकी करना" },
+        "V2 (Past)": { "word": "Manipulated", "gujaratiPronunciation": "મેનિપ્યુલેટેડ", "hindiPronunciation": "मैनिपुलेटेड", "gujaratiMeaning": "ચાલાકી કરી", "hindiMeaning": "चालाकी की" },
+        "V3 (Past Participle)": { "word": "Manipulated", "gujaratiPronunciation": "મેનિપ્યુલેટેડ", "hindiPronunciation": "मैनिपुलेटेड", "gujaratiMeaning": "ચાલાકી કરેલ", "hindiMeaning": "चालाकी से संचालित" },
+        "V4 (Present Participle)": { "word": "Manipulating", "gujaratiPronunciation": "મેનિપ્યુલેટિંગ", "hindiPronunciation": "मैनिपुलेटिंग", "gujaratiMeaning": "ચાલાકી કરી રહ્યું છે", "hindiMeaning": "चालाकी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Control", "gujaratiPronunciation": "કંટ્રોલ", "hindiPronunciation": "कंट्रोल", "gujaratiMeaning": "નિયંત્રણ કરવું", "hindiMeaning": "नियंत्रित करना" },
+        { "word": "Influence", "gujaratiPronunciation": "ઇન્ફ્લુઅન્સ", "hindiPronunciation": "इन्फ्लुएंस", "gujaratiMeaning": "પ્રભાવ પાડવો", "hindiMeaning": "प्रभावित करना" }
+      ],
+      "antonyms": [
+        { "word": "Guide", "gujaratiPronunciation": "ગાઇડ", "hindiPronunciation": "गाइड", "gujaratiMeaning": "માર્ગદર્શન આપવું", "hindiMeaning": "मार्गदर्शन करना" },
+        { "word": "Help", "gujaratiPronunciation": "હેલ્પ", "hindiPronunciation": "हेल्प", "gujaratiMeaning": "મદદ કરવી", "hindiMeaning": "मदद करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        { "sentence": "He tried to manipulate the results of the election.", "gujaratiPronunciation": "હી ટ્રાઇડ ટુ મેનિપ્યુલેટ ધ રિઝલ્ટ્સ ઓફ ધ ઇલેક્શન.", "hindiPronunciation": "ही ट्राइड टू मैनिपुलेट द रिजल्ट्स ऑफ द इलेक्शन।", "gujaratiTranslation": "તેણે ચૂંટણીના પરિણામોમાં ચાલાકી કરવાનો પ્રયાસ કર્યો.", "hindiTranslation": "उसने चुनाव के परिणामों में हेरफेर करने की कोशिश की।" }
+      ]
+    },
+    {
+      "word": "Command",
+      "gujaratiPronunciation": "કમાન્ડ",
+      "hindiPronunciation": "कमांड",
+      "gujaratiMeaning": "આદેશ આપવો, હુકમ",
+      "hindiMeaning": "आदेश देना, हुक्म",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Command", "gujaratiPronunciation": "કમાન્ડ", "hindiPronunciation": "कमांड", "gujaratiMeaning": "આદેશ આપવો", "hindiMeaning": "आदेश देना" },
+        "V2 (Past)": { "word": "Commanded", "gujaratiPronunciation": "કમાન્ડેડ", "hindiPronunciation": "कमांडेड", "gujaratiMeaning": "આદેશ આપ્યો", "hindiMeaning": "आदेश दिया" },
+        "V3 (Past Participle)": { "word": "Commanded", "gujaratiPronunciation": "કમાન્ડેડ", "hindiPronunciation": "कमांडेड", "gujaratiMeaning": "આદેશ આપેલ", "hindiMeaning": "आदिष्ट" },
+        "V4 (Present Participle)": { "word": "Commanding", "gujaratiPronunciation": "કમાન્ડિંગ", "hindiPronunciation": "कमांडिंग", "gujaratiMeaning": "આદેશ આપી રહ્યું છે", "hindiMeaning": "आदेश दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Order", "gujaratiPronunciation": "ઓર્ડર", "hindiPronunciation": "ऑर्डर", "gujaratiMeaning": "હુકમ કરવો", "hindiMeaning": "आदेश देना" },
+        { "word": "Direct", "gujaratiPronunciation": "ડિરેક્ટ", "hindiPronunciation": "डायरेक्ट", "gujaratiMeaning": "નિર્દેશ આપવો", "hindiMeaning": "निर्देश देना" }
+      ],
+      "antonyms": [
+        { "word": "Obey", "gujaratiPronunciation": "ઓબે", "hindiPronunciation": "ओबे", "gujaratiMeaning": "આજ્ઞા પાળવી", "hindiMeaning": "आज्ञा का पालन करना" },
+        { "word": "Follow", "gujaratiPronunciation": "ફોલો", "hindiPronunciation": "फॉलो", "gujaratiMeaning": "અનુસરણ કરવું", "hindiMeaning": "अनुसरण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Commend", "gujaratiPronunciation": "કમેન્ડ", "hindiPronunciation": "कमेंड", "gujaratiMeaning": "વખાણ કરવું", "hindiMeaning": "प्रशंसा करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The officer commanded his soldiers to attack.", "gujaratiPronunciation": "ધ ઓફિસર કમાન્ડેડ હીઝ સોલ્જર્સ ટુ અટેક.", "hindiPronunciation": "द ऑफिसर कमांडेड हिज सोल्जर्स टू अटैक।", "gujaratiTranslation": "અધિકારીએ તેના સૈનિકોને હુમલો કરવાનો આદેશ આપ્યો.", "hindiTranslation": "अधिकारी ने अपने सैनिकों को हमला करने का आदेश दिया।" }
+      ]
+    }
+  ]
+}

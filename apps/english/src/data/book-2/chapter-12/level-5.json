@@ -1,0 +1,76 @@
+{
+  "id": "level-5",
+  "title": "Feelings and Actions 5",
+  "words": [
+    {
+      "word": "Motivate",
+      "gujaratiPronunciation": "મોટિવેટ",
+      "hindiPronunciation": "मोटिवेट",
+      "gujaratiMeaning": "પ્રેરણા આપવી",
+      "hindiMeaning": "प्रेरित करना",
+      "exampleSentences": [
+        {
+          "sentence": "A good leader can motivate the team.",
+          "gujaratiTranslation": "એક સારો નેતા ટીમને પ્રેરણા આપી શકે છે.",
+          "hindiTranslation": "एक अच्छा नेता टीम को प्रेरित कर सकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Inspire",
+      "gujaratiPronunciation": "ઇન્સ્પાયર",
+      "hindiPronunciation": "इंस्पायर",
+      "gujaratiMeaning": "પ્રેરણા આપવી",
+      "hindiMeaning": "प्रेरित करना",
+      "exampleSentences": [
+        {
+          "sentence": "His story will inspire many people.",
+          "gujaratiTranslation": "તેમની વાર્તા ઘણા લોકોને પ્રેરણા આપશે.",
+          "hindiTranslation": "उनकी कहानी कई لوگوں को प्रेरित करेगी।"
+        }
+      ]
+    },
+    {
+      "word": "Support",
+      "gujaratiPronunciation": "સપોર્ટ",
+      "hindiPronunciation": "सपोर्ट",
+      "gujaratiMeaning": "સમર્થન",
+      "hindiMeaning": "समर्थन",
+      "exampleSentences": [
+        {
+          "sentence": "I will always support you.",
+          "gujaratiTranslation": "હું હંમેશા તમને સમર્થન આપીશ.",
+          "hindiTranslation": "मैं हमेशा तुम्हारा समर्थन करूंगा।"
+        }
+      ]
+    },
+    {
+      "word": "Guide",
+      "gujaratiPronunciation": "ગાઇડ",
+      "hindiPronunciation": "गाइड",
+      "gujaratiMeaning": "માર્ગદર્શન આપવું",
+      "hindiMeaning": "मार्गदर्शन करना",
+      "exampleSentences": [
+        {
+          "sentence": "A teacher can guide the students.",
+          "gujaratiTranslation": "એક શિક્ષક વિદ્યાર્થીઓને માર્ગદર્શન આપી શકે છે.",
+          "hindiTranslation": "एक शिक्षक छात्रों का मार्गदर्शन कर सकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Encourage",
+      "gujaratiPronunciation": "એન્કરેજ",
+      "hindiPronunciation": "एंकरेज",
+      "gujaratiMeaning": "પ્રોત્સાહન આપવું",
+      "hindiMeaning": "प्रोत्સાहित करना",
+      "exampleSentences": [
+        {
+          "sentence": "Parents should encourage their children.",
+          "gujaratiTranslation": "માતા-પિતાએ તેમના બાળકોને પ્રોત્સાહન આપવું જોઈએ.",
+          "hindiTranslation": "माता-पिता को अपने बच्चों को प्रोत्साहित करना चाहिए।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "level-3",
+  "title": "Level 3: Financial Operations",
+  "words": [
+    {
+      "word": "Liquidate",
+      "gujaratiPronunciation": "લિક્વિડેટ",
+      "hindiPronunciation": "लिक्विडेट",
+      "gujaratiMeaning": "વેચીને રોકડમાં ફેરવવું",
+      "hindiMeaning": "बेचकर नकदी में बदलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Liquidate", "gujaratiPronunciation": "લિક્વિડેટ", "hindiPronunciation": "लिक्विडेट", "gujaratiMeaning": "રોકડમાં ફેરવવું", "hindiMeaning": "नकदी में बदलना" },
+        "V2 (Past)": { "word": "Liquidated", "gujaratiPronunciation": "લિક્વિડેટેડ", "hindiPronunciation": "लिक्विडेटेड", "gujaratiMeaning": "રોકડમાં ફેરવ્યું", "hindiMeaning": "नकदी में बदला" },
+        "V3 (Past Participle)": { "word": "Liquidated", "gujaratiPronunciation": "લિક્વિડેટેડ", "hindiPronunciation": "लिक्विडेटेड", "gujaratiMeaning": "રોકડમાં ફેરવેલું", "hindiMeaning": "परिसमाप्त" },
+        "V4 (Present Participle)": { "word": "Liquidating", "gujaratiPronunciation": "લિક્વિડેટિંગ", "hindiPronunciation": "लिक्विडेटिंग", "gujaratiMeaning": "રોકડમાં ફેરવી રહ્યું છે", "hindiMeaning": "नकदी में बदल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Sell off", "gujaratiPronunciation": "સેલ ઓફ", "hindiPronunciation": "सेल ऑफ", "gujaratiMeaning": "વેચી નાખવું", "hindiMeaning": "बेच देना" },
+        { "word": "Cash out", "gujaratiPronunciation": "કેશ આઉટ", "hindiPronunciation": "कैश आउट", "gujaratiMeaning": "રોકડ મેળવવી", "hindiMeaning": "नकदी निकालना" }
+      ],
+      "antonyms": [
+        { "word": "Invest", "gujaratiPronunciation": "ઇન્વેસ્ટ", "hindiPronunciation": "इन्वेस्ट", "gujaratiMeaning": "રોકાણ કરવું", "hindiMeaning": "निवेश करना" },
+        { "word": "Acquire", "gujaratiPronunciation": "એક્વાયર", "hindiPronunciation": "एक्वायर", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "अधिग्रहित करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company had to liquidate its assets.",
+          "gujaratiTranslation": "કંપનીને તેની મિલકતો વેચીને રોકડમાં ફેરવવી પડી.",
+          "hindiTranslation": "कंपनी को अपनी संपत्ति बेचनी पड़ी।",
+          "gujaratiPronunciation": "ધ કંપની હેડ ટુ લિક્વિડેટ ઇટ્સ એસેટ્સ.",
+          "hindiPronunciation": "द कंपनी हैड टू लिक्विडेट इट्स एसेट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Negotiate",
+      "gujaratiPronunciation": "નેગોશિએટ",
+      "hindiPronunciation": "नेगोशिएट",
+      "gujaratiMeaning": "વાટાઘાટ કરવી",
+      "hindiMeaning": "बातचीत करना, मोलभाव करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Negotiate", "gujaratiPronunciation": "નેગોશિએટ", "hindiPronunciation": "नेगोशिएट", "gujaratiMeaning": "વાટાઘાટ કરવી", "hindiMeaning": "बातचीत करना" },
+        "V2 (Past)": { "word": "Negotiated", "gujaratiPronunciation": "નેગોશિએટેડ", "hindiPronunciation": "नेगोशिएटेड", "gujaratiMeaning": "વાટાઘાટ કરી", "hindiMeaning": "बातचीत की" },
+        "V3 (Past Participle)": { "word": "Negotiated", "gujaratiPronunciation": "નેગોશિએટેડ", "hindiPronunciation": "नेगोशिएटेड", "gujaratiMeaning": "વાટાઘાટ કરેલ", "hindiMeaning": "बातचीत किया हुआ" },
+        "V4 (Present Participle)": { "word": "Negotiating", "gujaratiPronunciation": "નેગોશિએટિંગ", "hindiPronunciation": "नेगोशिएटिंग", "gujaratiMeaning": "વાટાઘાટ કરી રહ્યું છે", "hindiMeaning": "बातचीत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Bargain", "gujaratiPronunciation": "બાર્ગેન", "hindiPronunciation": "बार्गेन", "gujaratiMeaning": "સોદો કરવો", "hindiMeaning": "मोलभाव करना" },
+        { "word": "Discuss", "gujaratiPronunciation": "ડિસ્કસ", "hindiPronunciation": "डिस्कस", "gujaratiMeaning": "ચર્ચા કરવી", "hindiMeaning": "चर्चा करना" }
+      ],
+      "antonyms": [
+        { "word": "Argue", "gujaratiPronunciation": "આર્ગ્યુ", "hindiPronunciation": "आर्ग्यू", "gujaratiMeaning": "દલીલ કરવી", "hindiMeaning": "बहस करना" },
+        { "word": "Refuse", "gujaratiPronunciation": "રિફ્યુઝ", "hindiPronunciation": "रिफ्यूज", "gujaratiMeaning": "ઇનકાર કરવો", "hindiMeaning": "इनकार करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "He is good at negotiating contracts.",
+          "gujaratiTranslation": "તે કરારની વાટાઘાટ કરવામાં સારો છે.",
+          "hindiTranslation": "वह अनुबंधों पर बातचीत करने में अच्छा है।",
+          "gujaratiPronunciation": "હી ઇઝ ગુડ એટ નેગોશિએટિંગ કોન્ટ્રેક્ટ્સ.",
+          "hindiPronunciation": "ही इज़ गुड ऐट नेगोशिएटिंग कॉन्ट्रैक्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Audit",
+      "gujaratiPronunciation": "ઓડિટ",
+      "hindiPronunciation": "ऑडिट",
+      "gujaratiMeaning": "હિસાબ તપાસવો",
+      "hindiMeaning": "लेखा-परीक्षा करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Audit", "gujaratiPronunciation": "ઓડિટ", "hindiPronunciation": "ऑडिट", "gujaratiMeaning": "હિસાબ તપાસવો", "hindiMeaning": "लेखा-परीक्षा करना" },
+        "V2 (Past)": { "word": "Audited", "gujaratiPronunciation": "ઓડિટેડ", "hindiPronunciation": "ऑडिटेड", "gujaratiMeaning": "હિસાબ તપાસ્યો", "hindiMeaning": "लेखा-परीक्षा की" },
+        "V3 (Past Participle)": { "word": "Audited", "gujaratiPronunciation": "ઓડિટેડ", "hindiPronunciation": "ऑडिटेड", "gujaratiMeaning": "હિસાબ તપાસેલ", "hindiMeaning": "लेखा-परीक्षित" },
+        "V4 (Present Participle)": { "word": "Auditing", "gujaratiPronunciation": "ઓડિટિંગ", "hindiPronunciation": "ऑडिटिंग", "gujaratiMeaning": "હિસાબ તપાસી રહ્યું છે", "hindiMeaning": "लेखा-परीक्षा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Inspect", "gujaratiPronunciation": "ઇન્સ્પેક્ટ", "hindiPronunciation": "इंस्पेक्ट", "gujaratiMeaning": "તપાસ કરવી", "hindiMeaning": "निरीक्षण करना" },
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एक्जामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जाँचना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company has to audit its accounts every year.",
+          "gujaratiTranslation": "કંપનીને દર વર્ષે તેના હિસાબોનું ઓડિટ કરાવવું પડે છે.",
+          "hindiTranslation": "कंपनी को हर साल अपने खातों का ऑडिट कराना पड़ता है।",
+          "gujaratiPronunciation": "ધ કંપની હેઝ ટુ ઓડિટ ઇટ્સ એકાઉન્ટ્સ એવરી યર.",
+          "hindiPronunciation": "द कंपनी हैज़ टू ऑडिट इट्स अकाउंट्स एवरी इयर।"
+        }
+      ]
+    },
+    {
+      "word": "Generate",
+      "gujaratiPronunciation": "જનરેટ",
+      "hindiPronunciation": "जनरेट",
+      "gujaratiMeaning": "ઉત્પન્ન કરવું",
+      "hindiMeaning": "उत्पन्न करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Generate", "gujaratiPronunciation": "જનરેટ", "hindiPronunciation": "जनरेट", "gujaratiMeaning": "ઉત્પન્ન કરવું", "hindiMeaning": "उत्पन्न करना" },
+        "V2 (Past)": { "word": "Generated", "gujaratiPronunciation": "જનરેટેડ", "hindiPronunciation": "जनरेटेड", "gujaratiMeaning": "ઉત્પન્ન કર્યું", "hindiMeaning": "उत्पन्न किया" },
+        "V3 (Past Participle)": { "word": "Generated", "gujaratiPronunciation": "જનરેટેડ", "hindiPronunciation": "जनरेटेड", "gujaratiMeaning": "ઉત્પન્ન કરેલું", "hindiMeaning": "उत्पन्न" },
+        "V4 (Present Participle)": { "word": "Generating", "gujaratiPronunciation": "જનરેટિંગ", "hindiPronunciation": "जनरेटिंग", "gujaratiMeaning": "ઉત્પન્ન કરી રહ્યું છે", "hindiMeaning": "उत्पन्न कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" },
+        { "word": "Produce", "gujaratiPronunciation": "પ્રોડ્યુસ", "hindiPronunciation": "प्रोड्यूस", "gujaratiMeaning": "ઉત્પાદન કરવું", "hindiMeaning": "उत्पादन करना" }
+      ],
+      "antonyms": [
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Eliminate", "gujaratiPronunciation": "એલિમિનેટ", "hindiPronunciation": "एलिमिनेट", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The windmill can generate electricity.",
+          "gujaratiTranslation": "પવનચક્કી વીજળી ઉત્પન્ન કરી શકે છે.",
+          "hindiTranslation": "पवनचक्की बिजली उत्पन्न कर सकती है।",
+          "gujaratiPronunciation": "ધ વિન્ડમિલ કેન જનરેટ ઇલેક્ટ્રિસિટી.",
+          "hindiPronunciation": "द विंडमिल कैन जनरेट इलेक्ट्रिसिटी।"
+        }
+      ]
+    },
+    {
+      "word": "Leverage",
+      "gujaratiPronunciation": "લેવરેજ",
+      "hindiPronunciation": "लेवरेज",
+      "gujaratiMeaning": "લાભ ઉઠાવવો, ઉપયોગ કરવો",
+      "hindiMeaning": "लाभ उठाना, उपयोग करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Leverage", "gujaratiPronunciation": "લેવરેજ", "hindiPronunciation": "लेवरेज", "gujaratiMeaning": "લાભ ઉઠાવવો", "hindiMeaning": "लाभ उठाना" },
+        "V2 (Past)": { "word": "Leveraged", "gujaratiPronunciation": "લેવરેજ્ડ", "hindiPronunciation": "लेवरेज्ड", "gujaratiMeaning": "લાભ ઉઠાવ્યો", "hindiMeaning": "लाभ उठाया" },
+        "V3 (Past Participle)": { "word": "Leveraged", "gujaratiPronunciation": "લેવરેજ્ડ", "hindiPronunciation": "लेवरेज्ड", "gujaratiMeaning": "લાભ ઉઠાવેલો", "hindiMeaning": "लाभ उठाया हुआ" },
+        "V4 (Present Participle)": { "word": "Leveraging", "gujaratiPronunciation": "લેવરેજિંગ", "hindiPronunciation": "लेवरेजिंग", "gujaratiMeaning": "લાભ ઉઠાવી રહ્યું છે", "hindiMeaning": "लाभ उठा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Utilize", "gujaratiPronunciation": "યુટિલાઇઝ", "hindiPronunciation": "यूटिलाइज़", "gujaratiMeaning": "ઉપયોગ કરવો", "hindiMeaning": "उपयोग करना" },
+        { "word": "Exploit", "gujaratiPronunciation": "એક્સપ્લોઇટ", "hindiPronunciation": "एक्सप्लॉइट", "gujaratiMeaning": "શોષણ કરવું", "hindiMeaning": "शोषण करना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "We can leverage our connections to get the deal.",
+          "gujaratiTranslation": "આપણે સોદો મેળવવા માટે આપણા જોડાણોનો લાભ ઉઠાવી શકીએ છીએ.",
+          "hindiTranslation": "हम सौदे को पाने के लिए अपने कनेक्शन का लाभ उठा सकते हैं।",
+          "gujaratiPronunciation": "વી કેન લેવરેજ અવર કનેક્શન્સ ટુ ગેટ ધ ડીલ.",
+          "hindiPronunciation": "वी कैन लेवरेज आवर कनेक्शन्स टू गेट द डील।"
+        }
+      ]
+    }
+  ]
+}

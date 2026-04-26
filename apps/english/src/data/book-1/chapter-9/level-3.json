@@ -1,0 +1,11 @@
+{
+    "id": "level-3",
+    "title": "Fruits 3",
+    "words": [
+        { "word": "Strawberry", "icon": "🍓", "gujaratiPronunciation": "સ્ટ્રોબેરી", "hindiPronunciation": "स्ट्रॉबेरी", "gujaratiMeaning": "સ્ટ્રોબેરી", "hindiMeaning": "स्ट्रॉबेरी" },
+        { "word": "Cherry", "icon": "🍒", "gujaratiPronunciation": "ચેરી", "hindiPronunciation": "चेरी", "gujaratiMeaning": "ચેરી", "hindiMeaning": "चेरी" },
+        { "word": "Kiwi", "icon": "🥝", "gujaratiPronunciation": "કિવી", "hindiPronunciation": "कीवी", "gujaratiMeaning": "કિવી", "hindiMeaning": "कीवी" },
+        { "word": "Pomegranate", "icon": "🔴", "gujaratiPronunciation": "પોમેગ્રેનેટ", "hindiPronunciation": "पोमेग्रेनेट", "gujaratiMeaning": "દાડમ", "hindiMeaning": "अनार" },
+        { "word": "Blueberry", "icon": "🫐", "gujaratiPronunciation": "બ્લુબેરી", "hindiPronunciation": "ब्लूबेरी", "gujaratiMeaning": "બ્લુબેરી", "hindiMeaning": "ब्लूबेरी" }
+    ]
+}

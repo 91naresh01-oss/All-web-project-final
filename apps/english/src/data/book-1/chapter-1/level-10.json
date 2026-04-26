@@ -1,0 +1,46 @@
+{
+    "id": "level-10",
+    "title": "Measurement",
+    "words": [
+        {
+            "word": "quantity",
+            "icon": "⚖️",
+            "gujaratiPronunciation": "ક્વોન્ટિટી",
+            "hindiPronunciation": "क्वांटिटी",
+            "gujaratiMeaning": "જથ્થો",
+            "hindiMeaning": "मात्रा"
+        },
+        {
+            "word": "quality",
+            "icon": "⭐",
+            "gujaratiPronunciation": "ક્વોલિટી",
+            "hindiPronunciation": "क्वालिटी",
+            "gujaratiMeaning": "ગુણવત્તા",
+            "hindiMeaning": "गुणवत्ता"
+        },
+        {
+            "word": "quarter",
+            "icon": "🍕",
+            "gujaratiPronunciation": "ક્વાર્ટર",
+            "hindiPronunciation": "क्वार्टर",
+            "gujaratiMeaning": "ચોથો ભાગ",
+            "hindiMeaning": "चौथाई"
+        },
+        {
+            "word": "half",
+            "icon": "🌗",
+            "gujaratiPronunciation": "હાફ",
+            "hindiPronunciation": "हाफ",
+            "gujaratiMeaning": "અડધું",
+            "hindiMeaning": "आधा"
+        },
+        {
+            "word": "full",
+            "icon": "🌕",
+            "gujaratiPronunciation": "ફુલ",
+            "hindiPronunciation": "फुल",
+            "gujaratiMeaning": "આખું",
+            "hindiMeaning": "पूरा"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "level-2",
+  "title": "Feelings and Actions 2",
+  "words": [
+    {
+      "word": "Fear",
+      "gujaratiPronunciation": "ફિયર",
+      "hindiPronunciation": "फियर",
+      "gujaratiMeaning": "ડર",
+      "hindiMeaning": "डर",
+      "exampleSentences": [
+        {
+          "sentence": "He has a fear of heights.",
+          "gujaratiTranslation": "તેને ઊંચાઈનો ડર છે.",
+          "hindiTranslation": "उसे ऊंचाई से डर लगता है।"
+        }
+      ]
+    },
+    {
+      "word": "Hope",
+      "gujaratiPronunciation": "હોપ",
+      "hindiPronunciation": "होप",
+      "gujaratiMeaning": "આશા",
+      "hindiMeaning": "आशा",
+      "exampleSentences": [
+        {
+          "sentence": "There is always hope.",
+          "gujaratiTranslation": "હંમેશા આશા હોય છે.",
+          "hindiTranslation": "हमेशा आशा होती है।"
+        }
+      ]
+    },
+    {
+      "word": "Want",
+      "gujaratiPronunciation": "વૉન્ટ",
+      "hindiPronunciation": "वॉन्ट",
+      "gujaratiMeaning": "ઈચ્છવું",
+      "hindiMeaning": "चाहना",
+      "exampleSentences": [
+        {
+          "sentence": "I want a new car.",
+          "gujaratiTranslation": "મારે નવી કાર જોઈએ છે.",
+          "hindiTranslation": "मुझे एक नई कार चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Need",
+      "gujaratiPronunciation": "નીડ",
+      "hindiPronunciation": "नीड",
+      "gujaratiMeaning": "જરૂર",
+      "hindiMeaning": "ज़रूरत",
+      "exampleSentences": [
+        {
+          "sentence": "I need your help.",
+          "gujaratiTranslation": "મારે તમારી મદદની જરૂર છે.",
+          "hindiTranslation": "मुझे आपकी मदद کی ज़रूरत है।"
+        }
+      ]
+    },
+    {
+      "word": "Wish",
+      "gujaratiPronunciation": "વિશ",
+      "hindiPronunciation": "विश",
+      "gujaratiMeaning": "ઈચ્છા",
+      "hindiMeaning": "इच्छा",
+      "exampleSentences": [
+        {
+          "sentence": "I wish you a happy birthday.",
+          "gujaratiTranslation": "હું તમને જન્મદિવસની શુભેચ્છા પાઠવું છું.",
+          "hindiTranslation": "मैं तुम्हें जन्मदिन मुबारकباد دیتا ہوں۔"
+        }
+      ]
+    }
+  ]
+}

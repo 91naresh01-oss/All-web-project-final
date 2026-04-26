@@ -1,0 +1,47 @@
+
+{
+  "id": "level-5",
+  "title": "Geography 2",
+  "words": [
+    {
+      "word": "Rainbow",
+      "icon": "🌈",
+      "gujaratiPronunciation": "રેઈન્બો",
+      "hindiPronunciation": "रेनबो",
+      "gujaratiMeaning": "મેઘધનુષ્ય",
+      "hindiMeaning": "इंद्रधनुष"
+    },
+    {
+      "word": "Island",
+      "icon": "🏝️",
+      "gujaratiPronunciation": "આઈલેન્ડ",
+      "hindiPronunciation": "आइलैंड",
+      "gujaratiMeaning": "ટાપુ",
+      "hindiMeaning": "द्वीप"
+    },
+    {
+      "word": "Volcano",
+      "icon": "🌋",
+      "gujaratiPronunciation": "વોલ્કેનો",
+      "hindiPronunciation": "वॉल्केनो",
+      "gujaratiMeaning": "જ્વાળામુખી",
+      "hindiMeaning": "ज्वालामुखी"
+    },
+    {
+      "word": "Desert",
+      "icon": "🏜️",
+      "gujaratiPronunciation": "ડેઝર્ટ",
+      "hindiPronunciation": "डेज़र्ट",
+      "gujaratiMeaning": "રણ",
+      "hindiMeaning": "रेगिस्तान"
+    },
+    {
+      "word": "Glacier",
+      "icon": "🧊",
+      "gujaratiPronunciation": "ગ્લેશિયર",
+      "hindiPronunciation": "ग्लेशियर",
+      "gujaratiMeaning": "હિમનદી",
+      "hindiMeaning": "ग्लेशियर"
+    }
+  ]
+}

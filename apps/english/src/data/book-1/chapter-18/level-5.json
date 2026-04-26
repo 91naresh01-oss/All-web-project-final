@@ -1,0 +1,10 @@
+{
+    "id": "level-5",
+    "title": "Unique Vehicles",
+    "words": [
+        { "word": "Submarine", "icon": "🌊", "gujaratiMeaning": "સબમરીન", "hindiMeaning": "पनडुब्बी", "gujaratiPronunciation": "સબમરીન", "hindiPronunciation": "सबमरीन" },
+        { "word": "Vehicle", "icon": "🚗", "gujaratiMeaning": "વાહન", "hindiMeaning": "वाहन", "gujaratiPronunciation": "વ્હીકલ", "hindiPronunciation": "व्हीकल" },
+        { "word": "Trolley", "icon": "🛒", "gujaratiMeaning": "ટ્રોલી", "hindiMeaning": "ट्रॉली", "gujaratiPronunciation": "ટ્રોલી", "hindiPronunciation": "ट्रॉली" },
+        { "word": "Sailboat", "icon": "⛵", "gujaratiMeaning": "સેઇલબોટ", "hindiMeaning": "पाल नाव", "gujaratiPronunciation": "સેઇલબોટ", "hindiPronunciation": "सेलबोट" }
+    ]
+}

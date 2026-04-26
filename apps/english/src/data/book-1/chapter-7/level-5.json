@@ -1,0 +1,47 @@
+
+{
+    "id": "level-5",
+    "title": "Insects 5",
+    "words": [
+        {
+            "word": "Hornet",
+            "icon": "🐝",
+            "gujaratiPronunciation": "હોર્નેટ",
+            "hindiPronunciation": "हॉर्नेट",
+            "gujaratiMeaning": "ભમરો",
+            "hindiMeaning": "बर्र"
+        },
+        {
+            "word": "Flea",
+            "icon": "🐜",
+            "gujaratiPronunciation": "ફ્લી",
+            "hindiPronunciation": "फ्ली",
+            "gujaratiMeaning": "ચાંચડ",
+            "hindiMeaning": "पिस्सू"
+        },
+        {
+            "word": "Aphid",
+            "icon": "🐞",
+            "gujaratiPronunciation": "એફિડ",
+            "hindiPronunciation": "एफिड",
+            "gujaratiMeaning": "મોલો",
+            "hindiMeaning": "माहू"
+        },
+        {
+            "word": "Cockchafer",
+            "icon": "🐞",
+            "gujaratiPronunciation": "કોકચેફર",
+            "hindiPronunciation": "कॉकचेफर",
+            "gujaratiMeaning": "એક પ્રકારનો ભમરો",
+            "hindiMeaning": "एक प्रकार का भृंग"
+        },
+        {
+            "word": "Cicada",
+            "icon": "🦗",
+            "gujaratiPronunciation": "સિકાડા",
+            "hindiPronunciation": "सिकाडा",
+            "gujaratiMeaning": "સિકાડા",
+            "hindiMeaning": "सिकाडा"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "level-3",
+  "title": "Nurturing & Guidance",
+  "words": [
+    {
+      "word": "Attend",
+      "gujaratiPronunciation": "અટેન્ડ",
+      "hindiPronunciation": "अटेंड",
+      "gujaratiMeaning": "હાજરી આપવી, ધ્યાન આપવું",
+      "hindiMeaning": "उपस्थित होना, ध्यान देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Attend", "gujaratiPronunciation": "અટેન્ડ", "hindiPronunciation": "अटेंड", "gujaratiMeaning": "હાજરી આપવી", "hindiMeaning": "उपस्थित होना" },
+        "V2 (Past)": { "word": "Attended", "gujaratiPronunciation": "અટેન્ડેડ", "hindiPronunciation": "अटेंडेड", "gujaratiMeaning": "હાજરી આપી", "hindiMeaning": "उपस्थित हुए" },
+        "V3 (Past Participle)": { "word": "Attended", "gujaratiPronunciation": "અટેન્ડેડ", "hindiPronunciation": "अटेंडेड", "gujaratiMeaning": "હાજરી આપેલી", "hindiMeaning": "उपस्थित हुए" },
+        "V4 (Present Participle)": { "word": "Attending", "gujaratiPronunciation": "અટેન્ડિંગ", "hindiPronunciation": "अटेंडिंग", "gujaratiMeaning": "હાજરી આપી રહ્યું", "hindiMeaning": "उपस्थित हो रहा" }
+      },
+      "synonyms": [
+        { "word": "Participate", "gujaratiPronunciation": "પાર્ટિસિપેટ", "hindiPronunciation": "पार्टिसिपेट", "gujaratiMeaning": "ભાગ લેવો", "hindiMeaning": "भाग लेना" },
+        { "word": "Be present", "gujaratiPronunciation": "બી પ્રેઝન્ટ", "hindiPronunciation": "बी प्रेजेंट", "gujaratiMeaning": "હાજર રહેવું", "hindiMeaning": "उपस्थित रहना" }
+      ],
+      "antonyms": [
+        { "word": "Miss", "gujaratiPronunciation": "મિસ", "hindiPronunciation": "मिस", "gujaratiMeaning": "ચૂકી જવું", "hindiMeaning": "चूक जाना" },
+        { "word": "Skip", "gujaratiPronunciation": "સ્કિપ", "hindiPronunciation": "स्किप", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ देना" }
+      ],
+      "confusingWords": [
+        { "word": "Intend", "gujaratiPronunciation": "ઇન્ટેન્ડ", "hindiPronunciation": "इंटेंड", "gujaratiMeaning": "ઇરાદો રાખવો", "hindiMeaning": "इरादा रखना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Will you attend the meeting tomorrow?",
+          "gujaratiTranslation": "શું તમે આવતીકાલની મીટિંગમાં હાજરી આપશો?",
+          "hindiTranslation": "क्या आप कल की बैठक में शामिल होंगे?",
+          "gujaratiPronunciation": "વિલ યુ અટેન્ડ ધ મીટિંગ ટુમોરો?",
+          "hindiPronunciation": "विल यू अटेंड द मीटिंग टुमॉरो?"
+        }
+      ]
+    },
+    {
+      "word": "Tutor",
+      "gujaratiPronunciation": "ટ્યુટર",
+      "hindiPronunciation": "ट्यूटर",
+      "gujaratiMeaning": "ભણાવવું, માર્ગદર્શન આપવું",
+      "hindiMeaning": "पढ़ाना, मार्गदर्शन देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Tutor", "gujaratiPronunciation": "ટ્યુટર", "hindiPronunciation": "ट्यूटर", "gujaratiMeaning": "ભણાવવું", "hindiMeaning": "पढ़ाना" },
+        "V2 (Past)": { "word": "Tutored", "gujaratiPronunciation": "ટ્યુટર્ડ", "hindiPronunciation": "ट्यूटर्ड", "gujaratiMeaning": "ભણાવ્યું", "hindiMeaning": "पढ़ाया" },
+        "V3 (Past Participle)": { "word": "Tutored", "gujaratiPronunciation": "ટ્યુટર્ડ", "hindiPronunciation": "ट्यूटर्ड", "gujaratiMeaning": "ભણાવેલું", "hindiMeaning": "पढ़ाया हुआ" },
+        "V4 (Present Participle)": { "word": "Tutoring", "gujaratiPronunciation": "ટ્યુટરિંગ", "hindiPronunciation": "ट्यूटरिंग", "gujaratiMeaning": "ભણાવી રહ્યું", "hindiMeaning": "पढ़ा रहा" }
+      },
+      "synonyms": [
+        { "word": "Teach", "gujaratiPronunciation": "ટીચ", "hindiPronunciation": "टीच", "gujaratiMeaning": "શીખવવું", "hindiMeaning": "सिखाना" },
+        { "word": "Coach", "gujaratiPronunciation": "કોચ", "hindiPronunciation": "कोच", "gujaratiMeaning": "તાલીમ આપવી", "hindiMeaning": "प्रशिक्षण देना" }
+      ],
+      "antonyms": [
+        { "word": "Learn", "gujaratiPronunciation": "લર્ન", "hindiPronunciation": "लर्न", "gujaratiMeaning": "શીખવું", "hindiMeaning": "सीखना" },
+        { "word": "Misguide", "gujaratiPronunciation": "મિસગાઇડ", "hindiPronunciation": "मिसगाइड", "gujaratiMeaning": "ગેરમાર્ગે દોરવું", "hindiMeaning": "गुमराह करना" }
+      ],
+      "confusingWords": [
+        { "word": "Tumor", "gujaratiPronunciation": "ટ્યુમર", "hindiPronunciation": "ट्यूमर", "gujaratiMeaning": "ગાંઠ", "hindiMeaning": "गांठ" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She tutors students in mathematics.",
+          "gujaratiTranslation": "તેણી વિદ્યાર્થીઓને ગણિત ભણાવે છે.",
+          "hindiTranslation": "वह छात्रों को गणित पढ़ाती है।",
+          "gujaratiPronunciation": "શી ટ્યુટર્સ સ્ટુડન્ટ્સ ઇન મેથેમેટિક્સ.",
+          "hindiPronunciation": "शी ट्यूटर्स स्टूडेंट्स इन मैथमेटिक्स।"
+        }
+      ]
+    },
+    {
+      "word": "Soothe",
+      "gujaratiPronunciation": "સૂધ",
+      "hindiPronunciation": "सूद",
+      "gujaratiMeaning": "શાંત પાડવું, આરામ આપવો",
+      "hindiMeaning": "शांत करना, आराम देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Soothe", "gujaratiPronunciation": "સૂધ", "hindiPronunciation": "सूद", "gujaratiMeaning": "શાંત પાડવું", "hindiMeaning": "शांत करना" },
+        "V2 (Past)": { "word": "Soothed", "gujaratiPronunciation": "સૂધ્ડ", "hindiPronunciation": "सूदड", "gujaratiMeaning": "શાંત પાડ્યું", "hindiMeaning": "शांत किया" },
+        "V3 (Past Participle)": { "word": "Soothed", "gujaratiPronunciation": "સૂધ્ડ", "hindiPronunciation": "सूदड", "gujaratiMeaning": "શાંત પાડેલું", "hindiMeaning": "शांत किया हुआ" },
+        "V4 (Present Participle)": { "word": "Soothing", "gujaratiPronunciation": "સૂધિંગ", "hindiPronunciation": "सूदिंग", "gujaratiMeaning": "શાંત પાડી રહ્યું", "hindiMeaning": "शांत कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Calm", "gujaratiPronunciation": "કામ", "hindiPronunciation": "काम", "gujaratiMeaning": "શાંત કરવું", "hindiMeaning": "शांत करना" },
+        { "word": "Comfort", "gujaratiPronunciation": "કમ્ફર્ટ", "hindiPronunciation": "कम्फर्ट", "gujaratiMeaning": "આરામ આપવો", "hindiMeaning": "आराम देना" }
+      ],
+      "antonyms": [
+        { "word": "Agitate", "gujaratiPronunciation": "એજિટેટ", "hindiPronunciation": "एजिटेट", "gujaratiMeaning": "ઉશ્કેરવું", "hindiMeaning": "उत्तेजित करना" },
+        { "word": "Upset", "gujaratiPronunciation": "અપસેટ", "hindiPronunciation": "अपसेट", "gujaratiMeaning": "પરેશાન કરવું", "hindiMeaning": "परेशान करना" }
+      ],
+      "confusingWords": [
+        { "word": "Smooth", "gujaratiPronunciation": "સ્મૂધ", "hindiPronunciation": "स्मूद", "gujaratiMeaning": "સરળ", "hindiMeaning": "चिकना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The music helped to soothe the crying baby.",
+          "gujaratiTranslation": "સંગીતે રડતા બાળકને શાંત પાડવામાં મદદ કરી.",
+          "hindiTranslation": "संगीत ने रोते हुए बच्चे को शांत करने में मदद की।",
+          "gujaratiPronunciation": "ધ મ્યુઝિક હેલ્પ્ડ ટુ સૂધ ધ ક્રાઇંગ બેબી.",
+          "hindiPronunciation": "द म्यूजिक हेल्प्ड टू सूद द क्राइंग बेबी।"
+        }
+      ]
+    },
+    {
+      "word": "Enlist",
+      "gujaratiPronunciation": "એનલિસ્ટ",
+      "hindiPronunciation": "एनलिस्ट",
+      "gujaratiMeaning": "ભરતી કરવી, મદદ મેળવવી",
+      "hindiMeaning": "भर्ती करना, सहायता प्राप्त करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Enlist", "gujaratiPronunciation": "એનલિસ્ટ", "hindiPronunciation": "एनलिस्ट", "gujaratiMeaning": "ભરતી કરવી", "hindiMeaning": "भर्ती करना" },
+        "V2 (Past)": { "word": "Enlisted", "gujaratiPronunciation": "એનલિસ્ટેડ", "hindiPronunciation": "एनलिस्टेड", "gujaratiMeaning": "ભરતી કરી", "hindiMeaning": "भर्ती किया" },
+        "V3 (Past Participle)": { "word": "Enlisted", "gujaratiPronunciation": "એનલિસ્ટેડ", "hindiPronunciation": "एनलिस्टेड", "gujaratiMeaning": "ભરતી કરેલી", "hindiMeaning": "भर्ती किया हुआ" },
+        "V4 (Present Participle)": { "word": "Enlisting", "gujaratiPronunciation": "એનલિસ્ટિંગ", "hindiPronunciation": "एनलिस्टिंग", "gujaratiMeaning": "ભરતી કરી રહ્યું", "hindiMeaning": "भर्ती कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Recruit", "gujaratiPronunciation": "રિક્રુટ", "hindiPronunciation": "रिक्रूट", "gujaratiMeaning": "ભરતી કરવી", "hindiMeaning": "भर्ती करना" },
+        { "word": "Enroll", "gujaratiPronunciation": "એનરોલ", "hindiPronunciation": "एनरोल", "gujaratiMeaning": "નોંધણી કરવી", "hindiMeaning": "पंजीकरण करना" }
+      ],
+      "antonyms": [
+        { "word": "Discharge", "gujaratiPronunciation": "ડિસ્ચાર્જ", "hindiPronunciation": "डिस्चार्ज", "gujaratiMeaning": "બરતરફ કરવું", "hindiMeaning": "बर्खास्त करना" },
+        { "word": "Avoid", "gujaratiPronunciation": "અવોઇડ", "hindiPronunciation": "अवॉइड", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" }
+      ],
+      "confusingWords": [
+        { "word": "In list", "gujaratiPronunciation": "ઇન લિસ્ટ", "hindiPronunciation": "इन लिस्ट", "gujaratiMeaning": "યાદીમાં", "hindiMeaning": "सूची में" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He enlisted in the army at the age of eighteen.",
+          "gujaratiTranslation": "તે અઢાર વર્ષની ઉંમરે સેનામાં ભરતી થયો.",
+          "hindiTranslation": "वह अठारह साल की उम्र में सेना में भर्ती हो गया।",
+          "gujaratiPronunciation": "હી એનલિસ્ટેડ ઇન ધ આર્મી એટ ધ એજ ઓફ એઇટીન.",
+          "hindiPronunciation": "ही एनलिस्टेड इन द आर्मी एट द एज ऑफ एटीन।"
+        }
+      ]
+    },
+    {
+      "word": "Nurse",
+      "gujaratiPronunciation": "નર્સ",
+      "hindiPronunciation": "नर्स",
+      "gujaratiMeaning": "સંભાળ રાખવી, સારવાર કરવી",
+      "hindiMeaning": "देखभाल करना, इलाज करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Nurse", "gujaratiPronunciation": "નર્સ", "hindiPronunciation": "नर्स", "gujaratiMeaning": "સંભાળ રાખવી", "hindiMeaning": "देखभाल करना" },
+        "V2 (Past)": { "word": "Nursed", "gujaratiPronunciation": "નર્સ્ડ", "hindiPronunciation": "नर्स्ड", "gujaratiMeaning": "સંભાળ રાખી", "hindiMeaning": "देखभाल की" },
+        "V3 (Past Participle)": { "word": "Nursed", "gujaratiPronunciation": "નર્સ્ડ", "hindiPronunciation": "नर्स्ड", "gujaratiMeaning": "સંભાળ રાખેલી", "hindiMeaning": "देखभाल की हुई" },
+        "V4 (Present Participle)": { "word": "Nursing", "gujaratiPronunciation": "નર્સિંગ", "hindiPronunciation": "नर्सिंग", "gujaratiMeaning": "સંભાળ રાખી રહ્યું", "hindiMeaning": "देखभाल कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Care for", "gujaratiPronunciation": "કેર ફોર", "hindiPronunciation": "केयर फॉर", "gujaratiMeaning": "કાળજી લેવી", "hindiMeaning": "देखभाल करना" },
+        { "word": "Tend", "gujaratiPronunciation": "ટેન્ડ", "hindiPronunciation": "टेंड", "gujaratiMeaning": "સેવા કરવી", "hindiMeaning": "सेवा करना" }
+      ],
+      "antonyms": [
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" },
+        { "word": "Harm", "gujaratiPronunciation": "હાર્મ", "hindiPronunciation": "हार्म", "gujaratiMeaning": "નુકસાન પહોંચાડવું", "hindiMeaning": "नुकसान पहुँचाना" }
+      ],
+      "confusingWords": [
+        { "word": "Nervous", "gujaratiPronunciation": "નર્વસ", "hindiPronunciation": "नर्वस", "gujaratiMeaning": "ગભરાયેલું", "hindiMeaning": "घबराया हुआ" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She nursed him back to health.",
+          "gujaratiTranslation": "તેણીએ તેની સંભાળ રાખીને તેને સ્વસ્થ કર્યો.",
+          "hindiTranslation": "उसने उसकी देखभाल करके उसे स्वस्थ किया।",
+          "gujaratiPronunciation": "શી નર્સ્ડ હિમ બેક ટુ હેલ્થ.",
+          "hindiPronunciation": "शी नर्स्ड हिम बैक टू हेल्थ।"
+        }
+      ]
+    }
+  ]
+}

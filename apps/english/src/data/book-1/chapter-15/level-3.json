@@ -1,0 +1,47 @@
+
+{
+  "id": "level-3",
+  "title": "Household 3",
+  "words": [
+    {
+      "word": "Mirror",
+      "icon": "🪞",
+      "gujaratiPronunciation": "મિરર",
+      "hindiPronunciation": "मिरर",
+      "gujaratiMeaning": "અરીસો",
+      "hindiMeaning": "आईना"
+    },
+    {
+      "word": "Clock",
+      "icon": "⏰",
+      "gujaratiPronunciation": "ક્લોક",
+      "hindiPronunciation": "क्लॉक",
+      "gujaratiMeaning": "ઘડિયાળ",
+      "hindiMeaning": "घड़ी"
+    },
+    {
+      "word": "Brush",
+      "icon": "🖌️",
+      "gujaratiPronunciation": "બ્રશ",
+      "hindiPronunciation": "ब्रश",
+      "gujaratiMeaning": "બ્રશ",
+      "hindiMeaning": "ब्रश"
+    },
+    {
+      "word": "Soap",
+      "icon": "🧼",
+      "gujaratiPronunciation": "સોપ",
+      "hindiPronunciation": "सोप",
+      "gujaratiMeaning": "સાબુ",
+      "hindiMeaning": "साबुन"
+    },
+    {
+      "word": "Bucket",
+      "icon": "🪣",
+      "gujaratiPronunciation": "બકેટ",
+      "hindiPronunciation": "बकेट",
+      "gujaratiMeaning": "ડોલ",
+      "hindiMeaning": "बाल्टी"
+    }
+  ]
+}

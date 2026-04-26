@@ -1,0 +1,491 @@
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Devote",
+            "gujaratiPronunciation": "ડિવોટ",
+            "hindiPronunciation": "डिवोट",
+            "gujaratiMeaning": "સમર્પિત કરવું",
+            "hindiMeaning": "समर्पित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Devote",
+                    "gujaratiPronunciation": "ડિવોટ",
+                    "hindiPronunciation": "डिवोट",
+                    "gujaratiMeaning": "સમર્પિત કરવું",
+                    "hindiMeaning": "समर्पित करना"
+                },
+                "V2 (Past)": {
+                    "word": "Devoted",
+                    "gujaratiPronunciation": "ડિવોટેડ",
+                    "hindiPronunciation": "डिवोटेड",
+                    "gujaratiMeaning": "સમર્પિત કર્યું",
+                    "hindiMeaning": "समर्पित किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Devoted",
+                    "gujaratiPronunciation": "ડિવોટેડ",
+                    "hindiPronunciation": "डिवोटेड",
+                    "gujaratiMeaning": "સમર્પિત કરેલું",
+                    "hindiMeaning": "समर्पित किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Devoting",
+                    "gujaratiPronunciation": "ડિવોટિંગ",
+                    "hindiPronunciation": "डिवोटिंग",
+                    "gujaratiMeaning": "સમર્પિત કરી રહ્યા છે",
+                    "hindiMeaning": "समर्पित कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Dedicate",
+                    "gujaratiPronunciation": "ડેડિકેટ",
+                    "hindiPronunciation": "डेडीकेट",
+                    "gujaratiMeaning": "અર્પણ કરવું",
+                    "hindiMeaning": "समर्पित करना"
+                },
+                {
+                    "word": "Commit",
+                    "gujaratiPronunciation": "કમિટ",
+                    "hindiPronunciation": "कमिट",
+                    "gujaratiMeaning": "વચનબદ્ધ થવું",
+                    "hindiMeaning": "प्रतिबद्ध होना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Neglect",
+                    "gujaratiPronunciation": "નેગ્લેક્ટ",
+                    "hindiPronunciation": "नेग्लेक्ट",
+                    "gujaratiMeaning": "ઉપેક્ષા કરવી",
+                    "hindiMeaning": "उपेक्षा करना"
+                },
+                {
+                    "word": "Waste",
+                    "gujaratiPronunciation": "વેસ્ટ",
+                    "hindiPronunciation": "वेस्ट",
+                    "gujaratiMeaning": "બગાડવું",
+                    "hindiMeaning": "बर्बाद करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Downvote",
+                    "gujaratiPronunciation": "ડાઉનવોટ",
+                    "hindiPronunciation": "डाउनवोट",
+                    "gujaratiMeaning": "વિરોધમાં મત આપવો",
+                    "hindiMeaning": "विपक्ष में वोट देना",
+                    "difference": "Devote એટલે સમર્પણ, જ્યારે Downvote એટલે ઓનલાઈન પ્લેટફોર્મ પર અસંમતિ દર્શાવવી."
+                },
+                {
+                    "word": "Denote",
+                    "gujaratiPronunciation": "ડિનોટ",
+                    "hindiPronunciation": "डिनोट",
+                    "gujaratiMeaning": "દર્શાવવું",
+                    "hindiMeaning": "सूचित करना",
+                    "difference": "Devote એ કોઈ હેતુ માટે સમય કે શક્તિ આપવી છે, જ્યારે Denote એ કોઈ વસ્તુનો સંકેત આપવો છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Philosophers devote their lives to the pursuit of wisdom.",
+                    "gujaratiPronunciation": "ફિલોસોફર્સ ડિવોટ ધેર લાઇવ્સ ટુ ધ પરસ્યુટ ઓફ વિઝડમ.",
+                    "hindiPronunciation": "फिलॉसफर्स डिवोट देयर लाइव्स टू द परस्यूट ऑफ विजडम।",
+                    "gujaratiTranslation": "દાર્શનિકો પોતાનું જીવન જ્ઞાનની શોધમાં સમર્પિત કરે છે.",
+                    "hindiTranslation": "दार्शनिक अपना जीवन ज्ञान की खोज में समर्पित करते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Sanctify",
+            "gujaratiPronunciation": "સેંક્ટિફાય",
+            "hindiPronunciation": "सैंक्टिफाइ",
+            "gujaratiMeaning": "પવિત્ર કરવું",
+            "hindiMeaning": "पवित्र करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Sanctify",
+                    "gujaratiPronunciation": "સેંક્ટિફાય",
+                    "hindiPronunciation": "सैंक्टिफाइ",
+                    "gujaratiMeaning": "પવિત્ર કરવું",
+                    "hindiMeaning": "पवित्र करना"
+                },
+                "V2 (Past)": {
+                    "word": "Sanctified",
+                    "gujaratiPronunciation": "સેંક્ટિફાઇડ",
+                    "hindiPronunciation": "सैंक्टिफाइड",
+                    "gujaratiMeaning": "પવિત્ર કર્યું",
+                    "hindiMeaning": "पवित्र किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Sanctified",
+                    "gujaratiPronunciation": "સેંક્ટિફાઇડ",
+                    "hindiPronunciation": "सैंक्टिफाइड",
+                    "gujaratiMeaning": "પવિત્ર કરેલું",
+                    "hindiMeaning": "पवित्र किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Sanctifying",
+                    "gujaratiPronunciation": "સેંક્ટિફાઇંગ",
+                    "hindiPronunciation": "सैंक्टिफाइंग",
+                    "gujaratiMeaning": "પવિત્ર કરી રહ્યા છે",
+                    "hindiMeaning": "पवित्र कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Consecrate",
+                    "gujaratiPronunciation": "કોન્સેક્રેટ",
+                    "hindiPronunciation": "कॉन्सेक्रेट",
+                    "gujaratiMeaning": "પ્રતિષ્ઠા કરવી",
+                    "hindiMeaning": "प्रतिष्ठा करना"
+                },
+                {
+                    "word": "Purify",
+                    "gujaratiPronunciation": "પ્યુરિફાય",
+                    "hindiPronunciation": "प्यूरीफाई",
+                    "gujaratiMeaning": "શુદ્ધ કરવું",
+                    "hindiMeaning": "शुद्ध करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Defile",
+                    "gujaratiPronunciation": "ડિફાઇલ",
+                    "hindiPronunciation": "डिफाइल",
+                    "gujaratiMeaning": "અપવિત્ર કરવું",
+                    "hindiMeaning": "अपवित्र करना"
+                },
+                {
+                    "word": "Pollute",
+                    "gujaratiPronunciation": "પોલ્યુટ",
+                    "hindiPronunciation": "पॉल्यूट",
+                    "gujaratiMeaning": "પ્રદૂષિત કરવું",
+                    "hindiMeaning": "प्रदूषित करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Rectify",
+                    "gujaratiPronunciation": "રેક્ટિફાય",
+                    "hindiPronunciation": "रेक्टिफाइ",
+                    "gujaratiMeaning": "સુધારવું",
+                    "hindiMeaning": "सुधारना",
+                    "difference": "Sanctify એટલે પવિત્ર બનાવવું, જ્યારે Rectify એટલે ભૂલ સુધારવી."
+                },
+                {
+                    "word": "Satisfy",
+                    "gujaratiPronunciation": "સેટિસ્ફાય",
+                    "hindiPronunciation": "सैटिस्फाइ",
+                    "gujaratiMeaning": "સંતોષ આપવો",
+                    "hindiMeaning": "संतुष्ट करना",
+                    "difference": "Sanctify એ પવિત્રતા સાથે સંબંધિત છે, જ્યારે Satisfy એ સંતોષ સાથે સંબંધિત છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Rituals are performed to sanctify the sacred space.",
+                    "gujaratiPronunciation": "રિચ્યુઅલ્સ આર પરફોર્મ્ડ ટુ સેંક્ટિફાય ધ સેક્રેડ સ્પેસ.",
+                    "hindiPronunciation": "रिचुअल्स आर परफॉर्म्ड टू सैंक्टिफाइ द सेक्रेड स्पेस।",
+                    "gujaratiTranslation": "પવિત્ર સ્થળને પાવન કરવા માટે ધાર્મિક વિધિઓ કરવામાં આવે છે.",
+                    "hindiTranslation": "पवित्र स्थान को पवित्र करने के लिए अनुष्ठान किए जाते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Perceive",
+            "gujaratiPronunciation": "પર્સીવ",
+            "hindiPronunciation": "पर्सिव",
+            "gujaratiMeaning": "અનુભવવું, સમજવું",
+            "hindiMeaning": "अनुभव करना, समझना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Perceive",
+                    "gujaratiPronunciation": "પર્સીવ",
+                    "hindiPronunciation": "पर्सिव",
+                    "gujaratiMeaning": "અનુભવવું",
+                    "hindiMeaning": "अनुभव करना"
+                },
+                "V2 (Past)": {
+                    "word": "Perceived",
+                    "gujaratiPronunciation": "પર્સીવ્ડ",
+                    "hindiPronunciation": "पर्सिव्ड",
+                    "gujaratiMeaning": "અનુભવ્યું",
+                    "hindiMeaning": "अनुभव किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Perceived",
+                    "gujaratiPronunciation": "પર્સીવ્ડ",
+                    "hindiPronunciation": "पर्सिव्ड",
+                    "gujaratiMeaning": "અનુભવેલું",
+                    "hindiMeaning": "अनुभव किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Perceiving",
+                    "gujaratiPronunciation": "પર્સીવિંગ",
+                    "hindiPronunciation": "पर्सिविंग",
+                    "gujaratiMeaning": "અનુભવી રહ્યા છે",
+                    "hindiMeaning": "अनुभव कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Sense",
+                    "gujaratiPronunciation": "સેન્સ",
+                    "hindiPronunciation": "सेंस",
+                    "gujaratiMeaning": "અનુભવવું",
+                    "hindiMeaning": "महसूस करना"
+                },
+                {
+                    "word": "Recognize",
+                    "gujaratiPronunciation": "રેકગ્નાઇઝ",
+                    "hindiPronunciation": "रेकग्नाइज़",
+                    "gujaratiMeaning": "ઓળખવું",
+                    "hindiMeaning": "पहचानना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Misunderstand",
+                    "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ",
+                    "hindiPronunciation": "मिसअंडरस्टैंड",
+                    "gujaratiMeaning": "ખોટું સમજવું",
+                    "hindiMeaning": "गलत समझना"
+                },
+                {
+                    "word": "Overlook",
+                    "gujaratiPronunciation": "ઓવરલુક",
+                    "hindiPronunciation": "ओवरलुक",
+                    "gujaratiMeaning": "ધ્યાન ન આપવું",
+                    "hindiMeaning": "नजरअंदाज करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Receive",
+                    "gujaratiPronunciation": "રિસીવ",
+                    "hindiPronunciation": "रिसीव",
+                    "gujaratiMeaning": "મેળવવું",
+                    "hindiMeaning": "प्राप्त करना",
+                    "difference": "Perceive એટલે ઇન્દ્રિયો દ્વારા કે મનથી સમજવું, જ્યારે Receive એટલે ભૌતિક રીતે કંઈક મેળવવું."
+                },
+                {
+                    "word": "Deceive",
+                    "gujaratiPronunciation": "ડિસીવ",
+                    "hindiPronunciation": "डिसीव",
+                    "gujaratiMeaning": "છેતરવું",
+                    "hindiMeaning": "धोखा देना",
+                    "difference": "Perceive એ સમજણ સાથે સંબંધિત છે, જ્યારે Deceive એ છેતરપિંડી સાથે સંબંધિત છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "How we perceive the world is shaped by our beliefs.",
+                    "gujaratiPronunciation": "હાઉ વી પર્સીવ ધ વર્લ્ડ ઇઝ શેપ્ડ બાય અવર બિલીફ્સ.",
+                    "hindiPronunciation": "हाउ वी पर्सिव द वर्ल्ड इज़ शेप्ड बाय आवर बिलीव्स।",
+                    "gujaratiTranslation": "આપણે દુનિયાને કેવી રીતે સમજીએ છીએ તે આપણી માન્યતાઓ દ્વારા આકાર પામે છે.",
+                    "hindiTranslation": "हम दुनिया को कैसे समझते हैं यह हमारी मान्यताओं द्वारा आकार लेता है।"
+                }
+            ]
+        },
+        {
+            "word": "Postulate",
+            "gujaratiPronunciation": "પોસ્ટ્યુલેટ",
+            "hindiPronunciation": "पोस्टुलेट",
+            "gujaratiMeaning": "સ્વીકૃત સિદ્ધાંત તરીકે રજૂ કરવું",
+            "hindiMeaning": "स्वयंसिद्ध सिद्धांत के रूप में प्रस्तुत करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Postulate",
+                    "gujaratiPronunciation": "પોસ્ટ્યુલેટ",
+                    "hindiPronunciation": "पोस्टुलेट",
+                    "gujaratiMeaning": "સિદ્ધાંત રજૂ કરવો",
+                    "hindiMeaning": "सिद्धांत प्रस्तुत करना"
+                },
+                "V2 (Past)": {
+                    "word": "Postulated",
+                    "gujaratiPronunciation": "પોસ્ટ્યુલેટેડ",
+                    "hindiPronunciation": "पोस्टुलेटेड",
+                    "gujaratiMeaning": "સિદ્ધાંત રજૂ કર્યો",
+                    "hindiMeaning": "सिद्धांत प्रस्तुत किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Postulated",
+                    "gujaratiPronunciation": "પોસ્ટ્યુલેટેડ",
+                    "hindiPronunciation": "पोस्टुलेटेड",
+                    "gujaratiMeaning": "સિદ્ધાંત રજૂ કરેલો",
+                    "hindiMeaning": "सिद्धांत प्रस्तुत किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Postulating",
+                    "gujaratiPronunciation": "પોસ્ટ્યુલેટિંગ",
+                    "hindiPronunciation": "पोस्टुलेटिंग",
+                    "gujaratiMeaning": "સિદ્ધાંત રજૂ કરી રહ્યા છે",
+                    "hindiMeaning": "सिद्धांत प्रस्तुत कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Hypothesize",
+                    "gujaratiPronunciation": "હાઇપોથીસાઇઝ",
+                    "hindiPronunciation": "हाइपोथेसाइज",
+                    "gujaratiMeaning": "પૂર્વધારણા કરવી",
+                    "hindiMeaning": "परिकल्पना करना"
+                },
+                {
+                    "word": "Assume",
+                    "gujaratiPronunciation": "એસ્યુમ",
+                    "hindiPronunciation": "एज्यूम",
+                    "gujaratiMeaning": "ધારી લેવું",
+                    "hindiMeaning": "मान लेना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Prove",
+                    "gujaratiPronunciation": "પ્રૂવ",
+                    "hindiPronunciation": "प्रूव",
+                    "gujaratiMeaning": "સાબિત કરવું",
+                    "hindiMeaning": "साबित करना"
+                },
+                {
+                    "word": "Demonstrate",
+                    "gujaratiPronunciation": "ડેમોન્સ્ટ્રેટ",
+                    "hindiPronunciation": "डेमोंस्ट्रेट",
+                    "gujaratiMeaning": "પ્રદર્શિત કરવું",
+                    "hindiMeaning": "प्रदर्शित करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Populate",
+                    "gujaratiPronunciation": "પોપ્યુલેટ",
+                    "hindiPronunciation": "पॉप्युलेट",
+                    "gujaratiMeaning": "વસ્તી વસાવવી",
+                    "hindiMeaning": "आबाद करना",
+                    "difference": "Postulate એ કોઈ વિચાર કે સિદ્ધાંતને આધાર તરીકે મૂકવો છે. Populate એ કોઈ જગ્યાએ વસ્તી વધારવી છે."
+                },
+                {
+                    "word": "Pustule",
+                    "gujaratiPronunciation": "પસ્ટ્યુલ",
+                    "hindiPronunciation": "पस्ट्यूल",
+                    "gujaratiMeaning": "પરુવાળી ફોલ્લી",
+                    "hindiMeaning": "मवाद से भरा दाना",
+                    "difference": "બંને શબ્દોના ઉચ્ચાર અને અર્થ સંપૂર્ણપણે અલગ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The philosopher postulated that consciousness is a fundamental property of the universe.",
+                    "gujaratiPronunciation": "ધ ફિલોસોફર પોસ્ટ્યુલેટેડ ધેટ કોન્શિયસનેસ ઇઝ અ ફન્ડામેન્ટલ પ્રોપર્ટી ઓફ ધ યુનિવર્સ.",
+                    "hindiPronunciation": "द फिलॉसॉफर पोस्टुलेटेड दैट कॉन्शसनेस इज़ अ फंडामेंटल प्रॉपर्टी ऑफ़ द यूनिवर्स।",
+                    "gujaratiTranslation": "દાર્શનિકે એવો સિદ્ધાંત રજૂ કર્યો કે ચેતના બ્રહ્માંડનો મૂળભૂત ગુણધર્મ છે.",
+                    "hindiTranslation": "दार्शनिक ने यह सिद्धांत प्रस्तुत किया कि चेतना ब्रह्मांड का एक मौलिक गुण है।"
+                }
+            ]
+        },
+        {
+            "word": "Theosophize",
+            "gujaratiPronunciation": "થિયોસોફાઇઝ",
+            "hindiPronunciation": "थियोसोफाइज",
+            "gujaratiMeaning": "બ્રહ્મવિદ્યા પર ચિંતન કરવું",
+            "hindiMeaning": "ब्रह्मविद्या पर चिंतन करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Theosophize",
+                    "gujaratiPronunciation": "થિયોસોફાઇઝ",
+                    "hindiPronunciation": "थियोसोफाइज",
+                    "gujaratiMeaning": "બ્રહ્મવિદ્યા પર ચિંતન કરવું",
+                    "hindiMeaning": "ब्रह्मविद्या पर चिंतन करना"
+                },
+                "V2 (Past)": {
+                    "word": "Theosophized",
+                    "gujaratiPronunciation": "થિયોસોફાઇઝ્ડ",
+                    "hindiPronunciation": "थियोसोफाइज्ड",
+                    "gujaratiMeaning": "બ્રહ્મવિદ્યા પર ચિંતન કર્યું",
+                    "hindiMeaning": "ब्रह्मविद्या पर चिंतन किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Theosophized",
+                    "gujaratiPronunciation": "થિયોસોફાઇઝ્ડ",
+                    "hindiPronunciation": "थियोसोफाइज्ड",
+                    "gujaratiMeaning": "બ્રહ્મવિદ્યા પર ચિંતન કરેલું",
+                    "hindiMeaning": "ब्रह्मविद्या पर चिंतन किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Theosophizing",
+                    "gujaratiPronunciation": "થિયોસોફાઇઝિંગ",
+                    "hindiPronunciation": "थियोसोफाइजिंग",
+                    "gujaratiMeaning": "બ્રહ્મવિદ્યા પર ચિંતન કરી રહ્યા છે",
+                    "hindiMeaning": "ब्रह्मविद्या पर चिंतन कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Philosophize",
+                    "gujaratiPronunciation": "ફિલોસોફાઇઝ",
+                    "hindiPronunciation": "फिलॉसफाइज",
+                    "gujaratiMeaning": "દાર્શનિક ચર્ચા કરવી",
+                    "hindiMeaning": "दार्शनिक चर्चा करना"
+                },
+                {
+                    "word": "Speculate",
+                    "gujaratiPronunciation": "સ્પેક્યુલેટ",
+                    "hindiPronunciation": "स्पेक्युलेट",
+                    "gujaratiMeaning": "અટકળ કરવી",
+                    "hindiMeaning": "अटकलें लगाना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Act",
+                    "gujaratiPronunciation": "એક્ટ",
+                    "hindiPronunciation": "एक्ट",
+                    "gujaratiMeaning": "કાર્ય કરવું",
+                    "hindiMeaning": "कार्य करना"
+                },
+                {
+                    "word": "Ignore",
+                    "gujaratiPronunciation": "ઇગ્નોર",
+                    "hindiPronunciation": "इग्नोर",
+                    "gujaratiMeaning": "અવગણવું",
+                    "hindiMeaning": "अनदेखा करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Theorize",
+                    "gujaratiPronunciation": "થિયરાઇઝ",
+                    "hindiPronunciation": "थियोराइज",
+                    "gujaratiMeaning": "સિદ્ધાંત બનાવવો",
+                    "hindiMeaning": "सिद्धांत बनाना",
+                    "difference": "Theosophize એ ખાસ કરીને બ્રહ્મવિદ્યા (ઈશ્વરીય જ્ઞાન) પર ચિંતન કરવું છે, જ્યારે Theorize એ કોઈ પણ વિષય પર સિદ્ધાંત બનાવવો છે."
+                },
+                {
+                    "word": "Emphasize",
+                    "gujaratiPronunciation": "એમ્ફસાઇઝ",
+                    "hindiPronunciation": "एम्फेसाइज",
+                    "gujaratiMeaning": "ભાર મૂકવો",
+                    "hindiMeaning": "जोर देना",
+                    "difference": "Theosophize એ આધ્યાત્મિક ચિંતન છે, જ્યારે Emphasize એ કોઈ વાત પર ભાર મૂકવો છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The old mystic would often theosophize about the nature of reality.",
+                    "gujaratiPronunciation": "ધ ઓલ્ડ મિસ્ટિક વુડ ઓફન થિયોસોફાઇઝ અબાઉટ ધ નેચર ઓફ રિયાલિટી.",
+                    "hindiPronunciation": "द ओल्ड मिस्टिक वुड ऑफ़न थियोसोफाइज अबाउट द नेचर ऑफ़ रियलिटी।",
+                    "gujaratiTranslation": "વૃદ્ધ રહસ્યવાદી વાસ્તવિકતાના સ્વરૂપ વિશે વારંવાર બ્રહ્મવિદ્યા પર ચિંતન કરતા હતા.",
+                    "hindiTranslation": "वह बूढ़ा रहस्यवादी अक्सर वास्तविकता की प्रकृति के बारे में ब्रह्मविद्या पर चिंतन करता था।"
+                }
+            ]
+        }
+    ]
+}

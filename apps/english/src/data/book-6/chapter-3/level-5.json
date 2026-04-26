@@ -1,0 +1,148 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Elicit",
+      "gujaratiPronunciation": "ઇલિસિટ",
+      "hindiPronunciation": "एलिसिट",
+      "gujaratiMeaning": "બહાર કઢાવવું",
+      "hindiMeaning": "निकालना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Elicit", "gujaratiPronunciation": "ઇલિસિટ", "hindiPronunciation": "एलिसिट", "gujaratiMeaning": "બહાર કઢાવવું", "hindiMeaning": "निकालना" },
+        "V2 (Past)": { "word": "Elicited", "gujaratiPronunciation": "ઇલિસિટેડ", "hindiPronunciation": "एलिसिटेड", "gujaratiMeaning": "બહાર કઢાવ્યું", "hindiMeaning": "निकाला" },
+        "V3 (Past Participle)": { "word": "Elicited", "gujaratiPronunciation": "ઇલિસિટેડ", "hindiPronunciation": "एलिसिटेड", "gujaratiMeaning": "બહાર કઢાવેલું", "hindiMeaning": "निकाला हुआ" },
+        "V4 (Present Participle)": { "word": "Eliciting", "gujaratiPronunciation": "ઇલિસિટિંગ", "hindiPronunciation": "एलिसिटिंग", "gujaratiMeaning": "બહાર કઢાવી રહ્યું છે", "hindiMeaning": "निकाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Evoke", "gujaratiPronunciation": "ઇવોક", "hindiPronunciation": "इवोक", "gujaratiMeaning": "જગાડવું", "hindiMeaning": "उजागर करना" },
+        { "word": "Extract", "gujaratiPronunciation": "એક્સટ્રેક્ટ", "hindiPronunciation": "एक्सट्रेक्ट", "gujaratiMeaning": "બહાર કાઢવું", "hindiMeaning": "निकालना" }
+      ],
+      "antonyms": [
+        { "word": "Suppress", "gujaratiPronunciation": "સપ્રેસ", "hindiPronunciation": "सप्रेस", "gujaratiMeaning": "દબાવી દેવું", "hindiMeaning": "दबाना" },
+        { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Illicit", "gujaratiPronunciation": "ઇલિસિટ", "hindiPronunciation": "इλλिसिट", "gujaratiMeaning": "ગેરકાયદેસર", "hindiMeaning": "अवैध" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The teacher's question was designed to elicit a thoughtful response.", "gujaratiPronunciation": "ધ ટીચર્સ ક્વેશ્ચન વોઝ ડિઝાઇન ટુ ઇલિસિટ અ થોટફુલ રિસ્પોન્સ.", "hindiPronunciation": "द टीचर्स क्वेश्चन वॉज़ डिज़ाइन्ड टू एलिसिट अ थॉटफुल रिस्पॉन्स।", "gujaratiTranslation": "શિક્ષકનો પ્રશ્ન વિચારશીલ પ્રતિભાવ મેળવવા માટે બનાવવામાં આવ્યો હતો.", "hindiTranslation": "शिक्षक का प्रश्न एक विचारशील प्रतिक्रिया प्राप्त करने के लिए डिज़ाइन किया गया था।" }
+      ]
+    },
+    {
+      "word": "Camouflage",
+      "gujaratiPronunciation": "કેમોફ્લાજ",
+      "hindiPronunciation": "कैमुफ्लॉज",
+      "gujaratiMeaning": "છદ્માવરણ",
+      "hindiMeaning": "छलावरण",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Camouflage", "gujaratiPronunciation": "કેમોફ્લાજ", "hindiPronunciation": "कैमुफ्लॉज", "gujaratiMeaning": "છદ્માવરણ કરવું", "hindiMeaning": "छलावरण करना" },
+        "V2 (Past)": { "word": "Camouflaged", "gujaratiPronunciation": "કેમોફ્લાજ્ડ", "hindiPronunciation": "कैमुफ्लॉज्ड", "gujaratiMeaning": "છદ્માવરણ કર્યું", "hindiMeaning": "छलावरण किया" },
+        "V3 (Past Participle)": { "word": "Camouflaged", "gujaratiPronunciation": "કેમોફ્લાજ્ડ", "hindiPronunciation": "कैमुफ्लॉज्ड", "gujaratiMeaning": "છદ્માવરણ કરેલું", "hindiMeaning": "छलावरण किया हुआ" },
+        "V4 (Present Participle)": { "word": "Camouflaging", "gujaratiPronunciation": "કેમોફ્લાજિંગ", "hindiPronunciation": "कैमुफ्लॉजिंग", "gujaratiMeaning": "છદ્માવરણ કરી રહ્યું છે", "hindiMeaning": "छलावरण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Disguise", "gujaratiPronunciation": "ડિસ્ગાઇઝ", "hindiPronunciation": "डिस्गाइज़", "gujaratiMeaning": "વેશપલટો કરવો", "hindiMeaning": "भेष बदलना" },
+        { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "antonyms": [
+        { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+        { "word": "Expose", "gujaratiPronunciation": "એક્સપોઝ", "hindiPronunciation": "एक्सपोज़", "gujaratiMeaning": "ખુલ્લું પાડવું", "hindiMeaning": "खुला करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        { "sentence": "The soldiers used leaves to camouflage their position.", "gujaratiPronunciation": "ધ સોલ્જર્સ યુઝ્ડ લીવ્ઝ ટુ કેમોફ્લાજ ધેર પોઝિશન.", "hindiPronunciation": "द सोल्जर्स यूज्ड लीव्ज़ टू कैमुफ्लॉज देयर पोज़िशन।", "gujaratiTranslation": "સૈનિકોએ તેમની સ્થિતિને છુપાવવા માટે પાંદડાઓનો ઉપયોગ કર્યો.", "hindiTranslation": "सैनिकों ने अपनी स्थिति को छिपाने के लिए पत्तियों का इस्तेमाल किया।" }
+      ]
+    },
+    {
+      "word": "Portray",
+      "gujaratiPronunciation": "પોર્ટ્રે",
+      "hindiPronunciation": "पोर्ट्रे",
+      "gujaratiMeaning": "ચિત્રણ કરવું",
+      "hindiMeaning": "चित्रण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Portray", "gujaratiPronunciation": "પોર્ટ્રે", "hindiPronunciation": "पोर्ट्रे", "gujaratiMeaning": "ચિત્રણ કરવું", "hindiMeaning": "चित्रण करना" },
+        "V2 (Past)": { "word": "Portrayed", "gujaratiPronunciation": "પોર્ટ્રેડ", "hindiPronunciation": "पोर्ट्रेड", "gujaratiMeaning": "ચિત્રણ કર્યું", "hindiMeaning": "चित्रण किया" },
+        "V3 (Past Participle)": { "word": "Portrayed", "gujaratiPronunciation": "પોર્ટ્રેડ", "hindiPronunciation": "पोर्ट्रेड", "gujaratiMeaning": "ચિત્રણ કરેલું", "hindiMeaning": "चित्रण किया हुआ" },
+        "V4 (Present Participle)": { "word": "Portraying", "gujaratiPronunciation": "પોર્ટ્રેઇંગ", "hindiPronunciation": "पोर्ट्रेइंग", "gujaratiMeaning": "ચિત્રણ કરી રહ્યું છે", "hindiMeaning": "चित्रण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Depict", "gujaratiPronunciation": "ડેપિક્ટ", "hindiPronunciation": "डेपिक्ट", "gujaratiMeaning": "વર્ણન કરવું", "hindiMeaning": "वर्णन करना" },
+        { "word": "Represent", "gujaratiPronunciation": "રિપ્રેઝેન્ટ", "hindiPronunciation": "रिप्रेजेंट", "gujaratiMeaning": "પ્રતિનિધિત્વ કરવું", "hindiMeaning": "प्रतिनिधित्व करना" }
+      ],
+      "antonyms": [
+        { "word": "Misrepresent", "gujaratiPronunciation": "મિસરિપ્રેઝેન્ટ", "hindiPronunciation": "मिसरिप्रेजेंट", "gujaratiMeaning": "ખોટી રીતે રજૂ કરવું", "hindiMeaning": "गलत तरीके से प्रस्तुत करना" },
+        { "word": "Distort", "gujaratiPronunciation": "ડિસ્ટોર્ટ", "hindiPronunciation": "डिस्टॉर्ट", "gujaratiMeaning": "વિકૃત કરવું", "hindiMeaning": "विकृत करना" }
+      ],
+      "confusingWords": [
+        { "word": "Betray", "gujaratiPronunciation": "બિટ્રે", "hindiPronunciation": "बिट्रे", "gujaratiMeaning": "દગો દેવો", "hindiMeaning": "धोखा देना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The book portrays him as a hero.", "gujaratiPronunciation": "ધ બુક પોર્ટ્રેઝ હિમ એઝ અ હીરો.", "hindiPronunciation": "द बुक पोर्ट्रेज़ हिम एज़ अ हीरो।", "gujaratiTranslation": "આ પુસ્તક તેને હીરો તરીકે દર્શાવે છે.", "hindiTranslation": "यह किताब उसे एक नायक के रूप में चित्रित करती है।" }
+      ]
+    },
+    {
+      "word": "Secrete",
+      "gujaratiPronunciation": "સિક્રીટ",
+      "hindiPronunciation": "सिक्रीट",
+      "gujaratiMeaning": "સ્ત્રાવ કરવો",
+      "hindiMeaning": "स्रावित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Secrete", "gujaratiPronunciation": "સિક્રીટ", "hindiPronunciation": "सिक्रीट", "gujaratiMeaning": "સ્ત્રાવ કરવો", "hindiMeaning": "स्रावित करना" },
+        "V2 (Past)": { "word": "Secreted", "gujaratiPronunciation": "સિક્રીટેડ", "hindiPronunciation": "सिक्रीटेड", "gujaratiMeaning": "સ્ત્રાવ કર્યો", "hindiMeaning": "स्रावित किया" },
+        "V3 (Past Participle)": { "word": "Secreted", "gujaratiPronunciation": "સિક્રીટેડ", "hindiPronunciation": "सिक्रीटेड", "gujaratiMeaning": "સ્ત્રાવ કરેલો", "hindiMeaning": "स्रावित किया हुआ" },
+        "V4 (Present Participle)": { "word": "Secreting", "gujaratiPronunciation": "સિક્રીટિંગ", "hindiPronunciation": "सिक्रीटिंग", "gujaratiMeaning": "સ્ત્રાવ કરી રહ્યું છે", "hindiMeaning": "स्रावित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Exude", "gujaratiPronunciation": "એક્ઝ્યુડ", "hindiPronunciation": "एक्ज़्यूड", "gujaratiMeaning": "બહાર કાઢવું", "hindiMeaning": "छोड़ना" },
+        { "word": "Emit", "gujaratiPronunciation": "એમિટ", "hindiPronunciation": "एमिट", "gujaratiMeaning": "ઉત્સર્જન કરવું", "hindiMeaning": "उत्सर्जित करना" }
+      ],
+      "antonyms": [
+        { "word": "Absorb", "gujaratiPronunciation": "એબ્સોર્બ", "hindiPronunciation": "एब्जॉर्ब", "gujaratiMeaning": "શોષી લેવું", "hindiMeaning": "सोखना" },
+        { "word": "Ingest", "gujaratiPronunciation": "ઇન્જેસ્ટ", "hindiPronunciation": "इन्जेस्ट", "gujaratiMeaning": "અંદર લેવું", "hindiMeaning": "अंतर्ग्रहण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Secret", "gujaratiPronunciation": "સિક્રેટ", "hindiPronunciation": "सीक्रेट", "gujaratiMeaning": "ગુપ્ત", "hindiMeaning": "गुप्त" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The gland secretes a hormone.", "gujaratiPronunciation": "ધ ગ્લેન્ડ સિક્રીટ્સ અ હોર્મોન.", "hindiPronunciation": "द ग्लैंड सिक्रीट्स अ हॉर्मोन।", "gujaratiTranslation": "ગ્રંથિ એક હોર્મોનનો સ્ત્રાવ કરે છે.", "hindiTranslation": "ग्रंथि एक हार्मोन का स्राव करती है।" }
+      ]
+    },
+    {
+      "word": "Shroud",
+      "gujaratiPronunciation": "શ્રાઉડ",
+      "hindiPronunciation": "श्राउड",
+      "gujaratiMeaning": "કફનમાં લપેટવું",
+      "hindiMeaning": "कफन में लपेटना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Shroud", "gujaratiPronunciation": "શ્રાઉડ", "hindiPronunciation": "श्राउड", "gujaratiMeaning": "કફનમાં લપેટવું", "hindiMeaning": "कफन में लपेटना" },
+        "V2 (Past)": { "word": "Shrouded", "gujaratiPronunciation": "શ્રાઉડેડ", "hindiPronunciation": "श्राउडेड", "gujaratiMeaning": "કફનમાં લપેટ્યું", "hindiMeaning": "कफन में लपेटा" },
+        "V3 (Past Participle)": { "word": "Shrouded", "gujaratiPronunciation": "શ્રાઉડેડ", "hindiPronunciation": "श्राउडेड", "gujaratiMeaning": "કફનમાં લપેટલું", "hindiMeaning": "कफन में लपेटा हुआ" },
+        "V4 (Present Participle)": { "word": "Shrouding", "gujaratiPronunciation": "શ્રાઉડિંગ", "hindiPronunciation": "श्राउडिंग", "gujaratiMeaning": "કફનમાં લપેટી રહ્યું છે", "hindiMeaning": "कफन में लपेट रहा है" }
+      },
+      "synonyms": [
+        { "word": "Cover", "gujaratiPronunciation": "કવર", "hindiPronunciation": "कवर", "gujaratiMeaning": "ઢાંકવું", "hindiMeaning": "ढकना" },
+        { "word": "Envelop", "gujaratiPronunciation": "એન્વેલપ", "hindiPronunciation": "एनवेलप", "gujaratiMeaning": "ઘેરી લેવું", "hindiMeaning": "घेर लेना" }
+      ],
+      "antonyms": [
+        { "word": "Uncover", "gujaratiPronunciation": "અનકવર", "hindiPronunciation": "अनकवर", "gujaratiMeaning": "ઉઘાડું પાડવું", "hindiMeaning": "उजागर करना" },
+        { "word": "Expose", "gujaratiPronunciation": "એક્સપોઝ", "hindiPronunciation": "एक्सपोज़", "gujaratiMeaning": "ખુલ્લું પાડવું", "hindiMeaning": "खुला करना" }
+      ],
+      "confusingWords": [
+        { "word": "Shred", "gujaratiPronunciation": "શ્રેડ", "hindiPronunciation": "श्रेड", "gujaratiMeaning": "ટુકડા કરવા", "hindiMeaning": "टुकड़े करना" },
+        { "word": "Shrewd", "gujaratiPronunciation": "શ્રુડ", "hindiPronunciation": "श्रूड", "gujaratiMeaning": "ચતુર", "hindiMeaning": "चतुर" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The mountain peak was shrouded in mist.", "gujaratiPronunciation": "ધ માઉન્ટેન પીક વોઝ શ્રાઉડેડ ઇન મિસ્ટ.", "hindiPronunciation": "द माउंटेन पीक वॉज़ श्राउडेड इन मिस्ट।", "gujaratiTranslation": "પર્વતનું શિખર ધુમ્મસમાં છવાયેલું હતું.", "hindiTranslation": "पर्वत की चोटी धुंध में डूबी हुई थी।" }
+      ]
+    }
+  ]
+}
+
+    

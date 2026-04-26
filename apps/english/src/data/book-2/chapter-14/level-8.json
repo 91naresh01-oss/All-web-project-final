@@ -1,0 +1,104 @@
+{
+  "id": "level-8",
+  "title": "Subject Pronouns",
+  "words": [
+    {
+      "word": "He",
+      "gujaratiPronunciation": "હી",
+      "hindiPronunciation": "ही",
+      "gujaratiMeaning": "તે (પુ.)",
+      "hindiMeaning": "वह (पु.)",
+      "exampleSentences": [
+        {
+          "sentence": "He is a doctor.",
+          "gujaratiTranslation": "તે એક ડૉક્ટર છે.",
+          "hindiTranslation": "वह एक डॉक्टर है।"
+        }
+      ]
+    },
+    {
+      "word": "She",
+      "gujaratiPronunciation": "શી",
+      "hindiPronunciation": "शी",
+      "gujaratiMeaning": "તેણી (સ્ત્રી.)",
+      "hindiMeaning": "वह (स्त्री.)",
+      "exampleSentences": [
+        {
+          "sentence": "She is a teacher.",
+          "gujaratiTranslation": "તેણી એક શિક્ષક છે.",
+          "hindiTranslation": "वह एक शिक्षिका है।"
+        }
+      ]
+    },
+    {
+      "word": "It",
+      "gujaratiPronunciation": "ઇટ",
+      "hindiPronunciation": "इट",
+      "gujaratiMeaning": "તે (નિર્જીવ)",
+      "hindiMeaning": "यह (निर्जीव)",
+      "exampleSentences": [
+        {
+          "sentence": "It is a beautiful day.",
+          "gujaratiTranslation": "તે એક સુંદર દિવસ છે.",
+          "hindiTranslation": "यह एक सुंदर दिन है।"
+        }
+      ]
+    },
+    {
+      "word": "They",
+      "gujaratiPronunciation": "ધે",
+      "hindiPronunciation": "दे",
+      "gujaratiMeaning": "તેઓ",
+      "hindiMeaning": "वे",
+      "exampleSentences": [
+        {
+          "sentence": "They are playing.",
+          "gujaratiTranslation": "તેઓ રમી રહ્યા છે.",
+          "hindiTranslation": "वे खेल रहे हैं।"
+        }
+      ]
+    },
+    {
+      "word": "We",
+      "gujaratiPronunciation": "વી",
+      "hindiPronunciation": "वी",
+      "gujaratiMeaning": "અમે",
+      "hindiMeaning": "हम",
+      "exampleSentences": [
+        {
+          "sentence": "We are friends.",
+          "gujaratiTranslation": "અમે મિત્રો છીએ.",
+          "hindiTranslation": "हम दोस्त हैं।"
+        }
+      ]
+    },
+    {
+      "word": "I",
+      "gujaratiPronunciation": "આઈ",
+      "hindiPronunciation": "आई",
+      "gujaratiMeaning": "હું",
+      "hindiMeaning": "मैं",
+      "exampleSentences": [
+        {
+          "sentence": "I am a student.",
+          "gujaratiTranslation": "હું એક વિદ્યાર્થી છું.",
+          "hindiTranslation": "मैं एक छात्र हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "You",
+      "gujaratiPronunciation": "યુ",
+      "hindiPronunciation": "यू",
+      "gujaratiMeaning": "તમે",
+      "hindiMeaning": "तुम/आप",
+      "exampleSentences": [
+        {
+          "sentence": "You are a good singer.",
+          "gujaratiTranslation": "તમે એક સારા ગાયક છો.",
+          "hindiTranslation": "आप एक अच्छे गायक हैं।"
+        }
+      ]
+    }
+  ]
+}

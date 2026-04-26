@@ -1,0 +1,47 @@
+
+{
+    "id": "level-5",
+    "title": "Animals 5",
+    "words": [
+        {
+            "word": "Fox",
+            "icon": "🦊",
+            "gujaratiPronunciation": "ફોક્સ",
+            "hindiPronunciation": "फॉक्स",
+            "gujaratiMeaning": "શિયાળ",
+            "hindiMeaning": "लोमड़ी"
+        },
+        {
+            "word": "Wolf",
+            "icon": "🐺",
+            "gujaratiPronunciation": "વુલ્ફ",
+            "hindiPronunciation": "वुल्फ",
+            "gujaratiMeaning": "વરુ",
+            "hindiMeaning": "भेड़िया"
+        },
+        {
+            "word": "Deer",
+            "icon": "🦌",
+            "gujaratiPronunciation": "ડિયર",
+            "hindiPronunciation": "डियर",
+            "gujaratiMeaning": "હરણ",
+            "hindiMeaning": "हिरण"
+        },
+        {
+            "word": "Camel",
+            "icon": "🐪",
+            "gujaratiPronunciation": "કેમલ",
+            "hindiPronunciation": "कैमल",
+            "gujaratiMeaning": "ઊંટ",
+            "hindiMeaning": "ऊंट"
+        },
+        {
+            "word": "Peacock",
+            "icon": "🦚",
+            "gujaratiPronunciation": "પીકોક",
+            "hindiPronunciation": "पीकॉक",
+            "gujaratiMeaning": "મોર",
+            "hindiMeaning": "मोर"
+        }
+    ]
+}

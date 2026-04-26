@@ -1,0 +1,146 @@
+{
+  "id": "level-1",
+  "title": "Level 1: Control & Authority Basics",
+  "words": [
+    {
+      "word": "Lead",
+      "gujaratiPronunciation": "લીડ",
+      "hindiPronunciation": "लीड",
+      "gujaratiMeaning": "નેતૃત્વ કરવું, દોરવણી આપવી",
+      "hindiMeaning": "नेतृत्व करना, मार्गदर्शन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Lead", "gujaratiPronunciation": "લીડ", "hindiPronunciation": "लीड", "gujaratiMeaning": "દોરવણી આપવી", "hindiMeaning": "मार्गदर्शन करना" },
+        "V2 (Past)": { "word": "Led", "gujaratiPronunciation": "લેડ", "hindiPronunciation": "लेड", "gujaratiMeaning": "દોરવણી આપી", "hindiMeaning": "मार्गदर्शन किया" },
+        "V3 (Past Participle)": { "word": "Led", "gujaratiPronunciation": "લેડ", "hindiPronunciation": "लेड", "gujaratiMeaning": "દોરવણી આપેલ", "hindiMeaning": "मार्गदर्शन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Leading", "gujaratiPronunciation": "લીડિંગ", "hindiPronunciation": "लीडिंग", "gujaratiMeaning": "દોરવણી આપી રહ્યું છે", "hindiMeaning": "मार्गदर्शन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Guide", "gujaratiPronunciation": "ગાઇડ", "hindiPronunciation": "गाइड", "gujaratiMeaning": "માર્ગદર્શન આપવું", "hindiMeaning": "मार्गदर्शन करना" },
+        { "word": "Direct", "gujaratiPronunciation": "ડિરેક્ટ", "hindiPronunciation": "डायरेक्ट", "gujaratiMeaning": "નિર્દેશ આપવો", "hindiMeaning": "निर्देश देना" }
+      ],
+      "antonyms": [
+        { "word": "Follow", "gujaratiPronunciation": "ફોલો", "hindiPronunciation": "फॉलो", "gujaratiMeaning": "અનુસરણ કરવું", "hindiMeaning": "अनुसरण करना" },
+        { "word": "Obey", "gujaratiPronunciation": "ઓબે", "hindiPronunciation": "ओबे", "gujaratiMeaning": "આજ્ઞા પાળવી", "hindiMeaning": "आज्ञा का पालन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Led", "gujaratiPronunciation": "લેડ", "hindiPronunciation": "लेड", "gujaratiMeaning": "સીસું (ધાતુ)", "hindiMeaning": "सीसा (धातु)" }
+      ],
+      "exampleSentences": [
+        { "sentence": "She will lead the team to victory.", "gujaratiPronunciation": "શી વિલ લીડ ધ ટીમ ટુ વિક્ટરી.", "hindiPronunciation": "शी विल लीड द टीम टू विक्ट्री।", "gujaratiTranslation": "તે ટીમને વિજય તરફ દોરી જશે.", "hindiTranslation": "वह टीम को जीत की ओर ले जाएगी।" }
+      ]
+    },
+    {
+      "word": "Rule",
+      "gujaratiPronunciation": "રૂલ",
+      "hindiPronunciation": "रूल",
+      "gujaratiMeaning": "શાસન કરવું, નિયમ",
+      "hindiMeaning": "शासन करना, नियम",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Rule", "gujaratiPronunciation": "રૂલ", "hindiPronunciation": "रूल", "gujaratiMeaning": "શાસન કરવું", "hindiMeaning": "शासन करना" },
+        "V2 (Past)": { "word": "Ruled", "gujaratiPronunciation": "રૂલ્ડ", "hindiPronunciation": "रूल्ड", "gujaratiMeaning": "શાસન કર્યું", "hindiMeaning": "शासन किया" },
+        "V3 (Past Participle)": { "word": "Ruled", "gujaratiPronunciation": "રૂલ્ડ", "hindiPronunciation": "रूल्ड", "gujaratiMeaning": "શાસન કરેલ", "hindiMeaning": "शासित" },
+        "V4 (Present Participle)": { "word": "Ruling", "gujaratiPronunciation": "રૂલિંગ", "hindiPronunciation": "रूलिंग", "gujaratiMeaning": "શાસન કરી રહ્યું છે", "hindiMeaning": "शासन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Govern", "gujaratiPronunciation": "ગવર્ન", "hindiPronunciation": "गवर्न", "gujaratiMeaning": "સરકાર ચલાવવી", "hindiMeaning": "सरकार चलाना" },
+        { "word": "Reign", "gujaratiPronunciation": "રેઇન", "hindiPronunciation": "रेन", "gujaratiMeaning": "રાજ કરવું", "hindiMeaning": "राज करना" }
+      ],
+      "antonyms": [
+        { "word": "Serve", "gujaratiPronunciation": "સર્વ", "hindiPronunciation": "सर्व", "gujaratiMeaning": "સેવા કરવી", "hindiMeaning": "सेवा करना" },
+        { "word": "Submit", "gujaratiPronunciation": "સબમિટ", "hindiPronunciation": "सबमिट", "gujaratiMeaning": "આધીન થવું", "hindiMeaning": "अधीन होना" }
+      ],
+      "confusingWords": [
+        { "word": "Role", "gujaratiPronunciation": "રોલ", "hindiPronunciation": "रोल", "gujaratiMeaning": "ભૂમિકા", "hindiMeaning": "भूमिका" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The king ruled the country for fifty years.", "gujaratiPronunciation": "ધ કિંગ રૂલ્ડ ધ કન્ટ્રી ફોર ફિફ્ટી યર્સ.", "hindiPronunciation": "द किंग रूल्ड द कंट्री फॉर फिफ्टी इयर्स।", "gujaratiTranslation": "રાજાએ પચાસ વર્ષ સુધી દેશ પર શાસન કર્યું.", "hindiTranslation": "राजा ने पचास वर्षों तक देश पर शासन किया।" }
+      ]
+    },
+    {
+      "word": "Direct",
+      "gujaratiPronunciation": "ડિરેક્ટ",
+      "hindiPronunciation": "डायरेक्ट",
+      "gujaratiMeaning": "નિર્દેશ આપવો, સીધું",
+      "hindiMeaning": "निर्देश देना, सीधा",
+      "partOfSpeech": "Verb/Adjective",
+      "verbForms": {
+        "V1 (Base)": { "word": "Direct", "gujaratiPronunciation": "ડિરેક્ટ", "hindiPronunciation": "डायरेक्ट", "gujaratiMeaning": "નિર્દેશ આપવો", "hindiMeaning": "निर्देश देना" },
+        "V2 (Past)": { "word": "Directed", "gujaratiPronunciation": "ડિરેક્ટેડ", "hindiPronunciation": "डायरेक्टेड", "gujaratiMeaning": "નિર્દેશ આપ્યો", "hindiMeaning": "निर्देश दिया" },
+        "V3 (Past Participle)": { "word": "Directed", "gujaratiPronunciation": "ડિરેક્ટેડ", "hindiPronunciation": "डायरेक्टेड", "gujaratiMeaning": "નિર્દેશ આપેલ", "hindiMeaning": "निर्देशित" },
+        "V4 (Present Participle)": { "word": "Directing", "gujaratiPronunciation": "ડિરેક્ટિંગ", "hindiPronunciation": "डायरेक्टिंग", "gujaratiMeaning": "નિર્દેશ આપી રહ્યું છે", "hindiMeaning": "निर्देश दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Command", "gujaratiPronunciation": "કમાન્ડ", "hindiPronunciation": "कमांड", "gujaratiMeaning": "આદેશ આપવો", "hindiMeaning": "आदेश देना" },
+        { "word": "Instruct", "gujaratiPronunciation": "ઇન્સ્ટ્રક્ટ", "hindiPronunciation": "इंस्ट्रक्ट", "gujaratiMeaning": "સૂચના આપવી", "hindiMeaning": "निर्देश देना" }
+      ],
+      "antonyms": [
+        { "word": "Misguide", "gujaratiPronunciation": "મિસગાઇડ", "hindiPronunciation": "मिसगाइड", "gujaratiMeaning": "ગેરમાર્ગે દોરવું", "hindiMeaning": "गुमराह करना" },
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" }
+      ],
+      "confusingWords": [
+        { "word": "Erect", "gujaratiPronunciation": "ઇરેક્ટ", "hindiPronunciation": "इरेक्ट", "gujaratiMeaning": "સીધું ઊભું કરવું", "hindiMeaning": "सीधा खड़ा करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Please direct me to the nearest post office.", "gujaratiPronunciation": "પ્લીઝ ડિરેક્ટ મી ટુ ધ નિયરેસ્ટ પોસ્ટ ઓફિસ.", "hindiPronunciation": "प्लीज डायरेक्ट मी टू द नियरेस्ट पोस्ट ऑफिस।", "gujaratiTranslation": "કૃપા કરીને મને નજીકની પોસ્ટ ઓફિસનો રસ્તો બતાવો.", "hindiTranslation": "कृपया मुझे निकटतम डाकघर का रास्ता बताएं।" }
+      ]
+    },
+    {
+      "word": "Check",
+      "gujaratiPronunciation": "ચેક",
+      "hindiPronunciation": "चेक",
+      "gujaratiMeaning": "તપાસવું, નિયંત્રણ કરવું",
+      "hindiMeaning": "जांचना, नियंत्रण करना",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Check", "gujaratiPronunciation": "ચેક", "hindiPronunciation": "चेक", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जांचना" },
+        "V2 (Past)": { "word": "Checked", "gujaratiPronunciation": "ચેક્ડ", "hindiPronunciation": "चेक्ड", "gujaratiMeaning": "તપાસ્યું", "hindiMeaning": "जांचा" },
+        "V3 (Past Participle)": { "word": "Checked", "gujaratiPronunciation": "ચેક્ડ", "hindiPronunciation": "चेक्ड", "gujaratiMeaning": "તપાસેલ", "hindiMeaning": "जांचा हुआ" },
+        "V4 (Present Participle)": { "word": "Checking", "gujaratiPronunciation": "ચેકિંગ", "hindiPronunciation": "चेकिंग", "gujaratiMeaning": "તપાસી રહ્યું છે", "hindiMeaning": "जांच रहा है" }
+      },
+      "synonyms": [
+        { "word": "Verify", "gujaratiPronunciation": "વેરિફાય", "hindiPronunciation": "वेरीफाई", "gujaratiMeaning": "ચકાસણી કરવી", "hindiMeaning": "सत्यापित करना" },
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एग्जामिन", "gujaratiMeaning": "પરીક્ષણ કરવું", "hindiMeaning": "परीक्षण करना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "नजरअंदाज करना" },
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Cheque", "gujaratiPronunciation": "ચેક", "hindiPronunciation": "चेक", "gujaratiMeaning": "બેંકનો ચેક", "hindiMeaning": "बैंक का चेक" }
+      ],
+      "exampleSentences": [
+        { "sentence": "You should check your work for errors.", "gujaratiPronunciation": "યુ શુડ ચેક યોર વર્ક ફોર એરર્સ.", "hindiPronunciation": "यू शुड चेक योर वर्क फॉर एरर्स।", "gujaratiTranslation": "તમારે તમારા કામમાં ભૂલો માટે તપાસ કરવી જોઈએ.", "hindiTranslation": "आपको अपने काम में त्रुटियों की जांच करनी चाहिए।" }
+      ]
+    },
+    {
+      "word": "Stop",
+      "gujaratiPronunciation": "સ્ટોપ",
+      "hindiPronunciation": "स्टॉप",
+      "gujaratiMeaning": "અટકાવવું, રોકાવું",
+      "hindiMeaning": "रोकना, रुकना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Stop", "gujaratiPronunciation": "સ્ટોપ", "hindiPronunciation": "स्टॉप", "gujaratiMeaning": "અટકાવવું", "hindiMeaning": "रोकना" },
+        "V2 (Past)": { "word": "Stopped", "gujaratiPronunciation": "સ્ટોપ્ડ", "hindiPronunciation": "स्टॉप्ड", "gujaratiMeaning": "અટકાવ્યું", "hindiMeaning": "रोका" },
+        "V3 (Past Participle)": { "word": "Stopped", "gujaratiPronunciation": "સ્ટોપ્ડ", "hindiPronunciation": "स्टॉप्ड", "gujaratiMeaning": "અટકાવેલ", "hindiMeaning": "रोका हुआ" },
+        "V4 (Present Participle)": { "word": "Stopping", "gujaratiPronunciation": "સ્ટોપિંગ", "hindiPronunciation": "स्टॉपिंग", "gujaratiMeaning": "અટકાવી રહ્યું છે", "hindiMeaning": "रोक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Halt", "gujaratiPronunciation": "હોલ્ટ", "hindiPronunciation": "हॉल्ट", "gujaratiMeaning": "થોભાવવું", "hindiMeaning": "ठहराना" },
+        { "word": "Cease", "gujaratiPronunciation": "સીઝ", "hindiPronunciation": "सीज", "gujaratiMeaning": "બંધ કરવું", "hindiMeaning": "बंद करना" }
+      ],
+      "antonyms": [
+        { "word": "Start", "gujaratiPronunciation": "સ્ટાર્ટ", "hindiPronunciation": "स्टार्ट", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+        { "word": "Continue", "gujaratiPronunciation": "કન્ટીન્યુ", "hindiPronunciation": "कंटिन्यू", "gujaratiMeaning": "ચાલુ રાખવું", "hindiMeaning": "जारी रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Shop", "gujaratiPronunciation": "શોપ", "hindiPronunciation": "शॉप", "gujaratiMeaning": "દુકાન", "hindiMeaning": "दुकान" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The bus will stop at the next station.", "gujaratiPronunciation": "ધ બસ વિલ સ્ટોપ એટ ધ નેક્સ્ટ સ્ટેશન.", "hindiPronunciation": "द बस विल स्टॉप एट द नेक्स्ट स्टेशन।", "gujaratiTranslation": "બસ આગલા સ્ટેશન પર ઉભી રહેશે.", "hindiTranslation": "बस अगले स्टेशन पर रुकेगी।" }
+      ]
+    }
+  ]
+}

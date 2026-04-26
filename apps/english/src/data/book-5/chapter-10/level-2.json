@@ -1,0 +1,146 @@
+{
+    "id": "level-2",
+    "title": "Level 2",
+    "words": [
+        {
+            "word": "Infer",
+            "gujaratiPronunciation": "ઇન્ફર",
+            "hindiPronunciation": "इन्फर",
+            "gujaratiMeaning": "તારણ કાઢવું",
+            "hindiMeaning": "निष्कर्ष निकालना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Infer", "gujaratiPronunciation": "ઇન્ફર", "hindiPronunciation": "इन्फर", "gujaratiMeaning": "તારણ કાઢવું", "hindiMeaning": "निष्कर्ष निकालना" },
+                "v2": { "word": "Inferred", "gujaratiPronunciation": "ઇન્ફર્ડ", "hindiPronunciation": "इन्फर्ड", "gujaratiMeaning": "તારણ કાઢ્યું", "hindiMeaning": "निष्कर्ष निकाला" },
+                "v3": { "word": "Inferred", "gujaratiPronunciation": "ઇન્ફર્ડ", "hindiPronunciation": "इन्फर्ड", "gujaratiMeaning": "તારણ કાઢેલું", "hindiMeaning": "निष्कर्ष निकाला हुआ" },
+                "v4": { "word": "Inferring", "gujaratiPronunciation": "ઇન્ફરિંગ", "hindiPronunciation": "इन्फरिंग", "gujaratiMeaning": "તારણ કાઢી રહ્યું છે", "hindiMeaning": "निष्कर्ष निकाल रहा है" }
+            },
+            "synonyms": [
+                { "word": "Deduce", "gujaratiPronunciation": "ડિડ્યુસ", "hindiPronunciation": "डिड्यूस", "gujaratiMeaning": "નિષ્કર્ષ કાઢવો", "hindiMeaning": "निष्कर्ष निकालना" },
+                { "word": "Conclude", "gujaratiPronunciation": "કન્ક્લુડ", "hindiPronunciation": "कनक्लूड", "gujaratiMeaning": "નિષ્કર્ષ પર આવવું", "hindiMeaning": "निष्कर्ष निकालना" }
+            ],
+            "antonyms": [
+                { "word": "State", "gujaratiPronunciation": "સ્ટેટ", "hindiPronunciation": "स्टेट", "gujaratiMeaning": "જણાવવું", "hindiMeaning": "बताना" },
+                { "word": "Imply", "gujaratiPronunciation": "ઇમ્પ્લાય", "hindiPronunciation": "इम्प्लाइ", "gujaratiMeaning": "સૂચિત કરવું", "hindiMeaning": "संकेत देना" }
+            ],
+            "confusingWords": [
+                { "word": "Imply", "gujaratiPronunciation": "ઇમ્પ્લાય", "hindiPronunciation": "इम्प्लाइ", "gujaratiMeaning": "સૂચિત કરવું", "hindiMeaning": "संकेत देना", "difference": "Infer (તારણ કાઢવું) એ સાંભળનાર દ્વારા કરવામાં આવે છે, જ્યારે Imply (સૂચિત કરવું) એ બોલનાર દ્વારા કરવામાં આવે છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "From her smile, I could infer that she was happy.", "gujaratiPronunciation": "ફ્રોમ હર સ્માઇલ, આઈ કુડ ઇન્ફર ધેટ શી વોઝ હેપી.", "hindiPronunciation": "फ्रॉम हर स्माइल, आई कुड इन्फर दैट शी वॉज़ हैप्पी।", "gujaratiTranslation": "તેના સ્મિત પરથી હું તારણ કાઢી શક્યો કે તે ખુશ હતી.", "hindiTranslation": "उसकी मुस्कान से मैं यह निष्कर्ष निकाल सका कि वह खुश थी।" }
+            ]
+        },
+        {
+            "word": "Ponder",
+            "gujaratiPronunciation": "પોન્ડર",
+            "hindiPronunciation": "पॉन्डर",
+            "gujaratiMeaning": "વિચારવું / મનન કરવું",
+            "hindiMeaning": "विचार करना / मनन करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Ponder", "gujaratiPronunciation": "પોન્ડર", "hindiPronunciation": "पॉन्डर", "gujaratiMeaning": "મનન કરવું", "hindiMeaning": "मनन करना" },
+                "v2": { "word": "Pondered", "gujaratiPronunciation": "પોન્ડર્ડ", "hindiPronunciation": "पॉन्डर्ड", "gujaratiMeaning": "મનન કર્યું", "hindiMeaning": "मनन किया" },
+                "v3": { "word": "Pondered", "gujaratiPronunciation": "પોન્ડર્ડ", "hindiPronunciation": "पॉन्डर्ड", "gujaratiMeaning": "મનન કરેલું", "hindiMeaning": "मनन किया हुआ" },
+                "v4": { "word": "Pondering", "gujaratiPronunciation": "પોન્ડરિંગ", "hindiPronunciation": "पॉन्डरिंग", "gujaratiMeaning": "મનન કરી રહ્યું છે", "hindiMeaning": "मनन कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Contemplate", "gujaratiPronunciation": "કોન્ટેમ્પ્લેટ", "hindiPronunciation": "कॉन्टेम्प्लेट", "gujaratiMeaning": "વિચાર કરવો", "hindiMeaning": "विचार करना" },
+                { "word": "Meditate", "gujaratiPronunciation": "મેડિટેટ", "hindiPronunciation": "मेडिटेट", "gujaratiMeaning": "ધ્યાન કરવું", "hindiMeaning": "ध्यान करना" }
+            ],
+            "antonyms": [
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+                { "word": "Decide", "gujaratiPronunciation": "ડિસાઇડ", "hindiPronunciation": "डिसाइड", "gujaratiMeaning": "નક્કી કરવું", "hindiMeaning": "तय करना" }
+            ],
+            "confusingWords": [
+                { "word": "Wander", "gujaratiPronunciation": "વોન્ડર", "hindiPronunciation": "वॉन्डर", "gujaratiMeaning": "ભટકવું", "hindiMeaning": "भटकना", "difference": "Ponder એ ઊંડાણપૂર્વક વિચારવાની ક્રિયા છે, જ્યારે Wander એ હેતુ વિના ભટકવાની ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "He pondered the meaning of life.", "gujaratiPronunciation": "હી પોન્ડર્ડ ધ મિનિંગ ઓફ લાઇફ.", "hindiPronunciation": "ही पॉन्डर्ड द मीनिंग ऑफ लाइफ।", "gujaratiTranslation": "તેણે જીવનના અર્થ પર મનન કર્યું.", "hindiTranslation": "उसने जीवन के अर्थ पर मनन किया।" }
+            ]
+        },
+        {
+            "word": "Verify",
+            "gujaratiPronunciation": "વેરિફાય",
+            "hindiPronunciation": "वेरीफाई",
+            "gujaratiMeaning": "ચકાસવું",
+            "hindiMeaning": "सत्यापित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Verify", "gujaratiPronunciation": "વેરિફાય", "hindiPronunciation": "वेरीफाई", "gujaratiMeaning": "ચકાસવું", "hindiMeaning": "सत्यापित करना" },
+                "v2": { "word": "Verified", "gujaratiPronunciation": "વેરિફાઇડ", "hindiPronunciation": "वेरीफाइड", "gujaratiMeaning": "ચકાસ્યું", "hindiMeaning": "सत्यापित किया" },
+                "v3": { "word": "Verified", "gujaratiPronunciation": "વેરિફાઇડ", "hindiPronunciation": "वेरीफाइड", "gujaratiMeaning": "ચકાસેલું", "hindiMeaning": "सत्यापित किया हुआ" },
+                "v4": { "word": "Verifying", "gujaratiPronunciation": "વેરિફાઇંગ", "hindiPronunciation": "वेरीफाइंग", "gujaratiMeaning": "ચકાસી રહ્યું છે", "hindiMeaning": "सत्यापित कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" },
+                { "word": "Check", "gujaratiPronunciation": "ચેક", "hindiPronunciation": "चेक", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जांचना" }
+            ],
+            "antonyms": [
+                { "word": "Disprove", "gujaratiPronunciation": "ડિસપ્રુવ", "hindiPronunciation": "डिस्प्रूव", "gujaratiMeaning": "ખોટું સાબિત કરવું", "hindiMeaning": "गलत साबित करना" },
+                { "word": "Guess", "gujaratiPronunciation": "ગેસ", "hindiPronunciation": "गेस", "gujaratiMeaning": "અનુમાન કરવું", "hindiMeaning": "अनुमान लगाना" }
+            ],
+            "confusingWords": [
+                { "word": "Clarify", "gujaratiPronunciation": "ક્લેરિફાય", "hindiPronunciation": "क्लैरिफाई", "gujaratiMeaning": "સ્પષ્ટ કરવું", "hindiMeaning": "स्पष्ट करना", "difference": "Verify એટલે સાચું છે કે નહીં તે તપાસવું, જ્યારે Clarify એટલે કોઈ વાતને વધુ સ્પષ્ટ કરવી." }
+            ],
+            "exampleSentences": [
+                { "sentence": "Please verify your email address.", "gujaratiPronunciation": "પ્લીઝ વેરિફાય યોર ઇમેઇલ એડ્રેસ.", "hindiPronunciation": "प्लीज़ वेरीफाई योर ईमेल एड्रेस।", "gujaratiTranslation": "કૃપા કરીને તમારું ઇમેઇલ સરનામું ચકાસો.", "hindiTranslation": "कृपया अपना ईमेल पता सत्यापित करें।" }
+            ]
+        },
+        {
+            "word": "Rationalize",
+            "gujaratiPronunciation": "રેશનલાઇઝ",
+            "hindiPronunciation": "रैशनलाइज़",
+            "gujaratiMeaning": "તર્કસંગત બનાવવું",
+            "hindiMeaning": "तर्कसंगत बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Rationalize", "gujaratiPronunciation": "રેશનલાઇઝ", "hindiPronunciation": "रैशनलाइज़", "gujaratiMeaning": "તર્કસંગત બનાવવું", "hindiMeaning": "तर्कसंगत बनाना" },
+                "v2": { "word": "Rationalized", "gujaratiPronunciation": "રેશનલાઇઝ્ડ", "hindiPronunciation": "रैशनलाइज़्ड", "gujaratiMeaning": "તર્કસંગત બનાવ્યું", "hindiMeaning": "तर्कसंगत बनाया" },
+                "v3": { "word": "Rationalized", "gujaratiPronunciation": "રેશનલાઇઝ્ડ", "hindiPronunciation": "रैशनलाइज़्ड", "gujaratiMeaning": "તર્કસંગત બનાવેલું", "hindiMeaning": "तर्कसंगत बनाया हुआ" },
+                "v4": { "word": "Rationalizing", "gujaratiPronunciation": "રેશનલાઇઝિંગ", "hindiPronunciation": "रैशनलाइज़िंग", "gujaratiMeaning": "તર્કસંગત બનાવી રહ્યું છે", "hindiMeaning": "तर्कसंगत बना रहा है" }
+            },
+            "synonyms": [
+                { "word": "Justify", "gujaratiPronunciation": "જસ્ટિફાય", "hindiPronunciation": "जस्टिफाई", "gujaratiMeaning": "વાજબી ઠેરવવું", "hindiMeaning": "उचित ठहराना" },
+                { "word": "Explain", "gujaratiPronunciation": "એક્સપ્લેન", "hindiPronunciation": "एक्सप्लेन", "gujaratiMeaning": "સમજાવવું", "hindiMeaning": "समझाना" }
+            ],
+            "antonyms": [
+                { "word": "Accept", "gujaratiPronunciation": "એક્સેપ્ટ", "hindiPronunciation": "एक्सेप्ट", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" },
+                { "word": "Feel", "gujaratiPronunciation": "ફીલ", "hindiPronunciation": "फील", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" }
+            ],
+            "confusingWords": [
+                { "word": "Nationalize", "gujaratiPronunciation": "નેશનલાઇઝ", "hindiPronunciation": "नेशनलाइज़", "gujaratiMeaning": "રાષ્ટ્રીયકરણ કરવું", "hindiMeaning": "राष्ट्रीयकरण करना", "difference": "Rationalize એ તર્ક આપવાની ક્રિયા છે, જ્યારે Nationalize એ કોઈ સંપત્તિને રાષ્ટ્રની માલિકી હેઠળ લેવાની ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "He tried to rationalize his bad behavior.", "gujaratiPronunciation": "હી ટ્રાઇડ ટુ રેશનલાઇઝ હિઝ બેડ બિહેવિયર.", "hindiPronunciation": "ही ट्राइड टू रैशनलाइज़ हिज़ बैड बिहेवियर।", "gujaratiTranslation": "તેણે તેના ખરાબ વર્તનને તર્કસંગત બનાવવાનો પ્રયાસ કર્યો.", "hindiTranslation": "उसने अपने बुरे व्यवहार को तर्कसंगत बनाने की कोशिश की।" }
+            ]
+        },
+        {
+            "word": "Formulate",
+            "gujaratiPronunciation": "ફોર્મ્યુલેટ",
+            "hindiPronunciation": "फॉर्म्युलेट",
+            "gujaratiMeaning": "રચના કરવી / ઘડવું",
+            "hindiMeaning": "तैयार करना / बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Formulate", "gujaratiPronunciation": "ફોર્મ્યુલેટ", "hindiPronunciation": "फॉर्म्युलेट", "gujaratiMeaning": "ઘડવું", "hindiMeaning": "तैयार करना" },
+                "v2": { "word": "Formulated", "gujaratiPronunciation": "ફોર્મ્યુલેટેડ", "hindiPronunciation": "फॉर्म्युलेटेड", "gujaratiMeaning": "ઘડ્યું", "hindiMeaning": "तैयार किया" },
+                "v3": { "word": "Formulated", "gujaratiPronunciation": "ફોર્મ્યુલેટેડ", "hindiPronunciation": "फॉर्म्युलेटेड", "gujaratiMeaning": "ઘડેલું", "hindiMeaning": "तैयार किया हुआ" },
+                "v4": { "word": "Formulating", "gujaratiPronunciation": "ફોર્મ્યુલેટિંગ", "hindiPronunciation": "फॉर्म्युलेटिंग", "gujaratiMeaning": "ઘડી રહ્યું છે", "hindiMeaning": "तैयार कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Develop", "gujaratiPronunciation": "ડેવલપ", "hindiPronunciation": "डेवलप", "gujaratiMeaning": "વિકસાવવું", "hindiMeaning": "विकसित करना" },
+                { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" }
+            ],
+            "antonyms": [
+                { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+                { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गेनाइज़", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अस्त-व्यस्त करना" }
+            ],
+            "confusingWords": [
+                { "word": "Formalate", "gujaratiPronunciation": "ફોર્માલેટ", "hindiPronunciation": "फॉर्मोलेट", "gujaratiMeaning": "કોઈ શબ્દ નથી", "hindiMeaning": "कोई शब्द नहीं", "difference": "Formulate એ સાચો શબ્દ છે જેનો અર્થ 'રચના કરવી' થાય છે. Formalate કોઈ શબ્દ નથી." }
+            ],
+            "exampleSentences": [
+                { "sentence": "The team will formulate a new strategy.", "gujaratiPronunciation": "ધ ટીમ વિલ ફોર્મ્યુલેટ અ ન્યુ સ્ટ્રેટેજી.", "hindiPronunciation": "द टीम विल फॉर्म्युलेट अ न्यू स्ट्रैटेजी।", "gujaratiTranslation": "ટીમ એક નવી વ્યૂહરચના ઘડશે.", "hindiTranslation": "टीम एक नई रणनीति तैयार करेगी।" }
+            ]
+        }
+    ]
+}

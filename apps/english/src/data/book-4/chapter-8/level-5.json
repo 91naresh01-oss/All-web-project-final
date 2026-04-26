@@ -1,0 +1,143 @@
+
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Ferment",
+            "gujaratiPronunciation": "ફર્મેન્ટ",
+            "hindiPronunciation": "फरमेंट",
+            "gujaratiMeaning": "આથો લાવવો",
+            "hindiMeaning": "खमीर उठाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Ferment", "gujaratiPronunciation": "ફર્મેન્ટ", "hindiPronunciation": "फरमेंट", "gujaratiMeaning": "આથો લાવવો", "hindiMeaning": "खमीर उठाना" },
+                "V2 (Past)": { "word": "Fermented", "gujaratiPronunciation": "ફર્મેન્ટેડ", "hindiPronunciation": "फरमेंटेड", "gujaratiMeaning": "આથો લાવ્યો", "hindiMeaning": "खमीर उठाया" },
+                "V3 (Past Participle)": { "word": "Fermented", "gujaratiPronunciation": "ફર્મેન્ટેડ", "hindiPronunciation": "फरमेंटेड", "gujaratiMeaning": "આથો લાવેલો", "hindiMeaning": "खमीर उठाया हुआ" },
+                "V4 (Present Participle)": { "word": "Fermenting", "gujaratiPronunciation": "ફર્મેન્ટિંગ", "hindiPronunciation": "फरमेंटिंग", "gujaratiMeaning": "આથો લાવી રહ્યું છે", "hindiMeaning": "खमीर उठा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Brew", "gujaratiPronunciation": "બ્રૂ", "hindiPronunciation": "ब्रू", "gujaratiMeaning": "ઉકાળવું (દારૂ)", "hindiMeaning": "शराब बनाना" },
+                { "word": "Leaven", "gujaratiPronunciation": "લેવન", "hindiPronunciation": "लेवन", "gujaratiMeaning": "ખમીર નાખવું", "hindiMeaning": "खमीर डालना" }
+            ],
+            "antonyms": [
+                { "word": "Still", "gujaratiPronunciation": "સ્ટિલ", "hindiPronunciation": "स्टिल", "gujaratiMeaning": "શાંત", "hindiMeaning": "शांत" },
+                { "word": "Pacify", "gujaratiPronunciation": "પેસિફાય", "hindiPronunciation": "पैसिफाई", "gujaratiMeaning": "શાંત કરવું", "hindiMeaning": "शांत करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "Grapes are fermented to make wine.", "gujaratiTranslation": "દ્રાક્ષમાંથી વાઇન બનાવવા માટે આથો લાવવામાં આવે છે.", "hindiTranslation": "अंगूर को शराब बनाने के लिए किण्वित किया जाता है।", "gujaratiPronunciation": "ગ્રેપ્સ આર ફર્મેન્ટેડ ટુ મેક વાઇન.", "hindiPronunciation": "ग्रेप्स आर फरमेंटेड टू मेक वाइन।" }
+            ]
+        },
+        {
+            "word": "Cull",
+            "gujaratiPronunciation": "કલ",
+            "hindiPronunciation": "कल",
+            "gujaratiMeaning": "પસંદ કરીને અલગ કરવું, વીણવું",
+            "hindiMeaning": "चुनकर अलग करना, बीनना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Cull", "gujaratiPronunciation": "કલ", "hindiPronunciation": "कल", "gujaratiMeaning": "વીણવું", "hindiMeaning": "बीनना" },
+                "V2 (Past)": { "word": "Culled", "gujaratiPronunciation": "કલ્ડ", "hindiPronunciation": "कल्ड", "gujaratiMeaning": "વીણ્યું", "hindiMeaning": "बीना" },
+                "V3 (Past Participle)": { "word": "Culled", "gujaratiPronunciation": "કલ્ડ", "hindiPronunciation": "कल्ड", "gujaratiMeaning": "વીણેલું", "hindiMeaning": "बीना हुआ" },
+                "V4 (Present Participle)": { "word": "Culling", "gujaratiPronunciation": "કલિંગ", "hindiPronunciation": "कलिंग", "gujaratiMeaning": "વીણી રહ્યું છે", "hindiMeaning": "बीन रहा है" }
+            },
+            "synonyms": [
+                { "word": "Select", "gujaratiPronunciation": "સિલેક્ટ", "hindiPronunciation": "सिलेक्ट", "gujaratiMeaning": "પસંદ કરવું", "hindiMeaning": "चुनना" },
+                { "word": "Pick", "gujaratiPronunciation": "પિક", "hindiPronunciation": "पिक", "gujaratiMeaning": "ચૂંટવું", "hindiMeaning": "चुनना" }
+            ],
+            "antonyms": [
+                { "word": "Include", "gujaratiPronunciation": "ઇન્ક્લુડ", "hindiPronunciation": "इन्क्लूड", "gujaratiMeaning": "સમાવેશ કરવો", "hindiMeaning": "शामिल करना" },
+                { "word": "Keep all", "gujaratiPronunciation": "કીપ ઓલ", "hindiPronunciation": "कीप ऑल", "gujaratiMeaning": "બધું રાખવું", "hindiMeaning": "सब कुछ रखना" }
+            ],
+            "confusingWords": [
+                { "word": "Call", "gujaratiPronunciation": "કોલ", "hindiPronunciation": "कॉल", "gujaratiMeaning": "બોલાવવું", "hindiMeaning": "बुलाना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The farmer had to cull the weakest animals from the herd.", "gujaratiTranslation": "ખેડૂતને ટોળામાંથી સૌથી નબળા પ્રાણીઓને અલગ કરવા પડ્યા.", "hindiTranslation": "किसान को झुंड से सबसे कमजोर जानवरों को छाँटना पड़ा।", "gujaratiPronunciation": "ધ ફાર્મર હેડ ટુ કલ ધ વીકેસ્ટ એનિમલ્સ ફ્રોમ ધ હર્ડ.", "hindiPronunciation": "द फार्मर हैड टू कल द वीकेस्ट एनिमल्स फ्रॉम द हर्ड।" }
+            ]
+        },
+        {
+            "word": "Puree",
+            "gujaratiPronunciation": "પ્યુરી",
+            "hindiPronunciation": "प्यूरी",
+            "gujaratiMeaning": "છૂંદો કરવો, છુંદીને પ્રવાહી બનાવવું",
+            "hindiMeaning": "गूदा बनाना, पीसकर तरल बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Puree", "gujaratiPronunciation": "પ્યુરી", "hindiPronunciation": "प्यूरी", "gujaratiMeaning": "છૂંદો કરવો", "hindiMeaning": "गूदा बनाना" },
+                "V2 (Past)": { "word": "Pureed", "gujaratiPronunciation": "પ્યુરીડ", "hindiPronunciation": "प्यूरीड", "gujaratiMeaning": "છૂંદો કર્યો", "hindiMeaning": "गूदा बनाया" },
+                "V3 (Past Participle)": { "word": "Pureed", "gujaratiPronunciation": "પ્યુરીડ", "hindiPronunciation": "प्यूरीड", "gujaratiMeaning": "છૂંદો કરેલો", "hindiMeaning": "गूदा बनाया हुआ" },
+                "V4 (Present Participle)": { "word": "Pureeing", "gujaratiPronunciation": "પ્યુરીઇંગ", "hindiPronunciation": "प्यूरीइंग", "gujaratiMeaning": "છૂંદો કરી રહ્યું છે", "hindiMeaning": "गूदा बना रहा है" }
+            },
+            "synonyms": [
+                { "word": "Mash", "gujaratiPronunciation": "મૅશ", "hindiPronunciation": "मैश", "gujaratiMeaning": "છૂંદવું", "hindiMeaning": "मसलना" },
+                { "word": "Pulp", "gujaratiPronunciation": "પલ્પ", "hindiPronunciation": "पल्प", "gujaratiMeaning": "માવો બનાવવો", "hindiMeaning": "गूदा बनाना" }
+            ],
+            "antonyms": [
+                { "word": "Dice", "gujaratiPronunciation": "ડાઈસ", "hindiPronunciation": "डाइस", "gujaratiMeaning": "નાના ટુકડા કરવા", "hindiMeaning": "छोटे टुकड़े करना" },
+                { "word": "Chop", "gujaratiPronunciation": "ચોપ", "hindiPronunciation": "चॉप", "gujaratiMeaning": "કાપવું", "hindiMeaning": "काटना" }
+            ],
+            "confusingWords": [
+                { "word": "Pure", "gujaratiPronunciation": "પ્યોર", "hindiPronunciation": "प्योर", "gujaratiMeaning": "શુદ્ધ", "hindiMeaning": "शुद्ध" }
+            ],
+            "exampleSentences": [
+                { "sentence": "You should puree the tomatoes for the sauce.", "gujaratiTranslation": "ચટણી માટે તમારે ટામેટાંનો છૂંદો કરવો જોઈએ.", "hindiTranslation": "सॉस के लिए आपको टमाटर की प्यूरी बनानी चाहिए।", "gujaratiPronunciation": "યુ શુડ પ્યુરી ધ ટમેટોઝ ફોર ધ સોસ.", "hindiPronunciation": "यू शुड प्यूरी द टमेटोज़ फॉर द सॉस।" }
+            ]
+        },
+        {
+            "word": "Satiate",
+            "gujaratiPronunciation": "સેશિએટ",
+            "hindiPronunciation": "सैशिएट",
+            "gujaratiMeaning": "સંપૂર્ણ સંતોષ આપવો (ખાસ કરીને ખાવામાં)",
+            "hindiMeaning": "पूरी तरह से संतुष्ट करना (विशेषकर भोजन में)",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Satiate", "gujaratiPronunciation": "સેશિએટ", "hindiPronunciation": "सैशिएट", "gujaratiMeaning": "સંતોષ આપવો", "hindiMeaning": "संतुष्ट करना" },
+                "V2 (Past)": { "word": "Satiated", "gujaratiPronunciation": "સેશિએટેડ", "hindiPronunciation": "सैशिएटेड", "gujaratiMeaning": "સંતોષ આપ્યો", "hindiMeaning": "संतुष्ट किया" },
+                "V3 (Past Participle)": { "word": "Satiated", "gujaratiPronunciation": "સેશિએટેડ", "hindiPronunciation": "सैशिएटेड", "gujaratiMeaning": "સંતોષ આપેલો", "hindiMeaning": "संतुष्ट किया हुआ" },
+                "V4 (Present Participle)": { "word": "Satiating", "gujaratiPronunciation": "સેશિએટિંગ", "hindiPronunciation": "सैशिएटिंग", "gujaratiMeaning": "સંતોષ આપી રહ્યું છે", "hindiMeaning": "संतुष्ट कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Satisfy", "gujaratiPronunciation": "સેટિસફાય", "hindiPronunciation": "सैटिस्फाई", "gujaratiMeaning": "સંતોષ આપવો", "hindiMeaning": "संतुष्ट करना" },
+                { "word": "Quench", "gujaratiPronunciation": "ક્વેન્ચ", "hindiPronunciation": "क्वेंच", "gujaratiMeaning": "તૃપ્ત કરવું", "hindiMeaning": "तृप्त करना" }
+            ],
+            "antonyms": [
+                { "word": "Starve", "gujaratiPronunciation": "સ્ટાર્વ", "hindiPronunciation": "स्टार्ब", "gujaratiMeaning": "ભૂખે મરવું", "hindiMeaning": "भूखा मरना" },
+                { "word": "Deprive", "gujaratiPronunciation": "ડિપ્રાઈવ", "hindiPronunciation": "डिप्राइव", "gujaratiMeaning": "વંચિત રાખવું", "hindiMeaning": "वंचित रखना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "A large bowl of soup will satiate your hunger.", "gujaratiTranslation": "એક મોટો વાટકો સૂપ તમારી ભૂખને સંતોષશે.", "hindiTranslation": "एक बड़ा कटोरा सूप आपकी भूख को शांत करेगा।", "gujaratiPronunciation": "અ લાર્જ બોલ ઓફ સૂપ વિલ સેશિએટ યોર હંગર.", "hindiPronunciation": "अ लार्ज बोल ऑफ़ सूप विल सैशिएट योर हंगर।" }
+            ]
+        },
+        {
+            "word": "Forage",
+            "gujaratiPronunciation": "ફોરેજ",
+            "hindiPronunciation": "फॉरेज",
+            "gujaratiMeaning": "ખોરાક શોધવો",
+            "hindiMeaning": "भोजन खोजना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Forage", "gujaratiPronunciation": "ફોરેજ", "hindiPronunciation": "फॉरेज", "gujaratiMeaning": "ખોરાક શોધવો", "hindiMeaning": "भोजन खोजना" },
+                "V2 (Past)": { "word": "Foraged", "gujaratiPronunciation": "ફોરેજ્ડ", "hindiPronunciation": "फॉरेज्ड", "gujaratiMeaning": "ખોરાક શોધ્યો", "hindiMeaning": "भोजन खोजा" },
+                "V3 (Past Participle)": { "word": "Foraged", "gujaratiPronunciation": "ફોરેજ્ડ", "hindiPronunciation": "फॉरेज्ड", "gujaratiMeaning": "ખોરાક શોધેલો", "hindiMeaning": "भोजन खोजा हुआ" },
+                "V4 (Present Participle)": { "word": "Foraging", "gujaratiPronunciation": "ફોરેજિંગ", "hindiPronunciation": "फॉरेजिंग", "gujaratiMeaning": "ખોરાક શોધી રહ્યું છે", "hindiMeaning": "भोजन खोज रहा है" }
+            },
+            "synonyms": [
+                { "word": "Search for food", "gujaratiPronunciation": "સર્ચ ફોર ફૂડ", "hindiPronunciation": "सर्च फॉर फ़ूड", "gujaratiMeaning": "ખોરાક માટે શોધ કરવી", "hindiMeaning": "भोजन के लिए खोजना" },
+                { "word": "Scavenge", "gujaratiPronunciation": "સ્કેવેન્જ", "hindiPronunciation": "स्कैवेंज", "gujaratiMeaning": "પડેલું વીણીને ખાવું", "hindiMeaning": "सफाई करना" }
+            ],
+            "antonyms": [
+                { "word": "Cultivate", "gujaratiPronunciation": "કલ્ટિવેટ", "hindiPronunciation": "कल्टिवेट", "gujaratiMeaning": "ખેતી કરવી", "hindiMeaning": "खेती करना" },
+                { "word": "Provide", "gujaratiPronunciation": "પ્રોવાઈડ", "hindiPronunciation": "प्रोवाइड", "gujaratiMeaning": "પૂરું પાડવું", "hindiMeaning": "प्रदान करना" }
+            ],
+            "confusingWords": [
+                { "word": "Forge", "gujaratiPronunciation": "ફોર્જ", "hindiPronunciation": "फोर्ज", "gujaratiMeaning": "બનાવવું, ઘડવું", "hindiMeaning": "बनाना, गढ़ना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The birds forage for berries and seeds.", "gujaratiTranslation": "પક્ષીઓ બોર અને બીજ માટે ખોરાક શોધે છે.", "hindiTranslation": "पक्षी जामुन और बीज के लिए भोजन खोजते हैं।", "gujaratiPronunciation": "ધ બર્ડ્સ ફોરેજ ફોર બેરીઝ એન્ડ સીડ્સ.", "hindiPronunciation": "द बर्ड्स फॉरेज फॉर बेरीज़ एंड सीड्स।" }
+            ]
+        }
+    ]
+}

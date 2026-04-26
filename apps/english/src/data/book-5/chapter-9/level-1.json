@@ -1,0 +1,176 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "See",
+      "gujaratiPronunciation": "સી",
+      "hindiPronunciation": "सी",
+      "gujaratiMeaning": "જોવું",
+      "hindiMeaning": "देखना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "See", "gujaratiPronunciation": "સી", "hindiPronunciation": "सी", "gujaratiMeaning": "જોવું", "hindiMeaning": "देखना" },
+        "V2": { "word": "Saw", "gujaratiPronunciation": "સો", "hindiPronunciation": "सॉ", "gujaratiMeaning": "જોયું", "hindiMeaning": "देखा" },
+        "V3": { "word": "Seen", "gujaratiPronunciation": "સીન", "hindiPronunciation": "सीन", "gujaratiMeaning": "જોયેલું", "hindiMeaning": "देखा हुआ" },
+        "V4": { "word": "Seeing", "gujaratiPronunciation": "સીઇંગ", "hindiPronunciation": "सीइंग", "gujaratiMeaning": "જોઈ રહ્યું છે", "hindiMeaning": "देख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Look", "gujaratiPronunciation": "લુક", "hindiPronunciation": "लुक", "gujaratiMeaning": "જોવું", "hindiMeaning": "देखना" },
+        { "word": "Watch", "gujaratiPronunciation": "વૉચ", "hindiPronunciation": "वॉच", "gujaratiMeaning": "ધ્યાનથી જોવું", "hindiMeaning": "ध्यान से देखना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Overlook", "gujaratiPronunciation": "ઓવરલુક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "ધ્યાન ન આપવું", "hindiMeaning": "नज़रअंदाज़ करना" }
+      ],
+      "confusingWords": [
+        { "word": "Sea", "gujaratiPronunciation": "સી", "hindiPronunciation": "सी", "gujaratiMeaning": "સમુદ્ર", "hindiMeaning": "समुद्र" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I see a bird in the sky.",
+          "gujaratiPronunciation": "આઈ સી અ બર્ડ ઇન ધ સ્કાય.",
+          "hindiPronunciation": "आई सी ए बर्ड इन द स्काई।",
+          "gujaratiTranslation": "હું આકાશમાં એક પક્ષી જોઉં છું.",
+          "hindiTranslation": "मैं आसमान में एक पक्षी देखता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Smell",
+      "gujaratiPronunciation": "સ્મેલ",
+      "hindiPronunciation": "स्मेल",
+      "gujaratiMeaning": "સુંઘવું",
+      "hindiMeaning": "सूँघना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Smell", "gujaratiPronunciation": "સ્મેલ", "hindiPronunciation": "स्मेल", "gujaratiMeaning": "સુંઘવું", "hindiMeaning": "सूँघना" },
+        "V2": { "word": "Smelled/Smelt", "gujaratiPronunciation": "સ્મેલ્ડ/સ્મેલ્ટ", "hindiPronunciation": "स्मेल्ड/स्मेल्ट", "gujaratiMeaning": "સુંઘ્યું", "hindiMeaning": "सूँघा" },
+        "V3": { "word": "Smelled/Smelt", "gujaratiPronunciation": "સ્મેલ્ડ/સ્મેલ્ટ", "hindiPronunciation": "स्मेल्ड/स्मेल्ट", "gujaratiMeaning": "સુંઘેલું", "hindiMeaning": "सूँघा हुआ" },
+        "V4": { "word": "Smelling", "gujaratiPronunciation": "સ્મેલિંગ", "hindiPronunciation": "स्मैलिंग", "gujaratiMeaning": "સુંઘી રહ્યું છે", "hindiMeaning": "सूँघ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Scent", "gujaratiPronunciation": "સેન્ટ", "hindiPronunciation": "सेंट", "gujaratiMeaning": "સુગંધ", "hindiMeaning": "सुगंध" },
+        { "word": "Sniff", "gujaratiPronunciation": "સ્નિફ", "hindiPronunciation": "स्निफ", "gujaratiMeaning": "સુંઘવું", "hindiMeaning": "सूँघना" }
+      ],
+      "antonyms": [
+        { "word": "Deodorize", "gujaratiPronunciation": "ડિઓડરાઇઝ", "hindiPronunciation": "डिओडराइज़", "gujaratiMeaning": "ગંધ દૂર કરવી", "hindiMeaning": "गंध दूर करना" },
+        { "word": "Air out", "gujaratiPronunciation": "એર આઉટ", "hindiPronunciation": "एयर आउट", "gujaratiMeaning": "હવા ઉજાસ કરવું", "hindiMeaning": "हवा निकालना" }
+      ],
+      "confusingWords": [
+        { "word": "Smile", "gujaratiPronunciation": "સ્માઇલ", "hindiPronunciation": "स्माइल", "gujaratiMeaning": "હાસ્ય", "hindiMeaning": "मुस्कान" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The flowers smell sweet.",
+          "gujaratiPronunciation": "ધ ફ્લાવર્સ સ્મેલ સ્વીટ.",
+          "hindiPronunciation": "द फ्लावर्स स्मेल स्वीट।",
+          "gujaratiTranslation": "ફૂલોની સુગંધ મીઠી છે.",
+          "hindiTranslation": "फूलों की महक मीठी है।"
+        }
+      ]
+    },
+    {
+      "word": "Glimpse",
+      "gujaratiPronunciation": "ગ્લિમ્પ્સ",
+      "hindiPronunciation": "ग्लिम्प्स",
+      "gujaratiMeaning": "ઝલક",
+      "hindiMeaning": "झलक",
+      "partOfSpeech": "noun",
+      "verbForms": {
+        "V1": { "word": "Glimpse", "gujaratiPronunciation": "ગ્લિમ્પ્સ", "hindiPronunciation": "ग्लिम्प्स", "gujaratiMeaning": "ઝલક જોવી", "hindiMeaning": "झलक देखना" },
+        "V2": { "word": "Glimpsed", "gujaratiPronunciation": "ગ્લિમ્પ્સ્ડ", "hindiPronunciation": "ग्लिम्प्स्ड", "gujaratiMeaning": "ઝલક જોઈ", "hindiMeaning": "झलक देखी" },
+        "V3": { "word": "Glimpsed", "gujaratiPronunciation": "ગ્લિમ્પ્સ્ડ", "hindiPronunciation": "ग्लिम्प्स्ड", "gujaratiMeaning": "ઝલક જોયેલી", "hindiMeaning": "झलक देखी हुई" },
+        "V4": { "word": "Glimpsing", "gujaratiPronunciation": "ગ્લિમ્પ્સિંગ", "hindiPronunciation": "ग्लिम्प्सिंग", "gujaratiMeaning": "ઝલક જોઈ રહ્યું છે", "hindiMeaning": "झलक देख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Peek", "gujaratiPronunciation": "પીક", "hindiPronunciation": "पीक", "gujaratiMeaning": "ડોકિયું કરવું", "hindiMeaning": "झाँकना" },
+        { "word": "Glance", "gujaratiPronunciation": "ગ્લાન્સ", "hindiPronunciation": "ग्लान्स", "gujaratiMeaning": "નજર", "hindiMeaning": "नज़र" }
+      ],
+      "antonyms": [
+        { "word": "Stare", "gujaratiPronunciation": "સ્ટેર", "hindiPronunciation": "स्टेयर", "gujaratiMeaning": "ઘૂરવું", "hindiMeaning": "घूरना" },
+        { "word": "Gaze", "gujaratiPronunciation": "ગેઝ", "hindiPronunciation": "गेज़", "gujaratiMeaning": "તાકી રહેવું", "hindiMeaning": "टकटकी लगाकर देखना" }
+      ],
+      "confusingWords": [
+        { "word": "Limp", "gujaratiPronunciation": "લિંપ", "hindiPronunciation": "लिम्प", "gujaratiMeaning": "લંગડાવું", "hindiMeaning": "लंगड़ाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I caught a glimpse of the celebrity.",
+          "gujaratiPronunciation": "આઈ કૉટ અ ગ્લિમ્પ્સ ઓફ ધ સેલિબ્રિટી.",
+          "hindiPronunciation": "आई कॉट ए ग्लिम्प्स ऑफ द सेलिब्रिटी।",
+          "gujaratiTranslation": "મેં સેલિબ્રિટીની એક ઝલક જોઈ.",
+          "hindiTranslation": "मैंने सेलिब्रिटी की एक झलक देखी।"
+        }
+      ]
+    },
+    {
+      "word": "Sniff",
+      "gujaratiPronunciation": "સ્નિફ",
+      "hindiPronunciation": "स्निफ",
+      "gujaratiMeaning": "સુંઘવું",
+      "hindiMeaning": "सूँघना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Sniff", "gujaratiPronunciation": "સ્નિફ", "hindiPronunciation": "स्निफ", "gujaratiMeaning": "સુંઘવું", "hindiMeaning": "सूँघना" },
+        "V2": { "word": "Sniffed", "gujaratiPronunciation": "સ્નિફ્ડ", "hindiPronunciation": "स्निफ्ड", "gujaratiMeaning": "સુંઘ્યું", "hindiMeaning": "सूँघा" },
+        "V3": { "word": "Sniffed", "gujaratiPronunciation": "સ્નિફ્ડ", "hindiPronunciation": "स्निफ्ड", "gujaratiMeaning": "સુંઘેલું", "hindiMeaning": "सूँघा हुआ" },
+        "V4": { "word": "Sniffing", "gujaratiPronunciation": "સ્નિફિંગ", "hindiPronunciation": "स्निफिंग", "gujaratiMeaning": "સુંઘી રહ્યું છે", "hindiMeaning": "सूँघ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Inhale", "gujaratiPronunciation": "ઇન્હેલ", "hindiPronunciation": "इन्हेल", "gujaratiMeaning": "શ્વાસમાં લેવું", "hindiMeaning": "साँस में लेना" },
+        { "word": "Smell", "gujaratiPronunciation": "સ્મેલ", "hindiPronunciation": "स्मेल", "gujaratiMeaning": "સુંઘવું", "hindiMeaning": "सूँघना" }
+      ],
+      "antonyms": [
+        { "word": "Exhale", "gujaratiPronunciation": "એક્સહેલ", "hindiPronunciation": "एक्सहेल", "gujaratiMeaning": "શ્વાસ બહાર કાઢવો", "hindiMeaning": "साँस छोड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Stiff", "gujaratiPronunciation": "સ્ટિફ", "hindiPronunciation": "स्टिफ", "gujaratiMeaning": "કડક", "hindiMeaning": "कड़ा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The dog sniffed at the stranger.",
+          "gujaratiPronunciation": "ધ ડોગ સ્નિફ્ડ એટ ધ સ્ટ્રેન્જર.",
+          "hindiPronunciation": "द डॉग स्निफ्ड ऐट द स्ट्रेंजर।",
+          "gujaratiTranslation": "કૂતરાએ અજાણ્યા વ્યક્તિને સુંઘ્યો.",
+          "hindiTranslation": "कुत्ते ने अजनबी को सूंघा।"
+        }
+      ]
+    },
+    {
+      "word": "Murmur",
+      "gujaratiPronunciation": "મર્મર",
+      "hindiPronunciation": "मरमर",
+      "gujaratiMeaning": "ગણગણવું",
+      "hindiMeaning": "गुनगुनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Murmur", "gujaratiPronunciation": "મર્મર", "hindiPronunciation": "मरमर", "gujaratiMeaning": "ગણગણવું", "hindiMeaning": "गुनगुनाना" },
+        "V2": { "word": "Murmured", "gujaratiPronunciation": "મર્મર્ડ", "hindiPronunciation": "मरमर्ड", "gujaratiMeaning": "ગણગણ્યું", "hindiMeaning": "गुनगुनाया" },
+        "V3": { "word": "Murmured", "gujaratiPronunciation": "મર્મર્ડ", "hindiPronunciation": "मरमर्ड", "gujaratiMeaning": "ગણગણ્યું", "hindiMeaning": "गुनगुनाया" },
+        "V4": { "word": "Murmuring", "gujaratiPronunciation": "મર્મરિંગ", "hindiPronunciation": "मरमरिंग", "gujaratiMeaning": "ગણગણી રહ્યું છે", "hindiMeaning": "गुनगुना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Whisper", "gujaratiPronunciation": "વ્હિસ્પર", "hindiPronunciation": "व्हिस्पर", "gujaratiMeaning": "ધીમેથી બોલવું", "hindiMeaning": "फुसफुसाना" },
+        { "word": "Mutter", "gujaratiPronunciation": "મટર", "hindiPronunciation": "मटर", "gujaratiMeaning": "બબડવું", "hindiMeaning": "बड़बड़ाना" }
+      ],
+      "antonyms": [
+        { "word": "Shout", "gujaratiPronunciation": "શાઉટ", "hindiPronunciation": "शाउट", "gujaratiMeaning": "બૂમ પાડવી", "hindiMeaning": "चिल्लाना" },
+        { "word": "Yell", "gujaratiPronunciation": "યેલ", "hindiPronunciation": "येल", "gujaratiMeaning": "ચીસ પાડવી", "hindiMeaning": "चीखना" }
+      ],
+      "confusingWords": [
+        { "word": "Murder", "gujaratiPronunciation": "મર્ડર", "hindiPronunciation": "मर्डर", "gujaratiMeaning": "હત્યા", "hindiMeaning": "हत्या" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He murmured a few words to her.",
+          "gujaratiPronunciation": "હી મર્મર્ડ અ ફ્યુ વર્ડ્સ ટુ હર.",
+          "hindiPronunciation": "ही मरमर्ड ए फ्यू वर्ड्स टू हर।",
+          "gujaratiTranslation": "તેણે તેણીને થોડા શબ્દો ગણગણ્યા.",
+          "hindiTranslation": "उसने उससे कुछ शब्द गुनगुनाए।"
+        }
+      ]
+    }
+  ]
+}

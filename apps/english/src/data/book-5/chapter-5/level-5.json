@@ -1,0 +1,449 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5: Sprout | Flourish | Develop | Expand | Augment",
+  "words": [
+    {
+      "word": "Sprout",
+      "gujaratiPronunciation": "સ્પ્રાઉટ",
+      "hindiPronunciation": "स्प्राउट",
+      "gujaratiMeaning": "ફણગો ફૂટવો",
+      "hindiMeaning": "अंकुरित होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Sprout",
+          "gujaratiPronunciation": "સ્પ્રાઉટ",
+          "hindiPronunciation": "स्प्राउट",
+          "gujaratiMeaning": "ફણગો ફૂટવો",
+          "hindiMeaning": "अंकुरित होना"
+        },
+        "V2": {
+          "word": "Sprouted",
+          "gujaratiPronunciation": "સ્પ્રાઉટેડ",
+          "hindiPronunciation": "स्प्राउटेड",
+          "gujaratiMeaning": "ફણગો ફૂટ્યો",
+          "hindiMeaning": "अंकुरित हुआ"
+        },
+        "V3": {
+          "word": "Sprouted",
+          "gujaratiPronunciation": "સ્પ્રાઉટેડ",
+          "hindiPronunciation": "स्प्राउटेड",
+          "gujaratiMeaning": "ફણગો ફૂટેલો",
+          "hindiMeaning": "अंकुरित हुआ"
+        },
+        "V4": {
+          "word": "Sprouting",
+          "gujaratiPronunciation": "સ્પ્રાઉટિંગ",
+          "hindiPronunciation": "स्प्राउटिंग",
+          "gujaratiMeaning": "ફણગો ફૂટી રહ્યો છે",
+          "hindiMeaning": "अंकुरित हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Germinate",
+          "gujaratiPronunciation": "જર્મિનેટ",
+          "hindiPronunciation": "जर्मिनेट",
+          "gujaratiMeaning": "અંકુરિત થવું",
+          "hindiMeaning": "अंकुरित होना"
+        },
+        {
+          "word": "Bud",
+          "gujaratiPronunciation": "બડ",
+          "hindiPronunciation": "बड",
+          "gujaratiMeaning": "કળી ફૂટવી",
+          "hindiMeaning": "कली निकलना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Wither",
+          "gujaratiPronunciation": "વિથર",
+          "hindiPronunciation": "विदर",
+          "gujaratiMeaning": "કરમાઈ જવું",
+          "hindiMeaning": "मुरझाना"
+        },
+        {
+          "word": "Die",
+          "gujaratiPronunciation": "ડાઇ",
+          "hindiPronunciation": "डाई",
+          "gujaratiMeaning": "મરી જવું",
+          "hindiMeaning": "मरना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Spout",
+          "gujaratiPronunciation": "સ્પાઉટ",
+          "hindiPronunciation": "स्पाउट",
+          "gujaratiMeaning": "નળી, ધાર",
+          "hindiMeaning": "टोंटी, धार"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "New leaves began to sprout on the trees.",
+          "gujaratiTranslation": "વૃક્ષો પર નવા પાંદડા ફૂટવા લાગ્યા.",
+          "hindiTranslation": "पेड़ों पर नई पत्तियाँ उगने लगीं।",
+          "gujaratiPronunciation": "ન્યુ લીવ્ઝ બિગેન ટુ સ્પ્રાઉટ ઓન ધ ટ્રીઝ.",
+          "hindiPronunciation": "न्यू लीव्ज़ बिगेन टू स्प्राउट ऑन द ट्रीज़।"
+        }
+      ]
+    },
+    {
+      "word": "Flourish",
+      "gujaratiPronunciation": "ફ્લરિશ",
+      "hindiPronunciation": "फ्लरिश",
+      "gujaratiMeaning": "ફાલવું-ફૂલવું",
+      "hindiMeaning": "फलना-फूलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Flourish",
+          "gujaratiPronunciation": "ફ્લરિશ",
+          "hindiPronunciation": "फ्लरिश",
+          "gujaratiMeaning": "ફાલવું-ફૂલવું",
+          "hindiMeaning": "फलना-फूलना"
+        },
+        "V2": {
+          "word": "Flourished",
+          "gujaratiPronunciation": "ફ્લરિશ્ડ",
+          "hindiPronunciation": "फ्लरिश्ड",
+          "gujaratiMeaning": "ફાલ્યું-ફૂલ્યું",
+          "hindiMeaning": "फला-फूला"
+        },
+        "V3": {
+          "word": "Flourished",
+          "gujaratiPronunciation": "ફ્લરિશ્ડ",
+          "hindiPronunciation": "फ्लरिश्ड",
+          "gujaratiMeaning": "ફાલ્યું-ફૂલેલું",
+          "hindiMeaning": "फला-फूला हुआ"
+        },
+        "V4": {
+          "word": "Flourishing",
+          "gujaratiPronunciation": "ફ્લરિશિંગ",
+          "hindiPronunciation": "फ्लरिशिंग",
+          "gujaratiMeaning": "ફાલી-ફૂલી રહ્યું છે",
+          "hindiMeaning": "फल-फूल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Thrive",
+          "gujaratiPronunciation": "થ્રાઇવ",
+          "hindiPronunciation": "थ्राइव",
+          "gujaratiMeaning": "વિકસવું",
+          "hindiMeaning": "समृद्ध होना"
+        },
+        {
+          "word": "Prosper",
+          "gujaratiPronunciation": "પ્રોસ્પર",
+          "hindiPronunciation": "प्रॉस्पर",
+          "gujaratiMeaning": "સમૃદ્ધ થવું",
+          "hindiMeaning": "समृद्ध होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Decline",
+          "gujaratiPronunciation": "ડીકલાઇન",
+          "hindiPronunciation": "डिक्लाइन",
+          "gujaratiMeaning": "પતન થવું",
+          "hindiMeaning": "पतन होना"
+        },
+        {
+          "word": "Wither",
+          "gujaratiPronunciation": "વિથર",
+          "hindiPronunciation": "विदर",
+          "gujaratiMeaning": "કરમાઈ જવું",
+          "hindiMeaning": "मुरझाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Flemish",
+          "gujaratiPronunciation": "ફ્લેમિશ",
+          "hindiPronunciation": "फ्लेमिश",
+          "gujaratiMeaning": "ફ્લેન્ડર્સનો રહેવાસી",
+          "hindiMeaning": "फ़्लैंडर्स का निवासी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The arts began to flourish at that time.",
+          "gujaratiTranslation": "તે સમયે કળાઓનો વિકાસ થવા લાગ્યો.",
+          "hindiTranslation": "उस समय कलाएँ फलने-फूलने लगीं।",
+          "gujaratiPronunciation": "ધ આર્ટ્સ બિગેન ટુ ફ્લરિશ એટ ધેટ ટાઇમ.",
+          "hindiPronunciation": "द आर्ट्स बिगेन टू फ्लरिश एट दैट टाइम।"
+        }
+      ]
+    },
+    {
+      "word": "Develop",
+      "gujaratiPronunciation": "ડેવલપ",
+      "hindiPronunciation": "डेवलप",
+      "gujaratiMeaning": "વિકસાવવું",
+      "hindiMeaning": "विकसित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Develop",
+          "gujaratiPronunciation": "ડેવલપ",
+          "hindiPronunciation": "डेवलप",
+          "gujaratiMeaning": "વિકસાવવું",
+          "hindiMeaning": "विकसित करना"
+        },
+        "V2": {
+          "word": "Developed",
+          "gujaratiPronunciation": "ડેવલપ્ડ",
+          "hindiPronunciation": "डेवलप्ड",
+          "gujaratiMeaning": "વિકસાવ્યું",
+          "hindiMeaning": "विकसित किया"
+        },
+        "V3": {
+          "word": "Developed",
+          "gujaratiPronunciation": "ડેવલપ્ડ",
+          "hindiPronunciation": "डेवलप्ड",
+          "gujaratiMeaning": "વિકસાવેલું",
+          "hindiMeaning": "विकसित"
+        },
+        "V4": {
+          "word": "Developing",
+          "gujaratiPronunciation": "ડેવલપિંગ",
+          "hindiPronunciation": "डेवलपिंग",
+          "gujaratiMeaning": "વિકસાવી રહ્યું છે",
+          "hindiMeaning": "विकसित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Grow",
+          "gujaratiPronunciation": "ગ્રો",
+          "hindiPronunciation": "ग्रो",
+          "gujaratiMeaning": "વધવું",
+          "hindiMeaning": "बढ़ना"
+        },
+        {
+          "word": "Evolve",
+          "gujaratiPronunciation": "ઇવોલ્વ",
+          "hindiPronunciation": "इवॉल्व",
+          "gujaratiMeaning": "વિકસિત થવું",
+          "hindiMeaning": "विकसित होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Stunt",
+          "gujaratiPronunciation": "સ્ટન્ટ",
+          "hindiPronunciation": "स्टंट",
+          "gujaratiMeaning": "વિકાસ અટકાવવો",
+          "hindiMeaning": "विकास रोकना"
+        },
+        {
+          "word": "Halt",
+          "gujaratiPronunciation": "હોલ્ટ",
+          "hindiPronunciation": "हॉल्ट",
+          "gujaratiMeaning": "અટકાવવું",
+          "hindiMeaning": "रोकना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Envelop",
+          "gujaratiPronunciation": "એન્વેલપ",
+          "hindiPronunciation": "एनवेलप",
+          "gujaratiMeaning": "ઘેરી લેવું",
+          "hindiMeaning": "घेर लेना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The city needs to develop its infrastructure.",
+          "gujaratiTranslation": "શહેરને તેની માળખાગત સુવિધાઓ વિકસાવવાની જરૂર છે.",
+          "hindiTranslation": "शहर को अपने बुनियादी ढांचे को विकसित करने की जरूरत है।",
+          "gujaratiPronunciation": "ધ સિટી નીડ્સ ટુ ડેવલપ ઇટ્સ ઇન્ફ્રાસ્ટ્રક્ચર.",
+          "hindiPronunciation": "द सिटी नीड्स टू डेवलप इट्स इंफ्रास्ट्रक्चर।"
+        }
+      ]
+    },
+    {
+      "word": "Expand",
+      "gujaratiPronunciation": "એક્સપાન્ડ",
+      "hindiPronunciation": "एक्सपैंड",
+      "gujaratiMeaning": "વિસ્તાર કરવો",
+      "hindiMeaning": "विस्तार करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Expand",
+          "gujaratiPronunciation": "એક્સપાન્ડ",
+          "hindiPronunciation": "एक्सपैंड",
+          "gujaratiMeaning": "વિસ્તાર કરવો",
+          "hindiMeaning": "विस्तार करना"
+        },
+        "V2": {
+          "word": "Expanded",
+          "gujaratiPronunciation": "એક્સપાન્ડેડ",
+          "hindiPronunciation": "एक्सपैंडेड",
+          "gujaratiMeaning": "વિસ્તાર કર્યો",
+          "hindiMeaning": "विस्तार किया"
+        },
+        "V3": {
+          "word": "Expanded",
+          "gujaratiPronunciation": "એક્સપાન્ડેડ",
+          "hindiPronunciation": "एक्सपैंडेड",
+          "gujaratiMeaning": "વિસ્તાર કરેલો",
+          "hindiMeaning": "विस्तारित"
+        },
+        "V4": {
+          "word": "Expanding",
+          "gujaratiPronunciation": "એક્સપાન્ડિંગ",
+          "hindiPronunciation": "एक्सपैंडिंग",
+          "gujaratiMeaning": "વિસ્તાર કરી રહ્યું છે",
+          "hindiMeaning": "विस्तार कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Enlarge",
+          "gujaratiPronunciation": "એનલાર્જ",
+          "hindiPronunciation": "एनलार्ज",
+          "gujaratiMeaning": "મોટું કરવું",
+          "hindiMeaning": "बड़ा करना"
+        },
+        {
+          "word": "Broaden",
+          "gujaratiPronunciation": "બ્રોડન",
+          "hindiPronunciation": "ब्रॉडन",
+          "gujaratiMeaning": "પહોળું કરવું",
+          "hindiMeaning": "चौड़ा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Contract",
+          "gujaratiPronunciation": "કોન્ટ્રેક્ટ",
+          "hindiPronunciation": "कॉन्ट्रैक्ट",
+          "gujaratiMeaning": "સંકોચવું",
+          "hindiMeaning": "सिकुड़ना"
+        },
+        {
+          "word": "Shrink",
+          "gujaratiPronunciation": "શ્રિન્ક",
+          "hindiPronunciation": "श्रिंक",
+          "gujaratiMeaning": "સંકોચાવું",
+          "hindiMeaning": "सिकुड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Expend",
+          "gujaratiPronunciation": "એક્સપેન્ડ",
+          "hindiPronunciation": "एक्सपेंड",
+          "gujaratiMeaning": "ખર્ચ કરવો",
+          "hindiMeaning": "खर्च करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Metals expand when heated.",
+          "gujaratiTranslation": "ગરમ કરવાથી ધાતુઓ વિસ્તરે છે.",
+          "hindiTranslation": "गर्म करने पर धातुएं फैलती हैं।",
+          "gujaratiPronunciation": "મેટલ્સ એક્સપાન્ડ વેન હીટેડ.",
+          "hindiPronunciation": "मेटल्स एक्सपैंड वेन हीटेड।"
+        }
+      ]
+    },
+    {
+      "word": "Augment",
+      "gujaratiPronunciation": "ઓગ્મેન્ટ",
+      "hindiPronunciation": "ऑगमेंट",
+      "gujaratiMeaning": "વૃદ્ધિ કરવી",
+      "hindiMeaning": "बढ़ाना, वृद्धि करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Augment",
+          "gujaratiPronunciation": "ઓગ્મેન્ટ",
+          "hindiPronunciation": "ऑगमेंट",
+          "gujaratiMeaning": "વૃદ્ધિ કરવી",
+          "hindiMeaning": "बढ़ाना"
+        },
+        "V2": {
+          "word": "Augmented",
+          "gujaratiPronunciation": "ઓગ્મેન્ટેડ",
+          "hindiPronunciation": "ऑगमेंटेड",
+          "gujaratiMeaning": "વૃદ્ધિ કરી",
+          "hindiMeaning": "बढ़ाया"
+        },
+        "V3": {
+          "word": "Augmented",
+          "gujaratiPronunciation": "ઓગ્મેન્ટેડ",
+          "hindiPronunciation": "ऑगमेंटेड",
+          "gujaratiMeaning": "વૃદ્ધિ કરેલી",
+          "hindiMeaning": "बढ़ाया हुआ"
+        },
+        "V4": {
+          "word": "Augmenting",
+          "gujaratiPronunciation": "ઓગ્મેન્ટિંગ",
+          "hindiPronunciation": "ऑगमेंटिंग",
+          "gujaratiMeaning": "વૃદ્ધિ કરી રહ્યું છે",
+          "hindiMeaning": "बढ़ा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Increase",
+          "gujaratiPronunciation": "ઇન્ક્રીઝ",
+          "hindiPronunciation": "इन्क्रीज़",
+          "gujaratiMeaning": "વધારો કરવો",
+          "hindiMeaning": "बढ़ाना"
+        },
+        {
+          "word": "Enhance",
+          "gujaratiPronunciation": "એન્હાન્સ",
+          "hindiPronunciation": "एन्हान्स",
+          "gujaratiMeaning": "વધારવું",
+          "hindiMeaning": "सुधारना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Decrease",
+          "gujaratiPronunciation": "ડીક્રીઝ",
+          "hindiPronunciation": "डिक्रीज़",
+          "gujaratiMeaning": "ઘટાડો કરવો",
+          "hindiMeaning": "कम करना"
+        },
+        {
+          "word": "Diminish",
+          "gujaratiPronunciation": "ડિમિનિશ",
+          "hindiPronunciation": "डिमिनिश",
+          "gujaratiMeaning": "ઘટાડવું",
+          "hindiMeaning": "कम करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Argument",
+          "gujaratiPronunciation": "આર્ગ્યુમેન્ટ",
+          "hindiPronunciation": "आर्ग्यूमेंट",
+          "gujaratiMeaning": "દલીલ",
+          "hindiMeaning": "तर्क"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He augmented his income by working a second job.",
+          "gujaratiTranslation": "તેણે બીજી નોકરી કરીને તેની આવકમાં વધારો કર્યો.",
+          "hindiTranslation": "उसने दूसरी नौकरी करके अपनी आय बढ़ाई।",
+          "gujaratiPronunciation": "હી ઓગ્મેન્ટેડ હિઝ ઇનકમ બાય વર્કિંગ અ સેકન્ડ જોબ.",
+          "hindiPronunciation": "ही ऑगमेंटेड हिज़ इनकम बाय वर्किंग अ सेकंड जॉब।"
+        }
+      ]
+    }
+  ]
+}
+
+    

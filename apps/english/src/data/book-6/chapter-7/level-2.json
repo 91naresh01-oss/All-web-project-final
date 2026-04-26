@@ -1,0 +1,481 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Polish",
+      "gujaratiPronunciation": "પોલિશ",
+      "hindiPronunciation": "पॉलिश",
+      "gujaratiMeaning": "ચમકાવવું",
+      "hindiMeaning": "चमकाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Polish",
+          "gujaratiPronunciation": "પોલિશ",
+          "hindiPronunciation": "पॉलिश",
+          "gujaratiMeaning": "ચમકાવવું",
+          "hindiMeaning": "चमकाना"
+        },
+        "V2 (Past)": {
+          "word": "Polished",
+          "gujaratiPronunciation": "પોલિશ્ડ",
+          "hindiPronunciation": "पॉलिश्ड",
+          "gujaratiMeaning": "ચમકાવ્યું",
+          "hindiMeaning": "चमकाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Polished",
+          "gujaratiPronunciation": "પોલિશ્ડ",
+          "hindiPronunciation": "पॉलिश्ड",
+          "gujaratiMeaning": "ચમકાવેલું",
+          "hindiMeaning": "चमकाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Polishing",
+          "gujaratiPronunciation": "પોલિશિંગ",
+          "hindiPronunciation": "पॉलिशिंग",
+          "gujaratiMeaning": "ચમકાવી રહ્યું છે",
+          "hindiMeaning": "चमका रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Shine",
+          "gujaratiPronunciation": "શાઇન",
+          "hindiPronunciation": "शाइन",
+          "gujaratiMeaning": "ચમકવું",
+          "hindiMeaning": "चमकना"
+        },
+        {
+          "word": "Buff",
+          "gujaratiPronunciation": "બફ",
+          "hindiPronunciation": "बफ",
+          "gujaratiMeaning": "ઘસીને સાફ કરવું",
+          "hindiMeaning": "रगड़कर चमकाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Tarnish",
+          "gujaratiPronunciation": "ટાર્નિશ",
+          "hindiPronunciation": "टार्निश",
+          "gujaratiMeaning": "કાટ લાગવો",
+          "hindiMeaning": "धूमिल करना"
+        },
+        {
+          "word": "Dull",
+          "gujaratiPronunciation": "ડલ",
+          "hindiPronunciation": "डल",
+          "gujaratiMeaning": "ઝાંખું કરવું",
+          "hindiMeaning": "फीका करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Polish (adj)",
+          "gujaratiPronunciation": "પોલિશ",
+          "hindiPronunciation": "पोलिश",
+          "gujaratiMeaning": "પોલેન્ડનો રહેવાસી",
+          "hindiMeaning": "पोलैंड का निवासी"
+        },
+        {
+          "word": "Police",
+          "gujaratiPronunciation": "પોલીસ",
+          "hindiPronunciation": "पुलिस",
+          "gujaratiMeaning": "પોલીસ",
+          "hindiMeaning": "पुलिस"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He spent the afternoon polishing his shoes.",
+          "gujaratiPronunciation": "હી સ્પેન્ટ ધ આફ્ટરનૂન પોલિશિંગ હીઝ શૂઝ.",
+          "hindiPronunciation": "ही स्पेंट द आफ्टरनून पॉलिशिंग हिज शूज़।",
+          "gujaratiTranslation": "તેણે બપોર પોતાના જૂતા પોલિશ કરવામાં વિતાવી.",
+          "hindiTranslation": "उसने दोपहर अपने जूते पॉलिश करने में बिताई।"
+        }
+      ]
+    },
+    {
+      "word": "Lubricate",
+      "gujaratiPronunciation": "લુબ્રિકેટ",
+      "hindiPronunciation": "लुब्रिकेट",
+      "gujaratiMeaning": "ઊંજવું",
+      "hindiMeaning": "चिकना करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Lubricate",
+          "gujaratiPronunciation": "લુબ્રિકેટ",
+          "hindiPronunciation": "लुब्रिकेट",
+          "gujaratiMeaning": "ઊંજવું",
+          "hindiMeaning": "चिकना करना"
+        },
+        "V2 (Past)": {
+          "word": "Lubricated",
+          "gujaratiPronunciation": "લુબ્રિકેટેડ",
+          "hindiPronunciation": "लुब्रिकेटेड",
+          "gujaratiMeaning": "ઊંજ્યું",
+          "hindiMeaning": "चिकना किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Lubricated",
+          "gujaratiPronunciation": "લુબ્રિકેટેડ",
+          "hindiPronunciation": "लुब्रिकेटेड",
+          "gujaratiMeaning": "ઊંજેલું",
+          "hindiMeaning": "चिकना किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Lubricating",
+          "gujaratiPronunciation": "લુબ્રિકેટિંગ",
+          "hindiPronunciation": "लुब्रिकेटिंग",
+          "gujaratiMeaning": "ઊંજી રહ્યું છે",
+          "hindiMeaning": "चिकना कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Grease",
+          "gujaratiPronunciation": "ગ્રીસ",
+          "hindiPronunciation": "ग्रीस",
+          "gujaratiMeaning": "ગ્રીસ લગાવવું",
+          "hindiMeaning": "ग्रीस लगाना"
+        },
+        {
+          "word": "Oil",
+          "gujaratiPronunciation": "ઓઇલ",
+          "hindiPronunciation": "ऑइल",
+          "gujaratiMeaning": "તેલ લગાવવું",
+          "hindiMeaning": "तेल लगाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Dry",
+          "gujaratiPronunciation": "ડ્રાય",
+          "hindiPronunciation": "ड्राई",
+          "gujaratiMeaning": "સૂકું કરવું",
+          "hindiMeaning": "सुखाना"
+        },
+        {
+          "word": "Clog",
+          "gujaratiPronunciation": "ક્લોગ",
+          "hindiPronunciation": "क्लॉग",
+          "gujaratiMeaning": "જામ કરવું",
+          "hindiMeaning": "अवरुद्ध करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Fabricate",
+          "gujaratiPronunciation": "ફેબ્રિકેટ",
+          "hindiPronunciation": "फैब्रिकेट",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "गढ़ना"
+        },
+        {
+          "word": "Lucrative",
+          "gujaratiPronunciation": "લ્યુક્રેટિવ",
+          "hindiPronunciation": "ल्यूक्रेटिव",
+          "gujaratiMeaning": "લાભદાયક",
+          "hindiMeaning": "लाभदायक"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to lubricate the chain on your bike.",
+          "gujaratiPronunciation": "યુ નીડ ટુ લુબ્રિકેટ ધ ચેઇન ઓન યોર બાઇક.",
+          "hindiPronunciation": "यू नीड टू लुब्रिकेट द चेन ऑन योर बाइक।",
+          "gujaratiTranslation": "તમારે તમારી બાઇકની ચેનને ઊંજવાની જરૂર છે.",
+          "hindiTranslation": "आपको अपनी बाइक की चेन को चिकना करने की जरूरत है।"
+        }
+      ]
+    },
+    {
+      "word": "Overhaul",
+      "gujaratiPronunciation": "ઓવરહોલ",
+      "hindiPronunciation": "ओवरहाल",
+      "gujaratiMeaning": "સંપૂર્ણ સમારકામ કરવું",
+      "hindiMeaning": "पूरी तरह से मरम्मत करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Overhaul",
+          "gujaratiPronunciation": "ઓવરહોલ",
+          "hindiPronunciation": "ओवरहाल",
+          "gujaratiMeaning": "સંપૂર્ણ સમારકામ કરવું",
+          "hindiMeaning": "पूरी तरह से मरम्मत करना"
+        },
+        "V2 (Past)": {
+          "word": "Overhauled",
+          "gujaratiPronunciation": "ઓવરહોલ્ડ",
+          "hindiPronunciation": "ओवरहाल्ड",
+          "gujaratiMeaning": "સંપૂર્ણ સમારકામ કર્યું",
+          "hindiMeaning": "पूरी तरह से मरम्मत की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Overhauled",
+          "gujaratiPronunciation": "ઓવરહોલ્ડ",
+          "hindiPronunciation": "ओवरहाल्ड",
+          "gujaratiMeaning": "સંપૂર્ણ સમારકામ કરેલું",
+          "hindiMeaning": "पूरी तरह से मरम्मत किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Overhauling",
+          "gujaratiPronunciation": "ઓવરહોલિંગ",
+          "hindiPronunciation": "ओवरहालिंग",
+          "gujaratiMeaning": "સંપૂર્ણ સમારકામ કરી રહ્યું છે",
+          "hindiMeaning": "पूरी तरह से मरम्मत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Revamp",
+          "gujaratiPronunciation": "રિવેમ્પ",
+          "hindiPronunciation": "रिवैंप",
+          "gujaratiMeaning": "નવીનીકરણ કરવું",
+          "hindiMeaning": "नया रूप देना"
+        },
+        {
+          "word": "Recondition",
+          "gujaratiPronunciation": "રિકન્ડિશન",
+          "hindiPronunciation": "रिकंडीशन",
+          "gujaratiMeaning": "ફરીથી સારી સ્થિતિમાં લાવવું",
+          "hindiMeaning": "फिर से ठीक करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Haul",
+          "gujaratiPronunciation": "હોલ",
+          "hindiPronunciation": "हॉल",
+          "gujaratiMeaning": "ખેંચવું",
+          "hindiMeaning": "खींचना"
+        },
+        {
+          "word": "Overall",
+          "gujaratiPronunciation": "ઓવરઓલ",
+          "hindiPronunciation": "ओवरऑल",
+          "gujaratiMeaning": "એકંદરે",
+          "hindiMeaning": "कुल मिलाकर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The mechanics will overhaul the engine.",
+          "gujaratiPronunciation": "ધ મિકેનિક્સ વિલ ઓવરહોલ ધ એન્જિન.",
+          "hindiPronunciation": "द मैकेनिक्स विल ओवरहाल द इंजन।",
+          "gujaratiTranslation": "મિકેનિક્સ એન્જિનનું સંપૂર્ણ સમારકામ કરશે.",
+          "hindiTranslation": "मैकेनिक्स इंजन की पूरी तरह से मरम्मत करेंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Preserve",
+      "gujaratiPronunciation": "પ્રિઝર્વ",
+      "hindiPronunciation": "प्रिजर्व",
+      "gujaratiMeaning": "સાચવવું",
+      "hindiMeaning": "संरक्षित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Preserve",
+          "gujaratiPronunciation": "પ્રિઝર્વ",
+          "hindiPronunciation": "प्रिजर्व",
+          "gujaratiMeaning": "સાચવવું",
+          "hindiMeaning": "संरक्षित करना"
+        },
+        "V2 (Past)": {
+          "word": "Preserved",
+          "gujaratiPronunciation": "પ્રિઝર્વ્ડ",
+          "hindiPronunciation": "प्रिजर्वड",
+          "gujaratiMeaning": "સાચવ્યું",
+          "hindiMeaning": "संरक्षित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Preserved",
+          "gujaratiPronunciation": "પ્રિઝર્વ્ડ",
+          "hindiPronunciation": "प्रिजर्वड",
+          "gujaratiMeaning": "સાચવેલું",
+          "hindiMeaning": "संरक्षित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Preserving",
+          "gujaratiPronunciation": "પ્રિઝર્વિંગ",
+          "hindiPronunciation": "प्रिजर्विंग",
+          "gujaratiMeaning": "સાચવી રહ્યું છે",
+          "hindiMeaning": "संरक्षित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Protect",
+          "gujaratiPronunciation": "પ્રોટેક્ટ",
+          "hindiPronunciation": "प्रोटेक्ट",
+          "gujaratiMeaning": "રક્ષણ કરવું",
+          "hindiMeaning": "रक्षा करना"
+        },
+        {
+          "word": "Conserve",
+          "gujaratiPronunciation": "કન્ઝર્વ",
+          "hindiPronunciation": "कंजर्व",
+          "gujaratiMeaning": "સંરક્ષણ કરવું",
+          "hindiMeaning": "संरक्षण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Destroy",
+          "gujaratiPronunciation": "ડિસ્ટ્રોય",
+          "hindiPronunciation": "डिस्ट्रॉय",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        },
+        {
+          "word": "Waste",
+          "gujaratiPronunciation": "વેસ્ટ",
+          "hindiPronunciation": "वेस्ट",
+          "gujaratiMeaning": "બગાડ કરવો",
+          "hindiMeaning": "बर्बाद करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Persevere",
+          "gujaratiPronunciation": "પર્સિવિયર",
+          "hindiPronunciation": "पर्सिवियर",
+          "gujaratiMeaning": "અડગ રહેવું",
+          "hindiMeaning": "दृढ़ रहना"
+        },
+        {
+          "word": "Reserve",
+          "gujaratiPronunciation": "રિઝર્વ",
+          "hindiPronunciation": "रिजर्व",
+          "gujaratiMeaning": "અનામત રાખવું",
+          "hindiMeaning": "आरक्षित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It's important to preserve historical buildings.",
+          "gujaratiPronunciation": "ઇટ્સ ઇમ્પોર્ટન્ટ ટુ પ્રિઝર્વ હિસ્ટોરિકલ બિલ્ડિંગ્સ.",
+          "hindiPronunciation": "इट्स इम्पोर्टेंट टू प्रिजर्व हिस्टोरिकल बिल्डिंग्स।",
+          "gujaratiTranslation": "ઐતિહાસિક ઇમારતોને સાચવવી મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "ऐतिहासिक इमारतों को संरक्षित करना महत्वपूर्ण है।"
+        }
+      ]
+    },
+    {
+      "word": "Ventilate",
+      "gujaratiPronunciation": "વેન્ટિલેટ",
+      "hindiPronunciation": "वेंटिलेट",
+      "gujaratiMeaning": "હવાની અવરજવર કરવી",
+      "hindiMeaning": "हवादार बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Ventilate",
+          "gujaratiPronunciation": "વેન્ટિલેટ",
+          "hindiPronunciation": "वेंटिलेट",
+          "gujaratiMeaning": "હવાની અવરજવર કરવી",
+          "hindiMeaning": "हवादार बनाना"
+        },
+        "V2 (Past)": {
+          "word": "Ventilated",
+          "gujaratiPronunciation": "વેન્ટિલેટેડ",
+          "hindiPronunciation": "वेंटिलेटेड",
+          "gujaratiMeaning": "હવાની અવરજવર કરી",
+          "hindiMeaning": "हवादार बनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Ventilated",
+          "gujaratiPronunciation": "વેન્ટિલેટેડ",
+          "hindiPronunciation": "वेंटिलेटेड",
+          "gujaratiMeaning": "હવાની અવરજવર કરેલી",
+          "hindiMeaning": "हवादार बनाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Ventilating",
+          "gujaratiPronunciation": "વેન્ટિલેટિંગ",
+          "hindiPronunciation": "वेंटिलेटिंग",
+          "gujaratiMeaning": "હવાની અવરજવર કરી રહ્યું છે",
+          "hindiMeaning": "हवादार बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Aerate",
+          "gujaratiPronunciation": "એરેટ",
+          "hindiPronunciation": "एरेट",
+          "gujaratiMeaning": "હવા દાખલ કરવી",
+          "hindiMeaning": "हवा भरना"
+        },
+        {
+          "word": "Air",
+          "gujaratiPronunciation": "એર",
+          "hindiPronunciation": "एयर",
+          "gujaratiMeaning": "હવા આપવી",
+          "hindiMeaning": "हवा देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Seal",
+          "gujaratiPronunciation": "સીલ",
+          "hindiPronunciation": "सील",
+          "gujaratiMeaning": "બંધ કરવું",
+          "hindiMeaning": "बंद करना"
+        },
+        {
+          "word": "Suffocate",
+          "gujaratiPronunciation": "સફોકેટ",
+          "hindiPronunciation": "सफोकेट",
+          "gujaratiMeaning": "ગૂંગળાવવું",
+          "hindiMeaning": "दम घोटना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Venerate",
+          "gujaratiPronunciation": "વેનરેટ",
+          "hindiPronunciation": "वेनरेट",
+          "gujaratiMeaning": "આદર કરવો",
+          "hindiMeaning": "सम्मान करना"
+        },
+        {
+          "word": "Venial",
+          "gujaratiPronunciation": "વેનિયલ",
+          "hindiPronunciation": "वेनियल",
+          "gujaratiMeaning": "ક્ષમાપાત્ર",
+          "hindiMeaning": "क्षमा करने योग्य"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Open the windows to ventilate the room.",
+          "gujaratiPronunciation": "ઓપન ધ વિન્ડોઝ ટુ વેન્ટિલેટ ધ રૂમ.",
+          "hindiPronunciation": "ओपन द विंडोज टू वेंटिलेट द रूम।",
+          "gujaratiTranslation": "રૂમમાં હવાની અવરજવર માટે બારીઓ ખોલો.",
+          "hindiTranslation": "कमरे को हवादार बनाने के लिए खिड़कियाँ खोलो।"
+        }
+      ]
+    }
+  ]
+}

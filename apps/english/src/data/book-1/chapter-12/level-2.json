@@ -1,0 +1,46 @@
+{
+  "id": "level-2",
+  "title": "Crops 2",
+  "words": [
+    {
+      "word": "Oats",
+      "icon": "🥣",
+      "gujaratiPronunciation": "ઓટ્સ",
+      "hindiPronunciation": "ओट्स",
+      "gujaratiMeaning": "ઓટ્સ",
+      "hindiMeaning": "जई"
+    },
+    {
+      "word": "Millet",
+      "icon": "🌾",
+      "gujaratiPronunciation": "મિલિટ",
+      "hindiPronunciation": "मिलेट",
+      "gujaratiMeaning": "બાજરી",
+      "hindiMeaning": "बाजरा"
+    },
+    {
+      "word": "Rye",
+      "icon": "🌾",
+      "gujaratiPronunciation": "રાઇ",
+      "hindiPronunciation": "राई",
+      "gujaratiMeaning": "રાઈ",
+      "hindiMeaning": "राई"
+    },
+    {
+      "word": "Buckwheat",
+      "icon": "🌾",
+      "gujaratiPronunciation": "બકવ્હીટ",
+      "hindiPronunciation": "बकव्हीट",
+      "gujaratiMeaning": "કુટ્ટુ",
+      "hindiMeaning": "कुट्टू"
+    },
+    {
+      "word": "Quinoa",
+      "icon": "🥣",
+      "gujaratiPronunciation": "કિન્વા",
+      "hindiPronunciation": "क्विनोआ",
+      "gujaratiMeaning": "ક્વિનોઆ",
+      "hindiMeaning": "क्विनोआ"
+    }
+  ]
+}

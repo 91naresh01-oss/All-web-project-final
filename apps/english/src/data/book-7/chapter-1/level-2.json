@@ -1,0 +1,141 @@
+{
+    "id": "level-2",
+    "title": "Level 2",
+    "words": [
+        {
+            "word": "Monitor",
+            "gujaratiPronunciation": "મૉનિટર",
+            "gujaratiMeaning": "દેખરેખ રાખવી, નિરીક્ષણ કરવું",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Monitor", "gujaratiPronunciation": "મૉનિટર", "gujaratiMeaning": "દેખરેખ રાખવી" },
+                "V2 (Past)": { "word": "Monitored", "gujaratiPronunciation": "મૉનિટર્ડ", "gujaratiMeaning": "દેખરેખ રાખી" },
+                "V3 (Past Participle)": { "word": "Monitored", "gujaratiPronunciation": "મૉનિટર્ડ", "gujaratiMeaning": "દેખરેખ રાખેલી" },
+                "V4 (Present Participle)": { "word": "Monitoring", "gujaratiPronunciation": "મૉનિટરિંગ", "gujaratiMeaning": "દેખરેખ રાખી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Observe", "gujaratiPronunciation": "ઓબ્ઝર્વ", "gujaratiMeaning": "નિરીક્ષણ કરવું" },
+                { "word": "Track", "gujaratiPronunciation": "ટ્રેક", "gujaratiMeaning": "નજર રાખવી" }
+            ],
+            "antonyms": [
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "gujaratiMeaning": "અવગણના કરવી" },
+                { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "gujaratiMeaning": "ઉપેક્ષા કરવી" }
+            ],
+            "confusingWords": [
+                { "word": "Monster", "gujaratiPronunciation": "મોન્સ્ટર", "gujaratiMeaning": "રાક્ષસ" },
+                { "word": "Mentor", "gujaratiPronunciation": "મેન્ટર", "gujaratiMeaning": "માર્ગદર્શક" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The doctors will monitor the patient's condition.", "gujaratiPronunciation": "ધ ડૉક્ટર્સ વિલ મૉનિટર ધ પેશન્ટ્સ કન્ડિશન", "gujaratiTranslation": "ડૉક્ટરો દર્દીની સ્થિતિ પર દેખરેખ રાખશે." }
+            ]
+        },
+        {
+            "word": "Threaten",
+            "gujaratiPronunciation": "થ્રેટન",
+            "gujaratiMeaning": "ધમકી આપવી",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Threaten", "gujaratiPronunciation": "થ્રેટન", "gujaratiMeaning": "ધમકી આપવી" },
+                "V2 (Past)": { "word": "Threatened", "gujaratiPronunciation": "થ્રેટન્ડ", "gujaratiMeaning": "ધમકી આપી" },
+                "V3 (Past Participle)": { "word": "Threatened", "gujaratiPronunciation": "થ્રેટન્ડ", "gujaratiMeaning": "ધમકી આપેલી" },
+                "V4 (Present Participle)": { "word": "Threatening", "gujaratiPronunciation": "થ્રેટનિંગ", "gujaratiMeaning": "ધમકી આપી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Intimidate", "gujaratiPronunciation": "ઇન્ટિમિડેટ", "gujaratiMeaning": "ડરાવવું" },
+                { "word": "Menace", "gujaratiPronunciation": "મેનેસ", "gujaratiMeaning": "ખતરો બનવું" }
+            ],
+            "antonyms": [
+                { "word": "Comfort", "gujaratiPronunciation": "કમ્ફર્ટ", "gujaratiMeaning": "આરામ આપવો" },
+                { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "gujaratiMeaning": "રક્ષણ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Threaden", "gujaratiPronunciation": "થ્રેડન", "gujaratiMeaning": "દોરાથી બનાવવું (કાલ્પનિક)" },
+                { "word": "Tighten", "gujaratiPronunciation": "ટાઇટન", "gujaratiMeaning": "કસવું" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The bully threatened to hit the smaller boy.", "gujaratiPronunciation": "ધ બુલી થ્રેટન્ડ ટુ હિટ ધ સ્મોલર બોય", "gujaratiTranslation": "ગુંડાએ નાના છોકરાને મારવાની ધમકી આપી." }
+            ]
+        },
+        {
+            "word": "Deter",
+            "gujaratiPronunciation": "ડિટર",
+            "gujaratiMeaning": "અટકાવવું, રોકવું",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Deter", "gujaratiPronunciation": "ડિટર", "gujaratiMeaning": "અટકાવવું" },
+                "V2 (Past)": { "word": "Deterred", "gujaratiPronunciation": "ડિટર્ડ", "gujaratiMeaning": "અટકાવ્યું" },
+                "V3 (Past Participle)": { "word": "Deterred", "gujaratiPronunciation": "ડિટર્ડ", "gujaratiMeaning": "અટકાવેલું" },
+                "V4 (Present Participle)": { "word": "Deterring", "gujaratiPronunciation": "ડિટરિંગ", "gujaratiMeaning": "અટકાવી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Discourage", "gujaratiPronunciation": "ડિસ્કરેજ", "gujaratiMeaning": "નિરાશ કરવું" },
+                { "word": "Prevent", "gujaratiPronunciation": "પ્રિવેન્ટ", "gujaratiMeaning": "રોકવું" }
+            ],
+            "antonyms": [
+                { "word": "Encourage", "gujaratiPronunciation": "એન્કરેજ", "gujaratiMeaning": "પ્રોત્સાહન આપવું" },
+                { "word": "Incite", "gujaratiPronunciation": "ઇન્સાઇટ", "gujaratiMeaning": "ઉશ્કેરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Date", "gujaratiPronunciation": "ડેટ", "gujaratiMeaning": "તારીખ, ખજૂર" },
+                { "word": "Debtor", "gujaratiPronunciation": "ડેટર", "gujaratiMeaning": "દેવાદાર" }
+            ],
+            "exampleSentences": [
+                { "sentence": "High fences can deter thieves.", "gujaratiPronunciation": "હાઇ ફેન્સિસ કેન ડિટર થીવ્સ", "gujaratiTranslation": "ઊંચી વાડ ચોરોને અટકાવી શકે છે." }
+            ]
+        },
+        {
+            "word": "Escape",
+            "gujaratiPronunciation": "એસ્કેપ",
+            "gujaratiMeaning": "બચી જવું, નાસી જવું",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Escape", "gujaratiPronunciation": "એસ્કેપ", "gujaratiMeaning": "બચી જવું" },
+                "V2 (Past)": { "word": "Escaped", "gujaratiPronunciation": "એસ્કેપ્ડ", "gujaratiMeaning": "બચી ગયું" },
+                "V3 (Past Participle)": { "word": "Escaped", "gujaratiPronunciation": "એસ્કેપ્ડ", "gujaratiMeaning": "બચી ગયેલું" },
+                "V4 (Present Participle)": { "word": "Escaping", "gujaratiPronunciation": "એસ્કેપિંગ", "gujaratiMeaning": "બચી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Flee", "gujaratiPronunciation": "ફ્લી", "gujaratiMeaning": "ભાગી જવું" },
+                { "word": "Evade", "gujaratiPronunciation": "ઇવેડ", "gujaratiMeaning": "ટાળવું" }
+            ],
+            "antonyms": [
+                { "word": "Confront", "gujaratiPronunciation": "કન્ફ્રન્ટ", "gujaratiMeaning": "સામનો કરવો" },
+                { "word": "Face", "gujaratiPronunciation": "ફેસ", "gujaratiMeaning": "સામનો કરવો" }
+            ],
+            "confusingWords": [
+                { "word": "Shape", "gujaratiPronunciation": "શેપ", "gujaratiMeaning": "આકાર" },
+                { "word": "Es-cape", "gujaratiPronunciation": "એસ-કેપ", "gujaratiMeaning": "(કોઈ અર્થ નથી)" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The prisoner tried to escape from jail.", "gujaratiPronunciation": "ધ પ્રિઝનર ટ્રાઇડ ટુ એસ્કેપ ફ્રોમ જેલ", "gujaratiTranslation": "કેદીએ જેલમાંથી ભાગવાનો પ્રયાસ કર્યો." }
+            ]
+        },
+        {
+            "word": "Safeguard",
+            "gujaratiPronunciation": "સેફગાર્ડ",
+            "gujaratiMeaning": "રક્ષણ કરવું, સુરક્ષિત રાખવું",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Safeguard", "gujaratiPronunciation": "સેફગાર્ડ", "gujaratiMeaning": "રક્ષણ કરવું" },
+                "V2 (Past)": { "word": "Safeguarded", "gujaratiPronunciation": "સેફગાર્ડેડ", "gujaratiMeaning": "રક્ષણ કર્યું" },
+                "V3 (Past Participle)": { "word": "Safeguarded", "gujaratiPronunciation": "સેફગાર્ડેડ", "gujaratiMeaning": "રક્ષણ કરેલું" },
+                "V4 (Present Participle)": { "word": "Safeguarding", "gujaratiPronunciation": "સેફગાર્ડિંગ", "gujaratiMeaning": "રક્ષણ કરી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "gujaratiMeaning": "બચાવવું" },
+                { "word": "Preserve", "gujaratiPronunciation": "પ્રિઝર્વ", "gujaratiMeaning": "જાળવી રાખવું" }
+            ],
+            "antonyms": [
+                { "word": "Jeopardize", "gujaratiPronunciation": "જેપર્ડાઇઝ", "gujaratiMeaning": "જોખમમાં નાખવું" },
+                { "word": "Threaten", "gujaratiPronunciation": "થ્રેટન", "gujaratiMeaning": "ધમકી આપવી" }
+            ],
+            "confusingWords": [
+                { "word": "Safe guard", "gujaratiPronunciation": "સેફ ગાર્ડ", "gujaratiMeaning": "સુરક્ષિત રક્ષક" },
+                { "word": "Save guard", "gujaratiPronunciation": "સેવ ગાર્ડ", "gujaratiMeaning": "બચાવ રક્ષક" }
+            ],
+            "exampleSentences": [
+                { "sentence": "We must safeguard our cultural heritage.", "gujaratiPronunciation": "વી મસ્ટ સેફગાર્ડ અવર કલ્ચરલ હેરિટેજ", "gujaratiTranslation": "આપણે આપણા સાંસ્કૃતિક વારસાનું રક્ષણ કરવું જોઈએ." }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "chapter-3",
+  "title": "Travel & Navigation ✈️",
+  "gujaratiTitle": "મુસાફરી અને નેવિગેશન ✈️",
+  "hindiTitle": "यात्रा और नेविगेशन ✈️",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" },
+    { "id": "level-5" }
+  ]
+}

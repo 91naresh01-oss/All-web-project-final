@@ -1,0 +1,167 @@
+{
+  "id": "level-4",
+  "title": "Level 4: Fundamental Transformation",
+  "words": [
+    {
+      "word": "Revitalize",
+      "gujaratiPronunciation": "રિવાઇટલાઇઝ",
+      "hindiPronunciation": "रिवाइटलाइज़",
+      "gujaratiMeaning": "પુનર્જીવિત કરવું",
+      "hindiMeaning": "पुनर्जीवित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Revitalize", "gujaratiPronunciation": "રિવાઇટલાઇઝ", "hindiPronunciation": "रिवाइटलाइज़", "gujaratiMeaning": "પુનર્જીવિત કરવું", "hindiMeaning": "पुनर्जीवित करना" },
+        "V2 (Past)": { "word": "Revitalized", "gujaratiPronunciation": "રિવાઇટલાઇઝ્ડ", "hindiPronunciation": "रिवाइटलाइज़्ड", "gujaratiMeaning": "પુનર્જીવિત કર્યું", "hindiMeaning": "पुनर्जीवित किया" },
+        "V3 (Past Participle)": { "word": "Revitalized", "gujaratiPronunciation": "રિવાઇટલાઇઝ્ડ", "hindiPronunciation": "रिवाइटलाइज़्ड", "gujaratiMeaning": "પુનર્જીવિત કરેલું", "hindiMeaning": "पुनर्जीवित" },
+        "V4 (Present Participle)": { "word": "Revitalizing", "gujaratiPronunciation": "રિવાઇટલાઇઝિંગ", "hindiPronunciation": "रिवाइटलाइजिंग", "gujaratiMeaning": "પુનર્જીવિત કરી રહ્યું છે", "hindiMeaning": "पुनर्जीवित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Rejuvenate", "gujaratiPronunciation": "રિજુવિનેટ", "hindiPronunciation": "रेजुविनेट", "gujaratiMeaning": "નવજીવન આપવું", "hindiMeaning": "नया जीवन देना" },
+        { "word": "Refresh", "gujaratiPronunciation": "રિફ્રેશ", "hindiPronunciation": "रिफ्रेश", "gujaratiMeaning": "તાજું કરવું", "hindiMeaning": "ताज़ा करना" }
+      ],
+      "antonyms": [
+        { "word": "Deplete", "gujaratiPronunciation": "ડિપ્લીટ", "hindiPronunciation": "डिप्लीट", "gujaratiMeaning": "ખલાસ કરવું", "hindiMeaning": "समाप्त करना" },
+        { "word": "Weaken", "gujaratiPronunciation": "વીકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमजोर करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The new project will revitalize the city center.",
+          "gujaratiTranslation": "નવો પ્રોજેક્ટ શહેરના કેન્દ્રને પુનર્જીવિત કરશે.",
+          "hindiTranslation": "नया प्रोजेक्ट शहर के केंद्र को पुनर्जीवित करेगा।",
+          "gujaratiPronunciation": "ધ ન્યૂ પ્રોજેક્ટ વિલ રિવાઇટલાઇઝ ધ સિટી સેન્ટર.",
+          "hindiPronunciation": "द न्यू प्रोजेक्ट विल रिवाइटलाइज़ द सिटी सेंटर।"
+        }
+
+      ]
+    },
+    {
+      "word": "Transform",
+      "gujaratiPronunciation": "ટ્રાન્સફોર્મ",
+      "hindiPronunciation": "ट्रांसफॉर्म",
+      "gujaratiMeaning": "રૂપાંતર કરવું",
+      "hindiMeaning": "रूपांतरित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Transform", "gujaratiPronunciation": "ટ્રાન્સફોર્મ", "hindiPronunciation": "ट्रांसफॉर्म", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "रूपांतरित करना" },
+        "V2 (Past)": { "word": "Transformed", "gujaratiPronunciation": "ટ્રાન્સફોર્મ્ડ", "hindiPronunciation": "ट्रांसफॉर्म्ड", "gujaratiMeaning": "રૂપાંતર કર્યું", "hindiMeaning": "रूपांतरित किया" },
+        "V3 (Past Participle)": { "word": "Transformed", "gujaratiPronunciation": "ટ્રાન્સફોર્મ્ડ", "hindiPronunciation": "ट्रांसफॉर्म्ड", "gujaratiMeaning": "રૂપાંતરિત", "hindiMeaning": "रूपांतरित" },
+        "V4 (Present Participle)": { "word": "Transforming", "gujaratiPronunciation": "ટ્રાન્સફોર્મિંગ", "hindiPronunciation": "ट्रांसफॉर्मिंग", "gujaratiMeaning": "રૂપાંતર કરી રહ્યું છે", "hindiMeaning": "रूपांतरित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Change", "gujaratiPronunciation": "ચેન્જ", "hindiPronunciation": "चेंज", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" },
+        { "word": "Convert", "gujaratiPronunciation": "કન્વર્ટ", "hindiPronunciation": "कन्वर्ट", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "बदलना" }
+      ],
+      "antonyms": [
+        { "word": "Preserve", "gujaratiPronunciation": "પ્રિઝર્વ", "hindiPronunciation": "प्रिजर्व", "gujaratiMeaning": "જાળવવું", "hindiMeaning": "संरक्षित करना" },
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Technology has transformed our lives.",
+          "gujaratiTranslation": "ટેકનોલોજીએ આપણા જીવનનું રૂપાંતર કર્યું છે.",
+          "hindiTranslation": "प्रौद्योगिकी ने हमारे जीवन को बदल दिया है।",
+          "gujaratiPronunciation": "ટેકનોલોજી હેઝ ટ્રાન્સફોર્મ્ડ અવર લાઇવ્સ.",
+          "hindiPronunciation": "टेक्नोलॉजी हैज़ ट्रांसफॉर्म्ड आवर लाइव्स।"
+        }
+      ]
+    },
+    {
+      "word": "Replicate",
+      "gujaratiPronunciation": "રેપ્લિકેટ",
+      "hindiPronunciation": "रेप्लिकेट",
+      "gujaratiMeaning": "નકલ બનાવવી, પુનરાવર્તન કરવું",
+      "hindiMeaning": "प्रतिकृति बनाना, दोहराना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Replicate", "gujaratiPronunciation": "રેપ્લિકેટ", "hindiPronunciation": "रेप्लिकेट", "gujaratiMeaning": "નકલ બનાવવી", "hindiMeaning": "प्रतिकृति बनाना" },
+        "V2 (Past)": { "word": "Replicated", "gujaratiPronunciation": "રેપ્લિકેટેડ", "hindiPronunciation": "रेप्लिकेटेड", "gujaratiMeaning": "નકલ બનાવી", "hindiMeaning": "प्रतिकृति बनाई" },
+        "V3 (Past Participle)": { "word": "Replicated", "gujaratiPronunciation": "રેપ્લિકેટેડ", "hindiPronunciation": "रेप्लिकेटेड", "gujaratiMeaning": "નકલ બનાવેલી", "hindiMeaning": "प्रतिकृति" },
+        "V4 (Present Participle)": { "word": "Replicating", "gujaratiPronunciation": "રેપ્લિકેટિંગ", "hindiPronunciation": "रेप्लिकेटिंग", "gujaratiMeaning": "નકલ બનાવી રહ્યું છે", "hindiMeaning": "प्रतिकृति बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Duplicate", "gujaratiPronunciation": "ડુપ્લિકેટ", "hindiPronunciation": "डुप्लिकेट", "gujaratiMeaning": "નકલ બનાવવી", "hindiMeaning": "नकल बनाना" },
+        { "word": "Copy", "gujaratiPronunciation": "કોપી", "hindiPronunciation": "कॉपी", "gujaratiMeaning": "નકલ કરવી", "hindiMeaning": "नकल करना" }
+      ],
+      "antonyms": [
+        { "word": "Originate", "gujaratiPronunciation": "ઓરિજિનેટ", "hindiPronunciation": "ओरिजिनेट", "gujaratiMeaning": "ઉત્પન્ન કરવું", "hindiMeaning": "उत्पन्न करना" },
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "It is difficult to replicate the results of the experiment.",
+          "gujaratiTranslation": "પ્રયોગના પરિણામોની નકલ બનાવવી મુશ્કેલ છે.",
+          "hindiTranslation": "प्रयोग के परिणामों की प्रतिकृति बनाना मुश्किल है।",
+          "gujaratiPronunciation": "ઇટ ઇઝ ડિફિકલ્ટ ટુ રેપ્લિકેટ ધ રિઝલ્ટ્સ ઓફ ધ એક્સપેરિમેન્ટ.",
+          "hindiPronunciation": "इट इज़ डिफिकल्ट टू रेप्लिकेट द रिजल्ट्स ऑफ़ द एक्सपेरिमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Subvert",
+      "gujaratiPronunciation": "સબવર્ટ",
+      "hindiPronunciation": "सबवर्ट",
+      "gujaratiMeaning": "ઉથલાવી દેવું, નબળું પાડવું",
+      "hindiMeaning": "उखाड़ फेंकना, कमजोर करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Subvert", "gujaratiPronunciation": "સબવર્ટ", "hindiPronunciation": "सबवर्ट", "gujaratiMeaning": "ઉથલાવી દેવું", "hindiMeaning": "उखाड़ फेंकना" },
+        "V2 (Past)": { "word": "Subverted", "gujaratiPronunciation": "સબવર્ટેડ", "hindiPronunciation": "सबवर्टेड", "gujaratiMeaning": "ઉથલાવી દીધું", "hindiMeaning": "उखाड़ फेंका" },
+        "V3 (Past Participle)": { "word": "Subverted", "gujaratiPronunciation": "સબવર્ટેડ", "hindiPronunciation": "सबवर्टेड", "gujaratiMeaning": "ઉથલાવી દીધેલું", "hindiMeaning": "उखाड़ा हुआ" },
+        "V4 (Present Participle)": { "word": "Subverting", "gujaratiPronunciation": "સબવર્ટિંગ", "hindiPronunciation": "सबवर्टिंग", "gujaratiMeaning": "ઉથલાવી રહ્યું છે", "hindiMeaning": "उखाड़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Undermine", "gujaratiPronunciation": "અન્ડરમાઇન", "hindiPronunciation": "अंडरमाइन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमजोर करना" },
+        { "word": "Overthrow", "gujaratiPronunciation": "ઓવરથ્રો", "hindiPronunciation": "ओवरथ्रो", "gujaratiMeaning": "ઉથલાવી દેવું", "hindiMeaning": "उखाड़ फेंकना" }
+      ],
+      "antonyms": [
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" },
+        { "word": "Uphold", "gujaratiPronunciation": "અપહોલ્ડ", "hindiPronunciation": "अपहोल्ड", "gujaratiMeaning": "ટેકો આપવો", "hindiMeaning": "बनाए रखना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "They tried to subvert the government.",
+          "gujaratiTranslation": "તેઓએ સરકારને ઉથલાવી દેવાનો પ્રયાસ કર્યો.",
+          "hindiTranslation": "उन्होंने सरकार को उखाड़ फेंकने की कोशिश की।",
+          "gujaratiPronunciation": "ધે ટ્રાઇડ ટુ સબવર્ટ ધ ગવર્નમેન્ટ.",
+          "hindiPronunciation": "दे ट्राइड टू सबवर्ट द गवर्नमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Revolutionize",
+      "gujaratiPronunciation": "રેવોલ્યુશનાઇઝ",
+      "hindiPronunciation": "रेवोल्यूशनाइज़",
+      "gujaratiMeaning": "ક્રાંતિ લાવવી",
+      "hindiMeaning": "क्रांति लाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Revolutionize", "gujaratiPronunciation": "રેવોલ્યુશનાઇઝ", "hindiPronunciation": "रेवोल्यूशनाइज़", "gujaratiMeaning": "ક્રાંતિ લાવવી", "hindiMeaning": "क्रांति लाना" },
+        "V2 (Past)": { "word": "Revolutionized", "gujaratiPronunciation": "રેવોલ્યુશનાઇઝ્ડ", "hindiPronunciation": "रेवोल्यूशनाइज़्ड", "gujaratiMeaning": "ક્રાંતિ લાવી", "hindiMeaning": "क्रांति लाई" },
+        "V3 (Past Participle)": { "word": "Revolutionized", "gujaratiPronunciation": "રેવોલ્યુશનાઇઝ્ડ", "hindiPronunciation": "रेवोल्यूशनाइज़्ड", "gujaratiMeaning": "ક્રાંતિ લાવેલ", "hindiMeaning": "क्रांतिकारी" },
+        "V4 (Present Participle)": { "word": "Revolutionizing", "gujaratiPronunciation": "રેવોલ્યુશનાઇઝિંગ", "hindiPronunciation": "रेवोल्यूशनाइजिंग", "gujaratiMeaning": "ક્રાંતિ લાવી રહ્યું છે", "hindiMeaning": "क्रांति ला रहा है" }
+      },
+      "synonyms": [
+        { "word": "Transform", "gujaratiPronunciation": "ટ્રાન્સફોર્મ", "hindiPronunciation": "ट्रांसफॉर्म", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "रूपांतरित करना" },
+        { "word": "Overhaul", "gujaratiPronunciation": "ઓવરહોલ", "hindiPronunciation": "ओवरहॉल", "gujaratiMeaning": "સંપૂર્ણપણે સુધારવું", "hindiMeaning": "पूरी तरह से सुधारना" }
+      ],
+      "antonyms": [
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" },
+        { "word": "Preserve", "gujaratiPronunciation": "પ્રિઝર્વ", "hindiPronunciation": "प्रिजर्व", "gujaratiMeaning": "જાળવવું", "hindiMeaning": "संरक्षित करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The internet will revolutionize the way we work.",
+          "gujaratiTranslation": "ઇન્ટરનેટ આપણી કામ કરવાની રીતમાં ક્રાંતિ લાવશે.",
+          "hindiTranslation": "इंटरनेट हमारे काम करने के तरीके में क्रांति लाएगा।",
+          "gujaratiPronunciation": "ધ ઇન્ટરનેટ વિલ રેવોલ્યુશનાઇઝ ધ વે વી વર્ક.",
+          "hindiPronunciation": "द इंटरनेट विल रेवोल्यूशनाइज़ द वे वी वर्क।"
+        }
+      ]
+    }
+  ]
+}

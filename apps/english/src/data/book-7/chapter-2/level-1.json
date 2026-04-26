@@ -1,0 +1,372 @@
+
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Save",
+            "gujaratiPronunciation": "સેવ",
+            "hindiPronunciation": "सेव",
+            "gujaratiMeaning": "બચાવવું",
+            "hindiMeaning": "बचाना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Save",
+                    "pronunciation": "સેવ",
+                    "meaning": "બચાવવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Saved",
+                    "pronunciation": "સેવ્ડ",
+                    "meaning": "બચાવ્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Saved",
+                    "pronunciation": "સેવ્ડ",
+                    "meaning": "બચાવેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Saving",
+                    "pronunciation": "સેવિંગ",
+                    "meaning": "બચાવી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Preserve",
+                    "pronunciation": "પ્રિઝર્વ",
+                    "meaning": "સાચવવું"
+                },
+                {
+                    "word": "Keep",
+                    "pronunciation": "કીપ",
+                    "meaning": "રાખવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Spend",
+                    "pronunciation": "સ્પેન્ડ",
+                    "meaning": "ખર્ચવું"
+                },
+                {
+                    "word": "Delete",
+                    "pronunciation": "ડિલીટ",
+                    "meaning": "ભૂંસી નાખવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Shave",
+                    "pronunciation": "શેવ",
+                    "meaning": "હજામત કરવી"
+                },
+                {
+                    "word": "Cave",
+                    "pronunciation": "કેવ",
+                    "meaning": "ગુફા"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Remember to save your document before closing the application.",
+                    "gujaratiTranslation": "એપ્લિકેશન બંધ કરતા પહેલાં તમારો દસ્તાવેજ સાચવવાનું યાદ રાખો.",
+                    "hindiTranslation": "एप्लिकेशन बंद करने से पहले अपने दस्तावेज़ को सहेजना याद रखें।"
+                }
+            ]
+        },
+        {
+            "word": "Enter",
+            "gujaratiPronunciation": "એન્ટર",
+            "hindiPronunciation": "एंटर",
+            "gujaratiMeaning": "દાખલ કરવું",
+            "hindiMeaning": "प्रवेश करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Enter",
+                    "pronunciation": "એન્ટર",
+                    "meaning": "દાખલ કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Entered",
+                    "pronunciation": "એન્ટર્ડ",
+                    "meaning": "દાખલ કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Entered",
+                    "pronunciation": "એન્ટર્ડ",
+                    "meaning": "દાખલ કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Entering",
+                    "pronunciation": "એન્ટરિંગ",
+                    "meaning": "દાખલ કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Input",
+                    "pronunciation": "ઇનપુટ",
+                    "meaning": "માહિતી દાખલ કરવી"
+                },
+                {
+                    "word": "Record",
+                    "pronunciation": "રેકોર્ડ",
+                    "meaning": "નોંધવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Exit",
+                    "pronunciation": "એક્ઝિટ",
+                    "meaning": "બહાર નીકળવું"
+                },
+                {
+                    "word": "Erase",
+                    "pronunciation": "ઇરેઝ",
+                    "meaning": "ભૂંસી નાખવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Center",
+                    "pronunciation": "સેન્ટર",
+                    "meaning": "કેન્દ્ર"
+                },
+                {
+                    "word": "Intern",
+                    "pronunciation": "ઇન્ટર્ન",
+                    "meaning": "તાલીમાર્થી"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Please enter your password to access the system.",
+                    "gujaratiTranslation": "સિસ્ટમ ઍક્સેસ કરવા માટે કૃપા કરીને તમારો પાસવર્ડ દાખલ કરો.",
+                    "hindiTranslation": "सिस्टम तक पहुँचने के लिए कृपया अपना पासवर्ड दर्ज करें।"
+                }
+            ]
+        },
+        {
+            "word": "Collect",
+            "gujaratiPronunciation": "કલેક્ટ",
+            "hindiPronunciation": "कलेक्ट",
+            "gujaratiMeaning": "એકત્ર કરવું",
+            "hindiMeaning": "एकत्र करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Collect",
+                    "pronunciation": "કલેક્ટ",
+                    "meaning": "એકત્ર કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Collected",
+                    "pronunciation": "કલેક્ટેડ",
+                    "meaning": "એકત્ર કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Collected",
+                    "pronunciation": "કલેક્ટેડ",
+                    "meaning": "એકત્ર કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Collecting",
+                    "pronunciation": "કલેક્ટિંગ",
+                    "meaning": "એકત્ર કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Gather",
+                    "pronunciation": "ગેધર",
+                    "meaning": "ભેગું કરવું"
+                },
+                {
+                    "word": "Assemble",
+                    "pronunciation": "એસેમ્બલ",
+                    "meaning": "એકઠું કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Distribute",
+                    "pronunciation": "ડિસ્ટ્રિબ્યુટ",
+                    "meaning": "વહેંચવું"
+                },
+                {
+                    "word": "Scatter",
+                    "pronunciation": "સ્કેટર",
+                    "meaning": "વિખેરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Correct",
+                    "pronunciation": "કરેક્ટ",
+                    "meaning": "સાચું"
+                },
+                {
+                    "word": "Connect",
+                    "pronunciation": "કનેક્ટ",
+                    "meaning": "જોડવું"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The survey aims to collect data from over a thousand participants.",
+                    "gujaratiTranslation": "આ સર્વેનો હેતુ એક હજારથી વધુ સહભાગીઓ પાસેથી ડેટા એકત્રિત કરવાનો છે.",
+                    "hindiTranslation": "सर्वेक्षण का उद्देश्य एक हजार से अधिक प्रतिभागियों से डेटा एकत्र करना है।"
+                }
+            ]
+        },
+        {
+            "word": "Sort",
+            "gujaratiPronunciation": "સૉર્ટ",
+            "hindiPronunciation": "सॉर्ट",
+            "gujaratiMeaning": "વર્ગીકરણ કરવું",
+            "hindiMeaning": "वर्गीकृत करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Sort",
+                    "pronunciation": "સૉર્ટ",
+                    "meaning": "વર્ગીકરણ કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Sorted",
+                    "pronunciation": "સૉર્ટેડ",
+                    "meaning": "વર્ગીકરણ કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Sorted",
+                    "pronunciation": "સૉર્ટેડ",
+                    "meaning": "વર્ગીકરણ કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Sorting",
+                    "pronunciation": "સૉર્ટિંગ",
+                    "meaning": "વર્ગીકરણ કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Organize",
+                    "pronunciation": "ઓર્ગેનાઇઝ",
+                    "meaning": "ગોઠવવું"
+                },
+                {
+                    "word": "Classify",
+                    "pronunciation": "ક્લાસિફાય",
+                    "meaning": "વર્ગીકૃત કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Jumble",
+                    "pronunciation": "જમ્બલ",
+                    "meaning": "ગૂંચવવું"
+                },
+                {
+                    "word": "Disorganize",
+                    "pronunciation": "ડિસઓર્ગેનાઇઝ",
+                    "meaning": "અસ્તવ્યસ્ત કરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Short",
+                    "pronunciation": "શોર્ટ",
+                    "meaning": "ટૂંકું"
+                },
+                {
+                    "word": "Sport",
+                    "pronunciation": "સ્પોર્ટ",
+                    "meaning": "રમત"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "You can sort the files by date or by name.",
+                    "gujaratiTranslation": "તમે ફાઇલોને તારીખ અથવા નામ દ્વારા વર્ગીકૃત કરી શકો છો.",
+                    "hindiTranslation": "आप फ़ाइलों को दिनांक या नाम के अनुसार छाँट सकते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Document",
+            "gujaratiPronunciation": "ડૉક્યુમેન્ટ",
+            "hindiPronunciation": "डॉक्यूमेंट",
+            "gujaratiMeaning": "દસ્તાવેજીકરણ કરવું",
+            "hindiMeaning": "दस्तावेज़ीकरण करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Document",
+                    "pronunciation": "ડૉક્યુમેન્ટ",
+                    "meaning": "દસ્તાવેજીકરણ કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Documented",
+                    "pronunciation": "ડૉક્યુમેન્ટેડ",
+                    "meaning": "દસ્તાવેજીકરણ કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Documented",
+                    "pronunciation": "ડૉક્યુમેન્ટેડ",
+                    "meaning": "દસ્તાવેજીકરણ કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Documenting",
+                    "pronunciation": "ડૉક્યુમેન્ટિંગ",
+                    "meaning": "દસ્તાવેજીકરણ કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Record",
+                    "pronunciation": "રેકોર્ડ",
+                    "meaning": "નોંધવું"
+                },
+                {
+                    "word": "Log",
+                    "pronunciation": "લૉગ",
+                    "meaning": "નોંધ રાખવી"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Conceal",
+                    "pronunciation": "કન્સીલ",
+                    "meaning": "છુપાવવું"
+                },
+                {
+                    "word": "Obscure",
+                    "pronunciation": "ઓબ્સ્ક્યોર",
+                    "meaning": "અસ્પષ્ટ કરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Argument",
+                    "pronunciation": "આર્ગ્યુમેન્ટ",
+                    "meaning": "દલીલ"
+                },
+                {
+                    "word": "Do comment",
+                    "pronunciation": "ડુ કમેન્ટ",
+                    "meaning": "ટિપ્પણી કરો"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "It is important to document all the steps in the experiment.",
+                    "gujaratiTranslation": "પ્રયોગના તમામ પગલાંનું દસ્તાવેજીકરણ કરવું મહત્વપૂર્ણ છે.",
+                    "hindiTranslation": "प्रयोग के सभी चरणों का दस्तावेजीकरण करना महत्वपूर्ण है।"
+                }
+            ]
+        }
+    ]
+}

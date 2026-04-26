@@ -1,0 +1,176 @@
+{
+  "id": "level-5",
+  "title": "Level 5: Abstract Concepts",
+  "words": [
+    {
+      "word": "Proliferate",
+      "gujaratiPronunciation": "પ્રોલઇફરેટ",
+      "hindiPronunciation": "प्रोलिफरेट",
+      "gujaratiMeaning": "ઝડપથી વધવું, ફેલાવો થવો",
+      "hindiMeaning": "तेजी से बढ़ना, फैलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Proliferate", "gujaratiPronunciation": "પ્રોલઇફરેટ", "hindiPronunciation": "प्रोलिफरेट", "gujaratiMeaning": "ઝડપથી વધવું", "hindiMeaning": "तेजी से बढ़ना" },
+        "V2 (Past)": { "word": "Proliferated", "gujaratiPronunciation": "પ્રોલઇફરેટેડ", "hindiPronunciation": "प्रोलिफरेटेड", "gujaratiMeaning": "ઝડપથી વધ્યું", "hindiMeaning": "तेजी से बढ़ा" },
+        "V3 (Past Participle)": { "word": "Proliferated", "gujaratiPronunciation": "પ્રોલઇફરેટેડ", "hindiPronunciation": "प्रोलिफरेटेड", "gujaratiMeaning": "ઝડપથી વધેલું", "hindiMeaning": "तेजी से बढ़ा हुआ" },
+        "V4 (Present Participle)": { "word": "Proliferating", "gujaratiPronunciation": "પ્રોલઇફરેટિંગ", "hindiPronunciation": "प्रोलिफरेटिंग", "gujaratiMeaning": "ઝડપથી વધી રહ્યું છે", "hindiMeaning": "तेजी से बढ़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Multiply", "gujaratiPronunciation": "મલ્ટિપ્લાય", "hindiPronunciation": "मल्टीप्लाई", "gujaratiMeaning": "ગુણાકાર થવો, વધવું", "hindiMeaning": "बढ़ना, गुणा होना" },
+        { "word": "Increase", "gujaratiPronunciation": "ઇનક્રીઝ", "hindiPronunciation": "इनक्रीज़", "gujaratiMeaning": "વધારો થવો", "hindiMeaning": "बढ़ना" }
+      ],
+      "antonyms": [
+        { "word": "Decrease", "gujaratiPronunciation": "ડિક્રીઝ", "hindiPronunciation": "डिक्रीज़", "gujaratiMeaning": "ઘટાડો થવો", "hindiMeaning": "घटना" },
+        { "word": "Dwindle", "gujaratiPronunciation": "ડ્વિન્ડલ", "hindiPronunciation": "ड्विंडल", "gujaratiMeaning": "ક્ષીણ થવું", "hindiMeaning": "कम होना" }
+      ],
+      "confusingWords": [
+        { "word": "Prophylactic", "gujaratiPronunciation": "પ્રોફાઇલેક્ટિક", "hindiPronunciation": "प्रोफिलैक्टिक", "gujaratiMeaning": "રોગ નિરોધક", "hindiMeaning": "रोगनिरोधी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Rumors about the incident began to proliferate on social media.",
+          "gujaratiTranslation": "આ ઘટના અંગેની અફવાઓ સોશિયલ મીડિયા પર ઝડપથી ફેલાવા લાગી.",
+          "hindiTranslation": "घटना के बारे में अफवाहें सोशल मीडिया पर तेजी से फैलने लगीं।",
+          "gujaratiPronunciation": "રૂમર્સ અબાઉટ ધ ઇન્સિડેન્ટ બિગેન ટુ પ્રોલઇફરેટ ઓન સોશિયલ મીડિયા.",
+          "hindiPronunciation": "रूमर्स अबाउट द इंसिडेंट बिगन टू प्रोलिफरेट ऑन सोशल मीडिया।"
+        }
+      ]
+    },
+    {
+      "word": "Curate",
+      "gujaratiPronunciation": "ક્યુરેટ",
+      "hindiPronunciation": "क्यूरेट",
+      "gujaratiMeaning": "સંગ્રહ કરવો અને ગોઠવવું",
+      "hindiMeaning": "संग्रह करना और व्यवस्थित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Curate", "gujaratiPronunciation": "ક્યુરેટ", "hindiPronunciation": "क्यूरेट", "gujaratiMeaning": "સંગ્રહ કરવો", "hindiMeaning": "संग्रह करना" },
+        "V2 (Past)": { "word": "Curated", "gujaratiPronunciation": "ક્યુરેટેડ", "hindiPronunciation": "क्यूरेटेड", "gujaratiMeaning": "સંગ્રહ કર્યો", "hindiMeaning": "संग्रह किया" },
+        "V3 (Past Participle)": { "word": "Curated", "gujaratiPronunciation": "ક્યુરેટેડ", "hindiPronunciation": "क्यूरेटेड", "gujaratiMeaning": "સંગ્રહિત", "hindiMeaning": "संग्रहीत" },
+        "V4 (Present Participle)": { "word": "Curating", "gujaratiPronunciation": "ક્યુરેટિંગ", "hindiPronunciation": "क्यूरेटिंग", "gujaratiMeaning": "સંગ્રહ કરી રહ્યું છે", "hindiMeaning": "संग्रह कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Select", "gujaratiPronunciation": "સિલેક્ટ", "hindiPronunciation": "सेलेक्ट", "gujaratiMeaning": "પસંદ કરવું", "hindiMeaning": "चुनना" },
+        { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઇઝ", "hindiPronunciation": "ऑर्गेनाइज़", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "व्यवस्थित करना" }
+      ],
+      "antonyms": [
+        { "word": "Disperse", "gujaratiPronunciation": "ડિસ્પર્સ", "hindiPronunciation": "डिस्पर्स", "gujaratiMeaning": "વિખેરવું", "hindiMeaning": "बिखेरना" },
+        { "word": "Randomize", "gujaratiPronunciation": "રેન્ડમાઇઝ", "hindiPronunciation": "रैंडमाइज़", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "यादृच्छिक बनाना" }
+      ],
+      "confusingWords": [
+        { "word": "Cure", "gujaratiPronunciation": "ક્યોર", "hindiPronunciation": "क्योर", "gujaratiMeaning": "ઇલાજ", "hindiMeaning": "इलाज" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He will curate an exhibition of modern art.",
+          "gujaratiTranslation": "તે આધુનિક કલાનું પ્રદર્શન ક્યુરેટ કરશે.",
+          "hindiTranslation": "वह आधुनिक कला की एक प्रदर्शनी क्यूरेट करेंगे।",
+          "gujaratiPronunciation": "હી વિલ ક્યુરેટ એન એક્ઝિબિશન ઓફ મોડર્ન આર્ટ.",
+          "hindiPronunciation": "ही विल क्यूरेट एन एग्जीबिशन ऑफ मॉडर्न आर्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Falsify",
+      "gujaratiPronunciation": "ફોલ્સિફાય",
+      "hindiPronunciation": "फॉल्सिफाई",
+      "gujaratiMeaning": "ખોટું સાબિત કરવું, છેડછાડ કરવી",
+      "hindiMeaning": "झूठा साबित करना, हेरफेर करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Falsify", "gujaratiPronunciation": "ફોલ્સિફાય", "hindiPronunciation": "फॉल्सिफाई", "gujaratiMeaning": "ખોટું સાબિત કરવું", "hindiMeaning": "झूठा साबित करना" },
+        "V2 (Past)": { "word": "Falsified", "gujaratiPronunciation": "ફોલ્સિફાઇડ", "hindiPronunciation": "फॉल्सिफाइड", "gujaratiMeaning": "ખોટું સાબિત કર્યું", "hindiMeaning": "झूठा साबित किया" },
+        "V3 (Past Participle)": { "word": "Falsified", "gujaratiPronunciation": "ફોલ્સિફાઇડ", "hindiPronunciation": "फॉल्सिफाइड", "gujaratiMeaning": "ખોટું સાબિત કરેલ", "hindiMeaning": "मिथ्याकृत" },
+        "V4 (Present Participle)": { "word": "Falsifying", "gujaratiPronunciation": "ફોલ્સિફાઇંગ", "hindiPronunciation": "फॉल्सिफाइंग", "gujaratiMeaning": "ખોટું સાબિત કરી રહ્યું છે", "hindiMeaning": "झूठा साबित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Forge", "gujaratiPronunciation": "ફોર્જ", "hindiPronunciation": "फोर्ज", "gujaratiMeaning": "બનાવટી બનાવવું", "hindiMeaning": "जाली बनाना" },
+        { "word": "Distort", "gujaratiPronunciation": "ડિસ્ટોર્ટ", "hindiPronunciation": "डिस्टॉर्ट", "gujaratiMeaning": "વિકૃત કરવું", "hindiMeaning": "विकृत करना" }
+      ],
+      "antonyms": [
+        { "word": "Verify", "gujaratiPronunciation": "વેરિફાય", "hindiPronunciation": "वेरीफाई", "gujaratiMeaning": "ચકાસવું", "hindiMeaning": "सत्यापित करना" },
+        { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" }
+      ],
+      "confusingWords": [
+        { "word": "Fortify", "gujaratiPronunciation": "ફોર્ટિફાય", "hindiPronunciation": "फोर्टिफाई", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "मजबूत करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is illegal to falsify documents.",
+          "gujaratiTranslation": "દસ્તાવેજોમાં છેડછાડ કરવી ગેરકાયદેસર છે.",
+          "hindiTranslation": "दस्तावेजों में हेरफेर करना अवैध है।",
+          "gujaratiPronunciation": "ઇટ ઇઝ ઇલીગલ ટુ ફોલ્સિફાય ડોક્યુમેન્ટ્સ.",
+          "hindiPronunciation": "इट इज़ इल्लीगल टू फॉल्सिफाई डॉक्यूमेंट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Concoct",
+      "gujaratiPronunciation": "કન્કોક્ટ",
+      "hindiPronunciation": "कॉनकॉक्ट",
+      "gujaratiMeaning": "ઘડી કાઢવું, બનાવવું (વાર્તા/બહાનું)",
+      "hindiMeaning": "गढ़ना, बनाना (कहानी/बहाना)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Concoct", "gujaratiPronunciation": "કન્કોક્ટ", "hindiPronunciation": "कॉनकॉक्ट", "gujaratiMeaning": "ઘડી કાઢવું", "hindiMeaning": "गढ़ना" },
+        "V2 (Past)": { "word": "Concocted", "gujaratiPronunciation": "કન્કોક્ટેડ", "hindiPronunciation": "कॉनकॉक्टेड", "gujaratiMeaning": "ઘડી કાઢ્યું", "hindiMeaning": "गढ़ा" },
+        "V3 (Past Participle)": { "word": "Concocted", "gujaratiPronunciation": "કન્કોક્ટેડ", "hindiPronunciation": "कॉनकॉक्टेड", "gujaratiMeaning": "ઘડી કાઢેલ", "hindiMeaning": "गढ़ा हुआ" },
+        "V4 (Present Participle)": { "word": "Concocting", "gujaratiPronunciation": "કન્કોક્ટિંગ", "hindiPronunciation": "कॉनकॉक्टिंग", "gujaratiMeaning": "ઘડી રહ્યું છે", "hindiMeaning": "गढ़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Invent", "gujaratiPronunciation": "ઇન્વેન્ટ", "hindiPronunciation": "इन्वेंट", "gujaratiMeaning": "શોધ કરવી", "hindiMeaning": "आविष्कार करना" },
+        { "word": "Fabricate", "gujaratiPronunciation": "ફેબ્રિકેટ", "hindiPronunciation": "फैब्रिकेट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "निर्माण करना" }
+      ],
+      "antonyms": [
+        { "word": "Report", "gujaratiPronunciation": "રિપોર્ટ", "hindiPronunciation": "रिपोर्ट", "gujaratiMeaning": "જાણ કરવી", "hindiMeaning": "रिपोर्ट करना" },
+        { "word": "Narrate", "gujaratiPronunciation": "નરેટ", "hindiPronunciation": "नैरेट", "gujaratiMeaning": "વર્ણન કરવું", "hindiMeaning": "वर्णन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Contact", "gujaratiPronunciation": "કોન્ટેક્ટ", "hindiPronunciation": "कांटेक्ट", "gujaratiMeaning": "સંપર્ક", "hindiMeaning": "संपर्क" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He concocted a story to avoid trouble.",
+          "gujaratiTranslation": "મુશ્કેલીથી બચવા માટે તેણે એક વાર્તા ઘડી કાઢી.",
+          "hindiTranslation": "उसने मुसीबत से बचने के लिए एक कहानी गढ़ी।",
+          "gujaratiPronunciation": "હી કન્કોક્ટેડ અ સ્ટોરી ટુ અવોઇડ ટ્રબલ.",
+          "hindiPronunciation": "ही कॉनकॉक्टेड अ स्टोरी टू अवॉइड ट्रबल।"
+        }
+      ]
+    },
+    {
+      "word": "Doodle",
+      "gujaratiPronunciation": "ડૂડલ",
+      "hindiPronunciation": "डूडल",
+      "gujaratiMeaning": "આડાઅવળા લીટા કરવા, ચિત્રામણ કરવું",
+      "hindiMeaning": "अनाप-शनाप लिखना, चित्रकारी करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Doodle", "gujaratiPronunciation": "ડૂડલ", "hindiPronunciation": "डूडल", "gujaratiMeaning": "ચિત્રામણ કરવું", "hindiMeaning": "चित्रकारी करना" },
+        "V2 (Past)": { "word": "Doodled", "gujaratiPronunciation": "ડૂડલ્ડ", "hindiPronunciation": "डूडल्ड", "gujaratiMeaning": "ચિત્રામણ કર્યું", "hindiMeaning": "चित्रकारी की" },
+        "V3 (Past Participle)": { "word": "Doodled", "gujaratiPronunciation": "ડૂડલ્ડ", "hindiPronunciation": "डूडल्ड", "gujaratiMeaning": "ચિત્રામણ કરેલ", "hindiMeaning": "चित्रकारी किया हुआ" },
+        "V4 (Present Participle)": { "word": "Doodling", "gujaratiPronunciation": "ડૂડલિંગ", "hindiPronunciation": "डूडलिंग", "gujaratiMeaning": "ચિત્રામણ કરી રહ્યું છે", "hindiMeaning": "चित्रकारी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Scribble", "gujaratiPronunciation": "સ્ક્રિબલ", "hindiPronunciation": "स्क्रिबल", "gujaratiMeaning": "ઘસીટવું", "hindiMeaning": "घसीटना" },
+        { "word": "Sketch", "gujaratiPronunciation": "સ્કેચ", "hindiPronunciation": "स्केच", "gujaratiMeaning": "કાચું ચિત્ર દોરવું", "hindiMeaning": "कच्चा चित्र बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Draw", "gujaratiPronunciation": "ડ્રો", "hindiPronunciation": "ड्रा", "gujaratiMeaning": "દોરવું", "hindiMeaning": "चित्र बनाना" },
+        { "word": "Focus", "gujaratiPronunciation": "ફોકસ", "hindiPronunciation": "फोकस", "gujaratiMeaning": "ધ્યાન કેન્દ્રિત કરવું", "hindiMeaning": "ध्यान केंद्रित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Poodle", "gujaratiPronunciation": "પૂડલ", "hindiPronunciation": "पूडल", "gujaratiMeaning": "એક જાતનો કૂતરો", "hindiMeaning": "एक प्रकार का कुत्ता" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She was doodling in her notebook during the lecture.",
+          "gujaratiTranslation": "તેણી લેક્ચર દરમિયાન તેની નોટબુકમાં ચિત્રામણ કરી રહી હતી.",
+          "hindiTranslation": "वह व्याख्यान के दौरान अपनी नोटबुक में डूडल बना रही थी।",
+          "gujaratiPronunciation": "શી વોઝ ડૂડલિંગ ઇન હર નોટબુક ડ્યુરિંગ ધ લેક્ચર.",
+          "hindiPronunciation": "शी वॉज़ डूडलिंग इन हर नोटबुक ड्यूरिंग द लेक्चर।"
+        }
+      ]
+    }
+  ]
+}

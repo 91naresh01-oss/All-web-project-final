@@ -1,0 +1,446 @@
+{
+  "id": "level-5",
+  "title": "Movement Verbs 5",
+  "words": [
+    {
+      "word": "Persevere",
+      "gujaratiPronunciation": "પર્સિવિયર",
+      "hindiPronunciation": "पर्सिवियर",
+      "gujaratiMeaning": "મક્કમ રહેવું",
+      "hindiMeaning": "दृढ़ रहना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Persevere",
+          "gujaratiPronunciation": "પર્સિવિયર",
+          "hindiPronunciation": "पर्सिवियर",
+          "gujaratiMeaning": "મક્કમ રહેવું",
+          "hindiMeaning": "दृढ़ रहना"
+        },
+        "V2": {
+          "word": "Persevered",
+          "gujaratiPronunciation": "પર્સિવિયર્ડ",
+          "hindiPronunciation": "पर्सिवियर्ड",
+          "gujaratiMeaning": "મક્કમ રહ્યો",
+          "hindiMeaning": "दृढ़ रहा"
+        },
+        "V3": {
+          "word": "Persevered",
+          "gujaratiPronunciation": "પર્સિવિયર્ડ",
+          "hindiPronunciation": "पर्सिवियर्ड",
+          "gujaratiMeaning": "મક્કમ રહેલો",
+          "hindiMeaning": "दृढ़ रह चुका"
+        },
+        "V4": {
+          "word": "Persevering",
+          "gujaratiPronunciation": "પર્સિવિયરિંગ",
+          "hindiPronunciation": "पर्सिवियरिंग",
+          "gujaratiMeaning": "મક્કમ રહી રહ્યો છે",
+          "hindiMeaning": "दृढ़ रह रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Persist",
+          "gujaratiPronunciation": "પર્સિસ્ટ",
+          "hindiPronunciation": "पर्सिस्ट",
+          "gujaratiMeaning": "આગ્રહ રાખવો",
+          "hindiMeaning": "आग्रह करना"
+        },
+        {
+          "word": "Endure",
+          "gujaratiPronunciation": "એન્ડ્યુર",
+          "hindiPronunciation": "एंड्योर",
+          "gujaratiMeaning": "સહન કરવું",
+          "hindiMeaning": "सहन करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Quit",
+          "gujaratiPronunciation": "ક્વિટ",
+          "hindiPronunciation": "क्विट",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ देना"
+        },
+        {
+          "word": "Give up",
+          "gujaratiPronunciation": "ગિવ અપ",
+          "hindiPronunciation": "गिव अप",
+          "gujaratiMeaning": "હાર માનવી",
+          "hindiMeaning": "हार मान लेना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Preserve",
+          "gujaratiPronunciation": "પ્રિઝર્વ",
+          "hindiPronunciation": "प्रिज़र्व",
+          "gujaratiMeaning": "સાચવવું",
+          "hindiMeaning": "संरक्षित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Despite the challenges, she persevered and achieved her goal.",
+          "gujaratiTranslation": "પડકારો હોવા છતાં, તે મક્કમ રહી અને પોતાનું લક્ષ્ય હાંસલ કર્યું.",
+          "hindiTranslation": "चुनौतियों के बावजूद, वह दृढ़ रही और अपना लक्ष्य हासिल किया।",
+          "gujaratiPronunciation": "ડેસ્પાઇટ ધ ચેલેન્જીસ, શી પર્સિવિયર્ડ એન્ડ અચીવ્ડ હર ગોલ.",
+          "hindiPronunciation": "डेस्पाइट द चैलेंजेज, शी पर्सिवियर्ड एंड अचीव्ड हर गोल।"
+        }
+      ]
+    },
+    {
+      "word": "Elongate",
+      "gujaratiPronunciation": "ઇલોંગેટ",
+      "hindiPronunciation": "इलोंगेट",
+      "gujaratiMeaning": "લંબાવવું",
+      "hindiMeaning": "लंबा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Elongate",
+          "gujaratiPronunciation": "ઇલોંગેટ",
+          "hindiPronunciation": "इलोंगेट",
+          "gujaratiMeaning": "લંબાવવું",
+          "hindiMeaning": "लंबा करना"
+        },
+        "V2": {
+          "word": "Elongated",
+          "gujaratiPronunciation": "ઇલોંગેટેડ",
+          "hindiPronunciation": "इलोंगेटेड",
+          "gujaratiMeaning": "લંબાવ્યું",
+          "hindiMeaning": "लंबा किया"
+        },
+        "V3": {
+          "word": "Elongated",
+          "gujaratiPronunciation": "ઇલોંગેટેડ",
+          "hindiPronunciation": "इलोंगेटेड",
+          "gujaratiMeaning": "લંબાવેલું",
+          "hindiMeaning": "लंबा कर चुका"
+        },
+        "V4": {
+          "word": "Elongating",
+          "gujaratiPronunciation": "ઇલોંગેટિંગ",
+          "hindiPronunciation": "इलोंगेटिंग",
+          "gujaratiMeaning": "લંબાવી રહ્યો છે",
+          "hindiMeaning": "लंबा कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Lengthen",
+          "gujaratiPronunciation": "લેન્થન",
+          "hindiPronunciation": "लेंग्थेन",
+          "gujaratiMeaning": "લંબાવવું",
+          "hindiMeaning": "लंबा करना"
+        },
+        {
+          "word": "Stretch",
+          "gujaratiPronunciation": "સ્ટ્રેચ",
+          "hindiPronunciation": "स्ट्रेच",
+          "gujaratiMeaning": "ખેંચવું",
+          "hindiMeaning": "खींचना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Shorten",
+          "gujaratiPronunciation": "શોર્ટન",
+          "hindiPronunciation": "शॉर्टेन",
+          "gujaratiMeaning": "ટૂંકાવવું",
+          "hindiMeaning": "छोटा करना"
+        },
+        {
+          "word": "Contract",
+          "gujaratiPronunciation": "કૉન્ટ્રેક્ટ",
+          "hindiPronunciation": "कॉन्ट्रैक्ट",
+          "gujaratiMeaning": "સંકોચાવું",
+          "hindiMeaning": "सिकोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Elegant",
+          "gujaratiPronunciation": "એલિગન્ટ",
+          "hindiPronunciation": "एलिगेंट",
+          "gujaratiMeaning": "ભવ્ય",
+          "hindiMeaning": "सुंदर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The cat will elongate its body when it stretches.",
+          "gujaratiTranslation": "બિલાડી જ્યારે ખેંચાણ કરશે ત્યારે તેનું શરીર લંબાવશે.",
+          "hindiTranslation": "बिल्ली जब खिंचाव करेगी तो अपना शरीर लंबा करेगी।",
+          "gujaratiPronunciation": "ધ કેટ વિલ ઇલોંગેટ ઇટ્સ બૉડી વ્હેન ઇટ સ્ટ્રેચીસ.",
+          "hindiPronunciation": "द कैट विल इलोंगेट इट्स बॉडी व्हेन इट स्ट्रेचेस।"
+        }
+      ]
+    },
+    {
+      "word": "Amble",
+      "gujaratiPronunciation": "એમ્બલ",
+      "hindiPronunciation": "एम्बल",
+      "gujaratiMeaning": "ધીમે ધીમે ચાલવું",
+      "hindiMeaning": "धीरे-धीरे चलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Amble",
+          "gujaratiPronunciation": "એમ્બલ",
+          "hindiPronunciation": "एम्बल",
+          "gujaratiMeaning": "ધીમે ચાલવું",
+          "hindiMeaning": "धीरे चलना"
+        },
+        "V2": {
+          "word": "Ambled",
+          "gujaratiPronunciation": "એમ્બલ્ડ",
+          "hindiPronunciation": "एम्बल्ड",
+          "gujaratiMeaning": "ધીમે ચાલ્યો",
+          "hindiMeaning": "धीरे चला"
+        },
+        "V3": {
+          "word": "Ambled",
+          "gujaratiPronunciation": "એમ્બલ્ડ",
+          "hindiPronunciation": "एम्बल्ड",
+          "gujaratiMeaning": "ધીમે ચાલેલો",
+          "hindiMeaning": "धीरे चल चुका"
+        },
+        "V4": {
+          "word": "Ambling",
+          "gujaratiPronunciation": "એમ્બલિંગ",
+          "hindiPronunciation": "एम्बलिंग",
+          "gujaratiMeaning": "ધીમે ચાલી રહ્યો છે",
+          "hindiMeaning": "धीरे चल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Stroll",
+          "gujaratiPronunciation": "સ્ટ્રોલ",
+          "hindiPronunciation": "स्ट्रोल",
+          "gujaratiMeaning": "ટહેલવું",
+          "hindiMeaning": "टहलना"
+        },
+        {
+          "word": "Saunter",
+          "gujaratiPronunciation": "સૉન્ટર",
+          "hindiPronunciation": "सॉन्टर",
+          "gujaratiMeaning": "મટક મટક ચાલવું",
+          "hindiMeaning": "मटक कर चलना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Rush",
+          "gujaratiPronunciation": "રશ",
+          "hindiPronunciation": "रश",
+          "gujaratiMeaning": "ધસી જવું",
+          "hindiMeaning": "तेज़ी से जाना"
+        },
+        {
+          "word": "Run",
+          "gujaratiPronunciation": "રન",
+          "hindiPronunciation": "रन",
+          "gujaratiMeaning": "દોડવું",
+          "hindiMeaning": "दौड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Gamble",
+          "gujaratiPronunciation": "ગેમ્બલ",
+          "hindiPronunciation": "गैम्बल",
+          "gujaratiMeaning": "જુગાર રમવો",
+          "hindiMeaning": "जुआ खेलना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They ambled along the beach.",
+          "gujaratiTranslation": "તેઓ દરિયાકિનારે ધીમે ધીમે ચાલ્યા.",
+          "hindiTranslation": "वे समुद्र तट पर धीरे-धीरे चले।",
+          "gujaratiPronunciation": "ધે એમ્બલ્ડ અલોંગ ધ બીચ.",
+          "hindiPronunciation": "दे एम्बल्ड अलॉन्ग द बीच।"
+        }
+      ]
+    },
+    {
+      "word": "Clamber",
+      "gujaratiPronunciation": "ક્લેમ્બર",
+      "hindiPronunciation": "क्लैम्बर",
+      "gujaratiMeaning": "મુશ્કેલીથી ચડવું",
+      "hindiMeaning": "मुश्किल से चढ़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Clamber",
+          "gujaratiPronunciation": "ક્લેમ્બર",
+          "hindiPronunciation": "क्लैम्बर",
+          "gujaratiMeaning": "મુશ્કેલીથી ચડવું",
+          "hindiMeaning": "मुश्किल से चढ़ना"
+        },
+        "V2": {
+          "word": "Clambered",
+          "gujaratiPronunciation": "ક્લેમ્બર્ડ",
+          "hindiPronunciation": "क्लैम्बर्ड",
+          "gujaratiMeaning": "મુશ્કેલીથી ચડ્યો",
+          "hindiMeaning": "मुश्किल से चढ़ा"
+        },
+        "V3": {
+          "word": "Clambered",
+          "gujaratiPronunciation": "ક્લેમ્બર્ડ",
+          "hindiPronunciation": "क्लैम्बर्ड",
+          "gujaratiMeaning": "મુશ્કેલીથી ચડેલો",
+          "hindiMeaning": "मुश्किल से चढ़ चुका"
+        },
+        "V4": {
+          "word": "Clambering",
+          "gujaratiPronunciation": "ક્લેમ્બરિંગ",
+          "hindiPronunciation": "क्लैम्बरिंग",
+          "gujaratiMeaning": "મુશ્કેલીથી ચડી રહ્યો છે",
+          "hindiMeaning": "मुश्किल से चढ़ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Scramble",
+          "gujaratiPronunciation": "સ્ક્રેમ્બલ",
+          "hindiPronunciation": "स्क्रैम्बल",
+          "gujaratiMeaning": "આગળ વધવું",
+          "hindiMeaning": "हाथ-पैर के बल चढ़ना"
+        },
+        {
+          "word": "Climb",
+          "gujaratiPronunciation": "ક્લાઇમ્બ",
+          "hindiPronunciation": "क्लाइंब",
+          "gujaratiMeaning": "ચડવું",
+          "hindiMeaning": "चढ़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Descend",
+          "gujaratiPronunciation": "ડિસેન્ડ",
+          "hindiPronunciation": "डिसेंड",
+          "gujaratiMeaning": "ઉતરવું",
+          "hindiMeaning": "उतरना"
+        },
+        {
+          "word": "Slide",
+          "gujaratiPronunciation": "સ્લાઇડ",
+          "hindiPronunciation": "स्लाइड",
+          "gujaratiMeaning": "સરકવું",
+          "hindiMeaning": "फिसलना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Glamour",
+          "gujaratiPronunciation": "ગ્લેમર",
+          "hindiPronunciation": "ग्लैमर",
+          "gujaratiMeaning": "આકર્ષણ",
+          "hindiMeaning": "आकर्षण"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The children clambered up the steep bank.",
+          "gujaratiTranslation": "બાળકો સીધા ઢોળાવ પર મુશ્કેલીથી ચડ્યા.",
+          "hindiTranslation": "बच्चे खड़ी ढलान पर मुश्किल से चढ़े।",
+          "gujaratiPronunciation": "ધ ચિલ્ડ્રન ક્લેમ્બર્ડ અપ ધ સ્ટીપ બેંક.",
+          "hindiPronunciation": "द चिल्ड्रन क्लैम्बर्ड अप द स्टीप बैंक।"
+        }
+      ]
+    },
+    {
+      "word": "Wriggle",
+      "gujaratiPronunciation": "રિગલ",
+      "hindiPronunciation": "रिगल",
+      "gujaratiMeaning": "આળસ મરડવી, આમતેમ ફરવું",
+      "hindiMeaning": "छटपटाना, इधर-उधर हिलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Wriggle",
+          "gujaratiPronunciation": "રિગલ",
+          "hindiPronunciation": "रिगल",
+          "gujaratiMeaning": "આમતેમ ફરવું",
+          "hindiMeaning": "इधर-उधर हिलना"
+        },
+        "V2": {
+          "word": "Wriggled",
+          "gujaratiPronunciation": "રિગલ્ડ",
+          "hindiPronunciation": "रिगल्ड",
+          "gujaratiMeaning": "આમતેમ ફર્યો",
+          "hindiMeaning": "इधर-उधर हिला"
+        },
+        "V3": {
+          "word": "Wriggled",
+          "gujaratiPronunciation": "રિગલ્ડ",
+          "hindiPronunciation": "रिगल्ड",
+          "gujaratiMeaning": "આમતેમ ફરેલો",
+          "hindiMeaning": "इधर-उधर हिल चुका"
+        },
+        "V4": {
+          "word": "Wriggling",
+          "gujaratiPronunciation": "રિગલિંગ",
+          "hindiPronunciation": "रिगलिंग",
+          "gujaratiMeaning": "આમતેમ ફરી રહ્યો છે",
+          "hindiMeaning": "इधर-उधर हिल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Squirm",
+          "gujaratiPronunciation": "સ્કવર્મ",
+          "hindiPronunciation": "स्क्वर्म",
+          "gujaratiMeaning": "વળવળવું",
+          "hindiMeaning": "छटपटाना"
+        },
+        {
+          "word": "Wiggle",
+          "gujaratiPronunciation": "વિગલ",
+          "hindiPronunciation": "विगल",
+          "gujaratiMeaning": "હલવું",
+          "hindiMeaning": "हिलना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Still",
+          "gujaratiPronunciation": "સ્ટિલ",
+          "hindiPronunciation": "स्टिल",
+          "gujaratiMeaning": "સ્થિર",
+          "hindiMeaning": "स्थिर"
+        },
+        {
+          "word": "Stay",
+          "gujaratiPronunciation": "સ્ટે",
+          "hindiPronunciation": "स्टे",
+          "gujaratiMeaning": "રહેવું",
+          "hindiMeaning": "रहना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Wrinkle",
+          "gujaratiPronunciation": "રિંકલ",
+          "hindiPronunciation": "रिंकल",
+          "gujaratiMeaning": "કરચલી",
+          "hindiMeaning": "झुर्री"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The worm wriggled on the hook.",
+          "gujaratiTranslation": "કૃમિ કાંટા પર આમતેમ ફરતો હતો.",
+          "hindiTranslation": "कीड़ा काँटे पर छटपटा रहा था।",
+          "gujaratiPronunciation": "ધ વર્મ રિગલ્ડ ઓન ધ હૂક.",
+          "hindiPronunciation": "द वर्म रिगल्ड ऑन द हुक।"
+        }
+      ]
+    }
+  ]
+}

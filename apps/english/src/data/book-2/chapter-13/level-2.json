@@ -1,0 +1,76 @@
+{
+  "id": "level-2",
+  "title": "Digital Actions 2",
+  "words": [
+    {
+      "word": "Search",
+      "gujaratiPronunciation": "સર્ચ",
+      "hindiPronunciation": "सर्च",
+      "gujaratiMeaning": "શોધવું",
+      "hindiMeaning": "खोजना",
+      "exampleSentences": [
+        {
+          "sentence": "You can search for it on Google.",
+          "gujaratiTranslation": "તમે તેને ગૂગલ પર શોધી શકો છો.",
+          "hindiTranslation": "आप इसे गूगल पर खोज सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Click",
+      "gujaratiPronunciation": "ક્લિક",
+      "hindiPronunciation": "क्लिक",
+      "gujaratiMeaning": "ક્લિક કરવું",
+      "hindiMeaning": "क्लिक करना",
+      "exampleSentences": [
+        {
+          "sentence": "Click on the 'submit' button.",
+          "gujaratiTranslation": "'સબમિટ' બટન પર ક્લિક કરો.",
+          "hindiTranslation": "'सबमिट' बटन पर क्लिक करें।"
+        }
+      ]
+    },
+    {
+      "word": "Type",
+      "gujaratiPronunciation": "ટાઇપ",
+      "hindiPronunciation": "टाइप",
+      "gujaratiMeaning": "ટાઇપ કરવું",
+      "hindiMeaning": "टाइप करना",
+      "exampleSentences": [
+        {
+          "sentence": "Please type your name here.",
+          "gujaratiTranslation": "કૃપા કરીને અહીં તમારું નામ ટાઇપ કરો.",
+          "hindiTranslation": "कृपया यहां अपना नाम टाइप करें।"
+        }
+      ]
+    },
+    {
+      "word": "Print",
+      "gujaratiPronunciation": "પ્રિન્ટ",
+      "hindiPronunciation": "प्रिंट",
+      "gujaratiMeaning": "છાપવું",
+      "hindiMeaning": "प्रिंट करना",
+      "exampleSentences": [
+        {
+          "sentence": "I need to print this document.",
+          "gujaratiTranslation": "મારે આ દસ્તાવેજ છાપવાની જરૂર છે.",
+          "hindiTranslation": "मुझे यह दस्तावेज़ प्रिंट करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Scan",
+      "gujaratiPronunciation": "સ્કેન",
+      "hindiPronunciation": "स्कैन",
+      "gujaratiMeaning": "સ્કેન કરવું",
+      "hindiMeaning": "स्कैन کرنا",
+      "exampleSentences": [
+        {
+          "sentence": "Can you scan this photo for me?",
+          "gujaratiTranslation": "શું તમે મારા માટે આ ફોટો સ્કેન કરી શકો છો?",
+          "hindiTranslation": "क्या आप मेरे लिए यह तस्वीर स्कैन कर सकते हैं?"
+        }
+      ]
+    }
+  ]
+}

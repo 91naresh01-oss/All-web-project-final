@@ -1,0 +1,77 @@
+
+{
+  "id": "level-1",
+  "title": "Countries 1",
+  "words": [
+    {
+      "word": "India",
+      "gujaratiPronunciation": "ઇન્ડિયા",
+      "hindiPronunciation": "इंडिया",
+      "gujaratiMeaning": "ભારત",
+      "hindiMeaning": "भारत",
+      "exampleSentences": [
+        {
+          "sentence": "India is a diverse country.",
+          "gujaratiTranslation": "ભારત એક વૈવિધ્યસભર દેશ છે.",
+          "hindiTranslation": "भारत एक विविध देश है।"
+        }
+      ]
+    },
+    {
+      "word": "China",
+      "gujaratiPronunciation": "ચાઇના",
+      "hindiPronunciation": "चाइना",
+      "gujaratiMeaning": "ચીન",
+      "hindiMeaning": "चीन",
+      "exampleSentences": [
+        {
+          "sentence": "The Great Wall of China is very famous.",
+          "gujaratiTranslation": "ચીનની મહાન દિવાલ ખૂબ પ્રખ્યાત છે.",
+          "hindiTranslation": "चीन की महान दीवार बहुत प्रसिद्ध है।"
+        }
+      ]
+    },
+    {
+      "word": "Japan",
+      "gujaratiPronunciation": "જાપાન",
+      "hindiPronunciation": "जापान",
+      "gujaratiMeaning": "જાપાન",
+      "hindiMeaning": "जापान",
+      "exampleSentences": [
+        {
+          "sentence": "Japan is known as the land of the rising sun.",
+          "gujaratiTranslation": "જાપાનને ઉગતા સૂર્યનો દેશ કહેવામાં આવે છે.",
+          "hindiTranslation": "जापान को उगते सूरज का देश कहा जाता है।"
+        }
+      ]
+    },
+    {
+      "word": "USA",
+      "gujaratiPronunciation": "યુએસએ",
+      "hindiPronunciation": "यूएसए",
+      "gujaratiMeaning": "અમેરિકા",
+      "hindiMeaning": "अमेरिका",
+      "exampleSentences": [
+        {
+          "sentence": "The USA stands for the United States of America.",
+          "gujaratiTranslation": "યુએસએ એટલે યુનાઇટેડ સ્ટેટ્સ ઓફ અમેરિકા.",
+          "hindiTranslation": "यूएसए का मतलब संयुक्त राज्य अमेरिका है।"
+        }
+      ]
+    },
+    {
+      "word": "UK",
+      "gujaratiPronunciation": "યુકે",
+      "hindiPronunciation": "यूके",
+      "gujaratiMeaning": "યુનાઇટેડ કિંગડમ",
+      "hindiMeaning": "यूनाइटेड किंगडम",
+      "exampleSentences": [
+        {
+          "sentence": "The UK consists of four countries.",
+          "gujaratiTranslation": "યુકે ચાર દેશોનું બનેલું છે.",
+          "hindiTranslation": "यूके चार देशों से मिलकर बना है।"
+        }
+      ]
+    }
+  ]
+}

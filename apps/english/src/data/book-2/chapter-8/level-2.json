@@ -1,0 +1,77 @@
+
+{
+  "id": "level-2",
+  "title": "Countries 2",
+  "words": [
+    {
+      "word": "France",
+      "gujaratiPronunciation": "ફ્રાન્સ",
+      "hindiPronunciation": "फ्रांस",
+      "gujaratiMeaning": "ફ્રાન્સ",
+      "hindiMeaning": "फ्रांस",
+      "exampleSentences": [
+        {
+          "sentence": "The Eiffel Tower is in France.",
+          "gujaratiTranslation": "એફિલ ટાવર ફ્રાન્સમાં છે.",
+          "hindiTranslation": "एफिल टॉवर फ्रांस में है।"
+        }
+      ]
+    },
+    {
+      "word": "Italy",
+      "gujaratiPronunciation": "ઇટાલી",
+      "hindiPronunciation": "इटली",
+      "gujaratiMeaning": "ઇટાલી",
+      "hindiMeaning": "इटली",
+      "exampleSentences": [
+        {
+          "sentence": "Italy is famous for its food.",
+          "gujaratiTranslation": "ઇટાલી તેના ખોરાક માટે પ્રખ્યાત છે.",
+          "hindiTranslation": "इटली अपने भोजन के लिए प्रसिद्ध है।"
+        }
+      ]
+    },
+    {
+      "word": "Spain",
+      "gujaratiPronunciation": "સ્પેન",
+      "hindiPronunciation": "स्पेन",
+      "gujaratiMeaning": "સ્પેન",
+      "hindiMeaning": "स्पेन",
+      "exampleSentences": [
+        {
+          "sentence": "He went to Spain for a holiday.",
+          "gujaratiTranslation": "તે રજાઓ માટે સ્પેન ગયો હતો.",
+          "hindiTranslation": "वह छुट्टियों के लिए स्पेन गया था।"
+        }
+      ]
+    },
+    {
+      "word": "Russia",
+      "gujaratiPronunciation": "રશિયા",
+      "hindiPronunciation": "रूस",
+      "gujaratiMeaning": "રશિયા",
+      "hindiMeaning": "रूस",
+      "exampleSentences": [
+        {
+          "sentence": "Russia is the largest country in the world.",
+          "gujaratiTranslation": "રશિયા વિશ્વનો સૌથી મોટો દેશ છે.",
+          "hindiTranslation": "रूस दुनिया का सबसे बड़ा देश है।"
+        }
+      ]
+    },
+    {
+      "word": "Brazil",
+      "gujaratiPronunciation": "બ્રાઝિલ",
+      "hindiPronunciation": "ब्राज़ील",
+      "gujaratiMeaning": "બ્રાઝિલ",
+      "hindiMeaning": "ब्राज़ील",
+      "exampleSentences": [
+        {
+          "sentence": "Brazil is famous for its carnival.",
+          "gujaratiTranslation": "બ્રાઝિલ તેના કાર્નિવલ માટે પ્રખ્યાત છે.",
+          "hindiTranslation": "ब्राज़ील अपने कार्निवल के लिए प्रसिद्ध है।"
+        }
+      ]
+    }
+  ]
+}

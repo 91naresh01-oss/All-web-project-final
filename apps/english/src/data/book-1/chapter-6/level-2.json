@@ -1,0 +1,47 @@
+
+{
+    "id": "level-2",
+    "title": "Birds 2",
+    "words": [
+        {
+            "word": "Peacock",
+            "icon": "🦚",
+            "gujaratiPronunciation": "પીકોક",
+            "hindiPronunciation": "पीकॉक",
+            "gujaratiMeaning": "મોર",
+            "hindiMeaning": "मोर"
+        },
+        {
+            "word": "Owl",
+            "icon": "🦉",
+            "gujaratiPronunciation": "આઉલ",
+            "hindiPronunciation": "आउल",
+            "gujaratiMeaning": "ઘુવડ",
+            "hindiMeaning": "उल्लू"
+        },
+        {
+            "word": "Crane",
+            "icon": "🐦",
+            "gujaratiPronunciation": "ક્રેન",
+            "hindiPronunciation": "क्रेन",
+            "gujaratiMeaning": "બગલો",
+            "hindiMeaning": "सारस"
+        },
+        {
+            "word": "Eagle",
+            "icon": "🦅",
+            "gujaratiPronunciation": "ઇગલ",
+            "hindiPronunciation": "ईगल",
+            "gujaratiMeaning": "ગરુડ",
+            "hindiMeaning": "चील"
+        },
+        {
+            "word": "Parakeet",
+            "icon": "🦜",
+            "gujaratiPronunciation": "પેરાકીટ",
+            "hindiPronunciation": "पैराकीट",
+            "gujaratiMeaning": "પોપટ",
+            "hindiMeaning": "तोता"
+        }
+    ]
+}

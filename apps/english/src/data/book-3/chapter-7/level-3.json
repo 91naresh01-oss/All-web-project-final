@@ -1,0 +1,172 @@
+{
+  "id": "level-3",
+  "title": "Level 3: Evolutionary Processes",
+  "words": [
+    {
+      "word": "Evolve",
+      "gujaratiPronunciation": "ઇવોલ્વ",
+      "hindiPronunciation": "इवॉल्व",
+      "gujaratiMeaning": "વિકસિત થવું, ઉત્ક્રાંતિ થવી",
+      "hindiMeaning": "विकसित होना, क्रम-विकास होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Evolve", "gujaratiPronunciation": "ઇવોલ્વ", "hindiPronunciation": "इवॉल्व", "gujaratiMeaning": "વિકસિત થવું", "hindiMeaning": "विकसित होना" },
+        "V2 (Past)": { "word": "Evolved", "gujaratiPronunciation": "ઇવોલ્વ્ડ", "hindiPronunciation": "इवॉल्वड", "gujaratiMeaning": "વિકસિત થયું", "hindiMeaning": "विकसित हुआ" },
+        "V3 (Past Participle)": { "word": "Evolved", "gujaratiPronunciation": "ઇવોલ્વ્ડ", "hindiPronunciation": "इवॉल्वड", "gujaratiMeaning": "વિકસિત થયેલું", "hindiMeaning": "विकसित" },
+        "V4 (Present Participle)": { "word": "Evolving", "gujaratiPronunciation": "ઇવોલ્વિંગ", "hindiPronunciation": "इवॉल्विंग", "gujaratiMeaning": "વિકસિત થઈ રહ્યું છે", "hindiMeaning": "विकसित हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Develop", "gujaratiPronunciation": "ડેવલપ", "hindiPronunciation": "डेवलप", "gujaratiMeaning": "વિકાસ કરવો", "hindiMeaning": "विकास करना" },
+        { "word": "Progress", "gujaratiPronunciation": "પ્રોગ્રેસ", "hindiPronunciation": "प्रोग्रेस", "gujaratiMeaning": "પ્રગતિ કરવી", "hindiMeaning": "प्रगति करना" }
+      ],
+      "antonyms": [
+        { "word": "Regress", "gujaratiPronunciation": "રિગ્રેસ", "hindiPronunciation": "रिग्रेस", "gujaratiMeaning": "પાછળ જવું", "hindiMeaning": "पीछे हटना" },
+        { "word": "Stagnate", "gujaratiPronunciation": "સ્ટેગ્નેટ", "hindiPronunciation": "स्टैग्नेट", "gujaratiMeaning": "સ્થિર રહેવું", "hindiMeaning": "स्थिर रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Involve", "gujaratiPronunciation": "ઇન્વોલ્વ", "hindiPronunciation": "इन्वॉल्व", "gujaratiMeaning": "સમાવેશ કરવો", "hindiMeaning": "शामिल करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Humans evolved from earlier species.",
+          "gujaratiTranslation": "મનુષ્યો પૂર્વ પ્રજાતિઓમાંથી વિકસિત થયા.",
+          "hindiTranslation": "मनुष्य पूर्व प्रजातियों से विकसित हुए।",
+          "gujaratiPronunciation": "હ્યુમન્સ ઇવોલ્વ્ડ ફ્રોમ અર્લિયર સ્પીશીઝ.",
+          "hindiPronunciation": "ह्यूमन्स इवॉल्व्ड फ्रॉम अर्लियर स्पीशीज़।"
+        }
+      ]
+    },
+    {
+      "word": "Transition",
+      "gujaratiPronunciation": "ટ્રાન્ઝિશન",
+      "hindiPronunciation": "ट्रांज़िशन",
+      "gujaratiMeaning": "સંક્રમણ, પરિવર્તનનો તબક્કો",
+      "hindiMeaning": "संक्रमण, परिवर्तन का चरण",
+      "partOfSpeech": "Noun, Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Transition", "gujaratiPronunciation": "ટ્રાન્ઝિશન", "hindiPronunciation": "ट्रांज़िशन", "gujaratiMeaning": "સંક્રમણ કરવું", "hindiMeaning": "संक्रमण करना" },
+        "V2 (Past)": { "word": "Transitioned", "gujaratiPronunciation": "ટ્રાન્ઝિશન્ડ", "hindiPronunciation": "ट्रांज़िशन्ड", "gujaratiMeaning": "સંક્રમણ કર્યું", "hindiMeaning": "संक्रमण किया" },
+        "V3 (Past Participle)": { "word": "Transitioned", "gujaratiPronunciation": "ટ્રાન્ઝિશન્ડ", "hindiPronunciation": "ट्रांज़िशन्ड", "gujaratiMeaning": "સંક્રમણ કરેલ", "hindiMeaning": "संक्रमित" },
+        "V4 (Present Participle)": { "word": "Transitioning", "gujaratiPronunciation": "ટ્રાન્ઝિશનિંગ", "hindiPronunciation": "ट्रांज़िशनिंग", "gujaratiMeaning": "સંક્રમણ કરી રહ્યું છે", "hindiMeaning": "संक्रमण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Change", "gujaratiPronunciation": "ચેન્જ", "hindiPronunciation": "चेंज", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलाव" },
+        { "word": "Shift", "gujaratiPronunciation": "શિફ્ટ", "hindiPronunciation": "शिफ्ट", "gujaratiMeaning": "બદલી", "hindiMeaning": "बदलाव" }
+      ],
+      "antonyms": [
+        { "word": "Stagnation", "gujaratiPronunciation": "સ્ટેગ્નેશન", "hindiPronunciation": "स्टैग्नेशन", "gujaratiMeaning": "સ્થિરતા", "hindiMeaning": "स्थिरता" },
+        { "word": "Permanence", "gujaratiPronunciation": "પર્મનેન્સ", "hindiPronunciation": "परमानेंस", "gujaratiMeaning": "કાયમીપણું", "hindiMeaning": "स्थायित्व" }
+      ],
+      "confusingWords": [
+        { "word": "Transaction", "gujaratiPronunciation": "ટ્રાન્ઝેક્શન", "hindiPronunciation": "ट्रांज़ैक्शन", "gujaratiMeaning": "વ્યવહાર", "hindiMeaning": "लेन-देन" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The country is in a period of transition.",
+          "gujaratiTranslation": "દેશ સંક્રમણના સમયગાળામાં છે.",
+          "hindiTranslation": "देश संक्रमण काल में है।",
+          "gujaratiPronunciation": "ધ કન્ટ્રી ઇઝ ઇન અ પિરિયડ ઓફ ટ્રાન્ઝિશન.",
+          "hindiPronunciation": "द कंट्री इज़ इन अ पीरियड ऑफ़ ट्रांज़िशन।"
+        }
+      ]
+    },
+    {
+      "word": "Recalibrate",
+      "gujaratiPronunciation": "રિકેલિબ્રેટ",
+      "hindiPronunciation": "रीकैलिब्रेट",
+      "gujaratiMeaning": "ફરીથી માપન કરવું, પુનઃગોઠવણ કરવી",
+      "hindiMeaning": "पुनः अंशांकन करना, पुनः समायोजित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Recalibrate", "gujaratiPronunciation": "રિકેલિબ્રેટ", "hindiPronunciation": "रीकैलिब्रेट", "gujaratiMeaning": "પુનઃગોઠવણ કરવી", "hindiMeaning": "पुनः समायोजित करना" },
+        "V2 (Past)": { "word": "Recalibrated", "gujaratiPronunciation": "રિકેલિબ્રેટેડ", "hindiPronunciation": "रीकैलिब्रेटेड", "gujaratiMeaning": "પુનઃગોઠવણ કરી", "hindiMeaning": "पुनः समायोजित किया" },
+        "V3 (Past Participle)": { "word": "Recalibrated", "gujaratiPronunciation": "રિકેલિબ્રેટેડ", "hindiPronunciation": "रीकैलिब्रेटेड", "gujaratiMeaning": "પુનઃગોઠવેલું", "hindiMeaning": "पुनः समायोजित" },
+        "V4 (Present Participle)": { "word": "Recalibrating", "gujaratiPronunciation": "રિકેલિબ્રેટિંગ", "hindiPronunciation": "रीकैलिब्रेटिंग", "gujaratiMeaning": "પુનઃગોઠવણ કરી રહ્યું છે", "hindiMeaning": "पुनः समायोजित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Readjust", "gujaratiPronunciation": "રિએડજસ્ટ", "hindiPronunciation": "रीएडजस्ट", "gujaratiMeaning": "ફરીથી ગોઠવવું", "hindiMeaning": "पुनः समायोजित करना" },
+        { "word": "Reset", "gujaratiPronunciation": "રિસિટ", "hindiPronunciation": "रीसेट", "gujaratiMeaning": "ફરીથી સેટ કરવું", "hindiMeaning": "पुनःตั้ง करना" }
+      ],
+      "antonyms": [
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" },
+        { "word": "Fix", "gujaratiPronunciation": "ફિક્સ", "hindiPronunciation": "फिक्स", "gujaratiMeaning": "સ્થિર કરવું", "hindiMeaning": "स्थिर करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "We need to recalibrate our strategy.",
+          "gujaratiTranslation": "આપણે આપણી વ્યૂહરચનાને ફરીથી ગોઠવવાની જરૂર છે.",
+          "hindiTranslation": "हमें अपनी रणनीति को फिर से समायोजित करने की आवश्यकता है।",
+          "gujaratiPronunciation": "વી નીડ ટુ રિકેલિબ્રેટ અવર સ્ટ્રેટેજી.",
+          "hindiPronunciation": "वी नीड टू रीकैलिब्रेट आवर स्ट्रेटेजी।"
+        }
+      ]
+    },
+    {
+      "word": "Adapt",
+      "gujaratiPronunciation": "એડેપ્ટ",
+      "hindiPronunciation": "अडैप्ट",
+      "gujaratiMeaning": "અનુકૂલન સાધવું",
+      "hindiMeaning": "अनुकूल बनाना, अपनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Adapt", "gujaratiPronunciation": "એડેપ્ટ", "hindiPronunciation": "अडैप्ट", "gujaratiMeaning": "અનુકૂલન સાધવું", "hindiMeaning": "अनुकूल बनाना" },
+        "V2 (Past)": { "word": "Adapted", "gujaratiPronunciation": "એડેપ્ટેડ", "hindiPronunciation": "अडैप्टेड", "gujaratiMeaning": "અનુકૂલન સાધ્યું", "hindiMeaning": "अनुकूल बनाया" },
+        "V3 (Past Participle)": { "word": "Adapted", "gujaratiPronunciation": "એડેપ્ટેડ", "hindiPronunciation": "अडैप्टेड", "gujaratiMeaning": "અનુકૂલિત", "hindiMeaning": "अनुकूलित" },
+        "V4 (Present Participle)": { "word": "Adapting", "gujaratiPronunciation": "એડેપ્ટિંગ", "hindiPronunciation": "अडैप्टिंग", "gujaratiMeaning": "અનુકૂલન સાધી રહ્યું છે", "hindiMeaning": "अनुकूल बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Adjust", "gujaratiPronunciation": "એડજસ્ટ", "hindiPronunciation": "एडजस्ट", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "समायोजित करना" },
+        { "word": "Acclimatize", "gujaratiPronunciation": "એક્લાઇમેટાઇઝ", "hindiPronunciation": "एक्लाइमेटाइज़", "gujaratiMeaning": "વાતાવરણને અનુકૂળ થવું", "hindiMeaning": "जलवायु के अनुकूल होना" }
+      ],
+      "antonyms": [
+        { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" },
+        { "word": "Resist", "gujaratiPronunciation": "રેઝિસ્ટ", "hindiPronunciation": "रेजिस्ट", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" }
+      ],
+      "confusingWords": [
+        { "word": "Adopt", "gujaratiPronunciation": "એડોપ્ટ", "hindiPronunciation": "अडॉन्ट", "gujaratiMeaning": "દત્તક લેવું", "hindiMeaning": "अपनाना, गोद लेना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Animals must adapt to their environment.",
+          "gujaratiTranslation": "પ્રાણીઓએ તેમના પર્યાવરણ સાથે અનુકૂલન સાધવું જ જોઈએ.",
+          "hindiTranslation": "जानवरों को अपने पर्यावरण के अनुकूल होना चाहिए।",
+          "gujaratiPronunciation": "એનિમલ્સ મસ્ટ એડેપ્ટ ટુ ધેર એન્વાયરમેન્ટ.",
+          "hindiPronunciation": "एनिमल्स मस्ट अडैप्ट टू देयर एनवायरनमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Morph",
+      "gujaratiPronunciation": "મોર્ફ",
+      "hindiPronunciation": "मॉर्फ",
+      "gujaratiMeaning": "રૂપાંતરિત થવું, આકાર બદલવો",
+      "hindiMeaning": "रूप बदलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Morph", "gujaratiPronunciation": "મોર્ફ", "hindiPronunciation": "मॉर्फ", "gujaratiMeaning": "રૂપાંતરિત થવું", "hindiMeaning": "रूप बदलना" },
+        "V2 (Past)": { "word": "Morphed", "gujaratiPronunciation": "મોર્ફ્ડ", "hindiPronunciation": "मॉर्फ्ड", "gujaratiMeaning": "રૂપાંતરિત થયું", "hindiMeaning": "रूप बदला" },
+        "V3 (Past Participle)": { "word": "Morphed", "gujaratiPronunciation": "મોર્ફ્ડ", "hindiPronunciation": "मॉर्फ्ड", "gujaratiMeaning": "રૂપાંતરિત થયેલું", "hindiMeaning": "रूपांतरित" },
+        "V4 (Present Participle)": { "word": "Morphing", "gujaratiPronunciation": "મોર્ફિંગ", "hindiPronunciation": "मॉर्फिंग", "gujaratiMeaning": "રૂપાંતરિત થઈ રહ્યું છે", "hindiMeaning": "रूप बदल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Transform", "gujaratiPronunciation": "ટ્રાન્સફોર્મ", "hindiPronunciation": "ट्रांसफॉर्म", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "रूपांतरित करना" },
+        { "word": "Change", "gujaratiPronunciation": "ચેન્જ", "hindiPronunciation": "चेंज", "gujaratiMeaning": "બદલવું", "hindiMeaning": "बदलना" }
+      ],
+      "antonyms": [
+        { "word": "Remain", "gujaratiPronunciation": "રિમેન", "hindiPronunciation": "रिमेन", "gujaratiMeaning": "રહેવું", "hindiMeaning": "बने रहना" },
+        { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The caterpillar will morph into a butterfly.",
+          "gujaratiTranslation": "ઈયળ પતંગિયામાં રૂપાંતરિત થશે.",
+          "hindiTranslation": "कैटरपिलर एक तितली में बदल जाएगा।",
+          "gujaratiPronunciation": "ધ કેટરપિલર વિલ મોર્ફ ઇનટુ અ બટરફ્લાય.",
+          "hindiPronunciation": "द कैटरपिलर विल मॉर्फ इनटू अ बटरफ्लाई।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "level-4",
+    "title": "Playtime 3",
+    "words": [
+        { "word": "Hide", "icon": "🙈", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपना", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड" },
+        { "word": "Catch", "icon": "🥎", "gujaratiMeaning": "પકડવું", "hindiMeaning": "पकड़ना", "gujaratiPronunciation": "કેચ", "hindiPronunciation": "कैच" },
+        { "word": "Swim", "icon": "🏊", "gujaratiMeaning": "તરવું", "hindiMeaning": " तैरना", "gujaratiPronunciation": "સ્વિમ", "hindiPronunciation": "स्विम" },
+        { "word": "Climb", "icon": "🧗", "gujaratiMeaning": "ચડવું", "hindiMeaning": "चढ़ना", "gujaratiPronunciation": "ક્લાઇમ્બ", "hindiPronunciation": "क्लाइंब" },
+        { "word": "Slide", "icon": "🛝", "gujaratiMeaning": "સરકવું", "hindiMeaning": "फिसलना", "gujaratiPronunciation": "સ્લાઇડ", "hindiPronunciation": "स्लाइड" }
+    ]
+}

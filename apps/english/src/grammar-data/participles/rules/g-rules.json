@@ -1,0 +1,286 @@
+{
+  "id": "participles-gu",
+  "title": "Participles (કૃદંત)",
+  "description": "કૃદંત એ ક્રિયાપદનું એવું રૂપ છે જે વાક્યમાં વિશેષણ, ક્રિયાવિશેષણ અથવા સંજ્ઞા તરીકે કાર્ય કરે છે.",
+  "content": [
+    {
+      "type": "heading",
+      "content": "કૃદંતના પ્રકારો (Types of Participles)"
+    },
+    {
+      "type": "paragraph",
+      "content": "અંગ્રેજી વ્યાકરણમાં મુખ્યત્વે ત્રણ પ્રકારના કૃદંત હોય છે:"
+    },
+    {
+      "type": "list",
+      "content": [
+        "<b>Present Participle (વર્તમાન કૃદંત)</b> - જે 'V-ing' થી બને છે.",
+        "<b>Past Participle (ભૂત કૃદંત)</b> - જે ક્રિયાપદનું ત્રીજું રૂપ (V3) છે.",
+        "<b>Perfect Participle (પૂર્ણ કૃદંત)</b> - જે 'having + V3' થી બને છે."
+      ]
+    },
+    {
+      "type": "section",
+      "title": "1. Present Participle (વર્તમાન કૃદંત)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>રચના:</b> Verb + ing<br><b>ઉપયોગ:</b> ચાલુ ક્રિયા દર્શાવવા અથવા વિશેષણ તરીકે."
+        },
+        {
+          "type": "note",
+          "content": "<b>Pro Tip:</b> જ્યારે બે ક્રિયાઓ એક સાથે થતી હોય, ત્યારે વર્તમાન કૃદંતનો ઉપયોગ થાય છે. દા.ત., <b>Crying</b>, the baby looked for its mother."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "મુખ્ય ઉપયોગો (Main Uses)",
+            "headers": [
+              "ઉપયોગ",
+              "રચના",
+              "ઉદાહરણ (Example)"
+            ],
+            "rows": [
+              [
+                "ચાલુ કાળમાં",
+                "am/is/are/was/were + V-ing",
+                "He is <b>writing</b> a letter.<br>(તે પત્ર લખી રહ્યો છે.)"
+              ],
+              [
+                "વિશેષણ તરીકે (Adjective)",
+                "Participle + Noun",
+                "Look at the <b>running</b> train.<br>(દોડતી ટ્રેન જુઓ.)"
+              ],
+              [
+                "બે ક્રિયાઓ સાથે બતાવવા",
+                "V-ing..., Subject + Verb...",
+                "<b>Opening</b> the door, he went inside.<br>(દરવાજો ખોલીને તે અંદર ગયો.)"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "ક્રિયાપદો જેની પાછળ હંમેશા V-ing આવે છે (Verbs + Gerund)",
+            "headers": [
+              "Verb List",
+              "Example"
+            ],
+            "rows": [
+              [
+                "<b>Admit, Avoid, Delay, Deny</b>",
+                "He <b>admitted stealing</b> the money.<br>(તેણે પૈસા ચોર્યાનું કબૂલ્યું.)"
+              ],
+              [
+                "<b>Enjoy, Finish, Forgive, Keep</b>",
+                "I <b>enjoy reading</b>.<br>(મને વાંચવું ગમે છે.)"
+              ],
+              [
+                "<b>Mind, Miss, Postpone, Risk</b>",
+                "Would you <b>mind closing</b> the door?<br>(તમે દરવાજો બંધ કરશો?)"
+              ],
+              [
+                "<b>Stop, Suggest, Understand</b>",
+                "<b>Stop talking</b>!<br>(વાતો કરવાનું બંધ કરો!)"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "ક્રિયાપદો જેની પાછળ V-ing અથવા Infinitive બંને આવી શકે",
+            "headers": [
+              "Verb List",
+              "Example (V-ing / To V1)"
+            ],
+            "rows": [
+              [
+                "<b>Begin, Continue, Hate</b>",
+                "He <b>began crying</b>. / He <b>began to cry</b>."
+              ],
+              [
+                "<b>Like, Love, Prefer, Start</b>",
+                "I <b>like swimming</b>. / I <b>like to swim</b>."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "નવા નિયમો (Advanced Rules)",
+            "headers": [
+              "Rule Topic",
+              "Explanation & Example"
+            ],
+            "rows": [
+              [
+                "<b>Possessives + V-ing</b>",
+                "નામ/સર્વનામ સાથે સંબંધક રૂપ વપરાય છે.<br>Example: I don't like <b>his coming</b> late. (મને તેનું મોડા આવવું ગમતું નથી.)"
+              ],
+              [
+                "<b>Passive Meaning with 'Need'</b>",
+                "Need/Want/Require સાથે V-ing આવે તો Passive અર્થ નીકળે છે.<br>Example: My car <b>needs repairing</b>. (મારી કારને રિપેરિંગની જરૂર છે - રિપેર થવાની)"
+              ],
+              [
+                "<b>See/Hear/Watch + V-ing</b>",
+                "ક્રિયા ચાલુ હોય ત્યારે.<br>Example: I saw him <b>crossing</b> the road."
+              ],
+              [
+                "<b>See/Hear/Watch + V1</b>",
+                "આખી ક્રિયા પૂરી થઈ હોય ત્યારે.<br>Example: I saw him <b>cross</b> the road."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "ખાસ શબ્દપ્રયોગો (Special Expressions)",
+            "headers": [
+              "Expression",
+              "Example"
+            ],
+            "rows": [
+              [
+                "<b>It's no use / It's no good</b>",
+                "It's no use <b>crying</b> now."
+              ],
+              [
+                "<b>It is worth</b>",
+                "This movie is worth <b>watching</b>."
+              ],
+              [
+                "<b>Can't help</b>",
+                "I can't help <b>laughing</b>."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "2. Past Participle (ભૂત કૃદંત)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>રચના:</b> Verbનું ત્રીજું રૂપ (V3)<br><b>ઉપયોગ:</b> પૂર્ણ થયેલી ક્રિયા, Passive Voice, અથવા વિશેષણ તરીકે."
+        },
+        {
+          "type": "note",
+          "content": "<b>Pro Tip:</b> ભૂત કૃદંત ઘણીવાર કોઈ વસ્તુ કે વ્યક્તિ પર થયેલી ક્રિયાની અસર બતાવવા માટે વિશેષણ તરીકે વપરાય છે. દા.ત., a <b>broken</b> chair (તૂટેલી ખુરશી)."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "મુખ્ય ઉપયોગો (Main Uses)",
+            "headers": [
+              "ઉપયોગ",
+              "રચના",
+              "ઉદાહરણ (Example)"
+            ],
+            "rows": [
+              [
+                "પૂર્ણ કાળમાં (Perfect Tenses)",
+                "has/have/had + V3",
+                "She has <b>finished</b> her work.<br>(તેણીએ તેનું કામ પૂર્ણ કરી દીધું છે.)"
+              ],
+              [
+                "Passive Voice માં",
+                "be + V3",
+                "The letter was <b>written</b> by him.<br>(પત્ર તેના દ્વારા લખવામાં આવ્યો હતો.)"
+              ],
+              [
+                "વિશેષણ તરીકે (Adjective)",
+                "Participle + Noun",
+                "I saw a <b>tired</b> man.<br>(મેં એક થાકેલા માણસને જોયો.)"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "paragraph",
+          "content": "<b>Participle Phrases:</b><br>જ્યારે Past Participle સાથે અન્ય શબ્દો જોડાયેલા હોય, ત્યારે તે નામની પાછળ આવે છે.<br><i>Example:</i> The money <b>collected for charity</b> was stolen. (ચેરીટી માટે ભેગા થયેલા પૈસા ચોરાઈ ગયા.)"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "3. Perfect Participle (પૂર્ણ કૃદંત)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>રચના:</b> Having + V3<br><b>ઉપયોગ:</b> એક ક્રિયા પૂરી થયા પછી બીજી ક્રિયા શરૂ થાય ત્યારે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "ઉપયોગો અને ઉદાહરણો",
+            "headers": [
+              "પ્રકાર",
+              "રચના",
+              "ઉદાહરણ (Example)"
+            ],
+            "rows": [
+              [
+                "Active Voice",
+                "Having + V3",
+                "<b>Having completed</b> his homework, he went to play.<br>(તેનું હોમવર્ક પૂરું કરીને, તે રમવા ગયો.)"
+              ],
+              [
+                "Passive Voice",
+                "Having been + V3",
+                "<b>Having been defeated</b>, the team left the ground.<br>(હાર પામ્યા પછી, ટીમ મેદાન છોડીને જતી રહી.)"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "4. Causal Verbs (Get/Have)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જ્યારે આપણે કોઈ કામ જાતે ન કરતા બીજા પાસે કરાવીએ ત્યારે 'Get' અથવા 'Have' સાથે ભૂત કૃદંત (V3) નો ઉપયોગ થાય છે."
+        },
+        {
+          "type": "note",
+          "content": "<b>Direct vs Causal:</b><br>I repaired my car (મેં જાતે કરી)<br>I <b>had</b> my car <b>repaired</b> (મેં બીજા પાસે કરાવી)."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Examples",
+            "headers": [
+              "Structure",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Get/Have (Causal)",
+                "He <b>had his house painted</b>.<br>(તેણે તેનું ઘર કલર કરાવ્યું.)"
+              ],
+              [
+                "Get (Passive sense)",
+                "The thieves were <b>caught</b> by the police.<br>(ચોર પોલીસ દ્વારા પકડાયા.)"
+              ],
+              [
+                "Make (Passive sense)",
+                "The announcement will be <b>made</b> soon.<br>(જાહેરાત ટૂંક સમયમાં કરવામાં આવશે.)"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "content": "<b>ખાસ નોંધ:</b> Gerund અને Present Participle બંને V-ing વાળા રૂપો છે, પરંતુ તેમનો ઉપયોગ અલગ છે. Gerund સંજ્ઞા (Noun) તરીકે કાર્ય કરે છે, જ્યારે Present Participle વિશેષણ (Adjective) અથવા ક્રિયાપદ (Verb) તરીકે કાર્ય કરે છે."
+    }
+  ]
+}

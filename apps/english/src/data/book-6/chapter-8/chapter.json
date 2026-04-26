@@ -1,0 +1,14 @@
+
+{
+  "id": "chapter-8",
+  "title": "Sound & Auditory 👂",
+  "gujaratiTitle": "ધ્વનિ અને શ્રવણ 👂",
+  "hindiTitle": "ध्वनि और श्रवण 👂",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" },
+    { "id": "level-5" }
+  ]
+}

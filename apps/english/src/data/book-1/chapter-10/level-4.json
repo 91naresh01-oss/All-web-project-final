@@ -1,0 +1,11 @@
+{
+    "id": "level-4",
+    "title": "Treats & Fast Food",
+    "words": [
+        { "word": "Cake", "icon": "🎂", "gujaratiPronunciation": "કેક", "hindiPronunciation": "केक", "gujaratiMeaning": "કેક", "hindiMeaning": "केक" },
+        { "word": "Chocolate", "icon": "🍫", "gujaratiPronunciation": "ચોકલેટ", "hindiPronunciation": "चॉकलेट", "gujaratiMeaning": "ચોકલેટ", "hindiMeaning": "चॉकलेट" },
+        { "word": "Ice Cream", "icon": "🍦", "gujaratiPronunciation": "આઈસ્ક્રીમ", "hindiPronunciation": "आइसक्रीम", "gujaratiMeaning": "આઈસ્ક્રીમ", "hindiMeaning": "आइसक्रीम" },
+        { "word": "Pizza", "icon": "🍕", "gujaratiPronunciation": "પિઝા", "hindiPronunciation": "पिज्जा", "gujaratiMeaning": "પિઝા", "hindiMeaning": "पिज्जा" },
+        { "word": "Sandwich", "icon": "🥪", "gujaratiPronunciation": "સેન્ડવિચ", "hindiPronunciation": "सैंडविच", "gujaratiMeaning": "સેન્ડવિચ", "hindiMeaning": "सैंडविच" }
+    ]
+}

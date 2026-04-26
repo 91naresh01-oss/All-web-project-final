@@ -1,0 +1,47 @@
+
+{
+    "id": "level-3",
+    "title": "3D Shapes",
+    "words": [
+        {
+            "word": "Cube",
+            "icon": "🧊",
+            "gujaratiPronunciation": "ક્યુબ",
+            "hindiPronunciation": "क्यूब",
+            "gujaratiMeaning": "ઘન",
+            "hindiMeaning": "घन"
+        },
+        {
+            "word": "Cone",
+            "icon": "🍦",
+            "gujaratiPronunciation": "કોન",
+            "hindiPronunciation": "कोन",
+            "gujaratiMeaning": "શંકુ",
+            "hindiMeaning": "शंकु"
+        },
+        {
+            "word": "Sphere",
+            "icon": "🌐",
+            "gujaratiPronunciation": "સ્ફિયર",
+            "hindiPronunciation": "स्फियर",
+            "gujaratiMeaning": "ગોળો",
+            "hindiMeaning": "गोला"
+        },
+        {
+            "word": "Cylinder",
+            "icon": "🥫",
+            "gujaratiPronunciation": "સિલીન્ડર",
+            "hindiPronunciation": "सिलेंडर",
+            "gujaratiMeaning": "નળાકાર",
+            "hindiMeaning": "बेलन"
+        },
+        {
+            "word": "Pyramid",
+            "icon": "🔺",
+            "gujaratiPronunciation": "પિરામિડ",
+            "hindiPronunciation": "पिरामिड",
+            "gujaratiMeaning": "પિરામિડ",
+            "hindiMeaning": "पिरामिड"
+        }
+    ]
+}

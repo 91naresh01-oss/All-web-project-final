@@ -1,0 +1,77 @@
+
+{
+  "id": "level-3",
+  "title": "Feelings 3",
+  "words": [
+    {
+      "word": "Cheerful",
+      "gujaratiPronunciation": "ચિયરફુલ",
+      "hindiPronunciation": "चेयरफुल",
+      "gujaratiMeaning": "આનંદી",
+      "hindiMeaning": "हंसमुख",
+      "exampleSentences": [
+        {
+          "sentence": "He is always cheerful.",
+          "gujaratiTranslation": "તે હંમેશા આનંદી રહે છે.",
+          "hindiTranslation": "वह हमेशा हंसमुख रहता है।"
+        }
+      ]
+    },
+    {
+      "word": "Lonely",
+      "gujaratiPronunciation": "લોન્લી",
+      "hindiPronunciation": "लोनली",
+      "gujaratiMeaning": "એકલું",
+      "hindiMeaning": "अकेला",
+      "exampleSentences": [
+        {
+          "sentence": "She feels lonely sometimes.",
+          "gujaratiTranslation": "તેણી ક્યારેક એકલતા અનુભવે છે.",
+          "hindiTranslation": "वह कभी-कभी अकेला महसूस करती है।"
+        }
+      ]
+    },
+    {
+      "word": "Shy",
+      "gujaratiPronunciation": "શાય",
+      "hindiPronunciation": "शाइ",
+      "gujaratiMeaning": "શરમાળ",
+      "hindiMeaning": "शर्मीला",
+      "exampleSentences": [
+        {
+          "sentence": "The little girl is very shy.",
+          "gujaratiTranslation": "નાની છોકરી ખૂબ શરમાળ છે.",
+          "hindiTranslation": "छोटी लड़की बहुत शर्मीली है।"
+        }
+      ]
+    },
+    {
+      "word": "Brave",
+      "gujaratiPronunciation": "બ્રેવ",
+      "hindiPronunciation": "ब्रेव",
+      "gujaratiMeaning": "બહાદુર",
+      "hindiMeaning": "बहादुर",
+      "exampleSentences": [
+        {
+          "sentence": "The soldier was very brave.",
+          "gujaratiTranslation": "સૈનિક ખૂબ બહાદુર હતો.",
+          "hindiTranslation": "सैनिक बहुत बहादुर था।"
+        }
+      ]
+    },
+    {
+      "word": "Nervous",
+      "gujaratiPronunciation": "નર્વસ",
+      "hindiPronunciation": "नर्वस",
+      "gujaratiMeaning": "ગભરાયેલું",
+      "hindiMeaning": "घबराया हुआ",
+      "exampleSentences": [
+        {
+          "sentence": "I feel nervous before an exam.",
+          "gujaratiTranslation": "પરીક્ષા પહેલા હું ગભરાઈ જાઉં છું.",
+          "hindiTranslation": "मैं परीक्षा से पहले घबरा जाता हूँ।"
+        }
+      ]
+    }
+  ]
+}

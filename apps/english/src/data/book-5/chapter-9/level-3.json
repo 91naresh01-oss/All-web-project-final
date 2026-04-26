@@ -1,0 +1,178 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Apprehend",
+      "gujaratiPronunciation": "એપ્રીહેન્ડ",
+      "hindiPronunciation": "एप्रीहेंड",
+      "gujaratiMeaning": "સમજવું, પકડવું",
+      "hindiMeaning": "समझना, पकड़ना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Apprehend", "gujaratiPronunciation": "એપ્રીહેન્ડ", "hindiPronunciation": "एप्रीहेंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        "V2": { "word": "Apprehended", "gujaratiPronunciation": "એપ્રીહેન્ડેડ", "hindiPronunciation": "एप्रीहेंडेड", "gujaratiMeaning": "સમજ્યું", "hindiMeaning": "समझा" },
+        "V3": { "word": "Apprehended", "gujaratiPronunciation": "એપ્રીહેન્ડેડ", "hindiPronunciation": "एप्रीहेंडेड", "gujaratiMeaning": "સમજેલું", "hindiMeaning": "समझा हुआ" },
+        "V4": { "word": "Apprehending", "gujaratiPronunciation": "એપ્રીહેન્ડિંગ", "hindiPronunciation": "एप्रीहेंडिंग", "gujaratiMeaning": "સમજી રહ્યું છે", "hindiMeaning": "समझ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Understand", "gujaratiPronunciation": "અંડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        { "word": "Arrest", "gujaratiPronunciation": "અરેસ્ટ", "hindiPronunciation": "अरेस्ट", "gujaratiMeaning": "ધરપકડ કરવી", "hindiMeaning": "गिरफ्तार करना" }
+      ],
+      "antonyms": [
+        { "word": "Release", "gujaratiPronunciation": "રિલીઝ", "hindiPronunciation": "रिलीज़", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ देना" },
+        { "word": "Misunderstand", "gujaratiPronunciation": "મિસઅંડરસ્ટેન્ડ", "hindiPronunciation": "मिसअंडरस्टैंड", "gujaratiMeaning": "ખોટું સમજવું", "hindiMeaning": "गलत समझना" }
+      ],
+      "confusingWords": [
+        { "word": "Comprehend", "gujaratiPronunciation": "કોમ્પ્રીહેન્ડ", "hindiPronunciation": "कॉम्प्रिहेंड", "gujaratiMeaning": "સંપૂર્ણપણે સમજવું", "hindiMeaning": "पूरी तरह से समझना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The police apprehended the suspect.",
+          "gujaratiPronunciation": "ધ પોલીસ એપ્રીહેન્ડેડ ધ સસ્પેક્ટ.",
+          "hindiPronunciation": "द पुलिस एप्रीहेंडेड द सस्पेक्ट।",
+          "gujaratiTranslation": "પોલીસે શંકાસ્પદ વ્યક્તિની ધરપકડ કરી.",
+          "hindiTranslation": "पुलिस ने संदिग्ध को पकड़ लिया।"
+        }
+      ]
+    },
+    {
+      "word": "Glimmer",
+      "gujaratiPronunciation": "ગ્લિમર",
+      "hindiPronunciation": "ग्लिमर",
+      "gujaratiMeaning": "ઝબૂકવું",
+      "hindiMeaning": "टिमटिमाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Glimmer", "gujaratiPronunciation": "ગ્લિમર", "hindiPronunciation": "ग्लिमर", "gujaratiMeaning": "ઝબૂકવું", "hindiMeaning": "टिमटिमाना" },
+        "V2": { "word": "Glimmered", "gujaratiPronunciation": "ગ્લિમર્ડ", "hindiPronunciation": "ग्लिमर्ड", "gujaratiMeaning": "ઝબૂક્યું", "hindiMeaning": "टिमटिमाया" },
+        "V3": { "word": "Glimmered", "gujaratiPronunciation": "ગ્લિમર્ડ", "hindiPronunciation": "ग्लिमर्ड", "gujaratiMeaning": "ઝબૂકેલું", "hindiMeaning": "टिमटिमाया हुआ" },
+        "V4": { "word": "Glimmering", "gujaratiPronunciation": "ગ્લિમરિંગ", "hindiPronunciation": "ग्लिमरिंग", "gujaratiMeaning": "ઝબૂકી રહ્યું છે", "hindiMeaning": "टिमटिमा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Shimmer", "gujaratiPronunciation": "શિમર", "hindiPronunciation": "शिमर", "gujaratiMeaning": "ચમકવું", "hindiMeaning": "चमकना" },
+        { "word": "Gleam", "gujaratiPronunciation": "ગ્લીમ", "hindiPronunciation": "ग्लीम", "gujaratiMeaning": "કિરણ", "hindiMeaning": "किरण" }
+      ],
+      "antonyms": [
+        { "word": "Darkness", "gujaratiPronunciation": "ડાર્કનેસ", "hindiPronunciation": "डार्कनेस", "gujaratiMeaning": "અંધકાર", "hindiMeaning": "अंधेरा" },
+        { "word": "Dullness", "gujaratiPronunciation": "ડલનેસ", "hindiPronunciation": "डलनेस", "gujaratiMeaning": "નિસ્તેજતા", "hindiMeaning": "नीरसता" }
+      ],
+      "confusingWords": [
+        { "word": "Glamour", "gujaratiPronunciation": "ગ્લેમર", "hindiPronunciation": "ग्लैमर", "gujaratiMeaning": "આકર્ષણ", "hindiMeaning": "आकर्षण" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A glimmer of hope appeared.",
+          "gujaratiPronunciation": "અ ગ્લિમર ઓફ હોપ અપીયર્ડ.",
+          "hindiPronunciation": "ए ग्लिमर ऑफ होप अपीयर्ड।",
+          "gujaratiTranslation": "આશાનું એક કિરણ દેખાયું.",
+          "hindiTranslation": "आशा की एक किरण दिखाई दी।"
+        }
+      ]
+    },
+    {
+      "word": "Resound",
+      "gujaratiPronunciation": "રિસાઉન્ડ",
+      "hindiPronunciation": "रिसाउंड",
+      "gujaratiMeaning": "પડઘો પાડવો",
+      "hindiMeaning": "गूंजना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Resound", "gujaratiPronunciation": "રિસાઉન્ડ", "hindiPronunciation": "रिसाउंड", "gujaratiMeaning": "પડઘો પાડવો", "hindiMeaning": "गूंजना" },
+        "V2": { "word": "Resounded", "gujaratiPronunciation": "રિસાઉન્ડેડ", "hindiPronunciation": "रिसाउंडेड", "gujaratiMeaning": "પડઘો પાડ્યો", "hindiMeaning": "गूंजा" },
+        "V3": { "word": "Resounded", "gujaratiPronunciation": "રિસાઉન્ડેડ", "hindiPronunciation": "रिसाउंडेड", "gujaratiMeaning": "પડઘો પાડેલો", "hindiMeaning": "गूंजा हुआ" },
+        "V4": { "word": "Resounding", "gujaratiPronunciation": "રિસાઉન્ડિંગ", "hindiPronunciation": "रिसाउंडिंग", "gujaratiMeaning": "પડઘો પાડી રહ્યું છે", "hindiMeaning": "गूंज रहा है" }
+      },
+      "synonyms": [
+        { "word": "Echo", "gujaratiPronunciation": "એકો", "hindiPronunciation": "एको", "gujaratiMeaning": "પડઘો", "hindiMeaning": "गूंज" },
+        { "word": "Reverberate", "gujaratiPronunciation": "રિવર્બરેટ", "hindiPronunciation": "रिवरबरेट", "gujaratiMeaning": "પ્રતિધ્વનિત થવું", "hindiMeaning": "प्रतिध्वनित होना" }
+      ],
+      "antonyms": [
+        { "word": "Silence", "gujaratiPronunciation": "સાઈલન્સ", "hindiPronunciation": "साइलेंस", "gujaratiMeaning": "શાંતિ", "hindiMeaning": "शांति" },
+        { "word": "Quiet", "gujaratiPronunciation": "ક્વાયટ", "hindiPronunciation": "क्वायट", "gujaratiMeaning": "શાંત", "hindiMeaning": "शांत" }
+      ],
+      "confusingWords": [
+        { "word": "Rescind", "gujaratiPronunciation": "રિસિન્ડ", "hindiPronunciation": "रिसिंड", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The hall resounded with applause.",
+          "gujaratiPronunciation": "ધ હૉલ રિસાઉન્ડેડ વિથ અપ્લોઝ.",
+          "hindiPronunciation": "द हॉल रिसाउंडेड विद अप्लॉज।",
+          "gujaratiTranslation": "આખો હોલ તાળીઓથી ગુંજી ઉઠ્યો.",
+          "hindiTranslation": "पूरा हॉल तालियों से गूंज उठा।"
+        }
+      ]
+    },
+    {
+      "word": "Texture",
+      "gujaratiPronunciation": "ટેક્સચર",
+      "hindiPronunciation": "टेक्सचर",
+      "gujaratiMeaning": "પોત",
+      "hindiMeaning": "बनावट",
+      "partOfSpeech": "noun",
+      "verbForms": {
+        "V1": { "word": "Texture", "gujaratiPronunciation": "ટેક્સચર", "hindiPronunciation": "टेक्सचर", "gujaratiMeaning": "પોત આપવું", "hindiMeaning": "बनावट देना" },
+        "V2": { "word": "Textured", "gujaratiPronunciation": "ટેક્સચર્ડ", "hindiPronunciation": "टेक्सचर्ड", "gujaratiMeaning": "પોત આપ્યું", "hindiMeaning": "बनावट दी" },
+        "V3": { "word": "Textured", "gujaratiPronunciation": "ટેક્સચર્ડ", "hindiPronunciation": "टेक्सचर्ड", "gujaratiMeaning": "પોત આપેલું", "hindiMeaning": "बनावट दिया हुआ" },
+        "V4": { "word": "Texturing", "gujaratiPronunciation": "ટેક્સચરિંગ", "hindiPronunciation": "टेक्सचरिंग", "gujaratiMeaning": "પોત આપી રહ્યું છે", "hindiMeaning": "बनावट दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Feel", "gujaratiPronunciation": "ફીલ", "hindiPronunciation": "फील", "gujaratiMeaning": "અનુભવ", "hindiMeaning": "अनुभव" },
+        { "word": "Surface", "gujaratiPronunciation": "સરફેસ", "hindiPronunciation": "सरफेस", "gujaratiMeaning": "સપાટી", "hindiMeaning": "सतह" }
+      ],
+      "antonyms": [
+        { "word": "Smoothness", "gujaratiPronunciation": "સ્મૂધનેસ", "hindiPronunciation": "स्मूथनेस", "gujaratiMeaning": "સુવાળુંપણું", "hindiMeaning": "चिकनाई" },
+        { "word": "Homogeneity", "gujaratiPronunciation": "હોમોજિનિટી", "hindiPronunciation": "होमोजेनिटी", "gujaratiMeaning": "એકસમાનતા", "hindiMeaning": "एकरूपता" }
+      ],
+      "confusingWords": [
+        { "word": "Lecture", "gujaratiPronunciation": "લેક્ચર", "hindiPronunciation": "लेक्चर", "gujaratiMeaning": "વ્યાખ્યાન", "hindiMeaning": "व्याख्यान" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The fabric has a soft texture.",
+          "gujaratiPronunciation": "ધ ફેબ્રિક હેઝ અ સોફ્ટ ટેક્સચર.",
+          "hindiPronunciation": "द फैब्रिक हैज़ ए सॉफ्ट टेक्सचर।",
+          "gujaratiTranslation": "આ કાપડનું પોત નરમ છે.",
+          "hindiTranslation": "इस कपड़े की बनावट नरम है।"
+        }
+      ]
+    },
+    {
+      "word": "Heed",
+      "gujaratiPronunciation": "હીડ",
+      "hindiPronunciation": "हीड",
+      "gujaratiMeaning": "ધ્યાન આપવું",
+      "hindiMeaning": "ध्यान देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Heed", "gujaratiPronunciation": "હીડ", "hindiPronunciation": "हीड", "gujaratiMeaning": "ધ્યાન આપવું", "hindiMeaning": "ध्यान देना" },
+        "V2": { "word": "Heeded", "gujaratiPronunciation": "હીડેડ", "hindiPronunciation": "हीडेड", "gujaratiMeaning": "ધ્યાન આપ્યું", "hindiMeaning": "ध्यान दिया" },
+        "V3": { "word": "Heeded", "gujaratiPronunciation": "હીડેડ", "hindiPronunciation": "हीडेड", "gujaratiMeaning": "ધ્યાન આપેલું", "hindiMeaning": "ध्यान दिया हुआ" },
+        "V4": { "word": "Heeding", "gujaratiPronunciation": "હીડિંગ", "hindiPronunciation": "हीडिंग", "gujaratiMeaning": "ધ્યાન આપી રહ્યું છે", "hindiMeaning": "ध्यान दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Listen", "gujaratiPronunciation": "લિસન", "hindiPronunciation": "लिसन", "gujaratiMeaning": "સાંભળવું", "hindiMeaning": "सुनना" },
+        { "word": "Obey", "gujaratiPronunciation": "ઓબે", "hindiPronunciation": "ओबे", "gujaratiMeaning": "આજ્ઞાનું પાલન કરવું", "hindiMeaning": "आज्ञा का पालन करना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Disregard", "gujaratiPronunciation": "ડિસરિગાર્ડ", "hindiPronunciation": "डिसरिगार्ड", "gujaratiMeaning": "અનાદર કરવો", "hindiMeaning": "अवहेलना करना" }
+      ],
+      "confusingWords": [
+        { "word": "Head", "gujaratiPronunciation": "હેડ", "hindiPronunciation": "हेड", "gujaratiMeaning": "માથું", "hindiMeaning": "सिर" },
+        { "word": "Hid", "gujaratiPronunciation": "હિડ", "hindiPronunciation": "हिड", "gujaratiMeaning": "સંતાડ્યું", "hindiMeaning": "छिपाया" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You should heed my warning.",
+          "gujaratiPronunciation": "યુ શુડ હીડ માય વોર્નિંગ.",
+          "hindiPronunciation": "यू शुड हीड माय वॉर्निंग।",
+          "gujaratiTranslation": "તમારે મારી ચેતવણી પર ધ્યાન આપવું જોઈએ.",
+          "hindiTranslation": "तुम्हें मेरी चेतावनी पर ध्यान देना चाहिए।"
+        }
+      ]
+    }
+  ]
+}

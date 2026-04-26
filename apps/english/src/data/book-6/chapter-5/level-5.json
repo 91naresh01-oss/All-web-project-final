@@ -1,0 +1,491 @@
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Ascribe",
+            "gujaratiPronunciation": "એસ્ક્રાઇબ",
+            "hindiPronunciation": "एस्क्राइब",
+            "gujaratiMeaning": "આરોપણ કરવું, શ્રેય આપવો",
+            "hindiMeaning": "आरोपित करना, श्रेय देना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Ascribe",
+                    "gujaratiPronunciation": "એસ્ક્રાઇબ",
+                    "hindiPronunciation": "एस्क्राइब",
+                    "gujaratiMeaning": "આરોપણ કરવું",
+                    "hindiMeaning": "आरोपित करना"
+                },
+                "V2 (Past)": {
+                    "word": "Ascribed",
+                    "gujaratiPronunciation": "એસ્ક્રાઇબ્ડ",
+                    "hindiPronunciation": "एस्क्राइब्ड",
+                    "gujaratiMeaning": "આરોપણ કર્યું",
+                    "hindiMeaning": "आरोपित किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Ascribed",
+                    "gujaratiPronunciation": "એસ્ક્રાઇબ્ડ",
+                    "hindiPronunciation": "एस्क्राइब्ड",
+                    "gujaratiMeaning": "આરોપણ કરેલું",
+                    "hindiMeaning": "आरोपित किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Ascribing",
+                    "gujaratiPronunciation": "એસ્ક્રાઇબિંગ",
+                    "hindiPronunciation": "एस्क्राइबिंग",
+                    "gujaratiMeaning": "આરોપણ કરી રહ્યા છે",
+                    "hindiMeaning": "आरोपित कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Attribute",
+                    "gujaratiPronunciation": "એટ્રિબ્યુટ",
+                    "hindiPronunciation": "एट्रिब्यूट",
+                    "gujaratiMeaning": "શ્રેય આપવો",
+                    "hindiMeaning": "श्रेय देना"
+                },
+                {
+                    "word": "Assign",
+                    "gujaratiPronunciation": "અસાઇન",
+                    "hindiPronunciation": "असाइन",
+                    "gujaratiMeaning": "સોંપવું",
+                    "hindiMeaning": "सौंपना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Deny",
+                    "gujaratiPronunciation": "ડિનાય",
+                    "hindiPronunciation": "डिनाइ",
+                    "gujaratiMeaning": "ઇનકાર કરવો",
+                    "hindiMeaning": "इनकार करना"
+                },
+                {
+                    "word": "Dissociate",
+                    "gujaratiPronunciation": "ડિસોસિએટ",
+                    "hindiPronunciation": "डिसएसोसिएट",
+                    "gujaratiMeaning": "અલગ કરવું",
+                    "hindiMeaning": "अलग करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Describe",
+                    "gujaratiPronunciation": "ડિસ્ક્રાઇબ",
+                    "hindiPronunciation": "डिस्क्राइब",
+                    "gujaratiMeaning": "વર્ણન કરવું",
+                    "hindiMeaning": "वर्णन करना",
+                    "difference": "Ascribe એટલે કોઈ ગુણ કે કારણનું આરોપણ કરવું, જ્યારે Describe એટલે કોઈ વસ્તુ કેવી દેખાય છે તેનું વર્ણન કરવું."
+                },
+                {
+                    "word": "Inscribe",
+                    "gujaratiPronunciation": "ઇન્સ્ક્રાઇબ",
+                    "hindiPronunciation": "इन्स्क्राइब",
+                    "gujaratiMeaning": "કોતરવું",
+                    "hindiMeaning": "उत्कीर्ण करना",
+                    "difference": "Ascribe એ અમૂર્ત આરોપણ છે, જ્યારે Inscribe એ ભૌતિક રીતે કંઈક લખવું કે કોતરવું છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Philosophers often ascribe human emotions to inanimate objects.",
+                    "gujaratiPronunciation": "ફિલોસોફર્સ ઓફન એસ્ક્રાઇબ હ્યુમન ઇમોશન્સ ટુ ઇનએનિમેટ ઓબ્જેક્ટ્સ.",
+                    "hindiPronunciation": "फिलॉसफर्स ऑफ़न एस्क्राइब ह्यूमन इमोशंस टू इनएनिमेट ऑब्जेक्ट्स।",
+                    "gujaratiTranslation": "દાર્શનિકો ઘણીવાર નિર્જીવ વસ્તુઓ પર માનવ લાગણીઓનું આરોપણ કરે છે.",
+                    "hindiTranslation": "दार्शनिक अक्सर निर्जीव वस्तुओं पर मानवीय भावनाओं का आरोपण करते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Divinate",
+            "gujaratiPronunciation": "ડિવિનેટ",
+            "hindiPronunciation": "डिविनेट",
+            "gujaratiMeaning": "ભવિષ્યકથન કરવું, દૈવી શક્તિથી જાણવું",
+            "hindiMeaning": "भविष्यवाणी करना, दिव्य शक्ति से जानना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Divinate",
+                    "gujaratiPronunciation": "ડિવિનેટ",
+                    "hindiPronunciation": "डिविनेट",
+                    "gujaratiMeaning": "ભવિષ્યકથન કરવું",
+                    "hindiMeaning": "भविष्यवाणी करना"
+                },
+                "V2 (Past)": {
+                    "word": "Divinated",
+                    "gujaratiPronunciation": "ડિવિનેટેડ",
+                    "hindiPronunciation": "डिविनेटेड",
+                    "gujaratiMeaning": "ભવિષ્યકથન કર્યું",
+                    "hindiMeaning": "भविष्यवाणी की"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Divinated",
+                    "gujaratiPronunciation": "ડિવિનેટેડ",
+                    "hindiPronunciation": "डिविनेटेड",
+                    "gujaratiMeaning": "ભવિષ્યકથન કરેલું",
+                    "hindiMeaning": "भविष्यवाणी की हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Divinating",
+                    "gujaratiPronunciation": "ડિવિનેટિંગ",
+                    "hindiPronunciation": "डिविनेटिंग",
+                    "gujaratiMeaning": "ભવિષ્યકથન કરી રહ્યા છે",
+                    "hindiMeaning": "भविष्यवाणी कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Foretell",
+                    "gujaratiPronunciation": "ફોરટેલ",
+                    "hindiPronunciation": "फोरटेल",
+                    "gujaratiMeaning": "આગાહી કરવી",
+                    "hindiMeaning": "भविष्यवाणी करना"
+                },
+                {
+                    "word": "Predict",
+                    "gujaratiPronunciation": "પ્રેડિક્ટ",
+                    "hindiPronunciation": "प्रेडिक्ट",
+                    "gujaratiMeaning": "ભવિષ્યવાણી કરવી",
+                    "hindiMeaning": "भविष्यवाणी करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Recall",
+                    "gujaratiPronunciation": "રિકોલ",
+                    "hindiPronunciation": "रिकॉल",
+                    "gujaratiMeaning": "યાદ કરવું",
+                    "hindiMeaning": "याद करना"
+                },
+                {
+                    "word": "Report",
+                    "gujaratiPronunciation": "રિપોર્ટ",
+                    "hindiPronunciation": "रिपोर्ट",
+                    "gujaratiMeaning": "અહેવાલ આપવો",
+                    "hindiMeaning": "रिपोर्ट करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Divine",
+                    "gujaratiPronunciation": "ડિવાઇન",
+                    "hindiPronunciation": "डिवाइन",
+                    "gujaratiMeaning": "દૈવી",
+                    "hindiMeaning": "दिव्य",
+                    "difference": "Divinate એ ભવિષ્યવાણી કરવાની ક્રિયા છે (ક્રિયાપદ), જ્યારે Divine એ વિશેષણ છે જેનો અર્થ 'દૈવી' થાય છે."
+                },
+                {
+                    "word": "Dominate",
+                    "gujaratiPronunciation": "ડોમિનેટ",
+                    "hindiPronunciation": "डॉमिनट",
+                    "gujaratiMeaning": "વર્ચસ્વ જમાવવું",
+                    "hindiMeaning": "वर्चस्व स्थापित करना",
+                    "difference": "બંને શબ્દોના ઉચ્ચાર અને અર્થ સંપૂર્ણપણે અલગ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The ancient priest claimed he could divinate the will of the gods.",
+                    "gujaratiPronunciation": "ધ એન્શિયન્ટ પ્રીસ્ટ ક્લેમ્ડ હી કુડ ડિવિનેટ ધ વિલ ઓફ ધ ગોડ્સ.",
+                    "hindiPronunciation": "द एंशिएंट प्रीस्ट क्लेम्ड ही कुड डिविनेट द विल ऑफ़ द गॉड्स।",
+                    "gujaratiTranslation": "પ્રાચીન પૂજારીએ દાવો કર્યો કે તે દેવતાઓની ઇચ્છા જાણી શકે છે.",
+                    "hindiTranslation": "प्राचीन पुजारी ने दावा किया कि वह देवताओं की इच्छा जान सकता है।"
+                }
+            ]
+        },
+        {
+            "word": "Mystify",
+            "gujaratiPronunciation": "મિસ્ટીફાય",
+            "hindiPronunciation": "मिस्टिफाइ",
+            "gujaratiMeaning": "ગૂંચવણમાં નાખવું, રહસ્યમય બનાવવું",
+            "hindiMeaning": "उलझन में डालना, रहस्यमय बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Mystify",
+                    "gujaratiPronunciation": "મિસ્ટીફાય",
+                    "hindiPronunciation": "मिस्टिफाइ",
+                    "gujaratiMeaning": "ગૂંચવણમાં નાખવું",
+                    "hindiMeaning": "उलझन में डालना"
+                },
+                "V2 (Past)": {
+                    "word": "Mystified",
+                    "gujaratiPronunciation": "મિસ્ટીફાઇડ",
+                    "hindiPronunciation": "मिस्टिफाइड",
+                    "gujaratiMeaning": "ગૂંચવણમાં નાખ્યું",
+                    "hindiMeaning": "उलझन में डाला"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Mystified",
+                    "gujaratiPronunciation": "મિસ્ટીફાઇડ",
+                    "hindiPronunciation": "मिस्टिफाइड",
+                    "gujaratiMeaning": "ગૂંચવણમાં નાખેલું",
+                    "hindiMeaning": "उलझन में डाला हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Mystifying",
+                    "gujaratiPronunciation": "મિસ્ટીફાઇંગ",
+                    "hindiPronunciation": "मिस्टिफाइंग",
+                    "gujaratiMeaning": "ગૂંચવણમાં નાખી રહ્યા છે",
+                    "hindiMeaning": "उलझन में डाल रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Baffle",
+                    "gujaratiPronunciation": "બેફલ",
+                    "hindiPronunciation": "बैफल",
+                    "gujaratiMeaning": "મૂંઝવવું",
+                    "hindiMeaning": "चकरा देना"
+                },
+                {
+                    "word": "Perplex",
+                    "gujaratiPronunciation": "પરપ્લેક્સ",
+                    "hindiPronunciation": "परप्लेक्स",
+                    "gujaratiMeaning": "વ્યાકુળ કરવું",
+                    "hindiMeaning": "हैरान करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Clarify",
+                    "gujaratiPronunciation": "ક્લેરિફાય",
+                    "hindiPronunciation": "क्लैरिफाइ",
+                    "gujaratiMeaning": "સ્પષ્ટ કરવું",
+                    "hindiMeaning": "स्पष्ट करना"
+                },
+                {
+                    "word": "Enlighten",
+                    "gujaratiPronunciation": "એનલાઇટન",
+                    "hindiPronunciation": "एनलाइटन",
+                    "gujaratiMeaning": "જ્ઞાન આપવું",
+                    "hindiMeaning": "प्रबुद्ध करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Mistake",
+                    "gujaratiPronunciation": "મિસ્ટેક",
+                    "hindiPronunciation": "मिस्टेक",
+                    "gujaratiMeaning": "ભૂલ",
+                    "hindiMeaning": "गलती",
+                    "difference": "Mystify એટલે કોઈને જાણીજોઈને ગૂંચવણમાં નાખવું, જ્યારે Mistake એ અજાણતા થયેલી ભૂલ છે."
+                },
+                {
+                    "word": "Justify",
+                    "gujaratiPronunciation": "જસ્ટિફાય",
+                    "hindiPronunciation": "जस्टिफाइ",
+                    "gujaratiMeaning": "ન્યાયી ઠેરવવું",
+                    "hindiMeaning": "उचित ठहराना",
+                    "difference": "Mystify એ ગૂંચવણ ઊભી કરવી છે, જ્યારે Justify એ કોઈ કાર્યને યોગ્ય ઠેરવવાનો પ્રયાસ છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The complex philosophical text seemed designed to mystify the reader.",
+                    "gujaratiPronunciation": "ધ કોમ્પ્લેક્સ ફિલોસોફિકલ ટેક્સ્ટ સીમ્ડ ડિઝાઇન ટુ મિસ્ટીફાય ધ રીડર.",
+                    "hindiPronunciation": "द कॉम्प्लेक्स फिलोसॉफिकल टेक्स्ट सीम्ड डिजाइंड टू मिस्टिफाइ द रीडर।",
+                    "gujaratiTranslation": "જટિલ દાર્શનિક લખાણ વાચકને ગૂંચવણમાં નાખવા માટે રચાયેલું લાગતું હતું.",
+                    "hindiTranslation": "जटिल दार्शनिक पाठ पाठक को उलझाने के लिए बनाया गया लगता था।"
+                }
+            ]
+        },
+        {
+            "word": "Opine",
+            "gujaratiPronunciation": "ઓપાઇન",
+            "hindiPronunciation": "ओपाइन",
+            "gujaratiMeaning": "અભિપ્રાય આપવો",
+            "hindiMeaning": "राय देना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Opine",
+                    "gujaratiPronunciation": "ઓપાઇન",
+                    "hindiPronunciation": "ओपाइन",
+                    "gujaratiMeaning": "અભિપ્રાય આપવો",
+                    "hindiMeaning": "राय देना"
+                },
+                "V2 (Past)": {
+                    "word": "Opined",
+                    "gujaratiPronunciation": "ઓપાઇન્ડ",
+                    "hindiPronunciation": "ओपाइंड",
+                    "gujaratiMeaning": "અભિપ્રાય આપ્યો",
+                    "hindiMeaning": "राय दी"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Opined",
+                    "gujaratiPronunciation": "ઓપાઇન્ડ",
+                    "hindiPronunciation": "ओपाइंड",
+                    "gujaratiMeaning": "અભિપ્રાય આપેલો",
+                    "hindiMeaning": "राय दी हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Opining",
+                    "gujaratiPronunciation": "ઓપાઇનિંગ",
+                    "hindiPronunciation": "ओपाइनिंग",
+                    "gujaratiMeaning": "અભિપ્રાય આપી રહ્યા છે",
+                    "hindiMeaning": "राय दे रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Suggest",
+                    "gujaratiPronunciation": "સજેસ્ટ",
+                    "hindiPronunciation": "सजेस्ट",
+                    "gujaratiMeaning": "સૂચન કરવું",
+                    "hindiMeaning": "सुझाव देना"
+                },
+                {
+                    "word": "Comment",
+                    "gujaratiPronunciation": "કમેન્ટ",
+                    "hindiPronunciation": "कमेंट",
+                    "gujaratiMeaning": "ટિપ્પણી કરવી",
+                    "hindiMeaning": "टिप्पणी करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Listen",
+                    "gujaratiPronunciation": "લિસન",
+                    "hindiPronunciation": "लिसन",
+                    "gujaratiMeaning": "સાંભળવું",
+                    "hindiMeaning": "सुनना"
+                },
+                {
+                    "word": "Withhold",
+                    "gujaratiPronunciation": "વિથહોલ્ડ",
+                    "hindiPronunciation": "विथहोल्ड",
+                    "gujaratiMeaning": "અટકાવી રાખવું",
+                    "hindiMeaning": "रोक रखना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Open",
+                    "gujaratiPronunciation": "ઓપન",
+                    "hindiPronunciation": "ओपन",
+                    "gujaratiMeaning": "ખુલ્લું",
+                    "hindiMeaning": "खुला",
+                    "difference": "Opine એ અભિપ્રાય આપવાની ક્રિયા છે, જ્યારે Open એ ખુલ્લું હોવાની સ્થિતિ છે."
+                },
+                {
+                    "word": "Pine",
+                    "gujaratiPronunciation": "પાઇન",
+                    "hindiPronunciation": "पाइन",
+                    "gujaratiMeaning": "દેવદાર વૃક્ષ / તડપવું",
+                    "hindiMeaning": "देवदार वृक्ष / तड़पना",
+                    "difference": "Opine એટલે મત આપવો. Pine એ એક વૃક્ષનું નામ છે અથવા કોઈના માટે તડપવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The philosopher opined that true happiness comes from within.",
+                    "gujaratiPronunciation": "ધ ફિલોસોફર ઓપાઇન્ડ ધેટ ટ્રુ હેપીનેસ કમ્સ ફ્રોમ વિધિન.",
+                    "hindiPronunciation": "द फिलॉसॉफर ओपाइंड दैट ट्रू हैप्पीनेस कम्स फ्रॉम विदिन।",
+                    "gujaratiTranslation": "દાર્શનિકે અભિપ્રાય આપ્યો કે સાચું સુખ અંદરથી આવે છે.",
+                    "hindiTranslation": "दार्शनिक ने राय दी कि सच्ची खुशी भीतर से आती है।"
+                }
+            ]
+        },
+        {
+            "word": "Wallow",
+            "gujaratiPronunciation": "વોલો",
+            "hindiPronunciation": "वालो",
+            "gujaratiMeaning": "આળોટવું (ખાસ કરીને કાદવમાં), દુઃખમાં ડૂબેલા રહેવું",
+            "hindiMeaning": "लोटना (विशेषकर कीचड़ में), दुख में डूबे रहना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Wallow",
+                    "gujaratiPronunciation": "વોલો",
+                    "hindiPronunciation": "वालो",
+                    "gujaratiMeaning": "આળોટવું",
+                    "hindiMeaning": "लोटना"
+                },
+                "V2 (Past)": {
+                    "word": "Wallowed",
+                    "gujaratiPronunciation": "વોલોડ",
+                    "hindiPronunciation": "वालोड",
+                    "gujaratiMeaning": "આળોટ્યું",
+                    "hindiMeaning": "लोटा"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Wallowed",
+                    "gujaratiPronunciation": "વોલોડ",
+                    "hindiPronunciation": "वालोड",
+                    "gujaratiMeaning": "આળોટેલું",
+                    "hindiMeaning": "लोटा हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Wallowing",
+                    "gujaratiPronunciation": "વોલોઇંગ",
+                    "hindiPronunciation": "वालोइंग",
+                    "gujaratiMeaning": "આળોટી રહ્યા છે",
+                    "hindiMeaning": "लोट रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Revel",
+                    "gujaratiPronunciation": "રેવલ",
+                    "hindiPronunciation": "रेवल",
+                    "gujaratiMeaning": "આનંદ માણવો",
+                    "hindiMeaning": "आनंद लेना"
+                },
+                {
+                    "word": "Indulge",
+                    "gujaratiPronunciation": "ઇન્ડલ્જ",
+                    "hindiPronunciation": "इंडल्ज",
+                    "gujaratiMeaning": "લીન થવું",
+                    "hindiMeaning": "लिप्त होना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Rise",
+                    "gujaratiPronunciation": "રાઇઝ",
+                    "hindiPronunciation": "राइज़",
+                    "gujaratiMeaning": "ઉઠવું",
+                    "hindiMeaning": "उठना"
+                },
+                {
+                    "word": "Strive",
+                    "gujaratiPronunciation": "સ્ટ્રાઇવ",
+                    "hindiPronunciation": "स्ट्राइव",
+                    "gujaratiMeaning": "પ્રયત્ન કરવો",
+                    "hindiMeaning": "प्रयास करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Swallow",
+                    "gujaratiPronunciation": "સ્વેલો",
+                    "hindiPronunciation": "स्वैलो",
+                    "gujaratiMeaning": "ગળી જવું",
+                    "hindiMeaning": "निगलना",
+                    "difference": "Wallow એટલે કાદવમાં કે દુઃખમાં આળોટવું, જ્યારે Swallow એટલે ખોરાક ગળા નીચે ઉતારવો."
+                },
+                {
+                    "word": "Hollow",
+                    "gujaratiPronunciation": "હોલો",
+                    "hindiPronunciation": "हॉलो",
+                    "gujaratiMeaning": "પોલું",
+                    "hindiMeaning": "खोखला",
+                    "difference": "Wallow એ ક્રિયા છે, જ્યારે Hollow એ વિશેષણ છે જે અંદરથી ખાલી હોવાનું વર્ણન કરે છે."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He chose not to wallow in self-pity after his failure.",
+                    "gujaratiPronunciation": "હી ચોઝ નોટ ટુ વોલો ઇન સેલ્ફ-પિટી આફ્ટર હીઝ ફેલિયર.",
+                    "hindiPronunciation": "ही चोज नॉट टू वालो इन सेल्फ-पिटी आफ्टर हिज़ फेलियर।",
+                    "gujaratiTranslation": "તેણે તેની નિષ્ફળતા પછી આત્મ-દયામાં ડૂબેલા ન રહેવાનું પસંદ કર્યું.",
+                    "hindiTranslation": "उसने अपनी असफलता के बाद आत्म-दया में डूबे न रहने का फैसला किया।"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "level-7",
+    "title": "Marriage",
+    "words": [
+        { "word": "Bride", "icon": "👰", "gujaratiMeaning": "કન્યા", "hindiMeaning": "दुल्हन", "gujaratiPronunciation": "બ્રાઇડ", "hindiPronunciation": "ब्राइड" },
+        { "word": "Groom", "icon": "🤵", "gujaratiMeaning": "વર", "hindiMeaning": "दूल्हा", "gujaratiPronunciation": "ગ્રૂમ", "hindiPronunciation": "ग्रूम" },
+        { "word": "Wedding", "icon": "💒", "gujaratiMeaning": "લગ્ન", "hindiMeaning": "शादी", "gujaratiPronunciation": "વેડિંગ", "hindiPronunciation": "वेडिंग" },
+        { "word": "Marriage", "icon": "💍", "gujaratiMeaning": "લગ્ન", "hindiMeaning": "विवाह", "gujaratiPronunciation": "મેરેજ", "hindiPronunciation": "मैरिज" },
+        { "word": "Couple", "icon": "👩‍❤️‍👨", "gujaratiMeaning": "જોડું", "hindiMeaning": "जोड़ा", "gujaratiPronunciation": "કપલ", "hindiPronunciation": "कपल" }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Relinquish",
+      "gujaratiPronunciation": "રિલિન્ક્વિશ",
+      "hindiPronunciation": "रिलिंक्विश",
+      "gujaratiMeaning": "જતું કરવું",
+      "hindiMeaning": "त्याग देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Relinquish", "gujaratiPronunciation": "રિલિન્ક્વિશ", "hindiPronunciation": "रिलिंक्विश", "gujaratiMeaning": "જતું કરવું", "hindiMeaning": "त्याग देना" },
+        "v2": { "word": "Relinquished", "gujaratiPronunciation": "રિલિન્ક્વિશ્ડ", "hindiPronunciation": "रिलिंक्विश्ड", "gujaratiMeaning": "જતું કર્યું", "hindiMeaning": "त्याग दिया" },
+        "v3": { "word": "Relinquished", "gujaratiPronunciation": "રિલિન્ક્વિશ્ડ", "hindiPronunciation": "रिलिंक्विश्ड", "gujaratiMeaning": "જતું કરેલું", "hindiMeaning": "त्याग चुका" },
+        "v4": { "word": "Relinquishing", "gujaratiPronunciation": "રિલિન્ક્વિશિંગ", "hindiPronunciation": "रिलिंक्विशिंग", "gujaratiMeaning": "જતું કરી રહ્યું છે", "hindiMeaning": "त्याग रहा है" }
+      },
+      "synonyms": [
+        { "word": "Renounce", "gujaratiPronunciation": "રિનાઉન્સ", "hindiPronunciation": "रिनाउंस", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "त्यागना" },
+        { "word": "Waive", "gujaratiPronunciation": "વેઇવ", "hindiPronunciation": "वेव", "gujaratiMeaning": "માફ કરવું", "hindiMeaning": "छोड़ देना" }
+      ],
+      "antonyms": [
+        { "word": "Retain", "gujaratiPronunciation": "રિટેન", "hindiPronunciation": "रिटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" },
+        { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "રાખવું", "hindiMeaning": "रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Vanquish", "gujaratiPronunciation": "વેન્ક્વિશ", "hindiPronunciation": "वैंक्विश", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+        { "word": "Languish", "gujaratiPronunciation": "લેંગ્વિશ", "hindiPronunciation": "लैंग्विश", "gujaratiMeaning": "ક્ષીણ થવું", "hindiMeaning": "क्षीण होना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "He was forced to relinquish control of the company.", "gujaratiPronunciation": "હી વોઝ ફોર્સ્ડ ટુ રિલિન્ક્વિશ કંટ્રોલ ઓફ ધ કંપની.", "hindiPronunciation": "ही वॉज़ फोर्स्ड टू रिलिंक्विश कंट्रोल ऑफ द कंपनी।", "gujaratiTranslation": "તેને કંપની પરનો અંકુશ જતો કરવાની ફરજ પડી હતી.", "hindiTranslation": "उसे कंपनी का नियंत्रण छोड़ने के लिए मजबूर किया गया था।" }
+      ]
+    },
+    {
+      "word": "Default",
+      "gujaratiPronunciation": "ડિફોલ્ટ",
+      "hindiPronunciation": "डिफ़ॉल्ट",
+      "gujaratiMeaning": "ચૂક કરવી",
+      "hindiMeaning": "चूक करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Default", "gujaratiPronunciation": "ડિફોલ્ટ", "hindiPronunciation": "डिफ़ॉल्ट", "gujaratiMeaning": "ચૂક કરવી", "hindiMeaning": "चूक करना" },
+        "v2": { "word": "Defaulted", "gujaratiPronunciation": "ડિફોલ્ટેડ", "hindiPronunciation": "डिफ़ॉल्टेड", "gujaratiMeaning": "ચૂક કરી", "hindiMeaning": "चूक की" },
+        "v3": { "word": "Defaulted", "gujaratiPronunciation": "ડિફોલ્ટેડ", "hindiPronunciation": "डिफ़ॉल्टेड", "gujaratiMeaning": "ચૂક કરેલી", "hindiMeaning": "चूक कर चुका" },
+        "v4": { "word": "Defaulting", "gujaratiPronunciation": "ડિફોલ્ટિંગ", "hindiPronunciation": "डिफ़ॉल्टिंग", "gujaratiMeaning": "ચૂક કરી રહ્યું છે", "hindiMeaning": "चूक कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ જવું", "hindiMeaning": "विफल होना" },
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" }
+      ],
+      "antonyms": [
+        { "word": "Pay", "gujaratiPronunciation": "પે", "hindiPronunciation": "पे", "gujaratiMeaning": "ચૂકવવું", "hindiMeaning": "भुगतान करना" },
+        { "word": "Fulfill", "gujaratiPronunciation": "ફુલફિલ", "hindiPronunciation": "फुलफिल", "gujaratiMeaning": "પૂરું કરવું", "hindiMeaning": "पूरा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Defeat", "gujaratiPronunciation": "ડિફીટ", "hindiPronunciation": "डिफीट", "gujaratiMeaning": "હાર", "hindiMeaning": "हार" },
+        { "word": "Difficult", "gujaratiPronunciation": "ડિફિકલ્ટ", "hindiPronunciation": "डिफिकल्ट", "gujaratiMeaning": "મુશ્કેલ", "hindiMeaning": "कठिन" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The company defaulted on its loan payments.", "gujaratiPronunciation": "ધ કંપની ડિફોલ્ટેડ ઓન ઇટ્સ લોન પેમેન્ટ્સ.", "hindiPronunciation": "द कंपनी डिफॉल्टेड ऑन इट्स लोन पेमेंट्स।", "gujaratiTranslation": "કંપનીએ તેની લોનની ચૂકવણીમાં ચૂક કરી.", "hindiTranslation": "कंपनी अपने ऋण भुगतानों पर डिफॉल्ट हो गई।" }
+      ]
+    },
+    {
+      "word": "Deteriorate",
+      "gujaratiPronunciation": "ડિટીરિયોરેટ",
+      "hindiPronunciation": "डेटेरियोरेट",
+      "gujaratiMeaning": "વણસવું",
+      "hindiMeaning": "बिगड़ना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Deteriorate", "gujaratiPronunciation": "ડિટીરિયોરેટ", "hindiPronunciation": "डेटेरियोरेट", "gujaratiMeaning": "વણસવું", "hindiMeaning": "बिगड़ना" },
+        "v2": { "word": "Deteriorated", "gujaratiPronunciation": "ડિટીરિયોરેટેડ", "hindiPronunciation": "डेटेरियोरेटेड", "gujaratiMeaning": "વણસ્યું", "hindiMeaning": "बिगड़ा" },
+        "v3": { "word": "Deteriorated", "gujaratiPronunciation": "ડિટીરિયોરેટેડ", "hindiPronunciation": "डेटेरियोरेटेड", "gujaratiMeaning": "વણસેલું", "hindiMeaning": "बिगड़ चुका" },
+        "v4": { "word": "Deteriorating", "gujaratiPronunciation": "ડિટીરિયોરેટિંગ", "hindiPronunciation": "डेटेरियोरेटिंग", "gujaratiMeaning": "વણસી રહ્યું છે", "hindiMeaning": "बिगड़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Worsen", "gujaratiPronunciation": "વર્સન", "hindiPronunciation": "वर्सन", "gujaratiMeaning": "વધુ ખરાબ થવું", "hindiMeaning": "बदतर होना" },
+        { "word": "Decline", "gujaratiPronunciation": "ડિક્લાઇન", "hindiPronunciation": "डिक्लाइन", "gujaratiMeaning": "પતન થવું", "hindiMeaning": "पतन होना" }
+      ],
+      "antonyms": [
+        { "word": "Improve", "gujaratiPronunciation": "ઇમ્પ્રૂવ", "hindiPronunciation": "इम्प्रूव", "gujaratiMeaning": "સુધરવું", "hindiMeaning": "सुधारना" },
+        { "word": "Enhance", "gujaratiPronunciation": "એન્હાન્સ", "hindiPronunciation": "एनहान्स", "gujaratiMeaning": "વધારવું", "hindiMeaning": "बढ़ाना" }
+      ],
+      "confusingWords": [
+        { "word": "Decorate", "gujaratiPronunciation": "ડેકોરેટ", "hindiPronunciation": "डेकोरेट", "gujaratiMeaning": "સજાવવું", "hindiMeaning": "सजाना" },
+        { "word": "Detour", "gujaratiPronunciation": "ડિટુર", "hindiPronunciation": "डिटूर", "gujaratiMeaning": "ચકરાવો", "hindiMeaning": "चक्कर" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Her health began to deteriorate rapidly.", "gujaratiPronunciation": "હર હેલ્થ બિગેન ટુ ડિટીરિયોરેટ રેપિડલી.", "hindiPronunciation": "हर हेल्थ बिगेन टू डेटेरियोरेट रैपिडली।", "gujaratiTranslation": "તેણીની તબિયત ઝડપથી વણસવા લાગી.", "hindiTranslation": "उसकी सेहत तेजी से बिगड़ने लगी।" }
+      ]
+    },
+    {
+      "word": "Undermine",
+      "gujaratiPronunciation": "અન્ડરમાઇન",
+      "hindiPronunciation": "अंडरमाइन",
+      "gujaratiMeaning": "નબળું પાડવું",
+      "hindiMeaning": "कमजोर करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Undermine", "gujaratiPronunciation": "અન્ડરમાઇન", "hindiPronunciation": "अंडरमाइन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमजोर करना" },
+        "v2": { "word": "Undermined", "gujaratiPronunciation": "અન્ડરમાઇન્ડ", "hindiPronunciation": "अंडरमाइंड", "gujaratiMeaning": "નબળું પાડ્યું", "hindiMeaning": "कमजोर किया" },
+        "v3": { "word": "Undermined", "gujaratiPronunciation": "અન્ડરમાઇન્ડ", "hindiPronunciation": "अंडरमाइंड", "gujaratiMeaning": "નબળું પાડેલું", "hindiMeaning": "कमजोर कर चुका" },
+        "v4": { "word": "Undermining", "gujaratiPronunciation": "અન્ડરમાઇનિંગ", "hindiPronunciation": "अंडरमाइनिंग", "gujaratiMeaning": "નબળું પાડી રહ્યું છે", "hindiMeaning": "कमजोर कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Weaken", "gujaratiPronunciation": "વીકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું કરવું", "hindiMeaning": "कमजोर करना" },
+        { "word": "Sabotage", "gujaratiPronunciation": "સેબોટાજ", "hindiPronunciation": "सैबोटाज", "gujaratiMeaning": "તોડફોડ કરવી", "hindiMeaning": "तोड़फोड़ करना" }
+      ],
+      "antonyms": [
+        { "word": "Strengthen", "gujaratiPronunciation": "સ્ટ્રેન્થન", "hindiPronunciation": "स्ट्रेंग्थेन", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "मजबूत करना" },
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Underline", "gujaratiPronunciation": "અન્ડરલાઇન", "hindiPronunciation": "अंडरलाइन", "gujaratiMeaning": "નીચે લીટી દોરવી", "hindiMeaning": "रेखांकित करना" },
+        { "word": "Undertake", "gujaratiPronunciation": "અન્ડરટેક", "hindiPronunciation": "अंडरटेक", "gujaratiMeaning": "હાથ ધરવું", "hindiMeaning": "हाथ में लेना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Criticism can undermine a person's confidence.", "gujaratiPronunciation": "ક્રિટિસિઝમ કેન અન્ડરમાઇન અ પર્સન્સ કોન્ફિડન્સ.", "hindiPronunciation": "क्रिटिसिज्म कैन अंडरमाइन ए पर्सन्स कॉन्फिडेंस।", "gujaratiTranslation": "ટીકા વ્યક્તિના આત્મવિશ્વાસને નબળો પાડી શકે છે.", "hindiTranslation": "आलोचना किसी व्यक्ति के आत्मविश्वास को कमजोर कर सकती है।" }
+      ]
+    },
+    {
+      "word": "Resign",
+      "gujaratiPronunciation": "રિઝાઇન",
+      "hindiPronunciation": "रिज़ाइन",
+      "gujaratiMeaning": "રાજીનામું આપવું",
+      "hindiMeaning": "त्यागपत्र देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Resign", "gujaratiPronunciation": "રિઝાઇન", "hindiPronunciation": "रिज़ाइन", "gujaratiMeaning": "રાજીનામું આપવું", "hindiMeaning": "त्यागपत्र देना" },
+        "v2": { "word": "Resigned", "gujaratiPronunciation": "રિઝાઇન્ડ", "hindiPronunciation": "रिज़ाइंड", "gujaratiMeaning": "રાજીનામું આપ્યું", "hindiMeaning": "त्यागपत्र दिया" },
+        "v3": { "word": "Resigned", "gujaratiPronunciation": "રિઝાઇન્ડ", "hindiPronunciation": "रिज़ाइंड", "gujaratiMeaning": "રાજીનામું આપેલું", "hindiMeaning": "त्यागपत्र दे चुका" },
+        "v4": { "word": "Resigning", "gujaratiPronunciation": "રિઝાઇનિંગ", "hindiPronunciation": "रिज़ाइनिंग", "gujaratiMeaning": "રાજીનામું આપી રહ્યું છે", "hindiMeaning": "त्यागपत्र दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Quit", "gujaratiPronunciation": "ક્વિટ", "hindiPronunciation": "क्विट", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ देना" },
+        { "word": "Step down", "gujaratiPronunciation": "સ્ટેપ ડાઉન", "hindiPronunciation": "स्टेप डाउन", "gujaratiMeaning": "પદ છોડવું", "hindiMeaning": "पद छोड़ना" }
+      ],
+      "antonyms": [
+        { "word": "Join", "gujaratiPronunciation": "જોઇન", "hindiPronunciation": "जॉइन", "gujaratiMeaning": "જોડાવું", "hindiMeaning": "शामिल होना" },
+        { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Re-sign", "gujaratiPronunciation": "રી-સાઇન", "hindiPronunciation": "री-साइन", "gujaratiMeaning": "ફરીથી સહી કરવી", "hindiMeaning": "फिर से हस्ताक्षर करना" },
+        { "word": "Design", "gujaratiPronunciation": "ડિઝાઇન", "hindiPronunciation": "डिज़ाइन", "gujaratiMeaning": "રચના", "hindiMeaning": "रचना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "He will resign from his position as manager.", "gujaratiPronunciation": "હી વિલ રિઝાઇન ફ્રોમ હિઝ પોઝિશન એઝ મેનેજર.", "hindiPronunciation": "ही विल रिज़ाइन फ्रॉम हिज़ पोज़िशन एज़ मैनेजर।", "gujaratiTranslation": "તે મેનેજર તરીકેના પોતાના પદ પરથી રાજીનામું આપશે.", "hindiTranslation": "वह प्रबंधक के पद से इस्तीफा दे देंगे।" }
+      ]
+    }
+  ]
+}

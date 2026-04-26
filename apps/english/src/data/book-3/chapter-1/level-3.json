@@ -1,0 +1,167 @@
+
+{
+  "id": "level-3",
+  "title": "Advanced Actions",
+  "words": [
+    {
+      "word": "Initiate",
+      "gujaratiPronunciation": "ઇનિશિએટ",
+      "hindiPronunciation": "इनिशिएट",
+      "gujaratiMeaning": "શરૂ કરવું",
+      "hindiMeaning": "शुरू करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Initiate", "gujaratiPronunciation": "ઇનિશિએટ", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+        "V2 (Past)": { "word": "Initiated", "gujaratiPronunciation": "ઇનિશિએટેડ", "gujaratiMeaning": "શરૂ કર્યું", "hindiMeaning": "शुरू किया" },
+        "V3 (Past Participle)": { "word": "Initiated", "gujaratiPronunciation": "ઇનિશિએટેડ", "gujaratiMeaning": "શરૂ કરેલું", "hindiMeaning": "शुरू किया हुआ" },
+        "V4 (Present Participle)": { "word": "Initiating", "gujaratiPronunciation": "ઇનિશિએટિંગ", "gujaratiMeaning": "શરૂ કરી રહ્યું છે", "hindiMeaning": "शुरू कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Start", "gujaratiPronunciation": "સ્ટાર્ટ", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+        { "word": "Begin", "gujaratiPronunciation": "બિગિન", "gujaratiMeaning": "પ્રારંભ કરવો", "hindiMeaning": "प्रारंभ करना" }
+      ],
+      "antonyms": [
+        { "word": "Finish", "gujaratiPronunciation": "ફિનિશ", "gujaratiMeaning": "પૂરું કરવું", "hindiMeaning": "समाप्त करना" },
+        { "word": "Conclude", "gujaratiPronunciation": "કન્ક્લુડ", "gujaratiMeaning": "નિષ્કર્ષ કાઢવો", "hindiMeaning": "निष्कर्ष निकालना" }
+      ],
+      "confusingWords": [
+        { "word": "Imitate", "gujaratiPronunciation": "ઇમિટેટ", "gujaratiMeaning": "નકલ કરવી", "hindiMeaning": "नकल करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company will initiate a new project next month.",
+          "gujaratiTranslation": "કંપની આવતા મહિને એક નવો પ્રોજેક્ટ શરૂ કરશે.",
+          "hindiTranslation": "कंपनी अगले महीने एक नया प्रोजेक्ट शुरू करेगी।"
+        }
+      ]
+    },
+    {
+      "word": "Devise",
+      "gujaratiPronunciation": "ડિવાઇઝ",
+      "hindiPronunciation": "डिवाइस",
+      "gujaratiMeaning": "યોજના બનાવવી",
+      "hindiMeaning": "योजना बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Devise", "gujaratiPronunciation": "ડિવાઇઝ", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" },
+        "V2 (Past)": { "word": "Devised", "gujaratiPronunciation": "ડિવાઇઝ્ડ", "gujaratiMeaning": "યોજના બનાવી", "hindiMeaning": "योजना बनाई" },
+        "V3 (Past Participle)": { "word": "Devised", "gujaratiPronunciation": "ડિવાઇઝ્ડ", "gujaratiMeaning": "યોજના બનાવેલી", "hindiMeaning": "योजना बनाई हुई" },
+        "V4 (Present Participle)": { "word": "Devising", "gujaratiPronunciation": "ડિવાઇઝિંગ", "gujaratiMeaning": "યોજના બનાવી રહ્યું છે", "hindiMeaning": "योजना बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Invent", "gujaratiPronunciation": "ઇન્વેન્ટ", "gujaratiMeaning": "શોધ કરવી", "hindiMeaning": "आविष्कार करना" },
+        { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "gujaratiMeaning": "યોજના કરવી", "hindiMeaning": "योजना बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Copy", "gujaratiPronunciation": "કોપી", "gujaratiMeaning": "નકલ કરવી", "hindiMeaning": "नकल करना" },
+        { "word": "Follow", "gujaratiPronunciation": "ફોલો", "gujaratiMeaning": "અનુસરણ કરવું", "hindiMeaning": "अनुसरण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Device", "gujaratiPronunciation": "ડિવાઇસ", "gujaratiMeaning": "ઉપકરણ", "hindiMeaning": "उपकरण" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He needs to devise a new strategy to win the game.",
+          "gujaratiTranslation": "રમત જીતવા માટે તેણે નવી વ્યૂહરચના બનાવવી પડશે.",
+          "hindiTranslation": "उसे खेल जीतने के लिए एक नई रणनीति बनानी होगी।"
+        }
+      ]
+    },
+    {
+      "word": "Mend",
+      "gujaratiPronunciation": "મેન્ડ",
+      "hindiPronunciation": "मेंड",
+      "gujaratiMeaning": "સમારકામ કરવું",
+      "hindiMeaning": "मरम्मत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Mend", "gujaratiPronunciation": "મેન્ડ", "gujaratiMeaning": "સમારકામ કરવું", "hindiMeaning": "मरम्मत करना" },
+        "V2 (Past)": { "word": "Mended", "gujaratiPronunciation": "મેન્ડેડ", "gujaratiMeaning": "સમારકામ કર્યું", "hindiMeaning": "मरम्मत की" },
+        "V3 (Past Participle)": { "word": "Mended", "gujaratiPronunciation": "મેન્ડેડ", "gujaratiMeaning": "સમારકામ કરેલું", "hindiMeaning": "मरम्मत किया हुआ" },
+        "V4 (Present Participle)": { "word": "Mending", "gujaratiPronunciation": "મેન્ડિંગ", "gujaratiMeaning": "સમારકામ કરી રહ્યું છે", "hindiMeaning": "मरम्मत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Repair", "gujaratiPronunciation": "રિપેર", "gujaratiMeaning": "સમારકામ કરવું", "hindiMeaning": "मरम्मत करना" },
+        { "word": "Fix", "gujaratiPronunciation": "ફિક્સ", "gujaratiMeaning": "ઠીક કરવું", "hindiMeaning": "ठीक करना" }
+      ],
+      "antonyms": [
+        { "word": "Break", "gujaratiPronunciation": "બ્રેક", "gujaratiMeaning": "તોડવું", "hindiMeaning": "तोड़ना" },
+        { "word": "Damage", "gujaratiPronunciation": "ડેમેજ", "gujaratiMeaning": "નુકસાન કરવું", "hindiMeaning": "नुकसान पहुँचाना" }
+      ],
+      "confusingWords": [
+        { "word": "Mind", "gujaratiPronunciation": "માઇન્ડ", "gujaratiMeaning": "મન", "hindiMeaning": "मन" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you mend this broken chair?",
+          "gujaratiTranslation": "શું તમે આ તૂટેલી ખુરશીનું સમારકામ કરી શકો છો?",
+          "hindiTranslation": "क्या आप इस टूटी हुई कुर्सी की मरम्मत कर सकते हैं?"
+        }
+      ]
+    },
+    {
+      "word": "Acknowledge",
+      "gujaratiPronunciation": "એક્નોલેજ",
+      "hindiPronunciation": "एक्नॉलेज",
+      "gujaratiMeaning": "સ્વીકારવું",
+      "hindiMeaning": "स्वीकार करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Acknowledge", "gujaratiPronunciation": "એક્નોલેજ", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" },
+        "V2 (Past)": { "word": "Acknowledged", "gujaratiPronunciation": "એક્નોલેજ્ડ", "gujaratiMeaning": "સ્વીકાર્યું", "hindiMeaning": "स्वीकार किया" },
+        "V3 (Past Participle)": { "word": "Acknowledged", "gujaratiPronunciation": "એક્નોલેજ્ડ", "gujaratiMeaning": "સ્વીકારેલું", "hindiMeaning": "स्वीकार किया हुआ" },
+        "V4 (Present Participle)": { "word": "Acknowledging", "gujaratiPronunciation": "એક્નોલેજિંગ", "gujaratiMeaning": "સ્વીકારી રહ્યું છે", "hindiMeaning": "स्वीकार कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Admit", "gujaratiPronunciation": "એડમિટ", "gujaratiMeaning": "કબૂલ કરવું", "hindiMeaning": "स्वीकार करना" },
+        { "word": "Recognize", "gujaratiPronunciation": "રેકગ્નાઇઝ", "gujaratiMeaning": "ઓળખવું", "hindiMeaning": "पहचानना" }
+      ],
+      "antonyms": [
+        { "word": "Deny", "gujaratiPronunciation": "ડિનાય", "gujaratiMeaning": "નકારવું", "hindiMeaning": "इनकार करना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "नजरअंदाज करना" }
+      ],
+      "confusingWords": [
+        { "word": "Knowledge", "gujaratiPronunciation": "નોલેજ", "gujaratiMeaning": "જ્ઞાન", "hindiMeaning": "ज्ञान" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You must acknowledge your mistake.",
+          "gujaratiTranslation": "તમારે તમારી ભૂલ સ્વીકારવી જ જોઈએ.",
+          "hindiTranslation": "तुम्हें अपनी गलती स्वीकार करनी होगी।"
+        }
+      ]
+    },
+    {
+      "word": "Infer",
+      "gujaratiPronunciation": "ઇન્ફર",
+      "hindiPronunciation": "इंफर",
+      "gujaratiMeaning": "અનુમાન કરવું",
+      "hindiMeaning": "अनुमान लगाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Infer", "gujaratiPronunciation": "ઇન્ફર", "gujaratiMeaning": "અનુમાન કરવું", "hindiMeaning": "अनुमान लगाना" },
+        "V2 (Past)": { "word": "Inferred", "gujaratiPronunciation": "ઇન્ફર્ડ", "gujaratiMeaning": "અનુમાન કર્યું", "hindiMeaning": "अनुमान लगाया" },
+        "V3 (Past Participle)": { "word": "Inferred", "gujaratiPronunciation": "ઇન્ફર્ડ", "gujaratiMeaning": "અનુમાન કરેલું", "hindiMeaning": "अनुमान लगाया हुआ" },
+        "V4 (Present Participle)": { "word": "Inferring", "gujaratiPronunciation": "ઇન્ફરિંગ", "gujaratiMeaning": "અનુમાન કરી રહ્યું છે", "hindiMeaning": "अनुमान लगा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Deduce", "gujaratiPronunciation": "ડિડ્યુસ", "gujaratiMeaning": "તારણ કાઢવું", "hindiMeaning": "निष्कर्ष निकालना" },
+        { "word": "Conclude", "gujaratiPronunciation": "કન્ક્લુડ", "gujaratiMeaning": "નિષ્કર્ષ કાઢવો", "hindiMeaning": "निष्कर्ष निकालना" }
+      ],
+      "antonyms": [
+        { "word": "State", "gujaratiPronunciation": "સ્ટેટ", "gujaratiMeaning": "જણાવવું", "hindiMeaning": "बताना" },
+        { "word": "Imply", "gujaratiPronunciation": "ઇમ્પ્લાય", "gujaratiMeaning": "સૂચિત કરવું", "hindiMeaning": "सूचित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Refer", "gujaratiPronunciation": "રેફર", "gujaratiMeaning": "સંદર્ભ આપવો", "hindiMeaning": "संदर्भ देना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "From his expression, I could infer that he was not happy.",
+          "gujaratiTranslation": "તેના હાવભાવ પરથી, હું અનુમાન કરી શક્યો કે તે ખુશ નથી.",
+          "hindiTranslation": "उसके हाव-भाव से मैं यह अनुमान लगा सका कि वह खुश नहीं था।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+    "id": "level-2",
+    "title": "Level 2: Care & Recovery",
+    "words": [
+        {
+            "word": "Meditate",
+            "gujaratiPronunciation": "મેડિટેટ",
+            "hindiPronunciation": "मेडिटेट",
+            "gujaratiMeaning": "ધ્યાન કરવું",
+            "hindiMeaning": "ध्यान करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Meditate", "gujaratiPronunciation": "મેડિટેટ", "hindiPronunciation": "मेडिटेट", "gujaratiMeaning": "ધ્યાન કરવું", "hindiMeaning": "ध्यान करना" },
+                "V2 (Past)": { "word": "Meditated", "gujaratiPronunciation": "મેડિટેટેડ", "hindiPronunciation": "मेडिटेटेड", "gujaratiMeaning": "ધ્યાન કર્યું", "hindiMeaning": "ध्यान किया" },
+                "V3 (Past Participle)": { "word": "Meditated", "gujaratiPronunciation": "મેડિટેટેડ", "hindiPronunciation": "मेडिटेटेड", "gujaratiMeaning": "ધ્યાન કરેલ", "hindiMeaning": "ध्यान कर चुका" },
+                "V4 (Present Participle)": { "word": "Meditating", "gujaratiPronunciation": "મેડિટેટિંગ", "hindiPronunciation": "मेडिटेटिंग", "gujaratiMeaning": "ધ્યાન કરી રહ્યું છે", "hindiMeaning": "ध्यान कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Contemplate", "gujaratiPronunciation": "કોન્ટેમ્પ્લેટ", "hindiPronunciation": "कॉन्टेम्प्लेट", "gujaratiMeaning": "ચિંતન કરવું", "hindiMeaning": "चिंतन करना" },
+                { "word": "Ponder", "gujaratiPronunciation": "પોન્ડર", "hindiPronunciation": "पॉन्डर", "gujaratiMeaning": "વિચાર કરવો", "hindiMeaning": "विचार करना" }
+            ],
+            "antonyms": [
+                { "word": "Distract", "gujaratiPronunciation": "ડિસ્ટ્રેક્ટ", "hindiPronunciation": "डिस्ट्रैक्ट", "gujaratiMeaning": "ધ્યાન ભટકાવવું", "hindiMeaning": "ध्यान भटकाना" },
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Mediate", "gujaratiPronunciation": "મીડિએટ", "hindiPronunciation": "मीडिएट", "gujaratiMeaning": "મધ્યસ્થી કરવી", "hindiMeaning": "मध्यस्थता करना", "difference": "Meditate એટલે ધ્યાન કરવું, જ્યારે Mediate એટલે બે પક્ષો વચ્ચે સમાધાન કરાવવું." }
+            ],
+            "exampleSentences": [
+                { "sentence": "She meditates for 20 minutes every morning.", "gujaratiPronunciation": "શી મેડિટેટ્સ ફોર 20 મિનિટ્સ એવરી મોર્નિંગ.", "hindiPronunciation": "शी मेडिटेट्स फॉर 20 मिनट्स एवरी मॉर्निंग।", "gujaratiTranslation": "તે દરરોજ સવારે 20 મિનિટ ધ્યાન કરે છે.", "hindiTranslation": "वह हर सुबह 20 मिनट ध्यान करती है।" }
+            ]
+        },
+        {
+            "word": "Nourish",
+            "gujaratiPronunciation": "નરિશ",
+            "hindiPronunciation": "नरिश",
+            "gujaratiMeaning": "પોષણ આપવું",
+            "hindiMeaning": "पोषण देना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Nourish", "gujaratiPronunciation": "નરિશ", "hindiPronunciation": "नरिश", "gujaratiMeaning": "પોષણ આપવું", "hindiMeaning": "पोषण देना" },
+                "V2 (Past)": { "word": "Nourished", "gujaratiPronunciation": "નરિશ્ડ", "hindiPronunciation": "नरिश्ड", "gujaratiMeaning": "પોષણ આપ્યું", "hindiMeaning": "पोषण दिया" },
+                "V3 (Past Participle)": { "word": "Nourished", "gujaratiPronunciation": "નરિશ્ડ", "hindiPronunciation": "नरिश्ड", "gujaratiMeaning": "પોષણ આપેલ", "hindiMeaning": "पोषण दे चुका" },
+                "V4 (Present Participle)": { "word": "Nourishing", "gujaratiPronunciation": "નરિશિંગ", "hindiPronunciation": "नरिशिंग", "gujaratiMeaning": "પોષણ આપી રહ્યું છે", "hindiMeaning": "पोषण दे रहा है" }
+            },
+            "synonyms": [
+                { "word": "Feed", "gujaratiPronunciation": "ફીડ", "hindiPronunciation": "फ़ीड", "gujaratiMeaning": "ખવડાવવું", "hindiMeaning": "खिलाना" },
+                { "word": "Sustain", "gujaratiPronunciation": "સસ્ટેન", "hindiPronunciation": "सस्टेन", "gujaratiMeaning": "ટકાવી રાખવું", "hindiMeaning": "बनाए रखना" }
+            ],
+            "antonyms": [
+                { "word": "Starve", "gujaratiPronunciation": "સ્ટાર્વ", "hindiPronunciation": "स्टार्व", "gujaratiMeaning": "ભૂખે મરવું", "hindiMeaning": "भूखा मारना" },
+                { "word": "Deprive", "gujaratiPronunciation": "ડિપ્રાઇવ", "hindiPronunciation": "डिप्राईव", "gujaratiMeaning": "વંચિત રાખવું", "hindiMeaning": "वंचित करना" }
+            ],
+            "confusingWords": [
+                { "word": "Flourish", "gujaratiPronunciation": "ફ્લરિશ", "hindiPronunciation": "फ़्लरिश", "gujaratiMeaning": "વિકસવું", "hindiMeaning": "फलना-फूलना", "difference": "Nourish એટલે પોષણ આપવું, જ્યારે Flourish એટલે સારી રીતે વિકસવું કે સમૃદ્ધ થવું." }
+            ],
+            "exampleSentences": [
+                { "sentence": "A healthy diet will nourish your body.", "gujaratiPronunciation": "અ હેલ્ધી ડાયટ વિલ નરિશ યોર બોડી.", "hindiPronunciation": "अ हेल्दी डाइट विल नरिश योर बॉडी।", "gujaratiTranslation": "એક સ્વસ્થ આહાર તમારા શરીરને પોષણ આપશે.", "hindiTranslation": "एक स्वस्थ आहार आपके शरीर को पोषण देगा।" }
+            ]
+        },
+        {
+            "word": "Recover",
+            "gujaratiPronunciation": "રિકવર",
+            "hindiPronunciation": "रिकवर",
+            "gujaratiMeaning": "સાજા થવું / પુનઃપ્રાપ્ત કરવું",
+            "hindiMeaning": "ठीक होना / पुनर्प्राप्त करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Recover", "gujaratiPronunciation": "રિકવર", "hindiPronunciation": "रिकवर", "gujaratiMeaning": "સાજા થવું", "hindiMeaning": "ठीक होना" },
+                "V2 (Past)": { "word": "Recovered", "gujaratiPronunciation": "રિકવર્ડ", "hindiPronunciation": "रिकवर्ड", "gujaratiMeaning": "સાજા થયા", "hindiMeaning": "ठीक हो गया" },
+                "V3 (Past Participle)": { "word": "Recovered", "gujaratiPronunciation": "રિકવર્ડ", "hindiPronunciation": "रिकवर्ड", "gujaratiMeaning": "સાજા થયેલ", "hindiMeaning": "ठीक हो चुका" },
+                "V4 (Present Participle)": { "word": "Recovering", "gujaratiPronunciation": "રિકવરિંગ", "hindiPronunciation": "रिकवरिंग", "gujaratiMeaning": "સાજા થઈ રહ્યું છે", "hindiMeaning": "ठीक हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Heal", "gujaratiPronunciation": "હીલ", "hindiPronunciation": "हील", "gujaratiMeaning": "રુઝાવું", "hindiMeaning": "घाव भरना" },
+                { "word": "Recuperate", "gujaratiPronunciation": "રિક્યુપરેટ", "hindiPronunciation": "रिक्यूपरेट", "gujaratiMeaning": "સ્વસ્થ થવું", "hindiMeaning": "स्वस्थ होना" }
+            ],
+            "antonyms": [
+                { "word": "Relapse", "gujaratiPronunciation": "રિલેપ્સ", "hindiPronunciation": "रिलैप्स", "gujaratiMeaning": "ફરીથી બીમાર પડવું", "hindiMeaning": "फिर से बीमार पड़ना" },
+                { "word": "Decline", "gujaratiPronunciation": "ડિક્લાઇન", "hindiPronunciation": "डिक्लाइन", "gujaratiMeaning": "ઘટાડો થવો", "hindiMeaning": "पतन होना" }
+            ],
+            "confusingWords": [
+                { "word": "Re-cover", "gujaratiPronunciation": "રી-કવર", "hindiPronunciation": "री-कवर", "gujaratiMeaning": "ફરીથી ઢાંકવું", "hindiMeaning": "फिर से ढकना", "difference": "Recover એટલે સાજા થવું, જ્યારે Re-cover એટલે કોઈ વસ્તુને ફરીથી ઢાંકવી." }
+            ],
+            "exampleSentences": [
+                { "sentence": "He is recovering from the flu.", "gujaratiPronunciation": "હી ઇઝ રિકવરિંગ ફ્રોમ ધ ફ્લુ.", "hindiPronunciation": "ही इज़ रिकवरिंग फ्रॉम द फ्लू।", "gujaratiTranslation": "તે ફ્લૂમાંથી સાજો થઈ રહ્યો છે.", "hindiTranslation": "वह फ्लू से ठीक हो रहा है।" }
+            ]
+        },
+        {
+            "word": "Treat",
+            "gujaratiPronunciation": "ટ્રીટ",
+            "hindiPronunciation": "ट्रीट",
+            "gujaratiMeaning": "સારવાર કરવી / વ્યવહાર કરવો",
+            "hindiMeaning": "इलाज करना / व्यवहार करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Treat", "gujaratiPronunciation": "ટ્રીટ", "hindiPronunciation": "ट्रीट", "gujaratiMeaning": "સારવાર કરવી", "hindiMeaning": "इलाज करना" },
+                "V2 (Past)": { "word": "Treated", "gujaratiPronunciation": "ટ્રીટેડ", "hindiPronunciation": "ट्रीटेड", "gujaratiMeaning": "સારવાર કરી", "hindiMeaning": "इलाज किया" },
+                "V3 (Past Participle)": { "word": "Treated", "gujaratiPronunciation": "ટ્રીટેડ", "hindiPronunciation": "ट्रीटेड", "gujaratiMeaning": "સારવાર કરેલ", "hindiMeaning": "इलाज कर चुका" },
+                "V4 (Present Participle)": { "word": "Treating", "gujaratiPronunciation": "ટ્રીટિંગ", "hindiPronunciation": "ट्रीटिंग", "gujaratiMeaning": "સારવાર કરી રહ્યું છે", "hindiMeaning": "इलाज कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Handle", "gujaratiPronunciation": "હેન્ડલ", "hindiPronunciation": "हैंडल", "gujaratiMeaning": "સંભાળવું", "hindiMeaning": "संभालना" },
+                { "word": "Cure", "gujaratiPronunciation": "ક્યોર", "hindiPronunciation": "क्योर", "gujaratiMeaning": "ઇલાજ કરવો", "hindiMeaning": "इलाज करना" }
+            ],
+            "antonyms": [
+                { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" },
+                { "word": "Harm", "gujaratiPronunciation": "હાર્મ", "hindiPronunciation": "हार्म", "gujaratiMeaning": "નુકસાન પહોંચાડવું", "hindiMeaning": "नुकसान पहुँचाना" }
+            ],
+            "confusingWords": [
+                { "word": "Threat", "gujaratiPronunciation": "થ્રેટ", "hindiPronunciation": "थ्रेट", "gujaratiMeaning": "ધમકી", "hindiMeaning": "धमकी", "difference": "Treat એ ક્રિયાપદ છે (સારવાર), જ્યારે Threat એ સંજ્ઞા છે (ધમકી)." }
+            ],
+            "exampleSentences": [
+                { "sentence": "The doctor will treat your illness.", "gujaratiPronunciation": "ધ ડોક્ટર વિલ ટ્રીટ યોર ઇલનેસ.", "hindiPronunciation": "द डॉक्टर विल ट्रीट योर इलनेस।", "gujaratiTranslation": "ડૉક્ટર તમારી બીમારીની સારવાર કરશે.", "hindiTranslation": "डॉक्टर आपकी बीमारी का इलाज करेंगे।" }
+            ]
+        },
+        {
+            "word": "Stretch",
+            "gujaratiPronunciation": "સ્ટ્રેચ",
+            "hindiPronunciation": "स्ट्रेच",
+            "gujaratiMeaning": "ખેંચાણ કરવું / ખેંચવું",
+            "hindiMeaning": "खिंचाव करना / खींचना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Stretch", "gujaratiPronunciation": "સ્ટ્રેચ", "hindiPronunciation": "स्ट्रेच", "gujaratiMeaning": "ખેંચવું", "hindiMeaning": "खींचना" },
+                "V2 (Past)": { "word": "Stretched", "gujaratiPronunciation": "સ્ટ્રેચ્ડ", "hindiPronunciation": "स्ट्रेच्ड", "gujaratiMeaning": "ખેંચ્યું", "hindiMeaning": "खींचा" },
+                "V3 (Past Participle)": { "word": "Stretched", "gujaratiPronunciation": "સ્ટ્રેચ્ડ", "hindiPronunciation": "स्ट्रेच्ड", "gujaratiMeaning": "ખેંચેલ", "hindiMeaning": "खींच चुका" },
+                "V4 (Present Participle)": { "word": "Stretching", "gujaratiPronunciation": "સ્ટ્રેચિંગ", "hindiPronunciation": "स्ट्रेचिंग", "gujaratiMeaning": "ખેંચી રહ્યું છે", "hindiMeaning": "खींच रहा है" }
+            },
+            "synonyms": [
+                { "word": "Extend", "gujaratiPronunciation": "એક્સટેન્ડ", "hindiPronunciation": "एक्सटेंड", "gujaratiMeaning": "વિસ્તારવું", "hindiMeaning": "विस्तार करना" },
+                { "word": "Elongate", "gujaratiPronunciation": "ઇલોંગેટ", "hindiPronunciation": "इलोंगेट", "gujaratiMeaning": "લંબાવવું", "hindiMeaning": "लंबा करना" }
+            ],
+            "antonyms": [
+                { "word": "Shrink", "gujaratiPronunciation": "શ્રિંક", "hindiPronunciation": "श्रिंक", "gujaratiMeaning": "સંકોચાવું", "hindiMeaning": "सिकुड़ना" },
+                { "word": "Contract", "gujaratiPronunciation": "કોન્ટ્રેક્ટ", "hindiPronunciation": "कॉन्ट्रैक्ट", "gujaratiMeaning": "સંકોચાવું", "hindiMeaning": "सिकुड़ना" }
+            ],
+            "confusingWords": [
+                { "word": "Sketch", "gujaratiPronunciation": "સ્કેચ", "hindiPronunciation": "स्केच", "gujaratiMeaning": "રેખાચિત્ર", "hindiMeaning": "रेखाचित्र", "difference": "Stretch એટલે ખેંચવું, જ્યારે Sketch એટલે ચિત્ર બનાવવું." }
+            ],
+            "exampleSentences": [
+                { "sentence": "Always stretch before you exercise.", "gujaratiPronunciation": "ઓલવેઝ સ્ટ્રેચ બિફોર યુ એક્સરસાઇઝ.", "hindiPronunciation": "ऑलवेज़ स्ट्रेच बिफोर यू एक्सरसाइज़।", "gujaratiTranslation": "કસરત કરતા પહેલા હંમેશા સ્ટ્રેચિંગ કરો.", "hindiTranslation": "व्यायाम करने से पहले हमेशा स्ट्रेच करें।" }
+            ]
+        }
+    ]
+}

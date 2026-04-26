@@ -1,0 +1,77 @@
+
+{
+  "id": "level-2",
+  "title": "Feelings 2",
+  "words": [
+    {
+      "word": "Surprised",
+      "gujaratiPronunciation": "સરપ્રાઈઝ્ડ",
+      "hindiPronunciation": "सरप्राइज्ड",
+      "gujaratiMeaning": "આશ્ચર્યચકિત",
+      "hindiMeaning": "आश्चर्यचकित",
+      "exampleSentences": [
+        {
+          "sentence": "She was surprised to see me.",
+          "gujaratiTranslation": "તેણી મને જોઈને આશ્ચર્યચકિત થઈ ગઈ.",
+          "hindiTranslation": "वह मुझे देखकर आश्चर्यचकित थी।"
+        }
+      ]
+    },
+    {
+      "word": "Scared",
+      "gujaratiPronunciation": "સ્કેર્ડ",
+      "hindiPronunciation": "स्केयर्ड",
+      "gujaratiMeaning": "ભયભીત",
+      "hindiMeaning": "डरा हुआ",
+      "exampleSentences": [
+        {
+          "sentence": "I am scared of spiders.",
+          "gujaratiTranslation": "હું કરોળિયાથી ડરું છું.",
+          "hindiTranslation": "मुझे मकड़ियों से डर लगता है।"
+        }
+      ]
+    },
+    {
+      "word": "Confused",
+      "gujaratiPronunciation": "કન્ફ્યુઝ્ડ",
+      "hindiPronunciation": "कन्फ्यूज्ड",
+      "gujaratiMeaning": "મૂંઝવણમાં",
+      "hindiMeaning": "उलझन में",
+      "exampleSentences": [
+        {
+          "sentence": "I am confused about what to do.",
+          "gujaratiTranslation": "શું કરવું તે અંગે હું મૂંઝવણમાં છું.",
+          "hindiTranslation": "मैं उलझन में हूँ कि क्या करूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Tired",
+      "gujaratiPronunciation": "ટાયર્ડ",
+      "hindiPronunciation": "टायर्ड",
+      "gujaratiMeaning": "થાકેલું",
+      "hindiMeaning": "थका हुआ",
+      "exampleSentences": [
+        {
+          "sentence": "I feel tired after a long day.",
+          "gujaratiTranslation": "લાંબા દિવસ પછી હું થાકી ગયો છું.",
+          "hindiTranslation": "लंबे दिन के बाद मैं थका हुआ महसूस करता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Calm",
+      "gujaratiPronunciation": "કામ",
+      "hindiPronunciation": "काम",
+      "gujaratiMeaning": "શાંત",
+      "hindiMeaning": "शांत",
+      "exampleSentences": [
+        {
+          "sentence": "Please remain calm.",
+          "gujaratiTranslation": "કૃપા કરીને શાંત રહો.",
+          "hindiTranslation": "कृपया शांत रहें।"
+        }
+      ]
+    }
+  ]
+}

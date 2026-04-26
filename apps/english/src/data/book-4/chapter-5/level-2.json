@@ -1,0 +1,425 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Instruct",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "સૂચના આપવી",
+      "hindiMeaning": "निर्देश देना",
+      "gujaratiPronunciation": "ઇન્સ્ટ્રક્ટ",
+      "hindiPronunciation": "इंस्ट्रक्ट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Instruct",
+          "gujaratiPronunciation": "ઇન્સ્ટ્રક્ટ",
+          "hindiPronunciation": "इंस्ट्रक्ट",
+          "gujaratiMeaning": "સૂચના આપવી",
+          "hindiMeaning": "निर्देश देना"
+        },
+        "V2 (Past)": {
+          "word": "Instructed",
+          "gujaratiPronunciation": "ઇન્સ્ટ્રક્ટેડ",
+          "hindiPronunciation": "इंस्ट्रक्टेड",
+          "gujaratiMeaning": "સૂચના આપી",
+          "hindiMeaning": "निर्देश दिया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Instructed",
+          "gujaratiPronunciation": "ઇન્સ્ટ્રક્ટેડ",
+          "hindiPronunciation": "इंस्ट्रक्टेड",
+          "gujaratiMeaning": "સૂચના આપેલી",
+          "hindiMeaning": "निर्देश दिया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Instructing",
+          "gujaratiPronunciation": "ઇન્સ્ટ્રક્ટિંગ",
+          "hindiPronunciation": "इंस्ट्रक्टिंग",
+          "gujaratiMeaning": "સૂચના આપી રહ્યું",
+          "hindiMeaning": "निर्देश दे रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Teach",
+          "gujaratiPronunciation": "ટીચ",
+          "hindiPronunciation": "टीच",
+          "gujaratiMeaning": "શીખવવું",
+          "hindiMeaning": "सिखाना"
+        },
+        {
+          "word": "Command",
+          "gujaratiPronunciation": "કમાન્ડ",
+          "hindiPronunciation": "कमांड",
+          "gujaratiMeaning": "આદેશ આપવો",
+          "hindiMeaning": "आदेश देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Misinform",
+          "gujaratiPronunciation": "મિસઇન્ફોર્મ",
+          "hindiPronunciation": "मिसइन्फॉर्म",
+          "gujaratiMeaning": "ખોટી માહિતી આપવી",
+          "hindiMeaning": "गलत सूचना देना"
+        },
+        {
+          "word": "Obey",
+          "gujaratiPronunciation": "ઓબે",
+          "hindiPronunciation": "ओबे",
+          "gujaratiMeaning": "આજ્ઞા પાળવી",
+          "hindiMeaning": "आज्ञा का पालन करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Construct",
+          "gujaratiPronunciation": "કન્સ્ટ્રક્ટ",
+          "hindiPronunciation": "कंस्ट्रक्ट",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "निर्माण करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The teacher will instruct the students on the new project.",
+          "gujaratiPronunciation": "ધ ટીચર વિલ ઇન્સ્ટ્રક્ટ ધ સ્ટુડન્ટ્સ ઓન ધ ન્યૂ પ્રોજેક્ટ.",
+          "hindiPronunciation": "द टीचर विल इंस्ट्रक्ट द स्टूडेंट्स ऑन द न्यू प्रोजेक्ट।",
+          "gujaratiTranslation": "શિક્ષક વિદ્યાર્થીઓને નવા પ્રોજેક્ટ પર સૂચના આપશે.",
+          "hindiTranslation": "शिक्षक छात्रों को नए प्रोजेक्ट पर निर्देश देंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Quiz",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "પ્રશ્નોત્તરી કરવી",
+      "hindiMeaning": "प्रश्नोत्तरी करना",
+      "gujaratiPronunciation": "ક્વિઝ",
+      "hindiPronunciation": "क्विज़",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Quiz",
+          "gujaratiPronunciation": "ક્વિઝ",
+          "hindiPronunciation": "क्विज़",
+          "gujaratiMeaning": "પ્રશ્નોત્તરી કરવી",
+          "hindiMeaning": "प्रश्नोत्तरी करना"
+        },
+        "V2 (Past)": {
+          "word": "Quizzed",
+          "gujaratiPronunciation": "ક્વિઝ્ડ",
+          "hindiPronunciation": "क्विज़्ड",
+          "gujaratiMeaning": "પ્રશ્નોત્તરી કરી",
+          "hindiMeaning": "प्रश्नोत्तरी की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Quizzed",
+          "gujaratiPronunciation": "ક્વિઝ્ડ",
+          "hindiPronunciation": "क्विज़्ड",
+          "gujaratiMeaning": "પ્રશ્નોત્તરી કરેલી",
+          "hindiMeaning": "प्रश्नोत्तरी की हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Quizzing",
+          "gujaratiPronunciation": "ક્વિઝિંગ",
+          "hindiPronunciation": "क्विज़िंग",
+          "gujaratiMeaning": "પ્રશ્નોત્તરી કરી રહ્યું",
+          "hindiMeaning": "प्रश्नोत्तरी कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Question",
+          "gujaratiPronunciation": "ક્વેશ્ચન",
+          "hindiPronunciation": "क्वेश्चन",
+          "gujaratiMeaning": "પ્રશ્ન પૂછવો",
+          "hindiMeaning": "प्रश्न पूछना"
+        },
+        {
+          "word": "Test",
+          "gujaratiPronunciation": "ટેસ્ટ",
+          "hindiPronunciation": "टेस्ट",
+          "gujaratiMeaning": "પરીક્ષણ કરવું",
+          "hindiMeaning": "परीक्षा लेना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Answer",
+          "gujaratiPronunciation": "આન્સર",
+          "hindiPronunciation": "आंसर",
+          "gujaratiMeaning": "જવાબ આપવો",
+          "hindiMeaning": "उत्तर देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Quit",
+          "gujaratiPronunciation": "ક્વિટ",
+          "hindiPronunciation": "क्विट",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ देना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The professor will quiz the class on Friday.",
+          "gujaratiPronunciation": "ધ પ્રોફેસર વિલ ક્વિઝ ધ ક્લાસ ઓન ફ્રાઇડે.",
+          "hindiPronunciation": "द प्रोफेसर विल क्विज़ द क्लास ऑन फ्राइडे।",
+          "gujaratiTranslation": "પ્રોફેસર શુક્રવારે વર્ગની પ્રશ્નોત્તરી કરશે.",
+          "hindiTranslation": "प्रोफेसर शुक्रवार को कक्षा की प्रश्नोत्तरी करेंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Memorize",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "યાદ કરવું",
+      "hindiMeaning": "याद करना",
+      "gujaratiPronunciation": "મેમરાઇઝ",
+      "hindiPronunciation": "मेमराइज़",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Memorize",
+          "gujaratiPronunciation": "મેમરાઇઝ",
+          "hindiPronunciation": "मेमराइज़",
+          "gujaratiMeaning": "યાદ કરવું",
+          "hindiMeaning": "याद करना"
+        },
+        "V2 (Past)": {
+          "word": "Memorized",
+          "gujaratiPronunciation": "મેમરાઇઝ્ડ",
+          "hindiPronunciation": "मेमराइज़्ड",
+          "gujaratiMeaning": "યાદ કર્યું",
+          "hindiMeaning": "याद किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Memorized",
+          "gujaratiPronunciation": "મેમરાઇઝ્ડ",
+          "hindiPronunciation": "मेमराइज़्ड",
+          "gujaratiMeaning": "યાદ કરેલું",
+          "hindiMeaning": "याद किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Memorizing",
+          "gujaratiPronunciation": "મેમરાઇઝિંગ",
+          "hindiPronunciation": "मेमराइज़िंग",
+          "gujaratiMeaning": "યાદ કરી રહ્યું",
+          "hindiMeaning": "याद कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Learn by heart",
+          "gujaratiPronunciation": "લર્ન બાય હાર્ટ",
+          "hindiPronunciation": "लर्न बाय हार्ट",
+          "gujaratiMeaning": "મોઢે કરવું",
+          "hindiMeaning": "कंठस्थ करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Forget",
+          "gujaratiPronunciation": "ફર્ગેટ",
+          "hindiPronunciation": "फॉरगेट",
+          "gujaratiMeaning": "ભૂલી જવું",
+          "hindiMeaning": "भूल जाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Memorialize",
+          "gujaratiPronunciation": "મેમોરિયલાઇઝ",
+          "hindiPronunciation": "मेमोरियलाइज़",
+          "gujaratiMeaning": "સ્મારક બનાવવું",
+          "hindiMeaning": "स्मारक बनाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Actors need to memorize their lines.",
+          "gujaratiPronunciation": "એક્ટર્સ નીડ ટુ મેમરાઇઝ ધેર લાઇન્સ.",
+          "hindiPronunciation": "एक्टर्स नीड टू मेमराइज़ देयर लाइन्स।",
+          "gujaratiTranslation": "અભિનેતાઓને તેમની લાઇનો યાદ કરવાની જરૂર હોય છે.",
+          "hindiTranslation": "अभिनेताओं को अपनी पंक्तियाँ याद करने की आवश्यकता होती है।"
+        }
+      ]
+    },
+    {
+      "word": "Discern",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "પારખવું",
+      "hindiMeaning": "पहचानना",
+      "gujaratiPronunciation": "ડિસર્ન",
+      "hindiPronunciation": "डिसर्न",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Discern",
+          "gujaratiPronunciation": "ડિસર્ન",
+          "hindiPronunciation": "डिसर्न",
+          "gujaratiMeaning": "પારખવું",
+          "hindiMeaning": "पहचानना"
+        },
+        "V2 (Past)": {
+          "word": "Discerned",
+          "gujaratiPronunciation": "ડિસર્ન્ડ",
+          "hindiPronunciation": "डिसर्न्ड",
+          "gujaratiMeaning": "પારખ્યું",
+          "hindiMeaning": "पहचाना"
+        },
+        "V3 (Past Participle)": {
+          "word": "Discerned",
+          "gujaratiPronunciation": "ડિસર્ન્ડ",
+          "hindiPronunciation": "डिसर्न्ड",
+          "gujaratiMeaning": "પારખેલું",
+          "hindiMeaning": "पहचाना हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Discerning",
+          "gujaratiPronunciation": "ડિસર્નિંગ",
+          "hindiPronunciation": "डिसर्निंग",
+          "gujaratiMeaning": "પારખી રહ્યું",
+          "hindiMeaning": "पहचान रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Perceive",
+          "gujaratiPronunciation": "પર્સીવ",
+          "hindiPronunciation": "परसीव",
+          "gujaratiMeaning": "સમજવું",
+          "hindiMeaning": "समझना"
+        },
+        {
+          "word": "Recognize",
+          "gujaratiPronunciation": "રેકગ્નાઇઝ",
+          "hindiPronunciation": "रिकग्नाइज़",
+          "gujaratiMeaning": "ઓળખવું",
+          "hindiMeaning": "पहचानना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Overlook",
+          "gujaratiPronunciation": "ઓવરલુક",
+          "hindiPronunciation": "ओवरलुक",
+          "gujaratiMeaning": "ધ્યાન ન આપવું",
+          "hindiMeaning": "नज़रअंदाज़ करना"
+        },
+        {
+          "word": "Confuse",
+          "gujaratiPronunciation": "કન્ફ્યુઝ",
+          "hindiPronunciation": "कन्फ्यूज़",
+          "gujaratiMeaning": "ગૂંચવવું",
+          "hindiMeaning": "उलझाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Concern",
+          "gujaratiPronunciation": "કન્સર્ન",
+          "hindiPronunciation": "कंसर्न",
+          "gujaratiMeaning": "ચિંતા",
+          "hindiMeaning": "चिंता"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It was difficult to discern the truth from his lies.",
+          "gujaratiPronunciation": "ઇટ વૉઝ ડિફિકલ્ટ ટુ ડિસર્ન ધ ટ્રુથ ફ્રોમ હીઝ લાઇઝ.",
+          "hindiPronunciation": "इट वॉज़ डिफिकल्ट टू डिसर्न द ट्रुथ फ्रॉम हिज़ लाइज़।",
+          "gujaratiTranslation": "તેના જૂઠાણામાંથી સત્ય પારખવું મુશ્કેલ હતું.",
+          "hindiTranslation": "उसके झूठ से सच को पहचानना मुश्किल था।"
+        }
+      ]
+    },
+    {
+      "word": "Enlighten",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "જ્ઞાન આપવું",
+      "hindiMeaning": "ज्ञान देना",
+      "gujaratiPronunciation": "એનલાઇટન",
+      "hindiPronunciation": "एनलाइटन",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Enlighten",
+          "gujaratiPronunciation": "એનલાઇટન",
+          "hindiPronunciation": "एनलाइटन",
+          "gujaratiMeaning": "જ્ઞાન આપવું",
+          "hindiMeaning": "ज्ञान देना"
+        },
+        "V2 (Past)": {
+          "word": "Enlightened",
+          "gujaratiPronunciation": "એનલાઇટન્ડ",
+          "hindiPronunciation": "एनलाइटेंड",
+          "gujaratiMeaning": "જ્ઞાન આપ્યું",
+          "hindiMeaning": "ज्ञान दिया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Enlightened",
+          "gujaratiPronunciation": "એનલાઇટન્ડ",
+          "hindiPronunciation": "एनलाइटेंड",
+          "gujaratiMeaning": "જ્ઞાન આપેલું",
+          "hindiMeaning": "ज्ञान दिया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Enlightening",
+          "gujaratiPronunciation": "એનલાઇટનિંગ",
+          "hindiPronunciation": "एनलाइटनिंग",
+          "gujaratiMeaning": "જ્ઞાન આપી રહ્યું",
+          "hindiMeaning": "ज्ञान दे रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Inform",
+          "gujaratiPronunciation": "ઇન્ફોર્મ",
+          "hindiPronunciation": "इन्फॉर्म",
+          "gujaratiMeaning": "માહિતી આપવી",
+          "hindiMeaning": "सूचित करना"
+        },
+        {
+          "word": "Educate",
+          "gujaratiPronunciation": "એજ્યુકેટ",
+          "hindiPronunciation": "एजुकेट",
+          "gujaratiMeaning": "શિક્ષિત કરવું",
+          "hindiMeaning": "शिक्षित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Confuse",
+          "gujaratiPronunciation": "કન્ફ્યુઝ",
+          "hindiPronunciation": "कन्फ्यूज़",
+          "gujaratiMeaning": "ગૂંચવવું",
+          "hindiMeaning": "उलझाना"
+        },
+        {
+          "word": "Mislead",
+          "gujaratiPronunciation": "મિસલીડ",
+          "hindiPronunciation": "मिसलीड",
+          "gujaratiMeaning": "ગેરમાર્ગે દોરવું",
+          "hindiMeaning": "गुमराह करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Lighten",
+          "gujaratiPronunciation": "લાઇટન",
+          "hindiPronunciation": "लाइटन",
+          "gujaratiMeaning": "હળવું કરવું",
+          "hindiMeaning": "हल्का करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Could you enlighten me on this complex topic?",
+          "gujaratiPronunciation": "કુડ યુ એનલાઇટન મી ઓન ધિસ કોમ્પ્લેક્સ ટોપિક?",
+          "hindiPronunciation": "कुड यू एनलाइटन मी ऑन दिस कॉम्प्लेक्स टॉपिक?",
+          "gujaratiTranslation": "શું તમે મને આ જટિલ વિષય પર જ્ઞાન આપી શકો છો?",
+          "hindiTranslation": "क्या आप मुझे इस जटिल विषय पर ज्ञान दे सकते हैं?"
+        }
+      ]
+    }
+  ]
+}

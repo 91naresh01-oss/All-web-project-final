@@ -1,0 +1,381 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Acquire",
+      "gujaratiPronunciation": "એક્વાયર",
+      "hindiPronunciation": "एक्वायर",
+      "gujaratiMeaning": "હસ્તગત કરવું, પ્રાપ્ત કરવું",
+      "hindiMeaning": "अधिग्रहण करना, प्राप्त करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Acquire",
+          "pronunciation": "એક્વાયર",
+          "meaning": "હસ્તગત કરવું"
+        },
+        "V2 (Past)": {
+          "word": "Acquired",
+          "pronunciation": "એક્વાયર્ડ",
+          "meaning": "હસ્તગત કર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Acquired",
+          "pronunciation": "એક્વાયર્ડ",
+          "meaning": "હસ્તગત કરેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Acquiring",
+          "pronunciation": "એક્વાયરિંગ",
+          "meaning": "હસ્તગત કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Obtain",
+          "pronunciation": "ઓબ્ટેન",
+          "meaning": "મેળવવું"
+        },
+        {
+          "word": "Get",
+          "pronunciation": "ગેટ",
+          "meaning": "મેળવવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Lose",
+          "pronunciation": "લૂઝ",
+          "meaning": "ગુમાવવું"
+        },
+        {
+          "word": "Sell",
+          "pronunciation": "સેલ",
+          "meaning": "વેચવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Inquire",
+          "pronunciation": "ઇન્ક્વાયર",
+          "meaning": "પૂછપરછ કરવી"
+        },
+        {
+          "word": "Require",
+          "pronunciation": "રિક્વાયર",
+          "meaning": "જરૂર હોવી"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company plans to acquire several smaller firms.",
+          "gujaratiTranslation": "કંપની ઘણી નાની ફર્મોને હસ્તગત કરવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "कंपनी कई छोटी फर्मों का अधिग्रहण करने की योजना बना रही है।",
+          "gujaratiPronunciation": "ધ કંપની પ્લાન્સ ટુ એક્વાયર સેવરલ સ્મોલર ફર્મ્સ.",
+          "hindiPronunciation": "द कंपनी प्लांस टू एक्वायर सेवरल स्मॉलर फर्म्स।"
+        }
+      ]
+    },
+    {
+      "word": "Absorb",
+      "gujaratiPronunciation": "એબ્સોર્બ",
+      "hindiPronunciation": "एब्सॉर्ब",
+      "gujaratiMeaning": "શોષી લેવું, આત્મસાત કરવું",
+      "hindiMeaning": "सोख लेना, आत्मसात करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Absorb",
+          "pronunciation": "એબ્સોર્બ",
+          "meaning": "શોષી લેવું"
+        },
+        "V2 (Past)": {
+          "word": "Absorbed",
+          "pronunciation": "એબ્સોર્બ્ડ",
+          "meaning": "શોષી લીધું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Absorbed",
+          "pronunciation": "એબ્સોર્બ્ડ",
+          "meaning": "શોષી લીધેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Absorbing",
+          "pronunciation": "એબ્સોર્બિંગ",
+          "meaning": "શોષી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Soak up",
+          "pronunciation": "સોક અપ",
+          "meaning": "ચૂસી લેવું"
+        },
+        {
+          "word": "Assimilate",
+          "pronunciation": "અસિમિલેટ",
+          "meaning": "આત્મસાત કરવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Emit",
+          "pronunciation": "એમિટ",
+          "meaning": "ઉત્સર્જન કરવું"
+        },
+        {
+          "word": "Disperse",
+          "pronunciation": "ડિસ્પર્સ",
+          "meaning": "વિખેરી નાખવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Absurd",
+          "pronunciation": "એબ્સર્ડ",
+          "meaning": "હાસ્યાસ્પદ"
+        },
+        {
+          "word": "Observe",
+          "pronunciation": "ઓબ્ઝર્વ",
+          "meaning": "અવલોકન કરવું"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A sponge can absorb a lot of water.",
+          "gujaratiTranslation": "એક વાદળી ઘણું પાણી શોષી શકે છે.",
+          "hindiTranslation": "एक स्पंज बहुत सारा पानी सोख सकता है।",
+          "gujaratiPronunciation": "અ સ્પંજ કેન એબ્સોર્બ અ લોટ ઓફ વોટર.",
+          "hindiPronunciation": "अ स्पंज कैन एब्सॉर्ब अ लॉट ऑफ वॉटर।"
+        }
+      ]
+    },
+    {
+      "word": "Retain",
+      "gujaratiPronunciation": "રિટેન",
+      "hindiPronunciation": "रिटेन",
+      "gujaratiMeaning": "જાળવી રાખવું, યાદ રાખવું",
+      "hindiMeaning": "बनाए रखना, याद रखना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Retain",
+          "pronunciation": "રિટેન",
+          "meaning": "જાળવી રાખવું"
+        },
+        "V2 (Past)": {
+          "word": "Retained",
+          "pronunciation": "રિટેન્ડ",
+          "meaning": "જાળવી રાખ્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Retained",
+          "pronunciation": "રિટેન્ડ",
+          "meaning": "જાળવી રાખેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Retaining",
+          "pronunciation": "રિટેનિંગ",
+          "meaning": "જાળવી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Keep",
+          "pronunciation": "કીપ",
+          "meaning": "રાખવું"
+        },
+        {
+          "word": "Maintain",
+          "pronunciation": "મેઇન્ટેન",
+          "meaning": "જાળવવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Lose",
+          "pronunciation": "લૂઝ",
+          "meaning": "ગુમાવવું"
+        },
+        {
+          "word": "Discard",
+          "pronunciation": "ડિસ્કાર્ડ",
+          "meaning": "કાઢી નાખવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Obtain",
+          "pronunciation": "ઓબ્ટેન",
+          "meaning": "મેળવવું"
+        },
+        {
+          "word": "Contain",
+          "pronunciation": "કન્ટેન",
+          "meaning": "સમાવવું"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "This material retains heat very well.",
+          "gujaratiTranslation": "આ સામગ્રી ગરમીને ખૂબ સારી રીતે જાળવી રાખે છે.",
+          "hindiTranslation": "यह सामग्री गर्मी को बहुत अच्छी तरह से बनाए रखती है।",
+          "gujaratiPronunciation": "ધીસ મટિરિયલ રિટેન્સ હીટ વેરી વેલ.",
+          "hindiPronunciation": "दिस मटेरियल रिटेन्स हीट वेरी वेल।"
+        }
+      ]
+    },
+    {
+      "word": "Waive",
+      "gujaratiPronunciation": "વેવ",
+      "hindiPronunciation": "वेव",
+      "gujaratiMeaning": "જતું કરવું, ત્યાગ કરવો (અધિકારનો)",
+      "hindiMeaning": "छोड़ देना, त्याग देना (अधिकार का)",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Waive",
+          "pronunciation": "વેવ",
+          "meaning": "જતું કરવું"
+        },
+        "V2 (Past)": {
+          "word": "Waived",
+          "pronunciation": "વેવ્ડ",
+          "meaning": "જતું કર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Waived",
+          "pronunciation": "વેવ્ડ",
+          "meaning": "જતું કરેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Waiving",
+          "pronunciation": "વેવિંગ",
+          "meaning": "જતું કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Forgo",
+          "pronunciation": "ફોરગો",
+          "meaning": "ત્યાગ કરવો"
+        },
+        {
+          "word": "Relinquish",
+          "pronunciation": "રિલિંક્વિશ",
+          "meaning": "ત્યાગી દેવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Claim",
+          "pronunciation": "ક્લેમ",
+          "meaning": "દાવો કરવો"
+        },
+        {
+          "word": "Demand",
+          "pronunciation": "ડિમાન્ડ",
+          "meaning": "માંગણી કરવી"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Wave",
+          "pronunciation": "વેવ",
+          "meaning": "તરંગ, લહેર"
+        },
+        {
+          "word": "Weave",
+          "pronunciation": "વીવ",
+          "meaning": "વણવું"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The bank agreed to waive the late fees.",
+          "gujaratiTranslation": "બેંક લેટ ફી જતી કરવા માટે સંમત થઈ.",
+          "hindiTranslation": "बैंक लेट फीस माफ करने पर सहमत हो गया।",
+          "gujaratiPronunciation": "ધ બેંક એગ્રીડ ટુ વેવ ધ લેટ ફીઝ.",
+          "hindiPronunciation": "द बैंक एग्रीड टू वेव द लेट फीस।"
+        }
+      ]
+    },
+    {
+      "word": "Remit",
+      "gujaratiPronunciation": "રેમિટ",
+      "hindiPronunciation": "रेमिट",
+      "gujaratiMeaning": "મોકલવું (પૈસા), માફ કરવું (દંડ)",
+      "hindiMeaning": "भेजना (पैसे), माफ करना (जुर्माना)",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Remit",
+          "pronunciation": "રેમિટ",
+          "meaning": "મોકલવું"
+        },
+        "V2 (Past)": {
+          "word": "Remitted",
+          "pronunciation": "રેમિટેડ",
+          "meaning": "મોકલ્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Remitted",
+          "pronunciation": "રેમિટેડ",
+          "meaning": "મોકલેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Remitting",
+          "pronunciation": "રેમિટિંગ",
+          "meaning": "મોકલી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Send",
+          "pronunciation": "સેન્ડ",
+          "meaning": "મોકલવું"
+        },
+        {
+          "word": "Pay",
+          "pronunciation": "પે",
+          "meaning": "ચૂકવવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Receive",
+          "pronunciation": "રિસીવ",
+          "meaning": "મેળવવું"
+        },
+        {
+          "word": "Collect",
+          "pronunciation": "કલેક્ટ",
+          "meaning": "એકત્ર કરવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Admit",
+          "pronunciation": "એડમિટ",
+          "meaning": "દાખલ કરવું"
+        },
+        {
+          "word": "Limit",
+          "pronunciation": "લિમિટ",
+          "meaning": "મર્યાદા"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please remit payment at your earliest convenience.",
+          "gujaratiTranslation": "મહેરબાની કરીને તમારી અનુકૂળતા મુજબ જલદી ચુકવણી મોકલો.",
+          "hindiTranslation": "कृपया अपनी सुविधानुसार जल्द से जल्द भुगतान भेजें।",
+          "gujaratiPronunciation": "પ્લીઝ રેમિટ પેમેન્ટ એટ યોર અર્લિએસ્ટ કન્વિનિયન્સ.",
+          "hindiPronunciation": "प्लीज रेमिट पेमेंट एट योर अर्लीएस्ट कन्वीनियंस।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+import React from 'react';
+import {
+    TheoryCard,
+    GradientCard,
+    TheoryHeading,
+    TheorySubHeading,
+    TheoryText,
+    TheoryGrid,
+    HighlightBox,
+    TheoryTable,
+    TheoryTableHeader,
+    TheoryTableRow,
+    TheoryList,
+    TheoryListItem
+} from '../../../components/TheoryComponents';
+
+export const chapter11Theory = [
+    {
+        title: "૧૧. ક્રિયાવિશેષણ (Adverb)",
+        content: (
+            <div className="modern-theory-wrapper">
+                {/* Introduction Section */}
+                <GradientCard
+                    heading="૧૧. ક્રિયાવિશેષણ (Adverb)"
+                    description="ક્રિયાપદના અર્થમાં વધારો કરે તે ક્રિયાવિશેષણ"
+                    theme="teal"
+                >
+                    <div style={{ marginTop: '15px' }}>
+                        <TheorySubHeading glass>ક્રિયાવિશેષણ એટલે શું?</TheorySubHeading>
+                        <TheoryList color="#000000">
+                            <TheoryListItem>
+                                ક્રિયાપદના અર્થમાં વધારો કરતા પદને <strong>'ક્રિયાવિશેષણ'</strong> કહેવાય છે.
+                            </TheoryListItem>
+                            <TheoryListItem>
+                                <strong>નિયમ:</strong> વાક્યમાં ક્રિયાવિશેષણને દૂર કરવામાં આવે તો તે વાક્યમાં કોઈ જ ફેર પડતો નથી. કારણ કે ક્રિયાવિશેષણ માત્ર તેના અર્થમાં વધારો કરતું પદ જ છે, એથી વિશેષ નહીં.
+                            </TheoryListItem>
+                        </TheoryList>
+                        <HighlightBox type="translucent-white" title="ઉદાહરણો">
+                            <ul style={{ listStyleType: 'disc', paddingLeft: '20px' }}>
+                                <li>ભાવેશભાઈ <strong>માંડમાંડ</strong> ઑફિસે પહોંચ્યા.</li>
+                                <li>પંખી <strong>ધીમે ધીમે</strong> ચાલે છે.</li>
+                                <li>બધા <strong>ઝડપથી</strong> દોડવા લાગ્યાં.</li>
+                                <li>ગાડી <strong>ધીરે ધીરે</strong> ચાલતી હતી.</li>
+                            </ul>
+                        </HighlightBox>
+                    </div>
+                </GradientCard>
+
+                {/* Types List */}
+                <TheoryCard>
+                    <TheoryHeading>ક્રિયાવિશેષણના પ્રકાર</TheoryHeading>
+                    <TheoryGrid>
+                        <div style={{ background: '#f8fafc', padding: '15px', borderRadius: '8px' }}>
+                            <ol style={{ paddingLeft: '20px', margin: 0, lineHeight: '1.8' }}>
+                                <li>રીતિવાચક/રીતવાચક ક્રિયાવિશેષણ</li>
+                                <li>સ્થળવાચક ક્રિયાવિશેષણ</li>
+                                <li>કાળ/સમયવાચક ક્રિયાવિશેષણ</li>
+                                <li>હેતુ/કારણવાચક ક્રિયાવિશેષણ</li>
+                                <li>માત્રાસૂચક/પ્રમાણવાચક ક્રિયાવિશેષણ</li>
+                                <li>ક્રમવાચક ક્રિયાવિશેષણ</li>
+                            </ol>
+                        </div>
+                        <div style={{ background: '#f8fafc', padding: '15px', borderRadius: '8px' }}>
+                            <ol start={7} style={{ paddingLeft: '20px', margin: 0, lineHeight: '1.8' }}>
+                                <li>ભાવવાચક ક્રિયાવિશેષણ</li>
+                                <li>નિશ્ચયવાચક ક્રિયાવિશેષણ</li>
+                                <li>સ્વીકારવાચક ક્રિયાવિશેષણ</li>
+                                <li>નકાર/નિષેધવાચક ક્રિયાવિશેષણ</li>
+                                <li>સંભાવના/અભિગમવાચક ક્રિયાવિશેષણ</li>
+                            </ol>
+                        </div>
+                    </TheoryGrid>
+                </TheoryCard>
+
+                <div className="section-divider" style={{ margin: '20px 0', borderBottom: '2px dashed #e5e7eb' }}></div>
+
+                {/* Detailed Spec Types */}
+                <TheoryHeading>📝 ક્રિયાવિશેષણના પ્રકારોની વિસ્તૃત સમજ</TheoryHeading>
+
+                {/* 1. Riti Vachak */}
+                <TheoryCard>
+                    <TheorySubHeading color="#0ea5e9" bg="#e0f2fe">૧. રીતિવાચક/રીતવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                    <TheoryText>
+                        ક્રિયાવિશેષણ ક્રિયા કેવી રીતે થઈ તે બતાવે ત્યારે તેને ‘રીતિવાચક/રીતવાચક ક્રિયાવિશેષણ’ કહેવાય છે.
+                    </TheoryText>
+                    <HighlightBox type="info">
+                        <strong>શબ્દપ્રયોગ:</strong> ફટાફટ, એકદમ, ધીમે, ઝડપી, નિરાંતે, ઉપરાઉપરી, પૂરેપૂરી, હળવે, રાતોરાત, ઉતાવળે, એમ, ધીરે ધીરે, તરત, માંડ, ધારીધારીને, અભાનપણે, સુખેથી, મોઢે, પરાણે, ટગર ટગર, જેમ તેમ, એકાએક, ઓચિંતા, વારંવાર, ના છૂટકે, નિયમિત.
+                    </HighlightBox>
+                    <div style={{ marginTop: '10px' }}>
+                        <strong>ઉદાહરણ:</strong>
+                        <ul style={{ paddingLeft: '20px', marginTop: '5px', lineHeight: '1.6' }}>
+                            <li>વેકેશન <strong>જલદી</strong> પૂરું થઈ ગયું.</li>
+                            <li>સુરતમાં કારમાં <strong>અચાનક</strong> આગ લાગી.</li>
+                            <li>અમારી છત્રી <strong>એમ</strong> વરસદિવસમાં તૂટી ન જાય.</li>
+                            <li>તે <strong>હસતાં-હસતાં</strong> બોલ્યાં.</li>
+                            <li>સાહેબ કાંઈ પૂછે તો જવાબ <strong>ફટાફટ</strong> આપજે.</li>
+                        </ul>
+                    </div>
+                </TheoryCard>
+
+                <TheoryGrid>
+                    {/* 2. Sthal Vachak */}
+                    <TheoryCard>
+                        <TheorySubHeading color="#16a34a" bg="#dcfce7">૨. સ્થળવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                        <TheoryText>
+                            વાક્યમાં ક્રિયાવિશેષણ સ્થળ બતાવે ત્યારે ‘સ્થળવાચક ક્રિયાવિશેષણ’ કહેવાય છે.
+                        </TheoryText>
+                        <HighlightBox type="success">
+                            <strong>શબ્દપ્રયોગ:</strong> ત્યાં, ક્યાં, અહીં, પર, નીચે, અંદર, બહાર, પાસે, દૂર, આગળ, પાછળ, આસપાસ, અત્ર, તત્ર, સર્વત્ર, ઉગમણા, જ્યાંકણે, મધ્યે, હેઠે, મેદાનમાં, બાજુમાં, સાથે.
+                        </HighlightBox>
+                        <p style={{ marginTop: '10px' }}><strong>ઉદાહરણ:</strong> અમે તરત <strong>પાછા</strong> જવાના હતા. હવે એ જયહિંદ હોટેલમાં રહેતી હતી.</p>
+                    </TheoryCard>
+
+                    {/* 3. Kaal Vachak */}
+                    <TheoryCard>
+                        <TheorySubHeading color="#ea580c" bg="#ffedd5">૩. કાળ/સમયવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                        <TheoryText>
+                            ક્રિયાનો સમય દર્શાવતા પદોને કાળ કે સમયવાચક ક્રિયાવિશેષણ કહે છે.
+                        </TheoryText>
+                        <HighlightBox type="warning">
+                            <strong>શબ્દપ્રયોગ:</strong> ક્યારે, આજે, કાલે, હવે, સવારે, કાયમ, કદી, હરહંમેશ, અગાઉ.
+                        </HighlightBox>
+                        <ul style={{ paddingLeft: '20px', marginTop: '5px', lineHeight: '1.6' }}>
+                            <li>એ સલાહો હું <strong>પાંચ મિનિટમાં</strong> ભૂલી ગયો.</li>
+                            <li>પ્રિય કવિ રાજેન્દ્ર શુક્લ <strong>કાયમ</strong> સાથે જ રહે.</li>
+                            <li>ટ્રેનના <strong>સમયે</strong> એને ચિઠ્ઠી મળી.</li>
+                        </ul>
+                    </TheoryCard>
+                </TheoryGrid>
+
+                {/* 4. Hetu Vachak */}
+                <TheoryCard>
+                    <TheorySubHeading color="#9333ea" bg="#f3e8ff">૪. હેતુ/કારણવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                    <TheoryText>ક્રિયાના હેતુ જાણવા માટે વપરાતા ક્રિયાવિશેષણને ‘હેતુ/કારણવાચક ક્રિયાવિશેષણ’ કહેવાય છે.</TheoryText>
+                    <HighlightBox type="purple">
+                        <strong>શબ્દપ્રયોગ:</strong> આથી, તેથી, થી, થકી, માટે, લીધે, ખાતર, કારણે, કેમ, શા માટે.
+                    </HighlightBox>
+                    <TheoryGrid>
+                        <div>
+                            <li>રમેશ <strong>કેમ</strong> આવ્યો હતો?</li>
+                            <li>વિદ્યાર્થીઓ <strong>ભણવા</strong> શાળામાં જાય છે.</li>
+                            <li>ભગતસિંહ <strong>દેશ કાજે</strong> શહીદ થયાં.</li>
+                            <li>પત્નીને <strong>લીધે</strong> તેણે ઘર છોડ્યું.</li>
+                            <li>તારી ખુશી <strong>માટે</strong> મારે જીવવું છે.</li>
+                        </div>
+                        <div>
+                            <li>અંબાજી જવા <strong>માટે</strong> હું રોકાયો.</li>
+                            <li>તારે <strong>ખાતર</strong> મેં બધું છોડયું.</li>
+                            <li>ડ્રાઇવરને <strong>કારણે</strong> બસ ખાઇમાં પડી.</li>
+                            <li><strong>શા માટે</strong> તમે મારી પાછળ આવો છો?</li>
+                        </div>
+                    </TheoryGrid>
+                </TheoryCard>
+
+                <TheoryGrid>
+                    {/* 5. Matra Suchak */}
+                    <TheoryCard>
+                        <TheorySubHeading>૫. માત્રાસૂચક/પ્રમાણવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                        <TheoryText>ક્રિયાના માપનો, માત્રાનો, પ્રમાણનો અર્થ ઉમેરનાર ક્રિયાવિશેષણ.</TheoryText>
+                        <HighlightBox type="info">
+                            <strong>શબ્દપ્રયોગ:</strong> થોડું, બહુ, ઘણીવાર, ખૂબ, સખત, અતિશય, કેટલું, પુષ્કળ, જરાક, અનહદ, તદ્દન.
+                        </HighlightBox>
+                        <ul style={{ paddingLeft: '20px', marginTop: '5px', fontSize: '0.9rem' }}>
+                            <li>કાર ખોટકાઈ પડે તો એનો માલિક <strong>થોડો</strong> શરમાય છે.</li>
+                            <li>નોકરી મળ્યાનો <strong>અનહદ</strong> આનંદ અનુભવાય છે.</li>
+                            <li>પાટણના પટોળા મને <strong>બહુ</strong> ગમે છે.</li>
+                            <li>તે <strong>તદ્દન</strong> થાકી ગયો છે.</li>
+                        </ul>
+                    </TheoryCard>
+
+                    {/* 6. Kram Vachak */}
+                    <TheoryCard>
+                        <TheorySubHeading>૬. ક્રમવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                        <TheoryText>ક્રિયાના સમયનો કે સ્થળનો ક્રમ બતાવે.</TheoryText>
+                        <HighlightBox type="info">
+                            <strong>શબ્દપ્રયોગ:</strong> આગળ, પાછળ, પછી, પહેલાં, અગાઉ, બીજો, છેલ્લો, વચ્ચે, શરૂઆતમાં, અંતે, આખરે.
+                        </HighlightBox>
+                        <ul style={{ paddingLeft: '20px', marginTop: '5px', fontSize: '0.9rem' }}>
+                            <li><strong>શરૂઆતમાં</strong> તમને ટ્રેનિંગ આપવામાં આવશે.</li>
+                            <li>શીલવંત સાધુને <strong>વારેવારે</strong> નમીએ.</li>
+                            <li>શિષ્ય ગુરુની <strong>પાછળ</strong> જાય છે.</li>
+                            <li>રાજ વર્ગમાં <strong>છેલ્લો</strong> આવ્યો.</li>
+                        </ul>
+                    </TheoryCard>
+                </TheoryGrid>
+
+                <TheoryCard>
+                    <TheorySubHeading>૭. ભાવવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                    <TheoryText>ક્રિયા વત્તે-ઓછે અંશે થઈ છે એવા ભાવનો અર્થ બતાવે.</TheoryText>
+                    <p><strong>શબ્દપ્રયોગ:</strong> તદ્દન, છેક, જરા, અતિશય, જરાક, લગાર, બસ.</p>
+                </TheoryCard>
+
+                <TheoryGrid>
+                    {/* 8. Nishchay Vachak */}
+                    <TheoryCard>
+                        <TheorySubHeading color="#be185d" bg="#fce7f3">૮. નિશ્ચયવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                        <TheoryText>ક્રિયા જરૂર બનશે કે બની એવા નિશ્ચયનો અર્થ બતાવે.</TheoryText>
+                        <HighlightBox type="error">
+                            <strong>શબ્દપ્રયોગ:</strong> જરૂર, ખરેખર, અવશ્ય, નક્કી, બેધડક, ચોક્કસ, ખચિત, મક્કમ, બેશક, સો ટકા.
+                        </HighlightBox>
+                        <ul style={{ paddingLeft: '20px', marginTop: '5px', fontSize: '0.9rem' }}>
+                            <li>તે આ કામ <strong>નિઃશંક</strong> કરશે.</li>
+                            <li>આપણા પ્રિય શિક્ષક <strong>અવશ્ય</strong> પધારશે.</li>
+                            <li>ગીતા ગીત <strong>ચોક્કસ</strong> ગાશે.</li>
+                            <li>તમારું કામ <strong>સો ટકા</strong> થઈ જશે.</li>
+                        </ul>
+                    </TheoryCard>
+
+                    {/* 9. Swikar Vachak */}
+                    <TheoryCard>
+                        <TheorySubHeading color="#0f766e" bg="#ccfbf1">૯. સ્વીકારવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                        <TheoryText>બનેલી કે બનવાની ક્રિયાના સ્વીકારનો અર્થ બતાવે.</TheoryText>
+                        <HighlightBox type="teal">
+                            <strong>શબ્દપ્રયોગ:</strong> સારું, વારું, ભલે, હા, છો, ઠીક, જરૂર, ચોક્કસ.
+                        </HighlightBox>
+                        <ul style={{ paddingLeft: '20px', marginTop: '5px', fontSize: '0.9rem' }}>
+                            <li><strong>સારું</strong>, આ અંગે હું નિર્ણય કરીશ.</li>
+                            <li>તમે <strong>ભલે</strong> પધાર્યા.</li>
+                            <li><strong>હા</strong>, સવારે તમને જોયા હતા.</li>
+                            <li><strong>ઠીક</strong>, રવિવારે મળીએ.</li>
+                        </ul>
+                    </TheoryCard>
+                </TheoryGrid>
+
+                <TheoryGrid>
+                    {/* 10. Nakar Vachak */}
+                    <TheoryCard>
+                        <TheorySubHeading color="#b91c1c" bg="#fee2e2">૧૦. નકાર/નિષેધવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                        <TheoryText>ક્રિયા નકારવાના અર્થમાં વપરાય.</TheoryText>
+                        <HighlightBox type="error">
+                            <strong>શબ્દપ્રયોગ:</strong> ના, મા, ન, નથી, નહિ, નવ.
+                        </HighlightBox>
+                        <ul style={{ paddingLeft: '20px', marginTop: '5px', fontSize: '0.9rem' }}>
+                            <li>તે જમવા ગયો <strong>નહિ</strong>.</li>
+                            <li>અસત્ય <strong>ન</strong> બોલાય.</li>
+                            <li>તમે જશો <strong>મા</strong>.</li>
+                            <li><strong>નવ</strong> કરશો કોઇ અફસોસ.</li>
+                        </ul>
+                    </TheoryCard>
+
+                    {/* 11. Sambhavana Vachak */}
+                    <TheoryCard>
+                        <TheorySubHeading color="#4338ca" bg="#e0e7ff">૧૧. સંભાવના/અભિગમવાચક ક્રિયાવિશેષણ</TheorySubHeading>
+                        <TheoryText>ક્રિયા બની છે કે બનશે એવી સંભાવનાનો અર્થ દર્શાવે.</TheoryText>
+                        <HighlightBox type="info">
+                            <strong>શબ્દપ્રયોગ:</strong> જાણે, રખે, શકે, કદાચ, કદાચિત, મોટેભાગે, ક્યારેક, ભાગ્યે જ, બસ, ચોક્કસ.
+                        </HighlightBox>
+                        <ul style={{ paddingLeft: '20px', marginTop: '5px', fontSize: '0.9rem' }}>
+                            <li><strong>જાણે</strong> કુદરતનો કોપ ઊતર્યો હોય એવું લાગે છે.</li>
+                            <li>તેઓ <strong>કદાચ</strong> આવતીકાલે મુંબઈથી આવશે.</li>
+                            <li>એ લોકો <strong>કદાચ</strong> રસ્તો ભૂલી ગયા હશે.</li>
+                        </ul>
+                    </TheoryCard>
+                </TheoryGrid>
+
+            </div>
+        )
+    }
+];

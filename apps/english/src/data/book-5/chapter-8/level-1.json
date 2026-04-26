@@ -1,0 +1,460 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Rain",
+      "gujaratiPronunciation": "રેન",
+      "hindiPronunciation": "रेन",
+      "gujaratiMeaning": "વરસાદ",
+      "hindiMeaning": "बारिश",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Rain",
+          "gujaratiPronunciation": "રેન",
+          "hindiPronunciation": "रेन",
+          "gujaratiMeaning": "વરસાદ પડવો",
+          "hindiMeaning": "बारिश होना"
+        },
+        "V2": {
+          "word": "Rained",
+          "gujaratiPronunciation": "રેઇન્ડ",
+          "hindiPronunciation": "रेन्ड",
+          "gujaratiMeaning": "વરસાદ પડ્યો",
+          "hindiMeaning": "बारिश हुई"
+        },
+        "V3": {
+          "word": "Rained",
+          "gujaratiPronunciation": "રેઇન્ડ",
+          "hindiPronunciation": "रेन्ड",
+          "gujaratiMeaning": "વરસાદ પડેલો",
+          "hindiMeaning": "बारिश हो चुकी"
+        },
+        "V4": {
+          "word": "Raining",
+          "gujaratiPronunciation": "રેનિંગ",
+          "hindiPronunciation": "रेनिंग",
+          "gujaratiMeaning": "વરસાદ પડી રહ્યો છે",
+          "hindiMeaning": "बारिश हो रही है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Downpour",
+          "gujaratiPronunciation": "ડાઉનપોર",
+          "hindiPronunciation": "डाउनपोर",
+          "gujaratiMeaning": "મુશળધાર વરસાદ",
+          "hindiMeaning": "मूसलाधार बारिश"
+        },
+        {
+          "word": "Drizzle",
+          "gujaratiPronunciation": "ડ્રિઝલ",
+          "hindiPronunciation": "ड्रिज़ल",
+          "gujaratiMeaning": "ઝરમર વરસાદ",
+          "hindiMeaning": "बूंदा बांदी"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Drought",
+          "gujaratiPronunciation": "ડ્રાઉટ",
+          "hindiPronunciation": "ड्रॉट",
+          "gujaratiMeaning": "દુકાળ",
+          "hindiMeaning": "सूखा"
+        },
+        {
+          "word": "Sunshine",
+          "gujaratiPronunciation": "સનશાઇન",
+          "hindiPronunciation": "सनशाइन",
+          "gujaratiMeaning": "સૂર્યપ્રકાશ",
+          "hindiMeaning": "धूप"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Reign",
+          "gujaratiPronunciation": "રેઇન",
+          "hindiPronunciation": "रेन",
+          "gujaratiMeaning": "શાસન",
+          "hindiMeaning": "शासन",
+          "difference": "Rain એ વરસાદ છે, જ્યારે Reign એ શાસન કરવું છે."
+        },
+        {
+          "word": "Rein",
+          "gujaratiPronunciation": "રેઇન",
+          "hindiPronunciation": "रेन",
+          "gujaratiMeaning": "લગામ",
+          "hindiMeaning": "लगाम",
+          "difference": "Rain એ વરસાદ છે, જ્યારે Rein એ ઘોડાની લગામ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The rain started to fall just as we left.",
+          "gujaratiPronunciation": "ધ રેન સ્ટાર્ટેડ ટુ ફોલ જસ્ટ એઝ વી લેફ્ટ.",
+          "hindiPronunciation": "द रेन स्टार्टेड टू फॉल जस्ट ऐज़ वी लेफ्ट।",
+          "gujaratiTranslation": "અમે નીકળ્યા કે તરત જ વરસાદ પડવા લાગ્યો.",
+          "hindiTranslation": "जैसे ही हम निकले बारिश होने लगी।"
+        }
+      ]
+    },
+    {
+      "word": "Blow",
+      "gujaratiPronunciation": "બ્લો",
+      "hindiPronunciation": "ब्लो",
+      "gujaratiMeaning": "ફૂંકાવું",
+      "hindiMeaning": "बहना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Blow",
+          "gujaratiPronunciation": "બ્લો",
+          "hindiPronunciation": "ब्लो",
+          "gujaratiMeaning": "ફૂંકાવું",
+          "hindiMeaning": "बहना"
+        },
+        "V2": {
+          "word": "Blew",
+          "gujaratiPronunciation": "બ્લૂ",
+          "hindiPronunciation": "ब्लू",
+          "gujaratiMeaning": "ફૂંકાયો",
+          "hindiMeaning": "बहा"
+        },
+        "V3": {
+          "word": "Blown",
+          "gujaratiPronunciation": "બ્લોન",
+          "hindiPronunciation": "ब्लोन",
+          "gujaratiMeaning": "ફૂંકાયેલો",
+          "hindiMeaning": "बह चुका"
+        },
+        "V4": {
+          "word": "Blowing",
+          "gujaratiPronunciation": "બ્લોઇંગ",
+          "hindiPronunciation": "ब्लोइंग",
+          "gujaratiMeaning": "ફૂંકાઈ રહ્યું છે",
+          "hindiMeaning": "बह रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Gust",
+          "gujaratiPronunciation": "ગસ્ટ",
+          "hindiPronunciation": "गस्ट",
+          "gujaratiMeaning": "પવનનો ઝાપટો",
+          "hindiMeaning": "हवा का झोंका"
+        },
+        {
+          "word": "Puff",
+          "gujaratiPronunciation": "પફ",
+          "hindiPronunciation": "पफ",
+          "gujaratiMeaning": "ફૂંક મારવી",
+          "hindiMeaning": "फूंक मारना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Calm",
+          "gujaratiPronunciation": "કામ",
+          "hindiPronunciation": "काम",
+          "gujaratiMeaning": "શાંત",
+          "hindiMeaning": "शांत"
+        },
+        {
+          "word": "Stillness",
+          "gujaratiPronunciation": "સ્ટિલનેસ",
+          "hindiPronunciation": "स्टिलनेस",
+          "gujaratiMeaning": "સ્થિરતા",
+          "hindiMeaning": "स्थिरता"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Below",
+          "gujaratiPronunciation": "બિલો",
+          "hindiPronunciation": "बिलो",
+          "gujaratiMeaning": "નીચે",
+          "hindiMeaning": "नीचे",
+          "difference": "Blow એ ફૂંકાવું છે, જ્યારે Below એ નીચેની સ્થિતિ દર્શાવે છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A cold wind started to blow.",
+          "gujaratiPronunciation": "અ કોલ્ડ વિન્ડ સ્ટાર્ટેડ ટુ બ્લો.",
+          "hindiPronunciation": "अ कोल्ड विंड स्टार्टेड टू ब्लो।",
+          "gujaratiTranslation": "ઠંડો પવન ફૂંકાવા લાગ્યો.",
+          "hindiTranslation": "ठंडी हवा बहने लगी।"
+        }
+      ]
+    },
+    {
+      "word": "Flow",
+      "gujaratiPronunciation": "ફ્લો",
+      "hindiPronunciation": "फ्लो",
+      "gujaratiMeaning": "વહેવું",
+      "hindiMeaning": "बहना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Flow",
+          "gujaratiPronunciation": "ફ્લો",
+          "hindiPronunciation": "फ्लो",
+          "gujaratiMeaning": "વહેવું",
+          "hindiMeaning": "बहना"
+        },
+        "V2": {
+          "word": "Flowed",
+          "gujaratiPronunciation": "ફ્લોડ",
+          "hindiPronunciation": "फ्लोड",
+          "gujaratiMeaning": "વહ્યું",
+          "hindiMeaning": "बहा"
+        },
+        "V3": {
+          "word": "Flowed",
+          "gujaratiPronunciation": "ફ્લોડ",
+          "hindiPronunciation": "फ्लोड",
+          "gujaratiMeaning": "વહેલું",
+          "hindiMeaning": "बह चुका"
+        },
+        "V4": {
+          "word": "Flowing",
+          "gujaratiPronunciation": "ફ્લોઇંગ",
+          "hindiPronunciation": "फ्लोइंग",
+          "gujaratiMeaning": "વહી રહ્યું છે",
+          "hindiMeaning": "बह रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Stream",
+          "gujaratiPronunciation": "સ્ટ્રીમ",
+          "hindiPronunciation": "स्ट्रीम",
+          "gujaratiMeaning": "ઝરણું",
+          "hindiMeaning": "धारा"
+        },
+        {
+          "word": "Pour",
+          "gujaratiPronunciation": "પોર",
+          "hindiPronunciation": "पोर",
+          "gujaratiMeaning": "રેડવું",
+          "hindiMeaning": "डालना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Stagnate",
+          "gujaratiPronunciation": "સ્ટેગ્નેટ",
+          "hindiPronunciation": "स्टैग्नेट",
+          "gujaratiMeaning": "સ્થિર થવું",
+          "hindiMeaning": "स्थिर होना"
+        },
+        {
+          "word": "Stop",
+          "gujaratiPronunciation": "સ્ટોપ",
+          "hindiPronunciation": "स्टॉप",
+          "gujaratiMeaning": "અટકવું",
+          "hindiMeaning": "रुकना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Flaw",
+          "gujaratiPronunciation": "ફ્લો",
+          "hindiPronunciation": "फ्लॉ",
+          "gujaratiMeaning": "ખામી",
+          "hindiMeaning": "दोष",
+          "difference": "Flow એ વહેવું છે, જ્યારે Flaw એ ખામી છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The river flows to the sea.",
+          "gujaratiPronunciation": "ધ રિવર ફ્લોઝ ટુ ધ સી.",
+          "hindiPronunciation": "द रिवर फ्लोज टू द सी।",
+          "gujaratiTranslation": "નદી દરિયામાં વહે છે.",
+          "hindiTranslation": "नदी समुद्र में बहती है।"
+        }
+      ]
+    },
+    {
+      "word": "Bloom",
+      "gujaratiPronunciation": "બ્લૂમ",
+      "hindiPronunciation": "ब्लूम",
+      "gujaratiMeaning": "ખીલવું",
+      "hindiMeaning": "खिलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Bloom",
+          "gujaratiPronunciation": "બ્લૂમ",
+          "hindiPronunciation": "ब्लूम",
+          "gujaratiMeaning": "ખીલવું",
+          "hindiMeaning": "खिलना"
+        },
+        "V2": {
+          "word": "Bloomed",
+          "gujaratiPronunciation": "બ્લૂમ્ડ",
+          "hindiPronunciation": "ब्लूम्ड",
+          "gujaratiMeaning": "ખીલ્યું",
+          "hindiMeaning": "खिला"
+        },
+        "V3": {
+          "word": "Bloomed",
+          "gujaratiPronunciation": "બ્લૂમ્ડ",
+          "hindiPronunciation": "ब्लूम्ड",
+          "gujaratiMeaning": "ખીલેલું",
+          "hindiMeaning": "खिल चुका"
+        },
+        "V4": {
+          "word": "Blooming",
+          "gujaratiPronunciation": "બ્લૂમિંગ",
+          "hindiPronunciation": "ब्लूमिंग",
+          "gujaratiMeaning": "ખીલી રહ્યું છે",
+          "hindiMeaning": "खिल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Blossom",
+          "gujaratiPronunciation": "બ્લોસમ",
+          "hindiPronunciation": "ब्लॉसम",
+          "gujaratiMeaning": "ફૂલવું",
+          "hindiMeaning": "फूलना"
+        },
+        {
+          "word": "Flower",
+          "gujaratiPronunciation": "ફ્લાવર",
+          "hindiPronunciation": "फ्लावर",
+          "gujaratiMeaning": "ફૂલ આવવા",
+          "hindiMeaning": "फूल आना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Wither",
+          "gujaratiPronunciation": "વિધર",
+          "hindiPronunciation": "विदर",
+          "gujaratiMeaning": "કરમાવું",
+          "hindiMeaning": "मुरझाना"
+        },
+        {
+          "word": "Fade",
+          "gujaratiPronunciation": "ફેડ",
+          "hindiPronunciation": "फेड",
+          "gujaratiMeaning": "ઝાંખું પડવું",
+          "hindiMeaning": "फीका पड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Gloom",
+          "gujaratiPronunciation": "ગ્લૂમ",
+          "hindiPronunciation": "ग्लूम",
+          "gujaratiMeaning": "ઉદાસી",
+          "hindiMeaning": "उदासी",
+          "difference": "Bloom એ ખીલવું છે, જ્યારે Gloom એ ઉદાસી છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The roses bloom in the spring.",
+          "gujaratiPronunciation": "ધ રોઝીઝ બ્લૂમ ઇન ધ સ્પ્રિંગ.",
+          "hindiPronunciation": "द रोज़ेज़ ब्लूम इन द स्प्रिंग।",
+          "gujaratiTranslation": "વસંતમાં ગુલાબ ખીલે છે.",
+          "hindiTranslation": "वसंत में गुलाब खिलते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Burn",
+      "gujaratiPronunciation": "બર્ન",
+      "hindiPronunciation": "बर्न",
+      "gujaratiMeaning": "બળવું",
+      "hindiMeaning": "जलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Burn",
+          "gujaratiPronunciation": "બર્ન",
+          "hindiPronunciation": "बर्न",
+          "gujaratiMeaning": "બળવું",
+          "hindiMeaning": "जलना"
+        },
+        "V2": {
+          "word": "Burnt/Burned",
+          "gujaratiPronunciation": "બર્ન્ટ/બર્ન્ડ",
+          "hindiPronunciation": "बर्न्ट/बर्न्ड",
+          "gujaratiMeaning": "બળ્યું",
+          "hindiMeaning": "जला"
+        },
+        "V3": {
+          "word": "Burnt/Burned",
+          "gujaratiPronunciation": "બર્ન્ટ/બર્ન્ડ",
+          "hindiPronunciation": "बर्न्ट/बर्न्ड",
+          "gujaratiMeaning": "બળેલું",
+          "hindiMeaning": "जल चुका"
+        },
+        "V4": {
+          "word": "Burning",
+          "gujaratiPronunciation": "બર્નિંગ",
+          "hindiPronunciation": "बर्निंग",
+          "gujaratiMeaning": "બળી રહ્યું છે",
+          "hindiMeaning": "जल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Ignite",
+          "gujaratiPronunciation": "ઇગ્નાઇટ",
+          "hindiPronunciation": "इग्नाइट",
+          "gujaratiMeaning": "સળગાવવું",
+          "hindiMeaning": "जलाना"
+        },
+        {
+          "word": "Scorch",
+          "gujaratiPronunciation": "સ્કૉર્ચ",
+          "hindiPronunciation": "स्कॉर्च",
+          "gujaratiMeaning": "દઝાડવું",
+          "hindiMeaning": "झुलसाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Extinguish",
+          "gujaratiPronunciation": "એક્સ્ટિંગ્વિશ",
+          "hindiPronunciation": "एक्सटिंग्विश",
+          "gujaratiMeaning": "ઓલવવું",
+          "hindiMeaning": "बुझाना"
+        },
+        {
+          "word": "Cool",
+          "gujaratiPronunciation": "કૂલ",
+          "hindiPronunciation": "कूल",
+          "gujaratiMeaning": "ઠંડુ કરવું",
+          "hindiMeaning": "ठंडा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Barn",
+          "gujaratiPronunciation": "બાર્ન",
+          "hindiPronunciation": "बार्न",
+          "gujaratiMeaning": "કોઠાર",
+          "hindiMeaning": "खलिहान",
+          "difference": "Burn એ બળવું છે, જ્યારે Barn એ કોઠાર છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The logs were burning in the fireplace.",
+          "gujaratiPronunciation": "ધ લોગ્સ વર બર્નિંગ ઇન ધ ફાયરપ્લેસ.",
+          "hindiPronunciation": "द लॉग्स वर बर्निंग इन द फायरप्लेस।",
+          "gujaratiTranslation": "ચૂલામાં લાકડાં બળી રહ્યા હતા.",
+          "hindiTranslation": "अंगीठी में लकड़ी के लट्ठे जल रहे थे।"
+        }
+      ]
+    }
+  ]
+}

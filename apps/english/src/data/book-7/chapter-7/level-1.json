@@ -1,0 +1,481 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Plan",
+      "gujaratiPronunciation": "પ્લાન",
+      "hindiPronunciation": "प्लान",
+      "gujaratiMeaning": "યોજના બનાવવી",
+      "hindiMeaning": "योजना बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Plan",
+          "gujaratiPronunciation": "પ્લાન",
+          "hindiPronunciation": "प्लान",
+          "gujaratiMeaning": "યોજના બનાવવી",
+          "hindiMeaning": "योजना बनाना"
+        },
+        "v2": {
+          "word": "Planned",
+          "gujaratiPronunciation": "પ્લાન્ડ",
+          "hindiPronunciation": "प्लान्ड",
+          "gujaratiMeaning": "યોજના બનાવી",
+          "hindiMeaning": "योजना बनाई"
+        },
+        "v3": {
+          "word": "Planned",
+          "gujaratiPronunciation": "પ્લાન્ડ",
+          "hindiPronunciation": "प्लान्ड",
+          "gujaratiMeaning": "યોજના બનાવેલ",
+          "hindiMeaning": "योजना बनाई हुई"
+        },
+        "v4": {
+          "word": "Planning",
+          "gujaratiPronunciation": "પ્લાનિંગ",
+          "hindiPronunciation": "प्लानिंग",
+          "gujaratiMeaning": "યોજના બનાવી રહ્યા છે",
+          "hindiMeaning": "योजना बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Scheme",
+          "gujaratiPronunciation": "સ્કીમ",
+          "hindiPronunciation": "स्कीम",
+          "gujaratiMeaning": "યોજના",
+          "hindiMeaning": "योजना"
+        },
+        {
+          "word": "Strategy",
+          "gujaratiPronunciation": "સ્ટ્રેટેજી",
+          "hindiPronunciation": "स्ट्रेटेजी",
+          "gujaratiMeaning": "વ્યૂહરચના",
+          "hindiMeaning": "रणनीति"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Improvise",
+          "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ",
+          "hindiPronunciation": "इम्प्रोवाइज़",
+          "gujaratiMeaning": "તાત્કાલિક ગોઠવવું",
+          "hindiMeaning": "बिना तैयारी के करना"
+        },
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણના કરવી",
+          "hindiMeaning": "अनदेखा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Plane",
+          "gujaratiPronunciation": "પ્લેન",
+          "hindiPronunciation": "प्लेन",
+          "gujaratiMeaning": "વિમાન",
+          "hindiMeaning": "विमान"
+        },
+        {
+          "word": "Plain",
+          "gujaratiPronunciation": "પ્લેઇન",
+          "hindiPronunciation": "प्लेन",
+          "gujaratiMeaning": "સાદું",
+          "hindiMeaning": "सादा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to plan our trip carefully.",
+          "gujaratiTranslation": "આપણે આપણી સફરની યોજના કાળજીપૂર્વક બનાવવાની જરૂર છે.",
+          "hindiTranslation": "हमें अपनी यात्रा की योजना सावधानीपूर्वक बनानी होगी।",
+          "gujaratiPronunciation": "વી નીડ ટુ પ્લાન અવર ટ્રીપ કેરફુલી.",
+          "hindiPronunciation": "वी नीड टू प्लान आवर ट्रिप केयरफुली।"
+        }
+      ]
+    },
+    {
+      "word": "Hurry",
+      "gujaratiPronunciation": "હરી",
+      "hindiPronunciation": "हरी",
+      "gujaratiMeaning": "ઉતાવળ કરવી",
+      "hindiMeaning": "जल्दी करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Hurry",
+          "gujaratiPronunciation": "હરી",
+          "hindiPronunciation": "हरी",
+          "gujaratiMeaning": "ઉતાવળ કરવી",
+          "hindiMeaning": "जल्दी करना"
+        },
+        "v2": {
+          "word": "Hurried",
+          "gujaratiPronunciation": "હરીડ",
+          "hindiPronunciation": "हरीड",
+          "gujaratiMeaning": "ઉતાવળ કરી",
+          "hindiMeaning": "जल्दी की"
+        },
+        "v3": {
+          "word": "Hurried",
+          "gujaratiPronunciation": "હરીડ",
+          "hindiPronunciation": "हरीड",
+          "gujaratiMeaning": "ઉતાવળ કરેલ",
+          "hindiMeaning": "जल्दी की हुई"
+        },
+        "v4": {
+          "word": "Hurrying",
+          "gujaratiPronunciation": "હરીઇંગ",
+          "hindiPronunciation": "हरीइंग",
+          "gujaratiMeaning": "ઉતાવળ કરી રહ્યા છે",
+          "hindiMeaning": "जल्दी कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rush",
+          "gujaratiPronunciation": "રશ",
+          "hindiPronunciation": "रश",
+          "gujaratiMeaning": "ધસારો કરવો",
+          "hindiMeaning": "तेज़ी से जाना"
+        },
+        {
+          "word": "Hasten",
+          "gujaratiPronunciation": "હેસન",
+          "hindiPronunciation": "हेसन",
+          "gujaratiMeaning": "ઝડપ કરવી",
+          "hindiMeaning": "शीघ्रता करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Dawdle",
+          "gujaratiPronunciation": "ડૉડલ",
+          "hindiPronunciation": "डॉडल",
+          "gujaratiMeaning": "સમય બગાડવો",
+          "hindiMeaning": "समय बर्बाद करना"
+        },
+        {
+          "word": "Linger",
+          "gujaratiPronunciation": "લિંગર",
+          "hindiPronunciation": "लिंगर",
+          "gujaratiMeaning": "વિલંબ કરવો",
+          "hindiMeaning": "देर लगाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Harry",
+          "gujaratiPronunciation": "હેરી",
+          "hindiPronunciation": "हैरी",
+          "gujaratiMeaning": "પરેશાન કરવું",
+          "hindiMeaning": "परेशान करना"
+        },
+        {
+          "word": "Hairy",
+          "gujaratiPronunciation": "હેરી",
+          "hindiPronunciation": "हेयरी",
+          "gujaratiMeaning": "વાળવાળું",
+          "hindiMeaning": "बालों वाला"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "If we don't hurry, we will miss the train.",
+          "gujaratiTranslation": "જો આપણે ઉતાવળ નહીં કરીએ, તો આપણે ટ્રેન ચૂકી જઈશું.",
+          "hindiTranslation": "अगर हम जल्दी नहीं करेंगे, तो हम ट्रेन चूक जाएंगे।",
+          "gujaratiPronunciation": "ઇફ વી ડોન્ટ હરી, વી વિલ મિસ ધ ટ્રેન.",
+          "hindiPronunciation": "इफ वी डोंट हरी, वी विल मिस द ट्रेन।"
+        }
+      ]
+    },
+    {
+      "word": "Finish",
+      "gujaratiPronunciation": "ફિનિશ",
+      "hindiPronunciation": "फिनिश",
+      "gujaratiMeaning": "પૂરું કરવું",
+      "hindiMeaning": "पूरा करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Finish",
+          "gujaratiPronunciation": "ફિનિશ",
+          "hindiPronunciation": "फिनिश",
+          "gujaratiMeaning": "પૂરું કરવું",
+          "hindiMeaning": "पूरा करना"
+        },
+        "v2": {
+          "word": "Finished",
+          "gujaratiPronunciation": "ફિનિશ્ડ",
+          "hindiPronunciation": "फिनिश्ड",
+          "gujaratiMeaning": "પૂરું કર્યું",
+          "hindiMeaning": "पूरा किया"
+        },
+        "v3": {
+          "word": "Finished",
+          "gujaratiPronunciation": "ફિનિશ્ડ",
+          "hindiPronunciation": "फिनिश्ड",
+          "gujaratiMeaning": "પૂરું કરેલ",
+          "hindiMeaning": "पूरा किया हुआ"
+        },
+        "v4": {
+          "word": "Finishing",
+          "gujaratiPronunciation": "ફિનિશિંગ",
+          "hindiPronunciation": "फिनिशिंग",
+          "gujaratiMeaning": "પૂરું કરી રહ્યા છે",
+          "hindiMeaning": "पूरा कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Complete",
+          "gujaratiPronunciation": "કમ્પ્લીટ",
+          "hindiPronunciation": "कम्प्लीट",
+          "gujaratiMeaning": "પૂર્ણ કરવું",
+          "hindiMeaning": "पूर्ण करना"
+        },
+        {
+          "word": "Conclude",
+          "gujaratiPronunciation": "કન્ક્લુડ",
+          "hindiPronunciation": "कन्क्लूड",
+          "gujaratiMeaning": "સમાપન કરવું",
+          "hindiMeaning": "समाप्त करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Start",
+          "gujaratiPronunciation": "સ્ટાર્ટ",
+          "hindiPronunciation": "स्टार्ट",
+          "gujaratiMeaning": "શરૂ કરવું",
+          "hindiMeaning": "शुरू करना"
+        },
+        {
+          "word": "Begin",
+          "gujaratiPronunciation": "બિગિન",
+          "hindiPronunciation": "बिगिन",
+          "gujaratiMeaning": "પ્રારંભ કરવો",
+          "hindiMeaning": "प्रारंभ करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Finnish",
+          "gujaratiPronunciation": "ફિનિશ",
+          "hindiPronunciation": "फिनिश",
+          "gujaratiMeaning": "ફિનલેન્ડનો નિવાસી",
+          "hindiMeaning": "फ़िनलैंड का निवासी"
+        },
+        {
+          "word": "Vanish",
+          "gujaratiPronunciation": "વેનિશ",
+          "hindiPronunciation": "वैनिश",
+          "gujaratiMeaning": "અદૃશ્ય થવું",
+          "hindiMeaning": "गायब हो जाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She needs to finish her homework before dinner.",
+          "gujaratiTranslation": "તેને રાત્રિભોજન પહેલાં તેનું ગૃહકાર્ય પૂરું કરવાની જરૂર છે.",
+          "hindiTranslation": "उसे रात के खाने से पहले अपना होमवर्क खत्म करना है।",
+          "gujaratiPronunciation": "શી નીડ્સ ટુ ફિનિશ હર હોમવર્ક બિફોર ડિનર.",
+          "hindiPronunciation": "शी नीड्स टू फिनिश हर होमवर्क बिफोर डिनर।"
+        }
+      ]
+    },
+    {
+      "word": "Schedule",
+      "gujaratiPronunciation": "શેડ્યૂલ",
+      "hindiPronunciation": "शेड्यूल",
+      "gujaratiMeaning": "સમયપત્રક બનાવવું",
+      "hindiMeaning": "समय-सारणी बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Schedule",
+          "gujaratiPronunciation": "શેડ્યૂલ",
+          "hindiPronunciation": "शेड्यूल",
+          "gujaratiMeaning": "સમયપત્રક બનાવવું",
+          "hindiMeaning": "समय-सारणी बनाना"
+        },
+        "v2": {
+          "word": "Scheduled",
+          "gujaratiPronunciation": "શેડ્યૂલ્ડ",
+          "hindiPronunciation": "शेड्यूल्ड",
+          "gujaratiMeaning": "સમયપત્રક બનાવ્યું",
+          "hindiMeaning": "समय-सारणी बनाई"
+        },
+        "v3": {
+          "word": "Scheduled",
+          "gujaratiPronunciation": "શેડ્યૂલ્ડ",
+          "hindiPronunciation": "शेड्यूल्ड",
+          "gujaratiMeaning": "સમયપત્રક બનાવેલ",
+          "hindiMeaning": "समय-सारणी बनाई हुई"
+        },
+        "v4": {
+          "word": "Scheduling",
+          "gujaratiPronunciation": "શેડ્યૂલિંગ",
+          "hindiPronunciation": "शेड्यूलिंग",
+          "gujaratiMeaning": "સમયપત્રક બનાવી રહ્યા છે",
+          "hindiMeaning": "समय-सारणी बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Timetable",
+          "gujaratiPronunciation": "ટાઇમટેબલ",
+          "hindiPronunciation": "टाइमटेबल",
+          "gujaratiMeaning": "સમયપત્રક",
+          "hindiMeaning": "समय-सारणी"
+        },
+        {
+          "word": "Program",
+          "gujaratiPronunciation": "પ્રોગ્રામ",
+          "hindiPronunciation": "प्रोग्राम",
+          "gujaratiMeaning": "કાર્યક્રમ",
+          "hindiMeaning": "कार्यक्रम"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cancel",
+          "gujaratiPronunciation": "કેન્સલ",
+          "hindiPronunciation": "कैंसल",
+          "gujaratiMeaning": "રદ કરવું",
+          "hindiMeaning": "रद्द करना"
+        },
+        {
+          "word": "Disorganize",
+          "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ",
+          "hindiPronunciation": "डिसऑर्गेनाइज़",
+          "gujaratiMeaning": "અવ્યવસ્થિત કરવું",
+          "hindiMeaning": "अव्यवस्थित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Scheme",
+          "gujaratiPronunciation": "સ્કીમ",
+          "hindiPronunciation": "स्कीम",
+          "gujaratiMeaning": "યોજના",
+          "hindiMeaning": "योजना"
+        },
+        {
+          "word": "Scale",
+          "gujaratiPronunciation": "સ્કેલ",
+          "hindiPronunciation": "स्केल",
+          "gujaratiMeaning": "માપક્રમ",
+          "hindiMeaning": "पैमाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Let's schedule a meeting for next Monday.",
+          "gujaratiTranslation": "ચાલો આવતા સોમવાર માટે એક મીટિંગનું આયોજન કરીએ.",
+          "hindiTranslation": "चलो अगले सोमवार के लिए एक बैठक निर्धारित करते हैं।",
+          "gujaratiPronunciation": "લેટ્સ શેડ્યૂલ અ મીટિંગ ફોર નેક્સ્ટ મન્ડે.",
+          "hindiPronunciation": "लेट्स शेड्यूल अ मीटिंग फॉर नेक्स्ट मंडे।"
+        }
+      ]
+    },
+    {
+      "word": "Prioritize",
+      "gujaratiPronunciation": "પ્રાયોરિટાઇઝ",
+      "hindiPronunciation": "प्रायोरिटाइज़",
+      "gujaratiMeaning": "અગ્રતા આપવી",
+      "hindiMeaning": "प्राथमिकता देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Prioritize",
+          "gujaratiPronunciation": "પ્રાયોરિટાઇઝ",
+          "hindiPronunciation": "प्रायोरिटाइज़",
+          "gujaratiMeaning": "અગ્રતા આપવી",
+          "hindiMeaning": "प्राथमिकता देना"
+        },
+        "v2": {
+          "word": "Prioritized",
+          "gujaratiPronunciation": "પ્રાયોરિટાઇઝ્ડ",
+          "hindiPronunciation": "प्रायोरिटाइज़्ड",
+          "gujaratiMeaning": "અગ્રતા આપી",
+          "hindiMeaning": "प्राथमिकता दी"
+        },
+        "v3": {
+          "word": "Prioritized",
+          "gujaratiPronunciation": "પ્રાયોરિટાઇઝ્ડ",
+          "hindiPronunciation": "प्रायोरिटाइज़्ड",
+          "gujaratiMeaning": "અગ્રતા આપેલ",
+          "hindiMeaning": "प्राथमिकता दी हुई"
+        },
+        "v4": {
+          "word": "Prioritizing",
+          "gujaratiPronunciation": "પ્રાયોરિટાઇઝિંગ",
+          "hindiPronunciation": "प्रायोरिटाइज़िंग",
+          "gujaratiMeaning": "અગ્રતા આપી રહ્યા છે",
+          "hindiMeaning": "प्राथमिकता दे रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rank",
+          "gujaratiPronunciation": "રેન્ક",
+          "hindiPronunciation": "रैंक",
+          "gujaratiMeaning": "ક્રમ આપવો",
+          "hindiMeaning": "वरीयता देना"
+        },
+        {
+          "word": "Focus on",
+          "gujaratiPronunciation": "ફોકસ ઓન",
+          "hindiPronunciation": "फोकस ऑन",
+          "gujaratiMeaning": "ધ્યાન કેન્દ્રિત કરવું",
+          "hindiMeaning": "ध्यान केंद्रित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગલેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Postpone",
+          "gujaratiPronunciation": "પોસ્ટપોન",
+          "hindiPronunciation": "पोस्टपोन",
+          "gujaratiMeaning": "મુલતવી રાખવું",
+          "hindiMeaning": "स्थगित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Priority",
+          "gujaratiPronunciation": "પ્રાયોરિટી",
+          "hindiPronunciation": "प्रायोरिटी",
+          "gujaratiMeaning": "અગ્રતા",
+          "hindiMeaning": "प्राथमिकता"
+        },
+        {
+          "word": "Private",
+          "gujaratiPronunciation": "પ્રાઇવેટ",
+          "hindiPronunciation": "प्राइवेट",
+          "gujaratiMeaning": "ખાનગી",
+          "hindiMeaning": "निजी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You must learn to prioritize your tasks.",
+          "gujaratiTranslation": "તમારે તમારા કાર્યોને અગ્રતા આપતા શીખવું જ જોઈએ.",
+          "hindiTranslation": "आपको अपने कार्यों को प्राथमिकता देना सीखना होगा।",
+          "gujaratiPronunciation": "યુ મસ્ટ લર્ન ટુ પ્રાયોરિટાઇઝ યોર ટાસ્ક્સ.",
+          "hindiPronunciation": "यू मस्ट लर्न टू प्रायोरिटाइज़ योर टास्क्स।"
+        }
+      ]
+    }
+  ]
+}

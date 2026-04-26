@@ -1,0 +1,147 @@
+
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Eat",
+            "gujaratiPronunciation": "ઈટ",
+            "hindiPronunciation": "ईट",
+            "gujaratiMeaning": "ખાવું",
+            "hindiMeaning": "खाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Eat", "gujaratiPronunciation": "ઈટ", "hindiPronunciation": "ईट", "gujaratiMeaning": "ખાવું", "hindiMeaning": "खाना" },
+                "V2 (Past)": { "word": "Ate", "gujaratiPronunciation": "એટ", "hindiPronunciation": "एट", "gujaratiMeaning": "ખાધું", "hindiMeaning": "खाया" },
+                "V3 (Past Participle)": { "word": "Eaten", "gujaratiPronunciation": "ઈટન", "hindiPronunciation": "ईटन", "gujaratiMeaning": "ખાઈ લીધું", "hindiMeaning": "खाया हुआ" },
+                "V4 (Present Participle)": { "word": "Eating", "gujaratiPronunciation": "ઈટિંગ", "hindiPronunciation": "ईटिंग", "gujaratiMeaning": "ખાઈ રહ્યું છે", "hindiMeaning": "खा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Consume", "gujaratiPronunciation": "કન્ઝ્યુમ", "hindiPronunciation": "कंज्यूम", "gujaratiMeaning": "વપરાશ કરવો", "hindiMeaning": "उपभोग करना" },
+                { "word": "Devour", "gujaratiPronunciation": "ડિવાઉર", "hindiPronunciation": "डिवाउर", "gujaratiMeaning": "ભક્ષણ કરવું", "hindiMeaning": "भक्षण करना" }
+            ],
+            "antonyms": [
+                { "word": "Fast", "gujaratiPronunciation": "ફાસ્ટ", "hindiPronunciation": "फास्ट", "gujaratiMeaning": "ઉપવાસ કરવો", "hindiMeaning": "उपवास करना" },
+                { "word": "Abstain", "gujaratiPronunciation": "એબ્સ્ટેન", "hindiPronunciation": "एब्स्टेन", "gujaratiMeaning": "દૂર રહેવું", "hindiMeaning": "परहेज करना" }
+            ],
+            "confusingWords": [
+                { "word": "It", "gujaratiPronunciation": "ઈટ", "hindiPronunciation": "इट", "gujaratiMeaning": "તે", "hindiMeaning": "यह" }
+            ],
+            "exampleSentences": [
+                { "sentence": "We eat dinner at 8 PM.", "gujaratiTranslation": "અમે રાત્રે ૮ વાગ્યે જમીએ છીએ.", "hindiTranslation": "हम रात में ८ बजे खाना खाते हैं।", "gujaratiPronunciation": "વી ઈટ ડિનર એટ 8 પીએમ.", "hindiPronunciation": "वी ईट डिनर ऐट 8 पीएम।" }
+            ]
+        },
+        {
+            "word": "Drink",
+            "gujaratiPronunciation": "ડ્રિન્ક",
+            "hindiPronunciation": "ड्रिंक",
+            "gujaratiMeaning": "પીવું",
+            "hindiMeaning": "पीना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Drink", "gujaratiPronunciation": "ડ્રિન્ક", "hindiPronunciation": "ड्रिंक", "gujaratiMeaning": "પીવું", "hindiMeaning": "पीना" },
+                "V2 (Past)": { "word": "Drank", "gujaratiPronunciation": "ડ્રેન્ક", "hindiPronunciation": "ड्रैंक", "gujaratiMeaning": "પીધું", "hindiMeaning": "पिया" },
+                "V3 (Past Participle)": { "word": "Drunk", "gujaratiPronunciation": "ડ્રન્ક", "hindiPronunciation": "ड्रंक", "gujaratiMeaning": "પીધેલું", "hindiMeaning": "पिया हुआ" },
+                "V4 (Present Participle)": { "word": "Drinking", "gujaratiPronunciation": "ડ્રિન્કિંગ", "hindiPronunciation": "ड्रिंकिंग", "gujaratiMeaning": "પી રહ્યું છે", "hindiMeaning": "पी रहा है" }
+            },
+            "synonyms": [
+                { "word": "Sip", "gujaratiPronunciation": "સિપ", "hindiPronunciation": "सिप", "gujaratiMeaning": "ઘૂંટડો ભરવો", "hindiMeaning": "घूंट लेना" },
+                { "word": "Imbibe", "gujaratiPronunciation": "ઈમ્બાઈબ", "hindiPronunciation": "इंबाइब", "gujaratiMeaning": "શોષી લેવું", "hindiMeaning": "सोख लेना" }
+            ],
+            "antonyms": [
+                { "word": "Spit", "gujaratiPronunciation": "સ્પિટ", "hindiPronunciation": "स्पिट", "gujaratiMeaning": "થૂંકવું", "hindiMeaning": "थूकना" },
+                { "word": "Eject", "gujaratiPronunciation": "ઈજેક્ટ", "hindiPronunciation": "इजेक्ट", "gujaratiMeaning": "બહાર કાઢવું", "hindiMeaning": "बाहर निकालना" }
+            ],
+            "confusingWords": [
+                { "word": "Think", "gujaratiPronunciation": "થિન્ક", "hindiPronunciation": "थिंक", "gujaratiMeaning": "વિચારવું", "hindiMeaning": "सोचना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "It is important to drink plenty of water.", "gujaratiTranslation": "પુષ્કળ પાણી પીવું મહત્વપૂર્ણ છે.", "hindiTranslation": "खूब पानी पीना महत्वपूर्ण है।", "gujaratiPronunciation": "ઈટ ઈઝ ઈમ્પોર્ટન્ટ ટુ ડ્રિન્ક પ્લેન્ટી ઓફ વોટર.", "hindiPronunciation": "इट इज़ इम्पोर्टेंट टू ड्रिंक प्लेंटी ऑफ़ वॉटर।" }
+            ]
+        },
+        {
+            "word": "Cook",
+            "gujaratiPronunciation": "કુક",
+            "hindiPronunciation": "कुक",
+            "gujaratiMeaning": "રાંધવું",
+            "hindiMeaning": "पकाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Cook", "gujaratiPronunciation": "કુક", "hindiPronunciation": "कुक", "gujaratiMeaning": "રાંધવું", "hindiMeaning": "पकाना" },
+                "V2 (Past)": { "word": "Cooked", "gujaratiPronunciation": "કુક્ડ", "hindiPronunciation": "कुक्ड", "gujaratiMeaning": "રાંધ્યું", "hindiMeaning": "पकाया" },
+                "V3 (Past Participle)": { "word": "Cooked", "gujaratiPronunciation": "કુક્ડ", "hindiPronunciation": "कुक्ड", "gujaratiMeaning": "રાંધેલું", "hindiMeaning": "पकाया हुआ" },
+                "V4 (Present Participle)": { "word": "Cooking", "gujaratiPronunciation": "કુકિંગ", "hindiPronunciation": "कुकिंग", "gujaratiMeaning": "રાંધી રહ્યું છે", "hindiMeaning": "पका रहा है" }
+            },
+            "synonyms": [
+                { "word": "Prepare", "gujaratiPronunciation": "પ્રિપેર", "hindiPronunciation": "प्रिपेयर", "gujaratiMeaning": "તૈયાર કરવું", "hindiMeaning": "तैयार करना" },
+                { "word": "Bake", "gujaratiPronunciation": "બેક", "hindiPronunciation": "बेक", "gujaratiMeaning": "શેકવું", "hindiMeaning": "सेंकना" }
+            ],
+            "antonyms": [
+                { "word": "Raw", "gujaratiPronunciation": "રો", "hindiPronunciation": "रॉ", "gujaratiMeaning": "કાચું", "hindiMeaning": "कच्चा" },
+                { "word": "Freeze", "gujaratiPronunciation": "ફ્રીઝ", "hindiPronunciation": "फ्रीज़", "gujaratiMeaning": "જમાવી દેવું", "hindiMeaning": "जमाना" }
+            ],
+            "confusingWords": [
+                { "word": "Hook", "gujaratiPronunciation": "હુક", "hindiPronunciation": "हुक", "gujaratiMeaning": "આંકડી", "hindiMeaning": "अंकुड़ा" }
+            ],
+            "exampleSentences": [
+                { "sentence": "My mother loves to cook Italian food.", "gujaratiTranslation": "મારી માતાને ઇટાલિયન ભોજન રાંધવું ગમે છે.", "hindiTranslation": "मेरी माँ को इतालवी खाना पकाना पसंद है।", "gujaratiPronunciation": "માય મધર લવ્સ ટુ કુક ઇટાલિયન ફૂડ.", "hindiPronunciation": "माय मदर लव्स टू कुक इटैलियन फ़ूड।" }
+            ]
+        },
+        {
+            "word": "Serve",
+            "gujaratiPronunciation": "સર્વ",
+            "hindiPronunciation": "सर्व",
+            "gujaratiMeaning": "પીરસવું",
+            "hindiMeaning": "परोसना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Serve", "gujaratiPronunciation": "સર્વ", "hindiPronunciation": "सर्व", "gujaratiMeaning": "પીરસવું", "hindiMeaning": "परोसना" },
+                "V2 (Past)": { "word": "Served", "gujaratiPronunciation": "સર્વ્ડ", "hindiPronunciation": "सर्व्ड", "gujaratiMeaning": "પીરસ્યું", "hindiMeaning": "परोसा" },
+                "V3 (Past Participle)": { "word": "Served", "gujaratiPronunciation": "સર્વ્ડ", "hindiPronunciation": "सर्व्ड", "gujaratiMeaning": "પીરસેલું", "hindiMeaning": "परोसा हुआ" },
+                "V4 (Present Participle)": { "word": "Serving", "gujaratiPronunciation": "સર્વિંગ", "hindiPronunciation": "सर्विंग", "gujaratiMeaning": "પીરસી રહ્યું છે", "hindiMeaning": "परोस रहा है" }
+            },
+            "synonyms": [
+                { "word": "Dish out", "gujaratiPronunciation": "ડિશ આઉટ", "hindiPronunciation": "डिश आउट", "gujaratiMeaning": "વહેંચવું", "hindiMeaning": "बाँटना" },
+                { "word": "Provide", "gujaratiPronunciation": "પ્રોવાઈડ", "hindiPronunciation": "प्रोवाइड", "gujaratiMeaning": "પૂરું પાડવું", "hindiMeaning": "प्रदान करना" }
+            ],
+            "antonyms": [
+                { "word": "Withhold", "gujaratiPronunciation": "વિથહોલ્ડ", "hindiPronunciation": "विथहोल्ड", "gujaratiMeaning": "અટકાવી રાખવું", "hindiMeaning": "रोक रखना" },
+                { "word": "Take", "gujaratiPronunciation": "ટેક", "hindiPronunciation": "टेक", "gujaratiMeaning": "લેવું", "hindiMeaning": "लेना" }
+            ],
+            "confusingWords": [
+                { "word": "Surf", "gujaratiPronunciation": "સર્ફ", "hindiPronunciation": "सर्फ", "gujaratiMeaning": "દરિયાઈ મોજા પર તરવું", "hindiMeaning": "लहरों पर तैरना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "They serve breakfast from 7 to 10 AM.", "gujaratiTranslation": "તેઓ સવારે ૭ થી ૧૦ વાગ્યા સુધી નાસ્તો પીરસે છે.", "hindiTranslation": "वे सुबह ७ से १० बजे तक नाश्ता परोसते हैं।", "gujaratiPronunciation": "ધે સર્વ બ્રેકફાસ્ટ ફ્રોમ 7 ટુ 10 એએમ.", "hindiPronunciation": "दे सर्व ब्रेकफास्ट फ्रॉम 7 टू 10 एएम।" }
+            ]
+        },
+        {
+            "word": "Share",
+            "gujaratiPronunciation": "શેર",
+            "hindiPronunciation": "शेयर",
+            "gujaratiMeaning": "વહેંચવું",
+            "hindiMeaning": "बाँटना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Share", "gujaratiPronunciation": "શેર", "hindiPronunciation": "शेयर", "gujaratiMeaning": "વહેંચવું", "hindiMeaning": "बाँटना" },
+                "V2 (Past)": { "word": "Shared", "gujaratiPronunciation": "શેર્ડ", "hindiPronunciation": "शेयर्ड", "gujaratiMeaning": "વહેંચ્યું", "hindiMeaning": "बाँटा" },
+                "V3 (Past Participle)": { "word": "Shared", "gujaratiPronunciation": "શેર્ડ", "hindiPronunciation": "शेयर्ड", "gujaratiMeaning": "વહેંચેલું", "hindiMeaning": "बाँटा हुआ" },
+                "V4 (Present Participle)": { "word": "Sharing", "gujaratiPronunciation": "શેરિંગ", "hindiPronunciation": "शेयरिंग", "gujaratiMeaning": "વહેંચી રહ્યું છે", "hindiMeaning": "बाँट रहा है" }
+            },
+            "synonyms": [
+                { "word": "Distribute", "gujaratiPronunciation": "ડિસ્ટ્રીબ્યુટ", "hindiPronunciation": "डिस्ट्रीब्यूट", "gujaratiMeaning": "વિતરણ કરવું", "hindiMeaning": "वितरित करना" },
+                { "word": "Divide", "gujaratiPronunciation": "ડિવાઈડ", "hindiPronunciation": "डिवाइड", "gujaratiMeaning": "ભાગ પાડવા", "hindiMeaning": "विभाजित करना" }
+            ],
+            "antonyms": [
+                { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "રાખવું", "hindiMeaning": "रखना" },
+                { "word": "Hoard", "gujaratiPronunciation": "હોર્ડ", "hindiPronunciation": "होर्ड", "gujaratiMeaning": "સંગ્રહ કરવો", "hindiMeaning": "जमाखोरी करना" }
+            ],
+            "confusingWords": [
+                { "word": "Chair", "gujaratiPronunciation": "ચેર", "hindiPronunciation": "चेयर", "gujaratiMeaning": "ખુરશી", "hindiMeaning": "कुर्सी" }
+            ],
+            "exampleSentences": [
+                { "sentence": "It's good to share your food with others.", "gujaratiTranslation": "તમારું ભોજન બીજાઓ સાથે વહેંચવું સારું છે.", "hindiTranslation": "अपना भोजन दूसरों के साथ साझा करना अच्छा है।", "gujaratiPronunciation": "ઈટ્સ ગુડ ટુ શેર યોર ફૂડ વિથ અધર્સ.", "hindiPronunciation": "इट्स गुड टू शेयर योर फ़ूड विद अदर्स।" }
+            ]
+        }
+    ]
+}

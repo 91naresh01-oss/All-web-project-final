@@ -1,0 +1,366 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Shatter",
+      "gujaratiPronunciation": "શેટર",
+      "hindiPronunciation": "शैटर",
+      "gujaratiMeaning": "ચકનાચૂર થઈ જવું",
+      "hindiMeaning": "चकनाचूर हो जाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Shatter",
+          "gujaratiMeaning": "ચકનાચૂર થવું",
+          "hindiMeaning": "चकनाचूर होना"
+        },
+        "V2 (Past)": {
+          "word": "Shattered",
+          "gujaratiMeaning": "ચકનાચૂર થયું",
+          "hindiMeaning": "चकनाचूर हो गया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Shattered",
+          "gujaratiMeaning": "ચકનાચૂર થયેલું",
+          "hindiMeaning": "चकनाचूर हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Shattering",
+          "gujaratiPronunciation": "શેટરિંગ",
+          "hindiPronunciation": "शैटरिंग",
+          "gujaratiMeaning": "ચકનાચૂર થી રહ્યું",
+          "hindiMeaning": "चकनाचूर हो रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Smash",
+          "gujaratiMeaning": "ભૂક્કો કરવો",
+          "hindiMeaning": "तोड़ना"
+        },
+        {
+          "word": "Fragment",
+          "gujaratiMeaning": "ટુકડા કરવા",
+          "hindiMeaning": "टुकड़े करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Assemble",
+          "gujaratiMeaning": "એકત્ર કરવું",
+          "hindiMeaning": "इकट्ठा करना"
+        },
+        {
+          "word": "Construct",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "बनाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Shutter",
+          "gujaratiMeaning": "ઝડપ",
+          "hindiMeaning": "शटर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The vase fell and shattered into a thousand pieces.",
+          "gujaratiTranslation": "ફૂલદાની પડી અને હજાર ટુકડાઓમાં ચકનાચૂર થઈ ગઈ.",
+          "hindiTranslation": "फूलदान गिरा और हज़ार टुकड़ों में चकनाचूर हो गया।",
+          "gujaratiPronunciation": "ધ વાસ ફેલ એન્ડ શેટર્ડ ઇનટુ અ થાઉઝન્ડ પીસીસ.",
+          "hindiPronunciation": "द वास फेल एंड शैटर्ड इनटू अ थाउजेंड पीसेज़।"
+        }
+      ]
+    },
+    {
+      "word": "Ruin",
+      "gujaratiPronunciation": "રુઇન",
+      "hindiPronunciation": "रुइन",
+      "gujaratiMeaning": "બરબાદ કરવું",
+      "hindiMeaning": "बर्बाद करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Ruin",
+          "gujaratiMeaning": "બરબાદ કરવું",
+          "hindiMeaning": "बर्बाद करना"
+        },
+        "V2 (Past)": {
+          "word": "Ruined",
+          "gujaratiMeaning": "બરબાદ કર્યું",
+          "hindiMeaning": "बर्बाद किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Ruined",
+          "gujaratiMeaning": "બરબાદ થયેલું",
+          "hindiMeaning": "बर्बाद हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Ruining",
+          "gujaratiPronunciation": "રુઇનિંગ",
+          "hindiPronunciation": "रुइनिंग",
+          "gujaratiMeaning": "બરબાદ કરી રહ્યું",
+          "hindiMeaning": "बर्बाद कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Destroy",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        },
+        {
+          "word": "Devastate",
+          "gujaratiMeaning": "તબાહ કરવું",
+          "hindiMeaning": "तबाह करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Restore",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કરવું",
+          "hindiMeaning": "पुनर्स्थापित करना"
+        },
+        {
+          "word": "Save",
+          "gujaratiMeaning": "બચાવવું",
+          "hindiMeaning": "बचाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Rain",
+          "gujaratiMeaning": "વરસાદ",
+          "hindiMeaning": "बारिश"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The heavy rain ruined the crops.",
+          "gujaratiTranslation": "ભારે વરસાદે પાકને બરબાદ કરી દીધો.",
+          "hindiTranslation": "भारी बारिश ने फसलों को बर्बाद कर दिया।",
+          "gujaratiPronunciation": "ધ હેવી રેન રુઇન્ડ ધ ક્રોપ્સ.",
+          "hindiPronunciation": "द हेवी रेन रुइंड द क्रॉप्स।"
+        }
+      ]
+    },
+    {
+      "word": "Smash",
+      "gujaratiPronunciation": "સ્મેશ",
+      "hindiPronunciation": "स्मैश",
+      "gujaratiMeaning": "જોરથી તોડવું",
+      "hindiMeaning": "ज़ोर से तोड़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Smash",
+          "gujaratiMeaning": "જોરથી તોડવું",
+          "hindiMeaning": "ज़ोर से तोड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Smashed",
+          "gujaratiMeaning": "જોરથી તોડ્યું",
+          "hindiMeaning": "ज़ोर से तोड़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Smashed",
+          "gujaratiMeaning": "જોરથી તોડેલું",
+          "hindiMeaning": "ज़ोर से तोड़ा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Smashing",
+          "gujaratiPronunciation": "સ્મેશિંગ",
+          "hindiPronunciation": "स्मैशिंग",
+          "gujaratiMeaning": "જોરથી તોડી રહ્યું",
+          "hindiMeaning": "ज़ोर से तोड़ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Crash",
+          "gujaratiMeaning": "અથડાવું",
+          "hindiMeaning": "टकराना"
+        },
+        {
+          "word": "Break",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Create",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Build",
+          "gujaratiMeaning": "નિર્માણ કરવું",
+          "hindiMeaning": "निर्माण करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Mash",
+          "gujaratiMeaning": "છૂંદવું",
+          "hindiMeaning": "कुचलना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He smashed the window with a hammer.",
+          "gujaratiTranslation": "તેણે હથોડીથી બારી તોડી નાખી.",
+          "hindiTranslation": "उसने हथौड़े से खिड़की तोड़ दी।",
+          "gujaratiPronunciation": "હી સ્મેશ્ડ ધ વિન્ડો વિથ અ હેમર.",
+          "hindiPronunciation": "ही स्मैश्ड द विंडो विथ अ हैमर।"
+        }
+      ]
+    },
+    {
+      "word": "Splinter",
+      "gujaratiPronunciation": "સ્પ્લિન્ટર",
+      "hindiPronunciation": "स्प्लिंटर",
+      "gujaratiMeaning": "ટુકડાઓમાં વિભાજિત થવું",
+      "hindiMeaning": "टुकड़ों में विभाजित होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Splinter",
+          "gujaratiMeaning": "ટુકડા થવા",
+          "hindiMeaning": "टुकड़े होना"
+        },
+        "V2 (Past)": {
+          "word": "Splintered",
+          "gujaratiMeaning": "ટુકડા થયા",
+          "hindiMeaning": "टुकड़े हुए"
+        },
+        "V3 (Past Participle)": {
+          "word": "Splintered",
+          "gujaratiMeaning": "ટુકડા થયેલ",
+          "hindiMeaning": "टुकड़े हुए"
+        },
+        "V4 (Present Participle)": {
+          "word": "Splintering",
+          "gujaratiPronunciation": "સ્પ્લિન્ટરિંગ",
+          "hindiPronunciation": "स्प्लिंटरिंग",
+          "gujaratiMeaning": "ટુકડા થી રહ્યું",
+          "hindiMeaning": "टुकड़े हो रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Fragment",
+          "gujaratiMeaning": "ટુકડા થવા",
+          "hindiMeaning": "टुकड़े होना"
+        },
+        {
+          "word": "Shatter",
+          "gujaratiMeaning": "ચકનાચૂર થવું",
+          "hindiMeaning": "चकनाचूर होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Unite",
+          "gujaratiMeaning": "એક થવું",
+          "hindiMeaning": "एक होना"
+        },
+        {
+          "word": "Join",
+          "gujaratiMeaning": "જોડાવું",
+          "hindiMeaning": "जुड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sprinter",
+          "gujaratiMeaning": "ઝડપી દોડવીર",
+          "hindiMeaning": "तेज धावक"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The old wooden board splintered under his weight.",
+          "gujaratiTranslation": "જૂનું લાકડાનું પાટિયું તેના વજન હેઠળ ટુકડા થઈ ગયું.",
+          "hindiTranslation": "पुरानी लकड़ी की तख्ती उसके वजन के नीचे टुकड़ों में बँट गई।",
+          "gujaratiPronunciation": "ધ ઓલ્ડ વુડન બોર્ડ સ્પ્લિન્ટર્ડ અન્ડર હીઝ વેઇટ.",
+          "hindiPronunciation": "द ओल्ड वुडन बोर्ड स्प्लिंटर्ड अंडर हिज़ वेट।"
+        }
+      ]
+    },
+    {
+      "word": "Vandalize",
+      "gujaratiPronunciation": "વેન્ડલાઇઝ",
+      "hindiPronunciation": "वैंडलाइज़",
+      "gujaratiMeaning": "જાહેર મિલકતને નુકસાન પહોંચાડવું",
+      "hindiMeaning": "सार्वजनिक संपत्ति को नुकसान पहुँचाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Vandalize",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "नुकसान पहुँचाना"
+        },
+        "V2 (Past)": {
+          "word": "Vandalized",
+          "gujaratiMeaning": "નુકસાન કર્યું",
+          "hindiMeaning": "नुकसान पहुँचाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Vandalized",
+          "gujaratiMeaning": "નુકસાન કરેલું",
+          "hindiMeaning": "नुकसान पहुँचाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Vandalizing",
+          "gujaratiPronunciation": "વેન્ડલાઇઝિંગ",
+          "hindiPronunciation": "वैंडलाइज़िंग",
+          "gujaratiMeaning": "નુકસાન કરી રહ્યું",
+          "hindiMeaning": "नुकसान पहुँचा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Deface",
+          "gujaratiMeaning": "બદસૂરત કરવું",
+          "hindiMeaning": "बिगाड़ना"
+        },
+        {
+          "word": "Damage",
+          "gujaratiMeaning": "નુકસાન",
+          "hindiMeaning": "क्षति"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Protect",
+          "gujaratiMeaning": "રક્ષણ કરવું",
+          "hindiMeaning": "रक्षा करना"
+        },
+        {
+          "word": "Preserve",
+          "gujaratiMeaning": "જાળવવું",
+          "hindiMeaning": "संरक्षित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Analyze",
+          "gujaratiMeaning": "વિશ્લેષણ કરવું",
+          "hindiMeaning": "विश्लेषण करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Someone vandalized the school walls with graffiti.",
+          "gujaratiTranslation": "કોઈએ ગ્રેફિટીથી શાળાની દિવાલોને નુકસાન પહોંચાડ્યું.",
+          "hindiTranslation": "किसी ने ग्रैफिटी से स्कूल की दीवारों को नुकसान पहुँचाया।",
+          "gujaratiPronunciation": "સમવન વેન્ડલાઇઝ્ડ ધ સ્કૂલ વોલ્સ વિથ ગ્રેફિટી.",
+          "hindiPronunciation": "समवन वैंडलाइज़्ड द स्कूल वॉल्स विथ ग्रैफिटी।"
+        }
+      ]
+    }
+  ]
+}

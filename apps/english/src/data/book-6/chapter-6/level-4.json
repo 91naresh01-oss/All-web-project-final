@@ -1,0 +1,151 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Victor",
+      "gujaratiPronunciation": "વિક્ટર",
+      "hindiPronunciation": "विक्टर",
+      "gujaratiMeaning": "વિજેતા",
+      "hindiMeaning": "विजेता",
+      "partOfSpeech": "noun",
+      "verbForms": {
+        "V1 (Present)": { "word": "Victor (not a verb)", "gujaratiPronunciation": "", "hindiPronunciation": "", "gujaratiMeaning": "", "hindiMeaning": "" },
+        "V2 (Past)": { "word": "", "gujaratiPronunciation": "", "hindiPronunciation": "", "gujaratiMeaning": "", "hindiMeaning": "" },
+        "V3 (Past Participle)": { "word": "", "gujaratiPronunciation": "", "hindiPronunciation": "", "gujaratiMeaning": "", "hindiMeaning": "" },
+        "V4 (Present Participle)": { "word": "", "gujaratiPronunciation": "", "hindiPronunciation": "", "gujaratiMeaning": "", "hindiMeaning": "" }
+      },
+      "synonyms": [
+        { "word": "Winner", "gujaratiPronunciation": "વિનર", "hindiPronunciation": "विनर", "gujaratiMeaning": "જીતનાર", "hindiMeaning": "जीतने वाला" },
+        { "word": "Conqueror", "gujaratiPronunciation": "કોન્કરર", "hindiPronunciation": "कांकेरर", "gujaratiMeaning": "વિજેતા", "hindiMeaning": "विजेता" }
+      ],
+      "antonyms": [
+        { "word": "Loser", "gujaratiPronunciation": "લૂઝર", "hindiPronunciation": "लूजर", "gujaratiMeaning": "હારનાર", "hindiMeaning": "हारने वाला" },
+        { "word": "Vanquished", "gujaratiPronunciation": "વેન્ક્વિશ્ડ", "hindiPronunciation": "वैंक्विश्ड", "gujaratiMeaning": "પરાજિત", "hindiMeaning": "पराजित" }
+      ],
+      "confusingWords": [
+        { "word": "Vector", "gujaratiPronunciation": "વેક્ટર", "hindiPronunciation": "वेक्टर", "gujaratiMeaning": "સદિશ", "hindiMeaning": "सदिश" },
+        { "word": "Visitor", "gujaratiPronunciation": "વિઝિટર", "hindiPronunciation": "विजिटर", "gujaratiMeaning": "મુલાકાતી", "hindiMeaning": "आगंतुक" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The victor of the battle was celebrated by his people.", "gujaratiPronunciation": "ધ વિક્ટર ઓફ ધ બેટલ વોઝ સેલિબ્રેટેડ બાય હિઝ પીપલ.", "hindiPronunciation": "द विक्टर ऑफ द बैटल वॉज सेलिब्रेटेड बाय हिज पीपल।", "gujaratiTranslation": "યુદ્ધના વિજેતાને તેના લોકો દ્વારા ઉજવવામાં આવ્યો હતો.", "hindiTranslation": "युद्ध के विजेता का उसके लोगों द्वारा जश्न मनाया गया।" }
+      ]
+    },
+    {
+      "word": "Skirmish",
+      "gujaratiPronunciation": "સ્કર્મિશ",
+      "hindiPronunciation": "स्कर्मिश",
+      "gujaratiMeaning": "નાની અથડામણ",
+      "hindiMeaning": "छोटी मोटी झड़प",
+      "partOfSpeech": "noun",
+      "verbForms": {
+        "V1 (Present)": { "word": "Skirmish", "gujaratiPronunciation": "સ્કર્મિશ", "hindiPronunciation": "स्कर्मिश", "gujaratiMeaning": "નાની અથડામણ કરવી", "hindiMeaning": "छोटी मोटी झड़प करना" },
+        "V2 (Past)": { "word": "Skirmished", "gujaratiPronunciation": "સ્કર્મિસ્ડ", "hindiPronunciation": "स्कर्मिश्ड", "gujaratiMeaning": "નાની અથડામણ કરી", "hindiMeaning": "छोटी मोटी झड़प की" },
+        "V3 (Past Participle)": { "word": "Skirmished", "gujaratiPronunciation": "સ્કર્મિસ્ડ", "hindiPronunciation": "स्कर्मिश्ड", "gujaratiMeaning": "નાની અથડામણ કરેલી", "hindiMeaning": "छोटी मोटी झड़प की हुई" },
+        "V4 (Present Participle)": { "word": "Skirmishing", "gujaratiPronunciation": "સ્કર્મિશિંગ", "hindiPronunciation": "स्कर्मिशिंग", "gujaratiMeaning": "નાની અથડામણ કરી રહ્યું છે", "hindiMeaning": "छोटी मोटी झड़प कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Clash", "gujaratiPronunciation": "ક્લેશ", "hindiPronunciation": "क्लैश", "gujaratiMeaning": "અથડામણ", "hindiMeaning": "टकराव" },
+        { "word": "Scuffle", "gujaratiPronunciation": "સ્કફલ", "hindiPronunciation": "स्कफल", "gujaratiMeaning": "ઝપાઝપી", "hindiMeaning": "हाथापाई" }
+      ],
+      "antonyms": [
+        { "word": "Peace", "gujaratiPronunciation": "પીસ", "hindiPronunciation": "पीस", "gujaratiMeaning": "શાંતિ", "hindiMeaning": "शांति" },
+        { "word": "Truce", "gujaratiPronunciation": "ટ્રુસ", "hindiPronunciation": "ट्रूस", "gujaratiMeaning": "યુદ્ધવિરામ", "hindiMeaning": "युद्धविराम" }
+      ],
+      "confusingWords": [
+        { "word": "Blemish", "gujaratiPronunciation": "બ્લેમિશ", "hindiPronunciation": "ब्लेमिश", "gujaratiMeaning": "દાગ", "hindiMeaning": "धब्बा" },
+        { "word": "Squirm", "gujaratiPronunciation": "સ્ક્વર્મ", "hindiPronunciation": "स्क्वर्म", "gujaratiMeaning": "છટપટાવું", "hindiMeaning": "छटपटाना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "A small skirmish broke out between the two patrols.", "gujaratiPronunciation": "અ સ્મોલ સ્કર્મિશ બ્રોક આઉટ બિટવીન ધ ટુ પેટ્રોલ્સ.", "hindiPronunciation": "अ स्मॉल स्कर्मिश ब्रोक आउट बिटवीन द टू पेट्रोल्स।", "gujaratiTranslation": "બે પેટ્રોલિંગ ટુકડીઓ વચ્ચે નાની અથડામણ થઈ.", "hindiTranslation": "दोनों गश्ती दलों के बीच एक छोटी सी झड़प हो गई।" }
+      ]
+    },
+    {
+      "word": "Raid",
+      "gujaratiPronunciation": "રેડ",
+      "hindiPronunciation": "रेड",
+      "gujaratiMeaning": "ધાડ પાડવી",
+      "hindiMeaning": "छापा मारना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Raid", "gujaratiPronunciation": "રેડ", "hindiPronunciation": "रेड", "gujaratiMeaning": "ધાડ પાડવી", "hindiMeaning": "छापा मारना" },
+        "V2 (Past)": { "word": "Raided", "gujaratiPronunciation": "રેડેડ", "hindiPronunciation": "रेडेड", "gujaratiMeaning": "ધાડ પાડી", "hindiMeaning": "छापा मारा" },
+        "V3 (Past Participle)": { "word": "Raided", "gujaratiPronunciation": "રેડેડ", "hindiPronunciation": "रेडेड", "gujaratiMeaning": "ધાડ પાડેલી", "hindiMeaning": "छापा मारा हुआ" },
+        "V4 (Present Participle)": { "word": "Raiding", "gujaratiPronunciation": "રેડિંગ", "hindiPronunciation": "रेडिंग", "gujaratiMeaning": "ધાડ પાડી રહ્યું છે", "hindiMeaning": "छापा मार रहा है" }
+      },
+      "synonyms": [
+        { "word": "Incursion", "gujaratiPronunciation": "ઇન્કર્ઝન", "hindiPronunciation": "इन्कर्जन", "gujaratiMeaning": "આક્રમણ", "hindiMeaning": "आक्रमण" },
+        { "word": "Foray", "gujaratiPronunciation": "ફોરે", "hindiPronunciation": "फोरे", "gujaratiMeaning": "આકસ્મિક હુમલો", "hindiMeaning": "अचानक हमला" }
+      ],
+      "antonyms": [
+        { "word": "Defend", "gujaratiPronunciation": "ડિફેન્ડ", "hindiPronunciation": "डिफेंड", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" },
+        { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "બચાવ કરવો", "hindiMeaning": "बचाव करना" }
+      ],
+      "confusingWords": [
+        { "word": "Aid", "gujaratiPronunciation": "એઇડ", "hindiPronunciation": "एड", "gujaratiMeaning": "મદદ", "hindiMeaning": "सहायता" },
+        { "word": "Grade", "gujaratiPronunciation": "ગ્રેડ", "hindiPronunciation": "ग्रेड", "gujaratiMeaning": "શ્રેણી", "hindiMeaning": "श्रेणी" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The commandos launched a daring raid on the enemy camp.", "gujaratiPronunciation": "ધ કમાન્ડોઝ લોન્ચ્ડ અ ડેરિંગ રેડ ઓન ધ એનિમી કેમ્પ.", "hindiPronunciation": "द कमांडोज लॉन्च्ड अ डेरिंग रेड ऑन द एनिमी कैंप।", "gujaratiTranslation": "કમાન્ડોએ દુશ્મનના કેમ્પ પર સાહસિક ધાડ પાડી.", "hindiTranslation": "कमांडो ने दुश्मन के शिविर पर एक साहसी छापा मारा।" }
+      ]
+    },
+    {
+      "word": "Garrison",
+      "gujaratiPronunciation": "ગેરિસન",
+      "hindiPronunciation": "गैरिसन",
+      "gujaratiMeaning": "લશ્કરી છાવણી નાખવી",
+      "hindiMeaning": "सैन्य-दल रखना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Garrison", "gujaratiPronunciation": "ગેરિસન", "hindiPronunciation": "गैरिसन", "gujaratiMeaning": "લશ્કરી છાવણી નાખવી", "hindiMeaning": "सैन्य-दल रखना" },
+        "V2 (Past)": { "word": "Garrisoned", "gujaratiPronunciation": "ગેરિસન્ડ", "hindiPronunciation": "गैरिसन्ड", "gujaratiMeaning": "લશ્કરી છાવણી નાખી", "hindiMeaning": "सैन्य-दल रखा" },
+        "V3 (Past Participle)": { "word": "Garrisoned", "gujaratiPronunciation": "ગેરિસન્ડ", "hindiPronunciation": "गैरिसन्ड", "gujaratiMeaning": "લશ્કરી છાવણી નાખેલી", "hindiMeaning": "सैन्य-दल रखा हुआ" },
+        "V4 (Present Participle)": { "word": "Garrisoning", "gujaratiPronunciation": "ગેરિસનિંગ", "hindiPronunciation": "गैरिसनिंग", "gujaratiMeaning": "લશ્કરી છાવણી નાખી રહ્યું છે", "hindiMeaning": "सैन्य-दल रख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Station", "gujaratiPronunciation": "સ્ટેશન", "hindiPronunciation": "स्टेशन", "gujaratiMeaning": "તૈનાત કરવું", "hindiMeaning": "तैनात करना" },
+        { "word": "Post", "gujaratiPronunciation": "પોસ્ટ", "hindiPronunciation": "पोस्ट", "gujaratiMeaning": "ચોકી પર મૂકવું", "hindiMeaning": "तैनात करना" }
+      ],
+      "antonyms": [
+        { "word": "Abandon", "gujaratiPronunciation": "એબેન્ડન", "hindiPronunciation": "अबैंडन", "gujaratiMeaning": "ત્યજી દેવું", "hindiMeaning": "छोड़ देना" },
+        { "word": "Evacuate", "gujaratiPronunciation": "ઇવેક્યુએટ", "hindiPronunciation": "इवैक्यूएट", "gujaratiMeaning": "ખાલી કરવું", "hindiMeaning": "खाली करना" }
+      ],
+      "confusingWords": [
+        { "word": "Venison", "gujaratiPronunciation": "વેનિસન", "hindiPronunciation": "वेनिसन", "gujaratiMeaning": "હરણનું માંસ", "hindiMeaning": "हिरण का मांस" },
+        { "word": "Comparison", "gujaratiPronunciation": "કમ્પેરીઝન", "hindiPronunciation": "कंपैरिजन", "gujaratiMeaning": "સરખામણી", "hindiMeaning": "तुलना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The fort was garrisoned by a thousand soldiers.", "gujaratiPronunciation": "ધ ફોર્ટ વોઝ ગેરિસન્ડ બાય અ થાઉઝન્ડ સોલ્જર્સ.", "hindiPronunciation": "द फोर्ट वॉज गैरिसन्ड बाय अ थाउजेंड सोल्जर्स।", "gujaratiTranslation": "કિલ્લામાં એક હજાર સૈનિકોની છાવણી હતી.", "hindiTranslation": "किले में एक हजार सैनिकों का सैन्य-दल था।" }
+      ]
+    },
+    {
+      "word": "Besiege",
+      "gujaratiPronunciation": "બિસીજ",
+      "hindiPronunciation": "बिसीज",
+      "gujaratiMeaning": "ઘેરો ઘાલવો",
+      "hindiMeaning": "घेरा डालना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Besiege", "gujaratiPronunciation": "બિસીજ", "hindiPronunciation": "बिसीज", "gujaratiMeaning": "ઘેરો ઘાલવો", "hindiMeaning": "घेरा डालना" },
+        "V2 (Past)": { "word": "Besieged", "gujaratiPronunciation": "બિસીજ્ડ", "hindiPronunciation": "बिसीज़्ड", "gujaratiMeaning": "ઘેરો ઘાલ્યો", "hindiMeaning": "घेरा डाला" },
+        "V3 (Past Participle)": { "word": "Besieged", "gujaratiPronunciation": "બિસીજ્ડ", "hindiPronunciation": "बिसीज़्ड", "gujaratiMeaning": "ઘેરો ઘાલેલો", "hindiMeaning": "घेरा डाला हुआ" },
+        "V4 (Present Participle)": { "word": "Besieging", "gujaratiPronunciation": "બિસીજિંગ", "hindiPronunciation": "बिसीजिंग", "gujaratiMeaning": "ઘેરો ઘાલી રહ્યું છે", "hindiMeaning": "घेरा डाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Surround", "gujaratiPronunciation": "સરાઉન્ડ", "hindiPronunciation": "सराउंड", "gujaratiMeaning": "ઘેરી લેવું", "hindiMeaning": "घेर लेना" },
+        { "word": "Encircle", "gujaratiPronunciation": "એન્સર્કલ", "hindiPronunciation": "एनसर्कल", "gujaratiMeaning": "ચારે બાજુથી ઘેરી લેવું", "hindiMeaning": "चारों ओर से घेर लेना" }
+      ],
+      "antonyms": [
+        { "word": "Liberate", "gujaratiPronunciation": "લિબરેટ", "hindiPronunciation": "लिबरेट", "gujaratiMeaning": "મુક્ત કરવું", "hindiMeaning": "मुक्त करना" },
+        { "word": "Free", "gujaratiPronunciation": "ફ્રી", "hindiPronunciation": "फ्री", "gujaratiMeaning": "આઝાદ કરવું", "hindiMeaning": "आजाद करना" }
+      ],
+      "confusingWords": [
+        { "word": "Beside", "gujaratiPronunciation": "બિસાઇડ", "hindiPronunciation": "बिसाइड", "gujaratiMeaning": "બાજુમાં", "hindiMeaning": "बगल में" },
+        { "word": "Besides", "gujaratiPronunciation": "બિસાઇડ્સ", "hindiPronunciation": "बिसाइड्स", "gujaratiMeaning": "ઉપરાંત", "hindiMeaning": "के अतिरिक्त" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The enemy forces began to besiege the castle.", "gujaratiPronunciation": "ધ એનિમી ફોર્સીસ બિગેન ટુ બિસીજ ધ કાસ્ટલ.", "hindiPronunciation": "द एनिमी फोर्सेस बिगेन टू बिसीज द कासल।", "gujaratiTranslation": "દુશ્મન સેનાએ કિલ્લાને ઘેરો ઘાલવાનું શરૂ કર્યું.", "hindiTranslation": "दुश्मन सेना ने महल को घेरना शुरू कर दिया।" }
+      ]
+    }
+  ]
+}

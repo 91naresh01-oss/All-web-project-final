@@ -1,0 +1,363 @@
+{
+    "id": "pronouns-hi",
+    "title": "Pronouns (सर्वनाम)",
+    "description": "जिस शब्द का प्रयोग संज्ञा (Noun) के स्थान पर किया जाता है, उसे <b>Pronoun (सर्वनाम)</b> कहते हैं। जब हम किसी व्यक्ति या वस्तु का नाम बार-बार नहीं लेना चाहते, तब सर्वनाम का प्रयोग होता है।",
+    "content": [
+        {
+            "type": "note",
+            "content": "<b>सरल परिभाषा:</b> Pronoun is a word used in place of a Noun.<br>उदा., 'Ram is a good boy. <b>He</b> goes to school.' - यहाँ 'He' एक Pronoun है जो 'Ram' की जगह प्रयोग हुआ है।"
+        },
+        {
+            "type": "section",
+            "title": "1️⃣ Interrogative Pronouns (प्रश्नवाचक सर्वनाम)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "प्रश्न पूछने के लिए प्रयोग होने वाले सर्वनाम।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Interrogative Pronouns",
+                        "headers": [
+                            "सर्वनाम",
+                            "हिंदी अर्थ",
+                            "उपयोग (Usage)",
+                            "उदाहरण"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Who</b>",
+                                "कौन?",
+                                "कर्ता (Subject) जानने के लिए (व्यक्ति के लिए)",
+                                "Who is calling you?"
+                            ],
+                            [
+                                "<b>Whom</b>",
+                                "किसे?",
+                                "कर्म (Object) जानने के लिए",
+                                "Whom did you meet?"
+                            ],
+                            [
+                                "<b>Whose</b>",
+                                "किसका?",
+                                "स्वामित्व (Possession) जानने के लिए",
+                                "Whose car is this?"
+                            ],
+                            [
+                                "<b>Which</b>",
+                                "कौन सा?",
+                                "चुनाव के लिए (वस्तु/प्राणी/व्यक्ति)",
+                                "Which is your favorite color?"
+                            ],
+                            [
+                                "<b>What</b>",
+                                "क्या?",
+                                "वस्तु, व्यवसाय या क्रिया जानने के लिए",
+                                "What is your father?"
+                            ],
+                            [
+                                "<b>Where</b>",
+                                "कहाँ?",
+                                "स्थान (Place) जानने के लिए",
+                                "Where do you live?"
+                            ],
+                            [
+                                "<b>When</b>",
+                                "कब?",
+                                "समय (Time) जानने के लिए",
+                                "When will you come?"
+                            ],
+                            [
+                                "<b>Why</b>",
+                                "क्यों?",
+                                "कारण (Reason) जानने के लिए",
+                                "Why are you late?"
+                            ],
+                            [
+                                "<b>How</b>",
+                                "कैसे?",
+                                "तरीका (Manner) या हालचाल जानने के लिए",
+                                "How do you go to school?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>खास याद रखें (How Family):</b><br>• <b>How much:</b> मात्रा जानने के लिए (जो गिना न जा सके - Uncountable). Ex: How much water...?<br>• <b>How many:</b> संख्या जानने के लिए (जो गिना जा सके - Countable). Ex: How many students...?<br>• <b>How far:</b> दूरी जानने के लिए।<br>• <b>How long:</b> समय अवधि (Duration) जानने के लिए।<br>• <b>How often:</b> कितनी बार (Frequency) क्रिया होती है, जानने के लिए।"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2️⃣ Relative Pronouns (संबंधवाचक सर्वनाम)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "ये सर्वनाम दो वाक्यों को जोड़ते हैं और पहले आए संज्ञा के साथ संबंध दर्शाते हैं।"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Who (जो):</b> व्यक्ति के लिए प्रयोग होता है (कर्ता स्थान पर)।<br><span style='color:#059669'>Example: The man <b>who</b> is standing there is my uncle.</span>",
+                        "<b>Whom (जिसे):</b> व्यक्ति के लिए प्रयोग होता है (कर्म स्थान पर)।<br><span style='color:#059669'>Example: The boy <b>whom</b> you helped is clever.</span>",
+                        "<b>Whose (जिसका):</b> स्वामित्व दर्शाने के लिए।<br><span style='color:#059669'>Example: The girl <b>whose</b> bag was lost is crying.</span>",
+                        "<b>Which (जो):</b> निर्जीव वस्तु या जानवरों के लिए।<br><span style='color:#059669'>Example: The dog <b>which</b> bit me was mad.</span>",
+                        "<b>That (जो):</b> सजीव और निर्जीव दोनों के लिए (खासकर Superlative degree या All, None के बाद)।<br><span style='color:#059669'>Example: This is the best book <b>that</b> I have ever read.</span>"
+                    ]
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Preposition के नियम:</b><br>• <b>Whom के साथ:</b> By whom (किसके द्वारा), With whom (किसके साथ), For whom (किसके लिए)।<br>• <b>Which के साथ:</b> In which (जिसमें), On which (जिस पर), From which (जिसमें से)।<br>• <b>नोट:</b> Who और That के आगे सामान्यतः Preposition नहीं लगता।"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3️⃣ Indefinite Pronouns (अनिश्चयवाचक सर्वनाम)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जब किसी निश्चित व्यक्ति या वस्तु की बात न हो तब प्रयोग होता है।"
+                },
+                {
+                    "type": "heading",
+                    "content": "A. Countable (गणनीय संज्ञा के साथ)"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Many:</b> बहुत (सकारात्मक/नकारात्मक वाक्यों में)।",
+                        "<b>A few:</b> कुछ (सकारात्मक अर्थ - Positive)।",
+                        "<b>Few:</b> बहुत कम / नहीं के बराबर (नकारात्मक अर्थ - Negative)।",
+                        "<b>The few:</b> थोड़ा पर सब कुछ (निश्चित मात्रा)।"
+                    ]
+                },
+                {
+                    "type": "heading",
+                    "content": "B. Uncountable (अगणनीय मात्रा के साथ)"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Much:</b> बहुत (मात्रा दर्शाने के लिए)।",
+                        "<b>A little:</b> थोड़ा (सकारात्मक अर्थ)।",
+                        "<b>Little:</b> नहीं के बराबर / बहुत कम (नकारात्मक अर्थ)।",
+                        "<b>The little:</b> थोड़ा पर जो भी है वह सब।"
+                    ]
+                },
+                {
+                    "type": "heading",
+                    "content": "C. General Words"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Some (कुछ):</b> सकारात्मक वाक्यों में प्रयोग। <span style='color:#059669'>Ex: I have some money.</span>",
+                        "<b>Any (कोई भी):</b> नकारात्मक और प्रश्नवाचक वाक्यों में। <span style='color:#059669'>Ex: Do you have any pen?</span>",
+                        "<b>Someone / Somebody:</b> कोई व्यक्ति (सकारात्मक वाक्य)।",
+                        "<b>No one / Nobody:</b> कोई नहीं।",
+                        "<b>Something:</b> कुछ (वस्तु के लिए)। <b>Nothing:</b> कुछ भी नहीं।",
+                        "<b>All:</b> सब / सभी।"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4️⃣ Distributive Pronouns (विभाजक सर्वनाम)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "समूह में से प्रत्येक को अलग-अलग दर्शाने के लिए प्रयोग होता है।"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Each:</b> प्रत्येक (दो या अधिक में से हर एक)। इसके साथ क्रिया हमेशा एकवचन होती है।<br><span style='color:#059669'>Ex: <b>Each</b> of the students was given a prize.</span>",
+                        "<b>Either:</b> दो में से एक (सकारात्मक)।<br><span style='color:#059669'>Ex: You can take <b>either</b> road.</span>",
+                        "<b>Neither:</b> दो में से कोई भी नहीं (नकारात्मक)।<br><span style='color:#059669'>Ex: <b>Neither</b> of the keys opens the door.</span>"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "5️⃣ Reciprocal Pronouns (पारस्परिक सर्वनाम)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "आपसी संबंध दर्शाने के लिए।"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Each other:</b> केवल <b>दो</b> व्यक्तियों या वस्तुओं के बीच।<br><span style='color:#059669'>Ex: Romeo and Juliet loved <b>each other</b>.</span>",
+                        "<b>One another:</b> <b>दो से अधिक</b> व्यक्तियों के बीच।<br><span style='color:#059669'>Ex: The villagers helped <b>one another</b>.</span>"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "6️⃣ Special Rules (खास नियम)",
+            "content": [
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>The same ... as:</b> 'वही... जो'। (समानता दर्शाने के लिए)।<br><span style='color:#059669'>Ex: This is <b>the same</b> pen <b>as</b> mine.</span>",
+                        "<b>Such ... as:</b> 'ऐसा... जो'।<br><span style='color:#059669'>Ex: Avoid <b>such</b> friends <b>as</b> are lazy.</span>",
+                        "<b>One ... the other:</b> दो हों तो एक के लिए One और दूसरे के लिए The other।",
+                        "<b>Some ... the others:</b> बहुत हों तो कुछ के लिए Some और बाकी के लिए The others।"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "🌟 Personal Pronouns (पुरुषवाचक सर्वनाम) - महत्वपूर्ण तालिका",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Personal Pronouns Complete Chart",
+                        "headers": [
+                            "Person",
+                            "Subjective (कर्ता)",
+                            "Objective (कर्म)",
+                            "Possessive Adj.",
+                            "Possessive Pro.",
+                            "Reflexive (निजवाचक)"
+                        ],
+                        "rows": [
+                            [
+                                "<b>1st (Singular)</b><br><span style='color:#666;font-size:12px'>प्रथम पुरुष (एकवचन)</span>",
+                                "<b>I</b> (मैं)",
+                                "Me",
+                                "My",
+                                "Mine",
+                                "Myself"
+                            ],
+                            [
+                                "<b>1st (Plural)</b><br><span style='color:#666;font-size:12px'>प्रथम पुरुष (बहुवचन)</span>",
+                                "<b>We</b> (हम)",
+                                "Us",
+                                "Our",
+                                "Ours",
+                                "Ourselves"
+                            ],
+                            [
+                                "<b>2nd</b><br><span style='color:#666;font-size:12px'>द्वितीय पुरुष</span>",
+                                "<b>You</b> (तुम/आप)",
+                                "You",
+                                "Your",
+                                "Yours",
+                                "Yourself/ves"
+                            ],
+                            [
+                                "<b>3rd (Male)</b><br><span style='color:#666;font-size:12px'>तृतीय पुरुष (पुरुष)</span>",
+                                "<b>He</b> (वह)",
+                                "Him",
+                                "His",
+                                "His",
+                                "Himself"
+                            ],
+                            [
+                                "<b>3rd (Female)</b><br><span style='color:#666;font-size:12px'>तृतीय पुरुष (स्त्री)</span>",
+                                "<b>She</b> (वह)",
+                                "Her",
+                                "Her",
+                                "Hers",
+                                "Herself"
+                            ],
+                            [
+                                "<b>3rd (Thing)</b><br><span style='color:#666;font-size:12px'>तृतीय पुरुष (वस्तु)</span>",
+                                "<b>It</b> (यह)",
+                                "It",
+                                "Its",
+                                "—",
+                                "Itself"
+                            ],
+                            [
+                                "<b>3rd (Plural)</b><br><span style='color:#666;font-size:12px'>तृतीय पुरुष (बहुवचन)</span>",
+                                "<b>They</b> (वे)",
+                                "Them",
+                                "Their",
+                                "Theirs",
+                                "Themselves"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "💡 Common Mistakes (ध्यान रखें)",
+            "content": [
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Who vs Whom:</b><br>• खाली जगह के बाद क्रिया (verb) हो तो <b>Who</b> आए। (___ is coming?)<br>• खाली जगह के बाद कर्ता (subject) हो तो <b>Whom</b> आए। (___ did you meet?)",
+                        "<b>Few vs Little:</b><br>• संख्या गिनी जा सके (दोस्त, पेन, किताबें) तो <b>Few</b> आए।<br>• मात्रा हो (पानी, दूध, प्यार, समय) तो <b>Little</b> आए।",
+                        "<b>Myself का प्रयोग:</b><br>• कभी भी वाक्य की शुरुआत \"Myself is Raj\" से न करें।<br>• सही वाक्य: \"<b>I am Raj</b>\" या \"<b>My name is Raj</b>\"।"
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary_table": {
+        "title": "Quick Summary (संक्षिप्त सारांश)",
+        "headers": [
+            "Pronoun Type",
+            "हिंदी नाम",
+            "उपयोग",
+            "उदाहरण"
+        ],
+        "rows": [
+            [
+                "<b>Interrogative</b>",
+                "प्रश्नवाचक सर्वनाम",
+                "प्रश्न पूछने के लिए",
+                "Who, What, Why, Where"
+            ],
+            [
+                "<b>Relative</b>",
+                "संबंधवाचक सर्वनाम",
+                "संबंध जोड़ने के लिए",
+                "Who, Which, That, Whose"
+            ],
+            [
+                "<b>Indefinite</b>",
+                "अनिश्चयवाचक सर्वनाम",
+                "अनिश्चित संख्या",
+                "Some, Many, Few, Any"
+            ],
+            [
+                "<b>Distributive</b>",
+                "विभाजक सर्वनाम",
+                "विभाजन के लिए",
+                "Each, Either, Neither"
+            ],
+            [
+                "<b>Reciprocal</b>",
+                "पारस्परिक सर्वनाम",
+                "आपसी संबंध",
+                "Each other, One another"
+            ],
+            [
+                "<b>Personal</b>",
+                "पुरुषवाचक सर्वनाम",
+                "व्यक्ति दर्शाने के लिए",
+                "I, You, He, She, They"
+            ],
+            [
+                "<b>Reflexive</b>",
+                "निजवाचक सर्वनाम",
+                "स्वयं पर",
+                "Myself, Yourself, Himself"
+            ]
+        ]
+    }
+}

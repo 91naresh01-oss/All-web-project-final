@@ -1,0 +1,442 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2: Record | Chronicle | Retain | Reflect | Recollect",
+  "words": [
+    {
+      "word": "Record",
+      "gujaratiPronunciation": "રેકોર્ડ",
+      "hindiPronunciation": "रिकॉर्ड",
+      "gujaratiMeaning": "નોંધવું, દાખલ કરવું",
+      "hindiMeaning": "दर्ज करना, रिकॉर्ड करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Record",
+          "gujaratiPronunciation": "રેકોર્ડ",
+          "hindiPronunciation": "रिकॉर्ड",
+          "gujaratiMeaning": "નોંધવું",
+          "hindiMeaning": "दर्ज करना"
+        },
+        "V2": {
+          "word": "Recorded",
+          "gujaratiPronunciation": "રેકોર્ડેડ",
+          "hindiPronunciation": "रिकॉर्डेड",
+          "gujaratiMeaning": "નોંધ્યું",
+          "hindiMeaning": "दर्ज किया"
+        },
+        "V3": {
+          "word": "Recorded",
+          "gujaratiPronunciation": "રેકોર્ડેડ",
+          "hindiPronunciation": "रिकॉर्डेड",
+          "gujaratiMeaning": "નોંધેલું",
+          "hindiMeaning": "दर्ज किया हुआ"
+        },
+        "V4": {
+          "word": "Recording",
+          "gujaratiPronunciation": "રેકોર્ડિંગ",
+          "hindiPronunciation": "रिकॉर्डिंग",
+          "gujaratiMeaning": "નોંધી રહ્યું છે",
+          "hindiMeaning": "दर्ज कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Document",
+          "gujaratiPronunciation": "ડોક્યુમેન્ટ",
+          "hindiPronunciation": "डॉक्यूमेंट",
+          "gujaratiMeaning": "દસ્તાવેજીકરણ કરવું",
+          "hindiMeaning": "दस्तावेजीकरण करना"
+        },
+        {
+          "word": "Register",
+          "gujaratiPronunciation": "રજિસ્ટર",
+          "hindiPronunciation": "रजिस्टर",
+          "gujaratiMeaning": "નોંધણી કરવી",
+          "hindiMeaning": "पंजीकृत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Erase",
+          "gujaratiPronunciation": "ઇરેઝ",
+          "hindiPronunciation": "इरेज़",
+          "gujaratiMeaning": "ભૂંસી નાખવું",
+          "hindiMeaning": "मिटाना"
+        },
+        {
+          "word": "Delete",
+          "gujaratiPronunciation": "ડિલીટ",
+          "hindiPronunciation": "डिलीट",
+          "gujaratiMeaning": "કાઢી નાખવું",
+          "hindiMeaning": "हटाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Reward",
+          "gujaratiPronunciation": "રિવોર્ડ",
+          "hindiPronunciation": "रिवॉर्ड",
+          "gujaratiMeaning": "ઇનામ",
+          "hindiMeaning": "पुरस्कार"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The secretary was asked to record the minutes of the meeting.",
+          "gujaratiTranslation": "સચિવને મીટિંગની કાર્યવાહી નોંધવા માટે કહેવામાં આવ્યું હતું.",
+          "hindiTranslation": "सचिव को बैठक के कार्यवृत्त को रिकॉर्ड करने के लिए कहा गया था।",
+          "gujaratiPronunciation": "ધ સેક્રેટરી વોઝ આસ્ક્ડ ટુ રેકોર્ડ ધ મિનિટ્સ ઓફ ધ મીટિંગ.",
+          "hindiPronunciation": "द सेक्रेटरी वॉज़ आस्क्ड टू रिकॉर्ड द मिनट्स ऑफ़ द मीटिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Chronicle",
+      "gujaratiPronunciation": "ક્રોનિકલ",
+      "hindiPronunciation": "क्रॉनिकल",
+      "gujaratiMeaning": "ઇતિહાસ લખવો",
+      "hindiMeaning": "इतिहास लिखना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Chronicle",
+          "gujaratiPronunciation": "ક્રોનિકલ",
+          "hindiPronunciation": "क्रॉनिकल",
+          "gujaratiMeaning": "ઇતિહાસ લખવો",
+          "hindiMeaning": "इतिहास लिखना"
+        },
+        "V2": {
+          "word": "Chronicled",
+          "gujaratiPronunciation": "ક્રોનિકલ્ડ",
+          "hindiPronunciation": "क्रॉनिकल्ड",
+          "gujaratiMeaning": "ઇતિહાસ લખ્યો",
+          "hindiMeaning": "इतिहास लिखा"
+        },
+        "V3": {
+          "word": "Chronicled",
+          "gujaratiPronunciation": "ક્રોનિકલ્ડ",
+          "hindiPronunciation": "क्रॉनिकल्ड",
+          "gujaratiMeaning": "ઇતિહાસ લખેલો",
+          "hindiMeaning": "इतिहास लिखा हुआ"
+        },
+        "V4": {
+          "word": "Chronicling",
+          "gujaratiPronunciation": "ક્રોનિકલિંગ",
+          "hindiPronunciation": "क्रॉनिकलिंग",
+          "gujaratiMeaning": "ઇતિહાસ લખી રહ્યું છે",
+          "hindiMeaning": "इतिहास लिख रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Record",
+          "gujaratiPronunciation": "રેકોર્ડ",
+          "hindiPronunciation": "रिकॉर्ड",
+          "gujaratiMeaning": "નોંધવું",
+          "hindiMeaning": "दर्ज करना"
+        },
+        {
+          "word": "Narrate",
+          "gujaratiPronunciation": "નરેટ",
+          "hindiPronunciation": "नरेट",
+          "gujaratiMeaning": "વર્ણન કરવું",
+          "hindiMeaning": "वर्णन करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Obscure",
+          "gujaratiPronunciation": "ઓબ્સ્ક્યોર",
+          "hindiPronunciation": "ऑब्स्क्योर",
+          "gujaratiMeaning": "અસ્પષ્ટ કરવું",
+          "hindiMeaning": "अस्पष्ट करना"
+        },
+        {
+          "word": "Conceal",
+          "gujaratiPronunciation": "કન્સીલ",
+          "hindiPronunciation": "कंसील",
+          "gujaratiMeaning": "છુપાવવું",
+          "hindiMeaning": "छिपाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Chronic",
+          "gujaratiPronunciation": "ક્રોનિક",
+          "hindiPronunciation": "क्रॉनिक",
+          "gujaratiMeaning": "લાંબા સમયથી ચાલતું",
+          "hindiMeaning": "दीर्घकालिक"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The book chronicles the events of the war.",
+          "gujaratiTranslation": "આ પુસ્તક યુદ્ધની ઘટનાઓનો ઇતિહાસ રજૂ કરે છે.",
+          "hindiTranslation": "यह पुस्तक युद्ध की घटनाओं का वर्णन करती है।",
+          "gujaratiPronunciation": "ધ બુક ક્રોનિકલ્સ ધ ઇવેન્ટ્સ ઓફ ધ વોર.",
+          "hindiPronunciation": "द बुक क्रॉनिकल्स द इवेंट्स ऑफ़ द वॉर।"
+        }
+      ]
+    },
+    {
+      "word": "Retain",
+      "gujaratiPronunciation": "રિટેન",
+      "hindiPronunciation": "रिटेन",
+      "gujaratiMeaning": "જાળવી રાખવું",
+      "hindiMeaning": "बनाए रखना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Retain",
+          "gujaratiPronunciation": "રિટેન",
+          "hindiPronunciation": "रिटेन",
+          "gujaratiMeaning": "જાળવી રાખવું",
+          "hindiMeaning": "बनाए रखना"
+        },
+        "V2": {
+          "word": "Retained",
+          "gujaratiPronunciation": "રિટેન્ડ",
+          "hindiPronunciation": "रिटेन्ड",
+          "gujaratiMeaning": "જાળવી રાખ્યું",
+          "hindiMeaning": "बनाए रखा"
+        },
+        "V3": {
+          "word": "Retained",
+          "gujaratiPronunciation": "રિટેન્ડ",
+          "hindiPronunciation": "रिटेन्ड",
+          "gujaratiMeaning": "જાળવી રાખેલું",
+          "hindiMeaning": "बनाए रखा हुआ"
+        },
+        "V4": {
+          "word": "Retaining",
+          "gujaratiPronunciation": "રિટેનિંગ",
+          "hindiPronunciation": "रिटेनिंग",
+          "gujaratiMeaning": "જાળવી રાખી રહ્યું છે",
+          "hindiMeaning": "बनाए रख रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Keep",
+          "gujaratiPronunciation": "કીપ",
+          "hindiPronunciation": "कीप",
+          "gujaratiMeaning": "રાખવું",
+          "hindiMeaning": "रखना"
+        },
+        {
+          "word": "Maintain",
+          "gujaratiPronunciation": "મેઇન્ટેન",
+          "hindiPronunciation": "मेंटेन",
+          "gujaratiMeaning": "જાળવવું",
+          "hindiMeaning": "बनाए रखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Lose",
+          "gujaratiPronunciation": "લૂઝ",
+          "hindiPronunciation": "लूज़",
+          "gujaratiMeaning": "ગુમાવવું",
+          "hindiMeaning": "खोना"
+        },
+        {
+          "word": "Release",
+          "gujaratiPronunciation": "રિલીઝ",
+          "hindiPronunciation": "रिलीज़",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Obtain",
+          "gujaratiPronunciation": "ઓબટેન",
+          "hindiPronunciation": "ऑब्टेन",
+          "gujaratiMeaning": "મેળવવું",
+          "hindiMeaning": "प्राप्त करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "This material is designed to retain heat.",
+          "gujaratiTranslation": "આ સામગ્રી ગરમી જાળવી રાખવા માટે બનાવવામાં આવી છે.",
+          "hindiTranslation": "यह सामग्री गर्मी बनाए रखने के लिए डिज़ाइन की गई है।",
+          "gujaratiPronunciation": "ધીસ મટિરિયલ ઇઝ ડિઝાઇન ટુ રિટેન હીટ.",
+          "hindiPronunciation": "दिस मटीरियल इज़ डिज़ाइन्ड टू रिटेन हीट।"
+        }
+      ]
+    },
+    {
+      "word": "Reflect",
+      "gujaratiPronunciation": "રિફ્લેક્ટ",
+      "hindiPronunciation": "रिफ्लेक्ट",
+      "gujaratiMeaning": "પ્રતિબિંબિત કરવું, વિચારવું",
+      "hindiMeaning": "प्रतिबिंबित करना, विचार करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Reflect",
+          "gujaratiPronunciation": "રિફ્લેક્ટ",
+          "hindiPronunciation": "रिफ्लेक्ट",
+          "gujaratiMeaning": "પ્રતિબિંબિત કરવું",
+          "hindiMeaning": "प्रतिबिंबित करना"
+        },
+        "V2": {
+          "word": "Reflected",
+          "gujaratiPronunciation": "રિફ્લેક્ટેડ",
+          "hindiPronunciation": "रिफ्लेक्टेड",
+          "gujaratiMeaning": "પ્રતિબિંબિત કર્યું",
+          "hindiMeaning": "प्रतिबिंबित किया"
+        },
+        "V3": {
+          "word": "Reflected",
+          "gujaratiPronunciation": "રિફ્લેક્ટેડ",
+          "hindiPronunciation": "रिफ्लेक्टेड",
+          "gujaratiMeaning": "પ્રતિબિંબિત કરેલું",
+          "hindiMeaning": "प्रतिबिंबित"
+        },
+        "V4": {
+          "word": "Reflecting",
+          "gujaratiPronunciation": "રિફ્લેક્ટિંગ",
+          "hindiPronunciation": "रिफ्लेक्टिंग",
+          "gujaratiMeaning": "પ્રતિબિંબિત કરી રહ્યું છે",
+          "hindiMeaning": "प्रतिबिंबित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Mirror",
+          "gujaratiPronunciation": "મિરર",
+          "hindiPronunciation": "मिरर",
+          "gujaratiMeaning": "અરીસાની જેમ બતાવવું",
+          "hindiMeaning": "दर्पण करना"
+        },
+        {
+          "word": "Ponder",
+          "gujaratiPronunciation": "પોન્ડર",
+          "hindiPronunciation": "पॉन्डर",
+          "gujaratiMeaning": "વિચાર કરવો",
+          "hindiMeaning": "विचार करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Absorb",
+          "gujaratiPronunciation": "એબ્સોર્બ",
+          "hindiPronunciation": "एब्सॉर्ब",
+          "gujaratiMeaning": "શોષી લેવું",
+          "hindiMeaning": "अवशोषित करना"
+        },
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नजरअंदाज करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Deflect",
+          "gujaratiPronunciation": "ડિફ્લેક્ટ",
+          "hindiPronunciation": "डिफ्लेक्ट",
+          "gujaratiMeaning": "વાળવું, ફેરવવું",
+          "hindiMeaning": "विचलित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The calm water reflected the blue sky.",
+          "gujaratiTranslation": "શાંત પાણીમાં વાદળી આકાશ પ્રતિબિંબિત થયું.",
+          "hindiTranslation": "शांत पानी में नीला आकाश प्रतिबिंबित हुआ।",
+          "gujaratiPronunciation": "ધ કામ વોટર રિફ્લેક્ટેડ ધ બ્લુ સ્કાય.",
+          "hindiPronunciation": "द काम वॉटर रिफ्लेक्टेड द ब्लू स्काय।"
+        }
+      ]
+    },
+    {
+      "word": "Recollect",
+      "gujaratiPronunciation": "રિકલેક્ટ",
+      "hindiPronunciation": "रिकलेक्ट",
+      "gujaratiMeaning": "ફરીથી યાદ કરવું, સ્મરણ કરવું",
+      "hindiMeaning": "स्मरण करना, याद करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Recollect",
+          "gujaratiPronunciation": "રિકલેક્ટ",
+          "hindiPronunciation": "रिकलेक्ट",
+          "gujaratiMeaning": "સ્મરણ કરવું",
+          "hindiMeaning": "स्मरण करना"
+        },
+        "V2": {
+          "word": "Recollected",
+          "gujaratiPronunciation": "રિકલેક્ટેડ",
+          "hindiPronunciation": "रिकलेक्टेड",
+          "gujaratiMeaning": "સ્મરણ કર્યું",
+          "hindiMeaning": "स्मरण किया"
+        },
+        "V3": {
+          "word": "Recollected",
+          "gujaratiPronunciation": "રિકલેક્ટેડ",
+          "hindiPronunciation": "रिकलेक्टेड",
+          "gujaratiMeaning": "સ્મરણ કરેલું",
+          "hindiMeaning": "स्मरण किया हुआ"
+        },
+        "V4": {
+          "word": "Recollecting",
+          "gujaratiPronunciation": "રિકલેક્ટિંગ",
+          "hindiPronunciation": "रिकलेक्टिंग",
+          "gujaratiMeaning": "સ્મરણ કરી રહ્યું છે",
+          "hindiMeaning": "स्मरण कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Remember",
+          "gujaratiPronunciation": "રિમેમ્બર",
+          "hindiPronunciation": "रिमेंबर",
+          "gujaratiMeaning": "યાદ રાખવું",
+          "hindiMeaning": "याद रखना"
+        },
+        {
+          "word": "Recall",
+          "gujaratiPronunciation": "રિકોલ",
+          "hindiPronunciation": "रिकॉल",
+          "gujaratiMeaning": "યાદ કરવું",
+          "hindiMeaning": "याद करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Forget",
+          "gujaratiPronunciation": "ફરગેટ",
+          "hindiPronunciation": "फॉरगेट",
+          "gujaratiMeaning": "ભૂલી જવું",
+          "hindiMeaning": "भूल जाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Re-collect",
+          "gujaratiPronunciation": "રી-કલેક્ટ",
+          "hindiPronunciation": "री-कलेक्ट",
+          "gujaratiMeaning": "ફરીથી ભેગું કરવું",
+          "hindiMeaning": "फिर से इकट्ठा करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He could not recollect the details of the accident.",
+          "gujaratiTranslation": "તે અકસ્માતની વિગતો યાદ કરી શક્યો નહીં.",
+          "hindiTranslation": "वह दुर्घटना का विवरण याद नहीं कर सका।",
+          "gujaratiPronunciation": "હી કુડ નોટ રિકલેક્ટ ધ ડિટેલ્સ ઓફ ધ એક્સિડન્ટ.",
+          "hindiPronunciation": "ही कुड नॉट रिकलेक्ट द डिटेल्स ऑफ़ द एक्सीडेंट।"
+        }
+      ]
+    }
+  ]
+}
+
+    

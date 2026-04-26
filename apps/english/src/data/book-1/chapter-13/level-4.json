@@ -1,0 +1,11 @@
+{
+    "id": "level-4",
+    "title": "Trees 1",
+    "words": [
+        { "word": "Mango Tree", "icon": "🥭", "gujaratiPronunciation": "મેંગો ટ્રી", "hindiPronunciation": "मैंगो ट्री", "gujaratiMeaning": "કેરીનું વૃક્ષ/આંબો", "hindiMeaning": "आम का पेड़" },
+        { "word": "Banyan Tree", "icon": "🌳", "gujaratiPronunciation": "બનિયાન ટ્રી", "hindiPronunciation": "बनयान ट्री", "gujaratiMeaning": "વડનું વૃક્ષ", "hindiMeaning": "बरगद का पेड़" },
+        { "word": "Coconut Tree", "icon": "🌴", "gujaratiPronunciation": "કોકોનટ ટ્રી", "hindiPronunciation": "कोकोनट ट्री", "gujaratiMeaning": "નાળિયેરીનું વૃક્ષ", "hindiMeaning": "नारियल का पेड़" },
+        { "word": "Neem Tree", "icon": "🌿", "gujaratiPronunciation": "નીમ ટ્રી", "hindiPronunciation": "नीम ट्री", "gujaratiMeaning": "લીમડાનું વૃક્ષ", "hindiMeaning": "नीम का पेड़" },
+        { "word": "Palm Tree", "icon": "🥥", "gujaratiPronunciation": "પામ ટ્રી", "hindiPronunciation": "पाम ट्री", "gujaratiMeaning": "તાડનું વૃક્ષ", "hindiMeaning": "ताड़ का पेड़" }
+    ]
+}

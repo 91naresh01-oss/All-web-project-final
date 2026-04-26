@@ -1,0 +1,439 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Maintain",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "જાળવવું",
+      "hindiMeaning": "बनाए रखना",
+      "gujaratiPronunciation": "મેઇન્ટેન",
+      "hindiPronunciation": "मेनटेन",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Maintain",
+          "gujaratiPronunciation": "મેઇન્ટેન",
+          "hindiPronunciation": "मेनटेन",
+          "gujaratiMeaning": "જાળવવું",
+          "hindiMeaning": "बनाए रखना"
+        },
+        "V2 (Past)": {
+          "word": "Maintained",
+          "gujaratiPronunciation": "મેઇન્ટેઇન્ડ",
+          "hindiPronunciation": "मेनटेंड",
+          "gujaratiMeaning": "જાળવ્યું",
+          "hindiMeaning": "बनाए रखा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Maintained",
+          "gujaratiPronunciation": "મેઇન્ટેઇન્ડ",
+          "hindiPronunciation": "मेनटेंड",
+          "gujaratiMeaning": "જાળવેલું",
+          "hindiMeaning": "बनाए रखा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Maintaining",
+          "gujaratiPronunciation": "મેઇન્ટેનિંગ",
+          "hindiPronunciation": "मेनटेनिंग",
+          "gujaratiMeaning": "જાળવી રહ્યું",
+          "hindiMeaning": "बनाए रख रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Preserve",
+          "gujaratiPronunciation": "પ્રિઝર્વ",
+          "hindiPronunciation": "प्रिजर्व",
+          "gujaratiMeaning": "સાચવવું",
+          "hindiMeaning": "संरक्षित करना"
+        },
+        {
+          "word": "Keep",
+          "gujaratiPronunciation": "કીપ",
+          "hindiPronunciation": "कीप",
+          "gujaratiMeaning": "રાખવું",
+          "hindiMeaning": "रखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Abandon",
+          "gujaratiPronunciation": "અબૅન્ડન",
+          "hindiPronunciation": "अबैंडन",
+          "gujaratiMeaning": "ત્યાગ કરવો",
+          "hindiMeaning": "त्याग देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Main frame",
+          "gujaratiPronunciation": "મેઇન ફ્રેમ",
+          "hindiPronunciation": "मेन फ्रेम",
+          "gujaratiMeaning": "મુખ્ય માળખું",
+          "hindiMeaning": "मुख्य ढाँचा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is important to maintain a healthy diet.",
+          "gujaratiPronunciation": "ઇટ ઇઝ ઇમ્પોર્ટન્ટ ટુ મેઇન્ટેન અ હેલ્ધી ડાયટ.",
+          "hindiPronunciation": "इट इज़ इम्पॉर्टेंट टू मेनटेन अ हेल्दी डाइट।",
+          "gujaratiTranslation": "તંદુરસ્ત આહાર જાળવવો મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "स्वस्थ आहार बनाए रखना महत्वपूर्ण है।"
+        }
+      ]
+    },
+    {
+      "word": "Weld",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "વેલ્ડિંગ કરવું",
+      "hindiMeaning": "वेल्ड करना",
+      "gujaratiPronunciation": "વેલ્ડ",
+      "hindiPronunciation": "वेल्ड",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Weld",
+          "gujaratiPronunciation": "વેલ્ડ",
+          "hindiPronunciation": "वेल्ड",
+          "gujaratiMeaning": "વેલ્ડિંગ કરવું",
+          "hindiMeaning": "वेल्ड करना"
+        },
+        "V2 (Past)": {
+          "word": "Welded",
+          "gujaratiPronunciation": "વેલ્ડેડ",
+          "hindiPronunciation": "वेल्डेड",
+          "gujaratiMeaning": "વેલ્ડિંગ કર્યું",
+          "hindiMeaning": "वेल्ड किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Welded",
+          "gujaratiPronunciation": "વેલ્ડેડ",
+          "hindiPronunciation": "वेल्डेड",
+          "gujaratiMeaning": "વેલ્ડિંગ કરેલું",
+          "hindiMeaning": "वेल्ड किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Welding",
+          "gujaratiPronunciation": "વેલ્ડિંગ",
+          "hindiPronunciation": "वेल्डिंग",
+          "gujaratiMeaning": "વેલ્ડિંગ કરી રહ્યું",
+          "hindiMeaning": "वेल्ड कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Fuse",
+          "gujaratiPronunciation": "ફ્યુઝ",
+          "hindiPronunciation": "फ्यूज",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        },
+        {
+          "word": "Join",
+          "gujaratiPronunciation": "જોઇન",
+          "hindiPronunciation": "जॉइन",
+          "gujaratiMeaning": "સાંધવું",
+          "hindiMeaning": "जोड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Separate",
+          "gujaratiPronunciation": "સેપરેટ",
+          "hindiPronunciation": "सेपरेट",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        },
+        {
+          "word": "Cut",
+          "gujaratiPronunciation": "કટ",
+          "hindiPronunciation": "कट",
+          "gujaratiMeaning": "કાપવું",
+          "hindiMeaning": "काटना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Wild",
+          "gujaratiPronunciation": "વાઇલ્ડ",
+          "hindiPronunciation": "वाइल्ड",
+          "gujaratiMeaning": "જંગલી",
+          "hindiMeaning": "जंगली"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The mechanic will weld the broken metal parts together.",
+          "gujaratiPronunciation": "ધ મિકેનિક વિલ વેલ્ડ ધ બ્રોકન મેટલ પાર્ટ્સ ટુગેધર.",
+          "hindiPronunciation": "द मैकेनिक विल वेल्ड द ब्रोकन मेटल पार्ट्स टुगेदर।",
+          "gujaratiTranslation": "મિકેનિક તૂટેલા ધાતુના ભાગોને એકસાથે વેલ્ડિંગ કરશે.",
+          "hindiTranslation": "मैकेनिक टूटे हुए धातु के हिस्सों को एक साथ वेल्ड करेगा।"
+        }
+      ]
+    },
+    {
+      "word": "Configure",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "રચના કરવી",
+      "hindiMeaning": "विन्यस्त करना",
+      "gujaratiPronunciation": "કન્ફિગર",
+      "hindiPronunciation": "कॉन्फ़िगर",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Configure",
+          "gujaratiPronunciation": "કન્ફિગર",
+          "hindiPronunciation": "कॉन्फ़िगर",
+          "gujaratiMeaning": "રચના કરવી",
+          "hindiMeaning": "विन्यस्त करना"
+        },
+        "V2 (Past)": {
+          "word": "Configured",
+          "gujaratiPronunciation": "કન્ફિગર્ડ",
+          "hindiPronunciation": "कॉन्फ़िगरड",
+          "gujaratiMeaning": "રચના કરી",
+          "hindiMeaning": "विन्यस्त किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Configured",
+          "gujaratiPronunciation": "કન્ફિગર્ડ",
+          "hindiPronunciation": "कॉन्फ़िगरड",
+          "gujaratiMeaning": "રચના કરેલી",
+          "hindiMeaning": "विन्यस्त किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Configuring",
+          "gujaratiPronunciation": "કન્ફિગરિંગ",
+          "hindiPronunciation": "कॉन्फ़िगरिंग",
+          "gujaratiMeaning": "રચના કરી રહ્યું",
+          "hindiMeaning": "विन्यस्त कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Set up",
+          "gujaratiPronunciation": "સેટ અપ",
+          "hindiPronunciation": "सेट अप",
+          "gujaratiMeaning": "ગોઠવવું",
+          "hindiMeaning": "स्थापित करना"
+        },
+        {
+          "word": "Arrange",
+          "gujaratiPronunciation": "અરેન્જ",
+          "hindiPronunciation": "अरेंज",
+          "gujaratiMeaning": "વ્યવસ્થા કરવી",
+          "hindiMeaning": "व्यवस्थित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Disarrange",
+          "gujaratiPronunciation": "ડિસઅરેન્જ",
+          "hindiPronunciation": "डिसअरेंज",
+          "gujaratiMeaning": "અસ્તવ્યસ્ત કરવું",
+          "hindiMeaning": "अस्त-व्यस्त करना"
+        },
+        {
+          "word": "Reset",
+          "gujaratiPronunciation": "રિસિટ",
+          "hindiPronunciation": "रीसेट",
+          "gujaratiMeaning": "પુનઃ ગોઠવવું",
+          "hindiMeaning": "पुनर्स्थापित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Figure",
+          "gujaratiPronunciation": "ફિગર",
+          "hindiPronunciation": "फिगर",
+          "gujaratiMeaning": "આકૃતિ",
+          "hindiMeaning": "आकृति"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to configure the software before you can use it.",
+          "gujaratiPronunciation": "યુ નીડ ટુ કન્ફિગર ધ સૉફ્ટવેર બિફોર યુ કેન યુઝ ઇટ.",
+          "hindiPronunciation": "यू नीड टू कॉन्फ़िगर द सॉफ्टवेयर बिफोर यू कैन यूज़ इट।",
+          "gujaratiTranslation": "તમારે તેનો ઉપયોગ કરતા પહેલા સોફ્ટવેરને કન્ફિગર કરવાની જરૂર છે.",
+          "hindiTranslation": "इसका उपयोग करने से पहले आपको सॉफ़्टवेयर को कॉन्फ़िगर करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Shore",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "ટેકો આપવો",
+      "hindiMeaning": "सहारा देना",
+      "gujaratiPronunciation": "શોર",
+      "hindiPronunciation": "शोर",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Shore",
+          "gujaratiPronunciation": "શોર",
+          "hindiPronunciation": "शोर",
+          "gujaratiMeaning": "ટેકો આપવો",
+          "hindiMeaning": "सहारा देना"
+        },
+        "V2 (Past)": {
+          "word": "Shored",
+          "gujaratiPronunciation": "શોર્ડ",
+          "hindiPronunciation": "शोर्ड",
+          "gujaratiMeaning": "ટેકો આપ્યો",
+          "hindiMeaning": "सहारा दिया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Shored",
+          "gujaratiPronunciation": "શોર્ડ",
+          "hindiPronunciation": "शोर्ड",
+          "gujaratiMeaning": "ટેકો આપેલો",
+          "hindiMeaning": "सहारा दिया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Shoring",
+          "gujaratiPronunciation": "શોરિંગ",
+          "hindiPronunciation": "शोरिंग",
+          "gujaratiMeaning": "ટેકો આપી રહ્યું",
+          "hindiMeaning": "सहारा दे रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Support",
+          "gujaratiPronunciation": "સપોર્ટ",
+          "hindiPronunciation": "सपोर्ट",
+          "gujaratiMeaning": "આધાર આપવો",
+          "hindiMeaning": "समर्थन देना"
+        },
+        {
+          "word": "Brace",
+          "gujaratiPronunciation": "બ્રેસ",
+          "hindiPronunciation": "ब्रेस",
+          "gujaratiMeaning": "મજબૂત કરવું",
+          "hindiMeaning": "मजबूत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Weaken",
+          "gujaratiPronunciation": "વિકન",
+          "hindiPronunciation": "वीकन",
+          "gujaratiMeaning": "નબળું પાડવું",
+          "hindiMeaning": "कमजोर करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sure",
+          "gujaratiPronunciation": "શ્યોર",
+          "hindiPronunciation": "श्योर",
+          "gujaratiMeaning": "ચોક્કસ",
+          "hindiMeaning": "निश्चित"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They had to shore up the crumbling wall.",
+          "gujaratiPronunciation": "ધે હેડ ટુ શોર અપ ધ ક્રમ્બલિંગ વૉલ.",
+          "hindiPronunciation": "दे हैड टू शोर अप द क्रंबलिंग वॉल।",
+          "gujaratiTranslation": "તેમને તૂટતી દીવાલને ટેકો આપવો પડ્યો.",
+          "hindiTranslation": "उन्हें ढहती दीवार को सहारा देना पड़ा।"
+        }
+      ]
+    },
+    {
+      "word": "Commission",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "કામ સોંપવું",
+      "hindiMeaning": "काम सौंपना",
+      "gujaratiPronunciation": "કમિશન",
+      "hindiPronunciation": "कमीशन",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Commission",
+          "gujaratiPronunciation": "કમિશન",
+          "hindiPronunciation": "कमीशन",
+          "gujaratiMeaning": "કામ સોંપવું",
+          "hindiMeaning": "काम सौंपना"
+        },
+        "V2 (Past)": {
+          "word": "Commissioned",
+          "gujaratiPronunciation": "કમિશન્ડ",
+          "hindiPronunciation": "कमीशंड",
+          "gujaratiMeaning": "કામ સોંપ્યું",
+          "hindiMeaning": "काम सौंपा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Commissioned",
+          "gujaratiPronunciation": "કમિશન્ડ",
+          "hindiPronunciation": "कमीशंड",
+          "gujaratiMeaning": "કામ સોંપેલું",
+          "hindiMeaning": "काम सौंपा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Commissioning",
+          "gujaratiPronunciation": "કમિશનિંગ",
+          "hindiPronunciation": "कमीशनिंग",
+          "gujaratiMeaning": "કામ સોંપી રહ્યું",
+          "hindiMeaning": "काम सौंप रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Appoint",
+          "gujaratiPronunciation": "અપોઇન્ટ",
+          "hindiPronunciation": "अपॉइंट",
+          "gujaratiMeaning": "નિમણૂક કરવી",
+          "hindiMeaning": "नियुक्त करना"
+        },
+        {
+          "word": "Order",
+          "gujaratiPronunciation": "ઓર્ડર",
+          "hindiPronunciation": "ऑर्डर",
+          "gujaratiMeaning": "આદેશ આપવો",
+          "hindiMeaning": "आदेश देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Decommission",
+          "gujaratiPronunciation": "ડિકમિશન",
+          "hindiPronunciation": "डीकमीशन",
+          "gujaratiMeaning": "સેવા નિવૃત્ત કરવું",
+          "hindiMeaning": "सेवामुक्त करना"
+        },
+        {
+          "word": "Cancel",
+          "gujaratiPronunciation": "કેન્સલ",
+          "hindiPronunciation": "कैंसल",
+          "gujaratiMeaning": "રદ કરવું",
+          "hindiMeaning": "रद्द करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Omission",
+          "gujaratiPronunciation": "ઓમિશન",
+          "hindiPronunciation": "ओमिशन",
+          "gujaratiMeaning": "ભૂલ",
+          "hindiMeaning": "चूक"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The artist was commissioned to paint a portrait.",
+          "gujaratiPronunciation": "ધ આર્ટિસ્ટ વૉઝ કમિશન્ડ ટુ પેઇન્ટ અ પોર્ટ્રેટ.",
+          "hindiPronunciation": "द आर्टिस्ट वॉज़ कमीशंड टू पेंट अ पोर्ट्रेट।",
+          "gujaratiTranslation": "કલાકારને એક પોર્ટ્રેટ દોરવાનું કામ સોંપવામાં આવ્યું હતું.",
+          "hindiTranslation": "कलाकार को एक चित्र बनाने का काम सौंपा गया था।"
+        }
+      ]
+    }
+  ]
+}

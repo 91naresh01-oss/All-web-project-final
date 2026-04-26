@@ -1,0 +1,481 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Weep",
+      "gujaratiPronunciation": "વીપ",
+      "hindiPronunciation": "वीप",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "ડૂસકે ડૂસકે રડવું",
+      "hindiMeaning": "बिलखना",
+      "verbForms": {
+        "v1": {
+          "word": "Weep",
+          "gujaratiPronunciation": "વીપ",
+          "hindiPronunciation": "वीप",
+          "gujaratiMeaning": "ડૂસકે ડૂસકે રડવું",
+          "hindiMeaning": "बिलखना"
+        },
+        "v2": {
+          "word": "Wept",
+          "gujaratiPronunciation": "વેપ્ટ",
+          "hindiPronunciation": "वेpt",
+          "gujaratiMeaning": "ડૂસકે ડૂસકે રડ્યો",
+          "hindiMeaning": "बिलखा"
+        },
+        "v3": {
+          "word": "Wept",
+          "gujaratiPronunciation": "વેપ્ટ",
+          "hindiPronunciation": "वेpt",
+          "gujaratiMeaning": "ડૂસકે ડૂસકે રડેલું",
+          "hindiMeaning": "बिलख चुका"
+        },
+        "v4": {
+          "word": "Weeping",
+          "gujaratiPronunciation": "વીપિંગ",
+          "hindiPronunciation": "वीपिंग",
+          "gujaratiMeaning": "ડૂસકે ડૂસકે રડી રહ્યું છે",
+          "hindiMeaning": "बिलख रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Cry",
+          "gujaratiPronunciation": "ક્રાય",
+          "hindiPronunciation": "क्राइ",
+          "gujaratiMeaning": "રડવું",
+          "hindiMeaning": "रोना"
+        },
+        {
+          "word": "Wail",
+          "gujaratiPronunciation": "વેલ",
+          "hindiPronunciation": "वेल",
+          "gujaratiMeaning": "વિલાપ કરવો",
+          "hindiMeaning": "विलाप करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Rejoice",
+          "gujaratiPronunciation": "રિજોઇસ",
+          "hindiPronunciation": "रिजॉइस",
+          "gujaratiMeaning": "આનંદ કરવો",
+          "hindiMeaning": "आनंद मनाना"
+        },
+        {
+          "word": "Cheer",
+          "gujaratiPronunciation": "ચીયર",
+          "hindiPronunciation": "चीयर",
+          "gujaratiMeaning": "ખુશ થવું",
+          "hindiMeaning": "खुश होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Wipe",
+          "gujaratiPronunciation": "વાઇપ",
+          "hindiPronunciation": "वाइप",
+          "gujaratiMeaning": "લૂછવું",
+          "hindiMeaning": "पोंछना"
+        },
+        {
+          "word": "Veep",
+          "gujaratiPronunciation": "વીપ",
+          "hindiPronunciation": "वीप",
+          "gujaratiMeaning": "ઉપરાષ્ટ્રપતિ",
+          "hindiMeaning": "उपराष्ट्रपति"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She started to weep when she heard the sad news.",
+          "gujaratiPronunciation": "શી સ્ટાર્ટેડ ટુ વીપ વ્હેન શી હર્ડ ધ સેડ ન્યૂઝ.",
+          "hindiPronunciation": "शी स्टार्टेड टु वीप व्हेन शी हर्ड द सैड न्यूज़।",
+          "gujaratiTranslation": "દુઃખદ સમાચાર સાંભળીને તે ડૂસકે ડૂસકે રડવા લાગી.",
+          "hindiTranslation": "दुखद समाचार सुनकर वह बिलखने लगी।"
+        }
+      ]
+    },
+    {
+      "word": "Express",
+      "gujaratiPronunciation": "એક્સપ્રેસ",
+      "hindiPronunciation": "एक्सप्रेस",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "વ્યક્ત કરવું",
+      "hindiMeaning": "व्यक्त करना",
+      "verbForms": {
+        "v1": {
+          "word": "Express",
+          "gujaratiPronunciation": "એક્સપ્રેસ",
+          "hindiPronunciation": "एक्सप्रेस",
+          "gujaratiMeaning": "વ્યક્ત કરવું",
+          "hindiMeaning": "व्यक्त करना"
+        },
+        "v2": {
+          "word": "Expressed",
+          "gujaratiPronunciation": "એક્સપ્રેસ્ડ",
+          "hindiPronunciation": "एक्सप्रेस्ड",
+          "gujaratiMeaning": "વ્યક્ત કર્યું",
+          "hindiMeaning": "व्यक्त किया"
+        },
+        "v3": {
+          "word": "Expressed",
+          "gujaratiPronunciation": "એક્સપ્રેસ્ડ",
+          "hindiPronunciation": "एक्सप्रेस्ड",
+          "gujaratiMeaning": "વ્યક્ત કરેલું",
+          "hindiMeaning": "व्यक्त कर चुका"
+        },
+        "v4": {
+          "word": "Expressing",
+          "gujaratiPronunciation": "એક્સપ્રેસિંગ",
+          "hindiPronunciation": "एक्सप्रेसिंग",
+          "gujaratiMeaning": "વ્યક્ત કરી રહ્યું છે",
+          "hindiMeaning": "व्यक्त कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "State",
+          "gujaratiPronunciation": "સ્ટેટ",
+          "hindiPronunciation": "स्टेट",
+          "gujaratiMeaning": "કહેવું",
+          "hindiMeaning": "बताना"
+        },
+        {
+          "word": "Convey",
+          "gujaratiPronunciation": "કન્વે",
+          "hindiPronunciation": "कन्वे",
+          "gujaratiMeaning": "પહોંચાડવું",
+          "hindiMeaning": "पहुंचाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Suppress",
+          "gujaratiPronunciation": "સપ્રેસ",
+          "hindiPronunciation": "सप्रेस",
+          "gujaratiMeaning": "દબાવવું",
+          "hindiMeaning": "दबाना"
+        },
+        {
+          "word": "Hide",
+          "gujaratiPronunciation": "હાઇડ",
+          "hindiPronunciation": "हाइड",
+          "gujaratiMeaning": "છુપાવવું",
+          "hindiMeaning": "छिपाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Impress",
+          "gujaratiPronunciation": "ઇમ્પ્રેસ",
+          "hindiPronunciation": "इम्प्रेस",
+          "gujaratiMeaning": "પ્રભાવિત કરવું",
+          "hindiMeaning": "प्रभावित करना"
+        },
+        {
+          "word": "Excess",
+          "gujaratiPronunciation": "એક્સેસ",
+          "hindiPronunciation": "एक्सेस",
+          "gujaratiMeaning": "વધારે",
+          "hindiMeaning": "अतिरिक्त"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is important to express your feelings honestly.",
+          "gujaratiPronunciation": "ઇટ ઇઝ ઇમ્પોર્ટન્ટ ટુ એક્સપ્રેસ યોર ફીલિંગ્સ ઓનેસ્ટલી.",
+          "hindiPronunciation": "इट इज़ इम्पॉर्टेंट टु एक्सप्रेस योर फ़ीलिंग्स ऑनेस्ट्ली।",
+          "gujaratiTranslation": "તમારી લાગણીઓને પ્રામાણિકપણે વ્યક્ત કરવી મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "अपनी भावनाओं को ईमानदारी से व्यक्त करना महत्वपूर्ण है।"
+        }
+      ]
+    },
+    {
+      "word": "Vent",
+      "gujaratiPronunciation": "વેન્ટ",
+      "hindiPronunciation": "वेंट",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "ક્રોધ કે લાગણીનો ઉભરો કાઢવો",
+      "hindiMeaning": "क्रोध या भावना निकालना",
+      "verbForms": {
+        "v1": {
+          "word": "Vent",
+          "gujaratiPronunciation": "વેન્ટ",
+          "hindiPronunciation": "वेंट",
+          "gujaratiMeaning": "ઉભરો કાઢવો",
+          "hindiMeaning": "गुस्सा निकालना"
+        },
+        "v2": {
+          "word": "Vented",
+          "gujaratiPronunciation": "વેન્ટેડ",
+          "hindiPronunciation": "वेंटेड",
+          "gujaratiMeaning": "ઉભરો કાઢ્યો",
+          "hindiMeaning": "गुस्सा निकाला"
+        },
+        "v3": {
+          "word": "Vented",
+          "gujaratiPronunciation": "વેન્ટેડ",
+          "hindiPronunciation": "वेंटेड",
+          "gujaratiMeaning": "ઉભરો કાઢેલો",
+          "hindiMeaning": "गुस्सा निकाल चुका"
+        },
+        "v4": {
+          "word": "Venting",
+          "gujaratiPronunciation": "વેન્ટિંગ",
+          "hindiPronunciation": "वेंटिंग",
+          "gujaratiMeaning": "ઉભરો કાઢી રહ્યું છે",
+          "hindiMeaning": "गुस्सा निकाल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Unleash",
+          "gujaratiPronunciation": "અનલીશ",
+          "hindiPronunciation": "अनલીશ",
+          "gujaratiMeaning": "છૂટું મૂકવું",
+          "hindiMeaning": "खोल देना"
+        },
+        {
+          "word": "Release",
+          "gujaratiPronunciation": "રિલીઝ",
+          "hindiPronunciation": "रिलीज़",
+          "gujaratiMeaning": "મુક્ત કરવું",
+          "hindiMeaning": "मुक्त करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Suppress",
+          "gujaratiPronunciation": "સપ્રેસ",
+          "hindiPronunciation": "सप्रेस",
+          "gujaratiMeaning": "દબાવવું",
+          "hindiMeaning": "दबाना"
+        },
+        {
+          "word": "Contain",
+          "gujaratiPronunciation": "કન્ટેન",
+          "hindiPronunciation": "कंटेन",
+          "gujaratiMeaning": "નિયંત્રણમાં રાખવું",
+          "hindiMeaning": "नियंत्रित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Went",
+          "gujaratiPronunciation": "વેન્ટ",
+          "hindiPronunciation": "वेंट",
+          "gujaratiMeaning": "ગયો",
+          "hindiMeaning": "गया"
+        },
+        {
+          "word": "Vein",
+          "gujaratiPronunciation": "વેઇન",
+          "hindiPronunciation": "वेन",
+          "gujaratiMeaning": "નસ",
+          "hindiMeaning": "नस"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He needed to vent his frustration after a tough day.",
+          "gujaratiPronunciation": "હી નીડેડ ટુ વેન્ટ હિઝ ફ્રસ્ટ્રેશન આફ્ટર અ ટફ ડે.",
+          "hindiPronunciation": "ही नीडेड टु वेंट हिज़ फ्रस्ट्रेशन आफ़்டர் अ टफ़ डे।",
+          "gujaratiTranslation": "એક મુશ્કેલ દિવસ પછી તેને તેની હતાશાનો ઉભરો કાઢવાની જરૂર હતી.",
+          "hindiTranslation": "एक कठिन दिन के बाद उसे अपनी हताशा निकालने की ज़रूरत थी।"
+        }
+      ]
+    },
+    {
+      "word": "Groan",
+      "gujaratiPronunciation": "ગ્રોન",
+      "hindiPronunciation": "ग्रोन",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "કણસવું",
+      "hindiMeaning": "कराहना",
+      "verbForms": {
+        "v1": {
+          "word": "Groan",
+          "gujaratiPronunciation": "ગ્રોન",
+          "hindiPronunciation": "ग्रोन",
+          "gujaratiMeaning": "કણસવું",
+          "hindiMeaning": "कराहना"
+        },
+        "v2": {
+          "word": "Groaned",
+          "gujaratiPronunciation": "ગ્રોન્ડ",
+          "hindiPronunciation": "ग्रोन्ड",
+          "gujaratiMeaning": "કણસ્યો",
+          "hindiMeaning": "कराह उठा"
+        },
+        "v3": {
+          "word": "Groaned",
+          "gujaratiPronunciation": "ગ્રોન્ડ",
+          "hindiPronunciation": "ग्रोन्ड",
+          "gujaratiMeaning": "કણસેલું",
+          "hindiMeaning": "कराह चुका"
+        },
+        "v4": {
+          "word": "Groaning",
+          "gujaratiPronunciation": "ગ્રોનિંગ",
+          "hindiPronunciation": "ग्रोनिंग",
+          "gujaratiMeaning": "કણસી રહ્યું છે",
+          "hindiMeaning": "कराह रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Moan",
+          "gujaratiPronunciation": "મોન",
+          "hindiPronunciation": "मोन",
+          "gujaratiMeaning": "આહ ભરવી",
+          "hindiMeaning": "आह भरना"
+        },
+        {
+          "word": "Whimper",
+          "gujaratiPronunciation": "વ્હિમ્પર",
+          "hindiPronunciation": "व्हिम्पर",
+          "gujaratiMeaning": "રડમસ થવું",
+          "hindiMeaning": "सिसकना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Cheer",
+          "gujaratiPronunciation": "ચીયર",
+          "hindiPronunciation": "चीयर",
+          "gujaratiMeaning": "ખુશી વ્યક્ત કરવી",
+          "hindiMeaning": "खुशी मनाना"
+        },
+        {
+          "word": "Delight",
+          "gujaratiPronunciation": "ડિલાઇટ",
+          "hindiPronunciation": "डिलाइट",
+          "gujaratiMeaning": "આનંદ પામવો",
+          "hindiMeaning": "आनंदित होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Grown",
+          "gujaratiPronunciation": "ગ્રોન",
+          "hindiPronunciation": "ग्रोन",
+          "gujaratiMeaning": "વિકસિત",
+          "hindiMeaning": "विकसित"
+        },
+        {
+          "word": "Grain",
+          "gujaratiPronunciation": "ગ્રેઇન",
+          "hindiPronunciation": "ग्रेन",
+          "gujaratiMeaning": "અનાજ",
+          "hindiMeaning": "अनाज"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The injured soldier let out a low groan of pain.",
+          "gujaratiPronunciation": "ધ ઇન્જર્ડ સોલ્જર લેટ આઉટ અ લો ગ્રોન ઓફ પેઇન.",
+          "hindiPronunciation": "द इंजर्ड सोल्जर लेट आउट अ लो ग्रोन ऑफ़ पेन।",
+          "gujaratiTranslation": "ઘાયલ સૈનિકે પીડાથી ધીમો કણસવાનો અવાજ કર્યો.",
+          "hindiTranslation": "घायल सैनिक ने दर्द से धीमी कराह निकाली।"
+        }
+      ]
+    },
+    {
+      "word": "Confess",
+      "gujaratiPronunciation": "કન્ફેસ",
+      "hindiPronunciation": "कन्फ़ेस",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "કબૂલ કરવું",
+      "hindiMeaning": "कबूल करना",
+      "verbForms": {
+        "v1": {
+          "word": "Confess",
+          "gujaratiPronunciation": "કન્ફેસ",
+          "hindiPronunciation": "कन्फ़ेस",
+          "gujaratiMeaning": "કબૂલ કરવું",
+          "hindiMeaning": "कबूल करना"
+        },
+        "v2": {
+          "word": "Confessed",
+          "gujaratiPronunciation": "કન્ફેસ્ડ",
+          "hindiPronunciation": "कन्फ़ेस्ड",
+          "gujaratiMeaning": "કબૂલ કર્યું",
+          "hindiMeaning": "कबूल किया"
+        },
+        "v3": {
+          "word": "Confessed",
+          "gujaratiPronunciation": "કન્ફેસ્ડ",
+          "hindiPronunciation": "कन्फ़ेस्ड",
+          "gujaratiMeaning": "કબૂલ કરેલું",
+          "hindiMeaning": "कबूल कर चुका"
+        },
+        "v4": {
+          "word": "Confessing",
+          "gujaratiPronunciation": "કન્ફેસિંગ",
+          "hindiPronunciation": "कन्फ़ेसिंग",
+          "gujaratiMeaning": "કબૂલ કરી રહ્યું છે",
+          "hindiMeaning": "कबूल कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Admit",
+          "gujaratiPronunciation": "એડમિટ",
+          "hindiPronunciation": "एडमिट",
+          "gujaratiMeaning": "સ્વીકારવું",
+          "hindiMeaning": "स्वीकार करना"
+        },
+        {
+          "word": "Acknowledge",
+          "gujaratiPronunciation": "એક્નોલેજ",
+          "hindiPronunciation": "एक्नॉलेज",
+          "gujaratiMeaning": "માનવું",
+          "hindiMeaning": "मान लेना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Deny",
+          "gujaratiPronunciation": "ડિનાય",
+          "hindiPronunciation": "डिनाइ",
+          "gujaratiMeaning": "ઇનકાર કરવો",
+          "hindiMeaning": "इनकार करना"
+        },
+        {
+          "word": "Conceal",
+          "gujaratiPronunciation": "કન્સીલ",
+          "hindiPronunciation": "कన్સીલ",
+          "gujaratiMeaning": "છુપાવવું",
+          "hindiMeaning": "छिपाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Confuse",
+          "gujaratiPronunciation": "કન્ફ્યુઝ",
+          "hindiPronunciation": "कन्फ़्यूज़",
+          "gujaratiMeaning": "ગૂંચવવું",
+          "hindiMeaning": "उलझाना"
+        },
+        {
+          "word": "Conquest",
+          "gujaratiPronunciation": "કોન્ક્વેસ્ટ",
+          "hindiPronunciation": "कॉन्क्वेस्ट",
+          "gujaratiMeaning": "વિજય",
+          "hindiMeaning": "विजय"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He decided to confess to breaking the vase.",
+          "gujaratiPronunciation": "હી ડિસાઇડેડ ટુ કન્ફેસ ટુ બ્રેકિંગ ધ વાઝ.",
+          "hindiPronunciation": "ही डिसाइडेड टु कन्फ़ेस टु ब्रेकिंग द వాజ్।",
+          "gujaratiTranslation": "તેણે ફૂલદાની તોડવાનું કબૂલ કરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "उसने फूलदान तोड़ने की बात कबूल करने का फैसला किया।"
+        }
+      ]
+    }
+  ]
+}

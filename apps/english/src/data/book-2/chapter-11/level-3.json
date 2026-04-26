@@ -1,0 +1,76 @@
+{
+  "id": "level-3",
+  "title": "Health and Safety 3",
+  "words": [
+    {
+      "word": "Clean",
+      "gujaratiPronunciation": "ક્લીન",
+      "hindiPronunciation": "क्लीन",
+      "gujaratiMeaning": "સ્વચ્છ",
+      "hindiMeaning": "साफ",
+      "exampleSentences": [
+        {
+          "sentence": "Keep your room clean.",
+          "gujaratiTranslation": "તમારો ઓરડો સ્વચ્છ રાખો.",
+          "hindiTranslation": "अपना कमरा साफ रखें।"
+        }
+      ]
+    },
+    {
+      "word": "Wash",
+      "gujaratiPronunciation": "વૉશ",
+      "hindiPronunciation": "वॉश",
+      "gujaratiMeaning": "ધોવું",
+      "hindiMeaning": "धोना",
+      "exampleSentences": [
+        {
+          "sentence": "You should wash your hands before eating.",
+          "gujaratiTranslation": "તમારે ખાતા પહેલા હાથ ધોવા જોઈએ.",
+          "hindiTranslation": "आपको खाने से पहले अपने हाथ धोने चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Brush",
+      "gujaratiPronunciation": "બ્રશ",
+      "hindiPronunciation": "ब्रश",
+      "gujaratiMeaning": "બ્રશ કરવું",
+      "hindiMeaning": "ब्रश करना",
+      "exampleSentences": [
+        {
+          "sentence": "Brush your teeth twice a day.",
+          "gujaratiTranslation": "દિવસમાં બે વાર તમારા દાંત બ્રश કરો.",
+          "hindiTranslation": "दिन में दो बार अपने दांत ब्रश करें।"
+        }
+      ]
+    },
+    {
+      "word": "Rest",
+      "gujaratiPronunciation": "રેસ્ટ",
+      "hindiPronunciation": "रेस्ट",
+      "gujaratiMeaning": "આરામ",
+      "hindiMeaning": "आराम",
+      "exampleSentences": [
+        {
+          "sentence": "The doctor advised him to take rest.",
+          "gujaratiTranslation": "ડૉક્ટરે તેને આરામ કરવાની સલાહ આપી.",
+          "hindiTranslation": "डॉक्टर ने उसे आराम کرنے की सलाह दी।"
+        }
+      ]
+    },
+    {
+      "word": "Sleep",
+      "gujaratiPronunciation": "સ્લીપ",
+      "hindiPronunciation": "स्लीप",
+      "gujaratiMeaning": "ઊંઘ",
+      "hindiMeaning": "नींद",
+      "exampleSentences": [
+        {
+          "sentence": "Good sleep is necessary for health.",
+          "gujaratiTranslation": "સ્વાસ્થ્ય માટે સારી ઊંઘ જરૂરી છે.",
+          "hindiTranslation": "स्वास्थ्य के लिए अच्छी नींद आवश्यक है।"
+        }
+      ]
+    }
+  ]
+}

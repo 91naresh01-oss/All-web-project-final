@@ -1,0 +1,77 @@
+
+{
+  "id": "level-5",
+  "title": "Feelings 5",
+  "words": [
+    {
+      "word": "Excited",
+      "gujaratiPronunciation": "એક્સાઈટેડ",
+      "hindiPronunciation": "एक्साइटेड",
+      "gujaratiMeaning": "ઉત્સાહિત",
+      "hindiMeaning": "उत्साहित",
+      "exampleSentences": [
+        {
+          "sentence": "The children were excited to go to the park.",
+          "gujaratiTranslation": "બાળકો પાર્કમાં જવા માટે ઉત્સાહિત હતા.",
+          "hindiTranslation": "बच्चे पार्क जाने के लिए उत्साहित थे।"
+        }
+      ]
+    },
+    {
+      "word": "Relaxed",
+      "gujaratiPronunciation": "રિલેક્સ્ડ",
+      "hindiPronunciation": "रिलैक्स्ड",
+      "gujaratiMeaning": "આરામદાયક",
+      "hindiMeaning": "शांत",
+      "exampleSentences": [
+        {
+          "sentence": "I feel relaxed after my vacation.",
+          "gujaratiTranslation": "હું મારા વેકેશન પછી આરામદાયક અનુભવું છું.",
+          "hindiTranslation": "मैं अपनी छुट्टी के बाद शांत महसूस कर रहा हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Anxious",
+      "gujaratiPronunciation": "એન્ક્ષિયસ",
+      "hindiPronunciation": "एंक्शियस",
+      "gujaratiMeaning": "ચિંતિત",
+      "hindiMeaning": "चिंतित",
+      "exampleSentences": [
+        {
+          "sentence": "He was anxious about his exam results.",
+          "gujaratiTranslation": "તે તેના પરીક્ષાના પરિણામ વિશે ચિંતિત હતો.",
+          "hindiTranslation": "वह अपनी परीक्षा के परिणामों को लेकर चिंतित था।"
+        }
+      ]
+    },
+    {
+      "word": "Joyful",
+      "gujaratiPronunciation": "જોયફુલ",
+      "hindiPronunciation": "जॉयफुल",
+      "gujaratiMeaning": "આનંદિત",
+      "hindiMeaning": "आनंदित",
+      "exampleSentences": [
+        {
+          "sentence": "It was a joyful occasion.",
+          "gujaratiTranslation": "તે એક આનંદિત પ્રસંગ હતો.",
+          "hindiTranslation": "यह एक आनंदमय अवसर था।"
+        }
+      ]
+    },
+    {
+      "word": "Hopeful",
+      "gujaratiPronunciation": "હોપફુલ",
+      "hindiPronunciation": "होपफुल",
+      "gujaratiMeaning": "આશાવાદી",
+      "hindiMeaning": "आशावान",
+      "exampleSentences": [
+        {
+          "sentence": "I am hopeful for a better future.",
+          "gujaratiTranslation": "હું સારા ભવિષ્ય માટે આશાવાદી છું.",
+          "hindiTranslation": "मैं एक बेहतर भविष्य के लिए आशावान हूँ।"
+        }
+      ]
+    }
+  ]
+}

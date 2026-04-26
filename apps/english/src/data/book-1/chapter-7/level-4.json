@@ -1,0 +1,47 @@
+
+{
+    "id": "level-4",
+    "title": "Insects 4",
+    "words": [
+        {
+            "word": "Centipede",
+            "icon": "🐛",
+            "gujaratiPronunciation": "સેન્ટિપીડ",
+            "hindiPronunciation": "सेंटिपीड",
+            "gujaratiMeaning": "કાનખજૂરો",
+            "hindiMeaning": "कनखजूरा"
+        },
+        {
+            "word": "Cricket",
+            "icon": "🦗",
+            "gujaratiPronunciation": "ક્રિકેટ",
+            "hindiPronunciation": "क्रिकेट",
+            "gujaratiMeaning": "તીતીઘોડો",
+            "hindiMeaning": "झींगुर"
+        },
+        {
+            "word": "Praying Mantis",
+            "icon": "🦗",
+            "gujaratiPronunciation": "પ્રેઇંગ મેન્ટિસ",
+            "hindiPronunciation": "प्रेइंग मैंटिस",
+            "gujaratiMeaning": "પ્રાર્થના કરતો તીતીઘોડો",
+            "hindiMeaning": "बद्धहस्त कीट"
+        },
+        {
+            "word": "Firefly",
+            "icon": "💡",
+            "gujaratiPronunciation": "ફાયરફ્લાય",
+            "hindiPronunciation": "फायरफ्लाई",
+            "gujaratiMeaning": "આગિયો",
+            "hindiMeaning": "जुगनू"
+        },
+        {
+            "word": "Wasp",
+            "icon": "🐝",
+            "gujaratiPronunciation": "વોસ્પ",
+            "hindiPronunciation": "वास्प",
+            "gujaratiMeaning": "ભમરી",
+            "hindiMeaning": "ततैया"
+        }
+    ]
+}

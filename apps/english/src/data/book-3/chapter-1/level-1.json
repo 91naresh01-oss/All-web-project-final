@@ -1,0 +1,395 @@
+{
+  "id": "level-1",
+  "title": "Smart Actions Level 1",
+  "words": [
+    {
+      "word": "Steer",
+      "gujaratiPronunciation": "સ્ટીયર",
+      "hindiPronunciation": "स्टीयर",
+      "gujaratiMeaning": "માર્ગદર્શન આપવું, દોરવું",
+      "hindiMeaning": "मार्गदर्शन करना, चलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Steer",
+          "gujaratiPronunciation": "સ્ટીયર",
+          "hindiPronunciation": "स्टीयर",
+          "gujaratiMeaning": "દોરવું",
+          "hindiMeaning": "चलाना"
+        },
+        "V2 (Past)": {
+          "word": "Steered",
+          "gujaratiPronunciation": "સ્ટીયર્ડ",
+          "hindiPronunciation": "स्टीयरड",
+          "gujaratiMeaning": "દોર્યું",
+          "hindiMeaning": "चलाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Steered",
+          "gujaratiPronunciation": "સ્ટીયર્ડ",
+          "hindiPronunciation": "स्टीयरड",
+          "gujaratiMeaning": "દોરેલું",
+          "hindiMeaning": "चलाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Steering",
+          "gujaratiPronunciation": "સ્ટીયરિંગ",
+          "hindiPronunciation": "स्टीयरिंग",
+          "gujaratiMeaning": "દોરી રહ્યું છે",
+          "hindiMeaning": "चला रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Guide",
+          "gujaratiPronunciation": "ગાઇડ",
+          "hindiPronunciation": "गाइड",
+          "gujaratiMeaning": "માર્ગદર્શન આપવું",
+          "hindiMeaning": "मार्गदर्शन करना"
+        },
+        {
+          "word": "Direct",
+          "gujaratiPronunciation": "ડિરેક્ટ",
+          "hindiPronunciation": "डायरेक्ट",
+          "gujaratiMeaning": "નિર્દેશ આપવો",
+          "hindiMeaning": "निर्देश देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Follow",
+          "gujaratiPronunciation": "ફોલો",
+          "hindiPronunciation": "फॉलो",
+          "gujaratiMeaning": "અનુસરવું",
+          "hindiMeaning": "अनुसरण करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Stare",
+          "gujaratiPronunciation": "સ્ટેર",
+          "hindiPronunciation": "स्टेयर",
+          "gujaratiMeaning": "તાકીને જોવું",
+          "hindiMeaning": "घूरना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He steered the car carefully through the narrow street.",
+          "gujaratiPronunciation": "હી સ્ટીયર્ડ ધ કાર કેરફુલી થ્રુ ધ નેરો સ્ટ્રીટ.",
+          "hindiPronunciation": "ही स्टीयरड द कार केयरफुली थ्रू द नैरो स्ट्रीट।",
+          "gujaratiTranslation": "તેણે સાંકડી ગલીમાંથી કાળજીપૂર્વક કાર ચલાવી.",
+          "hindiTranslation": "उसने संकरी गली से सावधानीपूर्वक कार चलाई।"
+        }
+      ]
+    },
+    {
+      "word": "Scale",
+      "gujaratiPronunciation": "સ્કેલ",
+      "hindiPronunciation": "स्केल",
+      "gujaratiMeaning": "માપવું, વધારવું",
+      "hindiMeaning": "मापना, बढ़ाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Scale",
+          "gujaratiPronunciation": "સ્કેલ",
+          "hindiPronunciation": "स्केल",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        },
+        "V2 (Past)": {
+          "word": "Scaled",
+          "gujaratiPronunciation": "સ્કેલ્ડ",
+          "hindiPronunciation": "स्केल्ड",
+          "gujaratiMeaning": "માપ્યું",
+          "hindiMeaning": "मापा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Scaled",
+          "gujaratiPronunciation": "સ્કેલ્ડ",
+          "hindiPronunciation": "स्केल्ड",
+          "gujaratiMeaning": "માપેલું",
+          "hindiMeaning": "मापा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Scaling",
+          "gujaratiPronunciation": "સ્કેલિંગ",
+          "hindiPronunciation": "स्केलिंग",
+          "gujaratiMeaning": "માપી રહ્યું છે",
+          "hindiMeaning": "माप रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Climb",
+          "gujaratiPronunciation": "ક્લાઇમ્બ",
+          "hindiPronunciation": "क्लाइंब",
+          "gujaratiMeaning": "ચઢવું",
+          "hindiMeaning": "चढ़ना"
+        },
+        {
+          "word": "Measure",
+          "gujaratiPronunciation": "મેઝર",
+          "hindiPronunciation": "मेज़र",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Descend",
+          "gujaratiPronunciation": "ડિસેન્ડ",
+          "hindiPronunciation": "डिसेंड",
+          "gujaratiMeaning": "ઉતરવું",
+          "hindiMeaning": "उतरना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sale",
+          "gujaratiPronunciation": "સેલ",
+          "hindiPronunciation": "सेल",
+          "gujaratiMeaning": "વેચાણ",
+          "hindiMeaning": "बिक्री"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company plans to scale its operations next year.",
+          "gujaratiPronunciation": "ધ કંપની પ્લાન્સ ટુ સ્કેલ ઇટ્સ ઓપરેશન્સ નેક્સ્ટ યર.",
+          "hindiPronunciation": "द कंपनी प्लांस टू स्केल इट्स ऑपरेशंस नेक्स्ट ईयर।",
+          "gujaratiTranslation": "કંપની આવતા વર્ષે તેની કામગીરીને વિસ્તારવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "कंपनी अगले साल अपने परिचालन को बढ़ाने की योजना बना रही है।"
+        }
+      ]
+    },
+    {
+      "word": "Glide",
+      "gujaratiPronunciation": "ગ્લાઇડ",
+      "hindiPronunciation": "ग्लाइड",
+      "gujaratiMeaning": "સરકવું, શાંતિથી પસાર થવું",
+      "hindiMeaning": "सरकना, शांति से गुजरना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Glide",
+          "gujaratiPronunciation": "ગ્લાઇડ",
+          "hindiPronunciation": "ग्लाइड",
+          "gujaratiMeaning": "સરકવું",
+          "hindiMeaning": "सरकना"
+        },
+        "V2 (Past)": {
+          "word": "Glided",
+          "gujaratiPronunciation": "ગ્લાઈડેડ",
+          "hindiPronunciation": "ग्लाइडेड",
+          "gujaratiMeaning": "સરક્યું",
+          "hindiMeaning": "सरका"
+        },
+        "V3 (Past Participle)": {
+          "word": "Glided",
+          "gujaratiPronunciation": "ગ્લાઈડેડ",
+          "hindiPronunciation": "ग्लाइडेड",
+          "gujaratiMeaning": "સરકેલું",
+          "hindiMeaning": "सरका हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Gliding",
+          "gujaratiPronunciation": "ગ્લાઇડિંગ",
+          "hindiPronunciation": "ग्लाइडिंग",
+          "gujaratiMeaning": "સરકી રહ્યું છે",
+          "hindiMeaning": "सरक रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Slide",
+          "gujaratiPronunciation": "સ્લાઇડ",
+          "hindiPronunciation": "स्लाइड",
+          "gujaratiMeaning": "લપસવું",
+          "hindiMeaning": "फिसलना"
+        },
+        {
+          "word": "Soar",
+          "gujaratiPronunciation": "સોર",
+          "hindiPronunciation": "सोर",
+          "gujaratiMeaning": "ઊંચે ઉડવું",
+          "hindiMeaning": "ऊंची उड़ान भरना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Struggle",
+          "gujaratiPronunciation": "સ્ટ્રગલ",
+          "hindiPronunciation": "स्ट्रगल",
+          "gujaratiMeaning": "સંઘર્ષ કરવો",
+          "hindiMeaning": "संघर्ष करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Glad",
+          "gujaratiPronunciation": "ગ્લેડ",
+          "hindiPronunciation": "ग्लैड",
+          "gujaratiMeaning": "ખુશ",
+          "hindiMeaning": "प्रसन्न"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The eagle can glide effortlessly on the wind.",
+          "gujaratiPronunciation": "ધ ઇગલ કેન ગ્લાઇડ એફર્ટલેસલી ઓન ધ વિન્ડ.",
+          "hindiPronunciation": "द ईगल कैन ग्लाइड एफर्टलेसली ऑन ద విండ్।",
+          "gujaratiTranslation": "ગરુડ પવન પર વિના પ્રયાસે સરકી શકે છે.",
+          "hindiTranslation": "बाज हवा पर आसानी से सरक सकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Target",
+      "gujaratiPronunciation": "ટાર્ગેટ",
+      "hindiPronunciation": "टारगेट",
+      "gujaratiMeaning": "લક્ષ્ય બનાવવું",
+      "hindiMeaning": "लक्ष्य बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Target",
+          "gujaratiPronunciation": "ટાર્ગેટ",
+          "hindiPronunciation": "टारगेट",
+          "gujaratiMeaning": "લક્ષ્ય બનાવવું",
+          "hindiMeaning": "लक्ष्य बनाना"
+        },
+        "V2 (Past)": {
+          "word": "Targeted",
+          "gujaratiPronunciation": "ટાર્ગેટેડ",
+          "hindiPronunciation": "टारगेटेड",
+          "gujaratiMeaning": "લક્ષ્ય બનાવ્યું",
+          "hindiMeaning": "लक्ष्य बनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Targeted",
+          "gujaratiPronunciation": "ટાર્ગેટેડ",
+          "hindiPronunciation": "टारगेटेड",
+          "gujaratiMeaning": "લક્ષ્ય બનાવેલું",
+          "hindiMeaning": "लक्ष्य बनाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Targeting",
+          "gujaratiPronunciation": "ટાર્ગેટિંગ",
+          "hindiPronunciation": "टारगेटिंग",
+          "gujaratiMeaning": "લક્ષ્ય બનાવી રહ્યું છે",
+          "hindiMeaning": "लक्ष्य बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Aim",
+          "gujaratiPronunciation": "એમ",
+          "hindiPronunciation": "एम",
+          "gujaratiMeaning": "ધ્યેય રાખવો",
+          "hindiMeaning": "उद्देश्य रखना"
+        },
+        {
+          "word": "Focus",
+          "gujaratiPronunciation": "ફોકસ",
+          "hindiPronunciation": "फोकस",
+          "gujaratiMeaning": "ધ્યાન કેન્દ્રિત કરવું",
+          "hindiMeaning": "ध्यान केंद्रित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણના કરવી",
+          "hindiMeaning": "अनदेखा करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The marketing campaign will target young adults.",
+          "gujaratiPronunciation": "ધ માર્કેટિંગ કેમ્પેન વિલ ટાર્ગેટ યંગ એડલ્ટ્સ.",
+          "hindiPronunciation": "द मार्केटिंग कैंपेन विल टारगेट यंग एडल्ट्स।",
+          "gujaratiTranslation": "માર્કેટિંગ ઝુંબેશ યુવાન પુખ્ત વયના લોકોને લક્ષ્ય બનાવશે.",
+          "hindiTranslation": "मार्केटिंग अभियान युवा वयस्कों को लक्षित करेगा।"
+        }
+      ]
+    },
+    {
+      "word": "Sway",
+      "gujaratiPronunciation": "સ્વે",
+      "hindiPronunciation": "स्वे",
+      "gujaratiMeaning": "ઝૂલવું, પ્રભાવિત કરવું",
+      "hindiMeaning": "झूलना, प्रभावित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Sway",
+          "gujaratiPronunciation": "સ્વે",
+          "hindiPronunciation": "स्वे",
+          "gujaratiMeaning": "ઝૂલવું",
+          "hindiMeaning": "झूलना"
+        },
+        "V2 (Past)": {
+          "word": "Swayed",
+          "gujaratiPronunciation": "સ્વેડ",
+          "hindiPronunciation": "स्वेड",
+          "gujaratiMeaning": "ઝૂલ્યું",
+          "hindiMeaning": "झूला"
+        },
+        "V3 (Past Participle)": {
+          "word": "Swayed",
+          "gujaratiPronunciation": "સ્વેડ",
+          "hindiPronunciation": "स्वेड",
+          "gujaratiMeaning": "ઝૂલેલું",
+          "hindiMeaning": "झूला हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Swaying",
+          "gujaratiPronunciation": "સ્વેઇંગ",
+          "hindiPronunciation": "स्वेइंग",
+          "gujaratiMeaning": "ઝૂલી રહ્યું છે",
+          "hindiMeaning": "झूल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Swing",
+          "gujaratiPronunciation": "સ્વિંગ",
+          "hindiPronunciation": "स्विंग",
+          "gujaratiMeaning": "હિંચકવું",
+          "hindiMeaning": "झूलना"
+        },
+        {
+          "word": "Influence",
+          "gujaratiPronunciation": "ઇન્ફ્લુઅન્સ",
+          "hindiPronunciation": "इन्फ्लुएंस",
+          "gujaratiMeaning": "પ્રભાવ પાડવો",
+          "hindiMeaning": "प्रभाव डालना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Remain",
+          "gujaratiPronunciation": "રિમેન",
+          "hindiPronunciation": "रिमेन",
+          "gujaratiMeaning": "સ્થિર રહેવું",
+          "hindiMeaning": "स्थिर रहना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The tall trees were swaying in the wind.",
+          "gujaratiPronunciation": "ધ ટોલ ટ્રીઝ વર સ્વેઇંગ ઇન ધ વિન્ડ.",
+          "hindiPronunciation": "द टॉल ट्रीज वर स्वेइंग इन द विंड।",
+          "gujaratiTranslation": "ઊંચા વૃક્ષો પવનમાં ઝૂલી રહ્યા હતા.",
+          "hindiTranslation": "ऊंचे पेड़ हवा में झूल रहे थे।"
+        }
+      ]
+    }
+  ]
+}

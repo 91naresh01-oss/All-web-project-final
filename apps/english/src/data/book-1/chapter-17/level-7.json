@@ -1,0 +1,11 @@
+{
+    "id": "level-7",
+    "title": "Physical Actions",
+    "words": [
+        { "word": "Throw", "icon": "⚾", "gujaratiMeaning": "ફેંકવું", "hindiMeaning": "फेंकना", "gujaratiPronunciation": "થ્રો", "hindiPronunciation": "थ्रो" },
+        { "word": "Catch", "icon": "🤲", "gujaratiMeaning": "પકડવું", "hindiMeaning": "पकड़ना", "gujaratiPronunciation": "કેચ", "hindiPronunciation": "कैच" },
+        { "word": "Hold", "icon": "✊", "gujaratiMeaning": "પકડી રાખવું", "hindiMeaning": "पकड़ना", "gujaratiPronunciation": "હોલ્ડ", "hindiPronunciation": "होल्ड" },
+        { "word": "Push", "icon": "💪", "gujaratiMeaning": "ધક્કો મારવો", "hindiMeaning": "धक्का देना", "gujaratiPronunciation": "પુશ", "hindiPronunciation": "पुશ" },
+        { "word": "Pull", "icon": "🏋️", "gujaratiMeaning": "ખેંચવું", "hindiMeaning": "खींचना", "gujaratiPronunciation": "પુલ", "hindiPronunciation": "पुल" }
+    ]
+}

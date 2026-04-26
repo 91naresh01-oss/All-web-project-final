@@ -1,0 +1,311 @@
+{
+  "id": "conjunctions-hi",
+  "title": "Conjunctions (संयोजक)",
+  "lang": "hi",
+  "description": "Conjunctions वे शब्द हैं जो दो या अधिक शब्दों, phrases या clauses को जोड़ते हैं। Con (together) + Junction (join) = Together Join = साथ जोड़ना।",
+  "content": [
+    {
+      "type": "section",
+      "title": "📚 What is Conjunction? (Conjunction क्या है?)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>Con</b> (साथ) + <b>Junction</b> (जोड़) = <b>Conjunction</b> = शब्दों, phrases या clauses को <b>जोड़ने वाला शब्द</b>।"
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Coordinating Conjunctions:</b> समान स्तर के भागों को जोड़ते हैं (FANBOYS)।",
+            "<b>Subordinating Conjunctions:</b> Main clause और Subordinate clause जोड़ते हैं।",
+            "<b>Correlative Conjunctions:</b> जोड़े में प्रयोग होते हैं (Either...or, Neither...nor)।",
+            "<b>Conjunctive Adverbs:</b> दो वाक्यों को जोड़ते हैं (However, Therefore, Moreover)।"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔗 Coordinating Conjunctions (FANBOYS)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "ये संयोजक <b>समान व्याकरणिक स्तर</b> के भागों को जोड़ते हैं। याद रखें: <b>FANBOYS</b> = For, And, Nor, But, Or, Yet, So।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🎯 FANBOYS Conjunctions",
+            "headers": ["Conjunction", "अर्थ", "Example", "हिंदी"],
+            "rows": [
+              ["<b>For</b>", "क्योंकि", "I must go, <b>for</b> I am late.", "मुझे जाना होगा, <b>क्योंकि</b> मुझे देर हो रही है।"],
+              ["<b>And</b>", "और", "He is smart <b>and</b> handsome.", "वह होशियार <b>और</b> सुंदर है।"],
+              ["<b>Nor</b>", "न ही", "He doesn't smoke, <b>nor</b> does he drink.", "वह धूम्रपान नहीं करता, <b>न ही</b> शराब पीता है।"],
+              ["<b>But</b>", "लेकिन / परंतु", "She is poor <b>but</b> honest.", "वह गरीब है <b>लेकिन</b> ईमानदार है।"],
+              ["<b>Or</b>", "या / अथवा", "Tea <b>or</b> coffee?", "चाय <b>या</b> कॉफ़ी?"],
+              ["<b>Yet</b>", "फिर भी", "He is rich, <b>yet</b> unhappy.", "वह अमीर है, <b>फिर भी</b> दुखी है।"],
+              ["<b>So</b>", "इसलिए / अतः", "It rained, <b>so</b> I took umbrella.", "बारिश हुई, <b>इसलिए</b> मैंने छाता लिया।"]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Rule:</b> FANBOYS से पहले comma (,) लगाएं।<br>✅ I like tea, <b>but</b> he likes coffee.<br>❌ I like tea but he likes coffee."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📎 Subordinating Conjunctions (आश्रित संयोजक)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "ये संयोजक <b>Main Clause</b> और <b>Subordinate Clause</b> को जोड़ते हैं।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "⏰ Time Conjunctions (समय)",
+            "headers": ["Conjunction", "अर्थ", "Example", "हिंदी"],
+            "rows": [
+              ["<b>When</b>", "जब", "<b>When</b> I called, he was sleeping.", "<b>जब</b> मैंने फोन किया, वह सो रहा था।"],
+              ["<b>While</b>", "जब/जबकि", "<b>While</b> I cook, she reads.", "<b>जब</b> मैं खाना बनाता हूँ, वह पढ़ती है।"],
+              ["<b>Before</b>", "पहले", "Think <b>before</b> you speak.", "बोलने से <b>पहले</b> सोचो।"],
+              ["<b>After</b>", "बाद में", "He came <b>after</b> I left.", "मेरे जाने के <b>बाद</b> वह आया।"],
+              ["<b>Until / Till</b>", "तक", "Wait <b>until</b> I return.", "मेरे लौटने <b>तक</b> रुको।"],
+              ["<b>Since</b>", "जबसे / क्योंकि", "I have waited <b>since</b> morning.", "मैं सुबह <b>से</b> इंतजार कर रहा हूँ।"],
+              ["<b>As soon as</b>", "जैसे ही", "<b>As soon as</b> he came, we left.", "<b>जैसे ही</b> वह आया, हम चले गए।"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "💡 Cause/Reason Conjunctions (कारण)",
+            "headers": ["Conjunction", "अर्थ", "Example", "हिंदी"],
+            "rows": [
+              ["<b>Because</b>", "क्योंकि", "I'm happy <b>because</b> you came.", "मैं खुश हूँ <b>क्योंकि</b> तुम आए।"],
+              ["<b>Since</b>", "क्योंकि", "<b>Since</b> it was hot, I stayed home.", "<b>क्योंकि</b> गर्मी थी, मैं घर पर रहा।"],
+              ["<b>As</b>", "क्योंकि", "<b>As</b> he was ill, he didn't come.", "<b>क्योंकि</b> वह बीमार था, वह नहीं आया।"],
+              ["<b>Now that</b>", "अब जबकि", "<b>Now that</b> you're here, let's start.", "<b>अब जबकि</b> तुम यहाँ हो, शुरू करते हैं।"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "⚖️ Condition Conjunctions (शर्त)",
+            "headers": ["Conjunction", "अर्थ", "Example", "हिंदी"],
+            "rows": [
+              ["<b>If</b>", "अगर / यदि", "<b>If</b> you study, you will pass.", "<b>अगर</b> तुम पढ़ोगे, तो पास होगे।"],
+              ["<b>Unless</b>", "जब तक नहीं", "You can't enter <b>unless</b> you have ticket.", "टिकट <b>बिना</b> प्रवेश नहीं मिलेगा।"],
+              ["<b>Provided that</b>", "बशर्ते कि", "I'll come <b>provided that</b> you invite.", "तुम बुलाओ <b>तो ही</b> मैं आऊँगा।"],
+              ["<b>As long as</b>", "जब तक", "Stay <b>as long as</b> you want.", "<b>जब तक</b> रहना हो रहो।"],
+              ["<b>In case</b>", "अगर / यदि", "Take umbrella <b>in case</b> it rains.", "बारिश हो <b>तो</b> छाता लो।"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Contrast Conjunctions (विरोध)",
+            "headers": ["Conjunction", "अर्थ", "Example", "हिंदी"],
+            "rows": [
+              ["<b>Although / Though</b>", "हालांकि / यद्यपि", "<b>Although</b> he is rich, he is humble.", "<b>हालांकि</b> वह अमीर है, वह विनम्र है।"],
+              ["<b>Even though</b>", "होने के बावजूद", "<b>Even though</b> tired, he worked.", "थके <b>होने के बावजूद</b> उसने काम किया।"],
+              ["<b>Whereas</b>", "जबकि", "He is tall <b>whereas</b> she is short.", "वह लंबा है <b>जबकि</b> वह छोटी है।"],
+              ["<b>While</b>", "जबकि", "I like tea <b>while</b> he likes coffee.", "मुझे चाय पसंद है <b>जबकि</b> उसे कॉफ़ी।"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🎯 Purpose Conjunctions (उद्देश्य)",
+            "headers": ["Conjunction", "अर्थ", "Example", "हिंदी"],
+            "rows": [
+              ["<b>So that</b>", "ताकि", "Study hard <b>so that</b> you pass.", "<b>ताकि</b> पास हो, मेहनत करो।"],
+              ["<b>In order that</b>", "इसलिए कि", "He saved <b>in order that</b> he could buy a house.", "घर खरीदने <b>के लिए</b> उसने बचत की।"],
+              ["<b>Lest</b>", "कहीं ऐसा न हो", "Work hard <b>lest</b> you should fail.", "मेहनत करो <b>कहीं</b> फेल न हो जाओ।"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "👯 Correlative Conjunctions (जोड़ी संयोजक)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "ये संयोजक <b>जोड़े में</b> प्रयोग होते हैं और वाक्य के दो भागों को <b>संतुलित</b> करते हैं।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "👥 Correlative Pairs",
+            "headers": ["Pair", "अर्थ", "Example", "हिंदी"],
+            "rows": [
+              ["<b>Both...and</b>", "दोनों...और", "<b>Both</b> Ram <b>and</b> Shyam came.", "<b>दोनों</b> राम <b>और</b> श्याम आए।"],
+              ["<b>Either...or</b>", "या तो...या", "<b>Either</b> tea <b>or</b> coffee.", "<b>या तो</b> चाय <b>या</b> कॉफ़ी।"],
+              ["<b>Neither...nor</b>", "न...न", "<b>Neither</b> he <b>nor</b> I know.", "<b>न</b> वह जानता है <b>न</b> मैं।"],
+              ["<b>Not only...but also</b>", "न केवल...बल्कि", "He is <b>not only</b> smart <b>but also</b> kind.", "वह <b>न केवल</b> होशियार है, <b>बल्कि</b> दयालु भी है।"],
+              ["<b>Whether...or</b>", "चाहे...या", "<b>Whether</b> you come <b>or</b> not, I'll go.", "<b>चाहे</b> तुम आओ <b>या</b> न आओ, मैं जाऊँगा।"],
+              ["<b>No sooner...than</b>", "जैसे ही...वैसे ही", "<b>No sooner</b> did I reach <b>than</b> it rained.", "<b>जैसे ही</b> मैं पहुँचा <b>वैसे ही</b> बारिश हुई।"],
+              ["<b>Hardly/Scarcely...when</b>", "मुश्किल से...तभी", "<b>Hardly</b> had I slept <b>when</b> phone rang.", "<b>मुश्किल से</b> मैं सोया <b>तभी</b> फोन बजा।"],
+              ["<b>The more...the more</b>", "जितना ज्यादा...उतना ज्यादा", "<b>The more</b> you read, <b>the more</b> you learn.", "<b>जितना ज्यादा</b> पढ़ो, <b>उतना ज्यादा</b> सीखो।"]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Subject-Verb Agreement:</b><br>• <b>Both...and</b> = Plural verb (Both Ram <b>and</b> Shyam <b>are</b> here.)<br>• <b>Either...or / Neither...nor</b> = Verb agrees with <b>nearest subject</b> (Neither he <b>nor</b> I <b>am</b> wrong.)"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📌 Conjunctive Adverbs",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "ये शब्द दो <b>independent clauses</b> को जोड़ते हैं और इनके बीच <b>semicolon (;)</b> लगता है।"
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "➕ Conjunctive Adverbs",
+            "headers": ["Adverb", "अर्थ", "Example", "हिंदी"],
+            "rows": [
+              ["<b>However</b>", "हालांकि / फिर भी", "He tried; <b>however</b>, he failed.", "उसने कोशिश की; <b>फिर भी</b> वह फेल हुआ।"],
+              ["<b>Therefore</b>", "इसलिए", "He studied; <b>therefore</b>, he passed.", "उसने पढ़ा; <b>इसलिए</b> पास हुआ।"],
+              ["<b>Moreover</b>", "इसके अलावा", "He is smart; <b>moreover</b>, he is kind.", "वह होशियार है; <b>इसके अलावा</b> दयालु है।"],
+              ["<b>Furthermore</b>", "इसके अलावा", "It's cheap; <b>furthermore</b>, it's good.", "यह सस्ता है; <b>इसके अलावा</b> अच्छा है।"],
+              ["<b>Nevertheless</b>", "फिर भी", "He's tired; <b>nevertheless</b>, he works.", "वह थका है; <b>फिर भी</b> काम करता है।"],
+              ["<b>Otherwise</b>", "नहीं तो", "Study; <b>otherwise</b> you'll fail.", "पढ़ो; <b>नहीं तो</b> फेल होगे।"],
+              ["<b>Meanwhile</b>", "इस बीच", "Wait; <b>meanwhile</b>, I'll check.", "रुको; <b>इस बीच</b> मैं देखता हूँ।"],
+              ["<b>Instead</b>", "के बजाय", "Don't cry; <b>instead</b>, try again.", "मत रोओ; <b>के बजाय</b> फिर कोशिश करो।"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "⚠️ Confusing Conjunctions (भ्रामक संयोजक)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 When vs While",
+            "headers": ["Conjunction", "कब प्रयोग?", "Example", "समझ"],
+            "rows": [
+              ["<b>When</b>", "Short action / Point of time", "<b>When</b> I entered, he left.", "एक घटना हुई (प्रवेश) तब दूसरी हुई।"],
+              ["<b>While</b>", "Long/Continuous action", "<b>While</b> I was reading, he came.", "एक क्रिया चल रही थी (पढ़ना) तब दूसरी हुई।"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Until vs Unless",
+            "headers": ["Conjunction", "अर्थ", "Example", "गलत प्रयोग"],
+            "rows": [
+              ["<b>Until</b>", "तक (Time)", "Wait <b>until</b> I come.", "❌ Wait unless I come."],
+              ["<b>Unless</b>", "जब तक नहीं (Condition)", "You can't pass <b>unless</b> you study.", "❌ You can't pass until you study."]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Although vs Though vs Even though",
+            "headers": ["Conjunction", "Formality", "Example", "समझ"],
+            "rows": [
+              ["<b>Although</b>", "Formal", "<b>Although</b> tired, he worked.", "Formal writing के लिए।"],
+              ["<b>Though</b>", "Informal", "He came, <b>though</b> he was ill.", "रोज़मर्रा बातचीत में; वाक्य के अंत में भी आ सकता है।"],
+              ["<b>Even though</b>", "Strong contrast", "<b>Even though</b> poor, he helped others.", "बहुत मजबूत विरोध दर्शाता है।"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Because vs Since vs As (Cause)",
+            "headers": ["Conjunction", "कब प्रयोग?", "Example"],
+            "rows": [
+              ["<b>Because</b>", "मुख्य कारण (Important reason)", "I'm late <b>because</b> of traffic."],
+              ["<b>Since</b>", "ज्ञात कारण (Known reason)", "<b>Since</b> you're here, let's start."],
+              ["<b>As</b>", "कम महत्वपूर्ण कारण", "<b>As</b> it was raining, I stayed home."]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 So vs So that",
+            "headers": ["Conjunction", "अर्थ", "Example", "समझ"],
+            "rows": [
+              ["<b>So</b>", "इसलिए (Result)", "It rained, <b>so</b> I got wet.", "परिणाम दर्शाता है।"],
+              ["<b>So that</b>", "ताकि (Purpose)", "I study hard <b>so that</b> I pass.", "उद्देश्य दर्शाता है।"]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 But vs However vs Yet",
+            "headers": ["Word", "Type", "Example", "Usage"],
+            "rows": [
+              ["<b>But</b>", "Conjunction", "He's poor <b>but</b> honest.", "वाक्य जोड़ने के लिए (comma के साथ)।"],
+              ["<b>However</b>", "Adverb", "He tried; <b>however</b>, he failed.", "Semicolon और comma के साथ।"],
+              ["<b>Yet</b>", "Conjunction/Adverb", "Rich, <b>yet</b> unhappy.", "But जैसा ही, लेकिन formal।"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "❌ Common Mistakes (सामान्य गलतियाँ)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "🚫 इन गलतियों से बचें",
+            "headers": ["❌ गलत", "✅ सही", "Explanation"],
+            "rows": [
+              ["<b>Although</b> he is poor, <b>but</b> he is honest.", "<b>Although</b> he is poor, he is honest.", "Although/Though के साथ But नहीं लगाएं।"],
+              ["<b>Because</b> of he was ill, he didn't come.", "<b>Because</b> he was ill, he didn't come.", "Because of + Noun; Because + Clause."],
+              ["<b>Unless</b> you don't study, you will fail.", "<b>Unless</b> you study, you will fail.", "Unless = If not (पहले से negative)."],
+              ["I will wait <b>unless</b> you come.", "I will wait <b>until</b> you come.", "Until = Time; Unless = Condition."],
+              ["He is <b>both</b> smart <b>as well as</b> kind.", "He is <b>both</b> smart <b>and</b> kind.", "Both...and = सही जोड़ी।"],
+              ["<b>No sooner</b> I reached <b>when</b> it rained.", "<b>No sooner</b> did I reach <b>than</b> it rained.", "No sooner...than (with inversion)."],
+              ["<b>Hardly</b> I slept <b>than</b> phone rang.", "<b>Hardly</b> had I slept <b>when</b> phone rang.", "Hardly/Scarcely...when."]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>याद रखें:</b><br>• <b>Although/Though/Even though</b> + <b>But</b> = ❌<br>• <b>Unless</b> + <b>Not</b> = ❌<br>• <b>No sooner...than</b> (not when)<br>• <b>Hardly/Scarcely...when</b> (not than)"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📝 Summary (सारांश)",
+      "content": [
+        {
+          "type": "list",
+          "content": [
+            "<b>Coordinating (FANBOYS):</b> For, And, Nor, But, Or, Yet, So - समान भाग जोड़ते हैं।",
+            "<b>Subordinating:</b> Because, If, When, While, Although, Unless - Main + Subordinate clause.",
+            "<b>Correlative:</b> Both...and, Either...or, Neither...nor, Not only...but also - जोड़े में।",
+            "<b>Conjunctive Adverbs:</b> However, Therefore, Moreover - Semicolon के साथ।",
+            "<b>Confusing:</b> When (point) vs While (duration), Until (time) vs Unless (condition).",
+            "<b>Mistakes:</b> Although + but ❌, Unless + not ❌, No sooner...when ❌."
+          ]
+        }
+      ]
+    }
+  ]
+}

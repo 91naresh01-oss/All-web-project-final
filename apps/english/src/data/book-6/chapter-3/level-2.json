@@ -1,0 +1,153 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Conceal",
+      "gujaratiPronunciation": "કન્સીલ",
+      "hindiPronunciation": "कंसील",
+      "gujaratiMeaning": "છુપાવવું",
+      "hindiMeaning": "छिपाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        "V2 (Past)": { "word": "Concealed", "gujaratiPronunciation": "કન્સીલ્ડ", "hindiPronunciation": "कंसील्ड", "gujaratiMeaning": "છુપાવ્યું", "hindiMeaning": "छिपाया" },
+        "V3 (Past Participle)": { "word": "Concealed", "gujaratiPronunciation": "કન્સીલ્ડ", "hindiPronunciation": "कंसील्ड", "gujaratiMeaning": "છુપાવેલું", "hindiMeaning": "छिपाया हुआ" },
+        "V4 (Present Participle)": { "word": "Concealing", "gujaratiPronunciation": "કન્સીલિંગ", "hindiPronunciation": "कंसीलिंग", "gujaratiMeaning": "છુપાવી રહ્યું છે", "hindiMeaning": "छिपा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        { "word": "Mask", "gujaratiPronunciation": "માસ્ક", "hindiPronunciation": "मास्क", "gujaratiMeaning": "મહોરું પહેરાવવું", "hindiMeaning": "नकाब लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+        { "word": "Expose", "gujaratiPronunciation": "એક્સપોઝ", "hindiPronunciation": "एक्सपोज़", "gujaratiMeaning": "ખુલ્લું પાડવું", "hindiMeaning": "खुला करना" }
+      ],
+      "confusingWords": [
+        { "word": "Cancel", "gujaratiPronunciation": "કેન્સલ", "hindiPronunciation": "कैंसल", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" },
+        { "word": "Council", "gujaratiPronunciation": "કાઉન્સિલ", "hindiPronunciation": "काउंसिल", "gujaratiMeaning": "પરિષદ", "hindiMeaning": "परिषद" }
+      ],
+      "exampleSentences": [
+        { "sentence": "He tried to conceal the truth from his parents.", "gujaratiPronunciation": "હી ટ્રાઇડ ટુ કન્સીલ ધ ટ્રુથ ફ્રોમ હિઝ પેરેન્ટ્સ.", "hindiPronunciation": "ही ट्राइड टू कंसील द ट्रुथ फ्रॉम हिज़ पेरेंट्स।", "gujaratiTranslation": "તેણે તેના માતાપિતાથી સત્ય છુપાવવાનો પ્રયાસ કર્યો.", "hindiTranslation": "उसने अपने माता-पिता से सच छिपाने की कोशिश की।" }
+      ]
+    },
+    {
+      "word": "Expose",
+      "gujaratiPronunciation": "એક્સપોઝ",
+      "hindiPronunciation": "एक्सपोज़",
+      "gujaratiMeaning": "ખુલ્લું પાડવું",
+      "hindiMeaning": "खुला करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Expose", "gujaratiPronunciation": "એક્સપોઝ", "hindiPronunciation": "एक्सपोज़", "gujaratiMeaning": "ખુલ્લું પાડવું", "hindiMeaning": "खुला करना" },
+        "V2 (Past)": { "word": "Exposed", "gujaratiPronunciation": "એક્સપોઝ્ડ", "hindiPronunciation": "एक्सपोज़्ड", "gujaratiMeaning": "ખુલ્લું પાડ્યું", "hindiMeaning": "खुला किया" },
+        "V3 (Past Participle)": { "word": "Exposed", "gujaratiPronunciation": "એક્સપોઝ્ડ", "hindiPronunciation": "एक्सपोज़्ड", "gujaratiMeaning": "ખુલ્લું પાડેલું", "hindiMeaning": "खुला किया हुआ" },
+        "V4 (Present Participle)": { "word": "Exposing", "gujaratiPronunciation": "એક્સપોઝિંગ", "hindiPronunciation": "एक्सपोज़िंग", "gujaratiMeaning": "ખુલ્લું પાડી રહ્યું છે", "hindiMeaning": "खुला कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+        { "word": "Uncover", "gujaratiPronunciation": "અનકવર", "hindiPronunciation": "अनकवर", "gujaratiMeaning": "ઉઘાડું પાડવું", "hindiMeaning": "उजागर करना" }
+      ],
+      "antonyms": [
+        { "word": "Cover", "gujaratiPronunciation": "કવર", "hindiPronunciation": "कवर", "gujaratiMeaning": "ઢાંકવું", "hindiMeaning": "ढकना" },
+        { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Expense", "gujaratiPronunciation": "એક્સપેન્સ", "hindiPronunciation": "एक्सपेंस", "gujaratiMeaning": "ખર્ચ", "hindiMeaning": "खर्च" },
+        { "word": "Suppose", "gujaratiPronunciation": "સપોઝ", "hindiPronunciation": "सपोज़", "gujaratiMeaning": "ધારવું", "hindiMeaning": "मान लेना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The journalist threatened to expose the corrupt politician.", "gujaratiPronunciation": "ધ જર્નાલિસ્ટ થ્રેટન્ડ ટુ એક્સપોઝ ધ કરપ્ટ પોલિટિશિયન.", "hindiPronunciation": "द जर्नलिस्ट थ्रेटेंड टू एक्सपोज़ द करप्ट पॉलिटिशियन।", "gujaratiTranslation": "પત્રકારે ભ્રષ્ટ રાજકારણીને ખુલ્લા પાડવાની ધમકી આપી.", "hindiTranslation": "पत्रकार ने भ्रष्ट राजनेता को बेनकाब करने की धमकी दी।" }
+      ]
+    },
+    {
+      "word": "Disguise",
+      "gujaratiPronunciation": "ડિસ્ગાઇઝ",
+      "hindiPronunciation": "डिस्गाइज़",
+      "gujaratiMeaning": "વેશપલટો કરવો",
+      "hindiMeaning": "भेष बदलना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Disguise", "gujaratiPronunciation": "ડિસ્ગાઇઝ", "hindiPronunciation": "डिस्गाइज़", "gujaratiMeaning": "વેશપલટો કરવો", "hindiMeaning": "भेष बदलना" },
+        "V2 (Past)": { "word": "Disguised", "gujaratiPronunciation": "ડિસ્ગાઇઝ્ડ", "hindiPronunciation": "डिस्गाइज़्ड", "gujaratiMeaning": "વેશપલટો કર્યો", "hindiMeaning": "भेष बदला" },
+        "V3 (Past Participle)": { "word": "Disguised", "gujaratiPronunciation": "ડિસ્ગાઇઝ્ડ", "hindiPronunciation": "डिस्गाइज़्ड", "gujaratiMeaning": "વેશપલટો કરેલો", "hindiMeaning": "भेष बदला हुआ" },
+        "V4 (Present Participle)": { "word": "Disguising", "gujaratiPronunciation": "ડિસ્ગાઇઝિંગ", "hindiPronunciation": "डिस्गाइज़िंग", "gujaratiMeaning": "વેશપલટો કરી રહ્યું છે", "hindiMeaning": "भेष बदल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Camouflage", "gujaratiPronunciation": "કેમોફ્લાજ", "hindiPronunciation": "कैमुफ्लॉज", "gujaratiMeaning": "છદ્માવરણ", "hindiMeaning": "छलावरण" },
+        { "word": "Mask", "gujaratiPronunciation": "માસ્ક", "hindiPronunciation": "मास्क", "gujaratiMeaning": "મહોરું પહેરાવવું", "hindiMeaning": "नकाब लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+        { "word": "Unmask", "gujaratiPronunciation": "અનમાસ્ક", "hindiPronunciation": "अनमास्क", "gujaratiMeaning": "મહોરું ઉતારવું", "hindiMeaning": "बेनकाब करना" }
+      ],
+      "confusingWords": [
+        { "word": "Discuss", "gujaratiPronunciation": "ડિસ્કસ", "hindiPronunciation": "डिस्कस", "gujaratiMeaning": "ચર્ચા કરવી", "hindiMeaning": "चर्चा करना" },
+        { "word": "Disgust", "gujaratiPronunciation": "ડિસ્ગસ્ટ", "hindiPronunciation": "डिस्गस्ट", "gujaratiMeaning": "અણગમો", "hindiMeaning": "घृणा" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The spy had to disguise himself as a tourist.", "gujaratiPronunciation": "ધ સ્પાય હેડ ટુ ડિસ્ગાઇઝ હિમસેલ્ફ એઝ અ ટુરિસ્ટ.", "hindiPronunciation": "द स्पाई हैड टू डिस्गाइज़ हिमसेल्फ एज़ अ टूरिस्ट।", "gujaratiTranslation": "જાસૂસને પ્રવાસી તરીકે વેશપલટો કરવો પડ્યો.", "hindiTranslation": "जासूस को एक पर्यटक के रूप में भेष बदलना पड़ा।" }
+      ]
+    },
+    {
+      "word": "Discover",
+      "gujaratiPronunciation": "ડિસ્કવર",
+      "hindiPronunciation": "डिस्कवर",
+      "gujaratiMeaning": "શોધવું",
+      "hindiMeaning": "खोजना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Discover", "gujaratiPronunciation": "ડિસ્કવર", "hindiPronunciation": "डिस्कवर", "gujaratiMeaning": "શોધવું", "hindiMeaning": "खोजना" },
+        "V2 (Past)": { "word": "Discovered", "gujaratiPronunciation": "ડિસ્કવર્ડ", "hindiPronunciation": "डिस्कवर्ड", "gujaratiMeaning": "શોધ્યું", "hindiMeaning": "खोजा" },
+        "V3 (Past Participle)": { "word": "Discovered", "gujaratiPronunciation": "ડિસ્કવર્ડ", "hindiPronunciation": "डिस्कवर्ड", "gujaratiMeaning": "શોધેલું", "hindiMeaning": "खोजा हुआ" },
+        "V4 (Present Participle)": { "word": "Discovering", "gujaratiPronunciation": "ડિસ્કવરિંગ", "hindiPronunciation": "डिस्कवरिंग", "gujaratiMeaning": "શોધી રહ્યું છે", "hindiMeaning": "खोज रहा है" }
+      },
+      "synonyms": [
+        { "word": "Find", "gujaratiPronunciation": "ફાઇન્ડ", "hindiPronunciation": "फाइंड", "gujaratiMeaning": "શોધવું", "hindiMeaning": "ढूँढ़ना" },
+        { "word": "Unearth", "gujaratiPronunciation": "અનઅર્થ", "hindiPronunciation": "अनअर्थ", "gujaratiMeaning": "ખોદી કાઢવું", "hindiMeaning": "खोज निकालना" }
+      ],
+      "antonyms": [
+        { "word": "Overlook", "gujaratiPronunciation": "ઓવરલૂક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "ધ્યાન ન આપવું", "hindiMeaning": "नज़रअंदाज़ करना" },
+        { "word": "Miss", "gujaratiPronunciation": "મિસ", "hindiPronunciation": "मिस", "gujaratiMeaning": "ચૂકી જવું", "hindiMeaning": "चूक जाना" }
+      ],
+      "confusingWords": [
+        { "word": "Disk cover", "gujaratiPronunciation": "ડિસ્ક કવર", "hindiPronunciation": "डिस्क कवर", "gujaratiMeaning": "ડિસ્કનું કવર", "hindiMeaning": "डिस्क का कवर" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Scientists hope to discover a cure for the disease.", "gujaratiPronunciation": "સાયન્ટિસ્ટ્સ હોપ ટુ ડિસ્કવર અ ક્યોર ફોર ધ ડિસીઝ.", "hindiPronunciation": "साइंटिस्ट्स होप टू डिस्कवर अ क्योर फॉर द डिज़ीज़।", "gujaratiTranslation": "વૈજ્ઞાનિકો આ રોગનો ઈલાજ શોધવાની આશા રાખે છે.", "hindiTranslation": "वैज्ञानिक इस बीमारी का इलाज खोजने की उम्मीद करते हैं।" }
+      ]
+    },
+    {
+      "word": "Cloak",
+      "gujaratiPronunciation": "ક્લોક",
+      "hindiPronunciation": "क्लोक",
+      "gujaratiMeaning": "ઢાંકવું",
+      "hindiMeaning": "ढकना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Cloak", "gujaratiPronunciation": "ક્લોક", "hindiPronunciation": "क्लोक", "gujaratiMeaning": "ઢાંકવું", "hindiMeaning": "ढकना" },
+        "V2 (Past)": { "word": "Cloaked", "gujaratiPronunciation": "ક્લોક્ડ", "hindiPronunciation": "क्लोक्ड", "gujaratiMeaning": "ઢાંક્યું", "hindiMeaning": "ढका" },
+        "V3 (Past Participle)": { "word": "Cloaked", "gujaratiPronunciation": "ક્લોક્ડ", "hindiPronunciation": "क्लोक्ड", "gujaratiMeaning": "ઢાંકેલું", "hindiMeaning": "ढका हुआ" },
+        "V4 (Present Participle)": { "word": "Cloaking", "gujaratiPronunciation": "ક્લોકિંગ", "hindiPronunciation": "क्लोकिंग", "gujaratiMeaning": "ઢાંકી રહ્યું છે", "hindiMeaning": "ढक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Disguise", "gujaratiPronunciation": "ડિસ્ગાઇઝ", "hindiPronunciation": "डिस्गाइज़", "gujaratiMeaning": "વેશપલટો કરવો", "hindiMeaning": "भेष बदलना" },
+        { "word": "Veil", "gujaratiPronunciation": "વેઇલ", "hindiPronunciation": "वेल", "gujaratiMeaning": "પડદો કરવો", "hindiMeaning": "पर्दा करना" }
+      ],
+      "antonyms": [
+        { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+        { "word": "Uncover", "gujaratiPronunciation": "અનકવર", "hindiPronunciation": "अनकवर", "gujaratiMeaning": "ઉઘાડું પાડવું", "hindiMeaning": "उजागर करना" }
+      ],
+      "confusingWords": [
+        { "word": "Clock", "gujaratiPronunciation": "ક્લોક", "hindiPronunciation": "क्लॉक", "gujaratiMeaning": "ઘડિયાળ", "hindiMeaning": "घड़ी" },
+        { "word": "Chalk", "gujaratiPronunciation": "ચૉક", "hindiPronunciation": "चॉक", "gujaratiMeaning": "ચૉક", "hindiMeaning": "चॉक" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The negotiations were cloaked in secrecy.", "gujaratiPronunciation": "ધ નેગોશિયેશન્સ વર ક્લોક્ડ ઇન સિક્રેસી.", "hindiPronunciation": "द नेगोशिएशन्स वर क्लोक्ड इन सीक्रेसी।", "gujaratiTranslation": "વાટાઘાટો ગુપ્તતામાં છુપાયેલી હતી.", "hindiTranslation": "बातचीत गोपनीयता में ढकी हुई थी।" }
+      ]
+    }
+  ]
+}
+
+    

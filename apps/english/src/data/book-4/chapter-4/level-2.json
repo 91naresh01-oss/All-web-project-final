@@ -1,0 +1,446 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Assemble",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "એકઠું કરવું",
+      "hindiMeaning": "इकट्ठा करना",
+      "gujaratiPronunciation": "અસેમ્બલ",
+      "hindiPronunciation": "असेंबल",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Assemble",
+          "gujaratiPronunciation": "અસેમ્બલ",
+          "hindiPronunciation": "असेंबल",
+          "gujaratiMeaning": "એકઠું કરવું",
+          "hindiMeaning": "इकट्ठा करना"
+        },
+        "V2 (Past)": {
+          "word": "Assembled",
+          "gujaratiPronunciation": "અસેમ્બલ્ડ",
+          "hindiPronunciation": "असेंबल्ड",
+          "gujaratiMeaning": "એકઠું કર્યું",
+          "hindiMeaning": "इकट्ठा किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Assembled",
+          "gujaratiPronunciation": "અસેમ્બલ્ડ",
+          "hindiPronunciation": "असेंबल्ड",
+          "gujaratiMeaning": "એકઠું કરેલું",
+          "hindiMeaning": "इकट्ठा किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Assembling",
+          "gujaratiPronunciation": "અસેમ્બલિંગ",
+          "hindiPronunciation": "असेंबलिंग",
+          "gujaratiMeaning": "એકઠું કરી રહ્યું",
+          "hindiMeaning": "इकट्ठा कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Gather",
+          "gujaratiPronunciation": "ગેધર",
+          "hindiPronunciation": "गैदर",
+          "gujaratiMeaning": "ભેગું કરવું",
+          "hindiMeaning": "एकत्र करना"
+        },
+        {
+          "word": "Collect",
+          "gujaratiPronunciation": "કલેક્ટ",
+          "hindiPronunciation": "कलेक्ट",
+          "gujaratiMeaning": "સંગ્રહ કરવો",
+          "hindiMeaning": "संग्रह करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Disperse",
+          "gujaratiPronunciation": "ડિસ્પર્સ",
+          "hindiPronunciation": "डिस्पर्स",
+          "gujaratiMeaning": "વિખેરી નાખવું",
+          "hindiMeaning": "बिखेरना"
+        },
+        {
+          "word": "Dismantle",
+          "gujaratiPronunciation": "ડિસમેન્ટલ",
+          "hindiPronunciation": "डिसमेंटल",
+          "gujaratiMeaning": "વિખૂટું પાડવું",
+          "hindiMeaning": "तोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Resemble",
+          "gujaratiPronunciation": "રિઝેમ્બલ",
+          "hindiPronunciation": "रिज़ेंबल",
+          "gujaratiMeaning": "મળતા આવવું",
+          "hindiMeaning": "समान दिखना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He assembled the parts of the model airplane.",
+          "gujaratiPronunciation": "હી અસેમ્બલ્ડ ધ પાર્ટ્સ ઓફ ધ મૉડેલ ઍરપ્લેન.",
+          "hindiPronunciation": "ही असेंबल्ड द पार्ट्स ऑफ ద मॉडल एयरप्लेन।",
+          "gujaratiTranslation": "તેણે મોડેલ વિમાનના ભાગોને એકઠા કર્યા.",
+          "hindiTranslation": "उसने मॉडल हवाई जहाज के हिस्सों को इकट्ठा किया।"
+        }
+      ]
+    },
+    {
+      "word": "Construct",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "રચના કરવી",
+      "hindiMeaning": "निर्माण करना",
+      "gujaratiPronunciation": "કન્સ્ટ્રક્ટ",
+      "hindiPronunciation": "कंस्ट्रक्ट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Construct",
+          "gujaratiPronunciation": "કન્સ્ટ્રક્ટ",
+          "hindiPronunciation": "कंस्ट्रक्ट",
+          "gujaratiMeaning": "રચના કરવી",
+          "hindiMeaning": "निर्माण करना"
+        },
+        "V2 (Past)": {
+          "word": "Constructed",
+          "gujaratiPronunciation": "કન્સ્ટ્રક્ટેડ",
+          "hindiPronunciation": "कंस्ट्रक्टेड",
+          "gujaratiMeaning": "રચના કરી",
+          "hindiMeaning": "निर्माण किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Constructed",
+          "gujaratiPronunciation": "કન્સ્ટ્રક્ટેડ",
+          "hindiPronunciation": "कंस्ट्रक्टेड",
+          "gujaratiMeaning": "રચના કરેલી",
+          "hindiMeaning": "निर्माण किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Constructing",
+          "gujaratiPronunciation": "કન્સ્ટ્રક્ટિંગ",
+          "hindiPronunciation": "कंस्ट्रक्टिंग",
+          "gujaratiMeaning": "રચના કરી રહ્યું",
+          "hindiMeaning": "निर्माण कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Build",
+          "gujaratiPronunciation": "બિલ્ડ",
+          "hindiPronunciation": "बिल्ड",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Create",
+          "gujaratiPronunciation": "ક્રિએટ",
+          "hindiPronunciation": "क्रिएट",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Destroy",
+          "gujaratiPronunciation": "ડિસ્ટ્રોય",
+          "hindiPronunciation": "डिस्ट्रॉय",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        },
+        {
+          "word": "Demolish",
+          "gujaratiPronunciation": "ડિમોલિશ",
+          "hindiPronunciation": "डिमोलिश",
+          "gujaratiMeaning": "તોડી પાડવું",
+          "hindiMeaning": "ध्वस्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Constrict",
+          "gujaratiPronunciation": "કન્સ્ટ્રિક્ટ",
+          "hindiPronunciation": "कंस्ट्रिक्ट",
+          "gujaratiMeaning": "સંકોચવું",
+          "hindiMeaning": "सिकोड़ना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company will construct a new office building.",
+          "gujaratiPronunciation": "ધ કંપની વિલ કન્સ્ટ્રક્ટ અ ન્યૂ ઓફિસ બિલ્ડિંગ.",
+          "hindiPronunciation": "द कंपनी विल कंस्ट्रक्ट अ न्यू ऑफिस बिल्डिंग।",
+          "gujaratiTranslation": "કંપની એક નવી ઓફિસ બિલ્ડિંગનું નિર્માણ કરશે.",
+          "hindiTranslation": "कंपनी एक नई ऑफिस बिल्डिंग का निर्माण करेगी।"
+        }
+      ]
+    },
+    {
+      "word": "Cement",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "સિમેન્ટથી જોડવું",
+      "hindiMeaning": "सीमेंट से जोड़ना",
+      "gujaratiPronunciation": "સિમેન્ટ",
+      "hindiPronunciation": "सीमेंट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Cement",
+          "gujaratiPronunciation": "સિમેન્ટ",
+          "hindiPronunciation": "सीमेंट",
+          "gujaratiMeaning": "સિમેન્ટથી જોડવું",
+          "hindiMeaning": "सीमेंट से जोड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Cemented",
+          "gujaratiPronunciation": "સિમેન્ટેડ",
+          "hindiPronunciation": "सीमेंटेड",
+          "gujaratiMeaning": "સિમેન્ટથી જોડ્યું",
+          "hindiMeaning": "सीमेंट से जोड़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Cemented",
+          "gujaratiPronunciation": "સિમેન્ટેડ",
+          "hindiPronunciation": "सीमेंटेड",
+          "gujaratiMeaning": "સિમેન્ટથી જોડેલું",
+          "hindiMeaning": "सीमेंट से जोड़ा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Cementing",
+          "gujaratiPronunciation": "સિમેન્ટિંગ",
+          "hindiPronunciation": "सीमेंटिंग",
+          "gujaratiMeaning": "સિમેન્ટથી જોડી રહ્યું",
+          "hindiMeaning": "सीमेंट से जोड़ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Bond",
+          "gujaratiPronunciation": "બોન્ડ",
+          "hindiPronunciation": "बॉन्ड",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "बांधना"
+        },
+        {
+          "word": "Unite",
+          "gujaratiPronunciation": "યુનાઇટ",
+          "hindiPronunciation": "यूनाइट",
+          "gujaratiMeaning": "એક કરવું",
+          "hindiMeaning": "एक करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Separate",
+          "gujaratiPronunciation": "સેપરેટ",
+          "hindiPronunciation": "सेपरेट",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        },
+        {
+          "word": "Split",
+          "gujaratiPronunciation": "સ્પ્લિટ",
+          "hindiPronunciation": "स्प्लिट",
+          "gujaratiMeaning": "વિભાજીત કરવું",
+          "hindiMeaning": "विभाजित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Segment",
+          "gujaratiPronunciation": "સેગમેન્ટ",
+          "hindiPronunciation": "सेगमेंट",
+          "gujaratiMeaning": "ભાગ",
+          "hindiMeaning": "खंड"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "This experience cemented their friendship.",
+          "gujaratiPronunciation": "ધિસ એક્સપિરિયન્સ સિમેન્ટેડ ધેર ફ્રેન્ડશિપ.",
+          "hindiPronunciation": "दिस एक्सपीरियंस सीमेंटेड देयर फ्रेंडशिप।",
+          "gujaratiTranslation": "આ અનુભવે તેમની મિત્રતાને મજબૂત કરી.",
+          "hindiTranslation": "इस अनुभव ने उनकी दोस्ती को मजबूत कर दिया।"
+        }
+      ]
+    },
+    {
+      "word": "Reinforce",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "મજબૂત કરવું",
+      "hindiMeaning": "मजबूत करना",
+      "gujaratiPronunciation": "રિઇન્ફોર્સ",
+      "hindiPronunciation": "रीइन्फोर्स",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Reinforce",
+          "gujaratiPronunciation": "રિઇન્ફોર્સ",
+          "hindiPronunciation": "रीइन्फोर्स",
+          "gujaratiMeaning": "મજબૂત કરવું",
+          "hindiMeaning": "मजबूत करना"
+        },
+        "V2 (Past)": {
+          "word": "Reinforced",
+          "gujaratiPronunciation": "રિઇન્ફોર્સ્ડ",
+          "hindiPronunciation": "रीइन्फोर्स्ड",
+          "gujaratiMeaning": "મજબૂત કર્યું",
+          "hindiMeaning": "मजबूत किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Reinforced",
+          "gujaratiPronunciation": "રિઇન્ફોર્સ્ડ",
+          "hindiPronunciation": "रीइन्फोर्स्ड",
+          "gujaratiMeaning": "મજબૂત કરેલું",
+          "hindiMeaning": "मजबूत किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Reinforcing",
+          "gujaratiPronunciation": "રિઇન્ફોર્સિંગ",
+          "hindiPronunciation": "रीइन्फोर्सिंग",
+          "gujaratiMeaning": "મજબૂત કરી રહ્યું",
+          "hindiMeaning": "मजबूत कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Strengthen",
+          "gujaratiPronunciation": "સ્ટ્રેન્થન",
+          "hindiPronunciation": "स्ट्रेंग्थेन",
+          "gujaratiMeaning": "બળવાન કરવું",
+          "hindiMeaning": "शक्तिशाली बनाना"
+        },
+        {
+          "word": "Support",
+          "gujaratiPronunciation": "સપોર્ટ",
+          "hindiPronunciation": "सपोर्ट",
+          "gujaratiMeaning": "આધાર આપવો",
+          "hindiMeaning": "समर्थन देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Weaken",
+          "gujaratiPronunciation": "વિકન",
+          "hindiPronunciation": "वीकन",
+          "gujaratiMeaning": "નબળું પાડવું",
+          "hindiMeaning": "कमजोर करना"
+        },
+        {
+          "word": "Undermine",
+          "gujaratiPronunciation": "અંડરમાઇન",
+          "hindiPronunciation": "अंडरमाइन",
+          "gujaratiMeaning": "ક્ષીણ કરવું",
+          "hindiMeaning": "कमजोर करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Re-enforce",
+          "gujaratiPronunciation": "રિ-એન્ફોર્સ",
+          "hindiPronunciation": "री-एनफोर्स",
+          "gujaratiMeaning": "ફરીથી લાગુ કરવું",
+          "hindiMeaning": "फिर से लागू करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They added steel bars to reinforce the concrete.",
+          "gujaratiPronunciation": "ધે એડેડ સ્ટીલ બાર્સ ટુ રિઇન્ફોર્સ ધ કોંક્રીટ.",
+          "hindiPronunciation": "दे एडेड स्टील बार्स टू रीइन्फोर्स द कॉन्क्रीट।",
+          "gujaratiTranslation": "તેઓએ કોંક્રિટને મજબૂત કરવા માટે સ્ટીલના સળિયા ઉમેર્યા.",
+          "hindiTranslation": "उन्होंने कंक्रीट को मजबूत करने के लिए स्टील की छड़ें डालीं।"
+        }
+      ]
+    },
+    {
+      "word": "Patch",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "થીગડું મારવું",
+      "hindiMeaning": "पैबंद लगाना",
+      "gujaratiPronunciation": "પેચ",
+      "hindiPronunciation": "पैच",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Patch",
+          "gujaratiPronunciation": "પેચ",
+          "hindiPronunciation": "पैच",
+          "gujaratiMeaning": "થીગડું મારવું",
+          "hindiMeaning": "पैबंद लगाना"
+        },
+        "V2 (Past)": {
+          "word": "Patched",
+          "gujaratiPronunciation": "પેચ્ડ",
+          "hindiPronunciation": "पैच्ड",
+          "gujaratiMeaning": "થીગડું માર્યું",
+          "hindiMeaning": "पैबंद लगाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Patched",
+          "gujaratiPronunciation": "પેચ્ડ",
+          "hindiPronunciation": "पैच्ड",
+          "gujaratiMeaning": "થીગડું મારેલું",
+          "hindiMeaning": "पैबंद लगाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Patching",
+          "gujaratiPronunciation": "પેચિંગ",
+          "hindiPronunciation": "पैचिंग",
+          "gujaratiMeaning": "થીગડું મારી રહ્યું",
+          "hindiMeaning": "पैबंद लगा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Mend",
+          "gujaratiPronunciation": "મેન્ડ",
+          "hindiPronunciation": "मेंड",
+          "gujaratiMeaning": "સાંધવું",
+          "hindiMeaning": "सुधारना"
+        },
+        {
+          "word": "Repair",
+          "gujaratiPronunciation": "રિપેર",
+          "hindiPronunciation": "रिपेयर",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Tear",
+          "gujaratiPronunciation": "ટેર",
+          "hindiPronunciation": "टेयर",
+          "gujaratiMeaning": "ફાડવું",
+          "hindiMeaning": "फाड़ना"
+        },
+        {
+          "word": "Rip",
+          "gujaratiPronunciation": "રિપ",
+          "hindiPronunciation": "रिप",
+          "gujaratiMeaning": "ચીરવું",
+          "hindiMeaning": "चीरना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Batch",
+          "gujaratiPronunciation": "બેચ",
+          "hindiPronunciation": "बैच",
+          "gujaratiMeaning": "જથ્થો",
+          "hindiMeaning": "जत्था"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She patched the hole in her jeans.",
+          "gujaratiPronunciation": "શી પેચ્ડ ધ હોલ ઇન હર જીન્સ.",
+          "hindiPronunciation": "शी पैच्ड द होल इन हर जीन्स।",
+          "gujaratiTranslation": "તેણીએ તેના જીન્સમાંના કાણા પર થીગડું માર્યું.",
+          "hindiTranslation": "उसने अपनी जींस के छेद पर पैबंद लगाया।"
+        }
+      ]
+    }
+  ]
+}

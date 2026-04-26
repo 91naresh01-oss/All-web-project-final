@@ -1,0 +1,834 @@
+{
+    "id": "singular-plural-hi",
+    "title": "Singular-Plural (एकवचन-बहुवचन)",
+    "description": "अंग्रेजी में नामों को एकवचन (एक) से बहुवचन (एक से अधिक) में बदलने के नियम।",
+    "content": [
+        {
+            "type": "section",
+            "title": "1. एकवचन और बहुवचन क्या है?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जब कोई नाम (Noun) एक ही व्यक्ति, वस्तु या स्थान का उल्लेख करे, तब उसे <b>Singular (एकवचन)</b> कहते हैं। जब वह एक से अधिक का उल्लेख करे, तब उसे <b>Plural (बहुवचन)</b> कहते हैं।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular (एकवचन)",
+                            "Plural (बहुवचन)"
+                        ],
+                        "rows": [
+                            [
+                                "Boy (लड़का)",
+                                "Boys (लड़के)"
+                            ],
+                            [
+                                "Cat (बिल्ली)",
+                                "Cats (बिल्लियाँ)"
+                            ],
+                            [
+                                "Book (पुस्तक)",
+                                "Books (पुस्तकें)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2. बहुवचन बनाने के सामान्य नियम",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Rules for making Plurals",
+                        "headers": [
+                            "नियम",
+                            "उदाहरण (Singular → Plural)"
+                        ],
+                        "rows": [
+                            [
+                                "<b>नियम 1:</b> ज्यादातर नामों के अंत में <b>'-s'</b> लगाने से बहुवचन बनता है।",
+                                "Pen → Pens, Car → Cars, Dog → Dogs"
+                            ],
+                            [
+                                "<b>नियम 2:</b> जिन नामों के अंत में <b>s, ss, sh, ch, x, z</b> आते हों, उनके अंत में <b>'-es'</b> लगाया जाता है।",
+                                "Bus → Buses, Class → Classes, Dish → Dishes, Match → Matches, Box → Boxes"
+                            ],
+                            [
+                                "<b>नियम 3:</b> जिन नामों के अंत में <b>'y'</b> हो और उससे पहले व्यंजन (consonant) हो, तो 'y' का <b>'i'</b> करके <b>'-es'</b> लगता है।",
+                                "Baby → Babies, Story → Stories, City → Cities, Army → Armies"
+                            ],
+                            [
+                                "<b>नियम 4:</b> जिन नामों के अंत में <b>'y'</b> हो पर उससे पहले स्वर (vowel - a,e,i,o,u) हो, तो केवल <b>'-s'</b> लगता है।",
+                                "Boy → Boys, Key → Keys, Toy → Toys, Day → Days"
+                            ],
+                            [
+                                "<b>नियम 5:</b> जिन नामों के अंत में <b>'o'</b> हो और उससे पहले व्यंजन हो, तो <b>'-es'</b> लगाया जाता है।",
+                                "Hero → Heroes, Mango → Mangoes, Potato → Potatoes"
+                            ],
+                            [
+                                "<b>अपवाद:</b> 'o' वाले कुछ शब्दों में केवल '-s' लगता है।",
+                                "Photo → Photos, Piano → Pianos, Kilo → Kilos"
+                            ],
+                            [
+                                "<b>नियम 6:</b> जिन नामों के अंत में <b>'f'</b> या <b>'fe'</b> हो, तो उन्हें हटा कर <b>'-ves'</b> लगाया जाता है।",
+                                "Wife → Wives, Life → Lives, Knife → Knives, Leaf → Leaves"
+                            ],
+                            [
+                                "<b>अपवाद:</b> कुछ 'f' वाले शब्दों में केवल '-s' लगता है।",
+                                "Roof → Roofs, Chief → Chiefs, Proof → Proofs"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3. अनियमित बहुवचन (Irregular Plurals)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "कुछ नामों के बहुवचन बिना किसी नियम के बनते हैं, जिन्हें याद रखना पड़ता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular",
+                            "Plural",
+                            "Singular",
+                            "Plural"
+                        ],
+                        "rows": [
+                            [
+                                "Man",
+                                "Men",
+                                "Woman",
+                                "Women"
+                            ],
+                            [
+                                "Child",
+                                "Children",
+                                "Person",
+                                "People"
+                            ],
+                            [
+                                "Foot",
+                                "Feet",
+                                "Tooth",
+                                "Teeth"
+                            ],
+                            [
+                                "Mouse",
+                                "Mice",
+                                "Goose",
+                                "Geese"
+                            ],
+                            [
+                                "Ox",
+                                "Oxen",
+                                "",
+                                ""
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4. Foreign Plurals: Latin Words ending in 'um'",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जिन लैटिन शब्दों के अंत में 'um' हो, उन्हें बहुवचन में बदलने के लिए 'um' की जगह 'a' लगता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular (एकवचन)",
+                            "Plural (बहुवचन)"
+                        ],
+                        "rows": [
+                            [
+                                "medium (माध्यम)",
+                                "media, mediums"
+                            ],
+                            [
+                                "stratum (स्तर)",
+                                "strata"
+                            ],
+                            [
+                                "referendum (जनमत संग्रह)",
+                                "referenda, referendums"
+                            ],
+                            [
+                                "tympanum (कान का पर्दा)",
+                                "tympana, tympanums"
+                            ],
+                            [
+                                "ovum (अंडाणु)",
+                                "ova"
+                            ],
+                            [
+                                "symposium (संगोष्ठी)",
+                                "symposia, symposiums"
+                            ],
+                            [
+                                "gymnasium (व्यायामशाला)",
+                                "gymnasia, gymnasiums"
+                            ],
+                            [
+                                "emporium (बड़ी दुकान)",
+                                "emporia, emporiums"
+                            ],
+                            [
+                                "trapezium (समलंब)",
+                                "trapezia, trapeziums"
+                            ],
+                            [
+                                "equilibrium (संतुलन)",
+                                "equilibria, equilibriums"
+                            ],
+                            [
+                                "moratorium (रोक)",
+                                "moratoria, moratoriums"
+                            ],
+                            [
+                                "ultimatum (अंतिम चेतावनी)",
+                                "ultimata, ultimatums"
+                            ],
+                            [
+                                "erratum (छापाई की भूल)",
+                                "errata"
+                            ],
+                            [
+                                "dictum (कहावत)",
+                                "dicta"
+                            ],
+                            [
+                                "millenium (सहस्राब्दी)",
+                                "millenia"
+                            ],
+                            [
+                                "vacum (निर्वात)",
+                                "vacua, vacuums"
+                            ],
+                            [
+                                "encomium (प्रशंसा)",
+                                "encomia, encomiums"
+                            ],
+                            [
+                                "exordium (प्रस्तावना)",
+                                "exordia, exordiums"
+                            ],
+                            [
+                                "desideratum (आवश्यक)",
+                                "desiderata"
+                            ],
+                            [
+                                "sanatorium (आरोग्य भवन)",
+                                "sanatoria, sanatoriums"
+                            ],
+                            [
+                                "bacterium (बैक्टीरिया)",
+                                "bacteria"
+                            ],
+                            [
+                                "cerebrum (मस्तिष्क)",
+                                "cerebra"
+                            ],
+                            [
+                                "curriculum (पाठ्यक्रम)",
+                                "curricula, curriculums"
+                            ],
+                            [
+                                "addendum (परिशिष्ट)",
+                                "addenda"
+                            ],
+                            [
+                                "corrigendum (शुद्धिपत्र)",
+                                "corrigenda"
+                            ],
+                            [
+                                "agendum (कार्यसूची)",
+                                "agenda"
+                            ],
+                            [
+                                "aquarium (मछलीघर)",
+                                "aquaria, aquariums"
+                            ],
+                            [
+                                "crematorium (श्मशान)",
+                                "crematoria, crematoriums"
+                            ],
+                            [
+                                "memorandum (ज्ञापन)",
+                                "memoranda, memorandum"
+                            ],
+                            [
+                                "datum (आंकड़ा)",
+                                "data"
+                            ],
+                            [
+                                "maximum (अधिकतम)",
+                                "maxima"
+                            ],
+                            [
+                                "minimum (न्यूनतम)",
+                                "minima"
+                            ],
+                            [
+                                "optimum (इष्टतम/श्रेष्ठ)",
+                                "optima, optimums"
+                            ],
+                            [
+                                "quantum (मात्रा)",
+                                "quanta"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "5. Latin Words ending in 'ex' / 'ix'",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जिन लैटिन शब्दों के अंत में 'ex'/'ix' हो, उन्हें बहुवचन में बदलने के लिए 'ex'/'ix' की जगह 'ices' लगता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular (एकवचन)",
+                            "Plural (बहुवचन)"
+                        ],
+                        "rows": [
+                            [
+                                "appendix (परिशिष्ट/आंत)",
+                                "appendices, appendixes"
+                            ],
+                            [
+                                "matrix (ढांचा/सांचा)",
+                                "matrices"
+                            ],
+                            [
+                                "codex (लिखित ग्रंथ)",
+                                "codices"
+                            ],
+                            [
+                                "vortex (भंवर)",
+                                "vortices, vortexes"
+                            ],
+                            [
+                                "apex (शिखर/चोटी)",
+                                "apices, apexes"
+                            ],
+                            [
+                                "index (सूचकांक)",
+                                "indices"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "6. Miscellaneous & French Nouns",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular (एकवचन)",
+                            "Plural (बहुवचन)"
+                        ],
+                        "rows": [
+                            [
+                                "adieu (विदाई)",
+                                "adieux"
+                            ],
+                            [
+                                "tempo (संगीत की गति)",
+                                "Tempi"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "content": "जिन फ्रेंच (French) शब्दों के अंत में 'eau' आता है, उनका बहुवचन करने के लिए 'eau' का 'eaux' किया जाता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular (एकवचन)",
+                            "Plural (बहुवचन)"
+                        ],
+                        "rows": [
+                            [
+                                "bureau (दफ्तर)",
+                                "bureaux"
+                            ],
+                            [
+                                "plateau (पठार)",
+                                "plateaux"
+                            ],
+                            [
+                                "tableau (सजीव चित्र)",
+                                "tableaux"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "7. Nouns with same Singular & Plural Forms",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "कुछ नाम ऐसे होते हैं जिनका Singular और Plural रूप समान होता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Same Form Nouns",
+                        "headers": [
+                            "Words"
+                        ],
+                        "rows": [
+                            [
+                                "deer (हिरण), sheep (भेड़), fish (मछली), swine (सूअर)"
+                            ],
+                            [
+                                "cod (मछली), trout (मछली), salmon (मछली), aircraft (विमान)"
+                            ],
+                            [
+                                "spacecraft (अंतरिक्ष यान), series (श्रृंखला), species (प्रजाति)"
+                            ],
+                            [
+                                "pair (जोड़ी), dozen (दर्जन), score (कोड़ी - 20), gross (12 दर्जन - 144)"
+                            ],
+                            [
+                                "hundred (सौ), thousand (हजार), million (दस लाख)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "8. Special Case: Compound Nouns",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Compound Nouns (संयुक्त नाम) का बहुवचन बनाते समय मुख्य शब्द (Root Word) को बहुवचन किया जाता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular (Compound Noun)",
+                            "Plural"
+                        ],
+                        "rows": [
+                            [
+                                "father-in-law (ससुर)",
+                                "fathers-in-law"
+                            ],
+                            [
+                                "mother-in-law (सास)",
+                                "mothers-in-law"
+                            ],
+                            [
+                                "brother-in-law (साला/देवर)",
+                                "brothers-in-law"
+                            ],
+                            [
+                                "sister-in-law (ननद/भाभी)",
+                                "sisters-in-law"
+                            ],
+                            [
+                                "step-father (सौतेले पिता)",
+                                "step-fathers"
+                            ],
+                            [
+                                "step-mother (सौतेली माँ)",
+                                "step-mothers"
+                            ],
+                            [
+                                "passer-by (राहगीर)",
+                                "passers-by"
+                            ],
+                            [
+                                "looker-on (दर्शक)",
+                                "lookers-on"
+                            ],
+                            [
+                                "commander-in-chief",
+                                "commanders-in-chief"
+                            ],
+                            [
+                                "maid-servant",
+                                "maid-servants"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "9. Nouns that are always Plural",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "कुछ नाम हमेशा Plural (बहुवचन) में ही रहते हैं (Example: जिसके दो भाग हो)।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Always Plural Examples",
+                        "headers": [
+                            "Items with two parts (दो भागों वाली वस्तुएं)"
+                        ],
+                        "rows": [
+                            [
+                                "spectacles (चश्मा)",
+                                "spectacles"
+                            ],
+                            [
+                                "goggles (धूप का चश्मा)",
+                                "goggles"
+                            ],
+                            [
+                                "glasses (चश्मा)",
+                                "glasses"
+                            ],
+                            [
+                                "binoculars (दूरबीन)",
+                                "binoculars"
+                            ],
+                            [
+                                "shears (बड़ी कैंची)",
+                                "shears"
+                            ],
+                            [
+                                "scissors (कैंची)",
+                                "scissors"
+                            ],
+                            [
+                                "pincers (चिमटा)",
+                                "pincers"
+                            ],
+                            [
+                                "tongs (चिमटा)",
+                                "tongs"
+                            ],
+                            [
+                                "pliers (प्लायर)",
+                                "pliers"
+                            ],
+                            [
+                                "scales (तराजू)",
+                                "scales"
+                            ],
+                            [
+                                "pantaloons (पतलून)",
+                                "pantaloons"
+                            ],
+                            [
+                                "jeans (जीन्स)",
+                                "jeans"
+                            ],
+                            [
+                                "pajamas (पाजामा)",
+                                "pajamas"
+                            ],
+                            [
+                                "shorts (शॉर्ट्स)",
+                                "shorts"
+                            ],
+                            [
+                                "trousers (ट्राउजर)",
+                                "trousers"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "content": "(c) Other names used in plural (बहुवचन में प्रयुक्त अन्य नाम):"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Plural Examples"
+                        ],
+                        "rows": [
+                            [
+                                "clothes (कपड़े), thanks (धन्यवाद), savings (बचत)"
+                            ],
+                            [
+                                "valuables (कीमती सामान), entrails (आंतें), vegetables (सब्जियां)"
+                            ],
+                            [
+                                "outskirts (बाहरी इलाका), intestines (आंतें), amends (हर्जाना)"
+                            ],
+                            [
+                                "alms (भिक्षा), bowels (आंतें), earnings (कमाई)"
+                            ],
+                            [
+                                "annals (इतिहास), remains (अवशेष), nuptials (विवाह)"
+                            ],
+                            [
+                                "eats (खाद्य पदार्थ), auspices (संरक्षण), circumstances (परिस्थितियां)"
+                            ],
+                            [
+                                "riches (संपत्ति), customs (सीमा शुल्क), goods (सामान)"
+                            ],
+                            [
+                                "arrears (बकाया), particulars (विवरण), eaves (छज्जा)"
+                            ],
+                            [
+                                "dregs (तलछट), surroundings (परिवेश), furnishings (फर्नीचर)"
+                            ],
+                            [
+                                "arms (शस्त्र), manners (शिष्टाचार), fetters (बे​ड़ियां)"
+                            ],
+                            [
+                                "premises (परिसर), means (साधन), odds (संभावनाएं)"
+                            ],
+                            [
+                                "doings (कर्म), contents (सामग्री), wages (मददूरी)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "10. Plural in form but used in singular",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "बहुवचन जैसा स्वरूप पर एकवचन में प्रयोग किया जाता है:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Names of Subjects / Diseases / Games",
+                        "headers": [
+                            "Category",
+                            "Words"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Subjects</b>",
+                                "physics, economics, statistics, civics, aesthetics, gymnastics, phonetics, mathematics, electronics"
+                            ],
+                            [
+                                "<b>Diseases</b>",
+                                "mumps (गलसुआ), measles (खसरा), scabies (खुजली), shingles (दाद), rickets (सूखा रोग), arthritis (गठिया), piles (बवासीर), diabetes (मधुमेह), ascites (जलोदर)"
+                            ],
+                            [
+                                "<b>Games</b>",
+                                "billiards, ninepins, checkers, darts, bowls, cards, draughts, dominoes, cribbage"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "11. More Foreign Plurals",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Greek words ending in 'on' $\\to$ 'a' (ग्रीक शब्दों के अंत में 'on' हो तो 'a' होता है)।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular",
+                            "Plural"
+                        ],
+                        "rows": [
+                            [
+                                "criterion (मापदंड)",
+                                "criteria"
+                            ],
+                            [
+                                "phenomenon (घटना)",
+                                "phenomena"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "content": "Latin words ending in 'us' $\\to$ 'i' (लैटिन शब्द के अंत में 'us' हो तो 'i' होता है)।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular",
+                            "Plural"
+                        ],
+                        "rows": [
+                            [
+                                "nucleus (नाभिक)",
+                                "nuclei"
+                            ],
+                            [
+                                "focus (केंद्र)",
+                                "foci, focuses"
+                            ],
+                            [
+                                "fungus (फफूंद)",
+                                "fungi, funguses"
+                            ],
+                            [
+                                "radius (त्रिज्या)",
+                                "radii"
+                            ],
+                            [
+                                "syllabus (पाठ्यक्रम)",
+                                "syllabi, syllabuses"
+                            ],
+                            [
+                                "terminus (अंतिम स्टेशन)",
+                                "termini, terminuses"
+                            ],
+                            [
+                                "colossus (विशाल मूर्ति)",
+                                "colossi"
+                            ],
+                            [
+                                "alumnus (भूतपूर्व छात्र)",
+                                "alumni"
+                            ],
+                            [
+                                "locus (बिंदुपथ)",
+                                "loci"
+                            ],
+                            [
+                                "bacillus (कीटाणु)",
+                                "bacilli"
+                            ],
+                            [
+                                "stimulus (उद्दीपक)",
+                                "stimuli"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "content": "Latin words ending in 'a' $\\to$ 'ae' (लैटिन शब्द के अंत में 'a' हो तो 'ae' होता है)।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Singular",
+                            "Plural"
+                        ],
+                        "rows": [
+                            [
+                                "amoeba (अमीबा)",
+                                "amoebae"
+                            ],
+                            [
+                                "fauna (पशु वर्ग)",
+                                "faunae, faunas"
+                            ],
+                            [
+                                "flora (वनस्पति वर्ग)",
+                                "florae, floras"
+                            ],
+                            [
+                                "formula (सूत्र)",
+                                "formulae, formulas"
+                            ],
+                            [
+                                "larva (डिंभ)",
+                                "larvae"
+                            ],
+                            [
+                                "alumna (भूतपूर्व छात्रा)",
+                                "alumnae"
+                            ],
+                            [
+                                "antenna (एंटेना)",
+                                "antennae, antennas"
+                            ],
+                            [
+                                "maxilla (जबड़ा)",
+                                "maxillae"
+                            ],
+                            [
+                                "trachea (श्वासनली)",
+                                "tracheae"
+                            ],
+                            [
+                                "vertebra (कशेरुक)",
+                                "vertebrae, vertebras"
+                            ],
+                            [
+                                "uvula (काकल)",
+                                "uvulae"
+                            ],
+                            [
+                                "retina (दृष्टिपटल)",
+                                "retinae, retinas"
+                            ],
+                            [
+                                "nebula (निहारिका)",
+                                "nebulae, nebulas"
+                            ],
+                            [
+                                "persona (व्यक्तित्व)",
+                                "personae"
+                            ],
+                            [
+                                "urethra (मूत्रमार्ग)",
+                                "urethrae, urethras"
+                            ],
+                            [
+                                "vagina (योनि)",
+                                "vaginae, vaginas"
+                            ],
+                            [
+                                "axilla (कांख)",
+                                "axillae"
+                            ],
+                            [
+                                "alga (शैवाल)",
+                                "algae"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

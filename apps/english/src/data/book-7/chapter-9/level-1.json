@@ -1,0 +1,150 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Fail",
+      "gujaratiPronunciation": "ફેલ",
+      "hindiPronunciation": "फेल",
+      "gujaratiMeaning": "નિષ્ફળ થવું",
+      "hindiMeaning": "असफल होना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ થવું", "hindiMeaning": "असफल होना" },
+        "v2": { "word": "Failed", "gujaratiPronunciation": "ફેલ્ડ", "hindiPronunciation": "फेल्ड", "gujaratiMeaning": "નિષ્ફળ થયું", "hindiMeaning": "असफल हुआ" },
+        "v3": { "word": "Failed", "gujaratiPronunciation": "ફેલ્ડ", "hindiPronunciation": "फेल्ड", "gujaratiMeaning": "નિષ્ફળ થયેલું", "hindiMeaning": "असफल हो चुका" },
+        "v4": { "word": "Failing", "gujaratiPronunciation": "ફેલિંગ", "hindiPronunciation": "फेलिंग", "gujaratiMeaning": "નિષ્ફળ થઈ રહ્યું છે", "hindiMeaning": "असफल हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Flunk", "gujaratiPronunciation": "ફ્લંક", "hindiPronunciation": "फ्लंक", "gujaratiMeaning": "નાપાસ થવું", "hindiMeaning": "अनुत्तीर्ण होना" },
+        { "word": "Unsuccessful", "gujaratiPronunciation": "અનસક્સેસફુલ", "hindiPronunciation": "अनसक्सेसफुल", "gujaratiMeaning": "અસફળ", "hindiMeaning": "असफल" }
+      ],
+      "antonyms": [
+        { "word": "Succeed", "gujaratiPronunciation": "સક્સીડ", "hindiPronunciation": "सक्सीड", "gujaratiMeaning": "સફળ થવું", "hindiMeaning": "सफल होना" },
+        { "word": "Pass", "gujaratiPronunciation": "પાસ", "hindiPronunciation": "पास", "gujaratiMeaning": "પાસ થવું", "hindiMeaning": "उत्तीर्ण होना" }
+      ],
+      "confusingWords": [
+        { "word": "Fell", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "પડવું (ભૂતકાળ)", "hindiMeaning": "गिर गया" },
+        { "word": "Feel", "gujaratiPronunciation": "ફીલ", "hindiPronunciation": "फील", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "He was afraid to fail the exam.", "gujaratiPronunciation": "હી વોઝ અફ્રેડ ટુ ફેલ ધ એક્ઝામ.", "hindiPronunciation": "ही वॉज़ अफ्रेड टू फेल द एग्जाम।", "gujaratiTranslation": "તે પરીક્ષામાં નિષ્ફળ થવાથી ડરતો હતો.", "hindiTranslation": "वह परीक्षा में असफल होने से डर रहा था।" }
+      ]
+    },
+    {
+      "word": "Quit",
+      "gujaratiPronunciation": "ક્વિટ",
+      "hindiPronunciation": "क्विट",
+      "gujaratiMeaning": "છોડી દેવું",
+      "hindiMeaning": "छोड़ देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Quit", "gujaratiPronunciation": "ક્વિટ", "hindiPronunciation": "क्विट", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ देना" },
+        "v2": { "word": "Quit", "gujaratiPronunciation": "ક્વિટ", "hindiPronunciation": "क्विट", "gujaratiMeaning": "છોડી દીધું", "hindiMeaning": "छोड़ दिया" },
+        "v3": { "word": "Quit", "gujaratiPronunciation": "ક્વિટ", "hindiPronunciation": "क्विट", "gujaratiMeaning": "છોડી દીધેલું", "hindiMeaning": "छोड़ चुका" },
+        "v4": { "word": "Quitting", "gujaratiPronunciation": "ક્વિટિંગ", "hindiPronunciation": "क्विटिंग", "gujaratiMeaning": "છોડી રહ્યું છે", "hindiMeaning": "छोड़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Leave", "gujaratiPronunciation": "લીવ", "hindiPronunciation": "लीव", "gujaratiMeaning": "જતું રહેવું", "hindiMeaning": "चले जाना" },
+        { "word": "Resign", "gujaratiPronunciation": "રિઝાઇન", "hindiPronunciation": "रिज़ाइन", "gujaratiMeaning": "રાજીનામું આપવું", "hindiMeaning": "त्यागपत्र देना" }
+      ],
+      "antonyms": [
+        { "word": "Continue", "gujaratiPronunciation": "કન્ટીન્યુ", "hindiPronunciation": "कंटिन्यू", "gujaratiMeaning": "ચાલુ રાખવું", "hindiMeaning": "जारी रखना" },
+        { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Quiet", "gujaratiPronunciation": "ક્વાયટ", "hindiPronunciation": "क्वाइट", "gujaratiMeaning": "શાંત", "hindiMeaning": "शांत" },
+        { "word": "Quite", "gujaratiPronunciation": "ક્વાઇટ", "hindiPronunciation": "क्वाइट", "gujaratiMeaning": "ખરેખર", "hindiMeaning": "काफी" }
+      ],
+      "exampleSentences": [
+        { "sentence": "She decided to quit her job.", "gujaratiPronunciation": "શી ડિસાઇડેડ ટુ ક્વિટ હર જોબ.", "hindiPronunciation": "शी डिसाइडेड टू क्विट हर जॉब।", "gujaratiTranslation": "તેણીએ તેની નોકરી છોડવાનો નિર્ણય કર્યો.", "hindiTranslation": "उसने अपनी नौकरी छोड़ने का फैसला किया।" }
+      ]
+    },
+    {
+      "word": "Drop",
+      "gujaratiPronunciation": "ડ્રોપ",
+      "hindiPronunciation": "ड्रॉप",
+      "gujaratiMeaning": "પડતું મૂકવું",
+      "hindiMeaning": "छोड़ देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Drop", "gujaratiPronunciation": "ડ્રોપ", "hindiPronunciation": "ड्रॉप", "gujaratiMeaning": "પડતું મૂકવું", "hindiMeaning": "छोड़ देना" },
+        "v2": { "word": "Dropped", "gujaratiPronunciation": "ડ્રોપ્ડ", "hindiPronunciation": "ड्रॉप्ड", "gujaratiMeaning": "પડતું મૂક્યું", "hindiMeaning": "छोड़ दिया" },
+        "v3": { "word": "Dropped", "gujaratiPronunciation": "ડ્રોપ્ડ", "hindiPronunciation": "ड्रॉप्ड", "gujaratiMeaning": "પડતું મૂકેલું", "hindiMeaning": "छोड़ चुका" },
+        "v4": { "word": "Dropping", "gujaratiPronunciation": "ડ્રોપિંગ", "hindiPronunciation": "ड्रॉपिंग", "gujaratiMeaning": "પડતું મૂકી રહ્યું છે", "hindiMeaning": "छोड़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Abandon", "gujaratiPronunciation": "અબૅન્ડન", "hindiPronunciation": "अबैंडन", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "त्याग देना" },
+        { "word": "Discard", "gujaratiPronunciation": "ડિસ્કાર્ડ", "hindiPronunciation": "डिस्कार्ड", "gujaratiMeaning": "ફેંકી દેવું", "hindiMeaning": "फेंक देना" }
+      ],
+      "antonyms": [
+        { "word": "Pick up", "gujaratiPronunciation": "પિક અપ", "hindiPronunciation": "पिक अप", "gujaratiMeaning": "ઉપાડવું", "hindiMeaning": "उठाना" },
+        { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "રાખવું", "hindiMeaning": "रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Drip", "gujaratiPronunciation": "ડ્રિપ", "hindiPronunciation": "ड्रिप", "gujaratiMeaning": "ટપકવું", "hindiMeaning": "टपकना" },
+        { "word": "Drape", "gujaratiPronunciation": "ડ્રેપ", "hindiPronunciation": "ड्रेप", "gujaratiMeaning": "લટકાવવું", "hindiMeaning": "लटकाना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "He decided to drop the course.", "gujaratiPronunciation": "હી ડિસાઇડેડ ટુ ડ્રોપ ધ કોર્સ.", "hindiPronunciation": "ही डिसाइडेड टू ड्रॉप द कोर्स।", "gujaratiTranslation": "તેણે કોર્સ પડતો મૂકવાનો નિર્ણય કર્યો.", "hindiTranslation": "उसने कोर्स छोड़ने का फैसला किया।" }
+      ]
+    },
+    {
+      "word": "Lose",
+      "gujaratiPronunciation": "લૂઝ",
+      "hindiPronunciation": "लूज़",
+      "gujaratiMeaning": "હારી જવું",
+      "hindiMeaning": "हार जाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज़", "gujaratiMeaning": "હારી જવું", "hindiMeaning": "हार जाना" },
+        "v2": { "word": "Lost", "gujaratiPronunciation": "લોસ્ટ", "hindiPronunciation": "लॉस्ट", "gujaratiMeaning": "હારી ગયું", "hindiMeaning": "हार गया" },
+        "v3": { "word": "Lost", "gujaratiPronunciation": "લોસ્ટ", "hindiPronunciation": "लॉस्ट", "gujaratiMeaning": "હારી ગયેલું", "hindiMeaning": "हार चुका" },
+        "v4": { "word": "Losing", "gujaratiPronunciation": "લૂઝિંગ", "hindiPronunciation": "लूज़िंग", "gujaratiMeaning": "હારી રહ્યું છે", "hindiMeaning": "हार रहा है" }
+      },
+      "synonyms": [
+        { "word": "Forfeit", "gujaratiPronunciation": "ફોર્ફિટ", "hindiPronunciation": "फोरफिट", "gujaratiMeaning": "જપ્ત થવું", "hindiMeaning": "गंवाना" },
+        { "word": "Misplace", "gujaratiPronunciation": "મિસપ્લેસ", "hindiPronunciation": "मिसप्लेस", "gujaratiMeaning": "ખોઈ નાખવું", "hindiMeaning": "खो देना" }
+      ],
+      "antonyms": [
+        { "word": "Win", "gujaratiPronunciation": "વિન", "hindiPronunciation": "विन", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+        { "word": "Find", "gujaratiPronunciation": "ફાઇન્ડ", "hindiPronunciation": "फाइंड", "gujaratiMeaning": "શોધવું", "hindiMeaning": "ढूंढना" }
+      ],
+      "confusingWords": [
+        { "word": "Loose", "gujaratiPronunciation": "લૂસ", "hindiPronunciation": "लूस", "gujaratiMeaning": "ઢીલું", "hindiMeaning": "ढीला" },
+        { "word": "Loss", "gujaratiPronunciation": "લોસ", "hindiPronunciation": "लॉस", "gujaratiMeaning": "નુકસાન", "hindiMeaning": "नुकसान" }
+      ],
+      "exampleSentences": [
+        { "sentence": "They did not want to lose the match.", "gujaratiPronunciation": "ધે ડીડ નોટ વોન્ટ ટુ લૂઝ ધ મેચ.", "hindiPronunciation": "दे डिड नॉट वॉन्ट टू लूज़ द मैच।", "gujaratiTranslation": "તેઓ મેચ હારવા માંગતા ન હતા.", "hindiTranslation": "वे मैच हारना नहीं चाहते थे।" }
+      ]
+    },
+    {
+      "word": "Stop",
+      "gujaratiPronunciation": "સ્ટોપ",
+      "hindiPronunciation": "स्टॉप", "gujaratiMeaning": "બંધ કરવું",
+      "hindiMeaning": "रुकना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Stop", "gujaratiPronunciation": "સ્ટોપ", "hindiPronunciation": "स्टॉप", "gujaratiMeaning": "બંધ કરવું", "hindiMeaning": "रुकना" },
+        "v2": { "word": "Stopped", "gujaratiPronunciation": "સ્ટોપ્ડ", "hindiPronunciation": "स्टॉप्ड", "gujaratiMeaning": "બંધ કર્યું", "hindiMeaning": "रुका" },
+        "v3": { "word": "Stopped", "gujaratiPronunciation": "સ્ટોપ્ડ", "hindiPronunciation": "स्टॉप्ड", "gujaratiMeaning": "બંધ કરેલું", "hindiMeaning": "रुक चुका" },
+        "v4": { "word": "Stopping", "gujaratiPronunciation": "સ્ટોપિંગ", "hindiPronunciation": "स्टॉपिंग", "gujaratiMeaning": "બંધ કરી રહ્યું છે", "hindiMeaning": "रुक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Cease", "gujaratiPronunciation": "સીઝ", "hindiPronunciation": "सीज़", "gujaratiMeaning": "અટકાવવું", "hindiMeaning": "रोकना" },
+        { "word": "Halt", "gujaratiPronunciation": "હોલ્ટ", "hindiPronunciation": "हॉल्ट", "gujaratiMeaning": "થોભવું", "hindiMeaning": "ठहरना" }
+      ],
+      "antonyms": [
+        { "word": "Start", "gujaratiPronunciation": "સ્ટાર્ટ", "hindiPronunciation": "स्टार्ट", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+        { "word": "Continue", "gujaratiPronunciation": "કન્ટીન્યુ", "hindiPronunciation": "कंटिन्यू", "gujaratiMeaning": "ચાલુ રાખવું", "hindiMeaning": "जारी रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Step", "gujaratiPronunciation": "સ્ટેપ", "hindiPronunciation": "स्टेप", "gujaratiMeaning": "પગલું", "hindiMeaning": "कदम" },
+        { "word": "Stuff", "gujaratiPronunciation": "સ્ટફ", "hindiPronunciation": "स्टफ", "gujaratiMeaning": "સામગ્રી", "hindiMeaning": "सामग्री" }
+      ],
+      "exampleSentences": [
+        { "sentence": "You must stop at the red light.", "gujaratiPronunciation": "યુ મસ્ટ સ્ટોપ એટ ધ રેડ લાઇટ.", "hindiPronunciation": "यू मस्ट स्टॉप एट द रेड लाइट।", "gujaratiTranslation": "તમારે લાલ લાઈટ પર રોકાવું જ જોઈએ.", "hindiTranslation": "आपको लाल बत्ती पर रुकना ही होगा।" }
+      ]
+    }
+  ]
+}

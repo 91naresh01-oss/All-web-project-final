@@ -1,0 +1,176 @@
+{
+  "id": "level-5",
+  "title": "Advanced Cognition",
+  "words": [
+    {
+      "word": "Crystallize",
+      "gujaratiPronunciation": "ક્રિસ્ટલાઇઝ",
+      "hindiPronunciation": "क्रिस्टलाइज़",
+      "gujaratiMeaning": "સ્પષ્ટ કરવું, ચોક્કસ રૂપ આપવું",
+      "hindiMeaning": "स्पष्ट करना, निश्चित रूप देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Crystallize", "gujaratiPronunciation": "ક્રિસ્ટલાઇઝ", "hindiPronunciation": "क्रिस्टलाइज़", "gujaratiMeaning": "સ્પષ્ટ કરવું", "hindiMeaning": "स्पष्ट करना" },
+        "V2 (Past)": { "word": "Crystallized", "gujaratiPronunciation": "ક્રિસ્ટલાઇઝ્ડ", "hindiPronunciation": "क्रिस्टलाइज़्ड", "gujaratiMeaning": "સ્પષ્ટ કર્યું", "hindiMeaning": "स्पष्ट किया" },
+        "V3 (Past Participle)": { "word": "Crystallized", "gujaratiPronunciation": "ક્રિસ્ટલાઇઝ્ડ", "hindiPronunciation": "क्रिस्टलाइज़्ड", "gujaratiMeaning": "સ્પષ્ટ કરેલું", "hindiMeaning": "स्पष्ट किया हुआ" },
+        "V4 (Present Participle)": { "word": "Crystallizing", "gujaratiPronunciation": "ક્રિસ્ટલાઇઝિંગ", "hindiPronunciation": "क्रिस्टलाइज़िंग", "gujaratiMeaning": "સ્પષ્ટ કરી રહ્યું", "hindiMeaning": "स्पष्ट कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Clarify", "gujaratiPronunciation": "ક્લેરિફાય", "hindiPronunciation": "क्लैरिफाई", "gujaratiMeaning": "સ્પષ્ટતા કરવી", "hindiMeaning": "स्पष्ट करना" },
+        { "word": "Solidify", "gujaratiPronunciation": "સોલિડિફાય", "hindiPronunciation": "सॉलिडिफाई", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "ठोस बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Obscure", "gujaratiPronunciation": "ઓબ્સ્ક્યોર", "hindiPronunciation": "ऑब्स्क्योर", "gujaratiMeaning": "અસ્પષ્ટ કરવું", "hindiMeaning": "अस्पष्ट करना" },
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज़", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "भ्रमित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Crystal", "gujaratiPronunciation": "ક્રિસ્ટલ", "hindiPronunciation": "क्रिस्टल", "gujaratiMeaning": "સ્ફટિક", "hindiMeaning": "स्फटिक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Her thoughts began to crystallize into a clear plan.",
+          "gujaratiTranslation": "તેના વિચારો એક સ્પષ્ટ યોજનામાં રૂપાંતરિત થવા લાગ્યા.",
+          "hindiTranslation": "उसके विचार एक स्पष्ट योजना में क्रिस्टलीकृत होने लगे।",
+          "gujaratiPronunciation": "હર થૉટ્સ બિગેન ટુ ક્રિસ્ટલાઇઝ ઇન્ટુ અ ક્લિયર પ્લાન.",
+          "hindiPronunciation": "हर थॉट्स बिगेन टू क्रिस्टलाइज़ इनटू अ क्लियर प्लान।"
+        }
+      ]
+    },
+    {
+      "word": "Ruminate",
+      "gujaratiPronunciation": "રૂમિનેટ",
+      "hindiPronunciation": "रूमिनेट",
+      "gujaratiMeaning": "ઊંડો વિચાર કરવો, વાગોળવું",
+      "hindiMeaning": "गहन चिंतन करना, जुगाली करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Ruminate", "gujaratiPronunciation": "રૂમિનેટ", "hindiPronunciation": "रूमिनेट", "gujaratiMeaning": "ઊંડો વિચાર કરવો", "hindiMeaning": "गहन चिंतन करना" },
+        "V2 (Past)": { "word": "Ruminated", "gujaratiPronunciation": "રૂમિનેટેડ", "hindiPronunciation": "रूमिनेटेड", "gujaratiMeaning": "ઊંડો વિચાર કર્યો", "hindiMeaning": "गहन चिंतन किया" },
+        "V3 (Past Participle)": { "word": "Ruminated", "gujaratiPronunciation": "રૂમિનેટેડ", "hindiPronunciation": "रूमिनेटेड", "gujaratiMeaning": "ઊંડો વિચાર કરેલો", "hindiMeaning": "गहन चिंतन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Ruminating", "gujaratiPronunciation": "રૂમિનેટિંગ", "hindiPronunciation": "रूमिनेटिंग", "gujaratiMeaning": "ઊંડો વિચાર કરી રહ્યું", "hindiMeaning": "गहन चिंतन कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Ponder", "gujaratiPronunciation": "પોન્ડર", "hindiPronunciation": "पॉन्डर", "gujaratiMeaning": "વિચારવું", "hindiMeaning": "विचार करना" },
+        { "word": "Meditate", "gujaratiPronunciation": "મેડિટેટ", "hindiPronunciation": "मेडिटेट", "gujaratiMeaning": "ધ્યાન કરવું", "hindiMeaning": "ध्यान करना" }
+      ],
+      "antonyms": [
+        { "word": "Act", "gujaratiPronunciation": "એક્ટ", "hindiPronunciation": "एक्ट", "gujaratiMeaning": "કાર્ય કરવું", "hindiMeaning": "कार्य करना" },
+        { "word": "Decide", "gujaratiPronunciation": "ડિસાઇડ", "hindiPronunciation": "डिसाइड", "gujaratiMeaning": "નિર્ણય લેવો", "hindiMeaning": "निर्णय लेना" }
+      ],
+      "confusingWords": [
+        { "word": "Eliminate", "gujaratiPronunciation": "એલિમિનેટ", "hindiPronunciation": "एलिमिनेट", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He ruminated on the meaning of life.",
+          "gujaratiTranslation": "તેમણે જીવનના અર્થ પર ઊંડો વિચાર કર્યો.",
+          "hindiTranslation": "उसने जीवन के अर्थ पर गहन चिंतन किया।",
+          "gujaratiPronunciation": "હી રૂમિનેટેડ ઓન ધ મિનિંગ ઓફ લાઇફ.",
+          "hindiPronunciation": "ही रूमिनेटेड ऑन द मीनिंग ऑफ लाइफ।"
+        }
+      ]
+    },
+    {
+      "word": "Opine",
+      "gujaratiPronunciation": "ઓપાઇન",
+      "hindiPronunciation": "ओपाइन",
+      "gujaratiMeaning": "મંતવ્ય આપવો, અભિપ્રાય વ્યક્ત કરવો",
+      "hindiMeaning": "राय देना, मत व्यक्त करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Opine", "gujaratiPronunciation": "ઓપાઇન", "hindiPronunciation": "ओपाइन", "gujaratiMeaning": "મંતવ્ય આપવો", "hindiMeaning": "राय देना" },
+        "V2 (Past)": { "word": "Opined", "gujaratiPronunciation": "ઓપાઇન્ડ", "hindiPronunciation": "ओपाइंड", "gujaratiMeaning": "મંતવ્ય આપ્યો", "hindiMeaning": "राय दी" },
+        "V3 (Past Participle)": { "word": "Opined", "gujaratiPronunciation": "ઓપાઇન્ડ", "hindiPronunciation": "ओपाइंड", "gujaratiMeaning": "મંતવ્ય આપેલો", "hindiMeaning": "राय दी हुई" },
+        "V4 (Present Participle)": { "word": "Opining", "gujaratiPronunciation": "ઓપાઇનિંગ", "hindiPronunciation": "ओपाइनिंग", "gujaratiMeaning": "મંતવ્ય આપી રહ્યું", "hindiMeaning": "राय दे रहा" }
+      },
+      "synonyms": [
+        { "word": "Suggest", "gujaratiPronunciation": "સજેસ્ટ", "hindiPronunciation": "सजेस्ट", "gujaratiMeaning": "સૂચવવું", "hindiMeaning": "सुझाव देना" },
+        { "word": "Comment", "gujaratiPronunciation": "કમેન્ટ", "hindiPronunciation": "कमेंट", "gujaratiMeaning": "ટિપ્પણી કરવી", "hindiMeaning": "टिप्पणी करना" }
+      ],
+      "antonyms": [
+        { "word": "Listen", "gujaratiPronunciation": "લિસન", "hindiPronunciation": "लिसन", "gujaratiMeaning": "સાંભળવું", "hindiMeaning": "सुनना" },
+        { "word": "Question", "gujaratiPronunciation": "ક્વેશ્ચન", "hindiPronunciation": "क्वेश्चन", "gujaratiMeaning": "પ્રશ્ન કરવો", "hindiMeaning": "प्रश्न करना" }
+      ],
+      "confusingWords": [
+        { "word": "Open", "gujaratiPronunciation": "ઓપન", "hindiPronunciation": "ओपन", "gujaratiMeaning": "ખુલ્લું", "hindiMeaning": "खुला" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The expert opined that the project would be successful.",
+          "gujaratiTranslation": "નિષ્ણાતે મંતવ્ય આપ્યો કે પ્રોજેક્ટ સફળ થશે.",
+          "hindiTranslation": "विशेषज्ञ ने राय दी कि परियोजना सफल होगी।",
+          "gujaratiPronunciation": "ધ એક્સપર્ટ ઓપાઇન્ડ ધેટ ધ પ્રોજેક્ટ વુડ બી સક્સેસફુલ.",
+          "hindiPronunciation": "द एक्सपर्ट ओपाइंड दैट द प्रोजेक्ट वुड बी सक्सेसफुल।"
+        }
+      ]
+    },
+    {
+      "word": "Theorize",
+      "gujaratiPronunciation": "થિયરાઇઝ",
+      "hindiPronunciation": "थियराइज़",
+      "gujaratiMeaning": "સિદ્ધાંત બનાવવો, કલ્પના કરવી",
+      "hindiMeaning": "सिद्धांत बनाना, परिकल्पना करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Theorize", "gujaratiPronunciation": "થિયરાઇઝ", "hindiPronunciation": "थियराइज़", "gujaratiMeaning": "સિદ્ધાંત બનાવવો", "hindiMeaning": "सिद्धांत बनाना" },
+        "V2 (Past)": { "word": "Theorized", "gujaratiPronunciation": "થિયરાઇઝ્ડ", "hindiPronunciation": "थियराइज़्ड", "gujaratiMeaning": "સિદ્ધાંત બનાવ્યો", "hindiMeaning": "सिद्धांत बनाया" },
+        "V3 (Past Participle)": { "word": "Theorized", "gujaratiPronunciation": "થિયરાઇઝ્ડ", "hindiPronunciation": "थियराइज़्ड", "gujaratiMeaning": "સિદ્ધાંત બનાવેલો", "hindiMeaning": "सिद्धांत बनाया हुआ" },
+        "V4 (Present Participle)": { "word": "Theorizing", "gujaratiPronunciation": "થિયરાઇઝિંગ", "hindiPronunciation": "थियराइजिंग", "gujaratiMeaning": "સિદ્ધાંત બનાવી રહ્યું", "hindiMeaning": "सिद्धांत बना रहा" }
+      },
+      "synonyms": [
+        { "word": "Speculate", "gujaratiPronunciation": "સ્પેક્યુલેટ", "hindiPronunciation": "स्पेक्युलेट", "gujaratiMeaning": "અટકળ કરવી", "hindiMeaning": "अटकलें लगाना" },
+        { "word": "Hypothesize", "gujaratiPronunciation": "હાઇપોથિસાઇઝ", "hindiPronunciation": "हाइपोथेसाइज़", "gujaratiMeaning": "પૂર્વધારણા કરવી", "hindiMeaning": "परिकल्पना करना" }
+      ],
+      "antonyms": [
+        { "word": "Prove", "gujaratiPronunciation": "પ્રૂવ", "hindiPronunciation": "प्रूव", "gujaratiMeaning": "સાબિત કરવું", "hindiMeaning": "साबित करना" },
+        { "word": "Observe", "gujaratiPronunciation": "ઓબ્ઝર્વ", "hindiPronunciation": "ऑब्ज़र्व", "gujaratiMeaning": "અવલોકન કરવું", "hindiMeaning": "अवलोकन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Terrorize", "gujaratiPronunciation": "ટેરરાઇઝ", "hindiPronunciation": "टेरराइज़", "gujaratiMeaning": "આતંક ફેલાવવો", "hindiMeaning": "आतंकित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Scientists theorize that dark matter exists.",
+          "gujaratiTranslation": "વૈજ્ઞાનિકો એવો સિદ્ધાંત બનાવે છે કે ડાર્ક મેટર અસ્તિત્વમાં છે.",
+          "hindiTranslation": "वैज्ञानिक यह सिद्धांत देते हैं कि डार्क मैटर मौजूद है।",
+          "gujaratiPronunciation": "સાયન્ટિસ્ટ્સ થિયરાઇઝ ધેટ ડાર્ક મેટર એક્ઝિસ્ટ્સ.",
+          "hindiPronunciation": "साइंटिस्ट्स थियराइज़ दैट डार्क मैटर एक्सिस्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Intuit",
+      "gujaratiPronunciation": "ઇન્ટ્યુટ",
+      "hindiPronunciation": "इंट्यूट",
+      "gujaratiMeaning": "અંતઃપ્રેરણાથી જાણવું, સહજ રીતે સમજવું",
+      "hindiMeaning": "अंतर्ज्ञान से जानना, सहज रूप से समझना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Intuit", "gujaratiPronunciation": "ઇન્ટ્યુટ", "hindiPronunciation": "इंट्यूट", "gujaratiMeaning": "સહજ રીતે સમજવું", "hindiMeaning": "सहज रूप से समझना" },
+        "V2 (Past)": { "word": "Intuited", "gujaratiPronunciation": "ઇન્ટ્યુટેડ", "hindiPronunciation": "इंट्यूटेड", "gujaratiMeaning": "સહજ રીતે સમજ્યું", "hindiMeaning": "सहज रूप से समझा" },
+        "V3 (Past Participle)": { "word": "Intuited", "gujaratiPronunciation": "ઇન્ટ્યુટેડ", "hindiPronunciation": "इंट्यूटेड", "gujaratiMeaning": "સહજ રીતે સમજેલું", "hindiMeaning": "सहज रूप से समझा हुआ" },
+        "V4 (Present Participle)": { "word": "Intuiting", "gujaratiPronunciation": "ઇન્ટ્યુટિંગ", "hindiPronunciation": "इंट्यूटिंग", "gujaratiMeaning": "સહજ રીતે સમજી રહ્યું", "hindiMeaning": "सहज रूप से समझ रहा" }
+      },
+      "synonyms": [
+        { "word": "Sense", "gujaratiPronunciation": "સેન્સ", "hindiPronunciation": "सेंस", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" },
+        { "word": "Perceive", "gujaratiPronunciation": "પર્સીવ", "hindiPronunciation": "परसीव", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" }
+      ],
+      "antonyms": [
+        { "word": "Reason", "gujaratiPronunciation": "રીઝન", "hindiPronunciation": "रीज़न", "gujaratiMeaning": "તર્ક કરવો", "hindiMeaning": "तर्क करना" },
+        { "word": "Analyze", "gujaratiPronunciation": "એનલાઈઝ", "hindiPronunciation": "एनलाइज़", "gujaratiMeaning": "વિશ્લેષણ કરવું", "hindiMeaning": "विश्लेषण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Invite", "gujaratiPronunciation": "ઇન્વાઇટ", "hindiPronunciation": "इनवाइट", "gujaratiMeaning": "આમંત્રણ આપવું", "hindiMeaning": "आमंत्रित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She intuited that something was wrong.",
+          "gujaratiTranslation": "તેણીને સહજ રીતે સમજાયું કે કંઈક ખોટું હતું.",
+          "hindiTranslation": "उसे सहज ही महसूस हो गया कि कुछ गड़बड़ है।",
+          "gujaratiPronunciation": "શી ઇન્ટ્યુટેડ ધેટ સમથિંગ વૉઝ રોંગ.",
+          "hindiPronunciation": "शी इंट्यूटेड दैट समथिंग वॉज़ रॉन्ग।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "level-3",
+  "title": "Digital Actions 3",
+  "words": [
+    {
+      "word": "Watch",
+      "gujaratiPronunciation": "વૉચ",
+      "hindiPronunciation": "वॉच",
+      "gujaratiMeaning": "જોવું",
+      "hindiMeaning": "देखना",
+      "exampleSentences": [
+        {
+          "sentence": "I like to watch movies online.",
+          "gujaratiTranslation": "મને ઓનલાઇન ફિલ્મો જોવી ગમે છે.",
+          "hindiTranslation": "मुझे ऑनलाइन फिल्में देखना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Listen",
+      "gujaratiPronunciation": "લિસન",
+      "hindiPronunciation": "लिसन",
+      "gujaratiMeaning": "સાંભળવું",
+      "hindiMeaning": "सुनना",
+      "exampleSentences": [
+        {
+          "sentence": "You can listen to music on Spotify.",
+          "gujaratiTranslation": "તમે સ્પોટાઇફાઇ પર સંગીત સાંભળી શકો છો.",
+          "hindiTranslation": "आप Spotify पर संगीत सुन सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Record",
+      "gujaratiPronunciation": "રેકોર્ડ",
+      "hindiPronunciation": "रिकॉर्ड",
+      "gujaratiMeaning": "રેકોર્ડ કરવું",
+      "hindiMeaning": "रिकॉर्ड करना",
+      "exampleSentences": [
+        {
+          "sentence": "He will record a video.",
+          "gujaratiTranslation": "તે એક વીડિયો રેકોર્ડ કરશે.",
+          "hindiTranslation": "वह एक वीडियो ریکارڈ کرے گا۔"
+        }
+      ]
+    },
+    {
+      "word": "Draw",
+      "gujaratiPronunciation": "ડ્રૉ",
+      "hindiPronunciation": "ड्रॉ",
+      "gujaratiMeaning": "દોરવું",
+      "hindiMeaning": "चित्र बनाना",
+      "exampleSentences": [
+        {
+          "sentence": "She can draw on a tablet.",
+          "gujaratiTranslation": "તેણી ટેબ્લેટ પર દોરી શકે છે.",
+          "hindiTranslation": "वह टैबलेट पर चित्र बना सकती है।"
+        }
+      ]
+    },
+    {
+      "word": "Paint",
+      "gujaratiPronunciation": "પેઇન્ટ",
+      "hindiPronunciation": "पेंट",
+      "gujaratiMeaning": "રંગવું",
+      "hindiMeaning": "रंग भरना",
+      "exampleSentences": [
+        {
+          "sentence": "He uses a software to paint digitally.",
+          "gujaratiTranslation": "તે ડિજિટલ રીતે રંગવા માટે સોફ્ટવેરનો ઉપયોગ કરે છે.",
+          "hindiTranslation": "वह डिजिटल रूप से पेंट करने के लिए सॉफ्टवेयर का उपयोग करता है।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Harmonize",
+            "gujaratiPronunciation": "હાર્મનાઇઝ",
+            "hindiPronunciation": "हार्मोनाइज़",
+            "gujaratiMeaning": "સામંજસ્ય સ્થાપિત કરવું, સુમેળ સાધવો",
+            "hindiMeaning": "सामंजस्य स्थापित करना, तालमेल बिठाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Harmonize", "pronunciation": "હાર્મનાઇઝ", "meaning": "સુમેળ સાધવો" },
+                "v2": { "word": "Harmonized", "pronunciation": "હાર્મનાઇઝ્ડ", "meaning": "સુમેળ સાધ્યો" },
+                "v3": { "word": "Harmonized", "pronunciation": "હાર્મનાઇઝ્ડ", "meaning": "સુમેળ સાધેલો" },
+                "v4": { "word": "Harmonizing", "pronunciation": "હાર્મનાઇઝિંગ", "meaning": "સુમેળ સાધી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Coordinate", "pronunciation": "કોઓર્ડિનેટ", "meaning": "સંકલન કરવું" },
+                { "word": "Correspond", "pronunciation": "કોરસ્પોન્ડ", "meaning": "અનુરૂપ હોવું" }
+            ],
+            "antonyms": [
+                { "word": "Clash", "pronunciation": "ક્લેશ", "meaning": "સંઘર્ષ થવો" },
+                { "word": "Conflict", "pronunciation": "કોન્ફ્લિક્ટ", "meaning": "વિરોધાભાસ" }
+            ],
+            "confusingWords": [
+                { "word": "Harm on eyes", "pronunciation": "હાર્મ ઓન આઇઝ", "meaning": "આંખો પર નુકસાન" },
+                { "word": "Arm nice", "pronunciation": "આર્મ નાઇસ", "meaning": "સરસ હાથ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "We need to harmonize our efforts to achieve the best results.",
+                    "gujaratiTranslation": "શ્રેષ્ઠ પરિણામો પ્રાપ્ત કરવા માટે આપણે આપણા પ્રયત્નોમાં સુમેળ સાધવાની જરૂર છે.",
+                    "hindiTranslation": "सर्वोत्तम परिणाम प्राप्त करने के लिए हमें अपने प्रयासों में सामंजस्य स्थापित करने की आवश्यकता है।"
+                }
+            ]
+        },
+        {
+            "word": "Coalesce",
+            "gujaratiPronunciation": "કોએલેસ",
+            "hindiPronunciation": "कोलेस",
+            "gujaratiMeaning": "એકત્ર થવું, ભળી જવું",
+            "hindiMeaning": "एकत्र होना, मिल जाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Coalesce", "pronunciation": "કોએલેસ", "meaning": "એકત્ર થવું" },
+                "v2": { "word": "Coalesced", "pronunciation": "કોએલેસ્ડ", "meaning": "એકત્ર થયું" },
+                "v3": { "word": "Coalesced", "pronunciation": "કોએલેસ્ડ", "meaning": "એકત્ર થયેલું" },
+                "v4": { "word": "Coalescing", "pronunciation": "કોએલેસિંગ", "meaning": "એકત્ર થઈ રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Merge", "pronunciation": "મર્જ", "meaning": "વિલીન થવું" },
+                { "word": "Unite", "pronunciation": "યુનાઇટ", "meaning": "એક થવું" }
+            ],
+            "antonyms": [
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "અલગ થવું" },
+                { "word": "Divide", "pronunciation": "ડિવાઇડ", "meaning": "વિભાજીત કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Coal less", "pronunciation": "કોલ લેસ", "meaning": "ઓછો કોલસો" },
+                { "word": "Adolesce", "pronunciation": "એડોલેસ", "meaning": "કિશોરાવસ્થામાં પ્રવેશ કરવો" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The small groups coalesced into one large protest.",
+                    "gujaratiTranslation": "નાના જૂથો એકત્ર થઈને એક મોટા વિરોધ પ્રદર્શનમાં ફેરવાઈ ગયા.",
+                    "hindiTranslation": "छोटे समूह मिलकर एक बड़े विरोध में बदल गए।"
+                }
+            ]
+        },
+        {
+            "word": "Synchronize",
+            "gujaratiPronunciation": "સિંક્રોનાઇઝ",
+            "hindiPronunciation": "सिंक्रोनाइज़",
+            "gujaratiMeaning": "એક જ સમયે ગોઠવવું, સુમેળમાં કરવું",
+            "hindiMeaning": "एक ही समय पर सेट करना, समन्वयित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Synchronize", "pronunciation": "સિંક્રોનાઇઝ", "meaning": "સુમેળમાં કરવું" },
+                "v2": { "word": "Synchronized", "pronunciation": "સિંક્રોનાઇઝ્ડ", "meaning": "સુમેળમાં કર્યું" },
+                "v3": { "word": "Synchronized", "pronunciation": "સિંક્રોનાઇઝ્ડ", "meaning": "સુમેળમાં કરેલું" },
+                "v4": { "word": "Synchronizing", "pronunciation": "સિંક્રોનાઇઝિંગ", "meaning": "સુમેળમાં કરી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Align", "pronunciation": "અલાઇન", "meaning": "સંરેખિત કરવું" },
+                { "word": "Coordinate", "pronunciation": "કોઓર્ડિનેટ", "meaning": "સંકલન કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Desynchronize", "pronunciation": "ડિસિંક્રોનાઇઝ", "meaning": "વિસંગત કરવું" },
+                { "word": "Mismatch", "pronunciation": "મિસમૅચ", "meaning": "મેળ ન ખાવો" }
+            ],
+            "confusingWords": [
+                { "word": "Sink your eyes", "pronunciation": "સિંક યોર આઇઝ", "meaning": "તમારી આંખો ડૂબાડો" },
+                { "word": "Chronicles", "pronunciation": "ક્રોનિકલ્સ", "meaning": "ઇતિહાસ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Let's synchronize our watches before the mission begins.",
+                    "gujaratiTranslation": "મિશન શરૂ થાય તે પહેલાં ચાલો આપણે આપણી ઘડિયાળોને એક જ સમયે ગોઠવીએ.",
+                    "hindiTranslation": "मिशन शुरू होने से पहले अपनी घड़ियाँ सिंक्रोनाइज़ कर लें।"
+                }
+            ]
+        },
+        {
+            "word": "Intertwine",
+            "gujaratiPronunciation": "ઇન્ટરટ્વાઇન",
+            "hindiPronunciation": "इंटरट्विन",
+            "gujaratiMeaning": "એકબીજા સાથે વણાવું, ગૂંથાઈ જવું",
+            "hindiMeaning": "एक दूसरे से गुंथना, उलझ जाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Intertwine", "pronunciation": "ઇન્ટરટ્વાઇન", "meaning": "વણાવું" },
+                "v2": { "word": "Intertwined", "pronunciation": "ઇન્ટરટ્વાઇન્ડ", "meaning": "વણાયેલું" },
+                "v3": { "word": "Intertwined", "pronunciation": "ઇન્ટરટ્વાઇન્ડ", "meaning": "વણાયેલું" },
+                "v4": { "word": "Intertwining", "pronunciation": "ઇન્ટરટ્વાઇનિંગ", "meaning": "વણાઈ રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Interweave", "pronunciation": "ઇન્ટરવીવ", "meaning": "ગૂંથવું" },
+                { "word": "Entwine", "pronunciation": "એન્ટ્વાઇન", "meaning": "વિંટળાવું" }
+            ],
+            "antonyms": [
+                { "word": "Unravel", "pronunciation": "અનરેવલ", "meaning": "ઉકેલવું" },
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "અલગ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Enter wine", "pronunciation": "એન્ટર વાઇન", "meaning": "વાઇનમાં પ્રવેશ કરો" },
+                { "word": "Interview", "pronunciation": "ઇન્ટરવ્યૂ", "meaning": "મુલાકાત" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Their fates seemed to intertwine from the moment they met.",
+                    "gujaratiTranslation": "તેઓ મળ્યા તે ક્ષણથી જ તેમના ભાગ્ય એકબીજા સાથે વણાયેલા લાગતા હતા.",
+                    "hindiTranslation": "जिस क्षण वे मिले, उनकी किस्मत आपस में गुंथी हुई लग रही थी।"
+                }
+            ]
+        },
+        {
+            "word": "Unite",
+            "gujaratiPronunciation": "યુનાઇટ",
+            "hindiPronunciation": "यूनाइट",
+            "gujaratiMeaning": "એક થવું, સંગઠિત થવું",
+            "hindiMeaning": "एक होना, संगठित होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Unite", "pronunciation": "યુનાઇટ", "meaning": "એક થવું" },
+                "v2": { "word": "United", "pronunciation": "યુનાઇટેડ", "meaning": "એક થયા" },
+                "v3": { "word": "United", "pronunciation": "યુનાઇટેડ", "meaning": "એક થયેલ" },
+                "v4": { "word": "Uniting", "pronunciation": "યુનાઇટિંગ", "meaning": "એક થઈ રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Join", "pronunciation": "જોઇન", "meaning": "જોડાવું" },
+                { "word": "Combine", "pronunciation": "કમ્બાઇન", "meaning": "ભેગું કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Divide", "pronunciation": "ડિવાઇડ", "meaning": "વિભાજન કરવું" },
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "અલગ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Untie", "pronunciation": "અનટાઇ", "meaning": "છોડવું" },
+                { "word": "Unit", "pronunciation": "યુનિટ", "meaning": "એકમ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The community must unite to fight against the new policy.",
+                    "gujaratiTranslation": "નવી નીતિ સામે લડવા માટે સમુદાયે એક થવું જ જોઇએ.",
+                    "hindiTranslation": "नई नीति के खिलाफ लड़ने के लिए समुदाय को एकजुट होना होगा।"
+                }
+            ]
+        }
+    ]
+}

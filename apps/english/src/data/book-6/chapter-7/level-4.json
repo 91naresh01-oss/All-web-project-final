@@ -1,0 +1,481 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Retrofit",
+      "gujaratiPronunciation": "રેટ્રોફિટ",
+      "hindiPronunciation": "रेट्रोफिट",
+      "gujaratiMeaning": "જૂનામાં નવું ઉમેરવું",
+      "hindiMeaning": "पुराने में नया उपकरण लगाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Retrofit",
+          "gujaratiPronunciation": "રેટ્રોફિટ",
+          "hindiPronunciation": "रेट्रोफिट",
+          "gujaratiMeaning": "જૂનામાં નવું ઉમેરવું",
+          "hindiMeaning": "पुराने में नया उपकरण लगाना"
+        },
+        "V2 (Past)": {
+          "word": "Retrofit / Retrofitted",
+          "gujaratiPronunciation": "રેટ્રોફિટ / રેટ્રોફિટેડ",
+          "hindiPronunciation": "रेट्रोफिट / रेट्रोफिटेड",
+          "gujaratiMeaning": "જૂનામાં નવું ઉમેર્યું",
+          "hindiMeaning": "पुराने में नया उपकरण लगाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Retrofit / Retrofitted",
+          "gujaratiPronunciation": "રેટ્રોફિટ / રેટ્રોફિટેડ",
+          "hindiPronunciation": "रेट्रोफिट / रेट्रोफिटेड",
+          "gujaratiMeaning": "જૂનામાં નવું ઉમેરેલું",
+          "hindiMeaning": "पुराने में नया उपकरण लगाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Retrofitting",
+          "gujaratiPronunciation": "રેટ્રોફિટિંગ",
+          "hindiPronunciation": "रेट्रोफिटिंग",
+          "gujaratiMeaning": "જૂનામાં નવું ઉમેરી રહ્યું છે",
+          "hindiMeaning": "पुराने में नया उपकरण लगा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Modernize",
+          "gujaratiPronunciation": "મોર્ડનાઇઝ",
+          "hindiPronunciation": "मॉर्डर्नाइज़",
+          "gujaratiMeaning": "આધુનિક બનાવવું",
+          "hindiMeaning": "आधुनिकीकरण करना"
+        },
+        {
+          "word": "Upgrade",
+          "gujaratiPronunciation": "અપગ્રેડ",
+          "hindiPronunciation": "अपग्रेड",
+          "gujaratiMeaning": "ઉન્નત કરવું",
+          "hindiMeaning": "उन्नत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Deteriorate",
+          "gujaratiPronunciation": "ડિટેરિયોરેટ",
+          "hindiPronunciation": "डेटेरियोरेट",
+          "gujaratiMeaning": "બગડવું",
+          "hindiMeaning": "बिगड़ना"
+        },
+        {
+          "word": "Downgrade",
+          "gujaratiPronunciation": "ડાઉનગ્રેડ",
+          "hindiPronunciation": "डाउनग्रेड",
+          "gujaratiMeaning": "અધોગતિ કરવી",
+          "hindiMeaning": "अवनत करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Benefit",
+          "gujaratiPronunciation": "બેનિફિટ",
+          "hindiPronunciation": "बेनिफिट",
+          "gujaratiMeaning": "લાભ",
+          "hindiMeaning": "लाभ"
+        },
+        {
+          "word": "Profit",
+          "gujaratiPronunciation": "પ્રોફિટ",
+          "hindiPronunciation": "प्रॉफिट",
+          "gujaratiMeaning": "નફો",
+          "hindiMeaning": "मुनाफा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company decided to retrofit the old machinery.",
+          "gujaratiPronunciation": "ધ કંપની ડિસાઇડેડ ટુ રેટ્રોફિટ ધ ઓલ્ડ મશીનરી.",
+          "hindiPronunciation": "द कंपनी डिसाइडेड टू रेट्रोफिट द ओल्ड मशीनरी।",
+          "gujaratiTranslation": "કંપનીએ જૂની મશીનરીમાં નવા સાધનો ઉમેરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "कंपनी ने पुरानी मशीनरी में नए उपकरण लगाने का फैसला किया।"
+        }
+      ]
+    },
+    {
+      "word": "Decontaminate",
+      "gujaratiPronunciation": "ડીકન્ટેમિનેટ",
+      "hindiPronunciation": "डीकंटैमिनेट",
+      "gujaratiMeaning": "દૂષણમુક્ત કરવું",
+      "hindiMeaning": "संदूषण-रहित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Decontaminate",
+          "gujaratiPronunciation": "ડીકન્ટેમિનેટ",
+          "hindiPronunciation": "डीकंटैमिनेट",
+          "gujaratiMeaning": "દૂષણમુક્ત કરવું",
+          "hindiMeaning": "संदूषण-रहित करना"
+        },
+        "V2 (Past)": {
+          "word": "Decontaminated",
+          "gujaratiPronunciation": "ડીકન્ટેમિનેટેડ",
+          "hindiPronunciation": "डीकंटैमिनेटेड",
+          "gujaratiMeaning": "દૂષણમુક્ત કર્યું",
+          "hindiMeaning": "संदूषण-रहित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Decontaminated",
+          "gujaratiPronunciation": "ડીકન્ટેમિનેટેડ",
+          "hindiPronunciation": "डीकंटैमिनेटेड",
+          "gujaratiMeaning": "દૂષણમુક્ત કરેલું",
+          "hindiMeaning": "संदूषण-रहित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Decontaminating",
+          "gujaratiPronunciation": "ડીકન્ટેમિનેટિંગ",
+          "hindiPronunciation": "डीकंटैमिनेटिंग",
+          "gujaratiMeaning": "દૂષણમુક્ત કરી રહ્યું છે",
+          "hindiMeaning": "संदूषण-रहित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Purify",
+          "gujaratiPronunciation": "પ્યુરિફાય",
+          "hindiPronunciation": "प्यूरिफाई",
+          "gujaratiMeaning": "શુદ્ધ કરવું",
+          "hindiMeaning": "शुद्ध करना"
+        },
+        {
+          "word": "Cleanse",
+          "gujaratiPronunciation": "ક્લેન્ઝ",
+          "hindiPronunciation": "क्लेंज़",
+          "gujaratiMeaning": "સ્વચ્છ કરવું",
+          "hindiMeaning": "साफ करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Contaminate",
+          "gujaratiPronunciation": "કન્ટેમિનેટ",
+          "hindiPronunciation": "कंटैमिनेट",
+          "gujaratiMeaning": "દૂષિત કરવું",
+          "hindiMeaning": "दूषित करना"
+        },
+        {
+          "word": "Infect",
+          "gujaratiPronunciation": "ઇન્ફેક્ટ",
+          "hindiPronunciation": "इन्फेक्ट",
+          "gujaratiMeaning": "ચેપ લગાડવો",
+          "hindiMeaning": "संक्रमित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Decompose",
+          "gujaratiPronunciation": "ડીકમ્પોઝ",
+          "hindiPronunciation": "डीकंपोज",
+          "gujaratiMeaning": "સડવું",
+          "hindiMeaning": "सड़ना"
+        },
+        {
+          "word": "Deconstruct",
+          "gujaratiPronunciation": "ડીકન્સ્ટ્રક્ટ",
+          "hindiPronunciation": "डीकंस्ट्रक्ट",
+          "gujaratiMeaning": "વિઘટન કરવું",
+          "hindiMeaning": "विघटित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The team worked to decontaminate the area after the chemical spill.",
+          "gujaratiPronunciation": "ધ ટીમ વર્ક્ડ ટુ ડીકન્ટેમિનેટ ધ એરિયા આફ્ટર ધ કેમિકલ સ્પિલ.",
+          "hindiPronunciation": "द टीम वर्क्ड टू डीकंटैमिनेट द एरिया आफ्टर द केमिकल स्पिल।",
+          "gujaratiTranslation": "કેમિકલ ફેલાયા પછી ટીમે વિસ્તારને દૂષણમુક્ત કરવાનું કામ કર્યું.",
+          "hindiTranslation": "रासायनिक रिसाव के बाद टीम ने क्षेत्र को संदूषण-रहित करने का काम किया।"
+        }
+      ]
+    },
+    {
+      "word": "Tend",
+      "gujaratiPronunciation": "ટેન્ડ",
+      "hindiPronunciation": "टेंड",
+      "gujaratiMeaning": "સંભાળ રાખવી",
+      "hindiMeaning": "देखभाल करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Tend",
+          "gujaratiPronunciation": "ટેન્ડ",
+          "hindiPronunciation": "टेंड",
+          "gujaratiMeaning": "સંભાળ રાખવી",
+          "hindiMeaning": "देखभाल करना"
+        },
+        "V2 (Past)": {
+          "word": "Tended",
+          "gujaratiPronunciation": "ટેન્ડેડ",
+          "hindiPronunciation": "टेंडेड",
+          "gujaratiMeaning": "સંભાળ રાખી",
+          "hindiMeaning": "देखभाल की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Tended",
+          "gujaratiPronunciation": "ટેન્ડેડ",
+          "hindiPronunciation": "टेंडेड",
+          "gujaratiMeaning": "સંભાળ રાખેલી",
+          "hindiMeaning": "देखभाल की हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Tending",
+          "gujaratiPronunciation": "ટેન્ડિંગ",
+          "hindiPronunciation": "टेंडिंग",
+          "gujaratiMeaning": "સંભાળ રાખી રહ્યું છે",
+          "hindiMeaning": "देखभाल कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Care for",
+          "gujaratiPronunciation": "કેર ફોર",
+          "hindiPronunciation": "केयर फॉर",
+          "gujaratiMeaning": "કાળજી લેવી",
+          "hindiMeaning": "ध्यान रखना"
+        },
+        {
+          "word": "Look after",
+          "gujaratiPronunciation": "લૂક આફ્ટર",
+          "hindiPronunciation": "लुक आफ्टर",
+          "gujaratiMeaning": "દેખભાળ કરવી",
+          "hindiMeaning": "देखभाल करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "અવગણના કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "अनदेखा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Trend",
+          "gujaratiPronunciation": "ટ્રેન્ડ",
+          "hindiPronunciation": "ट्रेंड",
+          "gujaratiMeaning": "વલણ",
+          "hindiMeaning": "प्रवृत्ति"
+        },
+        {
+          "word": "Attend",
+          "gujaratiPronunciation": "એટેન્ડ",
+          "hindiPronunciation": "अटेंड",
+          "gujaratiMeaning": "હાજરી આપવી",
+          "hindiMeaning": "भाग लेना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She tends her garden with great love.",
+          "gujaratiPronunciation": "શી ટેન્ડ્સ હર ગાર્ડન વિથ ગ્રેટ લવ.",
+          "hindiPronunciation": "शी टेंड्स हर गार्डन विद ग्रेट लव।",
+          "gujaratiTranslation": "તેણી ખૂબ પ્રેમથી તેના બગીચાની સંભાળ રાખે છે.",
+          "hindiTranslation": "वह अपने बगीचे की बहुत प्यार से देखभाल करती है।"
+        }
+      ]
+    },
+    {
+      "word": "Groom",
+      "gujaratiPronunciation": "ગ્રૂમ",
+      "hindiPronunciation": "ग्रूम",
+      "gujaratiMeaning": "સુઘડ બનાવવું",
+      "hindiMeaning": "सँवारना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Groom",
+          "gujaratiPronunciation": "ગ્રૂમ",
+          "hindiPronunciation": "ग्रूम",
+          "gujaratiMeaning": "સુઘડ બનાવવું",
+          "hindiMeaning": "सँवारना"
+        },
+        "V2 (Past)": {
+          "word": "Groomed",
+          "gujaratiPronunciation": "ગ્રૂમ્ડ",
+          "hindiPronunciation": "ग्रूम्ड",
+          "gujaratiMeaning": "સુઘડ બનાવ્યું",
+          "hindiMeaning": "सँवारा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Groomed",
+          "gujaratiPronunciation": "ગ્રૂમ્ડ",
+          "hindiPronunciation": "ग्रूम्ड",
+          "gujaratiMeaning": "સુઘડ બનાવેલું",
+          "hindiMeaning": "सँवारा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Grooming",
+          "gujaratiPronunciation": "ગ્રૂમિંગ",
+          "hindiPronunciation": "ग्रूमिंग",
+          "gujaratiMeaning": "સુઘડ બનાવી રહ્યું છે",
+          "hindiMeaning": "सँवार रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Tidy",
+          "gujaratiPronunciation": "ટાઇડી",
+          "hindiPronunciation": "टाइडी",
+          "gujaratiMeaning": "વ્યવસ્થિત કરવું",
+          "hindiMeaning": "साफ-सुथरा करना"
+        },
+        {
+          "word": "Prepare",
+          "gujaratiPronunciation": "પ્રિપેર",
+          "hindiPronunciation": "प्रिपेयर",
+          "gujaratiMeaning": "તૈયાર કરવું",
+          "hindiMeaning": "तैयार करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Mess up",
+          "gujaratiPronunciation": "મેસ અપ",
+          "hindiPronunciation": "मेस अप",
+          "gujaratiMeaning": "ગડબડ કરવી",
+          "hindiMeaning": "गड़बड़ करना"
+        },
+        {
+          "word": "Dishevel",
+          "gujaratiPronunciation": "ડિશેવલ",
+          "hindiPronunciation": "डिशेवेल",
+          "gujaratiMeaning": "વિખરાવી નાખવું",
+          "hindiMeaning": "अस्त-व्यस्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Room",
+          "gujaratiPronunciation": "રૂમ",
+          "hindiPronunciation": "रूम",
+          "gujaratiMeaning": "ઓરડો",
+          "hindiMeaning": "कमरा"
+        },
+        {
+          "word": "Gloom",
+          "gujaratiPronunciation": "ગ્લૂમ",
+          "hindiPronunciation": "ग्लूम",
+          "gujaratiMeaning": "ઉદાસી",
+          "hindiMeaning": "उदासी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The dog needs to be groomed.",
+          "gujaratiPronunciation": "ધ ડોગ નીડ્સ ટુ બી ગ્રૂમ્ડ.",
+          "hindiPronunciation": "द डॉग नीड्स टू बी ग्रूम्ड।",
+          "gujaratiTranslation": "કૂતરાને સુઘડ બનાવવાની જરૂર છે.",
+          "hindiTranslation": "कुत्ते को सँवारने की ज़रूरत है।"
+        }
+      ]
+    },
+    {
+      "word": "Mend",
+      "gujaratiPronunciation": "મેન્ડ",
+      "hindiPronunciation": "मेंड",
+      "gujaratiMeaning": "સાંધવું",
+      "hindiMeaning": "सुधारना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Mend",
+          "gujaratiPronunciation": "મેન્ડ",
+          "hindiPronunciation": "मेंड",
+          "gujaratiMeaning": "સાંધવું",
+          "hindiMeaning": "सुधारना"
+        },
+        "V2 (Past)": {
+          "word": "Mended",
+          "gujaratiPronunciation": "મેન્ડેડ",
+          "hindiPronunciation": "मेंडेड",
+          "gujaratiMeaning": "સાંધ્યું",
+          "hindiMeaning": "सुधारा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Mended",
+          "gujaratiPronunciation": "મેન્ડેડ",
+          "hindiPronunciation": "मेंडेड",
+          "gujaratiMeaning": "સાંધેલું",
+          "hindiMeaning": "सुधारा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Mending",
+          "gujaratiPronunciation": "મેન્ડિંગ",
+          "hindiPronunciation": "मेंडिंग",
+          "gujaratiMeaning": "સાંધી રહ્યું છે",
+          "hindiMeaning": "सुधार रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Repair",
+          "gujaratiPronunciation": "રિપેર",
+          "hindiPronunciation": "रिपेयर",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        },
+        {
+          "word": "Fix",
+          "gujaratiPronunciation": "ફિક્સ",
+          "hindiPronunciation": "फिक्स",
+          "gujaratiMeaning": "ઠીક કરવું",
+          "hindiMeaning": "ठीक करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Tear",
+          "gujaratiPronunciation": "ટેર",
+          "hindiPronunciation": "टेयर",
+          "gujaratiMeaning": "ફાડવું",
+          "hindiMeaning": "फाड़ना"
+        },
+        {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Bend",
+          "gujaratiPronunciation": "બેન્ડ",
+          "hindiPronunciation": "बेंड",
+          "gujaratiMeaning": "વાળવું",
+          "hindiMeaning": "झुकना"
+        },
+        {
+          "word": "Mind",
+          "gujaratiPronunciation": "માઇન્ડ",
+          "hindiPronunciation": "माइंड",
+          "gujaratiMeaning": "મન",
+          "hindiMeaning": "मन"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you mend this hole in my sock?",
+          "gujaratiPronunciation": "કેન યુ મેન્ડ ધિસ હોલ ઇન માય સોક?",
+          "hindiPronunciation": "कैन यू मेंड दिस होल इन माय सॉक?",
+          "gujaratiTranslation": "શું તમે મારા મોજામાં આ કાણું સાંધી શકો છો?",
+          "hindiTranslation": "क्या आप मेरे मोज़े में इस छेद को सुधार सकते हैं?"
+        }
+      ]
+    }
+  ]
+}

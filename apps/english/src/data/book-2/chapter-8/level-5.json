@@ -1,0 +1,77 @@
+
+{
+  "id": "level-5",
+  "title": "Cities 2",
+  "words": [
+    {
+      "word": "Washington",
+      "gujaratiPronunciation": "વોશિંગ્ટન",
+      "hindiPronunciation": "वाशिंगटन",
+      "gujaratiMeaning": "વોશિંગ્ટન",
+      "hindiMeaning": "वाशिंगटन",
+      "exampleSentences": [
+        {
+          "sentence": "Washington D.C. is the capital of the USA.",
+          "gujaratiTranslation": "વોશિંગ્ટન ડી.સી. યુએસએની રાજધાની છે.",
+          "hindiTranslation": "वाशिंगटन डी.सी. यूएसए की राजधानी है।"
+        }
+      ]
+    },
+    {
+      "word": "Beijing",
+      "gujaratiPronunciation": "બેઇજિંગ",
+      "hindiPronunciation": "बीजिंग",
+      "gujaratiMeaning": "બેઇજિંગ",
+      "hindiMeaning": "बीजिंग",
+      "exampleSentences": [
+        {
+          "sentence": "Beijing is the capital city of China.",
+          "gujaratiTranslation": "બેઇજિંગ ચીનની રાજધાની છે.",
+          "hindiTranslation": "बीजिंग चीन की राजधानी है।"
+        }
+      ]
+    },
+    {
+      "word": "Moscow",
+      "gujaratiPronunciation": "મોસ્કો",
+      "hindiPronunciation": "मास्को",
+      "gujaratiMeaning": "મોસ્કો",
+      "hindiMeaning": "मास्को",
+      "exampleSentences": [
+        {
+          "sentence": "Moscow is a very cold city in winter.",
+          "gujaratiTranslation": "મોસ્કો શિયાળામાં ખૂબ ઠંડું શહેર છે.",
+          "hindiTranslation": "मास्को सर्दियों में एक बहुत ठंडा शहर है।"
+        }
+      ]
+    },
+    {
+      "word": "New York",
+      "gujaratiPronunciation": "ન્યૂ યોર્ક",
+      "hindiPronunciation": "न्यूयॉर्क",
+      "gujaratiMeaning": "ન્યૂ યોર્ક",
+      "hindiMeaning": "न्यूयॉर्क",
+      "exampleSentences": [
+        {
+          "sentence": "New York is also called 'The Big Apple'.",
+          "gujaratiTranslation": "ન્યૂ યોર્કને 'ધ બિગ એપલ' પણ કહેવામાં આવે છે.",
+          "hindiTranslation": "न्यूयॉर्क को 'द बिग एप्पल' भी कहा जाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Singapore",
+      "gujaratiPronunciation": "સિંગાપોર",
+      "hindiPronunciation": "सिंगापुर",
+      "gujaratiMeaning": "સિંગાપોર",
+      "hindiMeaning": "सिंगापुर",
+      "exampleSentences": [
+        {
+          "sentence": "Singapore is known for its cleanliness.",
+          "gujaratiTranslation": "સિંગાપોર તેની સ્વચ્છતા માટે જાણીતું છે.",
+          "hindiTranslation": "सिंगापुर अपनी स्वच्छता के लिए जाना जाता है।"
+        }
+      ]
+    }
+  ]
+}

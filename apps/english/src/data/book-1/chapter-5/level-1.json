@@ -1,0 +1,47 @@
+
+{
+    "id": "level-1",
+    "title": "Animals 1",
+    "words": [
+        {
+            "word": "Dog",
+            "icon": "🐶",
+            "gujaratiPronunciation": "ડૉગ",
+            "hindiPronunciation": "डॉग",
+            "gujaratiMeaning": "કૂતરો",
+            "hindiMeaning": "कुत्ता"
+        },
+        {
+            "word": "Cat",
+            "icon": "🐱",
+            "gujaratiPronunciation": "કેટ",
+            "hindiPronunciation": "कैट",
+            "gujaratiMeaning": "બિલાડી",
+            "hindiMeaning": "बिल्ली"
+        },
+        {
+            "word": "Cow",
+            "icon": "🐮",
+            "gujaratiPronunciation": "કાઉ",
+            "hindiPronunciation": "काउ",
+            "gujaratiMeaning": "ગાય",
+            "hindiMeaning": "गाय"
+        },
+        {
+            "word": "Bird",
+            "icon": "🐦",
+            "gujaratiPronunciation": "બર્ડ",
+            "hindiPronunciation": "बर्ड",
+            "gujaratiMeaning": "પક્ષી",
+            "hindiMeaning": "पक्षी"
+        },
+        {
+            "word": "Fish",
+            "icon": "🐟",
+            "gujaratiPronunciation": "ફિશ",
+            "hindiPronunciation": "फिश",
+            "gujaratiMeaning": "માછલી",
+            "hindiMeaning": "मछली"
+        }
+    ]
+}

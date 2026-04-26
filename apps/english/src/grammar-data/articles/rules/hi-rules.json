@@ -1,0 +1,414 @@
+{
+    "id": "articles-hi",
+    "title": "Articles (A, An, The) (आर्टिकल्स)",
+    "description": "A, An और The के उपयोग के लिए संपूर्ण नियम, अपवाद और उदाहरण।",
+    "content": [
+        {
+            "type": "section",
+            "title": "Article क्या है? (Introduction)",
+            "content": [
+                {
+                    "type": "list",
+                    "content": [
+                        "Article वह शब्द है जो <b>Noun (संज्ञा)</b> से पहले आता है।",
+                        "इसके दो प्रकार हैं: 1️⃣ <b>Indefinite (अनिश्चित)</b> - A, An और 2️⃣ <b>Definite (निश्चित)</b> - The.",
+                        "याद रखें: Article का उपयोग शब्द की वर्तनी (Spelling) से नहीं, बल्कि उसके <b>उच्चारण (Pronunciation)</b> से होता है।"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Article 'An' - कब इस्तेमाल करें?",
+            "content": [
+                {
+                    "type": "note",
+                    "content": "जब एकवचन संज्ञा के उच्चारण की शुरुआत हिंदी स्वर (अ, आ, इ, ई, उ, ऊ, ए, ऐ, ओ, औ, अं, अः) से होती हो।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "नियम",
+                            "उदाहरण (Example)",
+                            "समझाव"
+                        ],
+                        "rows": [
+                            [
+                                "नियम-1: स्वर उच्चारण",
+                                "<b>An</b> apple<br/><b>An</b> artist<br/><b>An</b> inkpot<br/><b>An</b> eagle<br/><b>An</b> umbrella<br/><b>An</b> engineer",
+                                "उच्चारण 'अ', 'आ', 'इ', 'ई' से शुरू होता है।"
+                            ],
+                            [
+                                "नियम-2: Silent 'H' (अनुच्चारित H)",
+                                "<b>An</b> hour (ऑवर)<br/><b>An</b> honest man (ऑनेस्ट)<br/><b>An</b> heir (एअर)<br/><b>An</b> honorable guest (ऑनररेबल)",
+                                "'H' लिखा जाता है पर बोला नहीं जाता। उच्चारण स्वर से शुरू होता है।"
+                            ],
+                            [
+                                "नियम-3: संक्षिप्त नाम (Abbreviations)",
+                                "<b>An</b> M.B.A. (एम...)<br/><b>An</b> S.P. (एस...)<br/><b>An</b> N.C.C. cadet (एन...)<br/><b>An</b> H.S.C student (एच...)<br/><b>An</b> S.S.C student",
+                                "प्रथम अक्षर का उच्चारण स्वर से होता है (M = एम, S = एस)।"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>खास नोट:</b>\n(1) I travels in <b>an</b> I.T.I. bus. (I = आई, स्वर है)।\n(2) They came by <b>an</b> S.T. bus. (S = एस, स्वर है)।"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Article 'A' - कब इस्तेमाल करें?",
+            "content": [
+                {
+                    "type": "note",
+                    "content": "जब एकवचन संज्ञा के उच्चारण की शुरुआत हिंदी व्यंजन (क, ख, ग...ज्ञ) से होती हो।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "नियम",
+                            "उदाहरण (Example)",
+                            "समझाव"
+                        ],
+                        "rows": [
+                            [
+                                "नियम-1: व्यंजन उच्चारण",
+                                "<b>A</b> car<br/><b>A</b> book<br/><b>A</b> table<br/><b>A</b> mango tree<br/><b>A</b> bag",
+                                "उच्चारण व्यंजन से शुरू होता है।"
+                            ],
+                            [
+                                "नियम-2: 'यु' (Yu) / 'व' (Wa) उच्चारण",
+                                "<b>A</b> university (यूनिवर्सिटी)<br/><b>A</b> union<br/><b>A</b> unit<br/><b>A</b> unicorn<br/><b>A</b> European (यूरोपियन)<br/><b>A</b> one-rupee coin (वन...)",
+                                "शब्द स्वर (U, E, O) से शुरू होता है पर उच्चारण 'य' (Yu) या 'व' (Wa) व्यंजन है।"
+                            ],
+                            [
+                                "नियम-3: व्यवसाय दर्शाने के लिए",
+                                "He is <b>a</b> lawyer.<br/>She is <b>a</b> nurse.<br/>Hareshbhai is <b>a</b> carpenter.<br/>Rajesh is <b>a</b> Police Inspector.",
+                                "किसी व्यक्ति का पद या व्यवसाय दर्शाने के लिए।"
+                            ],
+                            [
+                                "नियम-4: विस्मयादिबोधक वाक्य (Exclamatory)",
+                                "What <b>a</b> lovely day!<br/>What <b>a</b> smart boy!",
+                                "एकवचन नाम के साथ विस्मय में।"
+                            ],
+                            [
+                                "नियम-5: 'Such' के बाद",
+                                "I saw such <b>a</b> movie.<br/>He spoke in such <b>a</b> tone.<br/>such <b>an</b> efficient worker (स्वर हो तो An)।",
+                                "'Such' के बाद गिनने योग्य एकवचन नाम हो तो।"
+                            ],
+                            [
+                                "नियम-6: गिनती की जाने वाली संख्या",
+                                "<b>A</b> hundred<br/><b>A</b> dozen<br/><b>A</b> million<br/>I have <b>a</b> thousand rupee note.<br/>I bought <b>a</b> score of oranges.",
+                                "संख्यावाचक शब्दों के आगे।"
+                            ],
+                            [
+                                "नियम-7: कीमत, गति, माप",
+                                "Ten millimeters make <b>a</b> centimeter.<br/>Once <b>a</b> month.<br/>Take this syrup twice <b>a</b> day.<br/>It costs <b>a</b> thousand dollars.",
+                                "माप, दर या गति दर्शाने के लिए।"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Article 'The' - कब इस्तेमाल करें? (Definite Article)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "नियम",
+                            "उदाहरण (Example)",
+                            "समझाव"
+                        ],
+                        "rows": [
+                            [
+                                "नियम-1: निश्चित वस्तु / दोबारा उल्लेख",
+                                "I bought a book. <b>The</b> book is interesting.<br/>This is a bag. <b>The</b> bag is heavy.",
+                                "किसी वस्तु का दूसरी बार उल्लेख होने पर वह 'विशिष्ट' बन जाती है।"
+                            ],
+                            [
+                                "नियम-2: जातिवाचक नाम (समग्र वर्ग)",
+                                "<b>The</b> camel is the ship of the desert.<br/><b>The</b> lotus is a beautiful flower.<br/><b>The</b> rich should help <b>the</b> poor.",
+                                "एक नाम पूरे वर्ग का सूचन करे।"
+                            ],
+                            [
+                                "नियम-3: भौगोलिक नाम (नदी, पर्वत, सागर)",
+                                "<b>The</b> Narmada, <b>The</b> Ganges<br/><b>The</b> Himalayas, <b>The</b> Alps, <b>The</b> Rocky Mountains<br/><b>The</b> Indian Ocean, <b>The</b> Arabian Sea<br/><b>The</b> Gulf of Mexico, <b>The</b> Gobi Desert",
+                                "नदियाँ, महासागर, पर्वतमालाएँ, रेगिस्तान, खाड़ियाँ, द्वीप, नहरें।"
+                            ],
+                            [
+                                "नियम-4: पवित्र ग्रंथ और पुस्तकें",
+                                "<b>The</b> Gita, <b>The</b> Ramayana<br/><b>The</b> Bible, <b>The</b> Quran<br/><b>The</b> Upanishads, <b>The</b> Jataka Tales<br/><b>The</b> Guru Granth Sahib",
+                                "धार्मिक या प्रसिद्ध पुस्तकों के नाम के आगे।"
+                            ],
+                            [
+                                "नियम-5: सनातन/अद्वितीय वस्तुएं",
+                                "<b>The</b> Sun, <b>The</b> Moon, <b>The</b> Universe<br/><b>The</b> Eiffel Tower, <b>The</b> Taj Mahal<br/><b>The</b> Statue of Unity",
+                                "दुनिया में जो एकमात्र हैं और प्रसिद्ध इमारतें।"
+                            ],
+                            [
+                                "नियम-6: श्रेष्ठतावाचक (Superlative Degree)",
+                                "This is <b>the</b> fastest car.<br/>Rahul is <b>the</b> smartest boy.<br/>Mt. Everest is <b>the</b> highest peak.",
+                                "Superlative विशेषण के आगे।"
+                            ],
+                            [
+                                "नियम-7: दिशाएं और क्रम",
+                                "The wind blows from <b>the</b> West.<br/>She was <b>the</b> second person.<br/><b>The</b> fifth row.<br/><b>The</b> previous, <b>The</b> following, <b>The</b> last",
+                                "दिशाएं और क्रमवाचक संख्याएं।"
+                            ],
+                            [
+                                "नियम-8: प्रजातियां/समुदाय (बहुवचन)",
+                                "<b>The</b> Asians are hardworking.<br/><b>The</b> Japanese are disciplined.<br/><b>The</b> French, <b>The</b> Americans<br/><b>The</b> Sharmas live next door.",
+                                "पूरी कौम, देशवासी या परिवार (बहुवचन) के लिए।"
+                            ],
+                            [
+                                "नियम-9: विशिष्ट वर्णन के साथ",
+                                "<b>The</b> man in the black suit.<br/><b>The</b> house where I was born.<br/>Give me <b>the</b> pen that is on the table.",
+                                "जब 'कौनसा/कौनसी?' यह निश्चित हो।"
+                            ],
+                            [
+                                "नियम-10: संयुक्त देश (संक्षिप्त नाम)",
+                                "<b>The</b> U.S.A., <b>The</b> U.K.<br/><b>The</b> U.S.S.R.<br/><b>The</b> United Arab Emirates",
+                                "जो देश राज्यों का संघ हैं।"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>खास याद रखें (Exceptions):</b>\n(1) अगर ग्रंथ या पुस्तक के नाम के आगे <b>लेखक का नाम</b> हो, तो Article नहीं लगता।\nExample: Homer's Odyssey (✅), Valmiki's Ramayana (✅) (The Valmiki's Ramayana ❌).\n\n(2) अगर Superlative Degree के आगे स्वामित्व दर्शक शब्द (Possessive like <b>my, his, her, their, Rohan's</b>) हो, तो 'The' नहीं लगता।\nExample: He is <b>my</b> best friend. (He is my the best friend ❌).\nExample: This is <b>his</b> most difficult task."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "सबसे अधिक भ्रमित करने वाले वाक्य (Most Confusing Sentences)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Confusion 1: School / Hospital / Prison",
+                        "headers": [
+                            "नियम (Rule)",
+                            "उदाहरण (Example)",
+                            "समझाव (Explanation)"
+                        ],
+                        "rows": [
+                            {
+                                "Rule": "<b>WITHOUT 'The'</b><br>(सामान्य उद्देश्य के लिए)",
+                                "Example": "I go to <b>school</b>.<br>He is in <b>prison</b>.",
+                                "Explanation": "यहाँ 'school' जाने का उद्देश्य पढ़ना और 'prison' में रहने का उद्देश्य सजा भुगतना है। मुख्य उद्देश्य की बात हो तब 'The' नहीं लगता।"
+                            },
+                            {
+                                "Rule": "<b>WITH 'The'</b><br>(विशिष्ट इमारत के लिए)",
+                                "Example": "I went to <b>the school</b> to meet the principal.",
+                                "Explanation": "यहाँ पढ़ने जाने की बात नहीं, बल्कि प्राचार्य से मिलने के लिए एक विशिष्ट 'स्कूल की इमारत' में जाने की बात है।"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Confusion 2: Life vs The Life",
+                        "headers": [
+                            "नियम (Rule)",
+                            "उदाहरण (Example)",
+                            "समझाव (Explanation)"
+                        ],
+                        "rows": [
+                            {
+                                "Rule": "<b>Life</b> (सामान्य अर्थ में)",
+                                "Example": "<b>Life</b> is beautiful.",
+                                "Explanation": "यहाँ 'जीवन' की सामान्य बात है।"
+                            },
+                            {
+                                "Rule": "<b>The life</b> (खास प्रकार का जीवन)",
+                                "Example": "<b>The life</b> of a soldier is difficult.",
+                                "Explanation": "यहाँ केवल 'सैनिक के जीवन' जैसे खास प्रकार के जीवन की बात है।"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Confusion 3: Nature vs The Nature",
+                        "headers": [
+                            "नियम (Rule)",
+                            "उदाहरण (Example)",
+                            "समझाव (Explanation)"
+                        ],
+                        "rows": [
+                            {
+                                "Rule": "<b>Nature</b> (प्रकृति)",
+                                "Example": "<b>Nature</b> is beautiful.",
+                                "Explanation": "यहाँ कुदरत/प्रकृति की सामान्य बात है।"
+                            },
+                            {
+                                "Rule": "<b>The nature</b> (स्वभाव/गुणधर्म)",
+                                "Example": "We must understand <b>the nature</b> of our country.",
+                                "Explanation": "यहाँ 'nature' का अर्थ 'स्वभाव' या 'गुणधर्म' है।"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Confusion 4: A Few / Few / The Few",
+                        "headers": [
+                            "शब्द",
+                            "उदाहरण (Example)",
+                            "समझाव (Explanation)"
+                        ],
+                        "rows": [
+                            {
+                                "शब्द": "<b>A few</b>",
+                                "Example": "<b>A few</b> students came.",
+                                "Explanation": "थोड़े (सकारात्मक अर्थ)। पर्याप्त मात्रा में, पर बहुत नहीं।"
+                            },
+                            {
+                                "शब्द": "<b>Few</b>",
+                                "Example": "<b>Few</b> students came.",
+                                "Explanation": "न के बराबर (नकारात्मक अर्थ)। शायद ही कोई।"
+                            },
+                            {
+                                "शब्द": "<b>The few</b>",
+                                "Example": "<b>The few</b> students who came were bored.",
+                                "Explanation": "जो थोड़े थे वे सभी।"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Confusion 5: A Little / Little / The Little",
+                        "headers": [
+                            "शब्द",
+                            "उदाहरण (Example)",
+                            "समझाव (Explanation)"
+                        ],
+                        "rows": [
+                            {
+                                "शब्द": "<b>A little</b>",
+                                "Example": "<b>A little</b> water is left.",
+                                "Explanation": "थोड़ा (सकारात्मक अर्थ)। काम चल जाए उतना।"
+                            },
+                            {
+                                "शब्द": "<b>Little</b>",
+                                "Example": "<b>Little</b> water is left.",
+                                "Explanation": "न के बराबर (नकारात्मक अर्थ)। लगभग नहीं।"
+                            },
+                            {
+                                "शब्द": "<b>The little</b>",
+                                "Example": "<b>The little</b> water he had, he drank it.",
+                                "Explanation": "जो थोड़ा था वह सब।"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Confusion 6: A Paper vs The Paper",
+                        "headers": [
+                            "शब्द",
+                            "उदाहरण (Example)",
+                            "समझाव (Explanation)"
+                        ],
+                        "rows": [
+                            {
+                                "शब्द": "<b>A paper</b>",
+                                "Example": "I need <b>a paper</b> to write on.",
+                                "Explanation": "कागज का एक टुकड़ा।"
+                            },
+                            {
+                                "शब्द": "<b>The paper</b>",
+                                "Example": "<b>The paper</b> was difficult.<br>I read <b>the paper</b> every morning.",
+                                "Explanation": "परीक्षा का प्रश्नपत्र (विशिष्ट)।<br>अखबार (जो जाना-पहचाना है)।"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Confusion 7: A Doctor vs The Doctor",
+                        "headers": [
+                            "शब्द",
+                            "उदाहरण (Example)",
+                            "समझाव (Explanation)"
+                        ],
+                        "rows": [
+                            {
+                                "शब्द": "<b>A doctor</b>",
+                                "Example": "She is <b>a doctor</b>.",
+                                "Explanation": "उसका पेशा डॉक्टर है (कोई भी एक डॉक्टर)।"
+                            },
+                            {
+                                "शब्द": "<b>The doctor</b>",
+                                "Example": "<b>The doctor</b> I met yesterday is kind.",
+                                "Explanation": "एक विशिष्ट डॉक्टर जिससे मैं कल मिला था।"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Confusion 8: A Police vs The Police",
+                        "headers": [
+                            "नियम",
+                            "उदाहरण (Example)",
+                            "समझाव (Explanation)"
+                        ],
+                        "rows": [
+                            {
+                                "नियम": "<b>A police</b> (गलत)",
+                                "Example": "❌ He is <b>a police</b>.",
+                                "Explanation": "एकवचन में 'a police' का उपयोग नहीं होता। 'a police officer' कहा जा सकता है।"
+                            },
+                            {
+                                "नियम": "<b>The police</b> (सही)",
+                                "Example": "✅ <b>The police</b> are coming.",
+                                "Explanation": "'The police' का अर्थ 'पूरा पुलिस बल' होता है और यह बहुवचन माना जाता है।"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Confusion 9: Work vs The Work",
+                        "headers": [
+                            "शब्द",
+                            "उदाहरण (Example)",
+                            "समझाव (Explanation)"
+                        ],
+                        "rows": [
+                            {
+                                "शब्द": "<b>Work</b>",
+                                "Example": "I have <b>work</b> to do.",
+                                "Explanation": "सामान्य 'काम' (Uncountable Noun)।"
+                            },
+                            {
+                                "शब्द": "<b>The work</b>",
+                                "Example": "<b>The work</b> you gave me is completed.",
+                                "Explanation": "आपने जो 'विशिष्ट काम' सौंपा था।"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

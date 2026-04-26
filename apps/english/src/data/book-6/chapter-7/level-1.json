@@ -1,0 +1,481 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Clean",
+      "gujaratiPronunciation": "ક્લીન",
+      "hindiPronunciation": "क्लीन",
+      "gujaratiMeaning": "સાફ કરવું",
+      "hindiMeaning": "साफ़ करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Clean",
+          "gujaratiPronunciation": "ક્લીન",
+          "hindiPronunciation": "क्लीन",
+          "gujaratiMeaning": "સાફ કરવું",
+          "hindiMeaning": "साफ़ करना"
+        },
+        "V2 (Past)": {
+          "word": "Cleaned",
+          "gujaratiPronunciation": "ક્લીન્ડ",
+          "hindiPronunciation": "क्लीन्ड",
+          "gujaratiMeaning": "સાફ કર્યું",
+          "hindiMeaning": "साफ़ किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Cleaned",
+          "gujaratiPronunciation": "ક્લીન્ડ",
+          "hindiPronunciation": "क्लीन्ड",
+          "gujaratiMeaning": "સાફ કરેલું",
+          "hindiMeaning": "साफ़ किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Cleaning",
+          "gujaratiPronunciation": "ક્લીનિંગ",
+          "hindiPronunciation": "क्लीनिंग",
+          "gujaratiMeaning": "સાફ કરી રહ્યું છે",
+          "hindiMeaning": "साफ़ कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Wash",
+          "gujaratiPronunciation": "વૉશ",
+          "hindiPronunciation": "वॉश",
+          "gujaratiMeaning": "ધોવું",
+          "hindiMeaning": "धोना"
+        },
+        {
+          "word": "Wipe",
+          "gujaratiPronunciation": "વાઇપ",
+          "hindiPronunciation": "वाइप",
+          "gujaratiMeaning": "લૂછવું",
+          "hindiMeaning": "पोंछना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Dirty",
+          "gujaratiPronunciation": "ડર્ટી",
+          "hindiPronunciation": "डर्टी",
+          "gujaratiMeaning": "ગંદુ કરવું",
+          "hindiMeaning": "गंदा करना"
+        },
+        {
+          "word": "Stain",
+          "gujaratiPronunciation": "સ્ટેન",
+          "hindiPronunciation": "स्टेन",
+          "gujaratiMeaning": "દાગ પાડવો",
+          "hindiMeaning": "धब्बा लगाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Clear",
+          "gujaratiPronunciation": "ક્લિયર",
+          "hindiPronunciation": "क्लियर",
+          "gujaratiMeaning": "સ્પષ્ટ",
+          "hindiMeaning": "स्पष्ट"
+        },
+        {
+          "word": "Glean",
+          "gujaratiPronunciation": "ગ્લીન",
+          "hindiPronunciation": "ग्लिन",
+          "gujaratiMeaning": "ભેગું કરવું",
+          "hindiMeaning": "बटोरना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You should clean your room every day.",
+          "gujaratiPronunciation": "યુ શુડ ક્લીન યોર રૂમ એવરી ડે.",
+          "hindiPronunciation": "यू शुड क्लीन योर रूम एवरी डे।",
+          "gujaratiTranslation": "તમારે દરરોજ તમારો ઓરડો સાફ કરવો જોઈએ.",
+          "hindiTranslation": "आपको हर दिन अपना कमरा साफ़ करना चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Store",
+      "gujaratiPronunciation": "સ્ટોર",
+      "hindiPronunciation": "स्टोर",
+      "gujaratiMeaning": "સંગ્રહ કરવો",
+      "hindiMeaning": "संग्रह करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Store",
+          "gujaratiPronunciation": "સ્ટોર",
+          "hindiPronunciation": "स्टोर",
+          "gujaratiMeaning": "સંગ્રહ કરવો",
+          "hindiMeaning": "संग्रह करना"
+        },
+        "V2 (Past)": {
+          "word": "Stored",
+          "gujaratiPronunciation": "સ્ટોર્ડ",
+          "hindiPronunciation": "स्टोर्ड",
+          "gujaratiMeaning": "સંગ્રહ કર્યો",
+          "hindiMeaning": "संग्रह किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Stored",
+          "gujaratiPronunciation": "સ્ટોર્ડ",
+          "hindiPronunciation": "स्टोर्ड",
+          "gujaratiMeaning": "સંગ્રહ કરેલો",
+          "hindiMeaning": "संग्रहित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Storing",
+          "gujaratiPronunciation": "સ્ટોરિંગ",
+          "hindiPronunciation": "स्टोरिंग",
+          "gujaratiMeaning": "સંગ્રહ કરી રહ્યું છે",
+          "hindiMeaning": "संग्रह कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Save",
+          "gujaratiPronunciation": "સેવ",
+          "hindiPronunciation": "सेव",
+          "gujaratiMeaning": "બચાવવું",
+          "hindiMeaning": "बचाना"
+        },
+        {
+          "word": "Keep",
+          "gujaratiPronunciation": "કીપ",
+          "hindiPronunciation": "कीप",
+          "gujaratiMeaning": "રાખવું",
+          "hindiMeaning": "रखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Discard",
+          "gujaratiPronunciation": "ડિસ્કાર્ડ",
+          "hindiPronunciation": "डिस्कार्ड",
+          "gujaratiMeaning": "ફેંકી દેવું",
+          "hindiMeaning": "फेंक देना"
+        },
+        {
+          "word": "Use",
+          "gujaratiPronunciation": "યુઝ",
+          "hindiPronunciation": "यूज़",
+          "gujaratiMeaning": "વાપરવું",
+          "hindiMeaning": "उपयोग करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Stare",
+          "gujaratiPronunciation": "સ્ટેર",
+          "hindiPronunciation": "स्टेयर",
+          "gujaratiMeaning": "તાકી રહેવું",
+          "hindiMeaning": "घूरना"
+        },
+        {
+          "word": "Story",
+          "gujaratiPronunciation": "સ્ટોરી",
+          "hindiPronunciation": "स्टोरी",
+          "gujaratiMeaning": "વાર્તા",
+          "hindiMeaning": "कहानी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to store these documents in a safe place.",
+          "gujaratiPronunciation": "વી નીડ ટુ સ્ટોર ધીસ ડોક્યુમેન્ટ્સ ઇન અ સેફ પ્લેસ.",
+          "hindiPronunciation": "वी नीड टू स्टोर दीज़ डॉक्यूमेंट्स इन अ सेफ प्लेस।",
+          "gujaratiTranslation": "આપણે આ દસ્તાવેજોને સુરક્ષિત જગ્યાએ સંગ્રહિત કરવાની જરૂર છે.",
+          "hindiTranslation": "हमें इन दस्तावेज़ों को एक सुरक्षित स्थान पर संग्रहीत करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Water",
+      "gujaratiPronunciation": "વૉટર",
+      "hindiPronunciation": "वॉटर",
+      "gujaratiMeaning": "પાણી પાવું",
+      "hindiMeaning": "पानी देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Water",
+          "gujaratiPronunciation": "વૉટર",
+          "hindiPronunciation": "वॉटर",
+          "gujaratiMeaning": "પાણી પાવું",
+          "hindiMeaning": "पानी देना"
+        },
+        "V2 (Past)": {
+          "word": "Watered",
+          "gujaratiPronunciation": "વૉટર્ડ",
+          "hindiPronunciation": "वॉटर्ड",
+          "gujaratiMeaning": "પાણી પાયું",
+          "hindiMeaning": "पानी दिया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Watered",
+          "gujaratiPronunciation": "વૉટર્ડ",
+          "hindiPronunciation": "वॉटर्ड",
+          "gujaratiMeaning": "પાણી પાયેલું",
+          "hindiMeaning": "पानी दिया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Watering",
+          "gujaratiPronunciation": "વૉટરિંગ",
+          "hindiPronunciation": "वॉटरिंग",
+          "gujaratiMeaning": "પાણી પાઈ રહ્યું છે",
+          "hindiMeaning": "पानी दे रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Irrigate",
+          "gujaratiPronunciation": "ઇરિગેટ",
+          "hindiPronunciation": "इरिगेट",
+          "gujaratiMeaning": "સિંચાઈ કરવી",
+          "hindiMeaning": "सिंचाई करना"
+        },
+        {
+          "word": "Moisten",
+          "gujaratiPronunciation": "મોઇસ્ટન",
+          "hindiPronunciation": "मॉइस्टन",
+          "gujaratiMeaning": "ભીનું કરવું",
+          "hindiMeaning": "गीला करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Dry",
+          "gujaratiPronunciation": "ડ્રાય",
+          "hindiPronunciation": "ड्राई",
+          "gujaratiMeaning": "સૂકવવું",
+          "hindiMeaning": "सुखाना"
+        },
+        {
+          "word": "Dehydrate",
+          "gujaratiPronunciation": "ડિહાઇડ્રેટ",
+          "hindiPronunciation": "डिहाइड्रेट",
+          "gujaratiMeaning": "પાણી શોષી લેવું",
+          "hindiMeaning": "निर्जल करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Waiter",
+          "gujaratiPronunciation": "વેઇટર",
+          "hindiPronunciation": "वेटर",
+          "gujaratiMeaning": "ભોજન પીરસનાર",
+          "hindiMeaning": "वेटर"
+        },
+        {
+          "word": "Walter",
+          "gujaratiPronunciation": "વોલ્ટર",
+          "hindiPronunciation": "वॉल्टर",
+          "gujaratiMeaning": "એક નામ",
+          "hindiMeaning": "एक नाम"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't forget to water the plants.",
+          "gujaratiPronunciation": "ડોન્ટ ફરગેટ ટુ વૉટર ધ પ્લાન્ટ્સ.",
+          "hindiPronunciation": "डोंट फॉरगेट टू वॉटर द प्लांट्स।",
+          "gujaratiTranslation": "છોડને પાણી પાવાનું ભૂલશો નહીં.",
+          "hindiTranslation": "पौधों को पानी देना मत भूलना।"
+        }
+      ]
+    },
+    {
+      "word": "Repair",
+      "gujaratiPronunciation": "રિપેર",
+      "hindiPronunciation": "रिपेयर",
+      "gujaratiMeaning": "સમારકામ કરવું",
+      "hindiMeaning": "मरम्मत करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Repair",
+          "gujaratiPronunciation": "રિપેર",
+          "hindiPronunciation": "रिपेयर",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        },
+        "V2 (Past)": {
+          "word": "Repaired",
+          "gujaratiPronunciation": "રિપેર્ડ",
+          "hindiPronunciation": "रिपेयर्ड",
+          "gujaratiMeaning": "સમારકામ કર્યું",
+          "hindiMeaning": "मरम्मत की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Repaired",
+          "gujaratiPronunciation": "રિપેર્ડ",
+          "hindiPronunciation": "रिपेयर्ड",
+          "gujaratiMeaning": "સમારકામ કરેલું",
+          "hindiMeaning": "मरम्मत किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Repairing",
+          "gujaratiPronunciation": "રિપેરિંગ",
+          "hindiPronunciation": "रिपेयरिंग",
+          "gujaratiMeaning": "સમારકામ કરી રહ્યું છે",
+          "hindiMeaning": "मरम्मत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Fix",
+          "gujaratiPronunciation": "ફિક્સ",
+          "hindiPronunciation": "फिक्स",
+          "gujaratiMeaning": "ઠીક કરવું",
+          "hindiMeaning": "ठीक करना"
+        },
+        {
+          "word": "Mend",
+          "gujaratiPronunciation": "મેન્ડ",
+          "hindiPronunciation": "मेंड",
+          "gujaratiMeaning": "સાંધવું",
+          "hindiMeaning": "सुधारना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        },
+        {
+          "word": "Damage",
+          "gujaratiPronunciation": "ડેમેજ",
+          "hindiPronunciation": "डैमेज",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "क्षति पहुँचाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Re-pair",
+          "gujaratiPronunciation": "રી-પેર",
+          "hindiPronunciation": "री-पेयर",
+          "gujaratiMeaning": "ફરી જોડી બનાવવી",
+          "hindiMeaning": "फिर से जोड़ी बनाना"
+        },
+        {
+          "word": "Repay",
+          "gujaratiPronunciation": "રિપે",
+          "hindiPronunciation": "रिपे",
+          "gujaratiMeaning": "ચૂકવવું",
+          "hindiMeaning": "चुकाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The mechanic will repair the car.",
+          "gujaratiPronunciation": "ધ મિકેનિક વિલ રિપેર ધ કાર.",
+          "hindiPronunciation": "द मैकेनिक विल रिपेयर द कार।",
+          "gujaratiTranslation": "મિકેનિક કારનું સમારકામ કરશે.",
+          "hindiTranslation": "मैकेनिक कार की मरम्मत करेगा।"
+        }
+      ]
+    },
+    {
+      "word": "Service",
+      "gujaratiPronunciation": "સર્વિસ",
+      "hindiPronunciation": "सर्विस",
+      "gujaratiMeaning": "સેવા કરવી",
+      "hindiMeaning": "सेवा करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Service",
+          "gujaratiPronunciation": "સર્વિસ",
+          "hindiPronunciation": "सर्विस",
+          "gujaratiMeaning": "સેવા કરવી",
+          "hindiMeaning": "सेवा करना"
+        },
+        "V2 (Past)": {
+          "word": "Serviced",
+          "gujaratiPronunciation": "સર્વિસ્ડ",
+          "hindiPronunciation": "सर्विसड",
+          "gujaratiMeaning": "સેવા કરી",
+          "hindiMeaning": "सेवा की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Serviced",
+          "gujaratiPronunciation": "સર્વિસ્ડ",
+          "hindiPronunciation": "सर्विसड",
+          "gujaratiMeaning": "સેવા કરેલી",
+          "hindiMeaning": "सेवा की हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Servicing",
+          "gujaratiPronunciation": "સર્વિસિંગ",
+          "hindiPronunciation": "सर्विसिंग",
+          "gujaratiMeaning": "સેવા કરી રહ્યું છે",
+          "hindiMeaning": "सेवा कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Maintain",
+          "gujaratiPronunciation": "મેન્ટેન",
+          "hindiPronunciation": "मेनटेन",
+          "gujaratiMeaning": "જાળવણી કરવી",
+          "hindiMeaning": "रखरखाव करना"
+        },
+        {
+          "word": "Check",
+          "gujaratiPronunciation": "ચેક",
+          "hindiPronunciation": "चेक",
+          "gujaratiMeaning": "તપાસવું",
+          "hindiMeaning": "जांचना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "અવગણના કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Damage",
+          "gujaratiPronunciation": "ડેમેજ",
+          "hindiPronunciation": "डैमेज",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "क्षति पहुँचाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Surface",
+          "gujaratiPronunciation": "સરફેસ",
+          "hindiPronunciation": "सरफेस",
+          "gujaratiMeaning": "સપાટી",
+          "hindiMeaning": "सतह"
+        },
+        {
+          "word": "Serve",
+          "gujaratiPronunciation": "સર્વ",
+          "hindiPronunciation": "सर्व",
+          "gujaratiMeaning": "પીરસવું",
+          "hindiMeaning": "परोसना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You should get your car serviced regularly.",
+          "gujaratiPronunciation": "યુ શુડ ગેટ યોર કાર સર્વિસ્ડ રેગ્યુલરલી.",
+          "hindiPronunciation": "यू शुड गेट योर कार सर्विस्ड रेगुलरली।",
+          "gujaratiTranslation": "તમારે તમારી કારની નિયમિતપણે સર્વિસ કરાવવી જોઈએ.",
+          "hindiTranslation": "आपको अपनी कार की नियमित रूप से सर्विस करवानी चाहिए।"
+        }
+      ]
+    }
+  ]
+}

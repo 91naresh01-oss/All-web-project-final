@@ -1,0 +1,11 @@
+{
+    "id": "level-3",
+    "title": "Personal & Water Transport",
+    "words": [
+        { "word": "Cycle", "icon": "🚴", "gujaratiMeaning": "સાયકલ", "hindiMeaning": "साइकिल", "gujaratiPronunciation": "સાયકલ", "hindiPronunciation": "साइकिल" },
+        { "word": "Boat", "icon": "⛵", "gujaratiMeaning": "હોડી", "hindiMeaning": "नाव", "gujaratiPronunciation": "બોટ", "hindiPronunciation": "बोट" },
+        { "word": "Cart", "icon": "🛒", "gujaratiMeaning": "ગાડું", "hindiMeaning": "गाड़ी", "gujaratiPronunciation": "કાર્ટ", "hindiPronunciation": "कार्ट" },
+        { "word": "Metro", "icon": "🚇", "gujaratiMeaning": "મેટ્રો", "hindiMeaning": "मेट्रो", "gujaratiPronunciation": "મેટ્રો", "hindiPronunciation": "मेट्रो" },
+        { "word": "Tram", "icon": "🚊", "gujaratiMeaning": "ટ્રામ", "hindiMeaning": "ट्राम", "gujaratiPronunciation": "ટ્રામ", "hindiPronunciation": "ट्राम" }
+    ]
+}

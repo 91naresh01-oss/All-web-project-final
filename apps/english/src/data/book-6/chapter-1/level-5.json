@@ -1,0 +1,135 @@
+{
+    "id": "level-5",
+    "title": "Level 5: Advanced Actions",
+    "words": [
+        {
+            "word": "Mitigate",
+            "gujaratiPronunciation": "મિટિગેટ",
+            "hindiPronunciation": "मिटिगेट",
+            "gujaratiMeaning": "ઘટાડવું / ઓછું કરવું",
+            "hindiMeaning": "कम करना / घटाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Mitigate", "gujaratiPronunciation": "મિટિગેટ", "hindiPronunciation": "मिटिगेट", "gujaratiMeaning": "ઓછું કરવું", "hindiMeaning": "कम करना" },
+                "V2 (Past)": { "word": "Mitigated", "gujaratiPronunciation": "મિટિગેટેડ", "hindiPronunciation": "मिटिगेटेड", "gujaratiMeaning": "ઓછું કર્યું", "hindiMeaning": "कम किया" },
+                "V3 (Past Participle)": { "word": "Mitigated", "gujaratiPronunciation": "મિટિગેટેડ", "hindiPronunciation": "मिटिगेटेड", "gujaratiMeaning": "ઓછું કરેલ", "hindiMeaning": "कम कर चुका" },
+                "V4 (Present Participle)": { "word": "Mitigating", "gujaratiPronunciation": "મિટિગેટિંગ", "hindiPronunciation": "मिटिगेटिंग", "gujaratiMeaning": "ઓછું કરી રહ્યું છે", "hindiMeaning": "कम कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Alleviate", "gujaratiPronunciation": "અલિવિએટ", "hindiPronunciation": "एलीविएट", "gujaratiMeaning": "હળવું કરવું", "hindiMeaning": "हल्का करना" },
+                { "word": "Reduce", "gujaratiPronunciation": "રિડ્યુસ", "hindiPronunciation": "रिड्यूस", "gujaratiMeaning": "ઘટાડવું", "hindiMeaning": "घटाना" }
+            ],
+            "antonyms": [
+                { "word": "Aggravate", "gujaratiPronunciation": "એગ્રાવેટ", "hindiPronunciation": "एग्रवेट", "gujaratiMeaning": "વધારવું", "hindiMeaning": "बढ़ाना" },
+                { "word": "Intensify", "gujaratiPronunciation": "ઇન્ટેન્સિફાય", "hindiPronunciation": "इंटेंसिफ़ाइ", "gujaratiMeaning": "તીવ્ર બનાવવું", "hindiMeaning": "तीव्र करना" }
+            ],
+            "confusingWords": [
+                { "word": "Litigate", "gujaratiPronunciation": "લિટિગેટ", "hindiPronunciation": "लिटिगेट", "gujaratiMeaning": "મુકાદમો કરવો", "hindiMeaning": "मुकदमा करना", "difference": "Mitigate એટલે અસર ઓછી કરવી, જ્યારે Litigate એટલે કાનૂની કાર્યવાહી કરવી." }
+            ],
+            "exampleSentences": [
+                { "sentence": "They took action to mitigate the risk.", "gujaratiPronunciation": "ધે ટૂક એક્શન ટુ મિટિગેટ ધ રિસ્ક.", "hindiPronunciation": "दे टूक एक्शन टू मिटिगेट द रिस्क।", "gujaratiTranslation": "તેઓએ જોખમ ઘટાડવા માટે પગલાં લીધાં.", "hindiTranslation": "उन्होंने जोखिम को कम करने के लिए कार्रवाई की।" }
+            ]
+        },
+        {
+            "word": "Vigor",
+            "gujaratiPronunciation": "વિગર",
+            "hindiPronunciation": "विगर",
+            "gujaratiMeaning": "જોશ / શક્તિ",
+            "hindiMeaning": "जोश / शक्ति",
+            "partOfSpeech": "noun",
+            "verbForms": {},
+            "synonyms": [
+                { "word": "Energy", "gujaratiPronunciation": "એનર્જી", "hindiPronunciation": "एनर्जी", "gujaratiMeaning": "ઊર્જા", "hindiMeaning": "ऊर्जा" },
+                { "word": "Vitality", "gujaratiPronunciation": "વાઇટાલિટી", "hindiPronunciation": "वाइटैलिटी", "gujaratiMeaning": "જીવનશક્તિ", "hindiMeaning": "जीवन शक्ति" }
+            ],
+            "antonyms": [
+                { "word": "Lethargy", "gujaratiPronunciation": "લેથાર્જી", "hindiPronunciation": "लेथार्जी", "gujaratiMeaning": "સુસ્તી", "hindiMeaning": "सुस्ती" },
+                { "word": "Weakness", "gujaratiPronunciation": "વિકનેસ", "hindiPronunciation": "वीकनेस", "gujaratiMeaning": "નબળાઈ", "hindiMeaning": "कमज़ोरी" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "He worked with renewed vigor.", "gujaratiPronunciation": "હી વર્ક્ડ વિથ રિન્યુડ વિગર.", "hindiPronunciation": "ही वर्क्ड विद रिन्यूड विगर।", "gujaratiTranslation": "તેમણે નવા જોશ સાથે કામ કર્યું.", "hindiTranslation": "उसने नए जोश के साथ काम किया।" }
+            ]
+        },
+        {
+            "word": "Fortify",
+            "gujaratiPronunciation": "ફોર્ટિફાય",
+            "hindiPronunciation": "फोर्टिफ़ाइ",
+            "gujaratiMeaning": "મજબૂત બનાવવું",
+            "hindiMeaning": "मज़बूत बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Fortify", "gujaratiPronunciation": "ફોર્ટિફાય", "hindiPronunciation": "फोर्टिफ़ाइ", "gujaratiMeaning": "મજબૂત બનાવવું", "hindiMeaning": "मज़बूत बनाना" },
+                "V2 (Past)": { "word": "Fortified", "gujaratiPronunciation": "ફોર્ટિફાઇડ", "hindiPronunciation": "फोर्टिफ़ाइड", "gujaratiMeaning": "મજબૂત બનાવ્યું", "hindiMeaning": "मज़बूत बनाया" },
+                "V3 (Past Participle)": { "word": "Fortified", "gujaratiPronunciation": "ફોર્ટિફાઇડ", "hindiPronunciation": "फोर्टिफ़ाइड", "gujaratiMeaning": "મજબૂત બનાવેલ", "hindiMeaning": "मज़बूत बना चुका" },
+                "V4 (Present Participle)": { "word": "Fortifying", "gujaratiPronunciation": "ફોર્ટિફાઇંગ", "hindiPronunciation": "फोर्टिफ़ाइंग", "gujaratiMeaning": "મજબૂત બનાવી રહ્યું છે", "hindiMeaning": "मज़बूत बना रहा है" }
+            },
+            "synonyms": [
+                { "word": "Strengthen", "gujaratiPronunciation": "સ્ટ્રેન્થન", "hindiPronunciation": "स्ट्रेंग्थेन", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "मज़बूत करना" },
+                { "word": "Reinforce", "gujaratiPronunciation": "રીઇન્ફોર્સ", "hindiPronunciation": "रीइन्फोर्स", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "सुदृढ़ करना" }
+            ],
+            "antonyms": [
+                { "word": "Weaken", "gujaratiPronunciation": "વિકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमज़ोर करना" },
+                { "word": "Undermine", "gujaratiPronunciation": "અન્ડરમાઇન", "hindiPronunciation": "अंडरमाइन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमज़ोर करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "You should fortify yourself with a good breakfast.", "gujaratiPronunciation": "યુ શુડ ફોર્ટિફાય યોરસેલ્ફ વિથ અ ગુડ બ્રેકફાસ્ટ.", "hindiPronunciation": "यू शुड फोर्टिफ़ाइ योरसेल्फ विद अ गुड ब्रेकफास्ट।", "gujaratiTranslation": "તમારે સારા નાસ્તાથી પોતાને મજબૂત બનાવવું જોઈએ.", "hindiTranslation": "आपको अच्छे नाश्ते के साथ खुद को मज़बूत बनाना चाहिए।" }
+            ]
+        },
+        {
+            "word": "Reinvigorate",
+            "gujaratiPronunciation": "રીઇન્વિગોરેટ",
+            "hindiPronunciation": "रीइन्विगोरेट",
+            "gujaratiMeaning": "નવી શક્તિ આપવી",
+            "hindiMeaning": "नई शक्ति देना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Reinvigorate", "gujaratiPronunciation": "રીઇન્વિગોરેટ", "hindiPronunciation": "रीइन्विगोरेट", "gujaratiMeaning": "નવી શક્તિ આપવી", "hindiMeaning": "नई शक्ति देना" },
+                "V2 (Past)": { "word": "Reinvigorated", "gujaratiPronunciation": "રીઇન્વિગોરેટેડ", "hindiPronunciation": "रीइन्विगोरेटेड", "gujaratiMeaning": "નવી શક્તિ આપી", "hindiMeaning": "नई शक्ति दी" },
+                "V3 (Past Participle)": { "word": "Reinvigorated", "gujaratiPronunciation": "રીઇન્વિગોરેટેડ", "hindiPronunciation": "रीइन्विगोरेटेड", "gujaratiMeaning": "નવી શક્તિ આપેલ", "hindiMeaning": "नई शक्ति दे चुका" },
+                "V4 (Present Participle)": { "word": "Reinvigorating", "gujaratiPronunciation": "રીઇન્વિગોરેટિંગ", "hindiPronunciation": "रीइन्विगोरेटिंग", "gujaratiMeaning": "નવી શક્તિ આપી રહ્યું છે", "hindiMeaning": "नई शक्ति दे रहा है" }
+            },
+            "synonyms": [
+                { "word": "Revitalize", "gujaratiPronunciation": "રિવાઇટલાઇઝ", "hindiPronunciation": "रिवाईटलाइज़", "gujaratiMeaning": "પુનર્જીવિત કરવું", "hindiMeaning": "पुनर्जीवित करना" },
+                { "word": "Refresh", "gujaratiPronunciation": "રિફ્રેશ", "hindiPronunciation": "रिफ़्रेश", "gujaratiMeaning": "તાજગી આપવી", "hindiMeaning": "ताज़ा करना" }
+            ],
+            "antonyms": [
+                { "word": "Exhaust", "gujaratiPronunciation": "એક્ઝોસ્ટ", "hindiPronunciation": "एग्जॉस्ट", "gujaratiMeaning": "થાકવી દેવું", "hindiMeaning": "थका देना" },
+                { "word": "Weaken", "gujaratiPronunciation": "વિકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमज़ोर करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The fresh air will reinvigorate you.", "gujaratiPronunciation": "ધ ફ્રેશ એર વિલ રીઇન્વિગોરેટ યુ.", "hindiPronunciation": "द फ्रेश एयर विल रीइन्विगोरेट यू।", "gujaratiTranslation": "તાજી હવા તમને નવી શક્તિ આપશે.", "hindiTranslation": "ताज़ी हवा आपको नई शक्ति देगी।" }
+            ]
+        },
+        {
+            "word": "Cure",
+            "gujaratiPronunciation": "ક્યોર",
+            "hindiPronunciation": "क्योर",
+            "gujaratiMeaning": "ઇલાજ કરવો",
+            "hindiMeaning": "इलाज करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Cure", "gujaratiPronunciation": "ક્યોર", "hindiPronunciation": "क्योर", "gujaratiMeaning": "ઇલાજ કરવો", "hindiMeaning": "इलाज करना" },
+                "V2 (Past)": { "word": "Cured", "gujaratiPronunciation": "ક્યોર્ડ", "hindiPronunciation": " क्योर्ड", "gujaratiMeaning": "ઇલાજ કર્યો", "hindiMeaning": "इलाज किया" },
+                "V3 (Past Participle)": { "word": "Cured", "gujaratiPronunciation": "ક્યોર્ડ", "hindiPronunciation": "क्योर्ड", "gujaratiMeaning": "ઇલાજ કરેલ", "hindiMeaning": "इलाज कर चुका" },
+                "V4 (Present Participle)": { "word": "Curing", "gujaratiPronunciation": "ક્યોરિંગ", "hindiPronunciation": "क्योरिंग", "gujaratiMeaning": "ઇલાજ કરી રહ્યું છે", "hindiMeaning": "इलाज कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Heal", "gujaratiPronunciation": "હીલ", "hindiPronunciation": "हील", "gujaratiMeaning": "સાજા કરવું", "hindiMeaning": "ठीक करना" },
+                { "word": "Treat", "gujaratiPronunciation": "ટ્રીટ", "hindiPronunciation": "ट्रीट", "gujaratiMeaning": "સારવાર કરવી", "hindiMeaning": "उपचार करना" }
+            ],
+            "antonyms": [
+                { "word": "Harm", "gujaratiPronunciation": "હાર્મ", "hindiPronunciation": "हार्म", "gujaratiMeaning": "નુકસાન પહોંચાડવું", "hindiMeaning": "नुकसान पहुँचाना" },
+                { "word": "Worsen", "gujaratiPronunciation": "વર્સન", "hindiPronunciation": "वर्सन", "gujaratiMeaning": "વધુ ખરાબ કરવું", "hindiMeaning": "और बिगाड़ना" }
+            ],
+            "confusingWords": [
+                { "word": "Curse", "gujaratiPronunciation": "કર્સ", "hindiPronunciation": "कर्स", "gujaratiMeaning": "શ્રાપ", "hindiMeaning": "शाप", "difference": "Cure એટલે ઇલાજ, જ્યારે Curse એટલે શ્રાપ." }
+            ],
+            "exampleSentences": [
+                { "sentence": "There is no cure for the common cold.", "gujaratiPronunciation": "ધેર ઇઝ નો ક્યોર ફોર ધ કોમન કોલ્ડ.", "hindiPronunciation": "देयर इज़ नो क्योर फॉर द कॉमन कोल्ड।", "gujaratiTranslation": "સામાન્ય શરદીનો કોઈ ઈલાજ નથી.", "hindiTranslation": "सामान्य सर्दी का कोई इलाज नहीं है।" }
+            ]
+        }
+    ]
+}

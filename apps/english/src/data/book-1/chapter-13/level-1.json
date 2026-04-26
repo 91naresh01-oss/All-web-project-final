@@ -1,0 +1,11 @@
+{
+    "id": "level-1",
+    "title": "Flowers 1",
+    "words": [
+        { "word": "Rose", "icon": "🌹", "gujaratiPronunciation": "રોઝ", "hindiPronunciation": "रोज़", "gujaratiMeaning": "ગુલાબ", "hindiMeaning": "गुलाब" },
+        { "word": "Lily", "icon": "⚜️", "gujaratiPronunciation": "લીલી", "hindiPronunciation": "लिली", "gujaratiMeaning": "લીલી", "hindiMeaning": "लिली" },
+        { "word": "Sunflower", "icon": "🌻", "gujaratiPronunciation": "સનફ્લાવર", "hindiPronunciation": "सनफ़्लॉवर", "gujaratiMeaning": "સૂરજમુખી", "hindiMeaning": "सूरजमुखी" },
+        { "word": "Jasmine", "icon": "🌼", "gujaratiPronunciation": "જાસ્મિન", "hindiPronunciation": "जैस्मिन", "gujaratiMeaning": "મોગરો/ચમેલી", "hindiMeaning": "चमेली" },
+        { "word": "Marigold", "icon": "🟠", "gujaratiPronunciation": "મેરીગોલ્ડ", "hindiPronunciation": "मैरीगोल्ड", "gujaratiMeaning": "ગલગોટો", "hindiMeaning": "गेंदे का फूल" }
+    ]
+}

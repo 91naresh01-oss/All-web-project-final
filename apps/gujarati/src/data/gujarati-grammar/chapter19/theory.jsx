@@ -1,0 +1,214 @@
+import React from 'react';
+import {
+    TheoryCard,
+    GradientCard,
+    TheoryHeading,
+    TheorySubHeading,
+    TheoryText,
+    HighlightBox,
+    TheoryList,
+    TheoryListItem,
+    TheoryGrid,
+    TheoryTable,
+    TheoryTableHeader,
+    TheoryTableRow
+} from '../../../components/TheoryComponents';
+
+export const chapter19Theory = [
+    {
+        title: "૧. પ્રત્યય: વ્યાખ્યા અને સમજ",
+        content: (
+            <div className="modern-theory-wrapper">
+                <GradientCard heading="૧. પ્રત્યય: વ્યાખ્યા અને સમજ" theme="indigo" icon="🔗">
+                    <div style={{ marginTop: '15px' }}>
+                        <TheorySubHeading glass>પ્રત્યય એટલે શું?</TheorySubHeading>
+                        <TheoryList color="#4338ca">
+                            <TheoryListItem>
+                                શબ્દ ઘડતર વખતે જેમ શબ્દની આગળ પ્રત્યય લાગે છે, તેમ શબ્દની પાછળ પણ પ્રત્યય લાગે છે.
+                            </TheoryListItem>
+                            <TheoryListItem>
+                                <strong>પૂર્વપ્રત્યય (Prefix):</strong> શબ્દની આગળ લાગે તેમને 'પૂર્વપ્રત્યય' કહેવાય છે. <br />
+                                <span style={{ fontSize: '0.9em', color: '#666' }}>ઉદાહરણ: અ-ધર્મ, સ-પૂત, બે-આબરૂ.</span>
+                            </TheoryListItem>
+                            <TheoryListItem>
+                                <strong>પરપ્રત્યય (Suffix):</strong> શબ્દની પાછળ લાગે તેમને 'પરપ્રત્યય' કહેવાય છે. <br />
+                                <span style={{ fontSize: '0.9em', color: '#666' }}>ઉદાહરણ: જંગલી (જંગલ-ઈ), કાળાશ (કાળું-આશ), પાંદડી (પાંદ-ડ-ઈ).</span>
+                            </TheoryListItem>
+                        </TheoryList>
+
+                        <div style={{ marginTop: '20px', padding: '15px', background: '#e0e7ff', borderRadius: '12px', borderLeft: '5px solid #4f46e5' }}>
+                            <p style={{ margin: 0, color: '#3730a3' }}>
+                                <strong>💡 પ્રત્યય લાગતાં મૂળ અંગમાં થતા ફેરફાર:</strong>
+                                <ul style={{ marginTop: '10px', paddingLeft: '20px' }}>
+                                    <li>અર્થ બદલાઇ શકે. (દા.ત. પુત્ર-કુપુત્ર)</li>
+                                    <li>વ્યાકરણી મોભો બદલાઈ શકે. (દા.ત. ગણવું-ગણિત)</li>
+                                    <li>અંગનો માત્ર વિસ્તાર થાય. (દા.ત. ગામ-ગામડું)</li>
+                                </ul>
+                                <br />
+                                <em>આ પ્રત્યયો ભાષાની ફળદ્રુપતા વધારે છે.</em>
+                            </p>
+                        </div>
+                    </div>
+                </GradientCard>
+            </div>
+        )
+    },
+    {
+        title: "૨. તત્સમ પ્રત્યય",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#7c3aed">૧. તત્સમ પ્રત્યય (Sanskrit Prefixes)</TheoryHeading>
+                    <TheoryTable>
+                        <TheoryTableHeader theme="indigo" headers={['પ્રત્યય', 'ઉદાહરણ']} />
+                        {[
+                            ['કુ', 'કુપુત્ર, કુસંસ્કાર, કુછંદ'],
+                            ['અવ', 'અવકૃપા, અવગુણ, અવતાર, અવસાન'],
+                            ['દુસ, દુર, દુ:', 'દુષ્કર્મ, દુર્જન, દુરાચાર, દુઃસહ'],
+                            ['નિસ્, નિરુ, નિઃ', 'નિષ્ફળ, નિર્જન, નિઃશેષ, નિર્લજ'],
+                            ['વિ', 'વિસર્જન, વિકેન્દ્રિત, વિવશ, વિસંવાદ'],
+                            ['અ', 'અકંપ, અબૂઝ, અભાવ, અવિવેક'],
+                            ['અણ', 'અણગમો, અણછાજતું, અણધડ'],
+                            ['અપ', 'અપમાન, અપયશ, અપશુકન'],
+                            ['આ', 'આરોહ, આકંઠ, આસન્ન, આચરણ'],
+                            ['અતિ', 'અતિશય, અતિજ્ઞાન, અતિચાર'],
+                            ['અધિ', 'અધિકારી, અધિનિયમ, અધ્યક્ષ'],
+                            ['અભિ', 'અભિનવ, અભિમાન, અભિરુચિ'],
+                            ['અનુ', 'અનુક્રમ, અનુમાન, અનુસંધાન'],
+                            ['ઉત્', 'ઉત્કંઠા, ઉદ્યમ, ઉલ્લેખ'],
+                            ['ઉપ', 'ઉપકુલપતિ, ઉપકારક, ઉપાસના'],
+                            ['નિ', 'નિયમ, નિરોધ, નિવેદન'],
+                            ['પરા', 'પરાભવ, પરાવર્તન'],
+                            ['પરિ', 'પરિમિતિ, પરિવાર, પરિણીત'],
+                            ['પ્ર', 'પ્રકાશ, પ્રખ્યાત, પ્રવક્તા, પ્રભાવ'],
+                            ['પ્રતિ', 'પ્રતિક્રિયા, પ્રાધ્યાપક, પ્રતિરક્ષા'],
+                            ['સમ્', 'સંગીત, સંચય, સંમેલન'],
+                            ['સુ', 'સુગંધ, સુરુચિ, સુશીલ']
+                        ].map((row, index) => (
+                            <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                        ))}
+                    </TheoryTable>
+                </TheoryCard>
+
+                <div style={{ marginTop: '20px' }}>
+                    <TheoryCard>
+                        <TheoryHeading color="#db2777">૨. તત્સમ પરપ્રત્યય</TheoryHeading>
+                        <TheoryTable>
+                            <TheoryTableHeader theme="indigo" headers={['પ્રત્યય', 'ઉદાહરણ']} />
+                            {[
+                                ['(ઈ)', 'જ્ઞાની, પંથી'],
+                                ['(ઈક)', 'પથિક, ધાર્મિક, રસિક, વાર્ષિક'],
+                                ['ઈય', 'ભારતીય, રાષ્ટ્રીય'],
+                                ['અનીય', 'પૂજનીય, સ્મરણીય, ઇચ્છનીય'],
+                                ['ઇલ', 'ઊર્મિલ, જટિલ'],
+                                ['ઈકા', 'નાયિકા, નવલિકા, સંપાદિકા'],
+                                ['ત્વ', 'ગુરુત્વ, માતૃત્વ, કવિત્વ, વ્યક્તિત્વ'],
+                                ['ઈતિ', 'પૂજિત, કથિત, લિખિત'],
+                                ['માન', 'ગતિમાન, નીતિમાન'],
+                                ['તા', 'ગુરુતા, લઘુતા'],
+                                ['અક', 'ઉદ્ધારક, ભાવક, શ્રાવક']
+                            ].map((row, index) => (
+                                <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                            ))}
+                        </TheoryTable>
+                    </TheoryCard>
+                </div>
+            </div>
+        )
+    },
+    {
+        title: "૩. તદ્ભવ અને અરબી-ફારસી પ્રત્યય",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryGrid minWidth="300px">
+                    <TheoryCard>
+                        <TheoryHeading color="#059669">૩. તદ્ભવ પ્રત્યય 🌿</TheoryHeading>
+                        <TheoryTable>
+                            <TheoryTableHeader theme="indigo" headers={['પ્રત્યય', 'ઉદાહરણ']} />
+                            {[
+                                ['ક', 'ઢોલક, દંડીક, છૂટક, નાનક'],
+                                ['ડ', 'પાંદડી, ગામડું, એકડો, મુખડું'],
+                                ['લ', 'નણદલ, મોરલો, મઢૂલી'],
+                                ['ઇય', 'રમણીય, માનનીય, રાષ્ટ્રીય'],
+                                ['અક', 'લેખક, વાચક, ચાલક, બેઠક'],
+                                ['આઈ', 'ચડાઈ, કમાઈ, ઠગાઇ, મનાઈ'],
+                                ['આણ', 'લખાણ, વંચાણ, વેચાણ, પોલાણ'],
+                                ['આમણ', 'ઘડામણ, વિણામણ, શિખામણ'],
+                                ['આવટ', 'ફાવટ, બનાવટ, સજાવટ'],
+                                ['તર', 'ચણતર, ભણતર, ગણતર'],
+                                ['આળુ', 'કૃપાળુ, દયાળુ, રૂપાળુ'],
+                                ['ઈ', 'કેસરી, ઝડપી, જંગલી, ખેતી']
+                            ].map((row, index) => (
+                                <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                            ))}
+                        </TheoryTable>
+                    </TheoryCard>
+
+                    <TheoryCard>
+                        <TheoryHeading color="#d97706">૪. અરબી-ફારસી પ્રત્યય 🕌</TheoryHeading>
+                        <TheoryTable>
+                            <TheoryTableHeader theme="indigo" headers={['પ્રત્યય', 'ઉદાહરણ']} />
+                            {[
+                                ['કમ', 'કમજોર'],
+                                ['ગેર', 'ગેરફાયદો, ગેરકાનૂની, ગેરહાજર'],
+                                ['બિન', 'બિનઆવડત, બિનજરૂરી'],
+                                ['બે', 'બેજવાબદાર, બેકાર, બેઆબરૂ'],
+                                ['બદ', 'બદનામ, બદઇરાદો, બદનસીબ'],
+                                ['ઈ', 'નેકી, ખૂબી, ખુશી, હોશિયારી'],
+                                ['ગી', 'બંદગી, રવાનગી, માંદગી'],
+                                ['ગર', 'જાદુગર, કારીગર'],
+                                ['દાર', 'સમજદાર, પગારદાર, પૈસાદાર'],
+                                ['અલ', 'અલબત્ત, અલવિદા'],
+                                ['ખુશ', 'ખુશનુમા, ખુશનસીબ'],
+                                ['ના', 'નાખુશ, નાચીજ, નામર્દ'],
+                                ['સર', 'સરકાર, સરપંચ, સરનામું'],
+                                ['હમ', 'હમસાથી, હમરાહી, હમસફર'],
+                                ['હર', 'હરકોઇ, હરરોજ']
+                            ].map((row, index) => (
+                                <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                            ))}
+                        </TheoryTable>
+                    </TheoryCard>
+                </TheoryGrid>
+            </div>
+        )
+    },
+    {
+        title: "૪. વિશેષ પૂર્વગ (શબ્દની પૂર્વે)",
+        content: (
+            <div className="modern-theory-wrapper">
+                <GradientCard heading="૪. વિશેષ પૂર્વગ: શબ્દની પૂર્વે લાગતા પ્રત્યય" theme="amber" icon="⬅️">
+                    <div style={{ marginTop: '15px' }}>
+                        <TheoryTable>
+                            <TheoryTableHeader theme="indigo" headers={['પ્રત્યય', 'ઉદાહરણ']} />
+                            {[
+                                ['અ', 'અસત્ય, અવ્યવહારુ, અરાજકતા'],
+                                ['અન્', 'અનપેક્ષિત, અનાચાર, અનર્થ'],
+                                ['કુ, ક', 'કપૂત, કુદૃષ્ટિ, કુપાત્ર'],
+                                ['અલમ્', 'અલંકાર'],
+                                ['અન્તસ્', 'અંતદૃષ્ટિ, અંતઃકરણ'],
+                                ['બહિસ્', 'બહિષ્કાર'],
+                                ['આવિસ્', 'આવિષ્કાર'],
+                                ['પ્રાદુસ્', 'પ્રાદુર્ભાવ'],
+                                ['તિરસ્', 'તિરસ્કાર'],
+                                ['શ્રત્', 'શ્રદ્ધા'],
+                                ['અમા', 'અમાત્ય, અમાવસ્યા'],
+                                ['ઇતિ', 'ઇતિહાસ'],
+                                ['ચિરમ્', 'ચિરંજીવી'],
+                                ['પશ્ચાત્', 'પશ્ચાતાપ'],
+                                ['પુરસ્', 'પુરોગામી, પુરોહિત'],
+                                ['પુરા', 'પુરાવૃત્ત'],
+                                ['પૃથક્', 'પૃથક્કરણ'],
+                                ['સ્વયમ્', 'સ્વયંવર'],
+                                ['અધસ્', 'અધઃપતન'],
+                                ['પુનર્', 'પુનર્વિવાહ']
+                            ].map((row, index) => (
+                                <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                            ))}
+                        </TheoryTable>
+                    </div>
+                </GradientCard>
+            </div>
+        )
+    }
+];

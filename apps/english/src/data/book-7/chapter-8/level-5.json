@@ -1,0 +1,187 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Polish",
+      "partOfSpeech": "verb",
+      "pronunciation": "પોલિશ",
+      "gujaratiMeaning": "ચમકાવવું",
+      "hindiMeaning": "चमकाना",
+      "gujaratiPronunciation": "પોલિશ",
+      "hindiPronunciation": "पॉलिश",
+      "verbForms": {
+        "v1": { "word": "Polish", "pronunciation": "પોલિશ", "gujaratiMeaning": "ચમકાવવું", "hindiMeaning": "चमकाना" },
+        "v2": { "word": "Polished", "pronunciation": "પોલિસ્ડ", "gujaratiMeaning": "ચમકાવ્યું", "hindiMeaning": "चमकाया" },
+        "v3": { "word": "Polished", "pronunciation": "પોલિસ્ડ", "gujaratiMeaning": "ચમકાવેલું", "hindiMeaning": "चमकाया हुआ" },
+        "v4": { "word": "Polishing", "pronunciation": "પોલિશિંગ", "gujaratiMeaning": "ચમકાવી રહ્યું છે", "hindiMeaning": "चमका रहा है" }
+      },
+      "synonyms": [
+        { "word": "Shine", "pronunciation": "શાઇન", "gujaratiMeaning": "ચમકાવવું", "hindiMeaning": "चमकाना" },
+        { "word": "Buff", "pronunciation": "બફ", "gujaratiMeaning": "ઘસીને સાફ કરવું", "hindiMeaning": "रगड़कर चमकाना" }
+      ],
+      "antonyms": [
+        { "word": "Tarnish", "pronunciation": "ટાર્નિશ", "gujaratiMeaning": "કાળું કરવું", "hindiMeaning": "धूमिल करना" },
+        { "word": "Dull", "pronunciation": "ડલ", "gujaratiMeaning": "ઝાંખું કરવું", "hindiMeaning": "धुंधला करना" }
+      ],
+      "confusingWords": [
+        { "word": "Foolish", "pronunciation": "ફૂલિશ", "gujaratiMeaning": "મૂર્ખ", "hindiMeaning": "मूर्ख" },
+        { "word": "Police", "pronunciation": "પોલીસ", "gujaratiMeaning": "પોલીસ", "hindiMeaning": "पुलिस" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He spent the afternoon polishing the silverware.",
+          "gujaratiTranslation": "તેણે બપોર ચાંદીના વાસણોને પોલિશ કરવામાં વિતાવી.",
+          "hindiTranslation": "उसने दोपहर चांदी के बर्तन चमकाने में बिताई।",
+          "gujaratiPronunciation": "હી સ્પેન્ટ ધ આફ્ટરનૂન પોલિશિંગ ધ સિલ્વરવેર.",
+          "hindiPronunciation": "ही स्पेंट द आफ्टरनून पॉलिशिंग द सिल्वरवेयर।"
+        }
+      ]
+    },
+    {
+      "word": "Conceal",
+      "partOfSpeech": "verb",
+      "pronunciation": "કન્સીલ",
+      "gujaratiMeaning": "છુપાવવું",
+      "hindiMeaning": "छिपाना",
+      "gujaratiPronunciation": "કન્સીલ",
+      "hindiPronunciation": "कंसील",
+      "verbForms": {
+        "v1": { "word": "Conceal", "pronunciation": "કન્સીલ", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        "v2": { "word": "Concealed", "pronunciation": "કન્સીલ્ડ", "gujaratiMeaning": "છુપાવ્યું", "hindiMeaning": "छिपाया" },
+        "v3": { "word": "Concealed", "pronunciation": "કન્સીલ્ડ", "gujaratiMeaning": "છુપાવેલું", "hindiMeaning": "छिपाया हुआ" },
+        "v4": { "word": "Concealing", "pronunciation": "કન્સીલિંગ", "gujaratiMeaning": "છુપાવી રહ્યું છે", "hindiMeaning": "छिपा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Hide", "pronunciation": "હાઇડ", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        { "word": "Mask", "pronunciation": "માસ્ક", "gujaratiMeaning": "વેશપલટો કરવો", "hindiMeaning": "ढकना" }
+      ],
+      "antonyms": [
+        { "word": "Reveal", "pronunciation": "રિવિલ", "gujaratiMeaning": "જાહેર કરવું", "hindiMeaning": "प्रकट करना" },
+        { "word": "Expose", "pronunciation": "એક્સપોઝ", "gujaratiMeaning": "ખુલ્લું પાડવું", "hindiMeaning": "उजागर करना" }
+      ],
+      "confusingWords": [
+        { "word": "Cancel", "pronunciation": "કેન્સલ", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" },
+        { "word": "Council", "pronunciation": "કાઉન્સિલ", "gujaratiMeaning": "પરિષદ", "hindiMeaning": "परिषद" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He tried to conceal his excitement.",
+          "gujaratiTranslation": "તેણે તેની ઉત્તેજના છુપાવવાનો પ્રયત્ન કર્યો.",
+          "hindiTranslation": "उसने अपनी उत्तेजना छिपाने की कोशिश की।",
+          "gujaratiPronunciation": "હી ટ્રાઇડ ટુ કન્સીલ હીઝ એક્સાઇટમેન્ટ.",
+          "hindiPronunciation": "ही ट्राइड टू कंसील हिज एक्साइटमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Revamp",
+      "partOfSpeech": "verb",
+      "pronunciation": "રિવેમ્પ",
+      "gujaratiMeaning": "નવીનીકરણ કરવું, સુધારવું",
+      "hindiMeaning": "नया रूप देना, सुधारना",
+      "gujaratiPronunciation": "રિવેમ્પ",
+      "hindiPronunciation": "रिवैंप",
+      "verbForms": {
+        "v1": { "word": "Revamp", "pronunciation": "રિવેમ્પ", "gujaratiMeaning": "નવીનીકરણ કરવું", "hindiMeaning": "नया रूप देना" },
+        "v2": { "word": "Revamped", "pronunciation": "રિવેમ્પ્ડ", "gujaratiMeaning": "નવીનીકરણ કર્યું", "hindiMeaning": "नया रूप दिया" },
+        "v3": { "word": "Revamped", "pronunciation": "રિવેમ્પ્ડ", "gujaratiMeaning": "નવીનીકરણ કરેલું", "hindiMeaning": "नया रूप दिया हुआ" },
+        "v4": { "word": "Revamping", "pronunciation": "રિવેમ્પિંગ", "gujaratiMeaning": "નવીનીકરણ કરી રહ્યું છે", "hindiMeaning": "नया रूप दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Renovate", "pronunciation": "રેનોવેટ", "gujaratiMeaning": "નવીનીકરણ કરવું", "hindiMeaning": "नवीनीकरण करना" },
+        { "word": "Modernize", "pronunciation": "મોર્ડનાઇઝ", "gujaratiMeaning": "આધુનિક બનાવવું", "hindiMeaning": "आधुनिकीकरण करना" }
+      ],
+      "antonyms": [
+        { "word": "Destroy", "pronunciation": "ડિસ્ટ્રોય", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Neglect", "pronunciation": "નેગ્લેક્ટ", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Vamp", "pronunciation": "વેમ્પ", "gujaratiMeaning": "મોહક સ્ત્રી", "hindiMeaning": "मोहिनी" },
+        { "word": "Ramp", "pronunciation": "રેમ્પ", "gujaratiMeaning": "ઢાળ", "hindiMeaning": "ढलान" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company decided to revamp its website design.",
+          "gujaratiTranslation": "કંપનીએ તેની વેબસાઇટની ડિઝાઇનને નવીનીકરણ કરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "कंपनी ने अपनी वेबसाइट डिजाइन को नया रूप देने का फैसला किया।",
+          "gujaratiPronunciation": "ધ કંપની ડિસાઇડેડ ટુ રિવેમ્પ ઇટ્સ વેબસાઇટ ડિઝાઇન.",
+          "hindiPronunciation": "द कंपनी डिसाइडेड टू रिवैंप इट्स वेबसाइट डिजाइन।"
+        }
+      ]
+    },
+    {
+      "word": "Delineate",
+      "partOfSpeech": "verb",
+      "pronunciation": "ડિલિનિએટ",
+      "gujaratiMeaning": "રૂપરેખા આપવી, વર્ણન કરવું",
+      "hindiMeaning": "चित्रित करना, वर्णन करना",
+      "gujaratiPronunciation": "ડિલિનિએટ",
+      "hindiPronunciation": "डिलिनिएट",
+      "verbForms": {
+        "v1": { "word": "Delineate", "pronunciation": "ડિલિનિએટ", "gujaratiMeaning": "રૂપરેખા આપવી", "hindiMeaning": "चित्रित करना" },
+        "v2": { "word": "Delineated", "pronunciation": "ડિલિનિએટેડ", "gujaratiMeaning": "રૂપરેખા આપી", "hindiMeaning": "चित्रित किया" },
+        "v3": { "word": "Delineated", "pronunciation": "ડિલિનિએટેડ", "gujaratiMeaning": "રૂપરેખા આપેલી", "hindiMeaning": "चित्रित किया हुआ" },
+        "v4": { "word": "Delineating", "pronunciation": "ડિલિનિએટિંગ", "gujaratiMeaning": "રૂપરેખા આપી રહ્યું છે", "hindiMeaning": "चित्रित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Describe", "pronunciation": "ડિસ્ક્રાઇબ", "gujaratiMeaning": "વર્ણન કરવું", "hindiMeaning": "वर्णन करना" },
+        { "word": "Outline", "pronunciation": "આઉટલાઇન", "gujaratiMeaning": "રૂપરેખા આપવી", "hindiMeaning": "रूपरेखा बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Confuse", "pronunciation": "કન્ફ્યુઝ", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" },
+        { "word": "Obscure", "pronunciation": "ઓબ્સ્ક્યોર", "gujaratiMeaning": "અસ્પષ્ટ કરવું", "hindiMeaning": "अस्पष्ट करना" }
+      ],
+      "confusingWords": [
+        { "word": "Delete", "pronunciation": "ડિલીટ", "gujaratiMeaning": "કાઢી નાખવું", "hindiMeaning": "मिटाना" },
+        { "word": "Lineage", "pronunciation": "લિનિએજ", "gujaratiMeaning": "વંશ", "hindiMeaning": "वंश" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The report clearly delineates the steps needed for the project.",
+          "gujaratiTranslation": "આ રિપોર્ટ પ્રોજેક્ટ માટે જરૂરી પગલાંની સ્પષ્ટ રૂપરેખા આપે છે.",
+          "hindiTranslation": "रिपोर्ट परियोजना के लिए आवश्यक कदमों को स्पष्ट रूप से चित्रित करती है।",
+          "gujaratiPronunciation": "ધ રિપોર્ટ ક્લિયર્લી ડિલિનિએટ્સ ધ સ્ટેપ્સ નીડેડ ફોર ધ પ્રોજેક્ટ.",
+          "hindiPronunciation": "द रिपोर्ट क्लियरली डिलिनिएट्स द स्टेप्स नीडेड फॉर द प्रोजेक्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Scrutinize",
+      "partOfSpeech": "verb",
+      "pronunciation": "સ્ક્રુટિનાઇઝ",
+      "gujaratiMeaning": "સૂક્ષ્મતાથી તપાસવું",
+      "hindiMeaning": "बारीकी से जांचना",
+      "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ",
+      "hindiPronunciation": "स्क्रूटिनाइज",
+      "verbForms": {
+        "v1": { "word": "Scrutinize", "pronunciation": "સ્ક્રુટિનાઇઝ", "gujaratiMeaning": "સૂક્ષ્મતાથી તપાસવું", "hindiMeaning": "बारीकी से जांचना" },
+        "v2": { "word": "Scrutinized", "pronunciation": "સ્ક્રુટિનાઇઝ્ડ", "gujaratiMeaning": "સૂક્ષ્મતાથી તપાસ્યું", "hindiMeaning": "बारीकी से जांचा" },
+        "v3": { "word": "Scrutinized", "pronunciation": "સ્ક્રુટિનાઇઝ્ડ", "gujaratiMeaning": "સૂક્ષ્મતાથી તપાસેલું", "hindiMeaning": "बारीकी से जांचा हुआ" },
+        "v4": { "word": "Scrutinizing", "pronunciation": "સ્ક્રુટિનાઇઝિંગ", "gujaratiMeaning": "સૂક્ષ્મતાથી તપાસી રહ્યું છે", "hindiMeaning": "बारीकी से जांच रहा है" }
+      },
+      "synonyms": [
+        { "word": "Examine", "pronunciation": "એક્ઝામિન", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जांचना" },
+        { "word": "Inspect", "pronunciation": "ઇન્સ્પેક્ટ", "gujaratiMeaning": "નિરીક્ષણ કરવું", "hindiMeaning": "निरीक्षण करना" }
+      ],
+      "antonyms": [
+        { "word": "Glance", "pronunciation": "ગ્લાન્સ", "gujaratiMeaning": "નજર નાખવી", "hindiMeaning": "सरसरी निगाह डालना" },
+        { "word": "Skim", "pronunciation": "સ્કિમ", "gujaratiMeaning": "ઉપરછલ્લું વાંચવું", "hindiMeaning": "सरसरी तौर पर पढ़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Crucify", "pronunciation": "ક્રુસિફાય", "gujaratiMeaning": "ક્રોસ પર ચડાવવું", "hindiMeaning": "सूली पर चढ़ाना" },
+        { "word": "Screen", "pronunciation": "સ્ક્રીન", "gujaratiMeaning": "પડદો", "hindiMeaning": "स्क्रीन" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The lawyer will scrutinize every detail of the contract.",
+          "gujaratiTranslation": "વકીલ કરારની દરેક વિગતને સૂક્ષ્મતાથી તપાસશે.",
+          "hindiTranslation": "वकील अनुबंध के हर विवरण की बारीकी से जांच करेगा।",
+          "gujaratiPronunciation": "ધ લોયર વિલ સ્ક્રુટિનાઇઝ એવરી ડિટેલ ઓફ ધ કોન્ટ્રેક્ટ.",
+          "hindiPronunciation": "द लॉयर विल स्क्रूटिनाइज एवरी डिटेल ऑफ द कॉन्ट्रैक्ट।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "level-5",
+  "title": "Indefinite Pronouns",
+  "words": [
+    {
+      "word": "Everyone",
+      "gujaratiPronunciation": "એવરીવન",
+      "hindiPronunciation": "एवरीवन",
+      "gujaratiMeaning": "દરેક જણ",
+      "hindiMeaning": "हर कोई",
+      "exampleSentences": [
+        {
+          "sentence": "Everyone is happy.",
+          "gujaratiTranslation": "દરેક જણ ખુશ છે.",
+          "hindiTranslation": "हर कोई खुश है।"
+        }
+      ]
+    },
+    {
+      "word": "Somebody",
+      "gujaratiPronunciation": "સમબડી",
+      "hindiPronunciation": "समबडी",
+      "gujaratiMeaning": "કોઈક",
+      "hindiMeaning": "कोई",
+      "exampleSentences": [
+        {
+          "sentence": "Somebody is at the door.",
+          "gujaratiTranslation": "કોઈક દરવાજા પર છે.",
+          "hindiTranslation": "कोई दरवाजे पर है।"
+        }
+      ]
+    },
+    {
+      "word": "Anybody",
+      "gujaratiPronunciation": "એનીબડી",
+      "hindiPronunciation": "एनीबडी",
+      "gujaratiMeaning": "કોઈપણ",
+      "hindiMeaning": "कोई भी",
+      "exampleSentences": [
+        {
+          "sentence": "Can anybody help me?",
+          "gujaratiTranslation": "શું કોઈ મારી મદદ કરી શકે છે?",
+          "hindiTranslation": "क्या कोई मेरी मदद कर सकता है?"
+        }
+      ]
+    },
+    {
+      "word": "Nothing",
+      "gujaratiPronunciation": "નથિંગ",
+      "hindiPronunciation": "नथिंग",
+      "gujaratiMeaning": "કંઈ नहीं",
+      "hindiMeaning": "कुछ नहीं",
+      "exampleSentences": [
+        {
+          "sentence": "There is nothing in the box.",
+          "gujaratiTranslation": "ડબ્બામાં કંઈ નથી.",
+          "hindiTranslation": "डिब्बे में कुछ नहीं है।"
+        }
+      ]
+    },
+    {
+      "word": "Everything",
+      "gujaratiPronunciation": "એવરીથિંગ",
+      "hindiPronunciation": "एवरीथिंग",
+      "gujaratiMeaning": "બધું",
+      "hindiMeaning": "सब کچھ",
+      "exampleSentences": [
+        {
+          "sentence": "Everything is possible.",
+          "gujaratiTranslation": "બધું શક્ય છે.",
+          "hindiTranslation": "सब कुछ संभव है।"
+        }
+      ]
+    }
+  ]
+}

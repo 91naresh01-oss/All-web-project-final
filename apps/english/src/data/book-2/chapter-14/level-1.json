@@ -1,0 +1,76 @@
+{
+  "id": "level-1",
+  "title": "Pronouns and Pointers 1",
+  "words": [
+    {
+      "word": "This",
+      "gujaratiPronunciation": "ધીસ",
+      "hindiPronunciation": "दिस",
+      "gujaratiMeaning": "આ",
+      "hindiMeaning": "यह",
+      "exampleSentences": [
+        {
+          "sentence": "This is my house.",
+          "gujaratiTranslation": "આ મારું ઘર છે.",
+          "hindiTranslation": "यह मेरा घर है।"
+        }
+      ]
+    },
+    {
+      "word": "That",
+      "gujaratiPronunciation": "ધેટ",
+      "hindiPronunciation": "दैट",
+      "gujaratiMeaning": "તે",
+      "hindiMeaning": "वह",
+      "exampleSentences": [
+        {
+          "sentence": "That is your car.",
+          "gujaratiTranslation": "તે તમારી કાર છે.",
+          "hindiTranslation": "वह आपकी कार है।"
+        }
+      ]
+    },
+    {
+      "word": "These",
+      "gujaratiPronunciation": "ધીઝ",
+      "hindiPronunciation": "दीज़",
+      "gujaratiMeaning": "આ (બહુવચન)",
+      "hindiMeaning": "ये",
+      "exampleSentences": [
+        {
+          "sentence": "These are my books.",
+          "gujaratiTranslation": "આ મારા પુસ્તકો છે.",
+          "hindiTranslation": "ये मेरी किताबें हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Those",
+      "gujaratiPronunciation": "ધોઝ",
+      "hindiPronunciation": "दोज़",
+      "gujaratiMeaning": "તે (બહુવચન)",
+      "hindiMeaning": "वे",
+      "exampleSentences": [
+        {
+          "sentence": "Those are their houses.",
+          "gujaratiTranslation": "તે તેમના ઘરો છે.",
+          "hindiTranslation": "वे उनके घर हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Here",
+      "gujaratiPronunciation": "હિયર",
+      "hindiPronunciation": "हियर",
+      "gujaratiMeaning": "અહીં",
+      "hindiMeaning": "यहाँ",
+      "exampleSentences": [
+        {
+          "sentence": "Come here.",
+          "gujaratiTranslation": "અહીં આવો.",
+          "hindiTranslation": "यहाँ आओ।"
+        }
+      ]
+    }
+  ]
+}

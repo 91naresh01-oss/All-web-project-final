@@ -1,0 +1,600 @@
+{
+    "id": "present-tense-hi",
+    "title": "Present Tense (वर्तमान काल)",
+    "description": "Comprehensive guide to all forms of Present Tense with detailed rules, examples, and exceptions.",
+    "content": [
+        {
+            "type": "section",
+            "title": "1. Simple Present Tense (सामान्य वर्तमान काल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "This tense is used for universal truths, habits, daily routines, and scientific facts.<br>सार्वभौमिक सत्य, सिद्धांत, कहावतें, दैनिक क्रियाएँ और आदतें दर्शाने के लिए इसका प्रयोग होता है."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण (Example)"
+                        ],
+                        "rows": [
+                            [
+                                "Positive (+)",
+                                "Subject + V1 (s/es) + Object",
+                                "He **plays** cricket. (वह क्रिकेट खेलता है।)"
+                            ],
+                            [
+                                "Negative (-)",
+                                "Subject + do/does + not + V1 + Object",
+                                "He **does not play** cricket. (वह क्रिकेट नहीं खेलता है।)"
+                            ],
+                            [
+                                "Question (?)",
+                                "Do/Does + Subject + V1 + Object?",
+                                "**Does** he **play** cricket? (क्या वह क्रिकेट खेलता है?)"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "section",
+                    "title": "Rules for 's' / 'es' (क्रिया के साथ नियम)",
+                    "content": [
+                        {
+                            "type": "note",
+                            "content": "ये प्रत्यय **केवल** तब लगते हैं जब कर्ता **Third Person Singular (He, She, It या एक नाम)** हो।"
+                        },
+                        {
+                            "type": "table",
+                            "content": {
+                                "title": "S/ES Rules",
+                                "headers": [
+                                    "Rule (नियम)",
+                                    "Condition (शर्त)",
+                                    "Example (उदाहरण)"
+                                ],
+                                "rows": [
+                                    [
+                                        "Add '-es'",
+                                        "If verb ends in: **s, ss, sh, ch, x, o, z**",
+                                        "go → go**es**, teach → teach**es**, pass → pass**es**, fix → fix**es**"
+                                    ],
+                                    [
+                                        "Add '-ies'",
+                                        "If verb ends in **consonant + y** (व्यंजन + y)",
+                                        "fly → fl**ies**, cry → cr**ies**, try → tr**ies**"
+                                    ],
+                                    [
+                                        "Add '-s'",
+                                        "If verb ends in **vowel + y** (स्वर + y)",
+                                        "play → play**s**, buy → buy**s**, say → say**s**"
+                                    ],
+                                    [
+                                        "Add '-s'",
+                                        "Other cases (बाकी सभी में)",
+                                        "run → run**s**, eat → eat**s**, drink → drink**s**"
+                                    ]
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "title": "Forms of 'To Be' & 'To Have'",
+                    "content": [
+                        {
+                            "type": "table",
+                            "content": {
+                                "title": "Use of To Be & To Have",
+                                "headers": [
+                                    "Person",
+                                    "To Be (होना)",
+                                    "To Have (पास होना)"
+                                ],
+                                "rows": [
+                                    [
+                                        "I (मैं)",
+                                        "am",
+                                        "have"
+                                    ],
+                                    [
+                                        "We (हम)",
+                                        "are",
+                                        "have"
+                                    ],
+                                    [
+                                        "You (तुम/आप)",
+                                        "are",
+                                        "have"
+                                    ],
+                                    [
+                                        "He / She / It / Name",
+                                        "is",
+                                        "has"
+                                    ],
+                                    [
+                                        "They (वे)",
+                                        "are",
+                                        "have"
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "content": "Examples:<br>• I **am** a teacher. (मैं एक शिक्षक हूँ।)<br>• She **has** a car. (उसके पास एक कार है।)"
+                        }
+                    ]
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words (पहचान के शब्द)",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "Always, Daily, Everyday, Often, Usually, Sometimes, Generally, Frequently, Occasionally, Rarely, Seldom, Never, Hardly, Scarcely, Once a week/month, Twice a day, Every morning/day/week/month/year, On Sundays."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. I write a letter.",
+                            "translation": "(मैं पत्र लिखता हूँ।)"
+                        },
+                        {
+                            "text": "2. She speaks English very well.",
+                            "translation": "(वह बहुत अच्छी अंग्रेजी बोलती है।)"
+                        },
+                        {
+                            "text": "3. The sun rises in the east.",
+                            "translation": "(सूरज पूर्व में उगता है।)"
+                        },
+                        {
+                            "text": "4. We do not play cricket daily.",
+                            "translation": "(हम रोज क्रिकेट नहीं खेलते।)"
+                        },
+                        {
+                            "text": "5. Does he know you.",
+                            "translation": "(क्या वह तुम्हें जानता है?)"
+                        },
+                        {
+                            "text": "6. Birds fly in the sky.",
+                            "translation": "(पक्षी आकाश में उड़ते हैं।)"
+                        },
+                        {
+                            "text": "7. My father goes to office at 9 AM.",
+                            "translation": "(मेरे पिताजी सुबह 9 बजे दफ्तर जाते हैं।)"
+                        },
+                        {
+                            "text": "8. Water boils at 100°C.",
+                            "translation": "(पानी 100°C पर उबलता है।)"
+                        },
+                        {
+                            "text": "9. They often come here.",
+                            "translation": "(वे अक्सर यहाँ आते हैं।)"
+                        },
+                        {
+                            "text": "10. She always helps me.",
+                            "translation": "(वह हमेशा मेरी मदद करती है।)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2. Present Continuous Tense (अपूर्ण वर्तमान काल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions happening **right now** or typically around this time.<br>बोलते समय जो क्रिया चल रही हो, उसे दर्शाने के लिए प्रयोग किया जाता है."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण (Example)"
+                        ],
+                        "rows": [
+                            [
+                                "Positive (+)",
+                                "Sub + am/is/are + V-ing",
+                                "She **is reading** now."
+                            ],
+                            [
+                                "Negative (-)",
+                                "Sub + am/is/are + not + V-ing",
+                                "She **is not reading**."
+                            ],
+                            [
+                                "Question (?)",
+                                "Am/Is/Are + Sub + V-ing?",
+                                "**Is** she **reading**?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Stative Verbs (जिनमें ing नहीं लगता):</b><br>See, Hear, Smell, Notice, Recognize, Appear, Look, Seem, Want, Wish, Desire, Feel, Like, Love, Hate, Hope, Refuse, Prefer, Think, Suppose, Believe, Agree, Consider, Trust, Remember, Forget, Know, Understand, Imagine, Mean, Mind.<br>❌ I am loving it. → ✅ I love it.<br>❌ I am knowing him. → ✅ I know him."
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "Now, Right now, At present, At this moment, Currently, Nowadays, This morning/week/month, Look!, Listen!, See!, Watch!, Hear!, Run!, Be careful!, Don't disturb me."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. I am reading a book now.",
+                            "translation": "(मैं अभी किताब पढ़ रहा हूँ।)"
+                        },
+                        {
+                            "text": "2. She is cooking dinner.",
+                            "translation": "(वह रात का खाना बना रही है।)"
+                        },
+                        {
+                            "text": "3. They are playing football.",
+                            "translation": "(वे फुटबॉल खेल रहे हैं।)"
+                        },
+                        {
+                            "text": "4. Look! The bus is coming.",
+                            "translation": "(देखो! बस आ रही है।)"
+                        },
+                        {
+                            "text": "5. The baby is sleeping.",
+                            "translation": "(बच्चा सो रहा है।)"
+                        },
+                        {
+                            "text": "6. He is not doing his homework.",
+                            "translation": "(वह अपना होमवर्क नहीं कर रहा है।)"
+                        },
+                        {
+                            "text": "7. Are you listening to music?",
+                            "translation": "(क्या तुम संगीत सुन रहे हो?)"
+                        },
+                        {
+                            "text": "8. It is raining heavily.",
+                            "translation": "(जोरों की बारिश हो रही है।)"
+                        },
+                        {
+                            "text": "9. We are going to Mumbai tomorrow.",
+                            "translation": "(हम कल मुंबई जा रहे हैं।)"
+                        },
+                        {
+                            "text": "10. Why are you crying?",
+                            "translation": "(तुम क्यों रो रहे हो?)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3. Present Perfect Tense (पूर्ण वर्तमान काल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions just completed, or actions happened in the past but have an effect now.<br>कुछ समय पहले ही पूरी हुई क्रिया या भूतकाल की क्रिया जिसका प्रभाव अभी भी है."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण (Example)"
+                        ],
+                        "rows": [
+                            [
+                                "Positive (+)",
+                                "Sub + have/has + V3",
+                                "I **have finished** my work."
+                            ],
+                            [
+                                "Negative (-)",
+                                "Sub + have/has + not + V3",
+                                "I **have not finished** yet."
+                            ],
+                            [
+                                "Question (?)",
+                                "Have/Has + Sub + V3?",
+                                "**Have** you **finished**?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Gone vs Been:</b><br>• **He has gone to Mumbai.** (वह मुंबई गया है - अभी यहाँ नहीं है।)<br>• **He has been to Mumbai.** (वह मुंबई हो आया है - अभी यहाँ है, मुंबई जा चुका है।)"
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "Just, Just now, Already, Yet, Ever, Never, Recently, Lately, So far, Up to now, Till now, By now, Since, For, Today, This week/month/year."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. I have finished my work.",
+                            "translation": "(मैंने अपना काम पूरा कर लिया है।)"
+                        },
+                        {
+                            "text": "2. She has just arrived.",
+                            "translation": "(वह अभी-अभी आई है।)"
+                        },
+                        {
+                            "text": "3. We have seen the Taj Mahal.",
+                            "translation": "(हमने ताजमहल देखा है।)"
+                        },
+                        {
+                            "text": "4. He has broken the glass.",
+                            "translation": "(उसने गिलास तोड़ दिया है।)"
+                        },
+                        {
+                            "text": "5. Someone has stolen my purse.",
+                            "translation": "(किसी ने मेरा पर्स चुरा लिया है।)"
+                        },
+                        {
+                            "text": "6. They have not come yet.",
+                            "translation": "(वे अभी तक नहीं आए हैं।)"
+                        },
+                        {
+                            "text": "7. Have you ever been to London?",
+                            "translation": "(क्या तुम कभी लंदन गए हो?)"
+                        },
+                        {
+                            "text": "8. She has known him for 5 years.",
+                            "translation": "(वह उसे 5 साल से जानती है।)"
+                        },
+                        {
+                            "text": "9. I have already read this book.",
+                            "translation": "(मैं यह किताब पहले ही पढ़ चुका हूँ।)"
+                        },
+                        {
+                            "text": "10. The train has left.",
+                            "translation": "(ट्रेन जा चुकी है।)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4. Present Perfect Continuous Tense (पूर्ण-अपूर्ण वर्तमान काल)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Used for actions started in the past and still continuing.<br>भूतकाल में शुरू हुई क्रिया जो वर्तमान में भी जारी हो."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "वाक्य रचना (Structure)",
+                        "headers": [
+                            "प्रकार",
+                            "सूत्र (Formula)",
+                            "उदाहरण (Example)"
+                        ],
+                        "rows": [
+                            [
+                                "Positive (+)",
+                                "Sub + have/has been + V-ing",
+                                "It **has been raining** since morning."
+                            ],
+                            [
+                                "Negative (-)",
+                                "Sub + have/has not been + V-ing",
+                                "It **has not been raining**."
+                            ],
+                            [
+                                "Question (?)",
+                                "Have/Has + Sub + been + V-ing?",
+                                "**Has** it **been raining**?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Since vs For (समय के लिए):</b><br>• **Since:** Point of Time (निश्चित समय) - since 1990, since morning, since Monday, since 7 o'clock.<br>• **For:** Period of Time (समयावधि) - for 2 hours, for 5 days, for 10 years, for a long time."
+                },
+                {
+                    "type": "section",
+                    "title": "Key Words",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "content": "Since, For, How long, Since when, All day, All morning, The whole day, The whole week, Throughout the day."
+                        }
+                    ]
+                },
+                {
+                    "type": "list",
+                    "title": "More Examples (और उदाहरण)",
+                    "content": [
+                        {
+                            "text": "1. I have been reading this book since morning.",
+                            "translation": "(मैं सुबह से यह किताब पढ़ रहा हूँ।)"
+                        },
+                        {
+                            "text": "2. It has been raining for two hours.",
+                            "translation": "(दो घंटे से बारिश हो रही है।)"
+                        },
+                        {
+                            "text": "3. She has been waiting for you since 4 o'clock.",
+                            "translation": "(वह 4 बजे से तुम्हारा इंतज़ार कर रही है।)"
+                        },
+                        {
+                            "text": "4. We have been living here for 10 years.",
+                            "translation": "(हम यहाँ 10 साल से रह रहे हैं।)"
+                        },
+                        {
+                            "text": "5. He has been working in this company since 2015.",
+                            "translation": "(वह 2015 से इस कंपनी में काम कर रहा है।)"
+                        },
+                        {
+                            "text": "6. They have been playing cricket for 3 hours.",
+                            "translation": "(वे 3 घंटे से क्रिकेट खेल रहे हैं।)"
+                        },
+                        {
+                            "text": "7. Have you been waiting long?",
+                            "translation": "(क्या तुम देर से इंतज़ार कर रहे हो?)"
+                        },
+                        {
+                            "text": "8. The child has been crying since his mother left.",
+                            "translation": "(माँ के जाने के बाद से बच्चा रो रहा है।)"
+                        },
+                        {
+                            "text": "9. I have not been feeling well lately.",
+                            "translation": "(मुझे आजकल ठीक नहीं लग रहा है।)"
+                        },
+                        {
+                            "text": "10. She has been learning English for 6 months.",
+                            "translation": "(वह 6 महीने से अंग्रेजी सीख रही है।)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary_table": {
+        "title": "Present Tense Summary (वर्तमान काल सारांश)",
+        "headers": [
+            "Tense (काल)",
+            "When Used (कब प्रयोग करें?)",
+            "Key Words (शब्द)",
+            "Example (उदाहरण)"
+        ],
+        "rows": [
+            {
+                "tense_name": "Simple Present (सामान्य वर्तमान काल)",
+                "usage": "दैनिक क्रियाओं, आदतों या सार्वभौमिक सत्य को दर्शाने के लिए।",
+                "keywords": "Always, Daily, Often, Usually",
+                "example": "I play cricket. (मैं क्रिकेट खेलता हूँ।)"
+            },
+            {
+                "tense_name": "Present Continuous (निरंतर वर्तमान काल)",
+                "usage": "बोलते समय चल रही क्रिया को दर्शाने के लिए।",
+                "keywords": "Now, Look, At this moment",
+                "example": "I am playing cricket. (मैं क्रिकेट खेल रहा हूँ।)"
+            },
+            {
+                "tense_name": "Present Perfect (पूर्ण वर्तमान काल)",
+                "usage": "हाल ही में पूरी हुई क्रिया को दर्शाने के लिए।",
+                "keywords": "Just, Already, Yet",
+                "example": "I have played cricket. (मैंने क्रिकेट खेल लिया है।)"
+            },
+            {
+                "tense_name": "Present Perfect Continuous (पूर्ण निरंतर वर्तमान काल)",
+                "usage": "भूतकाल में शुरू हुई और वर्तमान में भी जारी क्रिया को दर्शाने के लिए।",
+                "keywords": "Since, For",
+                "example": "I have been playing for 2 hours. (मैं 2 घंटे से खेल रहा हूँ।)"
+            }
+        ]
+    },
+    "confusion_section": {
+        "title": "Common Confusions (सामान्य भ्रम)",
+        "items": [
+            {
+                "title": "Simple Future vs Present Continuous (भविष्य के लिए)",
+                "comparison": [
+                    {
+                        "tense": "Simple Future",
+                        "note": "सामान्य भविष्य या भविष्यवाणी के लिए उपयोग होता है। (बिना किसी योजना के)",
+                        "example": "I will go to Mumbai. (मैं मुंबई जाऊंगा - तय नहीं है)"
+                    },
+                    {
+                        "tense": "Present Continuous",
+                        "note": "निश्चित भविष्य (Fixed Plan) के लिए उपयोग होता है।",
+                        "example": "I am going to Mumbai tomorrow. (मैं कल मुंबई जा रहा हूँ - तय है)"
+                    }
+                ],
+                "extra_examples": [
+                    {
+                        "sentence": "I am flying to London next week. (मैं अगले हफ्ते लंदन जा रहा हूँ)",
+                        "explanation": "Planned action (टिकट बुक है)"
+                    },
+                    {
+                        "sentence": "Maybe I will join the gym. (शायद मैं जिम ज्वाइन करूँगा)",
+                        "explanation": "Uncertain/Prediction (तय नहीं है)"
+                    },
+                    {
+                        "sentence": "He is getting married in December. (वह दिसंबर में शादी करने वाला है)",
+                        "explanation": "Fixed arrangement"
+                    },
+                    {
+                        "sentence": "It will probably snow tonight. (शायद आज रात बर्फ गिरेगी)",
+                        "explanation": "Prediction"
+                    },
+                    {
+                        "sentence": "We are having a party on Sunday. (हम रविवार को पार्टी कर रहे हैं)",
+                        "explanation": "Planned event"
+                    }
+                ]
+            },
+            {
+                "title": "Present Continuous vs Present Perfect Continuous",
+                "comparison": [
+                    {
+                        "tense": "Present Continuous",
+                        "note": "क्रिया केवल 'अभी' (Speaking time) चल रही है।",
+                        "example": "It is raining. (बारिश हो रही है - अभी)"
+                    },
+                    {
+                        "tense": "Present Perfect Continuous",
+                        "note": "क्रिया भूतकाल में शुरू हुई और अभी भी जारी है।",
+                        "example": "It has been raining for 2 hours. (2 घंटे से बारिश हो रही है)"
+                    }
+                ],
+                "extra_examples": [
+                    {
+                        "sentence": "He is sleeping now. (वह अभी सो रहा है)",
+                        "explanation": "Action happening now"
+                    },
+                    {
+                        "sentence": "He has been sleeping since morning. (वह सुबह से सो रहा है)",
+                        "explanation": "Started in past, still continuing"
+                    },
+                    {
+                        "sentence": "Look! The baby is crying. (देखो! बच्चा रो रहा है)",
+                        "explanation": "Happening right now"
+                    },
+                    {
+                        "sentence": "The baby has been crying for 10 minutes. (बच्चा 10 मिनट से रो रहा है)",
+                        "explanation": "Duration is mentioned"
+                    },
+                    {
+                        "sentence": "I am learning English due to exam. (मैं परीक्षा के कारण अंग्रेजी सीख रहा हूँ)",
+                        "explanation": "Temporary action now"
+                    }
+                ]
+            }
+        ]
+    }
+}

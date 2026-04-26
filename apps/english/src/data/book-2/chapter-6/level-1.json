@@ -1,0 +1,77 @@
+
+{
+  "id": "level-1",
+  "title": "Common Places 1",
+  "words": [
+    {
+      "word": "Park",
+      "gujaratiPronunciation": "પાર્ક",
+      "hindiPronunciation": "पार्क",
+      "gujaratiMeaning": "બગીચો",
+      "hindiMeaning": "बगीचा",
+      "exampleSentences": [
+        {
+          "sentence": "The children are playing in the park.",
+          "gujaratiTranslation": "બાળકો બગીચામાં રમી રહ્યા છે.",
+          "hindiTranslation": "बच्चे बगीचे में खेल रहे हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Shop",
+      "gujaratiPronunciation": "શોપ",
+      "hindiPronunciation": "शॉप",
+      "gujaratiMeaning": "દુકાન",
+      "hindiMeaning": "दुकान",
+      "exampleSentences": [
+        {
+          "sentence": "I need to go to the shop to buy milk.",
+          "gujaratiTranslation": "મારે દૂધ ખરીદવા માટે દુકાને જવું પડશે.",
+          "hindiTranslation": "मुझे दूध खरीदने के लिए दुकान जाना है।"
+        }
+      ]
+    },
+    {
+      "word": "School",
+      "gujaratiPronunciation": "સ્કૂલ",
+      "hindiPronunciation": "स्कूल",
+      "gujaratiMeaning": "શાળા",
+      "hindiMeaning": "विद्यालय",
+      "exampleSentences": [
+        {
+          "sentence": "My school is very big.",
+          "gujaratiTranslation": "મારી શાળા ખૂબ મોટી છે.",
+          "hindiTranslation": "मेरा स्कूल बहुत बड़ा है।"
+        }
+      ]
+    },
+    {
+      "word": "Road",
+      "gujaratiPronunciation": "રોડ",
+      "hindiPronunciation": "रोड",
+      "gujaratiMeaning": "રસ્તો",
+      "hindiMeaning": "सड़क",
+      "exampleSentences": [
+        {
+          "sentence": "Be careful when you cross the road.",
+          "gujaratiTranslation": "જ્યારે તમે રસ્તો ઓળંગો ત્યારે સાવચેત રહો.",
+          "hindiTranslation": "सड़क पार करते समय सावधान रहें।"
+        }
+      ]
+    },
+    {
+      "word": "Room",
+      "gujaratiPronunciation": "રૂમ",
+      "hindiPronunciation": "रूम",
+      "gujaratiMeaning": "ઓરડો",
+      "hindiMeaning": "कमरा",
+      "exampleSentences": [
+        {
+          "sentence": "Please clean your room.",
+          "gujaratiTranslation": "કૃપા કરીને તમારો ઓરડો સાફ કરો.",
+          "hindiTranslation": "कृपया अपना कमरा साफ़ करें।"
+        }
+      ]
+    }
+  ]
+}

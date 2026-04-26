@@ -1,0 +1,482 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Fix",
+      "gujaratiPronunciation": "ફિક્સ",
+      "hindiPronunciation": "फिक्स",
+      "gujaratiMeaning": "સુધારવું",
+      "hindiMeaning": "ठीक करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Fix",
+          "gujaratiPronunciation": "ફિક્સ",
+          "hindiPronunciation": "फिक्स",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "ठीक करना"
+        },
+        "v2": {
+          "word": "Fixed",
+          "gujaratiPronunciation": "ફિક્સ્ડ",
+          "hindiPronunciation": "फिक्स्ड",
+          "gujaratiMeaning": "સુધાર્યું",
+          "hindiMeaning": "ठीक किया"
+        },
+        "v3": {
+          "word": "Fixed",
+          "gujaratiPronunciation": "ફિક્સ્ડ",
+          "hindiPronunciation": "फिक्स्ड",
+          "gujaratiMeaning": "સુધારેલું",
+          "hindiMeaning": "ठीक किया हुआ"
+        },
+        "v4": {
+          "word": "Fixing",
+          "gujaratiPronunciation": "ફિક્સિંગ",
+          "hindiPronunciation": "फिक्सिंग",
+          "gujaratiMeaning": "સુધારી રહ્યું છે",
+          "hindiMeaning": "ठीक कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Repair",
+          "gujaratiPronunciation": "રિપેર",
+          "hindiPronunciation": "रिपेयर",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        },
+        {
+          "word": "Mend",
+          "gujaratiPronunciation": "મેન્ડ",
+          "hindiPronunciation": "मेंड",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "सुधारना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        },
+        {
+          "word": "Damage",
+          "gujaratiPronunciation": "ડેમેજ",
+          "hindiPronunciation": "डैमेज",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "नुकसान पहुँचाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Fax",
+          "gujaratiPronunciation": "ફેક્સ",
+          "hindiPronunciation": "फैक्स",
+          "gujaratiMeaning": "ફેક્સ",
+          "hindiMeaning": "फैक्स"
+        },
+        {
+          "word": "Fox",
+          "gujaratiPronunciation": "ફૉક્સ",
+          "hindiPronunciation": "फॉक्स",
+          "gujaratiMeaning": "શિયાળ",
+          "hindiMeaning": "लोमड़ी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you fix the broken chair?",
+          "gujaratiTranslation": "શું તમે તૂટેલી ખુરશી સુધારી શકો છો?",
+          "hindiTranslation": "क्या आप टूटी हुई कुर्सी ठीक कर सकते हैं?",
+          "gujaratiPronunciation": "કેન યુ ફિક્સ ધ બ્રોકન ચેર?",
+          "hindiPronunciation": "कैन यू फिक्स द ब्रोकन चेयर?"
+        }
+      ]
+    },
+    {
+      "word": "Deduce",
+      "gujaratiPronunciation": "ડિડ્યુસ",
+      "hindiPronunciation": "डिड्यूस",
+      "gujaratiMeaning": "તારણ કાઢવું",
+      "hindiMeaning": "निष्कर्ष निकालना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Deduce",
+          "gujaratiPronunciation": "ડિડ્યુસ",
+          "hindiPronunciation": "डिड्यूस",
+          "gujaratiMeaning": "તારણ કાઢવું",
+          "hindiMeaning": "निष्कर्ष निकालना"
+        },
+        "v2": {
+          "word": "Deduced",
+          "gujaratiPronunciation": "ડિડ્યુસ્ડ",
+          "hindiPronunciation": "डिड्यूस्ड",
+          "gujaratiMeaning": "તારણ કાઢ્યું",
+          "hindiMeaning": "निष्कर्ष निकाला"
+        },
+        "v3": {
+          "word": "Deduced",
+          "gujaratiPronunciation": "ડિડ્યુસ્ડ",
+          "hindiPronunciation": "डिड्यूस्ड",
+          "gujaratiMeaning": "તારણ કાઢેલું",
+          "hindiMeaning": "निष्कर्ष निकाला हुआ"
+        },
+        "v4": {
+          "word": "Deducing",
+          "gujaratiPronunciation": "ડિડ્યુસિંગ",
+          "hindiPronunciation": "डिड्यूसिंग",
+          "gujaratiMeaning": "તારણ કાઢી રહ્યું છે",
+          "hindiMeaning": "निष्कर्ष निकाल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Infer",
+          "gujaratiPronunciation": "ઇન્ફર",
+          "hindiPronunciation": "इन्फर",
+          "gujaratiMeaning": "અનુમાન કરવું",
+          "hindiMeaning": "अनुमान लगाना"
+        },
+        {
+          "word": "Conclude",
+          "gujaratiPronunciation": "કન્ક્લુડ",
+          "hindiPronunciation": "कन्क्लूड",
+          "gujaratiMeaning": "નિષ્કર્ષ કાઢવો",
+          "hindiMeaning": "निष्कर्ष निकालना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Guess",
+          "gujaratiPronunciation": "ગેસ",
+          "hindiPronunciation": "गेस",
+          "gujaratiMeaning": "અનુમાન લગાવવું",
+          "hindiMeaning": "अनुमान लगाना"
+        },
+        {
+          "word": "Assume",
+          "gujaratiPronunciation": "અસ્યુમ",
+          "hindiPronunciation": "अस्युम",
+          "gujaratiMeaning": "ધારી લેવું",
+          "hindiMeaning": "मान लेना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Reduce",
+          "gujaratiPronunciation": "રિડ્યુસ",
+          "hindiPronunciation": "रिड्यूस",
+          "gujaratiMeaning": "ઘટાડવું",
+          "hindiMeaning": "कम करना"
+        },
+        {
+          "word": "Induce",
+          "gujaratiPronunciation": "ઇન્ડ્યુસ",
+          "hindiPronunciation": "इंड्यूस",
+          "gujaratiMeaning": "પ્રેરિત કરવું",
+          "hindiMeaning": "પ્રેરિત કરના"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "From the evidence, we can deduce that he is guilty.",
+          "gujaratiTranslation": "પુરાવા પરથી, આપણે તારણ કાઢી શકીએ છીએ કે તે દોષી છે.",
+          "hindiTranslation": "सबूतों से, हम यह निष्कर्ष निकाल सकते हैं कि वह दोषी है।",
+          "gujaratiPronunciation": "ફ્રોમ ધ એવિડન્સ, વી કેન ડિડ્યુસ ધેટ હી ઇઝ ગિલ્ટી.",
+          "hindiPronunciation": "फ्रॉम द एविडेंस, वी कैन डिड्यूस दैट ही इज गिल्टी।"
+        }
+      ]
+    },
+    {
+      "word": "Formulate",
+      "gujaratiPronunciation": "ફૉર્મ્યુલેટ",
+      "hindiPronunciation": "फॉर्म्युलेट",
+      "gujaratiMeaning": "રચના કરવી",
+      "hindiMeaning": "तैयार करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Formulate",
+          "gujaratiPronunciation": "ફૉર્મ્યુલેટ",
+          "hindiPronunciation": "फॉर्म्युलेट",
+          "gujaratiMeaning": "રચના કરવી",
+          "hindiMeaning": "तैयार करना"
+        },
+        "v2": {
+          "word": "Formulated",
+          "gujaratiPronunciation": "ફૉર્મ્યુલેટેડ",
+          "hindiPronunciation": "फॉर्म्युलेटेड",
+          "gujaratiMeaning": "રચના કરી",
+          "hindiMeaning": "तैयार किया"
+        },
+        "v3": {
+          "word": "Formulated",
+          "gujaratiPronunciation": "ફૉર્મ્યુલેટેડ",
+          "hindiPronunciation": "फॉर्म्युलेटेड",
+          "gujaratiMeaning": "રચના કરેલી",
+          "hindiMeaning": "तैयार किया हुआ"
+        },
+        "v4": {
+          "word": "Formulating",
+          "gujaratiPronunciation": "ફૉર્મ્યુલેટિંગ",
+          "hindiPronunciation": "फॉर्म्युलेटिंग",
+          "gujaratiMeaning": "રચના કરી રહ્યું છે",
+          "hindiMeaning": "तैयार कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Develop",
+          "gujaratiPronunciation": "ડેવલપ",
+          "hindiPronunciation": "डेवलप",
+          "gujaratiMeaning": "વિકસાવવું",
+          "hindiMeaning": "विकसित करना"
+        },
+        {
+          "word": "Create",
+          "gujaratiPronunciation": "ક્રિએટ",
+          "hindiPronunciation": "क्रिएट",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Destroy",
+          "gujaratiPronunciation": "ડિસ્ટ્રૉય",
+          "hindiPronunciation": "डिस्ट्रॉइ",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        },
+        {
+          "word": "Disorganize",
+          "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ",
+          "hindiPronunciation": "डिसऑर्गेनाइज़",
+          "gujaratiMeaning": "અવ્યવસ્થિત કરવું",
+          "hindiMeaning": "अस्त-व्यस्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Formula",
+          "gujaratiPronunciation": "ફૉર્મ્યુલા",
+          "hindiPronunciation": "फॉर्म्युला",
+          "gujaratiMeaning": "સૂત્ર",
+          "hindiMeaning": "सूत्र"
+        },
+        {
+          "word": "Fumigate",
+          "gujaratiPronunciation": "ફ્યુમિગેટ",
+          "hindiPronunciation": "फ्यूमिगेट",
+          "gujaratiMeaning": "ધૂમ્રપાન કરવું",
+          "hindiMeaning": "धूनी देना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They need to formulate a new plan to increase sales.",
+          "gujaratiTranslation": "તેમને વેચાણ વધારવા માટે નવી યોજના બનાવવાની જરૂર છે.",
+          "hindiTranslation": "उन्हें बिक्री बढ़ाने के लिए एक नई योजना तैयार करने की आवश्यकता है।",
+          "gujaratiPronunciation": "ધે નીડ ટુ ફોર્મ્યુલેટ અ ન્યૂ પ્લાન ટુ ઇનક્રીઝ સેલ્સ.",
+          "hindiPronunciation": "दे नीड टू फॉर्म्युलेट अ न्यू प्लान टू इनक्रीज़ सेल्स।"
+        }
+      ]
+    },
+    {
+      "word": "Innovate",
+      "gujaratiPronunciation": "ઇનોવેટ",
+      "hindiPronunciation": "इनोवेट",
+      "gujaratiMeaning": "નવીનતા લાવવી",
+      "hindiMeaning": "नयापन लाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Innovate",
+          "gujaratiPronunciation": "ઇનોવેટ",
+          "hindiPronunciation": "इनोवेट",
+          "gujaratiMeaning": "નવીનતા લાવવી",
+          "hindiMeaning": "नयापन लाना"
+        },
+        "v2": {
+          "word": "Innovated",
+          "gujaratiPronunciation": "ઇનોવેટેડ",
+          "hindiPronunciation": "इनोवेटेड",
+          "gujaratiMeaning": "નવીનતા લાવી",
+          "hindiMeaning": "नयापन लाया"
+        },
+        "v3": {
+          "word": "Innovated",
+          "gujaratiPronunciation": "ઇનોવેટેડ",
+          "hindiPronunciation": "इनोवेटेड",
+          "gujaratiMeaning": "નવીનતા લાવેલી",
+          "hindiMeaning": "नयापन लाया हुआ"
+        },
+        "v4": {
+          "word": "Innovating",
+          "gujaratiPronunciation": "ઇનોવેટિંગ",
+          "hindiPronunciation": "इनोवेटिंग",
+          "gujaratiMeaning": "નવીનતા લાવી રહ્યું છે",
+          "hindiMeaning": "नयापन ला रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Invent",
+          "gujaratiPronunciation": "ઇન્વેન્ટ",
+          "hindiPronunciation": "इन्वेंट",
+          "gujaratiMeaning": "શોધ કરવી",
+          "hindiMeaning": "आविष्कार करना"
+        },
+        {
+          "word": "Create",
+          "gujaratiPronunciation": "ક્રિએટ",
+          "hindiPronunciation": "क्रिएट",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Copy",
+          "gujaratiPronunciation": "કૉપિ",
+          "hindiPronunciation": "कॉपी",
+          "gujaratiMeaning": "નકલ કરવી",
+          "hindiMeaning": "नकल करना"
+        },
+        {
+          "word": "Follow",
+          "gujaratiPronunciation": "ફૉલો",
+          "hindiPronunciation": "फॉलो",
+          "gujaratiMeaning": "અનુસરણ કરવું",
+          "hindiMeaning": "अनुसरण करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Innervate",
+          "gujaratiPronunciation": "ઇનરવેટ",
+          "hindiPronunciation": "इनरवेट",
+          "gujaratiMeaning": "ઉત્તેજિત કરવું",
+          "hindiMeaning": "उत्तेजित करना"
+        },
+        {
+          "word": "Renovate",
+          "gujaratiPronunciation": "રેનોવેટ",
+          "hindiPronunciation": "रेनोवेट",
+          "gujaratiMeaning": "નવીનીકરણ કરવું",
+          "hindiMeaning": "नवीनीकरण करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company continues to innovate and develop new products.",
+          "gujaratiTranslation": "કંપની નવીનતા લાવવાનું અને નવા ઉત્પાદનો વિકસાવવાનું ચાલુ રાખે છે.",
+          "hindiTranslation": "कंपनी नयापन लाना और नए उत्पाद विकसित करना जारी रखती है।",
+          "gujaratiPronunciation": "ધ કંપની કન્ટિન્યુઝ ટુ ઇનોવેટ એન્ડ ડેવલપ ન્યૂ પ્રોડક્ટ્સ.",
+          "hindiPronunciation": "द कंपनी कंटीन्यूज़ टू इनोवेट एंड डेवलप न्यू प्रोडक्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Address",
+      "gujaratiPronunciation": "એડ્રેસ",
+      "hindiPronunciation": "एड्रेस",
+      "gujaratiMeaning": "સમાધાન કરવું",
+      "hindiMeaning": "समाधान करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Address",
+          "gujaratiPronunciation": "એડ્રેસ",
+          "hindiPronunciation": "एड्रेस",
+          "gujaratiMeaning": "સમાધાન કરવું",
+          "hindiMeaning": "समाधान करना"
+        },
+        "v2": {
+          "word": "Addressed",
+          "gujaratiPronunciation": "એડ્રેસ્ડ",
+          "hindiPronunciation": "एड्रेस्ड",
+          "gujaratiMeaning": "સમાધાન કર્યું",
+          "hindiMeaning": "समाधान किया"
+        },
+        "v3": {
+          "word": "Addressed",
+          "gujaratiPronunciation": "એડ્રેસ્ડ",
+          "hindiPronunciation": "एड्रेस्ड",
+          "gujaratiMeaning": "સમાધાન કરેલું",
+          "hindiMeaning": "समाधान किया हुआ"
+        },
+        "v4": {
+          "word": "Addressing",
+          "gujaratiPronunciation": "એડ્રેસિંગ",
+          "hindiPronunciation": "एड्रेसिंग",
+          "gujaratiMeaning": "સમાધાન કરી રહ્યું છે",
+          "hindiMeaning": "समाधान कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Tackle",
+          "gujaratiPronunciation": "ટેકલ",
+          "hindiPronunciation": "टैकल",
+          "gujaratiMeaning": "સામનો કરવો",
+          "hindiMeaning": "सामना करना"
+        },
+        {
+          "word": "Deal with",
+          "gujaratiPronunciation": "ડીલ વિથ",
+          "hindiPronunciation": "डील विथ",
+          "gujaratiMeaning": "વ્યવહાર કરવો",
+          "hindiMeaning": "निपटना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नजरअंदाज करना"
+        },
+        {
+          "word": "Avoid",
+          "gujaratiPronunciation": "અવૉઇડ",
+          "hindiPronunciation": "अवॉइड",
+          "gujaratiMeaning": "ટાળવું",
+          "hindiMeaning": "टालना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Dress",
+          "gujaratiPronunciation": "ડ્રેસ",
+          "hindiPronunciation": "ड्रेस",
+          "gujaratiMeaning": "પોશાક",
+          "hindiMeaning": "पोशाक"
+        },
+        {
+          "word": "Add",
+          "gujaratiPronunciation": "ઍડ",
+          "hindiPronunciation": "ऐड",
+          "gujaratiMeaning": "ઉમેરવું",
+          "hindiMeaning": "जोड़ना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to address the root cause of the problem.",
+          "gujaratiTranslation": "આપણે સમસ્યાના મૂળ કારણનું સમાધાન કરવાની જરૂર છે.",
+          "hindiTranslation": "हमें समस्या के मूल कारण का समाधान करने की आवश्यकता है।",
+          "gujaratiPronunciation": "વી નીડ ટુ એડ્રેસ ધ રૂટ કોઝ ઓફ ધ પ્રોબ્લેમ.",
+          "hindiPronunciation": "वी नीड टू एड्रेस द रूट कॉज़ ऑफ द प्रॉब्लम।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "level-5",
+  "title": "Level 5: Deflect, Impel, Gyrate, Translocate, Maneuver",
+  "words": [
+    {
+      "word": "Deflect",
+      "gujaratiPronunciation": "ડિફ્લેક્ટ",
+      "hindiPronunciation": "डिफ्लेक्ट",
+      "gujaratiMeaning": "દિશા બદલવી",
+      "hindiMeaning": "दिशा बदलना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Deflect", "gujaratiPronunciation": "ડિફ્લેક્ટ", "hindiPronunciation": "डिफ्लेक्ट", "gujaratiMeaning": "દિશા બદલવી", "hindiMeaning": "दिशा बदलना" },
+        "v2": { "word": "Deflected", "gujaratiPronunciation": "ડિફ્લેક્ટેડ", "hindiPronunciation": "डिफ्लेक्टेड", "gujaratiMeaning": "દિશા બદલી", "hindiMeaning": "दिशा बदली" },
+        "v3": { "word": "Deflected", "gujaratiPronunciation": "ડિફ્લેક્ટેડ", "hindiPronunciation": "डिफ्लेक्टेड", "gujaratiMeaning": "દિશા બદલેલી", "hindiMeaning": "दिशा बदली हुई" },
+        "v4": { "word": "Deflecting", "gujaratiPronunciation": "ડિફ્લેક્ટિંગ", "hindiPronunciation": "डिफ्लेक्टिंग", "gujaratiMeaning": "દિશા બદલી રહ્યો છે", "hindiMeaning": "दिशा बदल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Divert", "gujaratiPronunciation": "ડાયવર્ટ", "hindiPronunciation": "डाइवर्ट", "gujaratiMeaning": "માર્ગ બદલવો", "hindiMeaning": "मार्ग बदलना" },
+        { "word": "Avert", "gujaratiPronunciation": "અવર્ટ", "hindiPronunciation": "अवर्ट", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" }
+      ],
+      "antonyms": [
+        { "word": "Attract", "gujaratiPronunciation": "એટ્રેક્ટ", "hindiPronunciation": "अट्रैक्ट", "gujaratiMeaning": "આકર્ષવું", "hindiMeaning": "आकर्षित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Reflect", "gujaratiPronunciation": "રિફ્લેક્ટ", "hindiPronunciation": "रिफ्लेक्ट", "gujaratiMeaning": "પ્રતિબિંબિત કરવું", "hindiMeaning": "प्रतिबिंबित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He deflected the question by changing the subject.",
+          "gujaratiPronunciation": "હી ડિફ્લેક્ટેડ ધ ક્વેશ્ચન બાય ચેન્જિંગ ધ સબ્જેક્ટ.",
+          "hindiPronunciation": "ही डिफ्लेक्टेड द क्वेश्चन बाय चेंजिंग द सब्जेक्ट।",
+          "gujaratiTranslation": "તેણે વિષય બદલીને પ્રશ્નને ટાળી દીધો.",
+          "hindiTranslation": "उसने विषय बदलकर सवाल को टाल दिया।"
+        }
+      ]
+    },
+    {
+      "word": "Impel",
+      "gujaratiPronunciation": "ઇમ્પેલ",
+      "hindiPronunciation": "इम्पेल",
+      "gujaratiMeaning": "પ્રેરણા આપવી",
+      "hindiMeaning": "પ્રેરિત करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Impel", "gujaratiPronunciation": "ઇમ્પેલ", "hindiPronunciation": "इम्पेल", "gujaratiMeaning": "પ્રેરણા આપવી", "hindiMeaning": "પ્રેરિત करना" },
+        "v2": { "word": "Impelled", "gujaratiPronunciation": "ઇમ્પેલ્ડ", "hindiPronunciation": "इम्पैल्ड", "gujaratiMeaning": "પ્રેરણા આપી", "hindiMeaning": "પ્રેરિત किया" },
+        "v3": { "word": "Impelled", "gujaratiPronunciation": "ઇમ્પેલ્ડ", "hindiPronunciation": "इम्पैल्ड", "gujaratiMeaning": "પ્રેરણા આપેલી", "hindiMeaning": "પ્રેરિત किया हुआ" },
+        "v4": { "word": "Impelling", "gujaratiPronunciation": "ઇમ્પેલિંગ", "hindiPronunciation": "इम्पेलिंग", "gujaratiMeaning": "પ્રેરણા આપી રહ્યો છે", "hindiMeaning": "પ્રેરિત कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Force", "gujaratiPronunciation": "ફોર્સ", "hindiPronunciation": "फोर्स", "gujaratiMeaning": "બળજબરી કરવી", "hindiMeaning": "मजबूर करना" },
+        { "word": "Urge", "gujaratiPronunciation": "અર્જ", "hindiPronunciation": "अर्ज", "gujaratiMeaning": "આગ્રહ કરવો", "hindiMeaning": "आग्रह करना" }
+      ],
+      "antonyms": [
+        { "word": "Discourage", "gujaratiPronunciation": "ડિસ્કરેજ", "hindiPronunciation": "डिस्कैरेज", "gujaratiMeaning": "નિરાશ કરવું", "hindiMeaning": "हतोत्साहित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Impale", "gujaratiPronunciation": "ઇમ્પેલ", "hindiPronunciation": "इम्पेल", "gujaratiMeaning": "શૂળીએ ચડાવવું", "hindiMeaning": "सूली पर चढ़ाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A sense of duty impelled him to act.",
+          "gujaratiPronunciation": "અ સેન્સ ઓફ ડ્યુટી ઇમ્પેલ્ડ હિમ ટુ એક્ટ.",
+          "hindiPronunciation": "अ सेंस ऑफ़ ड्यूटी इम्पैल्ड हिम टू एक्ट।",
+          "gujaratiTranslation": "ફરજની ભાવનાએ તેને કાર્ય કરવા માટે પ્રેર્યો.",
+          "hindiTranslation": "कर्तव्य की भावना ने उसे कार्य करने के लिए प्रेरित किया।"
+        }
+      ]
+    },
+    {
+      "word": "Gyrate",
+      "gujaratiPronunciation": "જાયરેટ",
+      "hindiPronunciation": "जाइरेट",
+      "gujaratiMeaning": "ગોળ ગોળ ફરવું",
+      "hindiMeaning": "गोल-गोल घूमना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Gyrate", "gujaratiPronunciation": "જાયરેટ", "hindiPronunciation": "जाइरेट", "gujaratiMeaning": "ગોળ ગોળ ફરવું", "hindiMeaning": "गोल-गोल घूमना" },
+        "v2": { "word": "Gyrated", "gujaratiPronunciation": "જાયરેટેડ", "hindiPronunciation": "जाइरेटेड", "gujaratiMeaning": "ગોળ ગોળ ફર્યું", "hindiMeaning": "गोल-गोल घूमा" },
+        "v3": { "word": "Gyrated", "gujaratiPronunciation": "જાયરેટેડ", "hindiPronunciation": "जाइरेटेड", "gujaratiMeaning": "ગોળ ગોળ ફરેલું", "hindiMeaning": "गोल-गोल घूमा हुआ" },
+        "v4": { "word": "Gyrating", "gujaratiPronunciation": "જાયરેટિંગ", "hindiPronunciation": "जाइरेटिंग", "gujaratiMeaning": "ગોળ ગોળ ફરી રહ્યો છે", "hindiMeaning": "गोल-गोल घूम रहा है" }
+      },
+      "synonyms": [
+        { "word": "Spin", "gujaratiPronunciation": "સ્પિન", "hindiPronunciation": "स्पिन", "gujaratiMeaning": "ભમવું", "hindiMeaning": "चक्कर काटना" },
+        { "word": "Revolve", "gujaratiPronunciation": "રિવોલ્વ", "hindiPronunciation": "रिवॉल्व", "gujaratiMeaning": "પરિક્રમા કરવી", "hindiMeaning": "घूमना" }
+      ],
+      "antonyms": [
+        { "word": "Stand still", "gujaratiPronunciation": "સ્ટેન્ડ સ્ટીલ", "hindiPronunciation": "स्टैंड स्टिल", "gujaratiMeaning": "સ્થિર ઊભા રહેવું", "hindiMeaning": "स्थिर खड़े रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Migrate", "gujaratiPronunciation": "માઇગ્રેટ", "hindiPronunciation": "माइग्रेट", "gujaratiMeaning": "સ્થળાંતર કરવું", "hindiMeaning": "प्रवास करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The dancers began to gyrate to the music.",
+          "gujaratiPronunciation": "ધ ડાન્સર્સ બિગેન ટુ જાયરેટ ટુ ધ મ્યુઝિક.",
+          "hindiPronunciation": "द डांसर्स बिगेन टू जाइरेट टू द म्यूज़िक।",
+          "gujaratiTranslation": "નર્તકો સંગીત પર ગોળ ગોળ ફરવા લાગ્યા.",
+          "hindiTranslation": "नर्तक संगीत पर गोल-गोल घूमने लगे।"
+        }
+      ]
+    },
+    {
+      "word": "Translocate",
+      "gujaratiPronunciation": "ટ્રાન્સલોકેટ",
+      "hindiPronunciation": "ट्रांसलोकेट",
+      "gujaratiMeaning": "સ્થાન બદલવું",
+      "hindiMeaning": "स्थानांतरित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Translocate", "gujaratiPronunciation": "ટ્રાન્સલોકેટ", "hindiPronunciation": "ट्रांसलोकेट", "gujaratiMeaning": "સ્થાન બદલવું", "hindiMeaning": "स्थानांतरित करना" },
+        "v2": { "word": "Translocated", "gujaratiPronunciation": "ટ્રાન્સલોકેટેડ", "hindiPronunciation": "ट्रांसलोकेटेड", "gujaratiMeaning": "સ્થાન બદલ્યું", "hindiMeaning": "स्थानांतरित किया" },
+        "v3": { "word": "Translocated", "gujaratiPronunciation": "ટ્રાન્સલોકેટેડ", "hindiPronunciation": "ट्रांसलोकेटेड", "gujaratiMeaning": "સ્થાન બદલેલું", "hindiMeaning": "स्थानांतरित किया हुआ" },
+        "v4": { "word": "Translocating", "gujaratiPronunciation": "ટ્રાન્સલોકેટિંગ", "hindiPronunciation": "ट्रांसलोकेटिंग", "gujaratiMeaning": "સ્થાન બદલી રહ્યો છે", "hindiMeaning": "स्थानांतरित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Move", "gujaratiPronunciation": "મૂવ", "hindiPronunciation": "मूव", "gujaratiMeaning": "ખસવું", "hindiMeaning": "हिलना" },
+        { "word": "Relocate", "gujaratiPronunciation": "રિલોકેટ", "hindiPronunciation": "रिलोकेट", "gujaratiMeaning": "સ્થાન બદલવું", "hindiMeaning": "स्थानांतरित करना" }
+      ],
+      "antonyms": [
+        { "word": "Remain", "gujaratiPronunciation": "રિમેઇન", "hindiPronunciation": "रिमेन", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Translate", "gujaratiPronunciation": "ટ્રાન્સલેટ", "hindiPronunciation": "ट्रांसलेट", "gujaratiMeaning": "અનુવાદ કરવો", "hindiMeaning": "अनुवाद करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company decided to translocate its headquarters.",
+          "gujaratiPronunciation": "ધ કંપની ડિસાઇડેડ ટુ ટ્રાન્સલોકેટ ઇટ્સ હેડક્વાર્ટર્સ.",
+          "hindiPronunciation": "द कंपनी डिसाइडेड टू ट्रांसलोकेट इट्स हेडक्वार्टर्स।",
+          "gujaratiTranslation": "કંપનીએ તેના મુખ્ય મથકને સ્થાનાંતરિત કરવાનો નિર્ણય કર્યો.",
+          "hindiTranslation": "कंपनी ने अपने मुख्यालय को स्थानांतरित करने का निर्णय लिया।"
+        }
+      ]
+    },
+    {
+      "word": "Maneuver",
+      "gujaratiPronunciation": "મનુવર",
+      "hindiPronunciation": "मनूवर",
+      "gujaratiMeaning": "દાવપેચ કરવો",
+      "hindiMeaning": "पैंतरेबाज़ी करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Maneuver", "gujaratiPronunciation": "મનુવર", "hindiPronunciation": "मनूवर", "gujaratiMeaning": "દાવપેચ કરવો", "hindiMeaning": "पैंतरेबाज़ी करना" },
+        "v2": { "word": "Maneuvered", "gujaratiPronunciation": "મનુવર્ડ", "hindiPronunciation": "मनूवार्ड", "gujaratiMeaning": "દાવપેચ કર્યો", "hindiMeaning": "पैंतरेबाज़ी की" },
+        "v3": { "word": "Maneuvered", "gujaratiPronunciation": "મનુવર્ડ", "hindiPronunciation": "मनूवार्ड", "gujaratiMeaning": "દાવપેચ કરેલો", "hindiMeaning": "पैंतरेबाज़ी की हुई" },
+        "v4": { "word": "Maneuvering", "gujaratiPronunciation": "મનુવરિંગ", "hindiPronunciation": "मनूवरिंग", "gujaratiMeaning": "દાવપેચ કરી રહ્યો છે", "hindiMeaning": "पैंतरेबाज़ी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Navigate", "gujaratiPronunciation": "નેવિગેટ", "hindiPronunciation": "नेविगेट", "gujaratiMeaning": "માર્ગદર્શન કરવું", "hindiMeaning": "मार्गदर्शन करना" },
+        { "word": "Handle", "gujaratiPronunciation": "હેન્ડલ", "hindiPronunciation": "हैंडल", "gujaratiMeaning": "સંભાળવું", "hindiMeaning": "संभालना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        { "word": "Manure", "gujaratiPronunciation": "મેન્યુર", "hindiPronunciation": "मैन्योर", "gujaratiMeaning": "ખાતર", "hindiMeaning": "खाद" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The driver had to maneuver the car into a tight parking space.",
+          "gujaratiPronunciation": "ધ ડ્રાઇવર હેડ ટુ મનુવર ધ કાર ઇન્ટુ અ ટાઇટ પાર્કિંગ સ્પેસ.",
+          "hindiPronunciation": "द ड्राइवर हैड टू मनूवर द कार इनटू अ टाइट पार्किंग स्पेस।",
+          "gujaratiTranslation": "ડ્રાઇવરે કારને સાંકડી પાર્કિંગ જગ્યામાં દાવપેચ કરીને પાર્ક કરવી પડી.",
+          "hindiTranslation": "ड्राइवर को कार को एक तंग पार्किंग जगह में ले जाना पड़ा।"
+        }
+      ]
+    }
+  ]
+}

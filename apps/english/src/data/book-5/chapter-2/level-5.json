@@ -1,0 +1,144 @@
+{
+  "id": "level-5",
+  "title": "Level 5: Overriding & Hindering",
+  "words": [
+    {
+      "word": "Overrule",
+      "gujaratiPronunciation": "ઓવરરૂલ",
+      "hindiPronunciation": "ओवररूल",
+      "gujaratiMeaning": "રદ કરવું, ફગાવી દેવું",
+      "hindiMeaning": "रद्द करना, खारिज करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Overrule", "gujaratiPronunciation": "ઓવરરૂલ", "hindiPronunciation": "ओवररूल", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" },
+        "V2 (Past)": { "word": "Overruled", "gujaratiPronunciation": "ઓવરરૂલ્ડ", "hindiPronunciation": "ओवररूल्ड", "gujaratiMeaning": "રદ કર્યું", "hindiMeaning": "रद्द किया" },
+        "V3 (Past Participle)": { "word": "Overruled", "gujaratiPronunciation": "ઓવરરૂલ્ડ", "hindiPronunciation": "ओवररूल्ड", "gujaratiMeaning": "રદ કરેલ", "hindiMeaning": "रद्द किया हुआ" },
+        "V4 (Present Participle)": { "word": "Overruling", "gujaratiPronunciation": "ઓવરરૂલિંગ", "hindiPronunciation": "ओवररूलिंग", "gujaratiMeaning": "રદ કરી રહ્યું છે", "hindiMeaning": "रद्द कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" },
+        { "word": "Annul", "gujaratiPronunciation": "એનલ", "hindiPronunciation": "एनल", "gujaratiMeaning": "રદબાતલ કરવું", "hindiMeaning": "रद्द करना" }
+      ],
+      "antonyms": [
+        { "word": "Approve", "gujaratiPronunciation": "એપ્રુવ", "hindiPronunciation": "एप्रूव", "gujaratiMeaning": "મંજૂર કરવું", "hindiMeaning": "मंजूर करना" },
+        { "word": "Uphold", "gujaratiPronunciation": "અપહોલ્ડ", "hindiPronunciation": "अपहोल्ड", "gujaratiMeaning": "ટકાઓ આપવો", "hindiMeaning": "समर्थन करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        { "sentence": "The judge overruled the lawyer's objection.", "gujaratiPronunciation": "ધ જજ ઓવરરૂલ્ડ ધ લોયર્સ ઓબ્જેક્શન.", "hindiPronunciation": "द जज ओवररूल्ड द लॉयर्स ऑब्जेक्शन।", "gujaratiTranslation": "ન્યાયાધીશે વકીલના વાંધાને ફગાવી દીધો.", "hindiTranslation": "न्यायाधीश ने वकील की आपत्ति को खारिज कर दिया।" }
+      ]
+    },
+    {
+      "word": "Subdue",
+      "gujaratiPronunciation": "સબડ્યુ",
+      "hindiPronunciation": "सबड्यू",
+      "gujaratiMeaning": "વશમાં કરવું, કાબૂમાં લેવું",
+      "hindiMeaning": "वश में करना, काबू में करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Subdue", "gujaratiPronunciation": "સબડ્યુ", "hindiPronunciation": "सबड्यू", "gujaratiMeaning": "વશમાં કરવું", "hindiMeaning": "वश में करना" },
+        "V2 (Past)": { "word": "Subdued", "gujaratiPronunciation": "સબડ્યુડ", "hindiPronunciation": "सबड्यूड", "gujaratiMeaning": "વશમાં કર્યું", "hindiMeaning": "वश में किया" },
+        "V3 (Past Participle)": { "word": "Subdued", "gujaratiPronunciation": "સબડ્યુડ", "hindiPronunciation": "सबड्यूड", "gujaratiMeaning": "વશમાં કરેલ", "hindiMeaning": "वश में किया हुआ" },
+        "V4 (Present Participle)": { "word": "Subduing", "gujaratiPronunciation": "સબડ્યુઇંગ", "hindiPronunciation": "सबड्यूइंग", "gujaratiMeaning": "વશમાં કરી રહ્યું છે", "hindiMeaning": "वश में कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Conquer", "gujaratiPronunciation": "કોન્કર", "hindiPronunciation": "कॉन्कर", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+        { "word": "Suppress", "gujaratiPronunciation": "સપ્રેસ", "hindiPronunciation": "सप्रेस", "gujaratiMeaning": "દબાવી દેવું", "hindiMeaning": "दबाना" }
+      ],
+      "antonyms": [
+        { "word": "Incite", "gujaratiPronunciation": "ઇન્સાઇટ", "hindiPronunciation": "इन्साइट", "gujaratiMeaning": "ઉશ્કેરવું", "hindiMeaning": "उकसाना" },
+        { "word": "Arouse", "gujaratiPronunciation": "અરાઉઝ", "hindiPronunciation": "अराउज", "gujaratiMeaning": "જગાડવું", "hindiMeaning": "जगाना" }
+      ],
+      "confusingWords": [
+        { "word": "Subside", "gujaratiPronunciation": "સબસાઇડ", "hindiPronunciation": "सबसाइड", "gujaratiMeaning": "ઓછું થવું", "hindiMeaning": "कम होना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The police managed to subdue the angry crowd.", "gujaratiPronunciation": "ધ પોલીસ મેનેજ્ડ ટુ સબડ્યુ ધ એન્ગ્રી ક્રાઉડ.", "hindiPronunciation": "द पुलिस मैनेज्ड टू सबड्यू द एंग्री क्राउड।", "gujaratiTranslation": "પોલીસે ગુસ્સે ભરાયેલા ટોળાને કાબૂમાં લેવામાં સફળતા મેળવી.", "hindiTranslation": "पुलिस ने गुस्साई भीड़ को काबू में कर लिया।" }
+      ]
+    },
+    {
+      "word": "Empower",
+      "gujaratiPronunciation": "એમ્પાવર",
+      "hindiPronunciation": "एम्पावर",
+      "gujaratiMeaning": "સશક્ત બનાવવું, અધિકાર આપવો",
+      "hindiMeaning": "सशक्त बनाना, अधिकार देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Empower", "gujaratiPronunciation": "એમ્પાવર", "hindiPronunciation": "एम्पावर", "gujaratiMeaning": "સશક્ત બનાવવું", "hindiMeaning": "सशक्त बनाना" },
+        "V2 (Past)": { "word": "Empowered", "gujaratiPronunciation": "એમ્પાવર્ડ", "hindiPronunciation": "एम्पावर्ड", "gujaratiMeaning": "સશક્ત બનાવ્યું", "hindiMeaning": "सशक्त बनाया" },
+        "V3 (Past Participle)": { "word": "Empowered", "gujaratiPronunciation": "એમ્પાવર્ડ", "hindiPronunciation": "एम्पावर्ड", "gujaratiMeaning": "સશક્ત બનાવેલ", "hindiMeaning": "सशक्त" },
+        "V4 (Present Participle)": { "word": "Empowering", "gujaratiPronunciation": "એમ્પાવરિંગ", "hindiPronunciation": "एम्पावरिंग", "gujaratiMeaning": "સશક્ત બનાવી રહ્યું છે", "hindiMeaning": "सशक्त बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Authorize", "gujaratiPronunciation": "ઓથોરાઇઝ", "hindiPronunciation": "ऑथोराइज", "gujaratiMeaning": "અધિકાર આપવો", "hindiMeaning": "अधिकृत करना" },
+        { "word": "Enable", "gujaratiPronunciation": "એનેબલ", "hindiPronunciation": "एनेबल", "gujaratiMeaning": "સક્ષમ બનાવવું", "hindiMeaning": "सक्षम बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Disempower", "gujaratiPronunciation": "ડિસેમ્પાવર", "hindiPronunciation": "डिसएम्पावर", "gujaratiMeaning": "અશક્ત કરવું", "hindiMeaning": "अशक्त करना" },
+        { "word": "Restrict", "gujaratiPronunciation": "રિસ્ટ્રિક્ટ", "hindiPronunciation": "रिस्ट्रिक्ट", "gujaratiMeaning": "પ્રતિબંધિત કરવું", "hindiMeaning": "प्रतिबंधित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Impower", "gujaratiPronunciation": "ઈમ્પાવર", "hindiPronunciation": "इम्पावर", "gujaratiMeaning": "(આ જૂનો શબ્દ છે, હવે empower વપરાય છે)", "hindiMeaning": "(यह पुराना शब्द है, अब empower का प्रयोग होता है)" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Education can empower women and girls.", "gujaratiPronunciation": "એજ્યુકેશન કેન એમ્પાવર વિમેન એન્ડ ગર્લ્સ.", "hindiPronunciation": "एजुकेशन कैन एम्पावर वीमेन एंड गर्ल्स।", "gujaratiTranslation": "શિક્ષણ મહિલાઓ અને છોકરીઓને સશક્ત બનાવી શકે છે.", "hindiTranslation": "शिक्षा महिलाओं और लड़कियों को सशक्त बना सकती है।" }
+      ]
+    },
+    {
+      "word": "Inhibit",
+      "gujaratiPronunciation": "ઇન્હિબિટ",
+      "hindiPronunciation": "इन्हिबिट",
+      "gujaratiMeaning": "અટકાવવું, અવરોધવું",
+      "hindiMeaning": "रोकना, बाधित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Inhibit", "gujaratiPronunciation": "ઇન્હિબિટ", "hindiPronunciation": "इन्हिबिट", "gujaratiMeaning": "અટકાવવું", "hindiMeaning": "रोकना" },
+        "V2 (Past)": { "word": "Inhibited", "gujaratiPronunciation": "ઇન્હિબિટેડ", "hindiPronunciation": "इन्हिबिटेड", "gujaratiMeaning": "અટકાવ્યું", "hindiMeaning": "रोका" },
+        "V3 (Past Participle)": { "word": "Inhibited", "gujaratiPronunciation": "ઇન્હિબિટેડ", "hindiPronunciation": "इन्हिबिटेड", "gujaratiMeaning": "અટકાવેલ", "hindiMeaning": "रोका हुआ" },
+        "V4 (Present Participle)": { "word": "Inhibiting", "gujaratiPronunciation": "ઇન્હિબિટિંગ", "hindiPronunciation": "इन्हिबिटिंग", "gujaratiMeaning": "અટકાવી રહ્યું છે", "hindiMeaning": "रोक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Hinder", "gujaratiPronunciation": "હિન્ડર", "hindiPronunciation": "हिंडर", "gujaratiMeaning": "અવરોધ નાખવો", "hindiMeaning": "बाधा डालना" },
+        { "word": "Prevent", "gujaratiPronunciation": "પ્રિવેન્ટ", "hindiPronunciation": "प्रिवेंट", "gujaratiMeaning": "અટકાવવું", "hindiMeaning": "रोकना" }
+      ],
+      "antonyms": [
+        { "word": "Encourage", "gujaratiPronunciation": "એન્કરેજ", "hindiPronunciation": "एनकरेज", "gujaratiMeaning": "પ્રોત્સાહિત કરવું", "hindiMeaning": "प्रोत्साहित करना" },
+        { "word": "Allow", "gujaratiPronunciation": "અલાઉ", "hindiPronunciation": "अलाउ", "gujaratiMeaning": "પરવાનગી આપવી", "hindiMeaning": "अनुमति देना" }
+      ],
+      "confusingWords": [
+        { "word": "Inhabit", "gujaratiPronunciation": "ઇન્હેબિટ", "hindiPronunciation": "इनहैबिट", "gujaratiMeaning": "વસવાટ કરવો", "hindiMeaning": "निवास करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Fear can inhibit people from taking risks.", "gujaratiPronunciation": "ફિયર કેન ઇન્હિબિટ પીપલ ફ્રોમ ટેકિંગ રિસ્ક્સ.", "hindiPronunciation": "फियर कैन इन्हिबिट पीपल फ्रॉम टेकिंग रिस्क्स।", "gujaratiTranslation": "ડર લોકોને જોખમ લેતા અટકાવી શકે છે.", "hindiTranslation": "डर लोगों को जोखिम लेने से रोक सकता है।" }
+      ]
+    },
+    {
+      "word": "Trammel",
+      "gujaratiPronunciation": "ટ્રેમલ",
+      "hindiPronunciation": "ट्रैमल",
+      "gujaratiMeaning": "બંધનમાં નાખવું, અવરોધ",
+      "hindiMeaning": "बंधन में डालना, बाधा",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Trammel", "gujaratiPronunciation": "ટ્રેમલ", "hindiPronunciation": "ट्रैमल", "gujaratiMeaning": "બંધનમાં નાખવું", "hindiMeaning": "बंधन में डालना" },
+        "V2 (Past)": { "word": "Trammelled", "gujaratiPronunciation": "ટ્રેમલ્ડ", "hindiPronunciation": "ट्रैमल्ड", "gujaratiMeaning": "બંધનમાં નાખ્યું", "hindiMeaning": "बंधन में डाला" },
+        "V3 (Past Participle)": { "word": "Trammelled", "gujaratiPronunciation": "ટ્રેમલ્ડ", "hindiPronunciation": "ट्रैमल्ड", "gujaratiMeaning": "બંધનમાં નાખેલ", "hindiMeaning": "बंधन में डाला हुआ" },
+        "V4 (Present Participle)": { "word": "Trammelling", "gujaratiPronunciation": "ટ્રેમલિંગ", "hindiPronunciation": "ट्रैमेलिंग", "gujaratiMeaning": "બંધનમાં નાખી રહ્યું છે", "hindiMeaning": "बंधन में डाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Restrain", "gujaratiPronunciation": "રિસ્ટ્રેન", "hindiPronunciation": "रिस्ट्रेन", "gujaratiMeaning": "અંકુશમાં રાખવું", "hindiMeaning": "नियंत्रित करना" },
+        { "word": "Confine", "gujaratiPronunciation": "કન્ફાઇન", "hindiPronunciation": "कन्फाइन", "gujaratiMeaning": "કેદ કરવું", "hindiMeaning": "सीमित करना" }
+      ],
+      "antonyms": [
+        { "word": "Free", "gujaratiPronunciation": "ફ્રી", "hindiPronunciation": "फ्री", "gujaratiMeaning": "મુક્ત કરવું", "hindiMeaning": "मुक्त करना" },
+        { "word": "Release", "gujaratiPronunciation": "રિલીઝ", "hindiPronunciation": "रिलीज", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Trample", "gujaratiPronunciation": "ટ્રેમ્પલ", "hindiPronunciation": "ट्रैंपल", "gujaratiMeaning": "કચડી નાખવું", "hindiMeaning": "कुचलना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "He felt trammelled by the rules of the society.", "gujaratiPronunciation": "હી ફેલ્ટ ટ્રેમલ્ડ બાય ધ રૂલ્સ ઓફ ધ સોસાયટી.", "hindiPronunciation": "ही फेल्ट ट्रैमल्ड बाय द रूल्स ऑफ द सोसाइटी।", "gujaratiTranslation": "તે સમાજના નિયમોથી બંધાયેલો અનુભવતો હતો.", "hindiTranslation": "वह समाज के नियमों से बंधा हुआ महसूस करता था।" }
+      ]
+    }
+  ]
+}

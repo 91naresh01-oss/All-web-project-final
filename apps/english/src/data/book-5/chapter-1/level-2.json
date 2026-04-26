@@ -1,0 +1,414 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Connect",
+      "gujaratiPronunciation": "કનેક્ટ",
+      "hindiPronunciation": "कनेक्ट",
+      "gujaratiMeaning": "જોડવું",
+      "hindiMeaning": "जोड़ना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Connect",
+          "gujaratiPronunciation": "કનેક્ટ",
+          "hindiPronunciation": "कनेक्ट",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Connected",
+          "gujaratiPronunciation": "કનેક્ટેડ",
+          "hindiPronunciation": "कनेक्टेड",
+          "gujaratiMeaning": "જોડ્યું",
+          "hindiMeaning": "जोड़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Connected",
+          "gujaratiPronunciation": "કનેક્ટેડ",
+          "hindiPronunciation": "कनेक्टेड",
+          "gujaratiMeaning": "જોડેલું",
+          "hindiMeaning": "जुड़ा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Connecting",
+          "gujaratiPronunciation": "કનેક્ટિંગ",
+          "hindiPronunciation": "कनेक्टिंग",
+          "gujaratiMeaning": "જોડી રહ્યું છે",
+          "hindiMeaning": "जोड़ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Link",
+          "gujaratiPronunciation": "લિંક",
+          "hindiPronunciation": "लिंक",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        },
+        {
+          "word": "Join",
+          "gujaratiPronunciation": "જોઈન",
+          "hindiPronunciation": "जॉइन",
+          "gujaratiMeaning": "ભેગા થવું",
+          "hindiMeaning": "शामिल होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Disconnect",
+          "gujaratiPronunciation": "ડિસ્કનેક્ટ",
+          "hindiPronunciation": "डिस्कनेक्ट",
+          "gujaratiMeaning": "જોડાણ તોડવું",
+          "hindiMeaning": "संबंध तोड़ना"
+        },
+        {
+          "word": "Separate",
+          "gujaratiPronunciation": "સેપરેટ",
+          "hindiPronunciation": "सेपरेट",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Collect",
+          "gujaratiPronunciation": "કલેક્ટ",
+          "hindiPronunciation": "कलेक्ट",
+          "gujaratiMeaning": "એકઠું કરવું",
+          "hindiMeaning": "इकट्ठा करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I need to connect my laptop to the Wi-Fi.",
+          "gujaratiPronunciation": "આઈ નીડ ટુ કનેક્ટ માય લેપટોપ ટુ ધ વાઈ-ફાઈ.",
+          "hindiPronunciation": "आई नीड टू कनेक्ट माय लैपटॉप टू द वाई-फाई।",
+          "gujaratiMeaning": "મારે મારા લેપટોપને વાઈ-ફાઈ સાથે જોડવાની જરૂર છે.",
+          "hindiMeaning": "मुझे अपने लैपटॉप को वाई-फाई से कनेक्ट करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Befriend",
+      "gujaratiPronunciation": "બિફ્રેન્ડ",
+      "hindiPronunciation": "बिफ्रेंड",
+      "gujaratiMeaning": "મિત્ર બનાવવું",
+      "hindiMeaning": "दोस्त बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Befriend",
+          "gujaratiPronunciation": "બિફ્રેન્ડ",
+          "hindiPronunciation": "बिफ्रेंड",
+          "gujaratiMeaning": "મિત્ર બનાવવું",
+          "hindiMeaning": "दोस्त बनाना"
+        },
+        "V2 (Past)": {
+          "word": "Befriended",
+          "gujaratiPronunciation": "બિફ્રેન્ડેડ",
+          "hindiPronunciation": "बिफ्रेंडेड",
+          "gujaratiMeaning": "મિત્ર બનાવ્યો",
+          "hindiMeaning": "दोस्त बनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Befriended",
+          "gujaratiPronunciation": "બિફ્રેન્ડેડ",
+          "hindiPronunciation": "बिफ्रेंडेड",
+          "gujaratiMeaning": "મિત્ર બનાવેલો",
+          "hindiMeaning": "दोस्त बनाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Befriending",
+          "gujaratiPronunciation": "બિફ્રેન્ડિંગ",
+          "hindiPronunciation": "बिफ्रेंडिंग",
+          "gujaratiMeaning": "મિત્ર બનાવી રહ્યું છે",
+          "hindiMeaning": "दोस्त बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Make friends with",
+          "gujaratiPronunciation": "મેક ફ્રેન્ડ્સ વિથ",
+          "hindiPronunciation": "मेक फ्रेंड्स विद",
+          "gujaratiMeaning": "સાથે મિત્રતા કરવી",
+          "hindiMeaning": "के साथ दोस्ती करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Alienate",
+          "gujaratiPronunciation": "એલિયેનેટ",
+          "hindiPronunciation": "एलियनेट",
+          "gujaratiMeaning": "દૂર કરવું",
+          "hindiMeaning": "दूर करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Defend",
+          "gujaratiPronunciation": "ડિફેન્ડ",
+          "hindiPronunciation": "डिफेंड",
+          "gujaratiMeaning": "બચાવ કરવો",
+          "hindiMeaning": "बचाव करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She was able to befriend the shy new student.",
+          "gujaratiPronunciation": "શી વોઝ એબલ ટુ બિફ્રેન્ડ ધ શાય ન્યુ સ્ટુડન્ટ.",
+          "hindiPronunciation": "शी वॉज़ एबल टू बिफ्रेंड द शाइ न्यू स्टूडेंट।",
+          "gujaratiMeaning": "તે શરમાળ નવા વિદ્યાર્થીને મિત્ર બનાવી શકી.",
+          "hindiMeaning": "वह शर्मीले नए छात्र से दोस्ती करने में सक्षम थी।"
+        }
+      ]
+    },
+    {
+      "word": "Confide",
+      "gujaratiPronunciation": "કન્ફાઇડ",
+      "hindiPronunciation": "कन्फाइड",
+      "gujaratiMeaning": "વિશ્વાસથી કહેવું",
+      "hindiMeaning": "विश्वास से कहना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Confide",
+          "gujaratiPronunciation": "કન્ફાઇડ",
+          "hindiPronunciation": "कन्फाइड",
+          "gujaratiMeaning": "વિશ્વાસથી કહેવું",
+          "hindiMeaning": "विश्वास से कहना"
+        },
+        "V2 (Past)": {
+          "word": "Confided",
+          "gujaratiPronunciation": "કન્ફાઇડેડ",
+          "hindiPronunciation": "कन्फाइडेड",
+          "gujaratiMeaning": "વિશ્વાસથી કહ્યું",
+          "hindiMeaning": "विश्वास से कहा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Confided",
+          "gujaratiPronunciation": "કન્ફાઇડેડ",
+          "hindiPronunciation": "कन्फाइडेड",
+          "gujaratiMeaning": "વિશ્વાસથી કહેલું",
+          "hindiMeaning": "विश्वास से कहा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Confiding",
+          "gujaratiPronunciation": "કન્ફાઇડિંગ",
+          "hindiPronunciation": "कन्फाइडिंग",
+          "gujaratiMeaning": "વિશ્વાસથી કહી રહ્યું છે",
+          "hindiMeaning": "विश्वास से कह रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Reveal",
+          "gujaratiPronunciation": "રિવિલ",
+          "hindiPronunciation": "रिवील",
+          "gujaratiMeaning": "પ્રગટ કરવું",
+          "hindiMeaning": "प्रकट करना"
+        },
+        {
+          "word": "Disclose",
+          "gujaratiPronunciation": "ડિસ્ક્લોઝ",
+          "hindiPronunciation": "डिस्क्लोज",
+          "gujaratiMeaning": "જાહેર કરવું",
+          "hindiMeaning": "खुलासा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Conceal",
+          "gujaratiPronunciation": "કન્સીલ",
+          "hindiPronunciation": "कंसील",
+          "gujaratiMeaning": "છુપાવવું",
+          "hindiMeaning": "छिपाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Confident",
+          "gujaratiPronunciation": "કોન્ફિડન્ટ",
+          "hindiPronunciation": "कॉन्फिडेंट",
+          "gujaratiMeaning": "આત્મવિશ્વાસુ",
+          "hindiMeaning": "आत्मविश्वासी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He confided his secret to his best friend.",
+          "gujaratiPronunciation": "હી કન્ફાઇડેડ હિઝ સિક્રેટ ટુ હિઝ બેસ્ટ ફ્રેન્ડ.",
+          "hindiPronunciation": "ही कन्फाइडेड हिज़ सीक्रेट टू हिज़ बेस्ट फ्रेंड।",
+          "gujaratiMeaning": "તેણે પોતાનું રહસ્ય તેના શ્રેષ્ઠ મિત્રને વિશ્વાસથી કહ્યું.",
+          "hindiMeaning": "उसने अपना रहस्य अपने सबसे अच्छे दोस्त को विश्वास से बताया।"
+        }
+      ]
+    },
+    {
+      "word": "Nurture",
+      "gujaratiPronunciation": "નર્ચર",
+      "hindiPronunciation": "नर्चर",
+      "gujaratiMeaning": "ઉછેર કરવો",
+      "hindiMeaning": "पालन-पोषण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Nurture",
+          "gujaratiPronunciation": "નર્ચર",
+          "hindiPronunciation": "नर्चर",
+          "gujaratiMeaning": "ઉછેર કરવો",
+          "hindiMeaning": "पालन-पोषण करना"
+        },
+        "V2 (Past)": {
+          "word": "Nurtured",
+          "gujaratiPronunciation": "નર્ચર્ડ",
+          "hindiPronunciation": "नर्चर्ड",
+          "gujaratiMeaning": "ઉછેર કર્યો",
+          "hindiMeaning": "पालन-पोषण किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Nurtured",
+          "gujaratiPronunciation": "નર્ચર્ડ",
+          "hindiPronunciation": "नर्चर्ड",
+          "gujaratiMeaning": "ઉછેર કરેલો",
+          "hindiMeaning": "पालन-पोषण किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Nurturing",
+          "gujaratiPronunciation": "નર્ચરિંગ",
+          "hindiPronunciation": "नर्चरिंग",
+          "gujaratiMeaning": "ઉછેર કરી રહ્યું છે",
+          "hindiMeaning": "पालन-पोषण कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Cultivate",
+          "gujaratiPronunciation": "કલ્ટિવેટ",
+          "hindiPronunciation": "कल्टीवेट",
+          "gujaratiMeaning": "વિકસાવવું",
+          "hindiMeaning": "विकसित करना"
+        },
+        {
+          "word": "Foster",
+          "gujaratiPronunciation": "ફોસ્ટર",
+          "hindiPronunciation": "फॉस्टर",
+          "gujaratiMeaning": "પ્રોત્સાહન આપવું",
+          "hindiMeaning": "प्रोत्साहन देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "અવગણના કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Nature",
+          "gujaratiPronunciation": "નેચર",
+          "hindiPronunciation": "नेचर",
+          "gujaratiMeaning": "પ્રકૃતિ",
+          "hindiMeaning": "प्रकृति"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It's important to nurture young talent.",
+          "gujaratiPronunciation": "ઇટ્સ ઇમ્પોર્ટન્ટ ટુ નર્ચર યંગ ટેલેન્ટ.",
+          "hindiPronunciation": "इट्स इम्पोर्टेंट टू नर्चर यंग टैलेंट।",
+          "gujaratiMeaning": "યુવા પ્રતિભાનો ઉછેર કરવો મહત્વપૂર્ણ છે.",
+          "hindiMeaning": "युवा प्रतिभा का पोषण करना महत्वपूर्ण है।"
+        }
+      ]
+    },
+    {
+      "word": "Collaborate",
+      "gujaratiPronunciation": "કોલાબોરેટ",
+      "hindiPronunciation": "कोलेबोरेट",
+      "gujaratiMeaning": "સહયોગ કરવો",
+      "hindiMeaning": "सहयोग करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Collaborate",
+          "gujaratiPronunciation": "કોલાબોરેટ",
+          "hindiPronunciation": "कोलेबोरेट",
+          "gujaratiMeaning": "સહયોગ કરવો",
+          "hindiMeaning": "सहयोग करना"
+        },
+        "V2 (Past)": {
+          "word": "Collaborated",
+          "gujaratiPronunciation": "કોલાબોરેટેડ",
+          "hindiPronunciation": "कोलेबोरेटेड",
+          "gujaratiMeaning": "સહયોગ કર્યો",
+          "hindiMeaning": "सहयोग किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Collaborated",
+          "gujaratiPronunciation": "કોલાબોરેટેડ",
+          "hindiPronunciation": "कोलेबोरेटेड",
+          "gujaratiMeaning": "સહયોગ કરેલો",
+          "hindiMeaning": "सहयोग किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Collaborating",
+          "gujaratiPronunciation": "કોલાબોરેટિંગ",
+          "hindiPronunciation": "कोलेबोरेटिंग",
+          "gujaratiMeaning": "સહયોગ કરી રહ્યું છે",
+          "hindiMeaning": "सहयोग कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Cooperate",
+          "gujaratiPronunciation": "કો-ઓપરેટ",
+          "hindiPronunciation": "को-ऑपरेट",
+          "gujaratiMeaning": "સહકાર આપવો",
+          "hindiMeaning": "सहकार करना"
+        },
+        {
+          "word": "Work together",
+          "gujaratiPronunciation": "વર્ક ટુગેધર",
+          "hindiPronunciation": "वर्क टुगेदर",
+          "gujaratiMeaning": "સાથે કામ કરવું",
+          "hindiMeaning": "साथ काम करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Work alone",
+          "gujaratiPronunciation": "વર્ક અલોન",
+          "hindiPronunciation": "वर्क अलोन",
+          "gujaratiMeaning": "એકલા કામ કરવું",
+          "hindiMeaning": "अकेले काम करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Corroborate",
+          "gujaratiPronunciation": "કરોબોરેટ",
+          "hindiPronunciation": "कोरोबोरेट",
+          "gujaratiMeaning": "પુષ્ટિ કરવી",
+          "hindiMeaning": "पुष्टि करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The two companies agreed to collaborate on the project.",
+          "gujaratiPronunciation": "ધ ટુ કંપનીઝ અગ્રીડ ટુ કોલાબોરેટ ઓન ધ પ્રોજેક્ટ.",
+          "hindiPronunciation": "द टू कंपनीज़ अग्रीड टू कोलेबोरेट ऑन द प्रोजेक्ट।",
+          "gujaratiMeaning": "બંને કંપનીઓ પ્રોજેક્ટ પર સહયોગ કરવા માટે સંમત થઈ.",
+          "hindiMeaning": "दोनों कंपनियां परियोजना पर सहयोग करने के लिए सहमत हुईं।"
+        }
+      ]
+    }
+  ]
+}
+
+    

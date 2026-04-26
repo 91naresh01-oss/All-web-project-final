@@ -1,0 +1,47 @@
+
+{
+  "id": "level-3",
+  "title": "Vegetables 3",
+  "words": [
+    {
+      "word": "Brinjal",
+      "icon": "🍆",
+      "gujaratiPronunciation": "બ્રિન્જલ",
+      "hindiPronunciation": "ब्रिंजल",
+      "gujaratiMeaning": "રીંગણ",
+      "hindiMeaning": "बैंगन"
+    },
+    {
+      "word": "Pumpkin",
+      "icon": "🎃",
+      "gujaratiPronunciation": "પમ્પકિન",
+      "hindiPronunciation": "पंपकिन",
+      "gujaratiMeaning": "કોળું",
+      "hindiMeaning": "कद्दू"
+    },
+    {
+      "word": "Garlic",
+      "icon": "🧄",
+      "gujaratiPronunciation": "ગાર્લિક",
+      "hindiPronunciation": "गार्लिक",
+      "gujaratiMeaning": "લસણ",
+      "hindiMeaning": "लहसुन"
+    },
+    {
+      "word": "Cabbage",
+      "icon": "🥬",
+      "gujaratiPronunciation": "કેબેજ",
+      "hindiPronunciation": "कैबेज",
+      "gujaratiMeaning": "કોબીજ",
+      "hindiMeaning": "पत्ता गोभी"
+    },
+    {
+      "word": "Cauliflower",
+      "icon": "🥦",
+      "gujaratiPronunciation": "કોલીફ્લાવર",
+      "hindiPronunciation": "कॉलीफ्लॉवर",
+      "gujaratiMeaning": "ફ્લાવર",
+      "hindiMeaning": "फूलगोभी"
+    }
+  ]
+}

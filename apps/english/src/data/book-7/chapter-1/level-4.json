@@ -1,0 +1,141 @@
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Quarantine",
+            "gujaratiPronunciation": "ક્વૉરન્ટીન",
+            "gujaratiMeaning": "અલગ રાખવું, સંસર્ગનિષેધ કરવો",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Quarantine", "gujaratiPronunciation": "ક્વૉરન્ટીન", "gujaratiMeaning": "અલગ રાખવું" },
+                "V2 (Past)": { "word": "Quarantined", "gujaratiPronunciation": "ક્વૉરન્ટીન્ડ", "gujaratiMeaning": "અલગ રાખ્યું" },
+                "V3 (Past Participle)": { "word": "Quarantined", "gujaratiPronunciation": "ક્વૉરન્ટીન્ડ", "gujaratiMeaning": "અલગ રાખેલું" },
+                "V4 (Present Participle)": { "word": "Quarantining", "gujaratiPronunciation": "ક્વૉરન્ટીનિંગ", "gujaratiMeaning": "અલગ રાખી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Isolate", "gujaratiPronunciation": "આઇસોલેટ", "gujaratiMeaning": "એકલું પાડવું" },
+                { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "gujaratiMeaning": "જુદું કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Integrate", "gujaratiPronunciation": "ઇન્ટિગ્રેટ", "gujaratiMeaning": "એકીકૃત કરવું" },
+                { "word": "Mix", "gujaratiPronunciation": "મિક્સ", "gujaratiMeaning": "ભેળવવું" }
+            ],
+            "confusingWords": [
+                { "word": "Quantity", "gujaratiPronunciation": "ક્વોન્ટિટી", "gujaratiMeaning": "જથ્થો" },
+                { "word": "Guarantee", "gujaratiPronunciation": "ગેરેન્ટી", "gujaratiMeaning": "ખાતરી" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The sick patient was placed in quarantine.", "gujaratiPronunciation": "ધ સિક પેશન્ટ વોઝ પ્લેસ્ડ ઇન ક્વૉરન્ટીન", "gujaratiTranslation": "બીમાર દર્દીને સંસર્ગનિષેધમાં રાખવામાં આવ્યો હતો." }
+            ]
+        },
+        {
+            "word": "Sanction",
+            "gujaratiPronunciation": "સેંક્શન",
+            "gujaratiMeaning": "મંજૂરી આપવી, પ્રતિબંધ મૂકવો",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Sanction", "gujaratiPronunciation": "સેંક્શન", "gujaratiMeaning": "મંજૂરી આપવી" },
+                "V2 (Past)": { "word": "Sanctioned", "gujaratiPronunciation": "સેંક્શન્ડ", "gujaratiMeaning": "મંજૂરી આપી" },
+                "V3 (Past Participle)": { "word": "Sanctioned", "gujaratiPronunciation": "સેંક્શન્ડ", "gujaratiMeaning": "મંજૂરી આપેલી" },
+                "V4 (Present Participle)": { "word": "Sanctioning", "gujaratiPronunciation": "સેંક્શનિંગ", "gujaratiMeaning": "મંજૂરી આપી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Approve", "gujaratiPronunciation": "અપ્રૂવ", "gujaratiMeaning": "મંજૂર કરવું" },
+                { "word": "Penalize", "gujaratiPronunciation": "પેનલાઇઝ", "gujaratiMeaning": "દંડ કરવો" }
+            ],
+            "antonyms": [
+                { "word": "Forbid", "gujaratiPronunciation": "ફોરબિડ", "gujaratiMeaning": "મનાઈ કરવી" },
+                { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "gujaratiMeaning": "અસ્વીકાર કરવો" }
+            ],
+            "confusingWords": [
+                { "word": "Section", "gujaratiPronunciation": "સેક્શન", "gujaratiMeaning": "વિભાગ" },
+                { "word": "Suction", "gujaratiPronunciation": "સક્શન", "gujaratiMeaning": "ચૂસણ" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The government sanctioned the new trade agreement.", "gujaratiPronunciation": "ધ ગવર્નમેન્ટ સેંક્શન્ડ ધ ન્યુ ટ્રેડ એગ્રીમેન્ટ", "gujaratiTranslation": "સરકારે નવા વેપાર કરારને મંજૂરી આપી." }
+            ]
+        },
+        {
+            "word": "Dodge",
+            "gujaratiPronunciation": "ડૉજ",
+            "gujaratiMeaning": "ઝુકાવીને બચી જવું, ટાળવું",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Dodge", "gujaratiPronunciation": "ડૉજ", "gujaratiMeaning": "ટાળવું" },
+                "V2 (Past)": { "word": "Dodged", "gujaratiPronunciation": "ડૉજ્ડ", "gujaratiMeaning": "ટાળ્યું" },
+                "V3 (Past Participle)": { "word": "Dodged", "gujaratiPronunciation": "ડૉજ્ડ", "gujaratiMeaning": "ટાળેલું" },
+                "V4 (Present Participle)": { "word": "Dodging", "gujaratiPronunciation": "ડૉજિંગ", "gujaratiMeaning": "ટાળી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Avoid", "gujaratiPronunciation": "અવૉઇડ", "gujaratiMeaning": "ટાળવું" },
+                { "word": "Evade", "gujaratiPronunciation": "ઇવેડ", "gujaratiMeaning": "છટકી જવું" }
+            ],
+            "antonyms": [
+                { "word": "Face", "gujaratiPronunciation": "ફેસ", "gujaratiMeaning": "સામનો કરવો" },
+                { "word": "Confront", "gujaratiPronunciation": "કન્ફ્રન્ટ", "gujaratiMeaning": "સામનો કરવો" }
+            ],
+            "confusingWords": [
+                { "word": "Dog", "gujaratiPronunciation": "ડૉગ", "gujaratiMeaning": "કૂતરો" },
+                { "word": "Lodge", "gujaratiPronunciation": "લૉજ", "gujaratiMeaning": "રહેવાની જગ્યા" }
+            ],
+            "exampleSentences": [
+                { "sentence": "He managed to dodge the falling rock.", "gujaratiPronunciation": "હી મેનેજ્ડ ટુ ડૉજ ધ ફોલિંગ રોક", "gujaratiTranslation": "તે પડતા પથ્થરથી બચવામાં સફળ રહ્યો." }
+            ]
+        },
+        {
+            "word": "Shelter",
+            "gujaratiPronunciation": "શેલ્ટર",
+            "gujaratiMeaning": "આશરો આપવો, આશ્રય લેવો",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Shelter", "gujaratiPronunciation": "શેલ્ટર", "gujaratiMeaning": "આશરો આપવો" },
+                "V2 (Past)": { "word": "Sheltered", "gujaratiPronunciation": "શેલ્ટર્ડ", "gujaratiMeaning": "આશરો આપ્યો" },
+                "V3 (Past Participle)": { "word": "Sheltered", "gujaratiPronunciation": "શેલ્ટર્ડ", "gujaratiMeaning": "આશરો આપેલો" },
+                "V4 (Present Participle)": { "word": "Sheltering", "gujaratiPronunciation": "શેલ્ટરિંગ", "gujaratiMeaning": "આશરો આપી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "House", "gujaratiPronunciation": "હાઉસ", "gujaratiMeaning": "ઘર આપવું" },
+                { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "gujaratiMeaning": "રક્ષણ કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Expose", "gujaratiPronunciation": "એક્સપોઝ", "gujaratiMeaning": "ખુલ્લું મૂકવું" },
+                { "word": "Abandon", "gujaratiPronunciation": "અબૅન્ડન", "gujaratiMeaning": "ત્યાગી દેવું" }
+            ],
+            "confusingWords": [
+                { "word": "Shell", "gujaratiPronunciation": "શેલ", "gujaratiMeaning": "છીપલું" },
+                { "word": "Shoulder", "gujaratiPronunciation": "શોલ્ડર", "gujaratiMeaning": "ખભો" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The tree sheltered them from the rain.", "gujaratiPronunciation": "ધ ટ્રી શેલ્ટર્ડ ધેમ ફ્રોમ ધ રેઇન", "gujaratiTranslation": "વૃક્ષે તેમને વરસાદથી આશરો આપ્યો." }
+            ]
+        },
+        {
+            "word": "Vigil",
+            "gujaratiPronunciation": "વિજિલ",
+            "gujaratiMeaning": "જાગરણ કરવું, ચોકી કરવી (શાંતિપૂર્ણ)",
+            "partOfSpeech": "noun",
+            "verbForms": {
+                "V1 (Base)": { "word": "Keep Vigil", "gujaratiPronunciation": "કીપ વિજિલ", "gujaratiMeaning": "જાગરણ કરવું" },
+                "V2 (Past)": { "word": "Kept Vigil", "gujaratiPronunciation": "કેપ્ટ વિજિલ", "gujaratiMeaning": "જાગરણ કર્યું" },
+                "V3 (Past Participle)": { "word": "Kept Vigil", "gujaratiPronunciation": "કેપ્ટ વિજિલ", "gujaratiMeaning": "જાગરણ કરેલું" },
+                "V4 (Present Participle)": { "word": "Keeping Vigil", "gujaratiPronunciation": "કીપિંગ વિજિલ", "gujaratiMeaning": "જાગરણ કરી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Watch", "gujaratiPronunciation": "વૉચ", "gujaratiMeaning": "ચોકી" },
+                { "word": "Lookout", "gujaratiPronunciation": "લૂકઆઉટ", "gujaratiMeaning": "નિરીક્ષણ" }
+            ],
+            "antonyms": [
+                { "word": "Negligence", "gujaratiPronunciation": "નેગ્લિજન્સ", "gujaratiMeaning": "બેદરકારી" },
+                { "word": "Inattention", "gujaratiPronunciation": "ઇનઅટેન્શન", "gujaratiMeaning": "ધ્યાન ન આપવું" }
+            ],
+            "confusingWords": [
+                { "word": "Village", "gujaratiPronunciation": "વિલેજ", "gujaratiMeaning": "ગામ" },
+                { "word": "Vigor", "gujaratiPronunciation": "વિગર", "gujaratiMeaning": "જોશ" }
+            ],
+            "exampleSentences": [
+                { "sentence": "They held a candlelight vigil for the victims.", "gujaratiPronunciation": "ધે હેલ્ડ અ કેન્ડલલાઇટ વિજિલ ફોર ધ વિક્ટિમ્સ", "gujaratiTranslation": "તેમણે પીડિતો માટે મીણબત્તી પ્રગટાવીને જાગરણ કર્યું." }
+            ]
+        }
+    ]
+}

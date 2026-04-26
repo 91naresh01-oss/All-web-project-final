@@ -1,0 +1,413 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4: Zenith | Regenerate | Thrive | Blossom | Inoculate",
+  "words": [
+    {
+      "word": "Zenith",
+      "gujaratiPronunciation": "ઝેનિથ",
+      "hindiPronunciation": "ज़ेनिथ",
+      "gujaratiMeaning": "શિખર, ટોચ",
+      "hindiMeaning": "शिखर, चरम",
+      "partOfSpeech": "Noun",
+      "verbForms": null,
+      "synonyms": [
+        {
+          "word": "Peak",
+          "gujaratiPronunciation": "પીક",
+          "hindiPronunciation": "पीक",
+          "gujaratiMeaning": "ટોચ",
+          "hindiMeaning": "शिखर"
+        },
+        {
+          "word": "Apex",
+          "gujaratiPronunciation": "એપેક્સ",
+          "hindiPronunciation": "एपेक्स",
+          "gujaratiMeaning": "શિખર",
+          "hindiMeaning": "शिखर"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Nadir",
+          "gujaratiPronunciation": "નાદિર",
+          "hindiPronunciation": "नादिर",
+          "gujaratiMeaning": "સૌથી નીચું બિંદુ",
+          "hindiMeaning": "न्यूनतम बिंदु"
+        },
+        {
+          "word": "Bottom",
+          "gujaratiPronunciation": "બોટમ",
+          "hindiPronunciation": "बॉटम",
+          "gujaratiMeaning": "તળિયું",
+          "hindiMeaning": "तल"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Genith",
+          "gujaratiPronunciation": "જેનિથ",
+          "hindiPronunciation": "जेनिथ",
+          "gujaratiMeaning": "કોઈ શબ્દ નથી",
+          "hindiMeaning": "कोई शब्द नहीं"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "His career reached its zenith in the 1990s.",
+          "gujaratiTranslation": "તેમની કારકિર્દી 1990ના દાયકામાં તેની ટોચ પર પહોંચી.",
+          "hindiTranslation": "उनका करियर 1990 के दशक में अपने चरम पर पहुंच गया।",
+          "gujaratiPronunciation": "હિઝ કરિયર રીચ્ડ ઇટ્સ ઝેનિથ ઇન ધ 1990s.",
+          "hindiPronunciation": "हिज़ करियर रीच्ड इट्स ज़ेनिथ इन द 1990s।"
+        }
+      ]
+    },
+    {
+      "word": "Regenerate",
+      "gujaratiPronunciation": "રિજનરેટ",
+      "hindiPronunciation": "रिजनरेट",
+      "gujaratiMeaning": "પુનર્જીવિત કરવું",
+      "hindiMeaning": "पुनर्जीवित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Regenerate",
+          "gujaratiPronunciation": "રિજનરેટ",
+          "hindiPronunciation": "रिजनरेट",
+          "gujaratiMeaning": "પુનર્જીવિત કરવું",
+          "hindiMeaning": "पुनर्जीवित करना"
+        },
+        "V2": {
+          "word": "Regenerated",
+          "gujaratiPronunciation": "રિજનરેટેડ",
+          "hindiPronunciation": "रिजनरेटेड",
+          "gujaratiMeaning": "પુનર્જીવિત કર્યું",
+          "hindiMeaning": "पुनर्जीवित किया"
+        },
+        "V3": {
+          "word": "Regenerated",
+          "gujaratiPronunciation": "રિજનરેટેડ",
+          "hindiPronunciation": "रिजनरेटेड",
+          "gujaratiMeaning": "પુનર્જીવિત કરેલું",
+          "hindiMeaning": "पुनर्जीवित किया हुआ"
+        },
+        "V4": {
+          "word": "Regenerating",
+          "gujaratiPronunciation": "રિજનરેટિંગ",
+          "hindiPronunciation": "रिजनरेटिंग",
+          "gujaratiMeaning": "પુનર્જીવિત કરી રહ્યું છે",
+          "hindiMeaning": "पुनर्जीवित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Revive",
+          "gujaratiPronunciation": "રિવાઇવ",
+          "hindiPronunciation": "रिवाइव",
+          "gujaratiMeaning": "પુનર્જીવિત કરવું",
+          "hindiMeaning": "पुनर्जीवित करना"
+        },
+        {
+          "word": "Renew",
+          "gujaratiPronunciation": "રિન્યૂ",
+          "hindiPronunciation": "रिन्यू",
+          "gujaratiMeaning": "નવીકરણ કરવું",
+          "hindiMeaning": "नवीनीकरण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Degenerate",
+          "gujaratiPronunciation": "ડિજનરેટ",
+          "hindiPronunciation": "डिजनरेट",
+          "gujaratiMeaning": "પતન થવું",
+          "hindiMeaning": "पतित होना"
+        },
+        {
+          "word": "Destroy",
+          "gujaratiPronunciation": "ડિસ્ટ્રોય",
+          "hindiPronunciation": "डिस्ट्रॉय",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Re-generate",
+          "gujaratiPronunciation": "રી-જનરેટ",
+          "hindiPronunciation": "री-जनरेट",
+          "gujaratiMeaning": "ફરીથી ઉત્પન્ન કરવું",
+          "hindiMeaning": "फिर से उत्पन्न करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The lizard can regenerate its tail.",
+          "gujaratiTranslation": "ગરોળી તેની પૂંછડી પુનર્જીવિત કરી શકે છે.",
+          "hindiTranslation": "छिपकली अपनी पूंछ को पुनर्जीवित कर सकती है।",
+          "gujaratiPronunciation": "ધ લિઝાર્ડ કેન રિજનરેટ ઇટ્સ ટેલ.",
+          "hindiPronunciation": "द लिज़ार्ड कैन रिजनरेट इट्स टेल।"
+        }
+      ]
+    },
+    {
+      "word": "Thrive",
+      "gujaratiPronunciation": "થ્રાઇવ",
+      "hindiPronunciation": "थ्राइव",
+      "gujaratiMeaning": "વિકસવું, ફાલવું-ફૂલવું",
+      "hindiMeaning": "फलना-फूलना, कामयाब होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Thrive",
+          "gujaratiPronunciation": "થ્રાઇવ",
+          "hindiPronunciation": "थ्राइव",
+          "gujaratiMeaning": "વિકસવું",
+          "hindiMeaning": "फलना-फूलना"
+        },
+        "V2": {
+          "word": "Thrived/Throve",
+          "gujaratiPronunciation": "થ્રાઇવ્ડ/થ્રોવ",
+          "hindiPronunciation": "थ्राइव्ड/थ्रोव",
+          "gujaratiMeaning": "વિકસ્યું",
+          "hindiMeaning": "फला-फूला"
+        },
+        "V3": {
+          "word": "Thrived/Thriven",
+          "gujaratiPronunciation": "થ્રાઇવ્ડ/થ્રિવન",
+          "hindiPronunciation": "थ्राइव्ड/थ्रिवन",
+          "gujaratiMeaning": "વિકસેલું",
+          "hindiMeaning": "फला-फूला हुआ"
+        },
+        "V4": {
+          "word": "Thriving",
+          "gujaratiPronunciation": "થ્રાઇવિંગ",
+          "hindiPronunciation": "थ्राइविंग",
+          "gujaratiMeaning": "વિકસી રહ્યું છે",
+          "hindiMeaning": "फल-फूल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Flourish",
+          "gujaratiPronunciation": "ફ્લરિશ",
+          "hindiPronunciation": "फ्लरिश",
+          "gujaratiMeaning": "ફાલવું-ફૂલવું",
+          "hindiMeaning": "फलना-फूलना"
+        },
+        {
+          "word": "Prosper",
+          "gujaratiPronunciation": "પ્રોસ્પર",
+          "hindiPronunciation": "प्रॉस्पर",
+          "gujaratiMeaning": "સમૃદ્ધ થવું",
+          "hindiMeaning": "समृद्ध होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Decline",
+          "gujaratiPronunciation": "ડીકલાઇન",
+          "hindiPronunciation": "डिक्लाइन",
+          "gujaratiMeaning": "પતન થવું",
+          "hindiMeaning": "पतन होना"
+        },
+        {
+          "word": "Wither",
+          "gujaratiPronunciation": "વિથર",
+          "hindiPronunciation": "विदर",
+          "gujaratiMeaning": "કરમાઈ જવું",
+          "hindiMeaning": "मुरझाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Strive",
+          "gujaratiPronunciation": "સ્ટ્રાઇવ",
+          "hindiPronunciation": "स्ट्राइव",
+          "gujaratiMeaning": "પ્રયત્ન કરવો",
+          "hindiMeaning": "प्रयास करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Some businesses thrive on competition.",
+          "gujaratiTranslation": "કેટલાક વ્યવસાયો સ્પર્ધા પર વિકસે છે.",
+          "hindiTranslation": "कुछ व्यवसाय प्रतिस्पर्धा पर फलते-फूलते हैं।",
+          "gujaratiPronunciation": "સમ બિઝનેસીસ થ્રાઇવ ઓન કોમ્પિટિશન.",
+          "hindiPronunciation": "सम बिज़नेसेज़ थ्राइव ऑन कॉम्पिटिशन।"
+        }
+      ]
+    },
+    {
+      "word": "Blossom",
+      "gujaratiPronunciation": "બ્લોસમ",
+      "hindiPronunciation": "ब्लॉसम",
+      "gujaratiMeaning": "ખીલવું",
+      "hindiMeaning": "खिलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Blossom",
+          "gujaratiPronunciation": "બ્લોસમ",
+          "hindiPronunciation": "ब्लॉसम",
+          "gujaratiMeaning": "ખીલવું",
+          "hindiMeaning": "खिलना"
+        },
+        "V2": {
+          "word": "Blossomed",
+          "gujaratiPronunciation": "બ્લોસમડ",
+          "hindiPronunciation": "ब्लॉसमड",
+          "gujaratiMeaning": "ખીલ્યું",
+          "hindiMeaning": "खिला"
+        },
+        "V3": {
+          "word": "Blossomed",
+          "gujaratiPronunciation": "બ્લોસમડ",
+          "hindiPronunciation": "ब्लॉसमड",
+          "gujaratiMeaning": "ખીલેલું",
+          "hindiMeaning": "खिला हुआ"
+        },
+        "V4": {
+          "word": "Blossoming",
+          "gujaratiPronunciation": "બ્લોસમિંગ",
+          "hindiPronunciation": "ब्लॉसमिंग",
+          "gujaratiMeaning": "ખીલી રહ્યું છે",
+          "hindiMeaning": "खिल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Bloom",
+          "gujaratiPronunciation": "બ્લૂમ",
+          "hindiPronunciation": "ब्लूम",
+          "gujaratiMeaning": "ખીલવું",
+          "hindiMeaning": "खिलना"
+        },
+        {
+          "word": "Flower",
+          "gujaratiPronunciation": "ફ્લાવર",
+          "hindiPronunciation": "फ्लावर",
+          "gujaratiMeaning": "ફૂલ આવવું",
+          "hindiMeaning": "फूलना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Wither",
+          "gujaratiPronunciation": "વિથર",
+          "hindiPronunciation": "विदर",
+          "gujaratiMeaning": "કરમાઈ જવું",
+          "hindiMeaning": "मुरझाना"
+        },
+        {
+          "word": "Fade",
+          "gujaratiPronunciation": "ફેડ",
+          "hindiPronunciation": "फेड",
+          "gujaratiMeaning": "ઝાંખું પડવું",
+          "hindiMeaning": "फीका पड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Bosom",
+          "gujaratiPronunciation": "બુઝમ",
+          "hindiPronunciation": "बुज़म",
+          "gujaratiMeaning": "છાતી, હૃદય",
+          "hindiMeaning": "छाती, हृदय"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The cherry trees blossom in the spring.",
+          "gujaratiTranslation": "વસંતઋતુમાં ચેરીના ઝાડ ખીલે છે.",
+          "hindiTranslation": "वसंत में चेरी के पेड़ खिलते हैं।",
+          "gujaratiPronunciation": "ધ ચેરી ટ્રીઝ બ્લોસમ ઇન ધ સ્પ્રિંગ.",
+          "hindiPronunciation": "द चेरी ट्रीज़ ब्लॉसम इन द स्प्रिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Inoculate",
+      "gujaratiPronunciation": "ઇનોક્યુલેટ",
+      "hindiPronunciation": "इनोक्यूलेट",
+      "gujaratiMeaning": "રસી મૂકવી",
+      "hindiMeaning": "टीका लगाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Inoculate",
+          "gujaratiPronunciation": "ઇનોક્યુલેટ",
+          "hindiPronunciation": "इनोक्यूलेट",
+          "gujaratiMeaning": "રસી મૂકવી",
+          "hindiMeaning": "टीका लगाना"
+        },
+        "V2": {
+          "word": "Inoculated",
+          "gujaratiPronunciation": "ઇનોક્યુલેટેડ",
+          "hindiPronunciation": "इनोक्यूलेटेड",
+          "gujaratiMeaning": "રસી મૂકી",
+          "hindiMeaning": "टीका लगाया"
+        },
+        "V3": {
+          "word": "Inoculated",
+          "gujaratiPronunciation": "ઇનોક્યુલેટેડ",
+          "hindiPronunciation": "इनोक्यूलेटेड",
+          "gujaratiMeaning": "રસી મૂકેલી",
+          "hindiMeaning": "टीका लगाया हुआ"
+        },
+        "V4": {
+          "word": "Inoculating",
+          "gujaratiPronunciation": "ઇનોક્યુલેટિંગ",
+          "hindiPronunciation": "इनोक्यूलेटिंग",
+          "gujaratiMeaning": "રસી મૂકી રહ્યું છે",
+          "hindiMeaning": "टीका लगा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Vaccinate",
+          "gujaratiPronunciation": "વેક્સિનેટ",
+          "hindiPronunciation": "वैक्सीनेट",
+          "gujaratiMeaning": "રસી આપવી",
+          "hindiMeaning": "टीकाकरण करना"
+        },
+        {
+          "word": "Immunize",
+          "gujaratiPronunciation": "ઇમ્યુનાઇઝ",
+          "hindiPronunciation": "इम्यूनाइज़",
+          "gujaratiMeaning": "રોગપ્રતિકારક બનાવવું",
+          "hindiMeaning": "प्रतिरक्षित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Infect",
+          "gujaratiPronunciation": "ઇન્ફેક્ટ",
+          "hindiPronunciation": "इन्फेक्ट",
+          "gujaratiMeaning": "ચેપ લગાડવો",
+          "hindiMeaning": "संक्रमित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Inaccurate",
+          "gujaratiPronunciation": "ઇનએક્યુરેટ",
+          "hindiPronunciation": "इनएक्यूरेट",
+          "gujaratiMeaning": "અચોક્કસ",
+          "hindiMeaning": "अशुद्ध"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "All children should be inoculated against measles.",
+          "gujaratiTranslation": "બધા બાળકોને ઓરી સામે રસી મુકાવવી જોઈએ.",
+          "hindiTranslation": "सभी बच्चों को खसरे का टीका लगाया जाना चाहिए।",
+          "gujaratiPronunciation": "ઓલ ચિલ્ડ્રન શુડ બી ઇનોક્યુલેટેડ અગેઇન્સ્ટ મીઝલ્સ.",
+          "hindiPronunciation": "ऑल चिल्ड्रन शुड बी इनोक्यूलेटेड अगेंस्ट मीज़ल्स।"
+        }
+      ]
+    }
+  ]
+}
+
+    

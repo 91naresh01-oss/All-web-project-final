@@ -1,0 +1,77 @@
+
+{
+  "id": "level-4",
+  "title": "Professions 4",
+  "words": [
+    {
+      "word": "Judge",
+      "gujaratiPronunciation": "જજ",
+      "hindiPronunciation": "जज",
+      "gujaratiMeaning": "ન્યાયાધીશ",
+      "hindiMeaning": "न्यायाधीश",
+      "exampleSentences": [
+        {
+          "sentence": "The judge announced the verdict.",
+          "gujaratiTranslation": "ન્યાયાધીશે ચુકાદો જાહેર કર્યો.",
+          "hindiTranslation": "न्यायाधीश ने फैसला सुनाया।"
+        }
+      ]
+    },
+    {
+      "word": "Architect",
+      "gujaratiPronunciation": "આર્કિટેક્ટ",
+      "hindiPronunciation": "आर्किटेक्ट",
+      "gujaratiMeaning": "સ્થપતિ",
+      "hindiMeaning": "वास्तुकार",
+      "exampleSentences": [
+        {
+          "sentence": "An architect designed our new house.",
+          "gujaratiTranslation": "એક સ્થપતિએ અમારા નવા ઘરની ડિઝાઇન કરી.",
+          "hindiTranslation": "एक वास्तुकार ने हमारे नए घर का डिजाइन तैयार किया।"
+        }
+      ]
+    },
+    {
+      "word": "Minister",
+      "gujaratiPronunciation": "મિનિસ્ટર",
+      "hindiPronunciation": "मिनिस्टर",
+      "gujaratiMeaning": "મંત્રી",
+      "hindiMeaning": "मंत्री",
+      "exampleSentences": [
+        {
+          "sentence": "The minister gave a speech to the public.",
+          "gujaratiTranslation": "મંત્રીએ જનતાને ભાષણ આપ્યું.",
+          "hindiTranslation": "मंत्री ने जनता को भाषण दिया।"
+        }
+      ]
+    },
+    {
+      "word": "Manager",
+      "gujaratiPronunciation": "મેનેજર",
+      "hindiPronunciation": "मैनेजर",
+      "gujaratiMeaning": "પ્રબંધક",
+      "hindiMeaning": "प्रबंधक",
+      "exampleSentences": [
+        {
+          "sentence": "The manager is responsible for the team.",
+          "gujaratiTranslation": "મેનેજર ટીમ માટે જવાબદાર છે.",
+          "hindiTranslation": "प्रबंधक टीम के लिए जिम्मेदार है।"
+        }
+      ]
+    },
+    {
+      "word": "Author",
+      "gujaratiPronunciation": "ઓથર",
+      "hindiPronunciation": "ऑथर",
+      "gujaratiMeaning": "લેખક",
+      "hindiMeaning": "लेखक",
+      "exampleSentences": [
+        {
+          "sentence": "He is the author of this famous book.",
+          "gujaratiTranslation": "તે આ પ્રખ્યાત પુસ્તકના લેખક છે.",
+          "hindiTranslation": "वह इस प्रसिद्ध पुस्तक के लेखक हैं।"
+        }
+      ]
+    }
+  ]
+}

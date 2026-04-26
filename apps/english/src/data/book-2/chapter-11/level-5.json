@@ -1,0 +1,76 @@
+{
+  "id": "level-5",
+  "title": "Health and Safety 5",
+  "words": [
+    {
+      "word": "Safety",
+      "gujaratiPronunciation": "સેફ્ટી",
+      "hindiPronunciation": "सेफ्टी",
+      "gujaratiMeaning": "સુરક્ષા",
+      "hindiMeaning": "सुरक्षा",
+      "exampleSentences": [
+        {
+          "sentence": "Your safety is our first priority.",
+          "gujaratiTranslation": "તમારી સુરક્ષા અમારી પ્રથમ પ્રાથમિકતા છે.",
+          "hindiTranslation": "आपकी सुरक्षा हमारी पहली प्राथमिकता है।"
+        }
+      ]
+    },
+    {
+      "word": "First-aid",
+      "gujaratiPronunciation": "ફર્સ્ટ-એઇડ",
+      "hindiPronunciation": "फर्स्ट-एड",
+      "gujaratiMeaning": "પ્રાથમિક સારવાર",
+      "hindiMeaning": "प्राथमिक चिकित्सा",
+      "exampleSentences": [
+        {
+          "sentence": "Everyone should know basic first-aid.",
+          "gujaratiTranslation": "દરેકને પ્રાથમિક સારવારની મૂળભૂત જાણકારી હોવી જોઈએ.",
+          "hindiTranslation": "सभी کو بنیادی प्राथमिक चिकित्सा معلوم होनी चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Hospital",
+      "gujaratiPronunciation": "હોસ્પિટલ",
+      "hindiPronunciation": "हॉस्पिटल",
+      "gujaratiMeaning": "હોસ્પિટલ",
+      "hindiMeaning": "अस्पताल",
+      "exampleSentences": [
+        {
+          "sentence": "He was taken to the hospital.",
+          "gujaratiTranslation": "તેને હોસ્પિટલમાં લઈ જવામાં આવ્યો.",
+          "hindiTranslation": "उसे अस्पताल ले जाया गया।"
+        }
+      ]
+    },
+    {
+      "word": "Clinic",
+      "gujaratiPronunciation": "ક્લિનિક",
+      "hindiPronunciation": "क्लिनिक",
+      "gujaratiMeaning": "દવાખાનું",
+      "hindiMeaning": "क्लिनिक",
+      "exampleSentences": [
+        {
+          "sentence": "The doctor has a private clinic.",
+          "gujaratiTranslation": "ડૉક્ટરનું એક ખાનગી દવાખાનું છે.",
+          "hindiTranslation": "डॉक्टर का एक निजी क्लिनिक है।"
+        }
+      ]
+    },
+    {
+      "word": "Recovery",
+      "gujaratiPronunciation": "રિકવરી",
+      "hindiPronunciation": "रिकवरी",
+      "gujaratiMeaning": "સ્વસ્થ થવું",
+      "hindiMeaning": "स्वस्थ होना",
+      "exampleSentences": [
+        {
+          "sentence": "We wish you a speedy recovery.",
+          "gujaratiTranslation": "અમે તમને ઝડપથી સ્વસ્થ થવાની શુભેચ્છા પાઠવીએ છીએ.",
+          "hindiTranslation": "हम आपके शीघ्र स्वस्थ होने की कामना करते हैं।"
+        }
+      ]
+    }
+  ]
+}

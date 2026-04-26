@@ -1,0 +1,481 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Restore",
+      "gujaratiPronunciation": "રિસ્ટોર",
+      "hindiPronunciation": "रिस्टोर",
+      "gujaratiMeaning": "પુનઃસ્થાપિત કરવું",
+      "hindiMeaning": "पुनर्स्थापित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Restore",
+          "gujaratiPronunciation": "રિસ્ટોર",
+          "hindiPronunciation": "रिस्टोर",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કરવું",
+          "hindiMeaning": "पुनर्स्थापित करना"
+        },
+        "V2 (Past)": {
+          "word": "Restored",
+          "gujaratiPronunciation": "રિસ્ટોર્ડ",
+          "hindiPronunciation": "रिस्टोर्ड",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કર્યું",
+          "hindiMeaning": "पुनर्स्थापित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Restored",
+          "gujaratiPronunciation": "રિસ્ટોર્ડ",
+          "hindiPronunciation": "रिस्टोर्ड",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કરેલું",
+          "hindiMeaning": "पुनर्स्थापित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Restoring",
+          "gujaratiPronunciation": "રિસ્ટોરિંગ",
+          "hindiPronunciation": "रिस्टोरिंग",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કરી રહ્યું છે",
+          "hindiMeaning": "पुनर्स्थापित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Renew",
+          "gujaratiPronunciation": "રિન્યૂ",
+          "hindiPronunciation": "रिन्यू",
+          "gujaratiMeaning": "નવીકરણ કરવું",
+          "hindiMeaning": "नवीनीकृत करना"
+        },
+        {
+          "word": "Revive",
+          "gujaratiPronunciation": "રિવાઇવ",
+          "hindiPronunciation": "रिवाइव",
+          "gujaratiMeaning": "પુનર્જીવિત કરવું",
+          "hindiMeaning": "पुनर्जीवित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ruin",
+          "gujaratiPronunciation": "રુઇન",
+          "hindiPronunciation": "रुइन",
+          "gujaratiMeaning": "બગાડવું",
+          "hindiMeaning": "बर्बाद करना"
+        },
+        {
+          "word": "Abolish",
+          "gujaratiPronunciation": "અબોલિશ",
+          "hindiPronunciation": "अबोलिश",
+          "gujaratiMeaning": "નાબૂદ કરવું",
+          "hindiMeaning": "समाप्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Store",
+          "gujaratiPronunciation": "સ્ટોર",
+          "hindiPronunciation": "स्टोर",
+          "gujaratiMeaning": "સંગ્રહ કરવો",
+          "hindiMeaning": "संग्रह करना"
+        },
+        {
+          "word": "Resort",
+          "gujaratiPronunciation": "રિઝોર્ટ",
+          "hindiPronunciation": "रिज़ॉर्ट",
+          "gujaratiMeaning": "આશરો",
+          "hindiMeaning": "सहारा लेना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They are trying to restore the old painting.",
+          "gujaratiPronunciation": "ધે આર ટ્રાઇંગ ટુ રિસ્ટોર ધ ઓલ્ડ પેઇન્ટિંગ.",
+          "hindiPronunciation": "दे आर ट्राइंग टू रिस्टोर द ओल्ड पेंटिंग।",
+          "gujaratiTranslation": "તેઓ જૂના ચિત્રને પુનઃસ્થાપિત કરવાનો પ્રયાસ કરી રહ્યા છે.",
+          "hindiTranslation": "वे पुरानी पेंटिंग को पुनर्स्थापित करने की कोशिश कर रहे हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Sanitize",
+      "gujaratiPronunciation": "સેનિટાઇઝ",
+      "hindiPronunciation": "सैनिटाइज",
+      "gujaratiMeaning": "જીવાણુનાશિત કરવું",
+      "hindiMeaning": "कीटाणुरहित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Sanitize",
+          "gujaratiPronunciation": "સેનિટાઇઝ",
+          "hindiPronunciation": "सैनिटाइज",
+          "gujaratiMeaning": "જીવાણુનાશિત કરવું",
+          "hindiMeaning": "कीटाणुरहित करना"
+        },
+        "V2 (Past)": {
+          "word": "Sanitized",
+          "gujaratiPronunciation": "સેનિટાઇઝ્ડ",
+          "hindiPronunciation": "सैनिटाइज्ड",
+          "gujaratiMeaning": "જીવાણુનાશિત કર્યું",
+          "hindiMeaning": "कीटाणुरहित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Sanitized",
+          "gujaratiPronunciation": "સેનિટાઇઝ્ડ",
+          "hindiPronunciation": "सैनिटाइज्ड",
+          "gujaratiMeaning": "જીવાણુનાશિત કરેલું",
+          "hindiMeaning": "कीटाणुरहित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Sanitizing",
+          "gujaratiPronunciation": "સેનિટાઇઝિંગ",
+          "hindiPronunciation": "सैनिटाइजिंग",
+          "gujaratiMeaning": "જીવાણુનાશિત કરી રહ્યું છે",
+          "hindiMeaning": "कीटाणुरहित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Disinfect",
+          "gujaratiPronunciation": "ડિસઇન્ફેક્ટ",
+          "hindiPronunciation": "डिसइंफेक्ट",
+          "gujaratiMeaning": "જંતુમુક્ત કરવું",
+          "hindiMeaning": "संक्रमणरहित करना"
+        },
+        {
+          "word": "Sterilize",
+          "gujaratiPronunciation": "સ્ટેરિલાઇઝ",
+          "hindiPronunciation": "स्टेरिलाइज",
+          "gujaratiMeaning": "નિર્જંતુક કરવું",
+          "hindiMeaning": "निर्जीवाणुकृत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Contaminate",
+          "gujaratiPronunciation": "કન્ટેમિનેટ",
+          "hindiPronunciation": "कंटैमिनेट",
+          "gujaratiMeaning": "દૂષિત કરવું",
+          "hindiMeaning": "दूषित करना"
+        },
+        {
+          "word": "Pollute",
+          "gujaratiPronunciation": "પોલ્યુટ",
+          "hindiPronunciation": "पोल्यूट",
+          "gujaratiMeaning": "પ્રદૂષિત કરવું",
+          "hindiMeaning": "प्रदूषित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sensitize",
+          "gujaratiPronunciation": "સેન્સિટાઇઝ",
+          "hindiPronunciation": "सेंसिटाइज",
+          "gujaratiMeaning": "સંવેદનશીલ બનાવવું",
+          "hindiMeaning": "संवेदनशील बनाना"
+        },
+        {
+          "word": "Sanity",
+          "gujaratiPronunciation": "સેનિટી",
+          "hindiPronunciation": "सैनिटी",
+          "gujaratiMeaning": "માનસિક સ્વસ્થતા",
+          "hindiMeaning": "मानसिक संतुलन"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Remember to sanitize your hands before eating.",
+          "gujaratiPronunciation": "રિમેમ્બર ટુ સેનિટાઇઝ યોર હેન્ડ્સ બિફોર ઇટિંગ.",
+          "hindiPronunciation": "रिमेंबर टू सैनिटाइज योर हैंड्स बिफोर ईटिंग।",
+          "gujaratiTranslation": "ખાતા પહેલા તમારા હાથને જીવાણુનાશિત કરવાનું યાદ રાખો.",
+          "hindiTranslation": "खाने से पहले अपने हाथों को कीटाणुरहित करना याद रखें।"
+        }
+      ]
+    },
+    {
+      "word": "Refurbish",
+      "gujaratiPronunciation": "રિફર્બિશ",
+      "hindiPronunciation": "रिफर्बिश",
+      "gujaratiMeaning": "નવીનીકરણ કરવું",
+      "hindiMeaning": "नया करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Refurbish",
+          "gujaratiPronunciation": "રિફર્બિશ",
+          "hindiPronunciation": "रिफर्बिश",
+          "gujaratiMeaning": "નવીનીકરણ કરવું",
+          "hindiMeaning": "नया करना"
+        },
+        "V2 (Past)": {
+          "word": "Refurbished",
+          "gujaratiPronunciation": "રિફર્બિશ્ડ",
+          "hindiPronunciation": "रिफर्बिश्ड",
+          "gujaratiMeaning": "નવીનીકરણ કર્યું",
+          "hindiMeaning": "नया किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Refurbished",
+          "gujaratiPronunciation": "રિફર્બિશ્ડ",
+          "hindiPronunciation": "रिफर्बिश्ड",
+          "gujaratiMeaning": "નવીનીકરણ કરેલું",
+          "hindiMeaning": "नया किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Refurbishing",
+          "gujaratiPronunciation": "રિફર્બિશિંગ",
+          "hindiPronunciation": "रिफर्बिशिंग",
+          "gujaratiMeaning": "નવીનીકરણ કરી રહ્યું છે",
+          "hindiMeaning": "नया कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Renovate",
+          "gujaratiPronunciation": "રેનોવેટ",
+          "hindiPronunciation": "रेनोवेट",
+          "gujaratiMeaning": "જીર્ણોદ્ધાર કરવો",
+          "hindiMeaning": "नवीनीकरण करना"
+        },
+        {
+          "word": "Update",
+          "gujaratiPronunciation": "અપડેટ",
+          "hindiPronunciation": "अपडेट",
+          "gujaratiMeaning": "આધુનિક બનાવવું",
+          "hindiMeaning": "अद्यतन करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Demolish",
+          "gujaratiPronunciation": "ડિમોલિશ",
+          "hindiPronunciation": "डिमोलिश",
+          "gujaratiMeaning": "તોડી પાડવું",
+          "hindiMeaning": "ध्वस्त करना"
+        },
+        {
+          "word": "Wreck",
+          "gujaratiPronunciation": "રેક",
+          "hindiPronunciation": "रेक",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Furnish",
+          "gujaratiPronunciation": "ફર્નિશ",
+          "hindiPronunciation": "फर्निश",
+          "gujaratiMeaning": "ફર્નિચર પૂરું પાડવું",
+          "hindiMeaning": "सुसज्जित करना"
+        },
+        {
+          "word": "Refuse",
+          "gujaratiPronunciation": "રિફ્યુઝ",
+          "hindiPronunciation": "रिफ्यूज",
+          "gujaratiMeaning": "ના પાડવી",
+          "hindiMeaning": "इनकार करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They plan to refurbish the old hotel.",
+          "gujaratiPronunciation": "ધે પ્લાન ટુ રિફર્બિશ ધ ઓલ્ડ હોટેલ.",
+          "hindiPronunciation": "दे प्लान टू रिफर्बिश द ओल्ड होटल।",
+          "gujaratiTranslation": "તેઓ જૂની હોટેલનું નવીનીકરણ કરવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "वे पुराने होटल का नवीनीकरण करने की योजना बना रहे हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Conserve",
+      "gujaratiPronunciation": "કન્ઝર્વ",
+      "hindiPronunciation": "कंजर्व",
+      "gujaratiMeaning": "સંરક્ષણ કરવું",
+      "hindiMeaning": "संरक्षण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Conserve",
+          "gujaratiPronunciation": "કન્ઝર્વ",
+          "hindiPronunciation": "कंजर्व",
+          "gujaratiMeaning": "સંરક્ષણ કરવું",
+          "hindiMeaning": "संरक्षण करना"
+        },
+        "V2 (Past)": {
+          "word": "Conserved",
+          "gujaratiPronunciation": "કન્ઝર્વ્ડ",
+          "hindiPronunciation": "कंजर्वड",
+          "gujaratiMeaning": "સંરક્ષણ કર્યું",
+          "hindiMeaning": "संरक्षण किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Conserved",
+          "gujaratiPronunciation": "કન્ઝર્વ્ડ",
+          "hindiPronunciation": "कंजर्वड",
+          "gujaratiMeaning": "સંરક્ષણ કરેલું",
+          "hindiMeaning": "संरक्षित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Conserving",
+          "gujaratiPronunciation": "કન્ઝર્વિંગ",
+          "hindiPronunciation": "कंजर्विंग",
+          "gujaratiMeaning": "સંરક્ષણ કરી રહ્યું છે",
+          "hindiMeaning": "संरक्षण कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Save",
+          "gujaratiPronunciation": "સેવ",
+          "hindiPronunciation": "सेव",
+          "gujaratiMeaning": "બચાવવું",
+          "hindiMeaning": "बचाना"
+        },
+        {
+          "word": "Preserve",
+          "gujaratiPronunciation": "પ્રિઝર્વ",
+          "hindiPronunciation": "प्रिजर्व",
+          "gujaratiMeaning": "સાચવવું",
+          "hindiMeaning": "संरक्षित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Waste",
+          "gujaratiPronunciation": "વેસ્ટ",
+          "hindiPronunciation": "वेस्ट",
+          "gujaratiMeaning": "બગાડ કરવો",
+          "hindiMeaning": "बर्बाद करना"
+        },
+        {
+          "word": "Squander",
+          "gujaratiPronunciation": "સ્કવોન્ડર",
+          "hindiPronunciation": "स्क्वैंडर",
+          "gujaratiMeaning": "વેડફી નાખવું",
+          "hindiMeaning": "व्यर्थ करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Converse",
+          "gujaratiPronunciation": "કન્વર્સ",
+          "hindiPronunciation": "कन्वर्स",
+          "gujaratiMeaning": "વાતચીત કરવી",
+          "hindiMeaning": "बातचीत करना"
+        },
+        {
+          "word": "Observe",
+          "gujaratiPronunciation": "ઓબ્ઝર્વ",
+          "hindiPronunciation": "ऑब्जर्व",
+          "gujaratiMeaning": "નિરીક્ષણ કરવું",
+          "hindiMeaning": "अवलोकन करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We must conserve water during the drought.",
+          "gujaratiPronunciation": "વી મસ્ટ કન્ઝર્વ વૉટર ડ્યુરિંગ ધ ડ્રાઉટ.",
+          "hindiPronunciation": "वी मस्ट कंजर्व वॉटर ड्यूरिंग द ड्राउट।",
+          "gujaratiTranslation": "દુષ્કાળ દરમિયાન આપણે પાણીનું સંરક્ષણ કરવું જોઈએ.",
+          "hindiTranslation": "हमें सूखे के दौरान पानी का संरक्षण करना चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Audit",
+      "gujaratiPronunciation": "ઓડિટ",
+      "hindiPronunciation": "ऑडिट",
+      "gujaratiMeaning": "હિસાબ તપાસવો",
+      "hindiMeaning": "लेखा-परीक्षा करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Audit",
+          "gujaratiPronunciation": "ઓડિટ",
+          "hindiPronunciation": "ऑडिट",
+          "gujaratiMeaning": "હિસાબ તપાસવો",
+          "hindiMeaning": "लेखा-परीक्षा करना"
+        },
+        "V2 (Past)": {
+          "word": "Audited",
+          "gujaratiPronunciation": "ઓડિટેડ",
+          "hindiPronunciation": "ऑडिटेड",
+          "gujaratiMeaning": "હિસાબ તપાસ્યો",
+          "hindiMeaning": "लेखा-परीक्षा की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Audited",
+          "gujaratiPronunciation": "ઓડિટેડ",
+          "hindiPronunciation": "ऑडिटेड",
+          "gujaratiMeaning": "હિસાબ તપાસેલો",
+          "hindiMeaning": "लेखा-परीक्षित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Auditing",
+          "gujaratiPronunciation": "ઓડિટિંગ",
+          "hindiPronunciation": "ऑडिटिंग",
+          "gujaratiMeaning": "હિસાબ તપાસી રહ્યું છે",
+          "hindiMeaning": "लेखा-परीक्षा कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Inspect",
+          "gujaratiPronunciation": "ઇન્સ્પેક્ટ",
+          "hindiPronunciation": "इंस्पेक्ट",
+          "gujaratiMeaning": "નિરીક્ષણ કરવું",
+          "hindiMeaning": "निरीक्षण करना"
+        },
+        {
+          "word": "Examine",
+          "gujaratiPronunciation": "એક્ઝામિન",
+          "hindiPronunciation": "एग्जामिन",
+          "gujaratiMeaning": "પરીક્ષણ કરવું",
+          "hindiMeaning": "जांच करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "अनदेखा करना"
+        },
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Addict",
+          "gujaratiPronunciation": "એડિક્ટ",
+          "hindiPronunciation": "एडिक्ट",
+          "gujaratiMeaning": "વ્યસની",
+          "hindiMeaning": "व्यसनी"
+        },
+        {
+          "word": "Audio",
+          "gujaratiPronunciation": "ઓડિયો",
+          "hindiPronunciation": "ऑडियो",
+          "gujaratiMeaning": "ધ્વનિ",
+          "hindiMeaning": "श्रव्य"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company will audit its accounts at the end of the year.",
+          "gujaratiPronunciation": "ધ કંપની વિલ ઓડિટ ઇટ્સ અકાઉન્ટ્સ એટ ધ એન્ડ ઓફ ધ યર.",
+          "hindiPronunciation": "द कंपनी विल ऑडिट इट्स अकाउंट्स एट द एंड ऑफ द ईयर।",
+          "gujaratiTranslation": "કંપની વર્ષના અંતે તેના હિસાબોનું ઓડિટ કરશે.",
+          "hindiTranslation": "कंपनी साल के अंत में अपने खातों का ऑडिट करेगी।"
+        }
+      ]
+    }
+  ]
+}

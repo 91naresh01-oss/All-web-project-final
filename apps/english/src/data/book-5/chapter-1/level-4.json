@@ -1,0 +1,449 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Forge",
+      "gujaratiPronunciation": "ફોર્જ",
+      "hindiPronunciation": "फोर्ज",
+      "gujaratiMeaning": "ઘડવું, બનાવવું",
+      "hindiMeaning": "गढ़ना, बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Forge",
+          "gujaratiPronunciation": "ફોર્જ",
+          "hindiPronunciation": "फोर्ज",
+          "gujaratiMeaning": "ઘડવું",
+          "hindiMeaning": "गढ़ना"
+        },
+        "V2 (Past)": {
+          "word": "Forged",
+          "gujaratiPronunciation": "ફોર્જ્ડ",
+          "hindiPronunciation": "फोर्ज्ड",
+          "gujaratiMeaning": "ઘડ્યું",
+          "hindiMeaning": "गढ़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Forged",
+          "gujaratiPronunciation": "ફોર્જ્ડ",
+          "hindiPronunciation": "फोर्ज्ड",
+          "gujaratiMeaning": "ઘડેલું",
+          "hindiMeaning": "गढ़ा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Forging",
+          "gujaratiPronunciation": "ફોર્જિંગ",
+          "hindiPronunciation": "फोर्जिंग",
+          "gujaratiMeaning": "ઘડી રહ્યું છે",
+          "hindiMeaning": "गढ़ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Create",
+          "gujaratiPronunciation": "ક્રિએટ",
+          "hindiPronunciation": "क्रिएट",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Build",
+          "gujaratiPronunciation": "બિલ્ડ",
+          "hindiPronunciation": "बिल्ड",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Destroy",
+          "gujaratiPronunciation": "ડિસ્ટ્રોય",
+          "hindiPronunciation": "डिस्ट्रॉय",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        },
+        {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Forget",
+          "gujaratiPronunciation": "ફર્ગેટ",
+          "hindiPronunciation": "फॉरगेट",
+          "gujaratiMeaning": "ભૂલી જવું",
+          "hindiMeaning": "भूल जाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They forged a strong alliance between the two countries.",
+          "gujaratiPronunciation": "ધે ફોર્જ્ડ અ સ્ટ્રોંગ અલાયન્સ બિટવીન ધ ટુ કન્ટ્રીઝ.",
+          "hindiPronunciation": "दे फोर्ज्ड अ स्ट्रांग अलायंस बिटवीन द टू कंट्रीज।",
+          "gujaratiMeaning": "તેઓએ બે દેશો વચ્ચે મજબૂત ગઠબંધન બનાવ્યું.",
+          "hindiMeaning": "उन्होंने दोनों देशों के बीच एक मजबूत गठबंधन बनाया।"
+        }
+      ]
+    },
+    {
+      "word": "Cement",
+      "gujaratiPronunciation": "સિમેન્ટ",
+      "hindiPronunciation": "सीमेंट",
+      "gujaratiMeaning": "મજબૂત કરવું, જોડવું",
+      "hindiMeaning": "मजबूत करना, जोड़ना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Cement",
+          "gujaratiPronunciation": "સિમેન્ટ",
+          "hindiPronunciation": "सीमेंट",
+          "gujaratiMeaning": "મજબૂત કરવું",
+          "hindiMeaning": "मजबूत करना"
+        },
+        "V2 (Past)": {
+          "word": "Cemented",
+          "gujaratiPronunciation": "સિમેન્ટેડ",
+          "hindiPronunciation": "सीमेंटेड",
+          "gujaratiMeaning": "મજબૂત કર્યું",
+          "hindiMeaning": "मजबूत किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Cemented",
+          "gujaratiPronunciation": "સિમેન્ટેડ",
+          "hindiPronunciation": "सीमेंटेड",
+          "gujaratiMeaning": "મજબૂત કરેલું",
+          "hindiMeaning": "मजबूत किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Cementing",
+          "gujaratiPronunciation": "સિમેન્ટિંગ",
+          "hindiPronunciation": "सीमेंटिंग",
+          "gujaratiMeaning": "મજબૂત કરી રહ્યું છે",
+          "hindiMeaning": "मजबूत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Strengthen",
+          "gujaratiPronunciation": "સ્ટ્રેન્થન",
+          "hindiPronunciation": "स्ट्रेंग्थेन",
+          "gujaratiMeaning": "મજબૂત બનાવવું",
+          "hindiMeaning": "मजबूत बनाना"
+        },
+        {
+          "word": "Solidify",
+          "gujaratiPronunciation": "સોલિડિફાય",
+          "hindiPronunciation": "सॉलिडिफाई",
+          "gujaratiMeaning": "નક્કર બનાવવું",
+          "hindiMeaning": "ठोस बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Weaken",
+          "gujaratiPronunciation": "વિકન",
+          "hindiPronunciation": "वीकन",
+          "gujaratiMeaning": "નબળું પાડવું",
+          "hindiMeaning": "कमजोर करना"
+        },
+        {
+          "word": "Undermine",
+          "gujaratiPronunciation": "અંડરમાઇન",
+          "hindiPronunciation": "अंडरमाइन",
+          "gujaratiMeaning": "ખોખલું કરવું",
+          "hindiMeaning": "कमजोर करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Comment",
+          "gujaratiPronunciation": "કમેન્ટ",
+          "hindiPronunciation": "कमेंट",
+          "gujaratiMeaning": "ટિપ્પણી",
+          "hindiMeaning": "टिप्पणी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "This victory cemented their position at the top of the league.",
+          "gujaratiPronunciation": "ધીસ વિક્ટરી સિમેન્ટેડ ધેર પોઝિશન એટ ધ ટોપ ઓફ ધ લીગ.",
+          "hindiPronunciation": "दिस विक्ट्री सीमेंटेड देयर पोजीशन एट द टॉप ऑफ द लीग।",
+          "gujaratiMeaning": "આ જીતે લીગમાં ટોચ પર તેમનું સ્થાન મજબૂત કર્યું.",
+          "hindiMeaning": "इस जीत ने लीग में शीर्ष पर उनकी स्थिति को मजबूत कर दिया।"
+        }
+      ]
+    },
+    {
+      "word": "Advocate",
+      "gujaratiPronunciation": "એડવોકેટ",
+      "hindiPronunciation": "एडवोकेट",
+      "gujaratiMeaning": "તરફેણ કરવી, વકીલાત કરવી",
+      "hindiMeaning": "समर्थन करना, वकालत करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Advocate",
+          "gujaratiPronunciation": "એડવોકેટ",
+          "hindiPronunciation": "एडवोकेट",
+          "gujaratiMeaning": "તરફેણ કરવી",
+          "hindiMeaning": "समर्थन करना"
+        },
+        "V2 (Past)": {
+          "word": "Advocated",
+          "gujaratiPronunciation": "એડવોકેટેડ",
+          "hindiPronunciation": "एडवोकेटेड",
+          "gujaratiMeaning": "તરફેણ કરી",
+          "hindiMeaning": "समर्थन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Advocated",
+          "gujaratiPronunciation": "એડવોકેટેડ",
+          "hindiPronunciation": "एडवोकेटेड",
+          "gujaratiMeaning": "તરફેણ કરેલી",
+          "hindiMeaning": "समर्थन किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Advocating",
+          "gujaratiPronunciation": "એડવોકેટિંગ",
+          "hindiPronunciation": "एडवोकेटिंग",
+          "gujaratiMeaning": "તરફેણ કરી રહ્યું છે",
+          "hindiMeaning": "समर्थन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Support",
+          "gujaratiPronunciation": "સપોર્ટ",
+          "hindiPronunciation": "सपोर्ट",
+          "gujaratiMeaning": "સમર્થન કરવું",
+          "hindiMeaning": "समर्थन करना"
+        },
+        {
+          "word": "Recommend",
+          "gujaratiPronunciation": "રેકમેન્ડ",
+          "hindiPronunciation": "रेकमेंड",
+          "gujaratiMeaning": "ભલામણ કરવી",
+          "hindiMeaning": "सिफारिश करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Oppose",
+          "gujaratiPronunciation": "અપોઝ",
+          "hindiPronunciation": "अपोज",
+          "gujaratiMeaning": "વિરોધ કરવો",
+          "hindiMeaning": "विरोध करना"
+        },
+        {
+          "word": "Criticize",
+          "gujaratiPronunciation": "ક્રિટિસાઇઝ",
+          "hindiPronunciation": "क्रिटिसाइज",
+          "gujaratiMeaning": "ટીકા કરવી",
+          "hindiMeaning": "आलोचना करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Abdicate",
+          "gujaratiPronunciation": "એબ્ડિકેટ",
+          "hindiPronunciation": "एब्डिकेट",
+          "gujaratiMeaning": "ત્યાગ કરવો",
+          "hindiMeaning": "त्याग करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He advocates for stricter gun control laws.",
+          "gujaratiPronunciation": "હી એડવોકેટ્સ ફોર સ્ટ્રિક્ટર ગન કંટ્રોલ લોઝ.",
+          "hindiPronunciation": "ही एडवोकेट्स फॉर स्ट्रिक्टर गन कंट्रोल लॉज।",
+          "gujaratiMeaning": "તે બંદૂક નિયંત્રણના કડક કાયદાઓની તરફેણ કરે છે.",
+          "hindiMeaning": "वह सख्त बंदूक नियंत्रण कानूनों का समर्थन करते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Cultivate",
+      "gujaratiPronunciation": "કલ્ટિવેટ",
+      "hindiPronunciation": "कल्टीवेट",
+      "gujaratiMeaning": "વિકસાવવું, ખેડવું",
+      "hindiMeaning": "विकसित करना, खेती करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Cultivate",
+          "gujaratiPronunciation": "કલ્ટિવેટ",
+          "hindiPronunciation": "कल्टीवेट",
+          "gujaratiMeaning": "વિકસાવવું",
+          "hindiMeaning": "विकसित करना"
+        },
+        "V2 (Past)": {
+          "word": "Cultivated",
+          "gujaratiPronunciation": "કલ્ટિવેટેડ",
+          "hindiPronunciation": "कल्टीवेटेड",
+          "gujaratiMeaning": "વિકસાવ્યું",
+          "hindiMeaning": "विकसित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Cultivated",
+          "gujaratiPronunciation": "કલ્ટિવેટેડ",
+          "hindiPronunciation": "कल्टीवेटेड",
+          "gujaratiMeaning": "વિકસાવેલું",
+          "hindiMeaning": "विकसित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Cultivating",
+          "gujaratiPronunciation": "કલ્ટિવેટિંગ",
+          "hindiPronunciation": "कल्टीवेटिंग",
+          "gujaratiMeaning": "વિકસાવી રહ્યું છે",
+          "hindiMeaning": "विकसित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Develop",
+          "gujaratiPronunciation": "ડેવલપ",
+          "hindiPronunciation": "डेवलप",
+          "gujaratiMeaning": "વિકાસ કરવો",
+          "hindiMeaning": "विकास करना"
+        },
+        {
+          "word": "Nurture",
+          "gujaratiPronunciation": "નર્ચર",
+          "hindiPronunciation": "नर्चर",
+          "gujaratiMeaning": "ઉછેર કરવો",
+          "hindiMeaning": "पालन-पोषण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Abandon",
+          "gujaratiPronunciation": "અબૅન્ડન",
+          "hindiPronunciation": "अबैंडन",
+          "gujaratiMeaning": "ત્યાગ કરવો",
+          "hindiMeaning": "छोड़ देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Captivate",
+          "gujaratiPronunciation": "કેપ્ટિવેટ",
+          "hindiPronunciation": "कैप्टिवेट",
+          "gujaratiMeaning": "મોહિત કરવું",
+          "hindiMeaning": "मोहित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She has cultivated an image as a tough negotiator.",
+          "gujaratiPronunciation": "શી હેઝ કલ્ટિવેટેડ એન ઈમેજ એઝ અ ટફ નેગોશિએટર.",
+          "hindiPronunciation": "शी हैज़ कल्टीवेटेड एन इमेज एज अ टफ नेगोशिएटर।",
+          "gujaratiMeaning": "તેણીએ એક કઠિન વાટાઘાટકાર તરીકેની છબી વિકસાવી છે.",
+          "hindiMeaning": "उसने एक सख्त वार्ताकार के रूप में एक छवि विकसित की है।"
+        }
+      ]
+    },
+    {
+      "word": "Cooperate",
+      "gujaratiPronunciation": "કોઓપરેટ",
+      "hindiPronunciation": "कोऑपरेट",
+      "gujaratiMeaning": "સહકાર આપવો",
+      "hindiMeaning": "सहयोग करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Cooperate",
+          "gujaratiPronunciation": "કોઓપરેટ",
+          "hindiPronunciation": "कोऑपरेट",
+          "gujaratiMeaning": "સહકાર આપવો",
+          "hindiMeaning": "सहयोग करना"
+        },
+        "V2 (Past)": {
+          "word": "Cooperated",
+          "gujaratiPronunciation": "કોઓપરેટેડ",
+          "hindiPronunciation": "कोऑपरेटेड",
+          "gujaratiMeaning": "સહકાર આપ્યો",
+          "hindiMeaning": "सहयोग किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Cooperated",
+          "gujaratiPronunciation": "કોઓપરેટેડ",
+          "hindiPronunciation": "कोऑपरेटेड",
+          "gujaratiMeaning": "સહકાર આપેલો",
+          "hindiMeaning": "सहयोग किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Cooperating",
+          "gujaratiPronunciation": "કોઓપરેટિંગ",
+          "hindiPronunciation": "कोऑपरेटिंग",
+          "gujaratiMeaning": "સહકાર આપી રહ્યું છે",
+          "hindiMeaning": "सहयोग कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Collaborate",
+          "gujaratiPronunciation": "કોલાબોરેટ",
+          "hindiPronunciation": "कोलेबोरेट",
+          "gujaratiMeaning": "સહયોગ કરવો",
+          "hindiMeaning": "सहयोग करना"
+        },
+        {
+          "word": "Assist",
+          "gujaratiPronunciation": "અસિસ્ટ",
+          "hindiPronunciation": "असिस्ट",
+          "gujaratiMeaning": "મદદ કરવી",
+          "hindiMeaning": "सहायता करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Hinder",
+          "gujaratiPronunciation": "હિન્ડર",
+          "hindiPronunciation": "हिंडर",
+          "gujaratiMeaning": "અવરોધ કરવો",
+          "hindiMeaning": "बाधा डालना"
+        },
+        {
+          "word": "Oppose",
+          "gujaratiPronunciation": "અપોઝ",
+          "hindiPronunciation": "अपोज",
+          "gujaratiMeaning": "વિરોધ કરવો",
+          "hindiMeaning": "विरोध करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Corporate",
+          "gujaratiPronunciation": "કોર્પોરેટ",
+          "hindiPronunciation": "कॉर्पोरेट",
+          "gujaratiMeaning": "કંપની સંબંધી",
+          "hindiMeaning": "निगमित"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The witnesses agreed to cooperate with the police.",
+          "gujaratiPronunciation": "ધ વિટનેસીસ અગ્રીડ ટુ કોઓપરેટ વિથ ધ પોલીસ.",
+          "hindiPronunciation": "द विटनेसेस अग्रीड टू कोऑपरेट विद द पुलिस।",
+          "gujaratiMeaning": "સાક્ષીઓ પોલીસને સહકાર આપવા માટે સંમત થયા.",
+          "hindiMeaning": "गवाह पुलिस के साथ सहयोग करने के लिए सहमत हुए।"
+        }
+      ]
+    }
+  ]
+}
+
+    

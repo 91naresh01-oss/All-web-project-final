@@ -1,0 +1,324 @@
+{
+  "id": "level-4",
+  "title": "Level 4: Comm. & Digital",
+  "words": [
+    {
+      "word": "Synchronize",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "સિંક્રોનાઇઝ",
+      "hindiPronunciation": "सिंक्रोनाइज़",
+      "gujaratiMeaning": "એક સાથે ગોઠવવું",
+      "hindiMeaning": "एक साथ करना, समकालिक करना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Synchronize",
+          "gujaratiPronunciation": "સિંક્રોનાઇઝ",
+          "hindiPronunciation": "सिंक्रोनाइज़",
+          "gujaratiMeaning": "એક સાથે ગોઠવવું",
+          "hindiMeaning": "समकालिक करना"
+        },
+        "v2 (Past)": {
+          "word": "Synchronized",
+          "gujaratiPronunciation": "સિંક્રોનાઇઝ્ડ",
+          "hindiPronunciation": "सिंक्रोनाइज़ किया",
+          "gujaratiMeaning": "એક સાથે ગોઠવ્યું",
+          "hindiMeaning": "समकालिक किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Synchronized",
+          "gujaratiPronunciation": "સિંક્રોનાઇઝ્ડ",
+          "hindiPronunciation": "सिंक्रोनाइज़ किया",
+          "gujaratiMeaning": "એક સાથે ગોઠવેલું",
+          "hindiMeaning": "समकालिक किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Synchronizing",
+          "gujaratiPronunciation": "સિંક્રોનાઇઝિંગ",
+          "hindiPronunciation": "सिंक्रोनाइज़िंग",
+          "gujaratiMeaning": "એક સાથે ગોઠવી રહ્યું છે",
+          "hindiMeaning": "समकालिक कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Coordinate",
+          "gujaratiPronunciation": "કોઓર્ડિનેટ",
+          "hindiPronunciation": "कोऑर्डिनेट",
+          "gujaratiMeaning": "સંકલન કરવું",
+          "hindiMeaning": "समन्वय करना"
+        },
+        {
+          "word": "Match",
+          "gujaratiPronunciation": "મેચ",
+          "hindiPronunciation": "मैच",
+          "gujaratiMeaning": "મેળવવું",
+          "hindiMeaning": "मिलान करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You need to synchronize your watch with the official time.",
+          "gujaratiTranslation": "તમારે તમારી ઘડિયાળને અધિકૃત સમય સાથે સિંક્રોનાઇઝ કરવાની જરૂર છે.",
+          "hindiTranslation": "आपको अपनी घड़ी को आधिकारिक समय के साथ सिंक्रोनाइज़ करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Query",
+      "partOfSpeech": "noun/verb",
+      "gujaratiPronunciation": "ક્વેરી",
+      "hindiPronunciation": "क्वेरी",
+      "gujaratiMeaning": "પ્રશ્ન, પૂછપરછ",
+      "hindiMeaning": "प्रश्न, पूछताछ",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Query",
+          "gujaratiPronunciation": "ક્વેરી",
+          "hindiPronunciation": "क्वेरी",
+          "gujaratiMeaning": "પૂછપરછ કરવી",
+          "hindiMeaning": "पूछताछ करना"
+        },
+        "v2 (Past)": {
+          "word": "Queried",
+          "gujaratiPronunciation": "ક્વેરીડ",
+          "hindiPronunciation": "क्वेरी किया",
+          "gujaratiMeaning": "પૂછપરછ કરી",
+          "hindiMeaning": "पूछताछ की"
+        },
+        "v3 (Past Participle)": {
+          "word": "Queried",
+          "gujaratiPronunciation": "ક્વેરીડ",
+          "hindiPronunciation": "क्वेरी किया",
+          "gujaratiMeaning": "પૂછપરછ કરેલી",
+          "hindiMeaning": "पूछताछ की हुई"
+        },
+        "v4 (Present Participle)": {
+          "word": "Querying",
+          "gujaratiPronunciation": "ક્વેરીઇંગ",
+          "hindiPronunciation": "क्वेरीइंग",
+          "gujaratiMeaning": "પૂછપરછ કરી રહ્યું છે",
+          "hindiMeaning": "पूछताछ कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Question",
+          "gujaratiPronunciation": "ક્વેશ્ચન",
+          "hindiPronunciation": "क्वेश्चन",
+          "gujaratiMeaning": "પ્રશ્ન",
+          "hindiMeaning": "प्रश्न"
+        },
+        {
+          "word": "Inquiry",
+          "gujaratiPronunciation": "ઇન્ક્વાયરી",
+          "hindiPronunciation": "इन्क्वायरी",
+          "gujaratiMeaning": "પૂછપરછ",
+          "hindiMeaning": "पूछताछ"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Answer",
+          "gujaratiPronunciation": "આન્સર",
+          "hindiPronunciation": "आंसर",
+          "gujaratiMeaning": "જવાબ",
+          "hindiMeaning": "उत्तर"
+        },
+        {
+          "word": "Reply",
+          "gujaratiPronunciation": "રિપ્લાય",
+          "hindiPronunciation": "रिप्लाई",
+          "gujaratiMeaning": "પ્રત્યુત્તર",
+          "hindiMeaning": "जवाब"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The database query returned thousands of results.",
+          "gujaratiTranslation": "ડેટાબેઝ ક્વેરીએ હજારો પરિણામો આપ્યા.",
+          "hindiTranslation": "डेटाबेस क्वेरी ने हजारों परिणाम लौटाए।"
+        }
+      ]
+    },
+    {
+      "word": "Decrypt",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "ડીક્રિપ્ટ",
+      "hindiPronunciation": "डिक्रिप्ट",
+      "gujaratiMeaning": "ગુપ્ત કોડમાંથી મૂળ રૂપમાં ફેરવવું",
+      "hindiMeaning": "डिक्रिप्ट करना (गुप्त कोड से मूल रूप में बदलना)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Decrypt",
+          "gujaratiPronunciation": "ડીક્રિપ્ટ",
+          "hindiPronunciation": "डिक्रिप्ट",
+          "gujaratiMeaning": "ડીક્રિપ્ટ કરવું",
+          "hindiMeaning": "डिक्रिप्ट करना"
+        },
+        "v2 (Past)": {
+          "word": "Decrypted",
+          "gujaratiPronunciation": "ડીક્રિપ્ટેડ",
+          "hindiPronunciation": "डिक्रिप्टेड",
+          "gujaratiMeaning": "ડીક્રિપ્ટ કર્યું",
+          "hindiMeaning": "डिक्रिप्ट किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Decrypted",
+          "gujaratiPronunciation": "ડીક્રિપ્ટેડ",
+          "hindiPronunciation": "डिक्रिप्टेड",
+          "gujaratiMeaning": "ડીક્રિપ્ટ કરેલું",
+          "hindiMeaning": "डिक्रिप्ट किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Decrypting",
+          "gujaratiPronunciation": "ડીક્રિપ્ટિંગ",
+          "hindiPronunciation": "डिक्रिप्टिंग",
+          "gujaratiMeaning": "ડીક્રિપ્ટ કરી રહ્યું છે",
+          "hindiMeaning": "डिक्रिप्ट कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Decode",
+          "gujaratiPronunciation": "ડીકોડ",
+          "hindiPronunciation": "डिकोड",
+          "gujaratiMeaning": "ડીકોડ કરવું",
+          "hindiMeaning": "डिकोड करना"
+        },
+        {
+          "word": "Unscramble",
+          "gujaratiPronunciation": "અનસ્ક્રેમ્બલ",
+          "hindiPronunciation": "अनस्क्रैम्बल",
+          "gujaratiMeaning": "ઉકેલવું",
+          "hindiMeaning": "सुलझाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Encrypt",
+          "gujaratiPronunciation": "એન્ક્રિપ્ટ",
+          "hindiPronunciation": "एन्क्रिप्ट",
+          "gujaratiMeaning": "એન્ક્રિપ્ટ કરવું",
+          "hindiMeaning": "एन्क्रिप्ट करना"
+        },
+        {
+          "word": "Encode",
+          "gujaratiPronunciation": "એન્કોડ",
+          "hindiPronunciation": "एन्कोड",
+          "gujaratiMeaning": "એન્કોડ કરવું",
+          "hindiMeaning": "एन्कोड करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You need the correct key to decrypt the message.",
+          "gujaratiTranslation": "સંદેશને ડીક્રિપ્ટ કરવા માટે તમારે સાચી કીની જરૂર છે.",
+          "hindiTranslation": "संदेश को डिक्रिप्ट करने के लिए आपको सही कुंजी की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Firewall",
+      "partOfSpeech": "noun",
+      "gujaratiPronunciation": "ફાયરવોલ",
+      "hindiPronunciation": "फ़ायरवॉल",
+      "gujaratiMeaning": "કમ્પ્યુટર નેટવર્ક સુરક્ષા સિસ્ટમ",
+      "hindiMeaning": "कंप्यूटर नेटवर्क सुरक्षा प्रणाली",
+      "verbForms": {},
+      "synonyms": [
+        {
+          "word": "Barrier",
+          "gujaratiPronunciation": "બેરિયર",
+          "hindiPronunciation": "बैरियर",
+          "gujaratiMeaning": "અવરોધ",
+          "hindiMeaning": "बाधा"
+        },
+        {
+          "word": "Security wall",
+          "gujaratiPronunciation": "સિક્યોરિટી વોલ",
+          "hindiPronunciation": "सिक्योरिटी वॉल",
+          "gujaratiMeaning": "સુરક્ષા દીવાલ",
+          "hindiMeaning": "सुरक्षा दीवार"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company's network is protected by a strong firewall.",
+          "gujaratiTranslation": "કંપનીનું નેટવર્ક એક મજબૂત ફાયરવોલ દ્વારા સુરક્ષિત છે.",
+          "hindiTranslation": "कंपनी का नेटवर्क एक मजबूत फ़ायरवॉल द्वारा सुरक्षित है।"
+        }
+      ]
+    },
+    {
+      "word": "Cascade",
+      "partOfSpeech": "verb/noun",
+      "gujaratiPronunciation": "કાસ્કેડ",
+      "hindiPronunciation": "कैस्केड",
+      "gujaratiMeaning": "ધોધની જેમ પડવું, શ્રેણીબદ્ધ ઘટના",
+      "hindiMeaning": "झरने की तरह गिरना, श्रृंखला",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Cascade",
+          "gujaratiPronunciation": "કાસ્કેડ",
+          "hindiPronunciation": "कैस्केड",
+          "gujaratiMeaning": "ધોધની જેમ પડવું",
+          "hindiMeaning": "झरने की तरह गिरना"
+        },
+        "v2 (Past)": {
+          "word": "Cascaded",
+          "gujaratiPronunciation": "કાસ્કેડેડ",
+          "hindiPronunciation": "कैस्केडेड",
+          "gujaratiMeaning": "ધોધની જેમ પડ્યું",
+          "hindiMeaning": "झरने की तरह गिरा"
+        },
+        "v3 (Past Participle)": {
+          "word": "Cascaded",
+          "gujaratiPronunciation": "કાસ્કેડેડ",
+          "hindiPronunciation": "कैस्केडेड",
+          "gujaratiMeaning": "ધોધની જેમ પડેલું",
+          "hindiMeaning": "झरने की तरह गिरा हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Cascading",
+          "gujaratiPronunciation": "કાસ્કેડિંગ",
+          "hindiPronunciation": "कैस्केडिंग",
+          "gujaratiMeaning": "ધોધની જેમ પડી રહ્યું છે",
+          "hindiMeaning": "झरने की तरह गिर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Waterfall",
+          "gujaratiPronunciation": "વૉટરફોલ",
+          "hindiPronunciation": "वॉटरफॉल",
+          "gujaratiMeaning": "ધોધ",
+          "hindiMeaning": "झरना"
+        },
+        {
+          "word": "Pour",
+          "gujaratiPronunciation": "પોર",
+          "hindiPronunciation": "पोर",
+          "gujaratiMeaning": "રેડાવું",
+          "hindiMeaning": "उंडेलना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "In CSS, styles can cascade from a parent element to its children.",
+          "gujaratiTranslation": "CSS માં, શૈલીઓ પેરેન્ટ એલિમેન્ટથી તેના ચિલ્ડ્રન પર કાસ્કેડ થઈ શકે છે.",
+          "hindiTranslation": "CSS में, स्टाइल एक पैरेंट एलिमेंट से उसके बच्चों तक कैस्केड हो सकते हैं।"
+        }
+      ]
+    }
+  ]
+}
+
+    

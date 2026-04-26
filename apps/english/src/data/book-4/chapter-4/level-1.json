@@ -1,0 +1,432 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Build",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "બાંધવું",
+      "hindiMeaning": "निर्माण करना",
+      "gujaratiPronunciation": "બિલ્ડ",
+      "hindiPronunciation": "बिल्ड",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Build",
+          "gujaratiPronunciation": "બિલ્ડ",
+          "hindiPronunciation": "बिल्ड",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "निर्माण करना"
+        },
+        "V2 (Past)": {
+          "word": "Built",
+          "gujaratiPronunciation": "બિલ્ટ",
+          "hindiPronunciation": "बिल्ट",
+          "gujaratiMeaning": "બાંધ્યું",
+          "hindiMeaning": "निर्माण किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Built",
+          "gujaratiPronunciation": "બિલ્ટ",
+          "hindiPronunciation": "बिल्ट",
+          "gujaratiMeaning": "બાંધેલું",
+          "hindiMeaning": "निर्माण किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Building",
+          "gujaratiPronunciation": "બિલ્ડિંગ",
+          "hindiPronunciation": "बिल्डिंग",
+          "gujaratiMeaning": "બાંધી રહ્યું",
+          "hindiMeaning": "निर्माण कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Construct",
+          "gujaratiPronunciation": "કન્સ્ટ્રક્ટ",
+          "hindiPronunciation": "कंस्ट्रक्ट",
+          "gujaratiMeaning": "રચના કરવી",
+          "hindiMeaning": "रचना करना"
+        },
+        {
+          "word": "Erect",
+          "gujaratiPronunciation": "ઇરેક્ટ",
+          "hindiPronunciation": "इरेक्ट",
+          "gujaratiMeaning": "ઊભું કરવું",
+          "hindiMeaning": "खड़ा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Demolish",
+          "gujaratiPronunciation": "ડિમોલિશ",
+          "hindiPronunciation": "डिमोलिश",
+          "gujaratiMeaning": "તોડી પાડવું",
+          "hindiMeaning": "ध्वस्त करना"
+        },
+        {
+          "word": "Destroy",
+          "gujaratiPronunciation": "ડિસ્ટ્રોય",
+          "hindiPronunciation": "डिस्ट्रॉय",
+          "gujaratiMeaning": "નાશ કરવું",
+          "hindiMeaning": "नष्ट करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Billed",
+          "gujaratiPronunciation": "બિલ્ડ",
+          "hindiPronunciation": "बिल्ड",
+          "gujaratiMeaning": "બિલ બનાવ્યું",
+          "hindiMeaning": "बिल बनाया"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They plan to build a new bridge.",
+          "gujaratiPronunciation": "ધે પ્લાન ટુ બિલ્ડ અ ન્યૂ બ્રિજ.",
+          "hindiPronunciation": "दे प्लान टू बिल्ड अ न्यू ब्रिज।",
+          "gujaratiTranslation": "તેઓ એક નવો પુલ બાંધવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "वे एक नया पुल बनाने की योजना बना रहे हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Fix",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "સમારકામ કરવું",
+      "hindiMeaning": "ठीक करना",
+      "gujaratiPronunciation": "ફિક્સ",
+      "hindiPronunciation": "फिक्स",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Fix",
+          "gujaratiPronunciation": "ફિક્સ",
+          "hindiPronunciation": "फिक्स",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "ठीक करना"
+        },
+        "V2 (Past)": {
+          "word": "Fixed",
+          "gujaratiPronunciation": "ફિક્સ્ડ",
+          "hindiPronunciation": "फिक्स्ड",
+          "gujaratiMeaning": "સમારકામ કર્યું",
+          "hindiMeaning": "ठीक किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Fixed",
+          "gujaratiPronunciation": "ફિક્સ્ડ",
+          "hindiPronunciation": "फिक्स्ड",
+          "gujaratiMeaning": "સમારકામ કરેલું",
+          "hindiMeaning": "ठीक किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Fixing",
+          "gujaratiPronunciation": "ફિક્સિંગ",
+          "hindiPronunciation": "फिक्सिंग",
+          "gujaratiMeaning": "સમારકામ કરી રહ્યું",
+          "hindiMeaning": "ठीक कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Repair",
+          "gujaratiPronunciation": "રિપેર",
+          "hindiPronunciation": "रिपेयर",
+          "gujaratiMeaning": "મરમ્મત કરવી",
+          "hindiMeaning": "मरम्मत करना"
+        },
+        {
+          "word": "Mend",
+          "gujaratiPronunciation": "મેન્ડ",
+          "hindiPronunciation": "मेंड",
+          "gujaratiMeaning": "સાંધવું",
+          "hindiMeaning": "सुधारना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        },
+        {
+          "word": "Damage",
+          "gujaratiPronunciation": "ડેમેજ",
+          "hindiPronunciation": "डैमेज",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "क्षति पहुँचाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Fax",
+          "gujaratiPronunciation": "ફેક્સ",
+          "hindiPronunciation": "फैक्स",
+          "gujaratiMeaning": "ફેક્સ મશીન",
+          "hindiMeaning": "फैक्स मशीन"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you fix my broken watch?",
+          "gujaratiPronunciation": "કેન યુ ફિક્સ માય બ્રોકન વૉચ?",
+          "hindiPronunciation": "कैन यू फिक्स माय ब्रोकन वॉच?",
+          "gujaratiTranslation": "શું તમે મારી તૂટેલી ઘડિયાળનું સમારકામ કરી શકો છો?",
+          "hindiTranslation": "क्या आप मेरी टूटी हुई घड़ी ठीक कर सकते हैं?"
+        }
+      ]
+    },
+    {
+      "word": "Join",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "જોડાવું",
+      "hindiMeaning": "शामिल होना",
+      "gujaratiPronunciation": "જોઇન",
+      "hindiPronunciation": "जॉइन",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Join",
+          "gujaratiPronunciation": "જોઇન",
+          "hindiPronunciation": "जॉइन",
+          "gujaratiMeaning": "જોડાવું",
+          "hindiMeaning": "शामिल होना"
+        },
+        "V2 (Past)": {
+          "word": "Joined",
+          "gujaratiPronunciation": "જોઇન્ડ",
+          "hindiPronunciation": "जॉइन्ड",
+          "gujaratiMeaning": "જોડાયા",
+          "hindiMeaning": "शामिल हुए"
+        },
+        "V3 (Past Participle)": {
+          "word": "Joined",
+          "gujaratiPronunciation": "જોઇન્ડ",
+          "hindiPronunciation": "जॉइन्ड",
+          "gujaratiMeaning": "જોડાયેલ",
+          "hindiMeaning": "शामिल हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Joining",
+          "gujaratiPronunciation": "જોઇનિંગ",
+          "hindiPronunciation": "जॉइनिंग",
+          "gujaratiMeaning": "જોડાી રહ્યું",
+          "hindiMeaning": "शामिल हो रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Connect",
+          "gujaratiPronunciation": "કનેક્ટ",
+          "hindiPronunciation": "कनेक्ट",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        },
+        {
+          "word": "Unite",
+          "gujaratiPronunciation": "યુનાઇટ",
+          "hindiPronunciation": "यूनाइट",
+          "gujaratiMeaning": "એક થવું",
+          "hindiMeaning": "एकजुट होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Separate",
+          "gujaratiPronunciation": "સેપરેટ",
+          "hindiPronunciation": "सेपरेट",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        },
+        {
+          "word": "Divide",
+          "gujaratiPronunciation": "ડિવાઇડ",
+          "hindiPronunciation": "डिवाइड",
+          "gujaratiMeaning": "વિભાજીત કરવું",
+          "hindiMeaning": "विभाजित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Joint",
+          "gujaratiPronunciation": "જોઇન્ટ",
+          "hindiPronunciation": "जॉइंट",
+          "gujaratiMeaning": "સાંધો",
+          "hindiMeaning": "जोड़"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He will join the army next year.",
+          "gujaratiPronunciation": "હી વિલ જોઇન ધ આર્મી નેક્સ્ટ યર.",
+          "hindiPronunciation": "ही विल जॉइन द आर्मी नेक्स्ट ईयर।",
+          "gujaratiTranslation": "તે આવતા વર્ષે સેનામાં જોડાશે.",
+          "hindiTranslation": "वह अगले साल सेना में शामिल होगा।"
+        }
+      ]
+    },
+    {
+      "word": "Drill",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "કાણું પાડવું",
+      "hindiMeaning": "छेद करना",
+      "gujaratiPronunciation": "ડ્રિલ",
+      "hindiPronunciation": "ड्रिल",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Drill",
+          "gujaratiPronunciation": "ડ્રિલ",
+          "hindiPronunciation": "ड्रिल",
+          "gujaratiMeaning": "કાણું પાડવું",
+          "hindiMeaning": "छेद करना"
+        },
+        "V2 (Past)": {
+          "word": "Drilled",
+          "gujaratiPronunciation": "ડ્રિલ્ડ",
+          "hindiPronunciation": "ड्रिल्ड",
+          "gujaratiMeaning": "કાણું પાડ્યું",
+          "hindiMeaning": "छेद किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Drilled",
+          "gujaratiPronunciation": "ડ્રિલ્ડ",
+          "hindiPronunciation": "ड्रिल्ड",
+          "gujaratiMeaning": "કાણું પાડેલું",
+          "hindiMeaning": "छेद किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Drilling",
+          "gujaratiPronunciation": "ડ્રિલિંગ",
+          "hindiPronunciation": "ड्रिलिंग",
+          "gujaratiMeaning": "કાણું પાડી રહ્યું",
+          "hindiMeaning": "छेद कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Bore",
+          "gujaratiPronunciation": "બોર",
+          "hindiPronunciation": "बोर",
+          "gujaratiMeaning": "વિંધવું",
+          "hindiMeaning": "छेदना"
+        },
+        {
+          "word": "Perforate",
+          "gujaratiPronunciation": "પરફોરેટ",
+          "hindiPronunciation": "परफोरेट",
+          "gujaratiMeaning": "છિદ્ર પાડવું",
+          "hindiMeaning": "छिद्रित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Fill",
+          "gujaratiPronunciation": "ફિલ",
+          "hindiPronunciation": "फिल",
+          "gujaratiMeaning": "ભરવું",
+          "hindiMeaning": "भरना"
+        },
+        {
+          "word": "Seal",
+          "gujaratiPronunciation": "સીલ",
+          "hindiPronunciation": "सील",
+          "gujaratiMeaning": "બંધ કરવું",
+          "hindiMeaning": "सील करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Thrill",
+          "gujaratiPronunciation": "થ્રિલ",
+          "hindiPronunciation": "थ्रिल",
+          "gujaratiMeaning": "રોમાંચ",
+          "hindiMeaning": "रोमांच"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to drill a hole in the wall.",
+          "gujaratiPronunciation": "યુ નીડ ટુ ડ્રિલ અ હોલ ઇન ધ વૉલ.",
+          "hindiPronunciation": "यू नीड टू ड्रिल अ होल इन द वॉल।",
+          "gujaratiTranslation": "તમારે દીવાલમાં એક કાણું પાડવાની જરૂર છે.",
+          "hindiTranslation": "आपको दीवार में एक छेद करने की ज़रूरत है।"
+        }
+      ]
+    },
+    {
+      "word": "Saw",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "કરવતથી કાપવું",
+      "hindiMeaning": "आरी से काटना",
+      "gujaratiPronunciation": "સો",
+      "hindiPronunciation": "सॉ",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Saw",
+          "gujaratiPronunciation": "સો",
+          "hindiPronunciation": "सॉ",
+          "gujaratiMeaning": "કરવતથી કાપવું",
+          "hindiMeaning": "आरी से काटना"
+        },
+        "V2 (Past)": {
+          "word": "Sawed",
+          "gujaratiPronunciation": "સોડ",
+          "hindiPronunciation": "सॉड",
+          "gujaratiMeaning": "કરવતથી કાપ્યું",
+          "hindiMeaning": "आरी से काटा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Sawn / Sawed",
+          "gujaratiPronunciation": "સોન / સોડ",
+          "hindiPronunciation": "सॉन / सॉड",
+          "gujaratiMeaning": "કરવતથી કાપેલું",
+          "hindiMeaning": "आरी से काटा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Sawing",
+          "gujaratiPronunciation": "સોિંગ",
+          "hindiPronunciation": "सॉिंग",
+          "gujaratiMeaning": "કરવતથી કાપી રહ્યું",
+          "hindiMeaning": "आरी से काट रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Cut",
+          "gujaratiPronunciation": "કટ",
+          "hindiPronunciation": "कट",
+          "gujaratiMeaning": "કાપવું",
+          "hindiMeaning": "काटना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Join",
+          "gujaratiPronunciation": "જોઇન",
+          "hindiPronunciation": "जॉइन",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sow",
+          "gujaratiPronunciation": "સો",
+          "hindiPronunciation": "सो",
+          "gujaratiMeaning": "વાવવું",
+          "hindiMeaning": "बोना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The carpenter will saw the wood into planks.",
+          "gujaratiPronunciation": "ધ કારપેન્ટર વિલ સો ધ વુડ ઇంటు પ્લેંક્સ.",
+          "hindiPronunciation": "द कारपेंटर विल सॉ द वुड इनटू प्लैंक्स।",
+          "gujaratiTranslation": "સુથાર લાકડાને પાટિયામાં કાપશે.",
+          "hindiTranslation": "बढ़ई लकड़ी को तख्तों में काटेगा।"
+        }
+      ]
+    }
+  ]
+}

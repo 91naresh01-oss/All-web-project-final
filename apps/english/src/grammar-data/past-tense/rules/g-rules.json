@@ -1,0 +1,610 @@
+{
+  "id": "past-tense-gu",
+  "title": "Past Tense (ભૂતકાળ)",
+  "description": "Comprehensive guide to all forms of Past Tense with detailed rules, examples, and exceptions.",
+  "content": [
+    {
+      "type": "section",
+      "title": "1. Simple Past Tense (સાદો ભૂતકાળ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Used for actions that happened and finished in the past.<br>ભૂતકાળમાં પૂરી થયેલી ક્રિયાઓ, ઐતિહાસિક ઘટનાઓ કે ભૂતકાળની ટેવો દર્શાવવા માટે વપરાય છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "વાક્ય રચના (Structure)",
+            "headers": [
+              "પ્રકાર",
+              "ફોર્મ્યુલા",
+              "ઉદાહરણ"
+            ],
+            "rows": [
+              [
+                "હકાર (+)",
+                "Subject + V2 + Object",
+                "He **played** cricket yesterday."
+              ],
+              [
+                "નકાર (-)",
+                "Subject + did not + V1 + Object",
+                "He **did not play** cricket."
+              ],
+              [
+                "પ્રશ્નાર્થ (?)",
+                "Did + Subject + V1 + Object?",
+                "**Did** he **play** cricket?"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "section",
+          "title": "Rules for 'V2' (Regular Verbs - ed rules)",
+          "content": [
+            {
+              "type": "note",
+              "content": "સામાન્ય રીતે ક્રિયાપદને **'ed'** લગાડવાથી તેનું ભૂતકાળનું રૂપ (V2) બને છે, પણ તેના કેટલાક નિયમો છે."
+            },
+            {
+              "type": "table",
+              "content": {
+                "title": "ED Rules",
+                "headers": [
+                  "Rule (નિયમ)",
+                  "Condition (શરત)",
+                  "Example (ઉદાહરણ)"
+                ],
+                "rows": [
+                  [
+                    "Add '-ed'",
+                    "Most verbs",
+                    "play → play**ed**, visit → visit**ed**, work → work**ed**"
+                  ],
+                  [
+                    "Add '-d'",
+                    "If verb ends in **'e'**",
+                    "like → like**d**, love → love**d**, use → use**d**"
+                  ],
+                  [
+                    "Change 'y' to 'ied'",
+                    "If ends in **consonant + y**",
+                    "cry → cr**ied**, try → tr**ied**, study → stud**ied**"
+                  ],
+                  [
+                    "Double consonant + 'ed'",
+                    "CVC rule (Stop, Plan)",
+                    "stop → stop**ped**, plan → plan**ned**, admit → admit**ted**"
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": "<b>Irregular Verbs (અનિયમિત રૂપો):</b><br>ગોખવા પડે તેવા રૂપો: Go → Went, Eat → Ate, Buy → Bought, Sing → Sang, See → Saw, Write → Wrote."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Key Words (ઓળખસૂચક શબ્દો)",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": "Yesterday, Last week/month/year/Sunday, Ago, Once, In the past, In 2010, Long long ago, Just now."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": "More Examples (વધુ ઉદાહરણો)",
+          "content": [
+            {
+              "text": "1. I visited the zoo yesterday.",
+              "translation": "(મેં ગઈકાલે પ્રાણીસંગ્રહાલયની મુલાકાત લીધી.)"
+            },
+            {
+              "text": "2. She cooked delicious food.",
+              "translation": "(તેણીએ સ્વાદિષ્ટ ભોજન રાંધ્યું.)"
+            },
+            {
+              "text": "3. We did not go to school last Monday.",
+              "translation": "(અમે ગયા સોમવારે શાળાએ ગયા ન હતા.)"
+            },
+            {
+              "text": "4. Did you see the Taj Mahal?",
+              "translation": "(શું તમે તાજમહેલ જોયો?)"
+            },
+            {
+              "text": "5. India won the match.",
+              "translation": "(ભારત મેચ જીત્યું.)"
+            },
+            {
+              "text": "6. Gandhiji was born in 1869.",
+              "translation": "(ગાંધીજીનો જન્મ 1869માં થયો હતો.)"
+            },
+            {
+              "text": "7. He lived in London for 5 years.",
+              "translation": "(તે 5 વર્ષ લંડનમાં રહ્યો હતો.)"
+            },
+            {
+              "text": "8. They bought a new car.",
+              "translation": "(તેઓએ નવી કાર ખરીદી.)"
+            },
+            {
+              "text": "9. Did he help you?",
+              "translation": "(શું તેણે તને મદદ કરી?)"
+            },
+            {
+              "text": "10. I met him two days ago.",
+              "translation": "(હું તેને બે દિવસ પહેલા મળ્યો.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "2. Past Continuous Tense (ચાલુ ભૂતકાળ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Used for actions that were happening at a specific time in the past.<br>ભૂતકાળમાં અમુક સમયે કોઈ ક્રિયા ચાલી રહી હતી તે દર્શાવવા વપરાય છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "વાક્ય રચના (Structure)",
+            "headers": [
+              "પ્રકાર",
+              "ફોર્મ્યુલા",
+              "ઉદાહરણ"
+            ],
+            "rows": [
+              [
+                "હકાર (+)",
+                "Sub + was/were + V-ing",
+                "She **was reading**."
+              ],
+              [
+                "નકાર (-)",
+                "Sub + was/were + not + V-ing",
+                "She **was not reading**."
+              ],
+              [
+                "પ્રશ્નાર્થ (?)",
+                "Was/Were + Sub + V-ing?",
+                "**Was** she **reading**?"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "section",
+          "title": "Was / Were Rules",
+          "content": [
+            {
+              "type": "table",
+              "content": {
+                "title": "To Be (Past)",
+                "headers": [
+                  "Subject",
+                  "Verb"
+                ],
+                "rows": [
+                  [
+                    "I, He, She, It, Singular Name",
+                    "was"
+                  ],
+                  [
+                    "We, You, They, Plural Names",
+                    "were"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "title": "Key Words",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": "While, When, At that time, At that moment, All day yesterday, Then."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": "More Examples (વધુ ઉદાહરણો)",
+          "content": [
+            {
+              "text": "1. I was watching TV at 8 PM.",
+              "translation": "(હું રાત્રે 8 વાગ્યે ટીવી જોઈ રહ્યો હતો.)"
+            },
+            {
+              "text": "2. Birds were flying in the sky.",
+              "translation": "(પક્ષીઓ આકાશમાં ઉડી રહ્યા હતા.)"
+            },
+            {
+              "text": "3. While I was reading, she was cooking.",
+              "translation": "(જ્યારે હું વાંચી રહ્યો હતો, ત્યારે તેણી રસોઈ કરી રહી હતી.)"
+            },
+            {
+              "text": "4. They were not playing cricket.",
+              "translation": "(તેઓ ક્રિકેટ રમી રહ્યા ન હતા.)"
+            },
+            {
+              "text": "5. Were you sleeping when I called?",
+              "translation": "(શું હું ફોન કર્યો ત્યારે તમે સૂતા હતા?)"
+            },
+            {
+              "text": "6. The teacher was teaching English.",
+              "translation": "(શિક્ષક અંગ્રેજી ભણાવી રહ્યા હતા.)"
+            },
+            {
+              "text": "7. It was raining heavily yesterday.",
+              "translation": "(ગઈકાલે ભારે વરસાદ પડી રહ્યો હતો.)"
+            },
+            {
+              "text": "8. We were waiting for the bus.",
+              "translation": "(અમે બસની રાહ જોઈ રહ્યા હતા.)"
+            },
+            {
+              "text": "9. Why were you laughing?",
+              "translation": "(તમે શા માટે હસી રહ્યા હતા?)"
+            },
+            {
+              "text": "10. He was walking in the garden.",
+              "translation": "(તે બગીચામાં ચાલી રહ્યો હતો.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "3. Past Perfect Tense (પૂર્ણ ભૂતકાળ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Used for actions completed before another action in the past.<br>ભૂતકાળમાં બનેલી બે ક્રિયાઓમાંથી જે ક્રિયા **પહેલા** પૂરી થઈ હોય તેના માટે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "વાક્ય રચના (Structure)",
+            "headers": [
+              "પ્રકાર",
+              "ફોર્મ્યુલા",
+              "ઉદાહરણ"
+            ],
+            "rows": [
+              [
+                "હકાર (+)",
+                "Sub + had + V3",
+                "I **had finished** work."
+              ],
+              [
+                "નકાર (-)",
+                "Sub + had + not + V3",
+                "I **had not finished**."
+              ],
+              [
+                "પ્રશ્નાર્થ (?)",
+                "Had + Sub + V3?",
+                "**Had** you **finished**?"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Before & After Rule:</b><br>• 1st Action (પહેલા બનેલી) → <b>Past Perfect (Had + V3)</b><br>• 2nd Action (પછી બનેલી) → <b>Simple Past (V2)</b>"
+        },
+        {
+          "type": "section",
+          "title": "Key Words",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": "Before, After, When, Already, By the time, Till, Until."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": "More Examples (વધુ ઉદાહરણો)",
+          "content": [
+            {
+              "text": "1. The train had left before we reached the station.",
+              "translation": "(અમે સ્ટેશને પહોંચ્યા તે પહેલાં ટ્રેન ઉપડી ગઈ હતી.)"
+            },
+            {
+              "text": "2. I had already finished my homework.",
+              "translation": "(મેં પહેલેથી જ મારું હોમવર્ક પૂરું કરી લીધું હતું.)"
+            },
+            {
+              "text": "3. The patient had died before the doctor came.",
+              "translation": "(ડોક્ટર આવ્યા તે પહેલાં દર્દી મૃત્યુ પામ્યો હતો.)"
+            },
+            {
+              "text": "4. She did not eat because she had already eaten.",
+              "translation": "(તેણીએ ખાધું નહીં કારણ કે તેણી પહેલેથી જ જમી લીધું હતું.)"
+            },
+            {
+              "text": "5. Had you seen him before?",
+              "translation": "(શું તમે તેને પહેલા જોયો હતો?)"
+            },
+            {
+              "text": "6. After they had gone, I sat down.",
+              "translation": "(તેઓ ગયા પછી, હું નીચે બેઠો.)"
+            },
+            {
+              "text": "7. We reached the cinema after the movie had started.",
+              "translation": "(ફિલ્મ શરૂ થઈ ગયા પછી અમે સિનેમા પહોંચ્યા.)"
+            },
+            {
+              "text": "8. He realized that he had lost his wallet.",
+              "translation": "(તેને ખ્યાલ આવ્યો કે તેણે તેનું પાકીટ ગુમાવી દીધું હતું.)"
+            },
+            {
+              "text": "9. I had never visited such a beautiful place.",
+              "translation": "(મેં ક્યારેય એટલી સુંદર જગ્યા જોઈ ન હતી.)"
+            },
+            {
+              "text": "10. By the time I arrived, the party had ended.",
+              "translation": "(હું પહોંચ્યો ત્યાં સુધીમાં પાર્ટી પૂરી થઈ ગઈ હતી.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "4. Past Perfect Continuous Tense (ચાલુ પૂર્ણ ભૂતકાળ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Used for actions that started in the past and continued for some time in the past.<br>ભૂતકાળમાં શરૂ થઈને ભૂતકાળમાં જ અમુક સમય સુધી ચાલેલી ક્રિયા."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "વાક્ય રચના (Structure)",
+            "headers": [
+              "પ્રકાર",
+              "ફોર્મ્યુલા",
+              "ઉદાહરણ"
+            ],
+            "rows": [
+              [
+                "હકાર (+)",
+                "Sub + had been + V-ing",
+                "It **had been raining**."
+              ],
+              [
+                "નકાર (-)",
+                "Sub + had not been + V-ing",
+                "It **had not been raining**."
+              ],
+              [
+                "પ્રશ્નાર્થ (?)",
+                "Had + Sub + been + V-ing?",
+                "**Had** it **been raining**?"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "section",
+          "title": "Key Words",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": "Since, For, How long, Before, When."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "title": "More Examples (વધુ ઉદાહરણો)",
+          "content": [
+            {
+              "text": "1. He had been working there for 10 years.",
+              "translation": "(તે ત્યાં 10 વર્ષથી કામ કરી રહ્યો હતો.)"
+            },
+            {
+              "text": "2. It had been raining since morning.",
+              "translation": "(સવારથી વરસાદ પડી રહ્યો હતો.)"
+            },
+            {
+              "text": "3. They had been playing cricket for 2 hours.",
+              "translation": "(તેઓ 2 કલાકથી ક્રિકેટ રમી રહ્યા હતા.)"
+            },
+            {
+              "text": "4. I had been waiting for you since 4 PM.",
+              "translation": "(હું સાંજે 4 વાગ્યાથી તારી રાહ જોઈ રહ્યો હતો.)"
+            },
+            {
+              "text": "5. She was tired because she had been running.",
+              "translation": "(તેણી થાકી ગઈ હતી કારણ કે તેણી દોડી રહી હતી.)"
+            },
+            {
+              "text": "6. Had you been waiting long?",
+              "translation": "(શું તમે લાંબા સમયથી રાહ જોઈ રહ્યા હતા?)"
+            },
+            {
+              "text": "7. The child had been crying for an hour.",
+              "translation": "(બાળક એક કલાકથી રડી રહ્યું હતું.)"
+            },
+            {
+              "text": "8. We had been living in that house since 2005.",
+              "translation": "(અમે 2005 થી તે ઘરમાં રહેતા હતા.)"
+            },
+            {
+              "text": "9. Why had you been crying?",
+              "translation": "(તમે શા માટે રડી રહ્યા હતા?)"
+            },
+            {
+              "text": "10. He had been trying to fix the car all day.",
+              "translation": "(તે આખો દિવસ કાર રિપેર કરવાનો પ્રયાસ કરી રહ્યો હતો.)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary_table": {
+    "title": "Past Tense Summary (ભૂતકાળ સારાંશ)",
+    "headers": [
+      "Tense (કાળ)",
+      "When Used (ક્યારે વપરાય?)",
+      "Key Words (શબ્દો)",
+      "Example (ઉદાહરણ)"
+    ],
+    "rows": [
+      {
+        "tense_name": "Simple Past (સાદો ભૂતકાળ)",
+        "usage": "ભૂતકાળમાં પૂરી થયેલી ક્રિયાઓ કે ઐતિહાસિક ઘટનાઓ માટે.",
+        "keywords": "Yesterday, Last week, Ago",
+        "example": "I played cricket. (મેં ક્રિકેટ રમ્યું.)"
+      },
+      {
+        "tense_name": "Past Continuous (ચાલુ ભૂતકાળ)",
+        "usage": "ભૂતકાળમાં અમુક સમયે ક્રિયા ચાલુ હતી તે દર્શાવવા.",
+        "keywords": "While, When, At that time",
+        "example": "I was playing cricket. (હું ક્રિકેટ રમી રહ્યો હતો.)"
+      },
+      {
+        "tense_name": "Past Perfect (પૂર્ણ ભૂતકાળ)",
+        "usage": "ભૂતકાળમાં અન્ય ક્રિયા પહેલા પૂરી થયેલી ક્રિયા માટે.",
+        "keywords": "Before, After, Already",
+        "example": "I had played cricket. (મેં ક્રિકેટ રમી લીધું હતું.)"
+      },
+      {
+        "tense_name": "Past Perfect Continuous (ચાલુ પૂર્ણ ભૂતકાળ)",
+        "usage": "ભૂતકાળમાં શરૂ થઈ અમુક સમય સુધી ચાલેલી ક્રિયા માટે.",
+        "keywords": "Since, For",
+        "example": "I had been playing for 2 hours. (હું 2 કલાકથી રમી રહ્યો હતો.)"
+      }
+    ]
+  },
+  "confusion_section": {
+    "title": "Common Confusions (સામાન્ય મૂંઝવણ)",
+    "items": [
+      {
+        "title": "Simple Past vs Present Perfect",
+        "comparison": [
+          {
+            "tense": "Simple Past",
+            "note": "ક્રિયા પૂરી થઈ ગઈ છે અને તેનો સમય પણ વીતી ગયો છે. (Yesterday, Last year)",
+            "example": "I visited Taj Mahal last year. (ગયા વર્ષે મુલાકાત લીધી)"
+          },
+          {
+            "tense": "Present Perfect",
+            "note": "ક્રિયા પૂરી થઈ છે પણ તેની અસર કે સમય હજુ ચાલુ છે. (Just now, Yet)",
+            "example": "I have visited Taj Mahal. (મેં તાજમહેલ જોયો છે - અનુભવ સાથે છે)"
+          }
+        ],
+        "extra_examples": [
+          {
+            "sentence": "I saw him yesterday. (મેં તેને ગઈકાલે જોયો)",
+            "explanation": "Simple Past: Specific past time (yesterday) is given."
+          },
+          {
+            "sentence": "I have seen him recently. (મેં તેને તાજેતરમાં જોયો છે)",
+            "explanation": "Present Perfect: Time is not specific, effect is present. (સમય ચોક્કસ નથી, અસર ચાલુ છે)"
+          },
+          {
+            "sentence": "She lived in India in 2010. (તેણી 2010 માં ભારતમાં રહેતી હતી)",
+            "explanation": "Simple Past: Period is over. (સમયગાળો પૂરો થઈ ગયો છે)"
+          },
+          {
+            "sentence": "She has lived in India for 10 years. (તેણી 10 વર્ષથી ભારતમાં રહે છે)",
+            "explanation": "Present Perfect: Still living or life experience. (હજુ પણ રહે છે / અનુભવ)"
+          },
+          {
+            "sentence": "Did you lock the door? (શું તમે દરવાજો બંધ કર્યો?)",
+            "explanation": "Simple Past: Focus on the action. (ક્રિયા પર ધ્યાન)"
+          }
+        ]
+      },
+      {
+        "title": "Sequence: Past Perfect + Simple Past (Before/After)",
+        "comparison": [
+          {
+            "tense": "Past Perfect (1st Action)",
+            "note": "ભૂતકાળમાં બે ક્રિયામાંથી જે ક્રિયા **પહેલા** પૂરી થઈ હોય.",
+            "example": "The train **had left** before I reached. (હું પહોંચ્યો તે પહેલા ટ્રેન જતી રહી હતી)"
+          },
+          {
+            "tense": "Simple Past (2nd Action)",
+            "note": "લાંબી ક્રિયા જે ચાલુ હતી.",
+            "example": "I **was reading** when he came. (જ્યારે તે આવ્યો ત્યારે હું વાંચતો હતો)"
+          },
+          {
+            "tense": "Simple Past (Short Action)",
+            "explanation": "Present Perfect: Time is not specific, effect is present. (સમય ચોક્કસ નથી, અસર ચાલુ છે)"
+          },
+          {
+            "sentence": "She lived in India in 2010. (તેણી 2010 માં ભારતમાં રહેતી હતી)",
+            "explanation": "Simple Past: Period is over. (સમયગાળો પૂરો થઈ ગયો છે)"
+          },
+          {
+            "sentence": "She has lived in India for 10 years. (તેણી 10 વર્ષથી ભારતમાં રહે છે)",
+            "explanation": "Present Perfect: Still living or life experience. (હજુ પણ રહે છે / અનુભવ)"
+          },
+          {
+            "sentence": "Did you lock the door? (શું તમે દરવાજો બંધ કર્યો?)",
+            "explanation": "Simple Past: Focus on the action. (ક્રિયા પર ધ્યાન)"
+          }
+        ]
+      },
+      {
+        "title": "Sequence: Past Perfect + Simple Past (Before/After)",
+        "comparison": [
+          {
+            "tense": "Past Perfect (1st Action)",
+            "note": "ભૂતકાળમાં બે ક્રિયામાંથી જે ક્રિયા **પહેલા** પૂરી થઈ હોય.",
+            "example": "The train **had left** before I reached. (હું પહોંચ્યો તે પહેલા ટ્રેન જતી રહી હતી)"
+          },
+          {
+            "tense": "Simple Past (2nd Action)",
+            "note": "લાંબી ક્રિયા જે ચાલુ હતી.",
+            "example": "I **was reading** when he came. (જ્યારે તે આવ્યો ત્યારે હું વાંચતો હતો)"
+          },
+          {
+            "tense": "Simple Past (Short Action)",
+            "note": "ટૂંકી ક્રિયા જે વચ્ચે બની (Interruption).",
+            "example": "He **came**. (તે આવ્યો)"
+          }
+        ],
+        "extra_examples": [
+          {
+            "sentence": "I was sleeping when the phone rang. (જ્યારે ફોન રણક્યો ત્યારે હું સૂતો હતો)",
+            "explanation": "Long action interrupted by short action. (લાંબી ક્રિયામાં વિક્ષેપ પડ્યો)"
+          },
+          {
+            "sentence": "The lights went out while we were studying. (અમે ભણતા હતા ત્યારે લાઈટ જતી રહી)",
+            "explanation": "Studying was in progress. (ભણવાની ક્રિયા ચાલુ હતી)"
+          },
+          {
+            "sentence": "He fell down while he was running. (તે દોડતો હતો ત્યારે પડી ગયો)",
+            "explanation": "Running (Long) -> Fell (Short). (દોડતી વખતે પડી ગયો)"
+          },
+          {
+            "sentence": "What were you doing when I called? (જ્યારે મેં ફોન કર્યો ત્યારે તમે શું કરતા હતા?)",
+            "explanation": "Asking about continuous action. (ચાલુ ક્રિયા વિશે પ્રશ્ન)"
+          },
+          {
+            "sentence": "I saw him while I was waiting for the bus. (બસની રાહ જોતા મેં તેને જોયો)",
+            "explanation": "Waiting (Continuous) context. (રાહ જોવાની ક્રિયા દરમિયાન)"
+          }
+        ]
+      }
+    ]
+  }
+}

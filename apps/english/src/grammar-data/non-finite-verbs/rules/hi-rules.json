@@ -1,0 +1,190 @@
+{
+    "id": "non-finite-verbs-h",
+    "title": "Non-finite Verbs (अक्रियापद क्रियापद)",
+    "description": "Non-finite Verbs क्रिया के ऐसे रूप हैं जो वाक्य के मुख्य क्रियापद के रूप में कार्य नहीं करते और काल या वचन से बंधे नहीं होते।",
+    "content": [
+        {
+            "type": "heading",
+            "content": "Non-finite Verbs के प्रकार"
+        },
+        {
+            "type": "list",
+            "content": [
+                "<b>The Infinitive (To + V1):</b> क्रिया का 'to' वाला रूप।",
+                "<b>The Bare Infinitive (V1):</b> 'to' के बिना मूल रूप।",
+                "<b>The Gerund (V-ing):</b> क्रियावाचक संज्ञा (Noun).",
+                "<b>The Participle (V-ing / V3):</b> विशेषण के रूप में।"
+            ]
+        },
+        {
+            "type": "section",
+            "title": "1. The Infinitive (To + V1)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Infinitive क्रिया का वह रूप है जो सामान्यतः 'to' के साथ आता है। यह वाक्य में संज्ञा, विशेषण या उद्देश्य (Purpose) के रूप में कार्य कर सकता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Common Uses",
+                        "headers": [
+                            "उपयोग",
+                            "उदाहरण (Example)"
+                        ],
+                        "rows": [
+                            [
+                                "Subject के रूप में",
+                                "<b>To find</b> fault is easy."
+                            ],
+                            [
+                                "Object के रूप में",
+                                "Birds love <b>to sing</b>."
+                            ],
+                            [
+                                "Purpose (उद्देश्य)",
+                                "We eat <b>to live</b>."
+                            ],
+                            [
+                                "Adjective के बाद",
+                                "I am <b>glad to meet</b> you."
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Verbs followed by 'to' (इन क्रियाओं के बाद 'to' आता है)",
+                        "headers": [
+                            "Verb List",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Agree, Appear, Attempt, Arrange</b>",
+                                "He <b>agreed to help</b> me."
+                            ],
+                            [
+                                "<b>Decide, Expect, Fail, Forget</b>",
+                                "Don't <b>forget to lock</b> the door."
+                            ],
+                            [
+                                "<b>Hope, Learn, Manage, Offer</b>",
+                                "I <b>hope to see</b> you soon."
+                            ],
+                            [
+                                "<b>Plan, Promise, Refuse, Want</b>",
+                                "He <b>promised to come</b>."
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Adjective + Infinitive",
+                        "headers": [
+                            "Adjective",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Happy, Glad, Please",
+                                "I am <b>happy to help</b> you."
+                            ],
+                            [
+                                "Easy, Hard, Difficult",
+                                "It is <b>easy to learn</b> English."
+                            ],
+                            [
+                                "Eager, Anxious, Ready",
+                                "He is <b>ready to go</b>."
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2. Bare Infinitive ('to' के बिना रूप)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "कुछ विशेष शब्दों और Modals के बाद क्रिया के आगे 'to' नहीं लगता।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Rules for Bare Infinitive",
+                        "headers": [
+                            "Rule",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Modals (Can, Could, Will, Should, Must)",
+                                "You <b>can go</b>. (Not: to go)"
+                            ],
+                            [
+                                "Let, Bid, Make",
+                                "<b>Let</b> him <b>play</b>. (उसे खेलने दो।)"
+                            ],
+                            [
+                                "See, Hear, Feel, Watch, Notice",
+                                "I <b>saw</b> him <b>run</b>. (मैंने उसे दौड़ते हुए देखा।)"
+                            ],
+                            [
+                                "Had better, Would rather",
+                                "You <b>had better go</b> now."
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Note:</b> Passive Voice में 'Make', 'See', 'Hear' आदि के साथ 'to' का उपयोग होता है। (Except 'Let')<br>Example: He was <b>made to laugh</b>."
+                },
+                {
+                    "type": "paragraph",
+                    "content": "<b>Why / Why not:</b> प्रश्न पूछने के लिए भी Bare Infinitive का उपयोग होता है।<br>Example: <b>Why worry</b> about money?"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3. The Gerund (V-ing as Noun)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Gerund क्रिया का '-ing' वाला रूप है जो वाक्य में <b>संज्ञा (Noun)</b> के रूप में कार्य करता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Examples",
+                        "headers": [
+                            "Use",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Subject के रूप में",
+                                "<b>Swimming</b> is good exercise."
+                            ],
+                            [
+                                "Object के रूप में",
+                                "I enjoy <b>reading</b>."
+                            ],
+                            [
+                                "Preposition के बाद (After 'of', 'for', 'at')",
+                                "He is fond <b>of playing</b> cricket."
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

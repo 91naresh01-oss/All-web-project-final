@@ -1,0 +1,461 @@
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Draw",
+            "gujaratiPronunciation": "ડ્રો",
+            "hindiPronunciation": "ड्रॉ",
+            "gujaratiMeaning": "દોરવું",
+            "hindiMeaning": "खींचना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Draw",
+                    "gujaratiPronunciation": "ડ્રો",
+                    "hindiPronunciation": "ड्रॉ",
+                    "gujaratiMeaning": "દોરવું",
+                    "hindiMeaning": "खींचना"
+                },
+                "V2 (Past)": {
+                    "word": "Drew",
+                    "gujaratiPronunciation": "ડ્રૂ",
+                    "hindiPronunciation": "ड्रू",
+                    "gujaratiMeaning": "દોર્યું",
+                    "hindiMeaning": "खींचा"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Drawn",
+                    "gujaratiPronunciation": "ડ્રોન",
+                    "hindiPronunciation": "ड्रॉन",
+                    "gujaratiMeaning": "દોરેલું",
+                    "hindiMeaning": "खींचा हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Drawing",
+                    "gujaratiPronunciation": "ડ્રોઇંગ",
+                    "hindiPronunciation": "ड्रॉइंग",
+                    "gujaratiMeaning": "દોરી રહ્યું છે",
+                    "hindiMeaning": "खींच रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Sketch",
+                    "gujaratiPronunciation": "સ્કેચ",
+                    "hindiPronunciation": "स्केच",
+                    "gujaratiMeaning": "રેખાચિત્ર",
+                    "hindiMeaning": "रेखाचित्र बनाना"
+                },
+                {
+                    "word": "Outline",
+                    "gujaratiPronunciation": "આઉટલાઇન",
+                    "hindiPronunciation": "आउटलाइन",
+                    "gujaratiMeaning": "રૂપરેખા",
+                    "hindiMeaning": "रूपरेखा बनाना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Erase",
+                    "gujaratiPronunciation": "ઇરેઝ",
+                    "hindiPronunciation": "इरेज़",
+                    "gujaratiMeaning": "ભૂંસવું",
+                    "hindiMeaning": "मिटाना"
+                },
+                {
+                    "word": "Fill",
+                    "gujaratiPronunciation": "ફિલ",
+                    "hindiPronunciation": "फिल",
+                    "gujaratiMeaning": "ભરવું",
+                    "hindiMeaning": "भरना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Draw",
+                    "gujaratiMeaning": "ચિત્ર દોરવું",
+                    "hindiMeaning": "चित्र बनाना"
+                },
+                {
+                    "word": "Drawer",
+                    "gujaratiMeaning": "ખાનું",
+                    "hindiMeaning": "दराज"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She likes to draw pictures of animals.",
+                    "gujaratiPronunciation": "શી લાઇક્સ ટુ ડ્રો પિક્ચર્સ ઓફ એનિમલ્સ.",
+                    "hindiPronunciation": "शी लाइक्स टू ड्रॉ पिक्चर्स ऑफ एनिमल्स।",
+                    "gujaratiTranslation": "તેને પ્રાણીઓના ચિત્રો દોરવા ગમે છે.",
+                    "hindiTranslation": "उसे जानवरों के चित्र बनाना पसंद है।"
+                }
+            ]
+        },
+        {
+            "word": "Paint",
+            "gujaratiPronunciation": "પેઇન્ટ",
+            "hindiPronunciation": "पेंट",
+            "gujaratiMeaning": "રંગવું",
+            "hindiMeaning": "रंगना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Paint",
+                    "gujaratiPronunciation": "પેઇન્ટ",
+                    "hindiPronunciation": "पेंट",
+                    "gujaratiMeaning": "રંગવું",
+                    "hindiMeaning": "रंगना"
+                },
+                "V2 (Past)": {
+                    "word": "Painted",
+                    "gujaratiPronunciation": "પેઇન્ટેડ",
+                    "hindiPronunciation": "पेंटेड",
+                    "gujaratiMeaning": "રંગ્યું",
+                    "hindiMeaning": "रंगा"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Painted",
+                    "gujaratiPronunciation": "પેઇન્ટેડ",
+                    "hindiPronunciation": "पेंटेड",
+                    "gujaratiMeaning": "રંગેલું",
+                    "hindiMeaning": "रंगा हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Painting",
+                    "gujaratiPronunciation": "પેઇન્ટિંગ",
+                    "hindiPronunciation": "पेंटिंग",
+                    "gujaratiMeaning": "રંગી રહ્યું છે",
+                    "hindiMeaning": "रंग रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Color",
+                    "gujaratiPronunciation": "કલર",
+                    "hindiPronunciation": "कलर",
+                    "gujaratiMeaning": "રંગ પૂરવો",
+                    "hindiMeaning": "रंग भरना"
+                },
+                {
+                    "word": "Coat",
+                    "gujaratiPronunciation": "કોટ",
+                    "hindiPronunciation": "कोट",
+                    "gujaratiMeaning": "પડ ચડાવવો",
+                    "hindiMeaning": "लेप लगाना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Strip",
+                    "gujaratiPronunciation": "સ્ટ્રીપ",
+                    "hindiPronunciation": "स्ट्रिप",
+                    "gujaratiMeaning": "રંગ ઉખાડવો",
+                    "hindiMeaning": "रंग उतारना"
+                },
+                {
+                    "word": "Clean",
+                    "gujaratiPronunciation": "ક્લીન",
+                    "hindiPronunciation": "क्लीन",
+                    "gujaratiMeaning": "સાફ કરવું",
+                    "hindiMeaning": "साफ़ करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Paint",
+                    "gujaratiMeaning": "રંગ",
+                    "hindiMeaning": "रंग"
+                },
+                {
+                    "word": "Faint",
+                    "gujaratiMeaning": "બેહોશ થવું/આછો",
+                    "hindiMeaning": "बेहोश होना/हल्का"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He decided to paint the walls blue.",
+                    "gujaratiPronunciation": "હી ડિસાઇડેડ ટુ પેઇન્ટ ધ વોલ્સ બ્લુ.",
+                    "hindiPronunciation": "ही डिसाइडेड टू पेंट द वॉल्स ब्लू।",
+                    "gujaratiTranslation": "તેણે દીવાલોને વાદળી રંગવાનું નક્કી કર્યું.",
+                    "hindiTranslation": "उसने दीवारों को नीला रंगने का फैसला किया।"
+                }
+            ]
+        },
+        {
+            "word": "Sing",
+            "gujaratiPronunciation": "સિંગ",
+            "hindiPronunciation": "सिंग",
+            "gujaratiMeaning": "ગાવું",
+            "hindiMeaning": "गाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Sing",
+                    "gujaratiPronunciation": "સિંગ",
+                    "hindiPronunciation": "सिंग",
+                    "gujaratiMeaning": "ગાવું",
+                    "hindiMeaning": "गाना"
+                },
+                "V2 (Past)": {
+                    "word": "Sang",
+                    "gujaratiPronunciation": "સેંગ",
+                    "hindiPronunciation": "सैंग",
+                    "gujaratiMeaning": "ગાયું",
+                    "hindiMeaning": "गाया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Sung",
+                    "gujaratiPronunciation": "સંગ",
+                    "hindiPronunciation": "संग",
+                    "gujaratiMeaning": "ગાયેલું",
+                    "hindiMeaning": "गाया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Singing",
+                    "gujaratiPronunciation": "સિંગિંગ",
+                    "hindiPronunciation": " सिंगिंग",
+                    "gujaratiMeaning": "ગાઈ રહ્યું છે",
+                    "hindiMeaning": "गा रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Chant",
+                    "gujaratiPronunciation": "ચાન્ટ",
+                    "hindiPronunciation": "चैंट",
+                    "gujaratiMeaning": "ગાન કરવું",
+                    "hindiMeaning": "गायन करना"
+                },
+                {
+                    "word": "Hum",
+                    "gujaratiPronunciation": "હમ",
+                    "hindiPronunciation": "हम",
+                    "gujaratiMeaning": "ગણગણવું",
+                    "hindiMeaning": "गुनगुनाना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Be silent",
+                    "gujaratiPronunciation": "બી સાયલન્ટ",
+                    "hindiPronunciation": "बी साइलेंट",
+                    "gujaratiMeaning": "શાંત રહેવું",
+                    "hindiMeaning": "चुप रहना"
+                },
+                {
+                    "word": "Mumble",
+                    "gujaratiPronunciation": "મમ્બલ",
+                    "hindiPronunciation": "मंबल",
+                    "gujaratiMeaning": "બડબડવું",
+                    "hindiMeaning": "बड़बड़ाना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Sing",
+                    "gujaratiMeaning": "ગાવું",
+                    "hindiMeaning": "गाना"
+                },
+                {
+                    "word": "Sign",
+                    "gujaratiMeaning": "નિશાની/સહી કરવી",
+                    "hindiMeaning": "संकेत/हस्ताक्षर करना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She loves to sing in the shower.",
+                    "gujaratiPronunciation": "શી લવ્સ ટુ સિંગ ઇન ધ શાવર.",
+                    "hindiPronunciation": "शी लव्स टू सिंग इन द शॉवर।",
+                    "gujaratiTranslation": "તેને શાવરમાં ગાવાનું ગમે છે.",
+                    "hindiTranslation": "उसे शॉवर में गाना पसंद है।"
+                }
+            ]
+        },
+        {
+            "word": "Dance",
+            "gujaratiPronunciation": "ડાન્સ",
+            "hindiPronunciation": "डांस",
+            "gujaratiMeaning": "નાચવું",
+            "hindiMeaning": "नाचना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Dance",
+                    "gujaratiPronunciation": "ડાન્સ",
+                    "hindiPronunciation": "डांस",
+                    "gujaratiMeaning": "નાચવું",
+                    "hindiMeaning": "नाचना"
+                },
+                "V2 (Past)": {
+                    "word": "Danced",
+                    "gujaratiPronunciation": "ડાન્સ્ડ",
+                    "hindiPronunciation": "डांस्ड",
+                    "gujaratiMeaning": "નાચ્યું",
+                    "hindiMeaning": "नाచా"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Danced",
+                    "gujaratiPronunciation": "ડાન્સ્ડ",
+                    "hindiPronunciation": "डांस्ड",
+                    "gujaratiMeaning": "નાચેલું",
+                    "hindiMeaning": "नाచा हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Dancing",
+                    "gujaratiPronunciation": "ડાન્સિંગ",
+                    "hindiPronunciation": "डांसिंग",
+                    "gujaratiMeaning": "નાચી રહ્યું છે",
+                    "hindiMeaning": "नाच रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Groove",
+                    "gujaratiPronunciation": "ગ્રૂવ",
+                    "hindiPronunciation": "ग्रूव",
+                    "gujaratiMeaning": "તાલ પર નાચવું",
+                    "hindiMeaning": "झूमना"
+                },
+                {
+                    "word": "Move",
+                    "gujaratiPronunciation": "મૂવ",
+                    "hindiPronunciation": "मूव",
+                    "gujaratiMeaning": "હલનચલન કરવું",
+                    "hindiMeaning": "थिरकना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Stand still",
+                    "gujaratiPronunciation": "સ્ટેન્ડ સ્ટીલ",
+                    "hindiPronunciation": "स्टैंड स्टिल",
+                    "gujaratiMeaning": "સ્થિર ઊભા રહેવું",
+                    "hindiMeaning": "स्थिर खड़े रहना"
+                },
+                {
+                    "word": "Freeze",
+                    "gujaratiPronunciation": "ફ્રીઝ",
+                    "hindiPronunciation": "फ्रीज",
+                    "gujaratiMeaning": "જડ થઈ જવું",
+                    "hindiMeaning": "जम जाना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Dance",
+                    "gujaratiMeaning": "નૃત્ય",
+                    "hindiMeaning": "नृत्य"
+                },
+                {
+                    "word": "Dense",
+                    "gujaratiMeaning": "ગાઢ",
+                    "hindiMeaning": "घना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "They dance every weekend at the club.",
+                    "gujaratiPronunciation": "ધે ડાન્સ એવરી વીકએન્ડ એટ ધ ક્લબ.",
+                    "hindiPronunciation": "दे डांस एवरी वीकेंड एट द क्लब।",
+                    "gujaratiTranslation": "તેઓ દર સપ્તાહના અંતે ક્લબમાં નાચે છે.",
+                    "hindiTranslation": "वे हर सप्ताहांत क्लब में नाचते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Write",
+            "gujaratiPronunciation": "રાઇટ",
+            "hindiPronunciation": "राइट",
+            "gujaratiMeaning": "લખવું",
+            "hindiMeaning": "लिखना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Write",
+                    "gujaratiPronunciation": "રાઇટ",
+                    "hindiPronunciation": "राइट",
+                    "gujaratiMeaning": "લખવું",
+                    "hindiMeaning": "लिखना"
+                },
+                "V2 (Past)": {
+                    "word": "Wrote",
+                    "gujaratiPronunciation": "રોટ",
+                    "hindiPronunciation": "रोट",
+                    "gujaratiMeaning": "લખ્યું",
+                    "hindiMeaning": "लिखा"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Written",
+                    "gujaratiPronunciation": "રિટન",
+                    "hindiPronunciation": "रिटन",
+                    "gujaratiMeaning": "લખેલું",
+                    "hindiMeaning": "लिखा हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Writing",
+                    "gujaratiPronunciation": "રાઇટિંગ",
+                    "hindiPronunciation": "राइटिंग",
+                    "gujaratiMeaning": "લખી રહ્યું છે",
+                    "hindiMeaning": "लिख रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Compose",
+                    "gujaratiPronunciation": "કમ્પોઝ",
+                    "hindiPronunciation": "कंपोज",
+                    "gujaratiMeaning": "રચના કરવી",
+                    "hindiMeaning": "रचना करना"
+                },
+                {
+                    "word": "Jot down",
+                    "gujaratiPronunciation": "જોટ ડાઉન",
+                    "hindiPronunciation": "जॉट डाउन",
+                    "gujaratiMeaning": "નોંધવું",
+                    "hindiMeaning": "लिख लेना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Read",
+                    "gujaratiPronunciation": "રીડ",
+                    "hindiPronunciation": "रीड",
+                    "gujaratiMeaning": "વાંચવું",
+                    "hindiMeaning": "पढ़ना"
+                },
+                {
+                    "word": "Delete",
+                    "gujaratiPronunciation": "ડિલીટ",
+                    "hindiPronunciation": "डिलीट",
+                    "gujaratiMeaning": "કાઢી નાખવું",
+                    "hindiMeaning": "हटाना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Write",
+                    "gujaratiMeaning": "લખવું",
+                    "hindiMeaning": "लिखना"
+                },
+                {
+                    "word": "Right",
+                    "gujaratiMeaning": "સાચું/જમણું",
+                    "hindiMeaning": "सही/दाहिना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Please write your name on the top line.",
+                    "gujaratiPronunciation": "પ્લીઝ રાઇટ યોર નેમ ઓન ધ ટોપ લાઇન.",
+                    "hindiPronunciation": "प्लीज राइट योर नेम ऑन द टॉप लाइन।",
+                    "gujaratiTranslation": "કૃપા કરીને તમારું નામ ઉપરની લાઇનમાં લખો.",
+                    "hindiTranslation": "कृपया अपना नाम ऊपरी पंक्ति में लिखें।"
+                }
+            ]
+        }
+    ]
+}

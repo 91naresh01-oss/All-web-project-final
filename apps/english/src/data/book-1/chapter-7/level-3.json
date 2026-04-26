@@ -1,0 +1,47 @@
+
+{
+    "id": "level-3",
+    "title": "Insects 3",
+    "words": [
+        {
+            "word": "Worm",
+            "icon": "🐛",
+            "gujaratiPronunciation": "વર્મ",
+            "hindiPronunciation": "वर्म",
+            "gujaratiMeaning": "કૃમિ",
+            "hindiMeaning": "कृमि"
+        },
+        {
+            "word": "Spider",
+            "icon": "🕷️",
+            "gujaratiPronunciation": "સ્પાઇડર",
+            "hindiPronunciation": "स्पाइडर",
+            "gujaratiMeaning": "કરોળિયો",
+            "hindiMeaning": "मकड़ी"
+        },
+        {
+            "word": "Termite",
+            "icon": "🐜",
+            "gujaratiPronunciation": "ટરમાઇટ",
+            "hindiPronunciation": "टरमाइट",
+            "gujaratiMeaning": "ઊધઈ",
+            "hindiMeaning": "दीमक"
+        },
+        {
+            "word": "Beetle",
+            "icon": "🐞",
+            "gujaratiPronunciation": "બીટલ",
+            "hindiPronunciation": "बीटल",
+            "gujaratiMeaning": "ભમરો",
+            "hindiMeaning": "भृंग"
+        },
+        {
+            "word": "Caterpillar",
+            "icon": "🐛",
+            "gujaratiPronunciation": "કેટરપિલર",
+            "hindiPronunciation": "कैटरपिलर",
+            "gujaratiMeaning": "ઇયળ",
+            "hindiMeaning": "इल्ली"
+        }
+    ]
+}

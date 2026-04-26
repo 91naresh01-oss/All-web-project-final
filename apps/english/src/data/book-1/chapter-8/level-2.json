@@ -1,0 +1,47 @@
+
+{
+  "id": "level-2",
+  "title": "Vegetables 2",
+  "words": [
+    {
+      "word": "Carrot",
+      "icon": "🥕",
+      "gujaratiPronunciation": "કેરટ",
+      "hindiPronunciation": "कैरट",
+      "gujaratiMeaning": "ગાજર",
+      "hindiMeaning": "गाजर"
+    },
+    {
+      "word": "Beans",
+      "icon": "🫘",
+      "gujaratiPronunciation": "બીન્સ",
+      "hindiPronunciation": "बीन्स",
+      "gujaratiMeaning": "કઠોળ (ફણસી)",
+      "hindiMeaning": "फलियां"
+    },
+    {
+      "word": "Spinach",
+      "icon": "🥬",
+      "gujaratiPronunciation": "સ્પિનચ",
+      "hindiPronunciation": "स्पिनच",
+      "gujaratiMeaning": "પાલક",
+      "hindiMeaning": "पालक"
+    },
+    {
+      "word": "Chili",
+      "icon": "🌶️",
+      "gujaratiPronunciation": "ચીલી",
+      "hindiPronunciation": "चिली",
+      "gujaratiMeaning": "મરચું",
+      "hindiMeaning": "मिर्च"
+    },
+    {
+      "word": "Cucumber",
+      "icon": "🥒",
+      "gujaratiPronunciation": "ક્યુકમ્બર",
+      "hindiPronunciation": "ककड़ी",
+      "gujaratiMeaning": "કાકડી",
+      "hindiMeaning": "खीरा"
+    }
+  ]
+}

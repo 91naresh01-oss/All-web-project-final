@@ -1,0 +1,77 @@
+
+{
+  "id": "level-1",
+  "title": "Time Adjectives",
+  "words": [
+    {
+      "word": "Current",
+      "gujaratiPronunciation": "કરન્ટ",
+      "hindiPronunciation": "करंट",
+      "gujaratiMeaning": "વર્તમાન",
+      "hindiMeaning": "वर्तमान",
+      "exampleSentences": [
+        {
+          "sentence": "What is the current situation?",
+          "gujaratiTranslation": "વર્તમાન પરિસ્થિતિ શું છે?",
+          "hindiTranslation": "वर्तमान स्थिति क्या है?"
+        }
+      ]
+    },
+    {
+      "word": "Modern",
+      "gujaratiPronunciation": "મોર્ડન",
+      "hindiPronunciation": "मॉडर्न",
+      "gujaratiMeaning": "આધુનિક",
+      "hindiMeaning": "आधुनिक",
+      "exampleSentences": [
+        {
+          "sentence": "We live in a modern society.",
+          "gujaratiTranslation": "આપણે આધુનિક સમાજમાં રહીએ છીએ.",
+          "hindiTranslation": "हम एक आधुनिक समाज में रहते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Ancient",
+      "gujaratiPronunciation": "એન્શિયન્ટ",
+      "hindiPronunciation": "एन्शिएंट",
+      "gujaratiMeaning": "પ્રાચીન",
+      "hindiMeaning": "प्राचीन",
+      "exampleSentences": [
+        {
+          "sentence": "This is an ancient temple.",
+          "gujaratiTranslation": "આ એક પ્રાચીન મંદિર છે.",
+          "hindiTranslation": "यह एक प्राचीन मंदिर है।"
+        }
+      ]
+    },
+    {
+      "word": "Annual",
+      "gujaratiPronunciation": "એન્યુઅલ",
+      "hindiPronunciation": "एनुअल",
+      "gujaratiMeaning": "વાર્ષિક",
+      "hindiMeaning": "वार्षिक",
+      "exampleSentences": [
+        {
+          "sentence": "The annual meeting is next week.",
+          "gujaratiTranslation": "વાર્ષિક સભા આવતા અઠવાડિયે છે.",
+          "hindiTranslation": "वार्षिक बैठक अगले सप्ताह है।"
+        }
+      ]
+    },
+    {
+      "word": "Previous",
+      "gujaratiPronunciation": "પ્રીવિયસ",
+      "hindiPronunciation": "प्रीवियस",
+      "gujaratiMeaning": "અગાઉનું",
+      "hindiMeaning": "पिछला",
+      "exampleSentences": [
+        {
+          "sentence": "Refer to the previous chapter.",
+          "gujaratiTranslation": "અગાઉના પ્રકરણનો સંદર્ભ લો.",
+          "hindiTranslation": "पिछले अध्याय का संदर्भ लें।"
+        }
+      ]
+    }
+  ]
+}

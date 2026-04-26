@@ -1,0 +1,47 @@
+
+{
+  "id": "level-4",
+  "title": "Vegetables 4",
+  "words": [
+    {
+      "word": "Broccoli",
+      "icon": "🥦",
+      "gujaratiPronunciation": "બ્રોકોલી",
+      "hindiPronunciation": "ब्रोकोली",
+      "gujaratiMeaning": "બ્રોકોલી",
+      "hindiMeaning": "ब्रोकोली"
+    },
+    {
+      "word": "Lettuce",
+      "icon": "🥗",
+      "gujaratiPronunciation": "લેટસ",
+      "hindiPronunciation": "लेटस",
+      "gujaratiMeaning": "લેટીસ",
+      "hindiMeaning": "सलाद पत्ता"
+    },
+    {
+      "word": "Turnip",
+      "icon": "🍠",
+      "gujaratiPronunciation": "ટર્નિપ",
+      "hindiPronunciation": "शलजम",
+      "gujaratiMeaning": "સલગમ",
+      "hindiMeaning": "शलजम"
+    },
+    {
+      "word": "Mushroom",
+      "icon": "🍄",
+      "gujaratiPronunciation": "મશરૂમ",
+      "hindiPronunciation": "मशरूम",
+      "gujaratiMeaning": "મશરૂમ",
+      "hindiMeaning": "मशरूम"
+    },
+    {
+      "word": "Zucchini",
+      "icon": "🥒",
+      "gujaratiPronunciation": "ઝુકીની",
+      "hindiPronunciation": "जुकिनी",
+      "gujaratiMeaning": "ઝુકીની",
+      "hindiMeaning": "तोरी"
+    }
+  ]
+}

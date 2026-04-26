@@ -1,0 +1,169 @@
+{
+  "id": "level-3",
+  "title": "Level 3: Deeper Understanding",
+  "words": [
+    {
+      "word": "Comprehend",
+      "gujaratiPronunciation": "કોમ્પ્રિહેન્ડ",
+      "hindiPronunciation": "कॉम्प्रिहेंड",
+      "gujaratiMeaning": "સમજવું, ગ્રહણ કરવું",
+      "hindiMeaning": "समझना, ग्रहण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Comprehend", "gujaratiPronunciation": "કોમ્પ્રિહેન્ડ", "hindiPronunciation": "कॉम्प्रिहेंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        "V2 (Past)": { "word": "Comprehended", "gujaratiPronunciation": "કોમ્પ્રિહેન્ડેડ", "hindiPronunciation": "कॉम्प्रिहेंडेड", "gujaratiMeaning": "સમજ્યું", "hindiMeaning": "समझा" },
+        "V3 (Past Participle)": { "word": "Comprehended", "gujaratiPronunciation": "કોમ્પ્રિહેન્ડેડ", "hindiPronunciation": "कॉम्प्रिहेंडेड", "gujaratiMeaning": "સમજેલું", "hindiMeaning": "समझा हुआ" },
+        "V4 (Present Participle)": { "word": "Comprehending", "gujaratiPronunciation": "કોમ્પ્રિહેન્ડિંગ", "hindiPronunciation": "कॉम्प्रिहेंडिंग", "gujaratiMeaning": "સમજી રહ્યું છે", "hindiMeaning": "समझ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Understand", "gujaratiPronunciation": "અન્ડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        { "word": "Grasp", "gujaratiPronunciation": "ગ્રાસપ", "hindiPronunciation": "ग्रास्प", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" }
+      ],
+      "antonyms": [
+        { "word": "Misunderstand", "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ", "hindiPronunciation": "मिसअंडरस्टैंड", "gujaratiMeaning": "ગેરસમજ કરવી", "hindiMeaning": "गलत समझना" },
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज़", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "भ्रमित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Apprehend", "gujaratiPronunciation": "એપ્રિહેન્ડ", "hindiPronunciation": "एप्रिहेंड", "gujaratiMeaning": "પકડવું, સમજવું", "hindiMeaning": "पकड़ना, समझना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I cannot comprehend his decision.",
+          "gujaratiTranslation": "હું તેના નિર્ણયને સમજી શકતો નથી.",
+          "hindiTranslation": "मैं उसके फैसले को नहीं समझ सकता।",
+          "gujaratiPronunciation": "આઇ કેનનોટ કોમ્પ્રિહેન્ડ હિઝ ડિસિઝન.",
+          "hindiPronunciation": "आई कैननॉट कॉम्प्रिहेंड हिज़ डिसीजन।"
+        }
+      ]
+    },
+    {
+      "word": "Scan",
+      "gujaratiPronunciation": "સ્કેન",
+      "hindiPronunciation": "स्कैन",
+      "gujaratiMeaning": "ઝડપથી તપાસવું, સ્કેન કરવું",
+      "hindiMeaning": "तेजी से जाँचना, स्कैन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Scan", "gujaratiPronunciation": "સ્કેન", "hindiPronunciation": "स्कैन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जाँचना" },
+        "V2 (Past)": { "word": "Scanned", "gujaratiPronunciation": "સ્કેન્ડ", "hindiPronunciation": "स्कैन्ड", "gujaratiMeaning": "તપાસ્યું", "hindiMeaning": "जाँचा" },
+        "V3 (Past Participle)": { "word": "Scanned", "gujaratiPronunciation": "સ્કેન્ડ", "hindiPronunciation": "स्कैन्ड", "gujaratiMeaning": "તપાસેલું", "hindiMeaning": "जाँचा हुआ" },
+        "V4 (Present Participle)": { "word": "Scanning", "gujaratiPronunciation": "સ્કેનિંગ", "hindiPronunciation": "स्कैनिंग", "gujaratiMeaning": "તપાસી રહ્યું છે", "hindiMeaning": "जाँच रहा है" }
+      },
+      "synonyms": [
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एक्जामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जाँचना" },
+        { "word": "Survey", "gujaratiPronunciation": "સર્વે", "hindiPronunciation": "सर्वे", "gujaratiMeaning": "સર્વેક્ષણ કરવું", "hindiMeaning": "सर्वेक्षण करना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Overlook", "gujaratiPronunciation": "ઓવરલૂક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "ધ્યાન ન આપવું", "hindiMeaning": "नजरअंदाज करना" }
+      ],
+      "confusingWords": [
+        { "word": "Scam", "gujaratiPronunciation": "સ્કેમ", "hindiPronunciation": "स्कैम", "gujaratiMeaning": "કૌભાંડ", "hindiMeaning": "घोटाला" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She scanned the document for any errors.",
+          "gujaratiTranslation": "તેણીએ ભૂલો માટે દસ્તાવેજને સ્કેન કર્યો.",
+          "hindiTranslation": "उसने किसी भी त्रुटि के लिए दस्तावेज़ को स्कैन किया।",
+          "gujaratiPronunciation": "શી સ્કેન્ડ ધ ડોક્યુમેન્ટ ફોર એની એરર્સ.",
+          "hindiPronunciation": "शी स्कैन्ड द डॉक्यूमेंट फॉर एनी एरर्स।"
+        }
+      ]
+    },
+    {
+      "word": "Apprehend",
+      "gujaratiPronunciation": "એપ્રિહેન્ડ",
+      "hindiPronunciation": "एप्रिहेंड",
+      "gujaratiMeaning": "પકડવું, સમજવું, ડર લાગવો",
+      "hindiMeaning": "पकड़ना, समझना, आशंका होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Apprehend", "gujaratiPronunciation": "એપ્રિહેન્ડ", "hindiPronunciation": "एप्रिहेंड", "gujaratiMeaning": "પકડવું", "hindiMeaning": "पकड़ना" },
+        "V2 (Past)": { "word": "Apprehended", "gujaratiPronunciation": "એપ્રિહેન્ડેડ", "hindiPronunciation": "एप्रिहेंडेड", "gujaratiMeaning": "પકડ્યું", "hindiMeaning": "पकड़ा" },
+        "V3 (Past Participle)": { "word": "Apprehended", "gujaratiPronunciation": "એપ્રિહેન્ડેડ", "hindiPronunciation": "एप्रिहेंडेड", "gujaratiMeaning": "પકડેલું", "hindiMeaning": "पकड़ा हुआ" },
+        "V4 (Present Participle)": { "word": "Apprehending", "gujaratiPronunciation": "એપ્રિહેન્ડિંગ", "hindiPronunciation": "एप्रिहेंडिंग", "gujaratiMeaning": "પકડી રહ્યું છે", "hindiMeaning": "पकड़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Arrest", "gujaratiPronunciation": "એરેસ્ટ", "hindiPronunciation": "अरेस्ट", "gujaratiMeaning": "ધરપકડ કરવી", "hindiMeaning": "गिरफ्तार करना" },
+        { "word": "Understand", "gujaratiPronunciation": "અન્ડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" }
+      ],
+      "antonyms": [
+        { "word": "Release", "gujaratiPronunciation": "રિલીઝ", "hindiPronunciation": "रिलीज़", "gujaratiMeaning": "છોડવું", "hindiMeaning": "छोड़ना" },
+        { "word": "Misunderstand", "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ", "hindiPronunciation": "मिसअंडरस्टैंड", "gujaratiMeaning": "ગેરસમજ કરવી", "hindiMeaning": "गलत समझना" }
+      ],
+      "confusingWords": [
+        { "word": "Comprehend", "gujaratiPronunciation": "કોમ્પ્રિહેન્ડ", "hindiPronunciation": "कॉम्प्रिहेंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The police will apprehend the suspect.",
+          "gujaratiTranslation": "પોલીસ શંકાસ્પદને પકડશે.",
+          "hindiTranslation": "पुलिस संदिग्ध को पकड़ लेगी।",
+          "gujaratiPronunciation": "ધ પોલીસ વિલ એપ્રિહેન્ડ ધ સસ્પેક્ટ.",
+          "hindiPronunciation": "द पुलिस विल एप्रिहेंड द सस्पेक्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Visualize",
+      "gujaratiPronunciation": "વિઝ્યુઅલાઇઝ",
+      "hindiPronunciation": "विज़ुअलाइज़",
+      "gujaratiMeaning": "કલ્પના કરવી, માનસિક ચિત્ર બનાવવું",
+      "hindiMeaning": "कल्पना करना, मानसिक चित्र बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Visualize", "gujaratiPronunciation": "વિઝ્યુઅલાઇઝ", "hindiPronunciation": "विज़ुअलाइज़", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" },
+        "V2 (Past)": { "word": "Visualized", "gujaratiPronunciation": "વિઝ્યુઅલાઇઝ્ડ", "hindiPronunciation": "विज़ुअलाइज़्ड", "gujaratiMeaning": "કલ્પના કરી", "hindiMeaning": "कल्पना की" },
+        "V3 (Past Participle)": { "word": "Visualized", "gujaratiPronunciation": "વિઝ્યુઅલાઇઝ્ડ", "hindiPronunciation": "विज़ुअलाइज़्ड", "gujaratiMeaning": "કલ્પના કરેલ", "hindiMeaning": "कल्पित" },
+        "V4 (Present Participle)": { "word": "Visualizing", "gujaratiPronunciation": "વિઝ્યુઅલાઇઝિંગ", "hindiPronunciation": "विज़ुअलाइज़िंग", "gujaratiMeaning": "કલ્પના કરી રહ્યું છે", "hindiMeaning": "कल्पना कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Imagine", "gujaratiPronunciation": "ઇમેજિન", "hindiPronunciation": "इमेजिन", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" },
+        { "word": "Envision", "gujaratiPronunciation": "એનવિઝન", "hindiPronunciation": "एनविज़न", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "परिकल्पना करना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Try to visualize your goals.",
+          "gujaratiTranslation": "તમારા લક્ષ્યોની કલ્પના કરવાનો પ્રયાસ કરો.",
+          "hindiTranslation": "अपने लक्ष्यों की कल्पना करने की कोशिश करें।",
+          "gujaratiPronunciation": "ટ્રાય ટુ વિઝ્યુઅલાઇઝ યોર ગોલ્સ.",
+          "hindiPronunciation": "ट्राई टू विज़ुअलाइज़ योर गोल्स।"
+        }
+      ]
+    },
+    {
+      "word": "Delineate",
+      "gujaratiPronunciation": "ડિલિનિએટ",
+      "hindiPronunciation": "डिलिनिएट",
+      "gujaratiMeaning": "વર્ણન કરવું, રૂપરેખા આપવી",
+      "hindiMeaning": "वर्णन करना, रूपरेखा देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Delineate", "gujaratiPronunciation": "ડિલિનિએટ", "hindiPronunciation": "डिलिनिएट", "gujaratiMeaning": "વર્ણન કરવું", "hindiMeaning": "वर्णन करना" },
+        "V2 (Past)": { "word": "Delineated", "gujaratiPronunciation": "ડિલિનિએટેડ", "hindiPronunciation": "डिलिनिएटेड", "gujaratiMeaning": "વર્ણન કર્યું", "hindiMeaning": "वर्णन किया" },
+        "V3 (Past Participle)": { "word": "Delineated", "gujaratiPronunciation": "ડિલિનિએટેડ", "hindiPronunciation": "डिलिनिएटेड", "gujaratiMeaning": "વર્ણન કરેલું", "hindiMeaning": "वर्णित" },
+        "V4 (Present Participle)": { "word": "Delineating", "gujaratiPronunciation": "ડિલિનિએટિંગ", "hindiPronunciation": "डिलिनिएटिंग", "gujaratiMeaning": "વર્ણન કરી રહ્યું છે", "hindiMeaning": "वर्णन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Describe", "gujaratiPronunciation": "ડિસ્ક્રાઇબ", "hindiPronunciation": "डिस्क्राइब", "gujaratiMeaning": "વર્ણન કરવું", "hindiMeaning": "वर्णन करना" },
+        { "word": "Outline", "gujaratiPronunciation": "આઉટલાઇન", "hindiPronunciation": "आउटलाइन", "gujaratiMeaning": "રૂપરેખા બનાવવી", "hindiMeaning": "रूपरेखा बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज़", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "भ्रमित करना" },
+        { "word": "Obscure", "gujaratiPronunciation": "ઓબ્સ્ક્યોર", "hindiPronunciation": "ऑब्स्क्योर", "gujaratiMeaning": "અસ્પષ્ટ કરવું", "hindiMeaning": "अस्पष्ट करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The report delineates the main issues.",
+          "gujaratiTranslation": "આ રિપોર્ટ મુખ્ય મુદ્દાઓનું વર્ણન કરે છે.",
+          "hindiTranslation": "यह रिपोर्ट मुख्य मुद्दों का वर्णन करती है।",
+          "gujaratiPronunciation": "ધ રિપોર્ટ ડિલિનિએટ્સ ધ મેઇન ઇશ્યૂઝ.",
+          "hindiPronunciation": "द रिपोर्ट डिलिनिएट्स द मेन इश्यूज।"
+        }
+      ]
+    }
+  ]
+}

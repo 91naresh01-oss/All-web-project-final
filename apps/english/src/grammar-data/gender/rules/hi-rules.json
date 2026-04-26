@@ -1,0 +1,207 @@
+{
+    "id": "gender-h",
+    "title": "Gender (लिंग)",
+    "description": "इस खंड में, हम अंग्रेजी व्याकरण में लिंग के प्रकार और उससे संबंधित नियमों को सीखेंगे।",
+    "content": [
+        {
+            "type": "paragraph",
+            "content": "अंग्रेजी भाषा में, Nouns (संज्ञा) को उनके लिंग के आधार पर चार मुख्य प्रकारों में बांटा जाता है। इन प्रकारों को समझने से वाक्य रचना और सर्वनाम (Pronoun) का सही उपयोग करने में मदद मिलती है।"
+        },
+        {
+            "type": "heading",
+            "content": "लिंग के प्रकार (Types of Gender)"
+        },
+        {
+            "type": "part_of_speech_section",
+            "content": {
+                "title": "1. Masculine Gender (पुल्लिंग)",
+                "english_title": "Masculine Gender",
+                "icon_type": "Noun",
+                "description": "जो संज्ञा पुरुष (male) जाति का बोध कराती है, उसे Masculine Gender कहते हैं।",
+                "examples": {
+                    "items": ["Boy (लड़का)", "Man (आदमी)", "King (राजा)", "Father (पिता)", "Lion (शेर)"]
+                }
+            }
+        },
+        {
+            "type": "part_of_speech_section",
+            "content": {
+                "title": "2. Feminine Gender (स्त्रीलिंग)",
+                "english_title": "Feminine Gender",
+                "icon_type": "Adjective",
+                "description": "जो संज्ञा स्त्री (female) जाति का बोध कराती है, उसे Feminine Gender कहते हैं।",
+                "examples": {
+                    "items": ["Girl (लड़की)", "Woman (औरत)", "Queen (रानी)", "Mother (माँ)", "Lioness (शेरनी)"]
+                }
+            }
+        },
+        {
+            "type": "part_of_speech_section",
+            "content": {
+                "title": "3. Common Gender (उभयलिंग)",
+                "english_title": "Common Gender",
+                "icon_type": "Pronoun",
+                "description": "जो संज्ञा पुरुष और स्त्री दोनों के लिए उपयोग की जा सकती है, उसे Common Gender कहते हैं।",
+                "examples": {
+                    "items": ["Student (विद्यार्थी)", "Teacher (शिक्षक)", "Doctor (डॉक्टर)", "Parent (अभिभावक)", "Child (बच्चा)"]
+                }
+            }
+        },
+        {
+            "type": "part_of_speech_section",
+            "content": {
+                "title": "4. Neuter Gender (नपुंसकलिंग)",
+                "english_title": "Neuter Gender",
+                "icon_type": "Preposition",
+                "description": "जो संज्ञा निर्जीव वस्तुओं का बोध कराती है, उसे Neuter Gender कहते हैं। इसमें पुरुष या स्त्री का भेद नहीं होता।",
+                "examples": {
+                    "items": ["Book (किताब)", "Chair (कुर्सी)", "Table (मेज)", "Pen (कलम)", "House (घर)"]
+                }
+            }
+        },
+        {
+            "type": "heading",
+            "content": "Masculine से Feminine बनाने के नियम"
+        },
+        {
+            "type": "paragraph",
+            "content": "अंग्रेजी में पुल्लिंग संज्ञा से स्त्रीलिंग संज्ञा बनाने के कुछ सामान्य नियम हैं, जो इस प्रकार हैं:"
+        },
+        {
+            "type": "table",
+            "content": {
+                "title": "नियम 1: Masculine शब्द के अंत में '-ess' जोड़कर",
+                "headers": ["Masculine (पुल्लिंग)", "Feminine (स्त्रीलिंग)"],
+                "rows": [
+                    ["Author", "Authoress"],
+                    ["Host", "Hostess"],
+                    ["Lion", "Lioness"],
+                    ["Poet", "Poetess"],
+                    ["Priest", "Priestess"],
+                    ["Heir", "Heiress"],
+                    ["Baron", "Baroness"],
+                    ["Giant", "Giantess"],
+                    ["Shepherd", "Shepherdess"],
+                    ["Patron", "Patroness"]
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "title": "नियम 2: Masculine शब्द के अंतिम Vowel को हटाकर '-ess' जोड़कर",
+                "headers": ["Masculine (पुल्लिंग)", "Feminine (स्त्रीलिंग)"],
+                "rows": [
+                    ["Actor", "Actress"],
+                    ["Emperor", "Empress"],
+                    ["Master", "Mistress"],
+                    ["Tiger", "Tigress"],
+                    ["Waiter", "Waitress"],
+                    ["Hunter", "Huntress"],
+                    ["Prince", "Princess"],
+                    ["Duke", "Duchess"],
+                    ["Conductor", "Conductress"],
+                    ["Benefactor", "Benefactress"]
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "title": "नियम 3: अनियमित रूप से (Irregularly)",
+                "headers": ["Masculine (पुल्लिंग)", "Feminine (स्त्रीलिंग)"],
+                "rows": [
+                    ["Boy", "Girl"],
+                    ["Father", "Mother"],
+                    ["Brother", "Sister"],
+                    ["Husband", "Wife"],
+                    ["King", "Queen"],
+                    ["Man", "Woman"],
+                    ["Sir", "Madam"],
+                    ["Uncle", "Aunt"],
+                    ["Horse", "Mare"],
+                    ["Dog", "Bitch"],
+                    ["Monk", "Nun"],
+                    ["Gentleman", "Lady"],
+                    ["Nephew", "Niece"],
+                    ["Bridegroom", "Bride"],
+                    ["Wizard", "Witch"],
+                    ["Fox", "Vixen"]
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "title": "नियम 4: यौगिक शब्दों में (In Compound Words)",
+                "headers": ["Masculine (पुल्लिंग)", "Feminine (स्त्रीलिंग)"],
+                "rows": [
+                    ["Grandfather", "Grandmother"],
+                    ["Landlord", "Landlady"],
+                    ["Peacock", "Peahen"],
+                    ["Salesman", "Saleswoman"],
+                    ["Milkman", "Milkmaid"],
+                    ["Manservant", "Maidservant"],
+                    ["Step-father", "Step-mother"],
+                    ["Godfather", "Godmother"]
+                ]
+            }
+        },
+        {
+            "type": "heading",
+            "content": "Common और Neuter Gender के और उदाहरण"
+        },
+        {
+            "type": "table",
+            "content": {
+                "title": "Common Gender (उभयलिंग)",
+                "headers": ["शब्द (Word)", "हिंदी अर्थ"],
+                "rows": [
+                    ["Artist", "कलाकार"],
+                    ["Baby", "शिशु"],
+                    ["Cousin", "चचेरा/ममेरा भाई/बहन"],
+                    ["Dancer", "नर्तक/नर्तकी"],
+                    ["Engineer", "अभियंता"],
+                    ["Friend", "मित्र"],
+                    ["Guest", "अतिथि"],
+                    ["Lawyer", "वकील"],
+                    ["Musician", "संगीतकार"],
+                    ["Neighbor", "पड़ोसी"],
+                    ["Orphan", "अनाथ"],
+                    ["Person", "व्यक्ति"],
+                    ["Player", "खिलाड़ी"],
+                    ["Singer", "गायक/गायिका"],
+                    ["Writer", "लेखक/लेखिका"]
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "content": {
+                "title": "Neuter Gender (नपुंसकलिंग)",
+                "headers": ["शब्द (Word)", "हिंदी अर्थ"],
+                "rows": [
+                    ["Ball", "गेंद"],
+                    ["Car", "गाड़ी"],
+                    ["Computer", "कंप्यूटर"],
+                    ["Door", "दरवाजा"],
+                    ["Flower", "फूल"],
+                    ["Glass", "गिलास"],
+                    ["Hill", "पहाड़ी"],
+                    ["Key", "चाबी"],
+                    ["Light", "प्रकाश"],
+                    ["Mountain", "पर्वत"],
+                    ["Paper", "कागज"],
+                    ["River", "नदी"],
+                    ["School", "विद्यालय"],
+                    ["Street", "गली"],
+                    ["Water", "पानी"]
+                ]
+            }
+        },
+        {
+            "type": "note",
+            "content": "<strong>याद रखें:</strong> कुछ जानवरों के नाम (जैसे dog, cat, horse) को भी Common Gender माना जाता है, जब तक कि उनके लिंग को स्पष्ट रूप से दर्शाना न हो (जैसे stallion/mare)।"
+        }
+    ]
+}

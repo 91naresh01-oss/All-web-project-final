@@ -1,0 +1,268 @@
+{
+  "id": "adjectives-gu",
+  "title": "Adjectives (વિશેષણ)",
+  "description": "વિશેષણ (Adjective) એ એવો શબ્દ છે જે વાક્યમાં નામ (noun) કે સર્વનામ (pronoun) ના અર્થમાં વધારો કરે છે, એટલે કે તેના ગુણ, સંખ્યા, માપ વગેરે દર્શાવે છે.",
+  "content": [
+    {
+      "type": "section",
+      "title": "વિશેષણના પ્રકારો (Types of Adjectives)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "અંગ્રેજી વ્યાકરણમાં વિશેષણના મુખ્યત્વે નીચે મુજબના પ્રકારો છે:"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "1. Adjectives of Quality (ગુણવાચક વિશેષણ)",
+      "content": [
+        {
+          "type": "rules_table_section",
+          "content": {
+            "title": "Quality Adjectives",
+            "headers": [
+              "Term",
+              "Explanation"
+            ],
+            "rows": [
+              {
+                "Term": "Quality Adjectives",
+                "Explanation": "આ પ્રકારના વિશેષણો વ્યક્તિ, વસ્તુ કે સ્થળના ગુણ, દોષ, રંગ, રૂપ, કદ કે આકાર દર્શાવે છે. તે 'What kind of?' (કેવા પ્રકારનું?) પ્રશ્નનો જવાબ આપે છે."
+              }
+            ]
+          }
+        },
+        {
+          "type": "example_section",
+          "content": {
+            "title": "Examples",
+            "examples": [
+              "A <b>clever</b> girl. (એક હોશિયાર છોકરી)",
+              "The sky is <b>blue</b>. (આકાશ વાદળી છે)",
+              "He is an <b>honest</b> man. (તે એક પ્રામાણિક માણસ છે)",
+              "This is a <b>large</b> city. (આ એક મોટું શહેર છે)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "2. Adjectives of Quantity (જથ્થાવાચક વિશેષણ)",
+      "content": [
+        {
+          "type": "rules_table_section",
+          "content": {
+            "title": "Quantity Adjectives",
+            "headers": [
+              "Term",
+              "Explanation"
+            ],
+            "rows": [
+              {
+                "Term": "Quantity Adjectives",
+                "Explanation": "આ વિશેષણો વસ્તુનો જથ્થો કે પ્રમાણ દર્શાવે છે. તે 'How much?' (કેટલું?) પ્રશ્નનો જવાબ આપે છે. આ વિશેષણો સામાન્ય રીતે ગણી ન શકાય તેવા નામો (Uncountable Nouns) સાથે વપરાય છે."
+              }
+            ]
+          }
+        },
+        {
+          "type": "example_section",
+          "content": {
+            "title": "Examples",
+            "examples": [
+              "I ate <b>some</b> rice. (મેં થોડા ભાત ખાધા)",
+              "He is <b>little</b> intelligence. (તેનામાં બહુ ઓછી બુદ્ધિ છે)",
+              "There is <b>enough</b> water in the jug. (જગમાં પૂરતું પાણી છે)",
+              "She did not eat <b>any</b> food. (તેણીએ કંઈ પણ ખાધું નહીં)"
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Some, any, little, much, enough, all, no</b> વગેરે જથ્થાવાચક વિશેષણો છે."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "3. Adjectives of Number (સંખ્યાવાચક વિશેષણ)",
+      "content": [
+        {
+          "type": "rules_table_section",
+          "content": {
+            "title": "Number Adjectives",
+            "headers": [
+              "Type",
+              "Explanation",
+              "Example"
+            ],
+            "rows": [
+              {
+                "Type": "Definite Numeral",
+                "Explanation": "ચોક્કસ સંખ્યા દર્શાવે છે. તેના બે પેટા પ્રકાર છે: <b>Cardinals</b> (1, 2, 3...) અને <b>Ordinals</b> (first, second, third...).",
+                "Example": "She has <b>two</b> pens. He got the <b>first</b> prize."
+              },
+              {
+                "Type": "Indefinite Numeral",
+                "Explanation": "અનિશ્ચિત સંખ્યા દર્શાવે છે.",
+                "Example": "<b>All</b> men must die. <b>Some</b> boys are clever."
+              },
+              {
+                "Type": "Distributive Numeral",
+                "Explanation": "જૂથમાંથી દરેકનો અલગ-અલગ ઉલ્લેખ કરે છે.",
+                "Example": "<b>Each</b> boy must take his turn. <b>Every</b> word of it is false."
+              }
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Each, every, either, neither</b> Distributive Numeral Adjectives છે."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "4. Demonstrative Adjectives (દર્શક વિશેષણ)",
+      "content": [
+        {
+          "type": "rules_table_section",
+          "content": {
+            "title": "Demonstrative Adjectives",
+            "headers": [
+              "Term",
+              "Explanation"
+            ],
+            "rows": [
+              {
+                "Term": "Demonstrative Adjectives",
+                "Explanation": "આ વિશેષણો કોઈ વ્યક્તિ કે વસ્તુ તરફ નિર્દેશ કરવા માટે વપરાય છે. તે 'Which?' (કયું?) પ્રશ્નનો જવાબ આપે છે."
+              }
+            ]
+          }
+        },
+        {
+          "type": "example_section",
+          "content": {
+            "title": "Examples",
+            "examples": [
+              "<b>This</b> book is mine. (આ પુસ્તક મારું છે)",
+              "<b>That</b> boy is very naughty. (પેલો છોકરો ખૂબ તોફાની છે)",
+              "<b>These</b> mangoes are sour. (આ કેરીઓ ખાટી છે)",
+              "<b>Those</b> birds are flying high. (પેલા પક્ષીઓ ઊંચે ઉડી રહ્યા છે)"
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>This</b> અને <b>These</b> નજીકની વસ્તુઓ માટે વપરાય છે, જ્યારે <b>That</b> અને <b>Those</b> દૂરની વસ્તુઓ માટે વપરાય છે."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "5. Interrogative Adjectives (પ્રશ્નવાચક વિશેષણ)",
+      "content": [
+        {
+          "type": "rules_table_section",
+          "content": {
+            "title": "Interrogative Adjectives",
+            "headers": [
+              "Term",
+              "Explanation"
+            ],
+            "rows": [
+              {
+                "Term": "Interrogative Adjectives",
+                "Explanation": "આ વિશેષણો નામની સાથે પ્રશ્ન પૂછવા માટે વપરાય છે."
+              }
+            ]
+          }
+        },
+        {
+          "type": "example_section",
+          "content": {
+            "title": "Examples",
+            "examples": [
+              "<b>What</b> kind of man is he? (તે કેવા પ્રકારનો માણસ છે?)",
+              "<b>Which</b> way shall we go? (આપણે કયા રસ્તે જઈશું?)",
+              "<b>Whose</b> book is this? (આ કોનું પુસ્તક છે?)"
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>What</b> નો ઉપયોગ સામાન્ય અર્થમાં થાય છે, જ્યારે <b>Which</b> નો ઉપયોગ મર્યાદિત પસંદગીમાંથી એક માટે થાય છે."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "6. Possessive Adjectives (સંબંધક વિશેષણ)",
+      "content": [
+        {
+          "type": "rules_table_section",
+          "content": {
+            "title": "Possessive Adjectives",
+            "headers": [
+              "Term",
+              "Explanation"
+            ],
+            "rows": [
+              {
+                "Term": "Possessive Adjectives",
+                "Explanation": "આ વિશેષણો માલિકી કે સંબંધ દર્શાવે છે. તે હંમેશા નામની પહેલાં આવે છે."
+              }
+            ]
+          }
+        },
+        {
+          "type": "example_section",
+          "content": {
+            "title": "Examples",
+            "examples": [
+              "This is <b>my</b> car. (આ મારી કાર છે)",
+              "<b>Your</b> dress is beautiful. (તમારો ડ્રેસ સુંદર છે)",
+              "She is <b>her</b> sister. (તે તેની બહેન છે)",
+              "The dog wagged <b>its</b> tail. (કૂતરાએ તેની પૂંછડી હલાવી)"
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "Possessive Adjectives (my, your, his, her, its, our, their) અને Possessive Pronouns (mine, yours, his, hers, its, ours, theirs) વચ્ચે ગૂંચવણ ન થવી જોઈએ. Possessive Adjectives નામની પહેલાં આવે છે, જ્યારે Possessive Pronouns નામની જગ્યાએ વપરાય છે."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Order of Adjectives (વિશેષણોનો ક્રમ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જ્યારે એક જ નામ માટે એક કરતાં વધુ વિશેષણો વપરાય, ત્યારે તેમને ચોક્કસ ક્રમમાં ગોઠવવામાં આવે છે. સામાન્ય ક્રમ નીચે મુજબ છે:"
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Determiner</b> (a, an, the, my, your)",
+            "<b>Opinion</b> (beautiful, ugly, nice)",
+            "<b>Size</b> (large, small, tall)",
+            "<b>Age</b> (old, new, young)",
+            "<b>Shape</b> (round, square)",
+            "<b>Color</b> (red, blue, green)",
+            "<b>Origin</b> (Indian, American)",
+            "<b>Material</b> (cotton, wooden, plastic)",
+            "<b>Purpose</b> (sleeping bag, cooking oil)"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "ઉદાહરણ: She has a <b>beautiful small old round brown Indian wooden</b> table. (તેણી પાસે એક સુંદર, નાનું, જૂનું, ગોળ, કથ્થઈ, ભારતીય, લાકડાનું ટેબલ છે). જોકે, વ્યવહારમાં એક સાથે આટલા બધા વિશેષણો ભાગ્યે જ વપરાય છે."
+        }
+      ]
+    }
+  ]
+}

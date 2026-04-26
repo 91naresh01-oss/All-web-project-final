@@ -1,0 +1,491 @@
+{
+    "id": "level-2",
+    "title": "Level 2",
+    "words": [
+        {
+            "word": "Entice",
+            "gujaratiPronunciation": "એન્ટાઇસ",
+            "hindiPronunciation": "एंटाइस",
+            "gujaratiMeaning": "લલચાવવું, આકર્ષવું",
+            "hindiMeaning": "लुभाना, आकर्षित करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Entice",
+                    "gujaratiPronunciation": "એન્ટાઇસ",
+                    "hindiPronunciation": "एंटाइस",
+                    "gujaratiMeaning": "લલચાવવું",
+                    "hindiMeaning": "लुभाना"
+                },
+                "V2 (Past)": {
+                    "word": "Enticed",
+                    "gujaratiPronunciation": "એન્ટાઇસ્ડ",
+                    "hindiPronunciation": "एंटाइસ્ડ",
+                    "gujaratiMeaning": "લલચાવ્યું",
+                    "hindiMeaning": "लुभाया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Enticed",
+                    "gujaratiPronunciation": "એન્ટાઇસ્ડ",
+                    "hindiPronunciation": "एंटाइસ્ડ",
+                    "gujaratiMeaning": "લલચાવેલું",
+                    "hindiMeaning": "लुभाया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Enticing",
+                    "gujaratiPronunciation": "એન્ટાઇસિંગ",
+                    "hindiPronunciation": "एंटाइसिंग",
+                    "gujaratiMeaning": "લલચાવી રહ્યું છે",
+                    "hindiMeaning": "लुभा रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Lure",
+                    "gujaratiPronunciation": "લ્યોર",
+                    "hindiPronunciation": "ल्योर",
+                    "gujaratiMeaning": "પ્રલોભન",
+                    "hindiMeaning": "प्रलोभन"
+                },
+                {
+                    "word": "Tempt",
+                    "gujaratiPronunciation": "ટેમ્પ્ટ",
+                    "hindiPronunciation": "टेम्प्ट",
+                    "gujaratiMeaning": "લાલચ આપવી",
+                    "hindiMeaning": "लालच देना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Repel",
+                    "gujaratiPronunciation": "રિપેલ",
+                    "hindiPronunciation": "रिपेल",
+                    "gujaratiMeaning": "દૂર કરવું",
+                    "hindiMeaning": "विकर्षित करना"
+                },
+                {
+                    "word": "Deter",
+                    "gujaratiPronunciation": "ડિટર",
+                    "hindiPronunciation": "डiter",
+                    "gujaratiMeaning": "અટકાવવું",
+                    "hindiMeaning": "रोकना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Entice",
+                    "gujaratiPronunciation": "એન્ટાઇસ",
+                    "hindiPronunciation": "एंटाइस",
+                    "gujaratiMeaning": "લલચાવવું",
+                    "hindiMeaning": "लुभाना",
+                    "difference": "Entice એટલે કોઈને કંઈક કરવાની લાલચ આપવી."
+                },
+                {
+                    "word": "Entire",
+                    "gujaratiPronunciation": "એન્ટાયર",
+                    "hindiPronunciation": "एंटायर",
+                    "gujaratiMeaning": "સંપૂર્ણ",
+                    "hindiMeaning": "संपूर्ण",
+                    "difference": "Entire એટલે આખું કે સંપૂર્ણ."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The company tried to entice the best employees with higher salaries.",
+                    "gujaratiPronunciation": "ધ કંપની ટ્રાઇડ ટુ એન્ટાઇસ ધ બેસ્ટ એમ્પ્લોઇઝ વિથ હાયર સેલરીઝ.",
+                    "hindiPronunciation": "द कंपनी ट्राइड टू एंटाइस द बेस्ट एम्प्लॉइज विद हायर सैलरीज़।",
+                    "gujaratiTranslation": "કંપનીએ શ્રેષ્ઠ કર્મચારીઓને ઊંચા પગારથી લલચાવવાનો પ્રયાસ કર્યો.",
+                    "hindiTranslation": "कंपनी نے بہترین ملازمین کو زیادہ تنخواہوں سے لبھانے کی کوشش کی۔"
+                }
+            ]
+        },
+        {
+            "word": "Persuade",
+            "gujaratiPronunciation": "પરસુએડ",
+            "hindiPronunciation": "परसुएड",
+            "gujaratiMeaning": "મનાવવું, સમજાવવું",
+            "hindiMeaning": "मनाना, समझाना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Persuade",
+                    "gujaratiPronunciation": "પરસુએડ",
+                    "hindiPronunciation": "परसुएड",
+                    "gujaratiMeaning": "મનાવવું",
+                    "hindiMeaning": "मनाना"
+                },
+                "V2 (Past)": {
+                    "word": "Persuaded",
+                    "gujaratiPronunciation": "પરસુએડેડ",
+                    "hindiPronunciation": "परसुएडेड",
+                    "gujaratiMeaning": "મનાવ્યું",
+                    "hindiMeaning": "मनाया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Persuaded",
+                    "gujaratiPronunciation": "પરસુએડેડ",
+                    "hindiPronunciation": "परसुएडेड",
+                    "gujaratiMeaning": "મનાવેલું",
+                    "hindiMeaning": "मनाया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Persuading",
+                    "gujaratiPronunciation": "પરસુએડિંગ",
+                    "hindiPronunciation": "परसुएडिंग",
+                    "gujaratiMeaning": "મનાવી રહ્યું છે",
+                    "hindiMeaning": "मना रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Convince",
+                    "gujaratiPronunciation": "કન્વિન્સ",
+                    "hindiPronunciation": "कन्विंस",
+                    "gujaratiMeaning": "ખાતરી કરાવવી",
+                    "hindiMeaning": "समझाना"
+                },
+                {
+                    "word": "Induce",
+                    "gujaratiPronunciation": "ઇન્ડ્યુસ",
+                    "hindiPronunciation": "इंड्यूस",
+                    "gujaratiMeaning": "પ્રેરણા આપવી",
+                    "hindiMeaning": "प्रेरित करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Dissuade",
+                    "gujaratiPronunciation": "ડિસુએડ",
+                    "hindiPronunciation": "डिसuएड",
+                    "gujaratiMeaning": "વિરુદ્ધ સમજાવવું",
+                    "hindiMeaning": "रोकना"
+                },
+                {
+                    "word": "Deter",
+                    "gujaratiPronunciation": "ડિટર",
+                    "hindiPronunciation": "डiter",
+                    "gujaratiMeaning": "અટકાવવું",
+                    "hindiMeaning": "रोकना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Persuade",
+                    "gujaratiPronunciation": "પરસુએડ",
+                    "hindiPronunciation": "परसुएड",
+                    "gujaratiMeaning": "મનાવવું",
+                    "hindiMeaning": "मनाना",
+                    "difference": "Persuade એટલે તર્ક અથવા વિનંતી દ્વારા કોઈને કંઈક કરવા માટે સમજાવવું."
+                },
+                {
+                    "word": "Pursue",
+                    "gujaratiPronunciation": "પરસ્યૂ",
+                    "hindiPronunciation": "परस्यू",
+                    "gujaratiMeaning": "પીછો કરવો",
+                    "hindiMeaning": "पीछा करना",
+                    "difference": "Pursue એટલે કોઈ લક્ષ્ય અથવા વ્યક્તિનો પીછો કરવો."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He was able to persuade his friends to join the cause.",
+                    "gujaratiPronunciation": "હી વોઝ એબલ ટુ પરસુએડ હિઝ ફ્રેન્ડ્સ ટુ જોઇન ધ કોઝ.",
+                    "hindiPronunciation": "ही वॉज़ एबल टू परसुएड हिज़ फ्रेंड्स टू जॉइन द कॉज़।",
+                    "gujaratiTranslation": "તે તેના મિત્રોને આ હેતુમાં જોડાવા માટે મનાવી શક્યો.",
+                    "hindiTranslation": "वह अपने दोस्तों को इस मुहिम में शामिल होने के लिए मना सका।"
+                }
+            ]
+        },
+        {
+            "word": "Leverage",
+            "gujaratiPronunciation": "લેવરેજ",
+            "hindiPronunciation": "लेवरेज",
+            "gujaratiMeaning": "લાભ ઉઠાવવો, फायदा",
+            "hindiMeaning": " लाभ उठाना, फायदा",
+            "partOfSpeech": "Verb/Noun",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Leverage",
+                    "gujaratiPronunciation": "લેવરેજ",
+                    "hindiPronunciation": "लेवरेज",
+                    "gujaratiMeaning": "લાભ ઉઠાવવો",
+                    "hindiMeaning": "लाभ उठाना"
+                },
+                "V2 (Past)": {
+                    "word": "Leveraged",
+                    "gujaratiPronunciation": "લેવરેજ્ડ",
+                    "hindiPronunciation": "लेवरेज्ड",
+                    "gujaratiMeaning": "લાભ ઉઠાવ્યો",
+                    "hindiMeaning": "लाभ उठाया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Leveraged",
+                    "gujaratiPronunciation": "લેવરેજ્ડ",
+                    "hindiPronunciation": "लेवरेज्ड",
+                    "gujaratiMeaning": "લાભ ઉઠાવેલો",
+                    "hindiMeaning": "लाभ उठाया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Leveraging",
+                    "gujaratiPronunciation": "લેવરેજિંગ",
+                    "hindiPronunciation": "लेवरेजिंग",
+                    "gujaratiMeaning": "લાભ ઉઠાવી રહ્યું છે",
+                    "hindiMeaning": "लाभ उठा रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Exploit",
+                    "gujaratiPronunciation": "એક્સપ્લોઇટ",
+                    "hindiPronunciation": "एक्सप्लॉइट",
+                    "gujaratiMeaning": "શોષણ કરવું",
+                    "hindiMeaning": "लाभ उठाना"
+                },
+                {
+                    "word": "Utilize",
+                    "gujaratiPronunciation": "યુટિલાઇઝ",
+                    "hindiPronunciation": "यूटिलाइज़",
+                    "gujaratiMeaning": "ઉપયોગ કરવો",
+                    "hindiMeaning": "उपयोग करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Waste",
+                    "gujaratiPronunciation": "વેસ્ટ",
+                    "hindiPronunciation": "वेस्ट",
+                    "gujaratiMeaning": "બગાડવું",
+                    "hindiMeaning": "बर्बाद کرنا"
+                },
+                {
+                    "word": "Disadvantage",
+                    "gujaratiPronunciation": "ડિસએડવાન્ટેજ",
+                    "hindiPronunciation": "डिसएडवांटेज",
+                    "gujaratiMeaning": "ગેરલાભ",
+                    "hindiMeaning": "नुकसान"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Leverage",
+                    "gujaratiPronunciation": "લેવરેજ",
+                    "hindiPronunciation": "लेवरेज",
+                    "gujaratiMeaning": "લાભ ઉઠાવવો",
+                    "hindiMeaning": "लाभ उठाना",
+                    "difference": "Leverage એટલે કોઈ વસ્તુનો મહત્તમ ફાયદો મેળવવા માટે उपयोग કરવો."
+                },
+                {
+                    "word": "Average",
+                    "gujaratiPronunciation": "એવરેજ",
+                    "hindiPronunciation": "एवरेज",
+                    "gujaratiMeaning": "સરેરાશ",
+                    "hindiMeaning": "औसत",
+                    "difference": "Average એટલે સરેરાશ અથવા સામાન્ય."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "We can leverage our connections to get a better deal.",
+                    "gujaratiPronunciation": "વી કેન લેવરેજ અવર કનેક્શન્સ ટુ ગેટ અ બેટર ડીલ.",
+                    "hindiPronunciation": "वी कैन लेवरेज अवर कनेक्शन्स टू गेट अ बेटर डील।",
+                    "gujaratiTranslation": "આપણે વધુ સારો સોદો મેળવવા માટે આપણા જોડાણોનો લાભ ઉઠાવી શકીએ છીએ.",
+                    "hindiTranslation": "हम बेहतर सौदा पाने के लिए अपने कनेक्शन का लाभ उठा सकते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Dictate",
+            "gujaratiPronunciation": "ડિક્ટેટ",
+            "hindiPronunciation": "डिक्टेट",
+            "gujaratiMeaning": "આજ્ઞા કરવી, લખાવવું",
+            "hindiMeaning": "हुक्म देना, लिखाना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Dictate",
+                    "gujaratiPronunciation": "ડિક્ટેટ",
+                    "hindiPronunciation": "डिक्टेट",
+                    "gujaratiMeaning": "આજ્ઞા કરવી",
+                    "hindiMeaning": "हुक्म देना"
+                },
+                "V2 (Past)": {
+                    "word": "Dictated",
+                    "gujaratiPronunciation": "ડિક્ટેટેડ",
+                    "hindiPronunciation": "डिक्टेटेड",
+                    "gujaratiMeaning": "આજ્ઞા કરી",
+                    "hindiMeaning": "हुक्મ दिया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Dictated",
+                    "gujaratiPronunciation": "ડિક્ટેટેડ",
+                    "hindiPronunciation": "डिक्टेटेड",
+                    "gujaratiMeaning": "આજ્ઞા કરેલી",
+                    "hindiMeaning": "हुक्म दिया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Dictating",
+                    "gujaratiPronunciation": "ડિક્ટેટિંગ",
+                    "hindiPronunciation": "डिक्टेटिंग",
+                    "gujaratiMeaning": "આજ્ઞા કરી રહ્યું છે",
+                    "hindiMeaning": "हुक्म दे रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Command",
+                    "gujaratiPronunciation": "કમાન્ડ",
+                    "hindiPronunciation": "कमांड",
+                    "gujaratiMeaning": "આદેશ",
+                    "hindiMeaning": "आदेश"
+                },
+                {
+                    "word": "Impose",
+                    "gujaratiPronunciation": "ઇમ્પોઝ",
+                    "hindiPronunciation": "इம்பोज",
+                    "gujaratiMeaning": "લાદવું",
+                    "hindiMeaning": "थोपना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Request",
+                    "gujaratiPronunciation": "રિક્વેસ્ટ",
+                    "hindiPronunciation": "रिक्वेस्ट",
+                    "gujaratiMeaning": "વિનંતી કરવી",
+                    "hindiMeaning": "अनुरोध करना"
+                },
+                {
+                    "word": "Follow",
+                    "gujaratiPronunciation": "ફોલો",
+                    "hindiPronunciation": "फॉलो",
+                    "gujaratiMeaning": "અનુસરવું",
+                    "hindiMeaning": "अनुसरण करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Dictate",
+                    "gujaratiPronunciation": "ડિક્ટેટ",
+                    "hindiPronunciation": "डिक्टेट",
+                    "gujaratiMeaning": "આજ્ઞા કરવી",
+                    "hindiMeaning": "हुक्म देना",
+                    "difference": "Dictate એટલે અધિકાર સાથે આદેશ આપવો."
+                },
+                {
+                    "word": "Dedicate",
+                    "gujaratiPronunciation": "ડેડિકેટ",
+                    "hindiPronunciation": "डेडीकेट",
+                    "gujaratiMeaning": "સમર્પિત કરવું",
+                    "hindiMeaning": "समर्पित کرنا",
+                    "difference": "Dedicate એટલે કોઈ વસ્તુ અથવા વ્યક્તિને સમર્પિત કરવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The terms of the contract will dictate our next steps.",
+                    "gujaratiPronunciation": "ધ ટર્મ્સ ઓફ ધ કોન્ટ્રેક્ટ વિલ ડિક્ટેટ અવર નેક્સ્ટ સ્ટેપ્સ.",
+                    "hindiPronunciation": "द टर्म्स ऑफ द कॉन्ट्रैक्ट विल डिक्टेट अवर नेक्स्ट स्टेप्स।",
+                    "gujaratiTranslation": "કરારની શરતો ہمارے اگلے اقدامات નક્કી કરશે.",
+                    "hindiTranslation": "अनुबंध की शर्तें ہمارے اگلے कदम निर्धारित करेंगी।"
+                }
+            ]
+        },
+        {
+            "word": "Resonate",
+            "gujaratiPronunciation": "રેઝોનેટ",
+            "hindiPronunciation": "रेजोनट",
+            "gujaratiMeaning": "અનुरણન કરવું, ગૂંજવું",
+            "hindiMeaning": "अनुरणन करना, गूंजना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Resonate",
+                    "gujaratiPronunciation": "રેઝોનેટ",
+                    "hindiPronunciation": "रेजोनट",
+                    "gujaratiMeaning": "અનुरણન કરવું",
+                    "hindiMeaning": "अनुरणन करना"
+                },
+                "V2 (Past)": {
+                    "word": "Resonated",
+                    "gujaratiPronunciation": "રેઝોનેટેડ",
+                    "hindiPronunciation": "रेजोनटेड",
+                    "gujaratiMeaning": "અનुरણન કર્યું",
+                    "hindiMeaning": "अनुरणन किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Resonated",
+                    "gujaratiPronunciation": "રેઝોનેટેડ",
+                    "hindiPronunciation": "रेजोनटेड",
+                    "gujaratiMeaning": "અનुरણન કરેલું",
+                    "hindiMeaning": "अनुरणन किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Resonating",
+                    "gujaratiPronunciation": "રેઝોનેટિંગ",
+                    "hindiPronunciation": "रेजोनटिंग",
+                    "gujaratiMeaning": "અનुरણન કરી રહ્યું છે",
+                    "hindiMeaning": "अनुरणन कर रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Echo",
+                    "gujaratiPronunciation": "એકો",
+                    "hindiPronunciation": "एको",
+                    "gujaratiMeaning": "પડઘો પડવો",
+                    "hindiMeaning": "गूंजना"
+                },
+                {
+                    "word": "Reverberate",
+                    "gujaratiPronunciation": "રિવર્બરેટ",
+                    "hindiPronunciation": "रिवર્बरेट",
+                    "gujaratiMeaning": "પ્રતિધ્વનિત થવું",
+                    "hindiMeaning": "प्रतिध्वनित होना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Silence",
+                    "gujaratiPronunciation": "સાઈલન્સ",
+                    "hindiPronunciation": "साइलेंस",
+                    "gujaratiMeaning": "શાંતિ",
+                    "hindiMeaning": "चुप्पी"
+                },
+                {
+                    "word": "Dampen",
+                    "gujaratiPronunciation": "ડેમ્પન",
+                    "hindiPronunciation": "डैम्पन",
+                    "gujaratiMeaning": "ભીનું કરવું",
+                    "hindiMeaning": "कम करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Resonate",
+                    "gujaratiPronunciation": "રેઝોનેટ",
+                    "hindiPronunciation": "रेजोनट",
+                    "gujaratiMeaning": "અનुरણન કરવું",
+                    "hindiMeaning": "अनुरणन करना",
+                    "difference": "Resonate એટલે કોઈ વિચાર અથવા भावना સાથે भावनात्मक જોડાણ અનુભવવું."
+                },
+                {
+                    "word": "Resignate",
+                    "gujaratiPronunciation": "રેઝિગ્નેટ",
+                    "hindiPronunciation": "रेजिग्नेट",
+                    "gujaratiMeaning": "રાજીનામું આપવું",
+                    "hindiMeaning": "इस्तीफा देना",
+                    "difference": "Resignate એ યોગ્ય શબ્દ નથી, સાચો શબ્દ Resign છે જેનો અર્થ છે રાજીનામું આપવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The message of unity resonated with the audience.",
+                    "gujaratiPronunciation": "ધ મેસેજ ઓફ યુનિટી રેઝોનેટેડ વિથ ધ ઓડિયન્સ.",
+                    "hindiPronunciation": "द मैसेज ऑफ यूनिटी रेजोनटेड विद द ऑडियंस।",
+                    "gujaratiTranslation": "એકતાનો સંદેશ શ્રોતાઓ સાથે અનુરણિત થયો.",
+                    "hindiTranslation": "एकता का संदेश दर्शकों के साथ गूंज उठा।"
+                }
+            ]
+        }
+    ]
+}

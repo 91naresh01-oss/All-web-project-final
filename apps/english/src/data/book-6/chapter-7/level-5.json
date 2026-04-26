@@ -1,0 +1,481 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Fix",
+      "gujaratiPronunciation": "ફિક્સ",
+      "hindiPronunciation": "फिक्स",
+      "gujaratiMeaning": "ઠીક કરવું",
+      "hindiMeaning": "ठीक करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Fix",
+          "gujaratiPronunciation": "ફિક્સ",
+          "hindiPronunciation": "फिक्स",
+          "gujaratiMeaning": "ઠીક કરવું",
+          "hindiMeaning": "ठीक करना"
+        },
+        "V2 (Past)": {
+          "word": "Fixed",
+          "gujaratiPronunciation": "ફિક્સડ",
+          "hindiPronunciation": "फिक्स्ड",
+          "gujaratiMeaning": "ઠીક કર્યું",
+          "hindiMeaning": "ठीक किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Fixed",
+          "gujaratiPronunciation": "ફિક્સડ",
+          "hindiPronunciation": "फिक्स्ड",
+          "gujaratiMeaning": "ઠીક કરેલું",
+          "hindiMeaning": "ठीक किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Fixing",
+          "gujaratiPronunciation": "ફિક્સિંગ",
+          "hindiPronunciation": "फिक्सिंग",
+          "gujaratiMeaning": "ઠીક કરી રહ્યું છે",
+          "hindiMeaning": "ठीक कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Repair",
+          "gujaratiPronunciation": "રિપેર",
+          "hindiPronunciation": "रिपेयर",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        },
+        {
+          "word": "Mend",
+          "gujaratiPronunciation": "મેન્ડ",
+          "hindiPronunciation": "मेंड",
+          "gujaratiMeaning": "સાંધવું",
+          "hindiMeaning": "सुधारना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        },
+        {
+          "word": "Damage",
+          "gujaratiPronunciation": "ડેમેજ",
+          "hindiPronunciation": "डैमेज",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "क्षति पहुँचाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Fax",
+          "gujaratiPronunciation": "ફેક્સ",
+          "hindiPronunciation": "फैक्स",
+          "gujaratiMeaning": "ફેક્સ",
+          "hindiMeaning": "फैक्स"
+        },
+        {
+          "word": "Fox",
+          "gujaratiPronunciation": "ફોક્સ",
+          "hindiPronunciation": "फॉक्स",
+          "gujaratiMeaning": "શિયાળ",
+          "hindiMeaning": "लोमड़ी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I need to fix the broken chair.",
+          "gujaratiPronunciation": "આઈ નીડ ટુ ફિક્સ ધ બ્રોકન ચેર.",
+          "hindiPronunciation": "आई नीड टू फिक्स द ब्रोकन चेयर।",
+          "gujaratiTranslation": "મારે તૂટેલી ખુરશી ઠીક કરવાની જરૂર છે.",
+          "hindiTranslation": "मुझे टूटी हुई कुर्सी ठीक करने की ज़रूरत है।"
+        }
+      ]
+    },
+    {
+      "word": "Maintain",
+      "gujaratiPronunciation": "મેન્ટેન",
+      "hindiPronunciation": "मेनटेन",
+      "gujaratiMeaning": "જાળવણી કરવી",
+      "hindiMeaning": "बनाए रखना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Maintain",
+          "gujaratiPronunciation": "મેન્ટેન",
+          "hindiPronunciation": "मेनटेन",
+          "gujaratiMeaning": "જાળવણી કરવી",
+          "hindiMeaning": "बनाए रखना"
+        },
+        "V2 (Past)": {
+          "word": "Maintained",
+          "gujaratiPronunciation": "મેન્ટેઇન્ડ",
+          "hindiPronunciation": "मेनटेंड",
+          "gujaratiMeaning": "જાળવણી કરી",
+          "hindiMeaning": "बनाए रखा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Maintained",
+          "gujaratiPronunciation": "મેન્ટેઇન્ડ",
+          "hindiPronunciation": "मेनटेंड",
+          "gujaratiMeaning": "જાળવણી કરેલી",
+          "hindiMeaning": "बनाए रखा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Maintaining",
+          "gujaratiPronunciation": "મેન્ટેનિંગ",
+          "hindiPronunciation": "मेनटेनिंग",
+          "gujaratiMeaning": "જાળવણી કરી રહ્યું છે",
+          "hindiMeaning": "बनाए रख रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Preserve",
+          "gujaratiPronunciation": "પ્રિઝર્વ",
+          "hindiPronunciation": "प्रिजर्व",
+          "gujaratiMeaning": "સાચવવું",
+          "hindiMeaning": "संरक्षित करना"
+        },
+        {
+          "word": "Keep up",
+          "gujaratiPronunciation": "કીપ અપ",
+          "hindiPronunciation": "कीप अप",
+          "gujaratiMeaning": "ચાલુ રાખવું",
+          "hindiMeaning": "जारी रखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Abandon",
+          "gujaratiPronunciation": "અબેન્ડન",
+          "hindiPronunciation": "अबैंडन",
+          "gujaratiMeaning": "ત્યાગ કરવો",
+          "hindiMeaning": "छोड़ देना"
+        },
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "અવગણના કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Contain",
+          "gujaratiPronunciation": "કન્ટેન",
+          "hindiPronunciation": "कंटेन",
+          "gujaratiMeaning": "સમાવવું",
+          "hindiMeaning": "शामिल करना"
+        },
+        {
+          "word": "Main",
+          "gujaratiPronunciation": "મેઇન",
+          "hindiPronunciation": "मेन",
+          "gujaratiMeaning": "મુખ્ય",
+          "hindiMeaning": "मुख्य"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is important to maintain a healthy diet.",
+          "gujaratiPronunciation": "ઇટ ઇઝ ઇમ્પોર્ટન્ટ ટુ મેન્ટેન અ હેલ્ધી ડાયટ.",
+          "hindiPronunciation": "इट इज इम्पोर्टेंट टू मेनटेन अ हेल्दी डाइट।",
+          "gujaratiTranslation": "સ્વસ્થ આહાર જાળવવો મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "स्वस्थ आहार बनाए रखना महत्वपूर्ण है।"
+        }
+      ]
+    },
+    {
+      "word": "Sustain",
+      "gujaratiPronunciation": "સસ્ટેન",
+      "hindiPronunciation": "सस्टेन",
+      "gujaratiMeaning": "ટકાવી રાખવું",
+      "hindiMeaning": "बनाए रखना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Sustain",
+          "gujaratiPronunciation": "સસ્ટેન",
+          "hindiPronunciation": "सस्टेन",
+          "gujaratiMeaning": "ટકાવી રાખવું",
+          "hindiMeaning": "बनाए रखना"
+        },
+        "V2 (Past)": {
+          "word": "Sustained",
+          "gujaratiPronunciation": "સસ્ટેઇન્ડ",
+          "hindiPronunciation": "सस्टेंड",
+          "gujaratiMeaning": "ટકાવી રાખ્યું",
+          "hindiMeaning": "बनाए रखा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Sustained",
+          "gujaratiPronunciation": "સસ્ટેઇન્ડ",
+          "hindiPronunciation": "सस्टेंड",
+          "gujaratiMeaning": "ટકાવી રાખેલું",
+          "hindiMeaning": "बनाए रखा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Sustaining",
+          "gujaratiPronunciation": "સસ્ટેનિંગ",
+          "hindiPronunciation": "सस्टेनिंग",
+          "gujaratiMeaning": "ટકાવી રાખી રહ્યું છે",
+          "hindiMeaning": "बनाए रख रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Support",
+          "gujaratiPronunciation": "સપોર્ટ",
+          "hindiPronunciation": "सपोर्ट",
+          "gujaratiMeaning": "આધાર આપવો",
+          "hindiMeaning": "समर्थन देना"
+        },
+        {
+          "word": "Uphold",
+          "gujaratiPronunciation": "અપહોલ્ડ",
+          "hindiPronunciation": "अपहोल्ड",
+          "gujaratiMeaning": "જાળવી રાખવું",
+          "hindiMeaning": "कायम रखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Hinder",
+          "gujaratiPronunciation": "હિન્ડર",
+          "hindiPronunciation": "हिंडर",
+          "gujaratiMeaning": "અવરોધવું",
+          "hindiMeaning": "बाधा डालना"
+        },
+        {
+          "word": "Undermine",
+          "gujaratiPronunciation": "અન્ડરમાઇન",
+          "hindiPronunciation": "अंडरमाइन",
+          "gujaratiMeaning": "નબળું પાડવું",
+          "hindiMeaning": "कमजोर करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Stain",
+          "gujaratiPronunciation": "સ્ટેન",
+          "hindiPronunciation": "स्टेन",
+          "gujaratiMeaning": "દાગ",
+          "hindiMeaning": "धब्बा"
+        },
+        {
+          "word": "System",
+          "gujaratiPronunciation": "સિસ્ટમ",
+          "hindiPronunciation": "सिस्टम",
+          "gujaratiMeaning": "પ્રણાલી",
+          "hindiMeaning": "प्रणाली"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "This diet is hard to sustain for a long time.",
+          "gujaratiPronunciation": "ધિસ ડાયટ ઇઝ હાર્ડ ટુ સસ્ટેન ફોર અ લોંગ ટાઇમ.",
+          "hindiPronunciation": "दिस डाइट इज हार्ड टू सस्टेन फॉर अ लॉन्ग टाइम।",
+          "gujaratiTranslation": "આ આહાર લાંબા સમય સુધી ટકાવી રાખવો મુશ્કેલ છે.",
+          "hindiTranslation": "यह आहार लंबे समय तक बनाए रखना मुश्किल है।"
+        }
+      ]
+    },
+    {
+      "word": "Calibrate",
+      "gujaratiPronunciation": "કેલિબ્રેટ",
+      "hindiPronunciation": "कैलिब्रेट",
+      "gujaratiMeaning": "માપાંકન કરવું",
+      "hindiMeaning": "अंशांकन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Calibrate",
+          "gujaratiPronunciation": "કેલિબ્રેટ",
+          "hindiPronunciation": "कैलिब्रेट",
+          "gujaratiMeaning": "માપાંકન કરવું",
+          "hindiMeaning": "अंशांकन करना"
+        },
+        "V2 (Past)": {
+          "word": "Calibrated",
+          "gujaratiPronunciation": "કેલિબ્રેટેડ",
+          "hindiPronunciation": "कैलिब्रेटेड",
+          "gujaratiMeaning": "માપાંકન કર્યું",
+          "hindiMeaning": "अंशांकन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Calibrated",
+          "gujaratiPronunciation": "કેલિબ્રેટેડ",
+          "hindiPronunciation": "कैलिब्रेटेड",
+          "gujaratiMeaning": "માપાંકન કરેલું",
+          "hindiMeaning": "अंशांकित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Calibrating",
+          "gujaratiPronunciation": "કેલિબ્રેટિંગ",
+          "hindiPronunciation": "कैलिब्रेटिंग",
+          "gujaratiMeaning": "માપાંકન કરી રહ્યું છે",
+          "hindiMeaning": "अंशांकन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Adjust",
+          "gujaratiPronunciation": "એડજસ્ટ",
+          "hindiPronunciation": "एडजस्ट",
+          "gujaratiMeaning": "ગોઠવવું",
+          "hindiMeaning": "समायोजित करना"
+        },
+        {
+          "word": "Tune",
+          "gujaratiPronunciation": "ટ્યુન",
+          "hindiPronunciation": "ट्यून",
+          "gujaratiMeaning": "મેળવવું",
+          "hindiMeaning": "ठीक करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Deregulate",
+          "gujaratiPronunciation": "ડિરેગ્યુલેટ",
+          "hindiPronunciation": "डिसरेगुलेट",
+          "gujaratiMeaning": "નિયંત્રણમુક્ત કરવું",
+          "hindiMeaning": "अनियमित करना"
+        },
+        {
+          "word": "Misalign",
+          "gujaratiPronunciation": "મિસઅલાઇન",
+          "hindiPronunciation": "मिसएलाइन",
+          "gujaratiMeaning": "ખોટી રીતે ગોઠવવું",
+          "hindiMeaning": "गलत संरेखित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Celebrate",
+          "gujaratiPronunciation": "સેલિબ્રેટ",
+          "hindiPronunciation": "सेलिब्रेट",
+          "gujaratiMeaning": "ઉજવણી કરવી",
+          "hindiMeaning": "जश्न मनाना"
+        },
+        {
+          "word": "Collaborate",
+          "gujaratiPronunciation": "કોલાબોરેટ",
+          "hindiPronunciation": "कोलेबोरेट",
+          "gujaratiMeaning": "સહયોગ કરવો",
+          "hindiMeaning": "सहयोग करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The technician needs to calibrate the machine.",
+          "gujaratiPronunciation": "ધ ટેકનિશિયન નીડ્સ ટુ કેલિબ્રેટ ધ મશીન.",
+          "hindiPronunciation": "द टेक्निशियन नीड्स टू कैलिब्रेट द मशीन।",
+          "gujaratiTranslation": "ટેકનિશિયનને મશીનનું માપાંકન કરવાની જરૂર છે.",
+          "hindiTranslation": "तकनीशियन को मशीन को कैलिब्रेट करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Revitalize",
+      "gujaratiPronunciation": "રિવાઇટલાઇઝ",
+      "hindiPronunciation": "रिवाइटलाइज",
+      "gujaratiMeaning": "પુનર્જીવિત કરવું",
+      "hindiMeaning": "पुनर्जीवित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Revitalize",
+          "gujaratiPronunciation": "રિવાઇટલાઇઝ",
+          "hindiPronunciation": "रिवाइटलाइज",
+          "gujaratiMeaning": "પુનર્જીવિત કરવું",
+          "hindiMeaning": "पुनर्जीवित करना"
+        },
+        "V2 (Past)": {
+          "word": "Revitalized",
+          "gujaratiPronunciation": "રિવાઇટલાઇઝ્ડ",
+          "hindiPronunciation": "रिवाइटलाइज्ड",
+          "gujaratiMeaning": "પુનર્જીવિત કર્યું",
+          "hindiMeaning": "पुनर्जीवित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Revitalized",
+          "gujaratiPronunciation": "રિવાઇટલાઇઝ્ડ",
+          "hindiPronunciation": "रिवाइटलाइज्ड",
+          "gujaratiMeaning": "પુનર્જીવિત કરેલું",
+          "hindiMeaning": "पुनर्जीवित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Revitalizing",
+          "gujaratiPronunciation": "રિવાઇટલાઇઝિંગ",
+          "hindiPronunciation": "रिवाइटलाइजिंग",
+          "gujaratiMeaning": "પુનર્જીવિત કરી રહ્યું છે",
+          "hindiMeaning": "पुनर्जीवित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rejuvenate",
+          "gujaratiPronunciation": "રિજુવિનેટ",
+          "hindiPronunciation": "रेजुवेनेट",
+          "gujaratiMeaning": "કાયાકલ્પ કરવો",
+          "hindiMeaning": "नया जीवन देना"
+        },
+        {
+          "word": "Refresh",
+          "gujaratiPronunciation": "રિફ્રેશ",
+          "hindiPronunciation": "रिफ्रेश",
+          "gujaratiMeaning": "તાજું કરવું",
+          "hindiMeaning": "ताज़ा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Weaken",
+          "gujaratiPronunciation": "વિકન",
+          "hindiPronunciation": "वीकन",
+          "gujaratiMeaning": "નબળું પાડવું",
+          "hindiMeaning": "कमजोर करना"
+        },
+        {
+          "word": "Deplete",
+          "gujaratiPronunciation": "ડિપ્લીટ",
+          "hindiPronunciation": "डिप्लीट",
+          "gujaratiMeaning": "ક્ષીણ કરવું",
+          "hindiMeaning": "खत्म करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Revise",
+          "gujaratiPronunciation": "રિવાઇઝ",
+          "hindiPronunciation": "रिवाइज",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "संशोधन करना"
+        },
+        {
+          "word": "Realize",
+          "gujaratiPronunciation": "રિયલાઇઝ",
+          "hindiPronunciation": "रियलाइज",
+          "gujaratiMeaning": "સમજવું",
+          "hindiMeaning": "महसूस करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The new project will help to revitalize the city center.",
+          "gujaratiPronunciation": "ધ ન્યૂ પ્રોજેક્ટ વિલ હેલ્પ ટુ રિવાઇટલાઇઝ ધ સિટી સેન્ટર.",
+          "hindiPronunciation": "द न्यू प्रोजेक्ट विल हेल्प टू रिवाइटलाइज द सिटी सेंटर।",
+          "gujaratiTranslation": "નવો પ્રોજેક્ટ શહેરના કેન્દ્રને પુનર્જીવિત કરવામાં મદદ કરશે.",
+          "hindiTranslation": "नई परियोजना शहर के केंद्र को पुनर्जीवित करने में मदद करेगी।"
+        }
+      ]
+    }
+  ]
+}

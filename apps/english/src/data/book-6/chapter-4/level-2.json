@@ -1,0 +1,393 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Calculate",
+      "gujaratiPronunciation": "કેલ્ક્યુલેટ",
+      "hindiPronunciation": "कैलकुलेट",
+      "gujaratiMeaning": "ગણતરી કરવી",
+      "hindiMeaning": "गणना करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Calculate",
+          "gujaratiPronunciation": "કેલ્ક્યુલેટ",
+          "hindiPronunciation": "कैलकुलेट",
+          "gujaratiMeaning": "ગણતરી કરવી",
+          "hindiMeaning": "गणना करना"
+        },
+        "V2 (Past)": {
+          "word": "Calculated",
+          "gujaratiPronunciation": "કેલ્ક્યુલેટેડ",
+          "hindiPronunciation": "कैलकुलेटेड",
+          "gujaratiMeaning": "ગણતરી કરી",
+          "hindiMeaning": "गणना की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Calculated",
+          "gujaratiPronunciation": "કેલ્ક્યુલેટેડ",
+          "hindiPronunciation": "कैलकुलेटेड",
+          "gujaratiMeaning": "ગણતરી કરેલ",
+          "hindiMeaning": "गणना किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Calculating",
+          "gujaratiPronunciation": "કેલ્ક્યુલેટિંગ",
+          "hindiPronunciation": "कैलकुलेटिंग",
+          "gujaratiMeaning": "ગણતરી કરી રહ્યું છે",
+          "hindiMeaning": "गणना कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Compute",
+          "gujaratiPronunciation": "કમ્પ્યુટ",
+          "hindiPronunciation": "कंप्यूट",
+          "gujaratiMeaning": "ગણતરી કરવી",
+          "hindiMeaning": "गणना करना"
+        },
+        {
+          "word": "Reckon",
+          "gujaratiPronunciation": "રેકન",
+          "hindiPronunciation": "रेकन",
+          "gujaratiMeaning": "ગણવું",
+          "hindiMeaning": "गिनना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Guess",
+          "gujaratiPronunciation": "ગેસ",
+          "hindiPronunciation": "गेस",
+          "gujaratiMeaning": "અનુમાન લગાવવું",
+          "hindiMeaning": "अनुमान लगाना"
+        },
+        {
+          "word": "Estimate",
+          "gujaratiPronunciation": "એસ્ટિમેટ",
+          "hindiPronunciation": "एस्टीमेट",
+          "gujaratiMeaning": "અંદાજ કાઢવો",
+          "hindiMeaning": "अनुमान लगाना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You need to calculate your monthly expenses.",
+          "gujaratiPronunciation": "યુ નીડ ટુ કેલ્ક્યુલેટ યોર મંથલી એક્સપેન્સીસ.",
+          "hindiPronunciation": "यू नीड टू कैलकुलेट योर मंथली एक्सपेंसेस।",
+          "gujaratiTranslation": "તમારે તમારા માસિક ખર્ચની ગણતરી કરવાની જરૂર છે.",
+          "hindiTranslation": "आपको अपने मासिक खर्चों की गणना करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Gauge",
+      "gujaratiPronunciation": "ગેજ",
+      "hindiPronunciation": "गेज",
+      "gujaratiMeaning": "માપવું",
+      "hindiMeaning": "मापना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Gauge",
+          "gujaratiPronunciation": "ગેજ",
+          "hindiPronunciation": "गेज",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        },
+        "V2 (Past)": {
+          "word": "Gauged",
+          "gujaratiPronunciation": "ગેજ્ડ",
+          "hindiPronunciation": "गेज्ड",
+          "gujaratiMeaning": "માપ્યું",
+          "hindiMeaning": "मापा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Gauged",
+          "gujaratiPronunciation": "ગેજ્ડ",
+          "hindiPronunciation": "गेज्ड",
+          "gujaratiMeaning": "માપેલું",
+          "hindiMeaning": "मापा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Gauging",
+          "gujaratiPronunciation": "ગેજિંગ",
+          "hindiPronunciation": "गेजिंग",
+          "gujaratiMeaning": "માપી રહ્યું છે",
+          "hindiMeaning": "माप रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Measure",
+          "gujaratiPronunciation": "મેઝર",
+          "hindiPronunciation": "मेज़र",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        },
+        {
+          "word": "Assess",
+          "gujaratiPronunciation": "અસેસ",
+          "hindiPronunciation": "असेस",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "आकलन करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "It is difficult to gauge the mood of the audience.",
+          "gujaratiPronunciation": "ઇટ ઇઝ ડિફિકલ્ટ ટુ ગેજ ધ મૂડ ઓફ ધ ઓડિયન્સ.",
+          "hindiPronunciation": "इट इज़ डिफिकल्ट टू गेज द मूड ऑफ़ द ऑडियंस।",
+          "gujaratiTranslation": "પ્રેક્ષકોના મિજાજને માપવો મુશ્કેલ છે.",
+          "hindiTranslation": "दर्शकों के मूड को मापना मुश्किल है।"
+        }
+      ]
+    },
+    {
+      "word": "Distribute",
+      "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ",
+      "hindiPronunciation": "डिस्ट्रिब्यूट",
+      "gujaratiMeaning": "વહેંચવું",
+      "hindiMeaning": "बांटना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Distribute",
+          "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ",
+          "hindiPronunciation": "डिस्ट्रिब्यूट",
+          "gujaratiMeaning": "વહેંચવું",
+          "hindiMeaning": "बांटना"
+        },
+        "V2 (Past)": {
+          "word": "Distributed",
+          "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટેડ",
+          "hindiPronunciation": "डिस्ट्रिब्यूटेड",
+          "gujaratiMeaning": "વહેંચ્યું",
+          "hindiMeaning": "बांटा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Distributed",
+          "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટેડ",
+          "hindiPronunciation": "डिस्ट्रिब्यूटेड",
+          "gujaratiMeaning": "વહેંચેલું",
+          "hindiMeaning": "बांटा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Distributing",
+          "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટિંગ",
+          "hindiPronunciation": "डिस्ट्रिब्यूटिंग",
+          "gujaratiMeaning": "વહેંચી રહ્યું છે",
+          "hindiMeaning": "बांट रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Share",
+          "gujaratiPronunciation": "શેર",
+          "hindiPronunciation": "शेयर",
+          "gujaratiMeaning": "વહેંચવું",
+          "hindiMeaning": "बांटना"
+        },
+        {
+          "word": "Allocate",
+          "gujaratiPronunciation": "એલોકેટ",
+          "hindiPronunciation": "एलोकेट",
+          "gujaratiMeaning": "ફાળવવું",
+          "hindiMeaning": "आवंटित کرنا"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Collect",
+          "gujaratiPronunciation": "કલેક્ટ",
+          "hindiPronunciation": "कलेक्ट",
+          "gujaratiMeaning": "એકઠું કરવું",
+          "hindiMeaning": "इकट्ठा करना"
+        },
+        {
+          "word": "Gather",
+          "gujaratiPronunciation": "ગેધર",
+          "hindiPronunciation": "गैदर",
+          "gujaratiMeaning": "એકત્ર કરવું",
+          "hindiMeaning": "एकत्र करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The charity will distribute food to the needy.",
+          "gujaratiPronunciation": "ધ ચેરિટી વિલ ડિસ્ટ્રિબ્યુટ ફૂડ ટુ ધ નીડી.",
+          "hindiPronunciation": "द चैरिटी विल डिस्ट्रिब्यूट फूड टू द नीडी।",
+          "gujaratiTranslation": "આ સખાવતી સંસ્થા જરૂરિયાતમંદોને ખોરાકનું વિતરણ કરશે.",
+          "hindiTranslation": "यह चैरिटी जरूरतमंदों को भोजन वितरित करेगी।"
+        }
+      ]
+    },
+    {
+      "word": "Estimate",
+      "gujaratiPronunciation": "એસ્ટિમેટ",
+      "hindiPronunciation": "एस्टीमेट",
+      "gujaratiMeaning": "અંદાજ કાઢવો",
+      "hindiMeaning": "अनुमान लगाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Estimate",
+          "gujaratiPronunciation": "એસ્ટિમેટ",
+          "hindiPronunciation": "एस्टीमेट",
+          "gujaratiMeaning": "અંદાજ કાઢવો",
+          "hindiMeaning": "अनुमान लगाना"
+        },
+        "V2 (Past)": {
+          "word": "Estimated",
+          "gujaratiPronunciation": "એસ્ટિમેટેડ",
+          "hindiPronunciation": "एस्टीमेटेड",
+          "gujaratiMeaning": "અંદાજ કાઢ્યો",
+          "hindiMeaning": "अनुमान लगाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Estimated",
+          "gujaratiPronunciation": "એસ્ટિમેટેડ",
+          "hindiPronunciation": "एस्टीमेटेड",
+          "gujaratiMeaning": "અંદાજિત",
+          "hindiMeaning": "अनुमानित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Estimating",
+          "gujaratiPronunciation": "એસ્ટિમેટિંગ",
+          "hindiPronunciation": "एस्टीमेटिंग",
+          "gujaratiMeaning": "અંદાજ કાઢી રહ્યું છે",
+          "hindiMeaning": "अनुमान लगा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Guess",
+          "gujaratiPronunciation": "ગેસ",
+          "hindiPronunciation": "गेस",
+          "gujaratiMeaning": "અનુમાન લગાવવું",
+          "hindiMeaning": "अनुमान लगाना"
+        },
+        {
+          "word": "Approximate",
+          "gujaratiPronunciation": "અપ્રોક્સિમેટ",
+          "hindiPronunciation": "एप्रोक्सिमेट",
+          "gujaratiMeaning": "આશરે ગણવું",
+          "hindiMeaning": "लगभग गणना करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Calculate",
+          "gujaratiPronunciation": "કેલ્ક્યુલેટ",
+          "hindiPronunciation": "कैलकुलेट",
+          "gujaratiMeaning": "ગણતરી કરવી",
+          "hindiMeaning": "गणना करना"
+        },
+        {
+          "word": "Measure",
+          "gujaratiPronunciation": "મેઝર",
+          "hindiPronunciation": "मेज़र",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Can you estimate the cost of the repairs?",
+          "gujaratiPronunciation": "કેન યુ એસ્ટિમેટ ધ કોસ્ટ ઓફ ધ રિપેર?",
+          "hindiPronunciation": "कैन यू एस्टीमेट द कॉस्ट ऑफ़ द रिपेयर्स?",
+          "gujaratiTranslation": "શું તમે સમારકામનો ખર્ચ અંદાજી શકો છો?",
+          "hindiTranslation": "क्या आप मरम्मत की लागत का अनुमान लगा सकते हैं?"
+        }
+      ]
+    },
+    {
+      "word": "Quantify",
+      "gujaratiPronunciation": "ક્વોન્ટિફાય",
+      "hindiPronunciation": "क्वांटिफाई",
+      "gujaratiMeaning": "માત્રા નક્કી કરવી",
+      "hindiMeaning": "मात्रा निर्धारित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Quantify",
+          "gujaratiPronunciation": "ક્વોન્ટિફાય",
+          "hindiPronunciation": "क्वांटिफाई",
+          "gujaratiMeaning": "માત્રા નક્કી કરવી",
+          "hindiMeaning": "मात्रा निर्धारित करना"
+        },
+        "V2 (Past)": {
+          "word": "Quantified",
+          "gujaratiPronunciation": "ક્વોન્ટિફાઇડ",
+          "hindiPronunciation": "क्वांटिफाइड",
+          "gujaratiMeaning": "માત્રા નક્કી કરી",
+          "hindiMeaning": "मात्रा निर्धारित की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Quantified",
+          "gujaratiPronunciation": "ક્વોન્ટિફાઇડ",
+          "hindiPronunciation": "क्वांटिफाइड",
+          "gujaratiMeaning": "માત્રા નક્કી કરેલ",
+          "hindiMeaning": "मात्रा निर्धारित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Quantifying",
+          "gujaratiPronunciation": "ક્વોન્ટિફાઇંગ",
+          "hindiPronunciation": "क्वांटिफाइंग",
+          "gujaratiMeaning": "માત્રા નક્કી કરી રહ્યું છે",
+          "hindiMeaning": "मात्रा निर्धारित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Measure",
+          "gujaratiPronunciation": "મેઝર",
+          "hindiPronunciation": "मेज़र",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        },
+        {
+          "word": "Assess",
+          "gujaratiPronunciation": "અસેસ",
+          "hindiPronunciation": "असेस",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "आकलन करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        {
+          "word": "Quantify",
+          "gujaratiPronunciation": "ક્વોન્ટિફાય",
+          "hindiPronunciation": "क्वांटिफाई",
+          "gujaratiMeaning": "માત્રા નક્કી કરવી",
+          "hindiMeaning": "मात्रा निर्धारित करना",
+          "difference": "Quantify એટલે કોઈ વસ્તુની માત્રાને સંખ્યામાં માપવી, જ્યારે Qualify એટલે લાયકાત મેળવવી."
+        },
+        {
+          "word": "Qualify",
+          "gujaratiPronunciation": "ક્વોલિફાય",
+          "hindiPronunciation": "क्वालीफाई",
+          "gujaratiMeaning": "લાયકાત મેળવવી",
+          "hindiMeaning": "योग्यता प्राप्त करना",
+          "difference": "Quantify એટલે કોઈ વસ્તુની માત્રાને સંખ્યામાં માપવી, જ્યારે Qualify એટલે લાયકાત મેળવવી."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It's difficult to quantify the damage caused by the storm.",
+          "gujaratiPronunciation": "ઇટ્સ ડિફિકલ્ટ ટુ ક્વોન્ટિફાય ધ ડેમેજ કોઝ્ડ બાય ધ સ્ટોર્મ.",
+          "hindiPronunciation": "इट्स डिफिकल्ट टू क्वांटिफाई द डैमेज कॉज़्ड बाई द स्टॉर्म।",
+          "gujaratiTranslation": "વાવાઝોડાથી થયેલા નુકસાનની માત્રા નક્કી કરવી મુશ્કેલ છે.",
+          "hindiTranslation": "तूफान से हुए नुकसान की मात्रा निर्धारित करना मुश्किल है।"
+        }
+      ]
+    }
+  ]
+}

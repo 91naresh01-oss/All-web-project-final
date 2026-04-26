@@ -1,0 +1,372 @@
+
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Code",
+            "gujaratiPronunciation": "કોડ",
+            "hindiPronunciation": "कोड",
+            "gujaratiMeaning": "કોડ લખવો",
+            "hindiMeaning": "कोड लिखना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Code",
+                    "pronunciation": "કોડ",
+                    "meaning": "કોડ લખવો"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Coded",
+                    "pronunciation": "કોડેડ",
+                    "meaning": "કોડ લખ્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Coded",
+                    "pronunciation": "કોડેડ",
+                    "meaning": "કોડ લખેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Coding",
+                    "pronunciation": "કોડિંગ",
+                    "meaning": "કોડ લખી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Program",
+                    "pronunciation": "પ્રોગ્રામ",
+                    "meaning": "પ્રોગ્રામ બનાવવો"
+                },
+                {
+                    "word": "Script",
+                    "pronunciation": "સ્ક્રિપ્ટ",
+                    "meaning": "સ્ક્રિપ્ટ લખવી"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Decode",
+                    "pronunciation": "ડિકોડ",
+                    "meaning": "ઉકેલવું"
+                },
+                {
+                    "word": "Design",
+                    "pronunciation": "ડિઝાઇન",
+                    "meaning": "ડિઝાઇન બનાવવી"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Coat",
+                    "pronunciation": "કોટ",
+                    "meaning": "કોટ"
+                },
+                {
+                    "word": "Load",
+                    "pronunciation": "લોડ",
+                    "meaning": "ભાર"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She learned to code in Python to analyze large datasets.",
+                    "gujaratiTranslation": "મોટા ડેટાસેટનું વિશ્લેષણ કરવા માટે તેણે પાયથનમાં કોડ કરવાનું શીખ્યું.",
+                    "hindiTranslation": "उसने बड़े डेटासेट का विश्लेषण करने के लिए पायथन में कोड करना सीखा।"
+                }
+            ]
+        },
+        {
+            "word": "Process",
+            "gujaratiPronunciation": "પ્રોસેસ",
+            "hindiPronunciation": "प्रोसेस",
+            "gujaratiMeaning": "પ્રક્રિયા કરવી",
+            "hindiMeaning": "प्रक्रिया करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Process",
+                    "pronunciation": "પ્રોસેસ",
+                    "meaning": "પ્રક્રિયા કરવી"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Processed",
+                    "pronunciation": "પ્રોસેસ્ડ",
+                    "meaning": "પ્રક્રિયા કરી"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Processed",
+                    "pronunciation": "પ્રોસેસ્ડ",
+                    "meaning": "પ્રક્રિયા કરેલી"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Processing",
+                    "pronunciation": "પ્રોસેસિંગ",
+                    "meaning": "પ્રક્રિયા કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Handle",
+                    "pronunciation": "હેન્ડલ",
+                    "meaning": "સંભાળવું"
+                },
+                {
+                    "word": "Manage",
+                    "pronunciation": "મેનેજ",
+                    "meaning": "વ્યવસ્થાપન કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Halt",
+                    "pronunciation": "હોલ્ટ",
+                    "meaning": "અટકાવવું"
+                },
+                {
+                    "word": "Ignore",
+                    "pronunciation": "ઇગ્નોર",
+                    "meaning": "અવગણવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Progress",
+                    "pronunciation": "પ્રોગ્રેસ",
+                    "meaning": "પ્રગતિ"
+                },
+                {
+                    "word": "Possess",
+                    "pronunciation": "પઝેસ",
+                    "meaning": "માલિકી હોવી"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The computer can process millions of calculations per second.",
+                    "gujaratiTranslation": "કમ્પ્યુટર પ્રતિ સેકન્ડ લાખો ગણતરીઓની પ્રક્રિયા કરી શકે છે.",
+                    "hindiTranslation": "कंप्यूटर प्रति सेकंड लाखों गणनाओं को संसाधित कर सकता है।"
+                }
+            ]
+        },
+        {
+            "word": "Unpack",
+            "gujaratiPronunciation": "અનપેક",
+            "hindiPronunciation": "अनपैक",
+            "gujaratiMeaning": "ખોલવું",
+            "hindiMeaning": "खोलना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Unpack",
+                    "pronunciation": "અનપેક",
+                    "meaning": "ખોલવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Unpacked",
+                    "pronunciation": "અનપેક્ડ",
+                    "meaning": "ખોલ્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Unpacked",
+                    "pronunciation": "અનપેક્ડ",
+                    "meaning": "ખોલેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Unpacking",
+                    "pronunciation": "અનપેકિંગ",
+                    "meaning": "ખોલી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Unwrap",
+                    "pronunciation": "અનરેપ",
+                    "meaning": "ખોલવું"
+                },
+                {
+                    "word": "Analyze",
+                    "pronunciation": "એનલાઈઝ",
+                    "meaning": "વિશ્લેષણ કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Pack",
+                    "pronunciation": "પેક",
+                    "meaning": "બંધ કરવું"
+                },
+                {
+                    "word": "Compress",
+                    "pronunciation": "કમ્પ્રેસ",
+                    "meaning": "સંકોચવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Impact",
+                    "pronunciation": "ઇમ્પેક્ટ",
+                    "meaning": "અસર"
+                },
+                {
+                    "word": "Unpaved",
+                    "pronunciation": "અનપેવ્ડ",
+                    "meaning": "કાચો (રસ્તો)"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "We need to unpack the complex issues behind this data.",
+                    "gujaratiTranslation": "આપણે આ ડેટા પાછળના જટિલ મુદ્દાઓને ખોલીને સમજવાની જરૂર છે.",
+                    "hindiTranslation": "हमें इस डेटा के पीछे के जटिल मुद्दों को खोलना होगा।"
+                }
+            ]
+        },
+        {
+            "word": "Extract",
+            "gujaratiPronunciation": "એક્સટ્રેક્ટ",
+            "hindiPronunciation": "एक्सट्रेक्ट",
+            "gujaratiMeaning": "અર્ક કાઢવો",
+            "hindiMeaning": "निकालना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Extract",
+                    "pronunciation": "એક્સટ્રેક્ટ",
+                    "meaning": "અર્ક કાઢવો"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Extracted",
+                    "pronunciation": "એક્સટ્રેક્ટેડ",
+                    "meaning": "અર્ક કાઢ્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Extracted",
+                    "pronunciation": "એક્સટ્રેક્ટેડ",
+                    "meaning": "અર્ક કાઢેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Extracting",
+                    "pronunciation": "એક્સટ્રેક્ટિંગ",
+                    "meaning": "અર્ક કાઢી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Derive",
+                    "pronunciation": "ડિરાઇવ",
+                    "meaning": "મેળવવું"
+                },
+                {
+                    "word": "Pull out",
+                    "pronunciation": "પુલ આઉટ",
+                    "meaning": "બહાર કાઢવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Insert",
+                    "pronunciation": "ઇન્સર્ટ",
+                    "meaning": "દાખલ કરવું"
+                },
+                {
+                    "word": "Embed",
+                    "pronunciation": "એમ્બેડ",
+                    "meaning": "જડવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Exact",
+                    "pronunciation": "એક્ઝેક્ટ",
+                    "meaning": "ચોક્કસ"
+                },
+                {
+                    "word": "Attract",
+                    "pronunciation": "એટ્રેક્ટ",
+                    "meaning": "આકર્ષવું"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The program is designed to extract relevant information from text files.",
+                    "gujaratiTranslation": "આ પ્રોગ્રામ ટેક્સ્ટ ફાઇલોમાંથી સંબંધિત માહિતી કાઢવા માટે બનાવવામાં આવ્યો છે.",
+                    "hindiTranslation": "यह प्रोग्राम टेक्स्ट फ़ाइलों से प्रासंगिक जानकारी निकालने के लिए डिज़ाइन किया गया है।"
+                }
+            ]
+        },
+        {
+            "word": "Query",
+            "gujaratiPronunciation": "ક્વેરી",
+            "hindiPronunciation": "क्वेरी",
+            "gujaratiMeaning": "પૂછપરછ કરવી",
+            "hindiMeaning": "पूछताछ करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Query",
+                    "pronunciation": "ક્વેરી",
+                    "meaning": "પૂછપરછ કરવી"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Queried",
+                    "pronunciation": "ક્વેરીડ",
+                    "meaning": "પૂછપરછ કરી"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Queried",
+                    "pronunciation": "ક્વેરીડ",
+                    "meaning": "પૂછપરછ કરેલી"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Querying",
+                    "pronunciation": "ક્વેરીઇંગ",
+                    "meaning": "પૂછપરછ કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Ask",
+                    "pronunciation": "આસ્ક",
+                    "meaning": "પૂછવું"
+                },
+                {
+                    "word": "Inquire",
+                    "pronunciation": "ઇન્ક્વાયર",
+                    "meaning": "તપાસ કરવી"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Answer",
+                    "pronunciation": "આન્સર",
+                    "meaning": "જવાબ આપવો"
+                },
+                {
+                    "word": "Reply",
+                    "pronunciation": "રિપ્લાય",
+                    "meaning": "પ્રત્યુત્તર આપવો"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Quarry",
+                    "pronunciation": "ક્વોરી",
+                    "meaning": "ખાણ"
+                },
+                {
+                    "word": "Quiet",
+                    "pronunciation": "ક્વાયટ",
+                    "meaning": "શાંત"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "You can query the database to find all customers in a specific city.",
+                    "gujaratiTranslation": "ચોક્કસ શહેરમાંના બધા ગ્રાહકોને શોધવા માટે તમે ડેટાબેઝને ક્વેરી કરી શકો છો.",
+                    "hindiTranslation": "आप किसी विशिष्ट शहर के सभी ग्राहकों को खोजने के लिए डेटाबेस से पूछताछ कर सकते हैं।"
+                }
+            ]
+        }
+    ]
+}

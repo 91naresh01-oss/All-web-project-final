@@ -1,0 +1,176 @@
+{
+  "id": "level-4",
+  "title": "Structuring & Understanding",
+  "words": [
+    {
+      "word": "Model",
+      "gujaratiPronunciation": "મોડેલ",
+      "hindiPronunciation": "मॉडल",
+      "gujaratiMeaning": "નમૂનો બનાવવો, આદર્શ તરીકે રજૂ કરવું",
+      "hindiMeaning": "नमूना बनाना, आदर्श के रूप में प्रस्तुत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Model", "gujaratiPronunciation": "મોડેલ", "hindiPronunciation": "मॉडल", "gujaratiMeaning": "નમૂનો બનાવવો", "hindiMeaning": "नमूना बनाना" },
+        "V2 (Past)": { "word": "Modeled", "gujaratiPronunciation": "મોડેલ્ડ", "hindiPronunciation": "मॉडल्ड", "gujaratiMeaning": "નમૂનો બનાવ્યો", "hindiMeaning": "नमूना बनाया" },
+        "V3 (Past Participle)": { "word": "Modeled", "gujaratiPronunciation": "મોડેલ્ડ", "hindiPronunciation": "मॉडल्ड", "gujaratiMeaning": "નમૂનો બનાવેલો", "hindiMeaning": "नमूना बनाया हुआ" },
+        "V4 (Present Participle)": { "word": "Modeling", "gujaratiPronunciation": "મોડેલિંગ", "hindiPronunciation": "मॉडलिंग", "gujaratiMeaning": "નમૂનો બનાવી રહ્યું", "hindiMeaning": "नमूना बना रहा" }
+      },
+      "synonyms": [
+        { "word": "Shape", "gujaratiPronunciation": "શેપ", "hindiPronunciation": "शेप", "gujaratiMeaning": "આકાર આપવો", "hindiMeaning": "आकार देना" },
+        { "word": "Demonstrate", "gujaratiPronunciation": "ડેમોન્સ્ટ્રેટ", "hindiPronunciation": "डेमोंस्ट्रेट", "gujaratiMeaning": "પ્રદર્શન કરવું", "hindiMeaning": "प्रदर्शन करना" }
+      ],
+      "antonyms": [
+        { "word": "Distort", "gujaratiPronunciation": "ડિસ્ટોર્ટ", "hindiPronunciation": "डिस्टॉर्ट", "gujaratiMeaning": "વિકૃત કરવું", "hindiMeaning": "विकृत करना" },
+        { "word": "Imitate", "gujaratiPronunciation": "ઇમિટેટ", "hindiPronunciation": "इमिटेट", "gujaratiMeaning": "નકલ કરવી", "hindiMeaning": "नकल करना" }
+      ],
+      "confusingWords": [
+        { "word": "Medal", "gujaratiPronunciation": "મેડલ", "hindiPronunciation": "मेडल", "gujaratiMeaning": "ચંદ્રક", "hindiMeaning": "पदक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The system was modeled on the latest technology.",
+          "gujaratiTranslation": "આ સિસ્ટમ નવીનતમ ટેકનોલોજી પર આધારિત હતી.",
+          "hindiTranslation": "यह प्रणाली नवीनतम तकनीक पर आधारित थी।",
+          "gujaratiPronunciation": "ધ સિસ્ટમ વૉઝ મોડેલ્ડ ઓન ધ લેટેસ્ટ ટેકનોલોજી.",
+          "hindiPronunciation": "द सिस्टम वॉज़ मॉडल्ड ऑन द लेटेस्ट टेक्नोलॉजी।"
+        }
+      ]
+    },
+    {
+      "word": "Posit",
+      "gujaratiPronunciation": "પોઝિટ",
+      "hindiPronunciation": "पॉज़िट",
+      "gujaratiMeaning": "ધારણા કરવી, સૂચવવું",
+      "hindiMeaning": "मान लेना, प्रस्तुत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Posit", "gujaratiPronunciation": "પોઝિટ", "hindiPronunciation": "पॉज़िट", "gujaratiMeaning": "ધારણા કરવી", "hindiMeaning": "मान लेना" },
+        "V2 (Past)": { "word": "Posited", "gujaratiPronunciation": "પોઝિટેડ", "hindiPronunciation": "पॉज़िटेड", "gujaratiMeaning": "ધારણા કરી", "hindiMeaning": "मान लिया" },
+        "V3 (Past Participle)": { "word": "Posited", "gujaratiPronunciation": "પોઝિટેડ", "hindiPronunciation": "पॉज़िटेड", "gujaratiMeaning": "ધારણા કરેલી", "hindiMeaning": "माना हुआ" },
+        "V4 (Present Participle)": { "word": "Positing", "gujaratiPronunciation": "પોઝિટિંગ", "hindiPronunciation": "पॉज़िटिंग", "gujaratiMeaning": "ધારણા કરી રહ્યું", "hindiMeaning": "मान रहा" }
+      },
+      "synonyms": [
+        { "word": "Postulate", "gujaratiPronunciation": "પોસ્ટ્યુલેટ", "hindiPronunciation": "पोस्ट्युलेट", "gujaratiMeaning": "સ્વીકારી લેવું", "hindiMeaning": "मान लेना" },
+        { "word": "Suggest", "gujaratiPronunciation": "સજેસ્ટ", "hindiPronunciation": "सजेस्ट", "gujaratiMeaning": "સૂચવવું", "hindiMeaning": "सुझाव देना" }
+      ],
+      "antonyms": [
+        { "word": "Disprove", "gujaratiPronunciation": "ડિસપ્રૂવ", "hindiPronunciation": "डिस्प्रूव", "gujaratiMeaning": "ખોટું સાબિત કરવું", "hindiMeaning": "गलत साबित करना" },
+        { "word": "Question", "gujaratiPronunciation": "ક્વેશ્ચન", "hindiPronunciation": "क्वेश्चन", "gujaratiMeaning": "પ્રશ્ન કરવો", "hindiMeaning": "प्रश्न करना" }
+      ],
+      "confusingWords": [
+        { "word": "Deposit", "gujaratiPronunciation": "ડિપોઝિટ", "hindiPronunciation": "डिपॉजिट", "gujaratiMeaning": "થાપણ", "hindiMeaning": "जमा राशि" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The theory posits that the universe is expanding.",
+          "gujaratiTranslation": "આ સિદ્ધાંત એવી ધારણા કરે છે કે બ્રહ્માંડ વિસ્તરી રહ્યું છે.",
+          "hindiTranslation": "यह सिद्धांत मानता है कि ब्रह्मांड का विस्तार हो रहा है।",
+          "gujaratiPronunciation": "ધ થિયરી પોઝિટ્સ ધેટ ધ યુનિવર્સ ઇઝ એક્સપાન્ડિંગ.",
+          "hindiPronunciation": "द थ्योरी पॉज़िट्स दैट द यूनिवर्स इज़ एक्सपैंडिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Dissect",
+      "gujaratiPronunciation": "ડાઇસેક્ટ",
+      "hindiPronunciation": "डाइसेक्ट",
+      "gujaratiMeaning": "વિચ્છેદન કરવું, વિશ્લેષણ કરવું",
+      "hindiMeaning": "विच्छेदन करना, विश्लेषण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Dissect", "gujaratiPronunciation": "ડાઇસેક્ટ", "hindiPronunciation": "डाइसेक्ट", "gujaratiMeaning": "વિચ્છેદન કરવું", "hindiMeaning": "विच्छेदन करना" },
+        "V2 (Past)": { "word": "Dissected", "gujaratiPronunciation": "ડાઇસેક્ટેડ", "hindiPronunciation": "डाइसेक्टेड", "gujaratiMeaning": "વિચ્છેદન કર્યું", "hindiMeaning": "विच्छेदन किया" },
+        "V3 (Past Participle)": { "word": "Dissected", "gujaratiPronunciation": "ડાઇસેક્ટેડ", "hindiPronunciation": "डाइसेक्टेड", "gujaratiMeaning": "વિચ્છેદન કરેલું", "hindiMeaning": "विच्छेदन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Dissecting", "gujaratiPronunciation": "ડાઇસેક્ટિંગ", "hindiPronunciation": "डाइसेक्टिंग", "gujaratiMeaning": "વિચ્છેદન કરી રહ્યું", "hindiMeaning": "विच्छेदन कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Analyze", "gujaratiPronunciation": "એનલાઈઝ", "hindiPronunciation": "एनलाइज़", "gujaratiMeaning": "વિશ્લેષણ કરવું", "hindiMeaning": "विश्लेषण करना" },
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एक्ज़ामिन", "gujaratiMeaning": "પરીક્ષણ કરવું", "hindiMeaning": "परीक्षण करना" }
+      ],
+      "antonyms": [
+        { "word": "Assemble", "gujaratiPronunciation": "એસેમ્બલ", "hindiPronunciation": "असेंबल", "gujaratiMeaning": "એકત્ર કરવું", "hindiMeaning": "इकट्ठा करना" },
+        { "word": "Synthesize", "gujaratiPronunciation": "સિન્થેસાઇઝ", "hindiPronunciation": "सिंथेसाइज़", "gujaratiMeaning": "સંશ્લેષણ કરવું", "hindiMeaning": "संश्लेषण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Direct", "gujaratiPronunciation": "ડાયરેક્ટ", "hindiPronunciation": "डायरेक्ट", "gujaratiMeaning": "સીધું", "hindiMeaning": "सीधा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The students will dissect a frog in the biology class.",
+          "gujaratiTranslation": "વિદ્યાર્થીઓ જીવવિજ્ઞાનના વર્ગમાં દેડકાનું વિચ્છેદન કરશે.",
+          "hindiTranslation": "छात्र जीव विज्ञान की कक्षा में एक मेंढक का विच्छेदन करेंगे।",
+          "gujaratiPronunciation": "ધ સ્ટુડન્ટ્સ વિલ ડાઇસેક્ટ અ ફ્રોગ ઇન ધ બાયોલોજી ક્લાસ.",
+          "hindiPronunciation": "द स्टूडेंट्स विल डाइसेक्ट अ फ्रॉग इन द बायोलॉजी क्लास।"
+        }
+      ]
+    },
+    {
+      "word": "Remodel",
+      "gujaratiPronunciation": "રિમોડેલ",
+      "hindiPronunciation": "रिमॉडल",
+      "gujaratiMeaning": "પુનર્નિર્માણ કરવું, સુધારવું",
+      "hindiMeaning": "पुनर्निर्माण करना, सुधारना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Remodel", "gujaratiPronunciation": "રિમોડેલ", "hindiPronunciation": "रिमॉडल", "gujaratiMeaning": "પુનર્નિર્માણ કરવું", "hindiMeaning": "पुनर्निर्माण करना" },
+        "V2 (Past)": { "word": "Remodeled", "gujaratiPronunciation": "રિમોડેલ્ડ", "hindiPronunciation": "रिमॉडल्ड", "gujaratiMeaning": "પુનર્નિર્માણ કર્યું", "hindiMeaning": "पुनर्निर्माण किया" },
+        "V3 (Past Participle)": { "word": "Remodeled", "gujaratiPronunciation": "રિમોડેલ્ડ", "hindiPronunciation": "रिमॉडल्ड", "gujaratiMeaning": "પુનર્નિર્માણ કરેલું", "hindiMeaning": "पुनर्निर्मित" },
+        "V4 (Present Participle)": { "word": "Remodeling", "gujaratiPronunciation": "રિમોડેલિંગ", "hindiPronunciation": "रिमodeling", "gujaratiMeaning": "પુનર્નિર્માણ કરી રહ્યું", "hindiMeaning": "पुनर्निर्माण कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Renovate", "gujaratiPronunciation": "રેનોવેટ", "hindiPronunciation": "रेनोवेट", "gujaratiMeaning": "નવીનીકરણ કરવું", "hindiMeaning": "नवीनीकरण करना" },
+        { "word": "Reconstruct", "gujaratiPronunciation": "રિકન્સ્ટ્રક્ટ", "hindiPronunciation": "रिकंस्ट्रक्ट", "gujaratiMeaning": "પુનઃરચના કરવી", "hindiMeaning": "पुनर्निर्माण करना" }
+      ],
+      "antonyms": [
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Demolish", "gujaratiPronunciation": "ડિમોલિશ", "hindiPronunciation": "डिमोलिश", "gujaratiMeaning": "તોડી પાડવું", "hindiMeaning": "ध्वस्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Remote", "gujaratiPronunciation": "રિમોટ", "hindiPronunciation": "रिमोट", "gujaratiMeaning": "દૂરનું", "hindiMeaning": "दूरस्थ" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They plan to remodel their kitchen next year.",
+          "gujaratiTranslation": "તેઓ આવતા વર્ષે તેમના રસોડાનું પુનર્નિર્માણ કરવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "वे अगले साल अपनी रसोई का पुनर्निर्माण करने की योजना बना रहे हैं।",
+          "gujaratiPronunciation": "ધે પ્લાન ટુ રિમોડેલ ધેર કિચન નેક્સ્ટ યર.",
+          "hindiPronunciation": "दे प्लान टू रिमॉडल देयर किचन नेक्स्ट ईयर।"
+        }
+      ]
+    },
+    {
+      "word": "Cognize",
+      "gujaratiPronunciation": "કોગ્નાઇઝ",
+      "hindiPronunciation": "कॉग्नाइज़",
+      "gujaratiMeaning": "જાણવું, સમજવું, જ્ઞાન મેળવવું",
+      "hindiMeaning": "जानना, समझना, संज्ञान लेना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Cognize", "gujaratiPronunciation": "કોગ્નાઇઝ", "hindiPronunciation": "कॉग्नाइज़", "gujaratiMeaning": "જાણવું", "hindiMeaning": "जानना" },
+        "V2 (Past)": { "word": "Cognized", "gujaratiPronunciation": "કોગ્નાઇઝ્ડ", "hindiPronunciation": "कॉग्नाइज़्ड", "gujaratiMeaning": "જાણ્યું", "hindiMeaning": "जाना" },
+        "V3 (Past Participle)": { "word": "Cognized", "gujaratiPronunciation": "કોગ્નાઇઝ્ડ", "hindiPronunciation": "कॉग्नाइज़्ड", "gujaratiMeaning": "જાણેલું", "hindiMeaning": "जाना हुआ" },
+        "V4 (Present Participle)": { "word": "Cognizing", "gujaratiPronunciation": "કોગ્નાઇઝિંગ", "hindiPronunciation": "कॉग्नाइज़िंग", "gujaratiMeaning": "જાણી રહ્યું", "hindiMeaning": "जान रहा" }
+      },
+      "synonyms": [
+        { "word": "Perceive", "gujaratiPronunciation": "પર્સીવ", "hindiPronunciation": "परसीव", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        { "word": "Recognize", "gujaratiPronunciation": "રેકગ્નાઇઝ", "hindiPronunciation": "रेकग्नाइज़", "gujaratiMeaning": "ઓળખવું", "hindiMeaning": "पहचानना" }
+      ],
+      "antonyms": [
+        { "word": "Misunderstand", "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ", "hindiPronunciation": "मिसअंडरस्टैंड", "gujaratiMeaning": "ખોટું સમજવું", "hindiMeaning": "गलत समझना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Recognize", "gujaratiPronunciation": "રેકગ્નાઇઝ", "hindiPronunciation": "रेकग्नाइज़", "gujaratiMeaning": "ઓળખવું", "hindiMeaning": "पहचानना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The mind has the ability to cognize complex patterns.",
+          "gujaratiTranslation": "મન જટિલ પેટર્નને સમજવાની ક્ષમતા ધરાવે છે.",
+          "hindiTranslation": "मन में जटिल पैटर्न को समझने की क्षमता होती है।",
+          "gujaratiPronunciation": "ધ માઇન્ડ હેઝ ધ એબિલિટી ટુ કોગ્નાઇઝ કોમ્પ્લેક્સ પેટર્ન્સ.",
+          "hindiPronunciation": "द माइंड हैज़ द एबिलिटी टू कॉग्नाइज़ कॉम्प्लेक्स पैटर्न्स।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Digest",
+            "gujaratiPronunciation": "ડાયજેસ્ટ",
+            "hindiPronunciation": "डाइजेस्ट",
+            "gujaratiMeaning": "પચાવવું",
+            "hindiMeaning": "पचाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Digest", "gujaratiPronunciation": "ડાયજેસ્ટ", "hindiPronunciation": "डाइजेस्ट", "gujaratiMeaning": "પચાવવું", "hindiMeaning": "पचाना" },
+                "V2 (Past)": { "word": "Digested", "gujaratiPronunciation": "ડાયજેસ્ટેડ", "hindiPronunciation": "डाइजेस्टेड", "gujaratiMeaning": "પચાવ્યું", "hindiMeaning": "पचाया" },
+                "V3 (Past Participle)": { "word": "Digested", "gujaratiPronunciation": "ડાયજેસ્ટેડ", "hindiPronunciation": "डाइजेस्टेड", "gujaratiMeaning": "પચાવેલું", "hindiMeaning": "पचाया हुआ" },
+                "V4 (Present Participle)": { "word": "Digesting", "gujaratiPronunciation": "ડાયજેસ્ટિંગ", "hindiPronunciation": "डाइजेस्टिंग", "gujaratiMeaning": "પચાવી રહ્યું છે", "hindiMeaning": "पचा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Assimilate", "gujaratiPronunciation": "એસિમિલેટ", "hindiPronunciation": "एसिमिलेट", "gujaratiMeaning": "આત્મસાત કરવું", "hindiMeaning": "आत्मसात करना" },
+                { "word": "Process", "gujaratiPronunciation": "પ્રોસેસ", "hindiPronunciation": "प्रोसेस", "gujaratiMeaning": "પ્રક્રિયા કરવી", "hindiMeaning": "प्रक्रिया करना" }
+            ],
+            "antonyms": [
+                { "word": "Indigestible", "gujaratiPronunciation": "ઇનડાયજેસ્ટિબલ", "hindiPronunciation": "इनडाइजेस्टिबल", "gujaratiMeaning": "અપાચ્ય", "hindiMeaning": "अपचनीय" },
+                { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" }
+            ],
+            "confusingWords": [
+                { "word": "Suggest", "gujaratiPronunciation": "સજેસ્ટ", "hindiPronunciation": "सजेस्ट", "gujaratiMeaning": "સૂચન કરવું", "hindiMeaning": "सुझाव देना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "It takes time to digest a large meal.", "gujaratiTranslation": "ભારે ભોજન પચાવવામાં સમય લાગે છે.", "hindiTranslation": "भारी भोजन को पचाने में समय लगता है।", "gujaratiPronunciation": "ઈટ ટેક્સ ટાઈમ ટુ ડાયજેસ્ટ અ લાર્જ મીલ.", "hindiPronunciation": "इट टेक्स टाइम टू डाइजेस्ट अ लार्ज मील।" }
+            ]
+        },
+        {
+            "word": "Sauté",
+            "gujaratiPronunciation": "સોટે",
+            "hindiPronunciation": "सौते",
+            "gujaratiMeaning": "થોડા તેલમાં સાંતળવું",
+            "hindiMeaning": "थोड़े तेल में भूनना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Sauté", "gujaratiPronunciation": "સોટે", "hindiPronunciation": "सौते", "gujaratiMeaning": "સાંતળવું", "hindiMeaning": "भूनना" },
+                "V2 (Past)": { "word": "Sautéed", "gujaratiPronunciation": "સોટેડ", "hindiPronunciation": "सौतेड", "gujaratiMeaning": "સાંતળ્યું", "hindiMeaning": "भूना" },
+                "V3 (Past Participle)": { "word": "Sautéed", "gujaratiPronunciation": "સોટેડ", "hindiPronunciation": "सौतेड", "gujaratiMeaning": "સાંતળેલું", "hindiMeaning": "भुना हुआ" },
+                "V4 (Present Participle)": { "word": "Sautéing", "gujaratiPronunciation": "સોટેઇંગ", "hindiPronunciation": "सौतेइंग", "gujaratiMeaning": "સાંતળી રહ્યું છે", "hindiMeaning": "भून रहा है" }
+            },
+            "synonyms": [
+                { "word": "Fry lightly", "gujaratiPronunciation": "ફ્રાય લાઇટલી", "hindiPronunciation": "फ्राई लाइटली", "gujaratiMeaning": "હળવું તળવું", "hindiMeaning": "हल्का तलना" },
+                { "word": "Pan-fry", "gujaratiPronunciation": "પેન-ફ્રાય", "hindiPronunciation": "पैन-फ्राई", "gujaratiMeaning": "તવી પર તળવું", "hindiMeaning": "तवे पर तलना" }
+            ],
+            "antonyms": [
+                { "word": "Boil", "gujaratiPronunciation": "બોઈલ", "hindiPronunciation": "बॉइल", "gujaratiMeaning": "ઉકાળવું", "hindiMeaning": "उबालना" },
+                { "word": "Steam", "gujaratiPronunciation": "સ્ટીમ", "hindiPronunciation": "स्टीम", "gujaratiMeaning": "બાફવું", "hindiMeaning": "भाप में पकाना" }
+            ],
+            "confusingWords": [
+                { "word": "Salute", "gujaratiPronunciation": "સલ્યુટ", "hindiPronunciation": "सैल्यूट", "gujaratiMeaning": "સલામ કરવું", "hindiMeaning": "सलाम करना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Sauté the onions until they are golden brown.", "gujaratiTranslation": "ડુંગળીને સોનેરી બદામી રંગની થાય ત્યાં સુધી સાંતળો.", "hindiTranslation": "प्याज को सुनहरा भूरा होने तक भूनें।", "gujaratiPronunciation": "સોટે ધ અનિયન્સ અનટિલ ધે આર ગોલ્ડન બ્રાઉન.", "hindiPronunciation": "सौते द अनियंस अंटिल दे आर गोल्डन ब्राउन।" }
+            ]
+        },
+        {
+            "word": "Braise",
+            "gujaratiPronunciation": "બ્રેઝ",
+            "hindiPronunciation": "ब्रेज़",
+            "gujaratiMeaning": "ધીમા તાપે ઢાંકીને રાંધવું",
+            "hindiMeaning": "धीमी आंच पर ढककर पकाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Braise", "gujaratiPronunciation": "બ્રેઝ", "hindiPronunciation": "ब्रेज़", "gujaratiMeaning": "ધીમા તાપે રાંધવું", "hindiMeaning": "धीमी आंच पर पकाना" },
+                "V2 (Past)": { "word": "Braised", "gujaratiPronunciation": "બ્રેઝ્ડ", "hindiPronunciation": "ब्रेज़्ड", "gujaratiMeaning": "ધીમા તાપે રાંધ્યું", "hindiMeaning": "धीमी आंच पर पकाया" },
+                "V3 (Past Participle)": { "word": "Braised", "gujaratiPronunciation": "બ્રેઝ્ડ", "hindiPronunciation": "ब्रेज़्ड", "gujaratiMeaning": "ધીમા તાપે રાંધેલું", "hindiMeaning": "धीमी आंच पर पकाया हुआ" },
+                "V4 (Present Participle)": { "word": "Braising", "gujaratiPronunciation": "બ્રેઝિંગ", "hindiPronunciation": "ब्रेज़िंग", "gujaratiMeaning": "ધીમા તાપે રાંધી રહ્યું છે", "hindiMeaning": "धीमी आंच पर पका रहा है" }
+            },
+            "synonyms": [
+                { "word": "Stew", "gujaratiPronunciation": "સ્ટ્યૂ", "hindiPronunciation": "स्टू", "gujaratiMeaning": "ધીમા તાપે રાંધવું", "hindiMeaning": "धीमी आंच पर पकाना" },
+                { "word": "Simmer", "gujaratiPronunciation": "સિમર", "hindiPronunciation": "सिमर", "gujaratiMeaning": "ધીમા તાપે ઉકાળવું", "hindiMeaning": "धीमी आंच पर उबालना" }
+            ],
+            "antonyms": [
+                { "word": "Grill", "gujaratiPronunciation": "ગ્રિલ", "hindiPronunciation": "ग्रिल", "gujaratiMeaning": "શેકવું", "hindiMeaning": "ग्रिल करना" },
+                { "word": "Fry", "gujaratiPronunciation": "ફ્રાય", "hindiPronunciation": "फ्राई", "gujaratiMeaning": "તળવું", "hindiMeaning": "तलना" }
+            ],
+            "confusingWords": [
+                { "word": "Brace", "gujaratiPronunciation": "બ્રેસ", "hindiPronunciation": "ब्रेस", "gujaratiMeaning": "આધાર", "hindiMeaning": "सहारा" }
+            ],
+            "exampleSentences": [
+                { "sentence": "She decided to braise the beef for several hours.", "gujaratiTranslation": "તેણીએ કેટલાક કલાકો સુધી બીફને ધીમા તાપે રાંધવાનું નક્કી કર્યું.", "hindiTranslation": "उसने कई घंटों तक बीफ़ को धीमी आंच पर पकाने का फैसला किया।", "gujaratiPronunciation": "શી ડિસાઈડેડ ટુ બ્રેઝ ધ બીફ ફોર સેવરલ અવર્સ.", "hindiPronunciation": "शी डिसाइडेड टू ब्रेज़ द बीफ़ फॉर सेवरल आवर्स।" }
+            ]
+        },
+        {
+            "word": "Consume",
+            "gujaratiPronunciation": "કન્ઝ્યુમ",
+            "hindiPronunciation": "कंज्यूम",
+            "gujaratiMeaning": "વપરાશ કરવો, ખાવું",
+            "hindiMeaning": "उपभोग करना, खाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Consume", "gujaratiPronunciation": "કન્ઝ્યુમ", "hindiPronunciation": "कंज्यूम", "gujaratiMeaning": "વપરાશ કરવો", "hindiMeaning": "उपभोग करना" },
+                "V2 (Past)": { "word": "Consumed", "gujaratiPronunciation": "કન્ઝ્યુમ્ડ", "hindiPronunciation": "कंज्यूम्ड", "gujaratiMeaning": "વપરાશ કર્યો", "hindiMeaning": "उपभोग किया" },
+                "V3 (Past Participle)": { "word": "Consumed", "gujaratiPronunciation": "કન્ઝ્યુમ્ડ", "hindiPronunciation": "कंज्यूम्ड", "gujaratiMeaning": "વપરાશ કરેલો", "hindiMeaning": "उपभोग किया हुआ" },
+                "V4 (Present Participle)": { "word": "Consuming", "gujaratiPronunciation": "કન્ઝ્યુમિંગ", "hindiPronunciation": "कंज्यूमिंग", "gujaratiMeaning": "વપરાશ કરી રહ્યું છે", "hindiMeaning": "उपभोग कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Eat", "gujaratiPronunciation": "ઈટ", "hindiPronunciation": "ईट", "gujaratiMeaning": "ખાવું", "hindiMeaning": "खाना" },
+                { "word": "Use up", "gujaratiPronunciation": "યુઝ અપ", "hindiPronunciation": "यूज़ अप", "gujaratiMeaning": "વાપરી નાખવું", "hindiMeaning": "खर्च कर देना" }
+            ],
+            "antonyms": [
+                { "word": "Produce", "gujaratiPronunciation": "પ્રોડ્યુસ", "hindiPronunciation": "प्रोड्यूस", "gujaratiMeaning": "ઉત્પન્ન કરવું", "hindiMeaning": "उत्पन्न करना" },
+                { "word": "Save", "gujaratiPronunciation": "સેવ", "hindiPronunciation": "सेव", "gujaratiMeaning": "બચાવવું", "hindiMeaning": "बचाना" }
+            ],
+            "confusingWords": [
+                { "word": "Assume", "gujaratiPronunciation": "એઝ્યુમ", "hindiPronunciation": "एज़्यूम", "gujaratiMeaning": "માની લેવું", "hindiMeaning": "मान लेना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The athletes consume a lot of calories.", "gujaratiTranslation": "એથ્લેટ્સ ઘણી બધી કેલરીનો વપરાશ કરે છે.", "hindiTranslation": "एथलीट बहुत अधिक कैलोरी का उपभोग करते हैं।", "gujaratiPronunciation": "ધ એથ્લીટ્સ કન્ઝ્યુમ અ લોટ ઓફ કેલરીઝ.", "hindiPronunciation": "द एथलीट्स कंज्यूम अ लॉट ऑफ़ कैलोरीज़।" }
+            ]
+        },
+        {
+            "word": "Devour",
+            "gujaratiPronunciation": "ડિવાઉર",
+            "hindiPronunciation": "डिवाउर",
+            "gujaratiMeaning": "ભક્ષણ કરવું, ઝડપથી ખાઈ જવું",
+            "hindiMeaning": "भक्षण करना, जल्दी से खा जाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Devour", "gujaratiPronunciation": "ડિવાઉર", "hindiPronunciation": "डिवाउर", "gujaratiMeaning": "ભક્ષણ કરવું", "hindiMeaning": "भक्षण करना" },
+                "V2 (Past)": { "word": "Devoured", "gujaratiPronunciation": "ડિવાઉર્ડ", "hindiPronunciation": "डिवाउर्ड", "gujaratiMeaning": "ભક્ષણ કર્યું", "hindiMeaning": "भक्षण किया" },
+                "V3 (Past Participle)": { "word": "Devoured", "gujaratiPronunciation": "ડિવાઉર્ડ", "hindiPronunciation": "डिवाउर्ड", "gujaratiMeaning": "ભક્ષણ કરેલું", "hindiMeaning": "भक्षण किया हुआ" },
+                "V4 (Present Participle)": { "word": "Devouring", "gujaratiPronunciation": "ડિવાઉરિંગ", "hindiPronunciation": "डिवाउरिंग", "gujaratiMeaning": "ભક્ષણ કરી રહ્યું છે", "hindiMeaning": "भक्षण कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Eat greedily", "gujaratiPronunciation": "ઈટ ગ્રીડિલી", "hindiPronunciation": "ईट ग्रीडिली", "gujaratiMeaning": "લાલચથી ખાવું", "hindiMeaning": "लालच से खाना" },
+                { "word": "Gobble", "gujaratiPronunciation": "ગોબલ", "hindiPronunciation": "गॉबल", "gujaratiMeaning": "ઝડપથી ગળી જવું", "hindiMeaning": "जल्दी से निगल जाना" }
+            ],
+            "antonyms": [
+                { "word": "Nibble", "gujaratiPronunciation": "નિબલ", "hindiPronunciation": "निबल", "gujaratiMeaning": "બટકું ભરવું", "hindiMeaning": "कुतरना" },
+                { "word": "Pick at", "gujaratiPronunciation": "પિક એટ", "hindiPronunciation": "पिक ऐट", "gujaratiMeaning": "આનાકાની કરીને ખાવું", "hindiMeaning": "नखरे से खाना" }
+            ],
+            "confusingWords": [
+                { "word": "Divert", "gujaratiPronunciation": "ડાયવર્ટ", "hindiPronunciation": "डाइवर्ट", "gujaratiMeaning": "માર્ગ બદલવો", "hindiMeaning": "मार्ग बदलना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The hungry lion devoured its prey.", "gujaratiTranslation": "ભૂખ્યા સિંહે તેના શિકારનું ભક્ષણ કર્યું.", "hindiTranslation": "भूखे शेर ने अपने शिकार को खा लिया।", "gujaratiPronunciation": "ધ હંગ્રી લાયન ડિવાઉર્ડ ઈટ્સ પ્રે.", "hindiPronunciation": "द हंग्री लायन डिवाउर्ड इट्स प्रे।" }
+            ]
+        }
+    ]
+}

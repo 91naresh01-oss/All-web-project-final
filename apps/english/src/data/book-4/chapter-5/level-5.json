@@ -1,0 +1,425 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Preach",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "ઉપદેશ આપવો",
+      "hindiMeaning": "उपदेश देना",
+      "gujaratiPronunciation": "પ્રીચ",
+      "hindiPronunciation": "प्रीच",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Preach",
+          "gujaratiPronunciation": "પ્રીચ",
+          "hindiPronunciation": "प्रीच",
+          "gujaratiMeaning": "ઉપદેશ આપવો",
+          "hindiMeaning": "उपदेश देना"
+        },
+        "V2 (Past)": {
+          "word": "Preached",
+          "gujaratiPronunciation": "પ્રીચ્ડ",
+          "hindiPronunciation": "प्रीच्ड",
+          "gujaratiMeaning": "ઉપદેશ આપ્યો",
+          "hindiMeaning": "उपदेश दिया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Preached",
+          "gujaratiPronunciation": "પ્રીચ્ડ",
+          "hindiPronunciation": "प्रीच्ड",
+          "gujaratiMeaning": "ઉપદેશ આપેલો",
+          "hindiMeaning": "उपदेश दिया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Preaching",
+          "gujaratiPronunciation": "પ્રીચિંગ",
+          "hindiPronunciation": "प्रीचिंग",
+          "gujaratiMeaning": "ઉપદેશ આપી રહ્યું",
+          "hindiMeaning": "उपदेश दे रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Sermonize",
+          "gujaratiPronunciation": "સર્મનાઇઝ",
+          "hindiPronunciation": "सर्मनाइज़",
+          "gujaratiMeaning": "ઉપદેશ આપવો",
+          "hindiMeaning": "उपदेश देना"
+        },
+        {
+          "word": "Advocate",
+          "gujaratiPronunciation": "એડવોકેટ",
+          "hindiPronunciation": "एडवोकेट",
+          "gujaratiMeaning": "હિમાયત કરવી",
+          "hindiMeaning": "समर्थन करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Listen",
+          "gujaratiPronunciation": "લિસન",
+          "hindiPronunciation": "लिसन",
+          "gujaratiMeaning": "સાંભળવું",
+          "hindiMeaning": "सुनना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Breach",
+          "gujaratiPronunciation": "બ્રીચ",
+          "hindiPronunciation": "ब्रीच",
+          "gujaratiMeaning": "ઉલ્લંઘન કરવું",
+          "hindiMeaning": "उल्लंघन करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The priest will preach about forgiveness on Sunday.",
+          "gujaratiPronunciation": "ધ પ્રીસ્ટ વિલ પ્રીચ અબાઉટ ફર્ગિવનેસ ઓન સન્ડે.",
+          "hindiPronunciation": "द प्रीस्ट विल प्रीच अबाउट फॉरगिवनेस ऑन संडे।",
+          "gujaratiTranslation": "પાદરી રવિવારે ક્ષમા વિશે ઉપદેશ આપશે.",
+          "hindiTranslation": "पादरी रविवार को क्षमा के बारे में उपदेश देंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Grasp",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "સમજવું",
+      "hindiMeaning": "समझना",
+      "gujaratiPronunciation": "ગ્રાસ્પ",
+      "hindiPronunciation": "ग्रास्प",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Grasp",
+          "gujaratiPronunciation": "ગ્રાસ્પ",
+          "hindiPronunciation": "ग्रास्प",
+          "gujaratiMeaning": "સમજવું",
+          "hindiMeaning": "समझना"
+        },
+        "V2 (Past)": {
+          "word": "Grasped",
+          "gujaratiPronunciation": "ગ્રાસ્પ્ડ",
+          "hindiPronunciation": "ग्रास्प्ड",
+          "gujaratiMeaning": "સમજ્યું",
+          "hindiMeaning": "समझा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Grasped",
+          "gujaratiPronunciation": "ગ્રાસ્પ્ડ",
+          "hindiPronunciation": "ग्रास्प्ड",
+          "gujaratiMeaning": "સમજેલું",
+          "hindiMeaning": "समझा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Grasping",
+          "gujaratiPronunciation": "ગ્રાસ્પિંગ",
+          "hindiPronunciation": "ग्रास्पिंग",
+          "gujaratiMeaning": "સમજી રહ્યું",
+          "hindiMeaning": "समझ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Understand",
+          "gujaratiPronunciation": "અંડરસ્ટેન્ડ",
+          "hindiPronunciation": "अंडरस्टैंड",
+          "gujaratiMeaning": "સમજવું",
+          "hindiMeaning": "समझना"
+        },
+        {
+          "word": "Comprehend",
+          "gujaratiPronunciation": "કોમ્પ્રિહેન્ડ",
+          "hindiPronunciation": "कॉम्प्रिहेंड",
+          "gujaratiMeaning": "સમજવું",
+          "hindiMeaning": "समझना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Misunderstand",
+          "gujaratiPronunciation": "મિસઅંડરસ્ટેન્ડ",
+          "hindiPronunciation": "मिसअंडरस्टैंड",
+          "gujaratiMeaning": "ખોટું સમજવું",
+          "hindiMeaning": "गलत समझना"
+        },
+        {
+          "word": "Release",
+          "gujaratiPronunciation": "રિલીઝ",
+          "hindiPronunciation": "रिलीज़",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Grass",
+          "gujaratiPronunciation": "ગ્રાસ",
+          "hindiPronunciation": "ग्रास",
+          "gujaratiMeaning": "ઘાસ",
+          "hindiMeaning": "घास"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is important to grasp the basic concepts of physics.",
+          "gujaratiPronunciation": "ઇટ ઇઝ ઇમ્પોર્ટન્ટ ટુ ગ્રાસ્પ ધ બેઝિક કોન્સેપ્ટ્સ ઓફ ફિઝિક્સ.",
+          "hindiPronunciation": "इट इज़ इम्पॉर्टेंट टू ग्रास्प द बेसिक कॉन्सेप्ट्स ऑफ फिजिक्स।",
+          "gujaratiTranslation": "ભૌતિકશાસ્ત્રના મૂળભૂત ખ્યાલોને સમજવું મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "भौतिकी की मूल अवधारणाओं को समझना महत्वपूर्ण है।"
+        }
+      ]
+    },
+    {
+      "word": "Hone",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "કુશળતા વધારવી",
+      "hindiMeaning": "कौशल को निखारना",
+      "gujaratiPronunciation": "હોન",
+      "hindiPronunciation": "होन",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Hone",
+          "gujaratiPronunciation": "હોન",
+          "hindiPronunciation": "होन",
+          "gujaratiMeaning": "કુશળતા વધારવી",
+          "hindiMeaning": "कौशल को निखारना"
+        },
+        "V2 (Past)": {
+          "word": "Honed",
+          "gujaratiPronunciation": "હોન્ડ",
+          "hindiPronunciation": "होन्ड",
+          "gujaratiMeaning": "કુશળતા વધારી",
+          "hindiMeaning": "कौशल को निखारा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Honed",
+          "gujaratiPronunciation": "હોન્ડ",
+          "hindiPronunciation": "होन्ड",
+          "gujaratiMeaning": "કુશળતા વધારેલી",
+          "hindiMeaning": "कौशल को निखारा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Honing",
+          "gujaratiPronunciation": "હોનિંગ",
+          "hindiPronunciation": "होनिंग",
+          "gujaratiMeaning": "કુશળતા વધારી રહ્યું",
+          "hindiMeaning": "कौशल को निखार रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Sharpen",
+          "gujaratiPronunciation": "શાર્પન",
+          "hindiPronunciation": "शार्पन",
+          "gujaratiMeaning": "ધાર કાઢવી",
+          "hindiMeaning": "तेज करना"
+        },
+        {
+          "word": "Improve",
+          "gujaratiPronunciation": "ઇમ્પ્રુવ",
+          "hindiPronunciation": "इम्प्रूव",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "सुधारना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Blunt",
+          "gujaratiPronunciation": "બ્લન્ટ",
+          "hindiPronunciation": "ब्लंट",
+          "gujaratiMeaning": "બુઠ્ઠું કરવું",
+          "hindiMeaning": "कुंद करना"
+        },
+        {
+          "word": "Worsen",
+          "gujaratiPronunciation": "વર્સન",
+          "hindiPronunciation": "वर्सन",
+          "gujaratiMeaning": "વધુ ખરાબ કરવું",
+          "hindiMeaning": "बिगाड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Home",
+          "gujaratiPronunciation": "હોમ",
+          "hindiPronunciation": "होम",
+          "gujaratiMeaning": "ઘર",
+          "hindiMeaning": "घर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She needs to hone her public speaking skills.",
+          "gujaratiPronunciation": "શી નીડ્સ ટુ હોન હર પબ્લિક સ્પીકિંગ સ્કિલ્સ.",
+          "hindiPronunciation": "शी नीड्स टू होन हर पब्लिक स्पीकिंग स्किल्स।",
+          "gujaratiTranslation": "તેણીને તેની જાહેર વક્તૃત્વ કુશળતા વધારવાની જરૂર છે.",
+          "hindiTranslation": "उसे अपने सार्वजनिक बोलने के कौशल को निखारने की जरूरत है।"
+        }
+      ]
+    },
+    {
+      "word": "Master",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "પ્રભુત્વ મેળવવું",
+      "hindiMeaning": "महारत हासिल करना",
+      "gujaratiPronunciation": "માસ્ટર",
+      "hindiPronunciation": "मास्टर",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Master",
+          "gujaratiPronunciation": "માસ્ટર",
+          "hindiPronunciation": "मास्टर",
+          "gujaratiMeaning": "પ્રભુત્વ મેળવવું",
+          "hindiMeaning": "महारत हासिल करना"
+        },
+        "V2 (Past)": {
+          "word": "Mastered",
+          "gujaratiPronunciation": "માસ્ટર્ડ",
+          "hindiPronunciation": "मास्टर्ड",
+          "gujaratiMeaning": "પ્રભુત્વ મેળવ્યું",
+          "hindiMeaning": "महारत हासिल की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Mastered",
+          "gujaratiPronunciation": "માસ્ટર્ડ",
+          "hindiPronunciation": "मास्टर्ड",
+          "gujaratiMeaning": "પ્રભુત્વ મેળવેલું",
+          "hindiMeaning": "महारत हासिल की हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Mastering",
+          "gujaratiPronunciation": "માસ્ટરિંગ",
+          "hindiPronunciation": "मास्टरिंग",
+          "gujaratiMeaning": "પ્રભુત્વ મેળવી રહ્યું",
+          "hindiMeaning": "महारत हासिल कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Learn",
+          "gujaratiPronunciation": "લર્ન",
+          "hindiPronunciation": "लर्न",
+          "gujaratiMeaning": "શીખવું",
+          "hindiMeaning": "सीखना"
+        },
+        {
+          "word": "Conquer",
+          "gujaratiPronunciation": "કોન્કર",
+          "hindiPronunciation": "कॉन्कर",
+          "gujaratiMeaning": "જીતવું",
+          "hindiMeaning": "जीतना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Fail",
+          "gujaratiPronunciation": "ફેઇલ",
+          "hindiPronunciation": "फेल",
+          "gujaratiMeaning": "નિષ્ફળ જવું",
+          "hindiMeaning": "असफल होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Mustard",
+          "gujaratiPronunciation": "મસ્ટર્ડ",
+          "hindiPronunciation": "मस्टर्ड",
+          "gujaratiMeaning": "રાઈ",
+          "hindiMeaning": "सरसों"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It takes years to master a musical instrument.",
+          "gujaratiPronunciation": "ઇટ ટેક્સ યર્સ ટુ માસ્ટર અ મ્યુઝિકલ ઇન્સ્ટ્રુમેન્ટ.",
+          "hindiPronunciation": "इट टेक्स ईयर्स टू मास्टर अ म्यूजिकल इंस्ट्रूमेंट।",
+          "gujaratiTranslation": "સંગીતનાં સાધન પર પ્રભુત્વ મેળવવામાં વર્ષો લાગે છે.",
+          "hindiTranslation": "एक संगीत वाद्ययंत्र में महारत हासिल करने में वर्षों लगते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Recite",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "પઠન કરવું",
+      "hindiMeaning": "सुनाना",
+      "gujaratiPronunciation": "રિસાઇટ",
+      "hindiPronunciation": "रिसाइट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Recite",
+          "gujaratiPronunciation": "રિસાઇટ",
+          "hindiPronunciation": "रिसाइट",
+          "gujaratiMeaning": "પઠન કરવું",
+          "hindiMeaning": "सुनाना"
+        },
+        "V2 (Past)": {
+          "word": "Recited",
+          "gujaratiPronunciation": "રિસાઇટેડ",
+          "hindiPronunciation": "रिसाइटेड",
+          "gujaratiMeaning": "પઠન કર્યું",
+          "hindiMeaning": "सुनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Recited",
+          "gujaratiPronunciation": "રિસાઇટેડ",
+          "hindiPronunciation": "रिसाइटेड",
+          "gujaratiMeaning": "પઠન કરેલું",
+          "hindiMeaning": "सुनाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Reciting",
+          "gujaratiPronunciation": "રિસાઇટિંગ",
+          "hindiPronunciation": "रिसाइटिंग",
+          "gujaratiMeaning": "પઠન કરી રહ્યું",
+          "hindiMeaning": "सुना रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Narrate",
+          "gujaratiPronunciation": "નરેટ",
+          "hindiPronunciation": "नरेट",
+          "gujaratiMeaning": "વર્ણન કરવું",
+          "hindiMeaning": "वर्णन करना"
+        },
+        {
+          "word": "Quote",
+          "gujaratiPronunciation": "ક્વોટ",
+          "hindiPronunciation": "क्वोट",
+          "gujaratiMeaning": "ટાંકવું",
+          "hindiMeaning": "उद्धृत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Mumble",
+          "gujaratiPronunciation": "મમ્બલ",
+          "hindiPronunciation": "मम्बल",
+          "gujaratiMeaning": "ગણગણવું",
+          "hindiMeaning": "बुदबुदाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Reset",
+          "gujaratiPronunciation": "રિસિટ",
+          "hindiPronunciation": "रीसेट",
+          "gujaratiMeaning": "પુનઃ ગોઠવવું",
+          "hindiMeaning": "पुनर्स्थापित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The child can recite the entire poem from memory.",
+          "gujaratiPronunciation": "ધ ચાઇલ્ડ કેન રિસાઇટ ધ એન્ટાયર પોએમ ફ્રોમ મેમરી.",
+          "hindiPronunciation": "द चाइल्ड कैन रिसाइट द एंटायर पोएम फ्रॉम मेमोरी।",
+          "gujaratiTranslation": "બાળક આખી કવિતા યાદ રાખીને પઠન કરી શકે છે.",
+          "hindiTranslation": "बच्चा पूरी कविता याद करके सुना सकता है।"
+        }
+      ]
+    }
+  ]
+}

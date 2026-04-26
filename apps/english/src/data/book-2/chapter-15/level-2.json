@@ -1,0 +1,76 @@
+{
+  "id": "level-2",
+  "title": "Measurements 2",
+  "words": [
+    {
+      "word": "Weight",
+      "gujaratiPronunciation": "વેઇટ",
+      "hindiPronunciation": "वेट",
+      "gujaratiMeaning": "વજન",
+      "hindiMeaning": "वजन",
+      "exampleSentences": [
+        {
+          "sentence": "His weight is 70 kg.",
+          "gujaratiTranslation": "તેનું વજન 70 કિલો છે.",
+          "hindiTranslation": "उसका वजन 70 किलो है।"
+        }
+      ]
+    },
+    {
+      "word": "Mass",
+      "gujaratiPronunciation": "માસ",
+      "hindiPronunciation": "मास",
+      "gujaratiMeaning": "દળ",
+      "hindiMeaning": "द्रव्यमान",
+      "exampleSentences": [
+        {
+          "sentence": "Mass is a measure of the amount of matter.",
+          "gujaratiTranslation": "દળ એ પદાર્થના જથ્થાનું માપ છે.",
+          "hindiTranslation": "द्रव्यमान पदार्थ की मात्रा का माप है।"
+        }
+      ]
+    },
+    {
+      "word": "Heavy",
+      "gujaratiPronunciation": "હેવી",
+      "hindiPronunciation": "हेवी",
+      "gujaratiMeaning": "ભારે",
+      "hindiMeaning": "भारी",
+      "exampleSentences": [
+        {
+          "sentence": "This box is very heavy.",
+          "gujaratiTranslation": "આ બોક્સ ખૂબ ભારે છે.",
+          "hindiTranslation": "यह बक्सा बहुत भारी है।"
+        }
+      ]
+    },
+    {
+      "word": "Light",
+      "gujaratiPronunciation": "લાઇટ",
+      "hindiPronunciation": "लाइट",
+      "gujaratiMeaning": "હલકું",
+      "hindiMeaning": "हल्का",
+      "exampleSentences": [
+        {
+          "sentence": "A feather is very light.",
+          "gujaratiTranslation": "પીછું ખૂબ હલકું હોય છે.",
+          "hindiTranslation": "एक पंख बहुत हल्का होता है।"
+        }
+      ]
+    },
+    {
+      "word": "Balance",
+      "gujaratiPronunciation": "બેલેન્સ",
+      "hindiPronunciation": "बैलेंस",
+      "gujaratiMeaning": "સંતુલન",
+      "hindiMeaning": "संतुलन",
+      "exampleSentences": [
+        {
+          "sentence": "You need to balance the weights.",
+          "gujaratiTranslation": "તમારે વજનને સંતુલિત કરવાની જરૂર છે.",
+          "hindiTranslation": "आपको वज़न को संतुलित करने की आवश्यकता है।"
+        }
+      ]
+    }
+  ]
+}

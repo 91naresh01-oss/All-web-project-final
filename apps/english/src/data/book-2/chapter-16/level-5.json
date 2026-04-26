@@ -1,0 +1,76 @@
+{
+  "id": "level-5",
+  "title": "Opposites 3",
+  "words": [
+    {
+      "word": "Beautiful",
+      "gujaratiPronunciation": "બ્યુટિફુલ",
+      "hindiPronunciation": "ब्यूटीफुल",
+      "gujaratiMeaning": "સુંદર",
+      "hindiMeaning": "सुंदर",
+      "exampleSentences": [
+        {
+          "sentence": "She is a beautiful girl.",
+          "gujaratiTranslation": "તેણી એક સુંદર છોકરી છે.",
+          "hindiTranslation": "वह एक सुंदर लड़की है।"
+        }
+      ]
+    },
+    {
+      "word": "Ugly",
+      "gujaratiPronunciation": "અગ્લી",
+      "hindiPronunciation": "अगલી",
+      "gujaratiMeaning": "બદસूरत",
+      "hindiMeaning": "कुरूप",
+      "exampleSentences": [
+        {
+          "sentence": "The witch was ugly.",
+          "gujaratiTranslation": "ડાકણ બદસूरत હતી.",
+          "hindiTranslation": "चुड़ैल बदसूरत थी।"
+        }
+      ]
+    },
+    {
+      "word": "Happy",
+      "gujaratiPronunciation": "હેપ્પી",
+      "hindiPronunciation": "हैप्पी",
+      "gujaratiMeaning": "ખુશ",
+      "hindiMeaning": "खुश",
+      "exampleSentences": [
+        {
+          "sentence": "I am very happy today.",
+          "gujaratiTranslation": "હું આજે ખૂબ ખુશ છું.",
+          "hindiTranslation": "मैं आज बहुत खुश हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Sad",
+      "gujaratiPronunciation": "સેડ",
+      "hindiPronunciation": "सैड",
+      "gujaratiMeaning": "દુઃખી",
+      "hindiMeaning": "दुखी",
+      "exampleSentences": [
+        {
+          "sentence": "Why are you sad?",
+          "gujaratiTranslation": "તમે શા માટે દુઃખી છો?",
+          "hindiTranslation": "तुम दुखी क्यों हो?"
+        }
+      ]
+    },
+    {
+      "word": "Angry",
+      "gujaratiPronunciation": "એંગ્રી",
+      "hindiPronunciation": "एंग्री",
+      "gujaratiMeaning": "ગુસ્સે",
+      "hindiMeaning": "गुस्सा",
+      "exampleSentences": [
+        {
+          "sentence": "My father is angry with me.",
+          "gujaratiTranslation": "મારા પિતા મારાથી ગુસ્સે છે.",
+          "hindiTranslation": "मेरे पिता मुझसे नाराज़ हैं।"
+        }
+      ]
+    }
+  ]
+}

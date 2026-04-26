@@ -1,0 +1,172 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Thrust, Drag, Hoist, Glide, Orient",
+  "words": [
+    {
+      "word": "Thrust",
+      "gujaratiPronunciation": "થ્રસ્ટ",
+      "hindiPronunciation": "थ्रस्ट",
+      "gujaratiMeaning": "આગળ ધકેલવું",
+      "hindiMeaning": "ज़ोर से धकेलना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Thrust", "gujaratiPronunciation": "થ્રસ્ટ", "hindiPronunciation": "थ्रस्ट", "gujaratiMeaning": "આગળ ધકેલવું", "hindiMeaning": "ज़ोर से धकेलना" },
+        "v2": { "word": "Thrust", "gujaratiPronunciation": "થ્રસ્ટ", "hindiPronunciation": "थ्रस्ट", "gujaratiMeaning": "આગળ ધકેલ્યું", "hindiMeaning": "ज़ोर से धकेला" },
+        "v3": { "word": "Thrust", "gujaratiPronunciation": "થ્રસ્ટ", "hindiPronunciation": "थ्रस्ट", "gujaratiMeaning": "આગળ ધકેલેલું", "hindiMeaning": "ज़ोर से धकेला हुआ" },
+        "v4": { "word": "Thrusting", "gujaratiPronunciation": "થ્રસ્ટિંગ", "hindiPronunciation": "थ्रस्टिंग", "gujaratiMeaning": "આગળ ધકેલી રહ્યો છે", "hindiMeaning": "ज़ोर से धकेल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Push", "gujaratiPronunciation": "પુશ", "hindiPronunciation": "पुश", "gujaratiMeaning": "ધક્કો મારવો", "hindiMeaning": "धक्का देना" },
+        { "word": "Propel", "gujaratiPronunciation": "પ્રોપેલ", "hindiPronunciation": "प्रोपेल", "gujaratiMeaning": "આગળ વધારવું", "hindiMeaning": "आगे बढ़ाना" }
+      ],
+      "antonyms": [
+        { "word": "Pull", "gujaratiPronunciation": "પુલ", "hindiPronunciation": "पुल", "gujaratiMeaning": "ખેંચવું", "hindiMeaning": "खींचना" }
+      ],
+      "confusingWords": [
+        { "word": "Trust", "gujaratiPronunciation": "ટ્રસ્ટ", "hindiPronunciation": "ट्रस्ट", "gujaratiMeaning": "વિશ્વાસ", "hindiMeaning": "विश्वास" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The rocket engines provide a powerful thrust.",
+          "gujaratiPronunciation": "ધ રોકેટ એન્જિન્સ પ્રોવાઇડ અ પાવરફુલ થ્રસ્ટ.",
+          "hindiPronunciation": "द रॉकेट इंजन्स प्रोवाइड अ पावरफुल थ्रस्ट।",
+          "gujaratiTranslation": "રોકેટના એન્જિન શક્તિશાળી ધક્કો પૂરો પાડે છે.",
+          "hindiTranslation": "रॉकेट के इंजन एक शक्तिशाली जोर प्रदान करते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Drag",
+      "gujaratiPronunciation": "ડ્રેગ",
+      "hindiPronunciation": "ड्रैग",
+      "gujaratiMeaning": "ઘસડવું",
+      "hindiMeaning": "घसीटना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Drag", "gujaratiPronunciation": "ડ્રેગ", "hindiPronunciation": "ड्रैग", "gujaratiMeaning": "ઘસડવું", "hindiMeaning": "घसीटना" },
+        "v2": { "word": "Dragged", "gujaratiPronunciation": "ડ્રેગ્ડ", "hindiPronunciation": "ड्रैग्ड", "gujaratiMeaning": "ઘસડ્યું", "hindiMeaning": "घसीटा" },
+        "v3": { "word": "Dragged", "gujaratiPronunciation": "ડ્રેગ્ડ", "hindiPronunciation": "ड्रैग्ड", "gujaratiMeaning": "ઘસડેલું", "hindiMeaning": "घसीटा हुआ" },
+        "v4": { "word": "Dragging", "gujaratiPronunciation": "ડ્રેગિંગ", "hindiPronunciation": "ड्रैगिंग", "gujaratiMeaning": "ઘસડી રહ્યો છે", "hindiMeaning": "घसीट रहा है" }
+      },
+      "synonyms": [
+        { "word": "Pull", "gujaratiPronunciation": "પુલ", "hindiPronunciation": "पुल", "gujaratiMeaning": "ખેંચવું", "hindiMeaning": " खींचना" },
+        { "word": "Haul", "gujaratiPronunciation": "હોલ", "hindiPronunciation": "हॉल", "gujaratiMeaning": "જોરથી ખેંચવું", "hindiMeaning": "ज़ोर से खींचना" }
+      ],
+      "antonyms": [
+        { "word": "Push", "gujaratiPronunciation": "પુશ", "hindiPronunciation": "पुश", "gujaratiMeaning": "ધક્કો મારવો", "hindiMeaning": "धक्का देना" },
+        { "word": "Carry", "gujaratiPronunciation": "કેરી", "hindiPronunciation": "कैरी", "gujaratiMeaning": "ઉંચકીને લઈ જવું", "hindiMeaning": "उठाकर ले जाना" }
+      ],
+      "confusingWords": [
+        { "word": "Drug", "gujaratiPronunciation": "ડ્રગ", "hindiPronunciation": "ड्रग", "gujaratiMeaning": "દવા / નશીલો પદાર્થ", "hindiMeaning": "दवा / नशीला पदार्थ" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He had to drag the heavy suitcase up the stairs.",
+          "gujaratiPronunciation": "હી હેડ ટુ ડ્રેગ ધ હેવી સૂટકેસ અપ ધ સ્ટેર્સ.",
+          "hindiPronunciation": "ही हैड टू ड्रैग द हेवी सूटकेस अप द स्टेयर्स।",
+          "gujaratiTranslation": "તેને ભારે સૂટકેસ સીડી ઉપર ઘસડીને લઈ જવી પડી.",
+          "hindiTranslation": "उसे भारी सूटकेस सीढ़ियों से ऊपर घसीटना पड़ा।"
+        }
+      ]
+    },
+    {
+      "word": "Hoist",
+      "gujaratiPronunciation": "હોઇસ્ટ",
+      "hindiPronunciation": "होइस्ट",
+      "gujaratiMeaning": "ઊંચે ચડાવવું",
+      "hindiMeaning": "ऊपर उठाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Hoist", "gujaratiPronunciation": "હોઇસ્ટ", "hindiPronunciation": "होइस्ट", "gujaratiMeaning": "ઊંચે ચડાવવું", "hindiMeaning": "ऊपर उठाना" },
+        "v2": { "word": "Hoisted", "gujaratiPronunciation": "હોઇસ્ટેડ", "hindiPronunciation": "होइस्टेड", "gujaratiMeaning": "ઊંચે ચડાવ્યું", "hindiMeaning": "ऊपर उठाया" },
+        "v3": { "word": "Hoisted", "gujaratiPronunciation": "હોઇસ્ટેડ", "hindiPronunciation": "होइस्टेड", "gujaratiMeaning": "ઊંચે ચડાવેલું", "hindiMeaning": "ऊपर उठाया हुआ" },
+        "v4": { "word": "Hoisting", "gujaratiPronunciation": "હોઇસ્ટિંગ", "hindiPronunciation": "होइस्टिंग", "gujaratiMeaning": "ઊંચે ચડાવી રહ્યો છે", "hindiMeaning": "ऊपर उठा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Lift", "gujaratiPronunciation": "લિફ્ટ", "hindiPronunciation": "लिफ्ट", "gujaratiMeaning": "ઉંચકવું", "hindiMeaning": "उठाना" },
+        { "word": "Raise", "gujaratiPronunciation": "રેઇઝ", "hindiPronunciation": "रेज़", "gujaratiMeaning": "ઉપર ઉઠાવવું", "hindiMeaning": "ऊपर उठाना" }
+      ],
+      "antonyms": [
+        { "word": "Lower", "gujaratiPronunciation": "લોઅર", "hindiPronunciation": "लोअर", "gujaratiMeaning": "નીચે કરવું", "hindiMeaning": "नीचे करना" }
+      ],
+      "confusingWords": [
+        { "word": "Moist", "gujaratiPronunciation": "મોઇસ્ટ", "hindiPronunciation": "मोइस्ट", "gujaratiMeaning": "ભેજવાળું", "hindiMeaning": "नम" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They used a crane to hoist the piano.",
+          "gujaratiPronunciation": "ધે યુઝ્ડ અ ક્રેન ટુ હોઇસ્ટ ધ પિઆનો.",
+          "hindiPronunciation": "दे यूज्ड अ क्रेन टू होइस्ट द पियानो।",
+          "gujaratiTranslation": "તેઓએ પિયાનોને ઊંચે ચડાવવા માટે ક્રેનનો ઉપયોગ કર્યો.",
+          "hindiTranslation": "उन्होंने पियानो को ऊपर उठाने के लिए एक क्रेन का इस्तेमाल किया।"
+        }
+      ]
+    },
+    {
+      "word": "Glide",
+      "gujaratiPronunciation": "ગ્લાઇડ",
+      "hindiPronunciation": "ग्लाइड",
+      "gujaratiMeaning": "સરકવું",
+      "hindiMeaning": "सरकना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Glide", "gujaratiPronunciation": "ગ્લાઇડ", "hindiPronunciation": "ग्लाइड", "gujaratiMeaning": "સરકવું", "hindiMeaning": "सरकना" },
+        "v2": { "word": "Glided", "gujaratiPronunciation": "ગ્લાઇડેડ", "hindiPronunciation": "ग्लाइडेड", "gujaratiMeaning": "સરક્યું", "hindiMeaning": "सरका" },
+        "v3": { "word": "Glided", "gujaratiPronunciation": "ગ્લાઇડેડ", "hindiPronunciation": "ग्लाइडेड", "gujaratiMeaning": "સરકેલું", "hindiMeaning": "सरका हुआ" },
+        "v4": { "word": "Gliding", "gujaratiPronunciation": "ગ્લાઇડિંગ", "hindiPronunciation": "ग्लाइडिंग", "gujaratiMeaning": "સરકી રહ્યો છે", "hindiMeaning": "सरक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Slide", "gujaratiPronunciation": "સ્લાઇડ", "hindiPronunciation": "स्लाइड", "gujaratiMeaning": "લપસવું", "hindiMeaning": "फिसलना" },
+        { "word": "Soar", "gujaratiPronunciation": "સોર", "hindiPronunciation": "सोर", "gujaratiMeaning": "ઊંચે ઉડવું", "hindiMeaning": "ऊंची उड़ान भरना" }
+      ],
+      "antonyms": [
+        { "word": "Stumble", "gujaratiPronunciation": "સ્ટમ્બલ", "hindiPronunciation": "स्टम्बल", "gujaratiMeaning": "ઠોકર ખાવી", "hindiMeaning": "ठोकर खाना" }
+      ],
+      "confusingWords": [
+        { "word": "Glad", "gujaratiPronunciation": "ગ્લેડ", "hindiPronunciation": "ग्लैड", "gujaratiMeaning": "ખુશ", "hindiMeaning": "प्रसन्न" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The eagle can glide effortlessly through the air.",
+          "gujaratiPronunciation": "ધ ઇગલ કેન ગ્લાઇડ એફર્ટલેસલી થ્રુ ધ એર.",
+          "hindiPronunciation": "द ईगल कैन ग्लाइड एफर्टलेसली थ्रू द एयर।",
+          "gujaratiTranslation": "ગરુડ હવામાં સહેલાઈથી સરકી શકે છે.",
+          "hindiTranslation": "चील हवा में सहजता से सरक सकती है।"
+        }
+      ]
+    },
+    {
+      "word": "Orient",
+      "gujaratiPronunciation": "ઓરિએન્ટ",
+      "hindiPronunciation": "ओरिएंट",
+      "gujaratiMeaning": "દિશા નક્કી કરવી",
+      "hindiMeaning": "दिशा निर्धारित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Orient", "gujaratiPronunciation": "ઓરિએન્ટ", "hindiPronunciation": "ओरिएंट", "gujaratiMeaning": "દિશા નક્કી કરવી", "hindiMeaning": "दिशा निर्धारित करना" },
+        "v2": { "word": "Oriented", "gujaratiPronunciation": "ઓરિએન્ટેડ", "hindiPronunciation": "ओरिएंटेड", "gujaratiMeaning": "દિશા નક્કી કરી", "hindiMeaning": "दिशा निर्धारित की" },
+        "v3": { "word": "Oriented", "gujaratiPronunciation": "ઓરિએન્ટેડ", "hindiPronunciation": "ओरिएंटेड", "gujaratiMeaning": "દિશા નક્કી કરેલી", "hindiMeaning": "दिशा निर्धारित की हुई" },
+        "v4": { "word": "Orienting", "gujaratiPronunciation": "ઓરિએન્ટિંગ", "hindiPronunciation": "ओरिएंटिंग", "gujaratiMeaning": "દિશા નક્કી કરી રહ્યો છે", "hindiMeaning": "दिशा निर्धारित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Align", "gujaratiPronunciation": "અલાઇન", "hindiPronunciation": "अलाइन", "gujaratiMeaning": "એક રેખામાં ગોઠવવું", "hindiMeaning": "संरेखित करना" },
+        { "word": "Position", "gujaratiPronunciation": "પોઝિશન", "hindiPronunciation": "पोज़ीशन", "gujaratiMeaning": "સ્થિતિ નક્કી કરવી", "hindiMeaning": "स्थिति बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Disorient", "gujaratiPronunciation": "ડિસોરિએન્ટ", "hindiPronunciation": "डिसओरिएंट", "gujaratiMeaning": "દિશાભ્રમિત કરવું", "hindiMeaning": "दिशाहीन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Ornament", "gujaratiPronunciation": "ઓર્નામેન્ટ", "hindiPronunciation": "ऑर्नामेंट", "gujaratiMeaning": "ઘરેણું", "hindiMeaning": "आभूषण" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to orient the map before starting the hike.",
+          "gujaratiPronunciation": "યુ નીડ ટુ ઓરિએન્ટ ધ મેપ બિફોર સ્ટાર્ટિંગ ધ હાઇક.",
+          "hindiPronunciation": "यू नीड टू ओरिएंट द मैप बिफोर स्टार्टिंग द हाइक।",
+          "gujaratiTranslation": "પદયાત્રા શરૂ કરતા પહેલા તમારે નકશાની દિશા નક્કી કરવાની જરૂર છે.",
+          "hindiTranslation": "हाइक शुरू करने से पहले आपको नक्शे को सही दिशा में रखना होगा।"
+        }
+      ]
+    }
+  ]
+}

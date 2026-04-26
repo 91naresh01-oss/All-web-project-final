@@ -1,0 +1,47 @@
+
+{
+    "id": "level-3",
+    "title": "Academics",
+    "words": [
+        {
+            "word": "Lesson",
+            "icon": "✍️",
+            "gujaratiPronunciation": "લેસન",
+            "hindiPronunciation": "लेसन",
+            "gujaratiMeaning": "પાઠ",
+            "hindiMeaning": "पाठ"
+        },
+        {
+            "word": "Homework",
+            "icon": "📝",
+            "gujaratiPronunciation": "હોમવર્ક",
+            "hindiPronunciation": "होमवर्क",
+            "gujaratiMeaning": "ગૃહકાર્ય",
+            "hindiMeaning": "गृहकार्य"
+        },
+        {
+            "word": "Exam",
+            "icon": "💯",
+            "gujaratiPronunciation": "એક્ઝામ",
+            "hindiPronunciation": "एग्जाम",
+            "gujaratiMeaning": "પરીક્ષા",
+            "hindiMeaning": "परीक्षा"
+        },
+        {
+            "word": "Question",
+            "icon": "❓",
+            "gujaratiPronunciation": "ક્વેશ્ચન",
+            "hindiPronunciation": "क्वेश्चन",
+            "gujaratiMeaning": "પ્રશ્ન",
+            "hindiMeaning": "प्रश्न"
+        },
+        {
+            "word": "Answer",
+            "icon": "💡",
+            "gujaratiPronunciation": "આન્સર",
+            "hindiPronunciation": "आंसर",
+            "gujaratiMeaning": "જવાબ",
+            "hindiMeaning": "उत्तर"
+        }
+    ]
+}

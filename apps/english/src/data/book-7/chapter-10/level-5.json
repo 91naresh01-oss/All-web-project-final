@@ -1,0 +1,181 @@
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Master",
+            "gujaratiPronunciation": "માસ્ટર",
+            "hindiPronunciation": "मास्टर",
+            "gujaratiMeaning": "નિપુણતા મેળવવી",
+            "hindiMeaning": "महारत हासिल करना",
+            "partOfSpeech": "verb/noun",
+            "verbForms": {
+                "V1": { "word": "Master", "gujaratiPronunciation": "માસ્ટર", "hindiPronunciation": "मास्टर", "gujaratiMeaning": "નિપુણતા મેળવવી", "hindiMeaning": "महारत हासिल करना" },
+                "V2": { "word": "Mastered", "gujaratiPronunciation": "માસ્ટર્ડ", "hindiPronunciation": "मास्टर्ड", "gujaratiMeaning": "નિપુણતા મેળવી", "hindiMeaning": "महारत हासिल की" },
+                "V3": { "word": "Mastered", "gujaratiPronunciation": "માસ્ટર્ડ", "hindiPronunciation": "मास्टर्ड", "gujaratiMeaning": "નિપુણતા મેળવેલી", "hindiMeaning": "महारत हासिल की हुई" },
+                "V4": { "word": "Mastering", "gujaratiPronunciation": "માસ્ટરિંગ", "hindiPronunciation": "मास्टरिंग", "gujaratiMeaning": "નિપુણતા મેળવી રહ્યું છે", "hindiMeaning": "महारत हासिल कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Learn", "gujaratiPronunciation": "લર્ન", "hindiPronunciation": "लर्न", "gujaratiMeaning": "શીખવું", "hindiMeaning": "सीखना" },
+                { "word": "Grasp", "gujaratiPronunciation": "ગ્રૅસ્પ", "hindiPronunciation": "ग्रास्प", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" }
+            ],
+            "antonyms": [
+                { "word": "Struggle", "gujaratiPronunciation": "સ્ટ્રગલ", "hindiPronunciation": "स्ट्रगल", "gujaratiMeaning": "સંઘર્ષ કરવો", "hindiMeaning": "संघर्ष करना" },
+                { "word": "Be inept", "gujaratiPronunciation": "બી ઇનેપ્ટ", "hindiPronunciation": "बी इनेप्ट", "gujaratiMeaning": "અકુશળ હોવું", "hindiMeaning": "अकुशल होना" }
+            ],
+            "confusingWords": [
+                { "word": "Mister", "gujaratiPronunciation": "મિસ્ટર", "hindiPronunciation": "मिस्टर", "gujaratiMeaning": "શ્રીમાન", "hindiMeaning": "श्रीमान" },
+                { "word": "Monster", "gujaratiPronunciation": "મોન્સ્ટર", "hindiPronunciation": "मॉन्स्टर", "gujaratiMeaning": "રાક્ષસ", "hindiMeaning": "राक्षस" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "It takes years to master a musical instrument.",
+                    "gujaratiPronunciation": "ઇટ ટેક્સ યર્સ ટુ માસ્ટર અ મ્યુઝિકલ ઇન્સ્ટ્રુમેન્ટ.",
+                    "hindiPronunciation": "इट टेक्स इयर्स टु मास्टर अ म्यूजिकल इंस्ट्रूमेंट।",
+                    "gujaratiTranslation": "સંગીતનાં સાધન પર નિપુણતા મેળવવામાં વર્ષો લાગે છે.",
+                    "hindiTranslation": "एक संगीत वाद्ययंत्र में महारत हासिल करने में वर्षों लगते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Grasp",
+            "gujaratiPronunciation": "ગ્રૅસ્પ",
+            "hindiPronunciation": "ग्रास्प",
+            "gujaratiMeaning": "સમજવું/પકડવું",
+            "hindiMeaning": "समझना/पकड़ना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Grasp", "gujaratiPronunciation": "ગ્રૅસ્પ", "hindiPronunciation": "ग्रास्प", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+                "V2": { "word": "Grasped", "gujaratiPronunciation": "ગ્રૅસ્પ્ડ", "hindiPronunciation": "ग्रास्प्ड", "gujaratiMeaning": "સમજ્યું", "hindiMeaning": "समझा" },
+                "V3": { "word": "Grasped", "gujaratiPronunciation": "ગ્રૅસ્પ્ડ", "hindiPronunciation": "ग्रास्प्ड", "gujaratiMeaning": "સમજેલું", "hindiMeaning": "समझा हुआ" },
+                "V4": { "word": "Grasping", "gujaratiPronunciation": "ગ્રૅસ્પિંગ", "hindiPronunciation": "ग्रास्पिंग", "gujaratiMeaning": "સમજી રહ્યું છે", "hindiMeaning": "समझ रहा है" }
+            },
+            "synonyms": [
+                { "word": "Understand", "gujaratiPronunciation": "અન્ડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+                { "word": "Comprehend", "gujaratiPronunciation": "કોમ્પ્રીહેન્ડ", "hindiPronunciation": "कॉम्प्रिहेंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" }
+            ],
+            "antonyms": [
+                { "word": "Misunderstand", "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ", "hindiPronunciation": "मिसअंडरस्टैंड", "gujaratiMeaning": "ગેરસમજ કરવી", "hindiMeaning": "गलत समझना" },
+                { "word": "Release", "gujaratiPronunciation": "રિલીઝ", "hindiPronunciation": "रिलीज", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ना" }
+            ],
+            "confusingWords": [
+                { "word": "Grass", "gujaratiPronunciation": "ગ્રાસ", "hindiPronunciation": "ग्रास", "gujaratiMeaning": "ઘાસ", "hindiMeaning": "घास" },
+                { "word": "Gasp", "gujaratiPronunciation": "ગેસ્પ", "hindiPronunciation": "गैस्प", "gujaratiMeaning": "હાફવું", "hindiMeaning": "हाँफना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He has a good grasp of the subject.",
+                    "gujaratiPronunciation": "હી હેઝ અ ગુડ ગ્રૅસ્પ ઓફ ધ સબ્જેક્ટ.",
+                    "hindiPronunciation": "ही हैज अ गुड ग्रास्प ऑफ द सब्जेक्ट।",
+                    "gujaratiTranslation": "તેને વિષયની સારી સમજ છે.",
+                    "hindiTranslation": "उसे विषय की अच्छी समझ है।"
+                }
+            ]
+        },
+        {
+            "word": "Flourish",
+            "gujaratiPronunciation": "ફ્લરિશ",
+            "hindiPronunciation": "फ्लरिश",
+            "gujaratiMeaning": "વિકસવું",
+            "hindiMeaning": "फलना-फूलना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Flourish", "gujaratiPronunciation": "ફ્લરિશ", "hindiPronunciation": "फ्लरिश", "gujaratiMeaning": "વિકસવું", "hindiMeaning": "फलना-फूलना" },
+                "V2": { "word": "Flourished", "gujaratiPronunciation": "ફ્લરિશ્ડ", "hindiPronunciation": "फ्लरिश्ड", "gujaratiMeaning": "વિકસ્યું", "hindiMeaning": "फला-फूला" },
+                "V3": { "word": "Flourished", "gujaratiPronunciation": "ફ્લરિશ્ડ", "hindiPronunciation": "फ्लरिश्ड", "gujaratiMeaning": "વિકસેલું", "hindiMeaning": "फला-फूला" },
+                "V4": { "word": "Flourishing", "gujaratiPronunciation": "ફ્લરિશિંગ", "hindiPronunciation": "फ्लरिशिंग", "gujaratiMeaning": "વિકસી રહ્યું છે", "hindiMeaning": "फल-फूल रहा है" }
+            },
+            "synonyms": [
+                { "word": "Thrive", "gujaratiPronunciation": "થ્રાઇવ", "hindiPronunciation": "थ्राइव", "gujaratiMeaning": "સમૃદ્ધ થવું", "hindiMeaning": "समृद्ध होना" },
+                { "word": "Prosper", "gujaratiPronunciation": "પ્રોસ્પર", "hindiPronunciation": "प्रॉस्पर", "gujaratiMeaning": "સમૃદ્ધ થવું", "hindiMeaning": "समृद्ध होना" }
+            ],
+            "antonyms": [
+                { "word": "Decline", "gujaratiPronunciation": "ડિક્લાઇન", "hindiPronunciation": "डिक्लाइन", "gujaratiMeaning": "પતન થવું", "hindiMeaning": "पतन होना" },
+                { "word": "Wither", "gujaratiPronunciation": "વિધર", "hindiPronunciation": "विदर", "gujaratiMeaning": "કરમાઈ જવું", "hindiMeaning": "मुरझाना" }
+            ],
+            "confusingWords": [
+                { "word": "Flush", "gujaratiPronunciation": "ફ્લશ", "hindiPronunciation": "फ्लश", "gujaratiMeaning": "પાણીથી સાફ કરવું", "hindiMeaning": "पानी से धोना" },
+                { "word": "Flesh", "gujaratiPronunciation": "ફ્લેશ", "hindiPronunciation": "फ्लेश", "gujaratiMeaning": "માંસ", "hindiMeaning": "मांस" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The arts began to flourish at that time.",
+                    "gujaratiPronunciation": "ધ આર્ટ્સ બિગેન ટુ ફ્લરિશ એટ ધેટ ટાઇમ.",
+                    "hindiPronunciation": "द आर्ट्स बिगेन टु फ्लरिश एट दैट टाइम।",
+                    "gujaratiTranslation": "તે સમયે કળાઓનો વિકાસ થવા લાગ્યો.",
+                    "hindiTranslation": "उस समय कलाएँ फलने-फूलने लगीं।"
+                }
+            ]
+        },
+        {
+            "word": "Attain",
+            "gujaratiPronunciation": "અટેન",
+            "hindiPronunciation": "अटेन",
+            "gujaratiMeaning": "પ્રાપ્ત કરવું",
+            "hindiMeaning": "प्राप्त करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Attain", "gujaratiPronunciation": "અટેન", "hindiPronunciation": "अटेन", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "प्राप्त करना" },
+                "V2": { "word": "Attained", "gujaratiPronunciation": "અટેન્ડ", "hindiPronunciation": "अटेंड", "gujaratiMeaning": "પ્રાપ્ત કર્યું", "hindiMeaning": "प्राप्त किया" },
+                "V3": { "word": "Attained", "gujaratiPronunciation": "અટેન્ડ", "hindiPronunciation": "अटेंड", "gujaratiMeaning": "પ્રાપ્ત કરેલું", "hindiMeaning": "प्राप्त किया हुआ" },
+                "V4": { "word": "Attaining", "gujaratiPronunciation": "અટેનિંગ", "hindiPronunciation": "अटेनिंग", "gujaratiMeaning": "પ્રાપ્ત કરી રહ્યું છે", "hindiMeaning": "प्राप्त कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Achieve", "gujaratiPronunciation": "અચીવ", "hindiPronunciation": "अचीव", "gujaratiMeaning": "હાંસલ કરવું", "hindiMeaning": "हासिल करना" },
+                { "word": "Reach", "gujaratiPronunciation": "રીચ", "hindiPronunciation": "रीच", "gujaratiMeaning": "પહોંચવું", "hindiMeaning": "पहुँचना" }
+            ],
+            "antonyms": [
+                { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज", "gujaratiMeaning": "ગુમાવવું", "hindiMeaning": "खोना" },
+                { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ જવું", "hindiMeaning": "असफल होना" }
+            ],
+            "confusingWords": [
+                { "word": "Attend", "gujaratiPronunciation": "અટેન્ડ", "hindiPronunciation": "अटेंड", "gujaratiMeaning": "હાજરી આપવી", "hindiMeaning": "उपस्थित होना" },
+                { "word": "Abstain", "gujaratiPronunciation": "એબ્સ્ટેન", "hindiPronunciation": "एब्स्टेन", "gujaratiMeaning": "દૂર રહેવું", "hindiMeaning": "दूर रहना" }
+            ],
+             "exampleSentences": [
+                {
+                    "sentence": "He hopes to attain a high position in the company.",
+                    "gujaratiPronunciation": "હી હોપ્સ ટુ અટેન અ હાઈ પોઝિશન ઇન ધ કંપની.",
+                    "hindiPronunciation": "ही होप्स टु अटेन अ हाई पोजिशन इन द कंपनी।",
+                    "gujaratiTranslation": "તે કંપનીમાં ઉચ્ચ પદ પ્રાપ્ત કરવાની આશા રાખે છે.",
+                    "hindiTranslation": "वह कंपनी में एक उच्च पद प्राप्त करने की उम्मीद करता है।"
+                }
+            ]
+        },
+        {
+            "word": "Actualize",
+            "gujaratiPronunciation": "એક્ચ્યુઅલાઇઝ",
+            "hindiPronunciation": "एक्चुअलाइज",
+            "gujaratiMeaning": "સાકાર કરવું",
+            "hindiMeaning": "साकार करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Actualize", "gujaratiPronunciation": "એક્ચ્યુઅલાઇઝ", "hindiPronunciation": "एक्चुअलाइज", "gujaratiMeaning": "સાકાર કરવું", "hindiMeaning": "साकार करना" },
+                "V2": { "word": "Actualized", "gujaratiPronunciation": "એક્ચ્યુઅલાઇઝ્ડ", "hindiPronunciation": "एक्चुअलाइज्ड", "gujaratiMeaning": "સાકાર કર્યું", "hindiMeaning": "साकार किया" },
+                "V3": { "word": "Actualized", "gujaratiPronunciation": "એક્ચ્યુઅલાઇઝ્ડ", "hindiPronunciation": "एक्चुअलाइज्ड", "gujaratiMeaning": "સાકાર કરેલું", "hindiMeaning": "साकार किया हुआ" },
+                "V4": { "word": "Actualizing", "gujaratiPronunciation": "એક્ચ્યુઅલાઇઝિંગ", "hindiPronunciation": "एक्चुअलाइजिंग", "gujaratiMeaning": "સાકાર કરી રહ્યું છે", "hindiMeaning": "साकार कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Realize", "gujaratiPronunciation": "રિયલાઇઝ", "hindiPronunciation": "रियलाइज", "gujaratiMeaning": "ભાન થવું/સાકાર કરવું", "hindiMeaning": "एहसास होना/साकार करना" },
+                { "word": "Fulfill", "gujaratiPronunciation": "ફુલફિલ", "hindiPronunciation": "फुलफिल", "gujaratiMeaning": "પૂરું કરવું", "hindiMeaning": "पूरा करना" }
+            ],
+            "antonyms": [
+                { "word": "Imagine", "gujaratiPronunciation": "ઇમેજિન", "hindiPronunciation": "इमेजिन", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" },
+                { "word": "Neglect", "gujaratiPronunciation": "નેગલેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "उपेक्षा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Actually", "gujaratiPronunciation": "એક્ચ્યુઅલી", "hindiPronunciation": "एक्चुअली", "gujaratiMeaning": "ખરેખર", "hindiMeaning": "वास्तव में" },
+                { "word": "Activate", "gujaratiPronunciation": "એક્ટિવેટ", "hindiPronunciation": "एक्टिवेट", "gujaratiMeaning": "સક્રિય કરવું", "hindiMeaning": "सक्रिय करना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He was finally able to actualize his dream of becoming a writer.",
+                    "gujaratiPronunciation": "હી વોઝ ફાઇનલી એબલ ટુ એક્ચ્યુઅલાઇઝ હિઝ ડ્રીમ ઓફ બિકમિંગ અ રાઇટર.",
+                    "hindiPronunciation": "ही वॉज फाइनली एबल टु एक्चुअलाइज हिज ड्रीम ऑफ बिकमिंग अ राइटर।",
+                    "gujaratiTranslation": "તે આખરે લેખક બનવાના તેના સ્વપ્નને સાકાર કરી શક્યો.",
+                    "hindiTranslation": "वह आखिरकार एक लेखक बनने के अपने सपने को साकार करने में सक्षम हुआ।"
+                }
+            ]
+        }
+    ]
+}

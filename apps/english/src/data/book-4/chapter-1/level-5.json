@@ -1,0 +1,177 @@
+{
+  "id": "level-5",
+  "title": "Level 5: Extreme States",
+  "words": [
+    {
+      "word": "Ecstasize",
+      "gujaratiPronunciation": "એક્સ્ટસાઇઝ",
+      "hindiPronunciation": "एक्स्टसाइज़",
+      "gujaratiMeaning": "અતિશય આનંદિત થવું",
+      "hindiMeaning": "अत्यानंदित होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Ecstasize", "gujaratiPronunciation": "એક્સ્ટસાઇઝ", "hindiPronunciation": "एक्स्टसाइज़", "gujaratiMeaning": "અતિશય આનંદિત થવું", "hindiMeaning": "अत्यानंदित होना" },
+        "V2 (Past)": { "word": "Ecstasized", "gujaratiPronunciation": "એક્સ્ટસાઇઝ્ડ", "hindiPronunciation": "एक्स्टसाइज़्ड", "gujaratiMeaning": "અતિશય આનંદિત થયો", "hindiMeaning": "अत्यानंदित हुआ" },
+        "V3 (Past Participle)": { "word": "Ecstasized", "gujaratiPronunciation": "એક્સ્ટસાઇઝ્ડ", "hindiPronunciation": "एक्स्टसाइज़्ड", "gujaratiMeaning": "અતિશય આનંદિત થયેલો", "hindiMeaning": "अत्यानंदित" },
+        "V4 (Present Participle)": { "word": "Ecstasizing", "gujaratiPronunciation": "એક્સ્ટસાઇઝિંગ", "hindiPronunciation": "एक्स्टसाइज़िंग", "gujaratiMeaning": "અતિશય આનંદિત થતો", "hindiMeaning": "अत्यानंदित हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Exult", "gujaratiPronunciation": "એક્ઝલ્ટ", "hindiPronunciation": "एग्ज़ल्ट", "gujaratiMeaning": "આનંદથી ઉછળી પડવું", "hindiMeaning": "उल्लासित होना" },
+        { "word": "Rapture", "gujaratiPronunciation": "રેપ્ચર", "hindiPronunciation": "रैप्चर", "gujaratiMeaning": "પરમાનંદ", "hindiMeaning": "परमानंद" }
+      ],
+      "antonyms": [
+        { "word": "Mourn", "gujaratiPronunciation": "મોર્ન", "hindiPronunciation": "मोर्न", "gujaratiMeaning": "શોક કરવો", "hindiMeaning": "शोक करना" },
+        { "word": "Suffer", "gujaratiPronunciation": "સફર", "hindiPronunciation": "सफर", "gujaratiMeaning": "પીડાવું", "hindiMeaning": "पीड़ित होना" }
+      ],
+      "confusingWords": [
+        { "word": "Exercise", "gujaratiPronunciation": "એક્સરસાઇઝ", "hindiPronunciation": "एक्सरसाइज़", "gujaratiMeaning": "કસરત", "hindiMeaning": "व्यायाम" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The crowd began to ecstasize as the band played their final song.",
+          "gujaratiTranslation": "જ્યારે બેન્ડે તેમનું અંતિમ ગીત વગાડ્યું ત્યારે ભીડ અતિશય આનંદિત થવા લાગી.",
+          "hindiTranslation": "जैसे ही बैंड ने अपना अंतिम गाना बजाया, भीड़ अत्यानंदित होने लगी।",
+          "gujaratiPronunciation": "ધ ક્રાઉડ બિગેન ટુ એક્સ્ટસાઇઝ એઝ ધ બેન્ડ પ્લેડ ધેર ફાઇનલ સોંગ.",
+          "hindiPronunciation": "द क्राउड बिगेन टू एक्स्टसाइज़ एज़ द बैंड प्लेड देयर फाइनल सॉन्ग।"
+        }
+      ]
+    },
+    {
+      "word": "Infuriate",
+      "gujaratiPronunciation": "ઇન્ફ્યુરિએટ",
+      "hindiPronunciation": "इन्फ्यूरिएट",
+      "gujaratiMeaning": "ખૂબ ગુસ્સે કરવું",
+      "hindiMeaning": "अत्यंत क्रोधित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Infuriate", "gujaratiPronunciation": "ઇન્ફ્યુરિએટ", "hindiPronunciation": "इन्फ्यूरिएट", "gujaratiMeaning": "ખૂબ ગુસ્સે કરવું", "hindiMeaning": "अत्यंत क्रोधित करना" },
+        "V2 (Past)": { "word": "Infuriated", "gujaratiPronunciation": "ઇન્ફ્યુરિએટેડ", "hindiPronunciation": "इन्फ्यूरिएटेड", "gujaratiMeaning": "ખૂબ ગુસ્સે કર્યું", "hindiMeaning": "अत्यंत क्रोधित किया" },
+        "V3 (Past Participle)": { "word": "Infuriated", "gujaratiPronunciation": "ઇન્ફ્યુરિએટેડ", "hindiPronunciation": "इन्फ्यूरिएटेड", "gujaratiMeaning": "ખૂબ ગુસ્સે થયેલું", "hindiMeaning": "अत्यंत क्रोधित" },
+        "V4 (Present Participle)": { "word": "Infuriating", "gujaratiPronunciation": "ઇન્ફ્યુરિએટિંગ", "hindiPronunciation": "इन्फ्यूरिएटिंग", "gujaratiMeaning": "ખૂબ ગુસ્સે કરનારું", "hindiMeaning": "अत्यंत क्रोधित करने वाला" }
+      },
+      "synonyms": [
+        { "word": "Enrage", "gujaratiPronunciation": "એનરેજ", "hindiPronunciation": "एनरेज", "gujaratiMeaning": "રોષે ભરાવવું", "hindiMeaning": "क्रोधित करना" },
+        { "word": "Anger", "gujaratiPronunciation": "એંગર", "hindiPronunciation": "एंगर", "gujaratiMeaning": "ગુસ્સો", "hindiMeaning": "गुस्सा दिलाना" }
+      ],
+      "antonyms": [
+        { "word": "Soothe", "gujaratiPronunciation": "સૂધ", "hindiPronunciation": "सूद", "gujaratiMeaning": "શાંત પાડવું", "hindiMeaning": "शांत करना" },
+        { "word": "Placate", "gujaratiPronunciation": "પ્લેકેટ", "hindiPronunciation": "प्लेकेट", "gujaratiMeaning": "શાંત કરવું", "hindiMeaning": "शांत करना" }
+      ],
+      "confusingWords": [
+        { "word": "Inferior", "gujaratiPronunciation": "ઇન્ફિરિયર", "hindiPronunciation": "इन्फीरियर", "gujaratiMeaning": "હલકી ગુણવત્તાવાળું", "hindiMeaning": "घटिया" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "His rude comments were enough to infuriate anyone.",
+          "gujaratiTranslation": "તેની અસભ્ય ટિપ્પણીઓ કોઈને પણ ગુસ્સે કરવા માટે પૂરતી હતી.",
+          "hindiTranslation": "उसकी असभ्य टिप्पणियाँ किसी को भी अत्यंत क्रोधित करने के लिए काफी थीं।",
+          "gujaratiPronunciation": "હિઝ રુડ કમેન્ટ્સ વર ઇનફ ટુ ઇન્ફ્યુરિએટ એનીવન.",
+          "hindiPronunciation": "हिज़ रूड कमेंट्स वर इनफ टू इन्फ्यूरिएट एनीवन।"
+        }
+      ]
+    },
+    {
+      "word": "Tranquilize",
+      "gujaratiPronunciation": "ટ્રાન્ક્વિલાઇઝ",
+      "hindiPronunciation": "ट्रैंक्विलाइज़",
+      "gujaratiMeaning": "શાંત કરવું",
+      "hindiMeaning": "शांत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Tranquilize", "gujaratiPronunciation": "ટ્રાન્ક્વિલાઇઝ", "hindiPronunciation": "ट्रैंक्विलाइज़", "gujaratiMeaning": "શાંત કરવું", "hindiMeaning": "शांत करना" },
+        "V2 (Past)": { "word": "Tranquilized", "gujaratiPronunciation": "ટ્રાન્ક્વિલાઇઝ્ડ", "hindiPronunciation": "ट्रैंक्विलाइज़्ड", "gujaratiMeaning": "શાંત કર્યું", "hindiMeaning": "शांत किया" },
+        "V3 (Past Participle)": { "word": "Tranquilized", "gujaratiPronunciation": "ટ્રાન્ક્વિલાઇઝ્ડ", "hindiPronunciation": "ट्रैंक्विलाइज़्ड", "gujaratiMeaning": "શાંત કરેલું", "hindiMeaning": "शांत किया हुआ" },
+        "V4 (Present Participle)": { "word": "Tranquilizing", "gujaratiPronunciation": "ટ્રાન્ક્વિલાઇઝિંગ", "hindiPronunciation": "ट्रैंक्विलाइज़िंग", "gujaratiMeaning": "શાંત કરતું", "hindiMeaning": "शांत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Calm", "gujaratiPronunciation": "કામ", "hindiPronunciation": "काम", "gujaratiMeaning": "શાંત કરવું", "hindiMeaning": "शांत करना" },
+        { "word": "Soothe", "gujaratiPronunciation": "સૂધ", "hindiPronunciation": "सूद", "gujaratiMeaning": "શાંત પાડવું", "hindiMeaning": "शांत करना" }
+      ],
+      "antonyms": [
+        { "word": "Agitate", "gujaratiPronunciation": "એજિટેટ", "hindiPronunciation": "एजिटेट", "gujaratiMeaning": "ઉશ્કેરવું", "hindiMeaning": "उत्तेजित करना" },
+        { "word": "Excite", "gujaratiPronunciation": "એક્સાઇટ", "hindiPronunciation": "एक्साइट", "gujaratiMeaning": "ઉત્તેજિત કરવું", "hindiMeaning": "उत्तेजित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Translate", "gujaratiPronunciation": "ટ્રાન્સલેટ", "hindiPronunciation": "ट्रांसलेट", "gujaratiMeaning": "અનુવાદ કરવો", "hindiMeaning": "अनुवाद करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The vet had to tranquilize the injured lion.",
+          "gujaratiTranslation": "પશુચિકિત્સકને ઘાયલ સિંહને શાંત કરવો પડ્યો.",
+          "hindiTranslation": "पशु चिकित्सक को घायल शेर को शांत करना पड़ा।",
+          "gujaratiPronunciation": "ધ વેટ હેડ ટુ ટ્રાન્ક્વિલાઇઝ ધ ઇન્જર્ડ લાયન.",
+          "hindiPronunciation": "द वेट हैड टू ट्रैंक्विलाइज़ द इंजर्ड लायन।"
+        }
+      ]
+    },
+    {
+      "word": "Wallow",
+      "gujaratiPronunciation": "વોલો",
+      "hindiPronunciation": "वॉलो",
+      "gujaratiMeaning": "આળોટવું",
+      "hindiMeaning": "लोटना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Wallow", "gujaratiPronunciation": "વોલો", "hindiPronunciation": "वॉलो", "gujaratiMeaning": "આળોટવું", "hindiMeaning": "लोटना" },
+        "V2 (Past)": { "word": "Wallowed", "gujaratiPronunciation": "વોલોડ", "hindiPronunciation": "वॉलोड", "gujaratiMeaning": "આળોટ્યો", "hindiMeaning": "लोटा" },
+        "V3 (Past Participle)": { "word": "Wallowed", "gujaratiPronunciation": "વોલોડ", "hindiPronunciation": "वॉलोड", "gujaratiMeaning": "આળોટેલો", "hindiMeaning": "लोटा हुआ" },
+        "V4 (Present Participle)": { "word": "Wallowing", "gujaratiPronunciation": "વોલોઇંગ", "hindiPronunciation": "वॉलोइंग", "gujaratiMeaning": "આળોટતો", "hindiMeaning": "लोट रहा है" }
+      },
+      "synonyms": [
+        { "word": "Revel", "gujaratiPronunciation": "રેવલ", "hindiPronunciation": "रेवल", "gujaratiMeaning": "આનંદ માણવો", "hindiMeaning": "आनंद लेना" },
+        { "word": "Indulge", "gujaratiPronunciation": "ઇન્ડલ્જ", "hindiPronunciation": "इंडल्ज", "gujaratiMeaning": "લીન થવું", "hindiMeaning": "लिप्त होना" }
+      ],
+      "antonyms": [
+        { "word": "Rise", "gujaratiPronunciation": "રાઇઝ", "hindiPronunciation": "राइज़", "gujaratiMeaning": "ઉભું થવું", "hindiMeaning": "उठना" },
+        { "word": "Strive", "gujaratiPronunciation": "સ્ટ્રાઇવ", "hindiPronunciation": "स्ट्राइव", "gujaratiMeaning": "પ્રયત્ન કરવો", "hindiMeaning": "प्रयास करना" }
+      ],
+      "confusingWords": [
+        { "word": "Swallow", "gujaratiPronunciation": "સ્વોલો", "hindiPronunciation": "स्वॉलो", "gujaratiMeaning": "ગળવું", "hindiMeaning": "निगलना" },
+        { "word": "Hollow", "gujaratiPronunciation": "હોલો", "hindiPronunciation": "हॉलो", "gujaratiMeaning": "પોલું", "hindiMeaning": "खोखला" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He was wallowing in self-pity.",
+          "gujaratiTranslation": "તે આત્મ-દયામાં આળોટતો હતો.",
+          "hindiTranslation": "वह आत्म-दया में लोट रहा था।",
+          "gujaratiPronunciation": "હી વોઝ વોલોઇંગ ઇન સેલ્ફ-પિટી.",
+          "hindiPronunciation": "ही वाज़ वॉलोइंग इन सेल्फ-पिटी।"
+        }
+      ]
+    },
+    {
+      "word": "Lament",
+      "gujaratiPronunciation": "લમેન્ટ",
+      "hindiPronunciation": "लमेंट",
+      "gujaratiMeaning": "વિલાપ કરવો",
+      "hindiMeaning": "विलाप करना",
+      "partOfSpeech": "Verb/Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Lament", "gujaratiPronunciation": "લમેન્ટ", "hindiPronunciation": "लमेंट", "gujaratiMeaning": "વિલાપ કરવો", "hindiMeaning": "विलाप करना" },
+        "V2 (Past)": { "word": "Lamented", "gujaratiPronunciation": "લમેન્ટેડ", "hindiPronunciation": "लमेंटेड", "gujaratiMeaning": "વિલાપ કર્યો", "hindiMeaning": "विलाप किया" },
+        "V3 (Past Participle)": { "word": "Lamented", "gujaratiPronunciation": "લમેન્ટેડ", "hindiPronunciation": "लमेंटेड", "gujaratiMeaning": "વિલાપ કરેલો", "hindiMeaning": "विलाप किया हुआ" },
+        "V4 (Present Participle)": { "word": "Lamenting", "gujaratiPronunciation": "લમેન્ટિંગ", "hindiPronunciation": "लमेंटिंग", "gujaratiMeaning": "વિલાપ કરતો", "hindiMeaning": "विलाप कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Mourn", "gujaratiPronunciation": "મોર્ન", "hindiPronunciation": "मोर्न", "gujaratiMeaning": "શોક કરવો", "hindiMeaning": "शोक करना" },
+        { "word": "Grieve", "gujaratiPronunciation": "ગ્રીવ", "hindiPronunciation": "ग्रीव", "gujaratiMeaning": "દુઃખી થવું", "hindiMeaning": "दुखी होना" }
+      ],
+      "antonyms": [
+        { "word": "Celebrate", "gujaratiPronunciation": "સેલિબ્રેટ", "hindiPronunciation": "सेलिब्रेट", "gujaratiMeaning": "ઉજવણી કરવી", "hindiMeaning": "जश्न मनाना" },
+        { "word": "Rejoice", "gujaratiPronunciation": "રિજોઈસ", "hindiPronunciation": "रिजॉइस", "gujaratiMeaning": "આનંદ કરવો", "hindiMeaning": "आनंद मनाना" }
+      ],
+      "confusingWords": [
+        { "word": "Element", "gujaratiPronunciation": "એલિમેન્ટ", "hindiPronunciation": "एलिमेंट", "gujaratiMeaning": "તત્વ", "hindiMeaning": "तत्व" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She lamented the loss of her childhood.",
+          "gujaratiTranslation": "તેણીએ તેના બાળપણના નુકસાન પર વિલાપ કર્યો.",
+          "hindiTranslation": "उसने अपने बचपन के खोने का विलाप किया।",
+          "gujaratiPronunciation": "શી લમેન્ટેડ ધ લોસ ઓફ હર ચાઇલ્ડહુડ.",
+          "hindiPronunciation": "शी लमेंटेड द लॉस ऑफ हर चाइल्डहुड।"
+        }
+      ]
+    }
+  ]
+}

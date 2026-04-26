@@ -1,0 +1,47 @@
+
+{
+    "id": "level-8",
+    "title": "Animal Homes 2",
+    "words": [
+        {
+            "word": "Stable",
+            "icon": "🐎",
+            "gujaratiPronunciation": "સ્ટેબલ",
+            "hindiPronunciation": "स्टेबल",
+            "gujaratiMeaning": "તબેલો",
+            "hindiMeaning": "अस्तबल"
+        },
+        {
+            "word": "Burrow",
+            "icon": "🐰",
+            "gujaratiPronunciation": "બરો",
+            "hindiPronunciation": "बरो",
+            "gujaratiMeaning": "દર",
+            "hindiMeaning": "बिल"
+        },
+        {
+            "word": "Lair",
+            "icon": "🦁",
+            "gujaratiPronunciation": "લેર",
+            "hindiPronunciation": "लेयर",
+            "gujaratiMeaning": "બોડ",
+            "hindiMeaning": "मांद"
+        },
+        {
+            "word": "Coop",
+            "icon": "🐔",
+            "gujaratiPronunciation": "કૂપ",
+            "hindiPronunciation": "कूप",
+            "gujaratiMeaning": "મરઘાบ้าน",
+            "hindiMeaning": "दड़बा"
+        },
+        {
+            "word": "Aquarium",
+            "icon": "🐠",
+            "gujaratiPronunciation": "એક્વેરિયમ",
+            "hindiPronunciation": "एक्वेरियम",
+            "gujaratiMeaning": "માછલીઘર",
+            "hindiMeaning": "मछलीघर"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "level-2",
+    "title": "Spices 2",
+    "words": [
+        { "word": "Black Pepper", "icon": "⚫", "gujaratiPronunciation": "બ્લેક પેપર", "hindiPronunciation": "ब्लैक पेपर", "gujaratiMeaning": "કાળા મરી", "hindiMeaning": "काली मिर्च" },
+        { "word": "Clove", "icon": "🌿", "gujaratiPronunciation": "ક્લોવ", "hindiPronunciation": "क्लोव", "gujaratiMeaning": "લવિંગ", "hindiMeaning": "लौंग" },
+        { "word": "Cardamom", "icon": "🌿", "gujaratiPronunciation": "કાર્ડમમ", "hindiPronunciation": "कार्डमम", "gujaratiMeaning": "ઈલાયચી", "hindiMeaning": "इलायची" },
+        { "word": "Cinnamon", "icon": "🌿", "gujaratiPronunciation": "સિનેમન", "hindiPronunciation": "सिनेमन", "gujaratiMeaning": "તજ", "hindiMeaning": "दालचीनी" },
+        { "word": "Nutmeg", "icon": "🌰", "gujaratiPronunciation": "નટમેગ", "hindiPronunciation": "नटमेग", "gujaratiMeaning": "જાયફળ", "hindiMeaning": "जायफल" }
+    ]
+}

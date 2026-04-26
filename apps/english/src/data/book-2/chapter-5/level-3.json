@@ -1,0 +1,77 @@
+
+{
+  "id": "level-3",
+  "title": "Sports Actions",
+  "words": [
+    {
+      "word": "Jump",
+      "gujaratiPronunciation": "જમ્પ",
+      "hindiPronunciation": "जंप",
+      "gujaratiMeaning": "કૂદવું",
+      "hindiMeaning": "कूदना",
+      "exampleSentences": [
+        {
+          "sentence": "The cat can jump very high.",
+          "gujaratiTranslation": "બિલાડી ખૂબ ઊંચો કૂદકો મારી શકે છે.",
+          "hindiTranslation": "बिल्ली बहुत ऊँचा कूद सकती है।"
+        }
+      ]
+    },
+    {
+      "word": "Run",
+      "gujaratiPronunciation": "રન",
+      "hindiPronunciation": "रन",
+      "gujaratiMeaning": "દોડવું",
+      "hindiMeaning": "दौड़ना",
+      "exampleSentences": [
+        {
+          "sentence": "I run every morning to stay fit.",
+          "gujaratiTranslation": "હું ફિટ રહેવા માટે દરરોજ સવારે દોડું છું.",
+          "hindiTranslation": "मैं फिट रहने के लिए हर सुबह दौड़ता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Throw",
+      "gujaratiPronunciation": "થ્રો",
+      "hindiPronunciation": "थ्रो",
+      "gujaratiMeaning": "ફેંકવું",
+      "hindiMeaning": "फेंकना",
+      "exampleSentences": [
+        {
+          "sentence": "Throw the ball to me.",
+          "gujaratiTranslation": "દડો મને ફેંકો.",
+          "hindiTranslation": "गेंद मुझे फेंको।"
+        }
+      ]
+    },
+    {
+      "word": "Catch",
+      "gujaratiPronunciation": "કેચ",
+      "hindiPronunciation": "कैच",
+      "gujaratiMeaning": "પકડવું",
+      "hindiMeaning": "पकड़ना",
+      "exampleSentences": [
+        {
+          "sentence": "He made a brilliant catch.",
+          "gujaratiTranslation": "તેણે એક શાનદાર કેચ કર્યો.",
+          "hindiTranslation": "उसने एक शानदार कैच पकड़ा।"
+        }
+      ]
+    },
+    {
+      "word": "Kick",
+      "gujaratiPronunciation": "કિક",
+      "hindiPronunciation": "किक",
+      "gujaratiMeaning": "લાત મારવી",
+      "hindiMeaning": "लात मारना",
+      "exampleSentences": [
+        {
+          "sentence": "He kicked the ball into the goal.",
+          "gujaratiTranslation": "તેણે દડાને ગોલમાં લાત મારી.",
+          "hindiTranslation": "उसने गेंद को गोल में लात मारी।"
+        }
+      ]
+    }
+  ]
+}

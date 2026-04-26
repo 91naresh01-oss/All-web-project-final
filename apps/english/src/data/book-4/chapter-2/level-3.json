@@ -1,0 +1,172 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Hypothesize",
+      "gujaratiPronunciation": "હાઇપોથિસાઇઝ",
+      "hindiPronunciation": "हाइपोथेसाइज़",
+      "gujaratiMeaning": "પૂર્વધારણા કરવી",
+      "hindiMeaning": "परिकल्पना करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Hypothesize", "gujaratiPronunciation": "હાઇપોથિસાઇઝ", "hindiPronunciation": "हाइपोथेसाइज़", "gujaratiMeaning": "પૂર્વધારણા કરવી", "hindiMeaning": "परिकल्पना करना" },
+        "V2 (Past Simple)": { "word": "Hypothesized", "gujaratiPronunciation": "હાઇપોથિસાઇઝ્ડ", "hindiPronunciation": "हाइपोथेसाइज़्ड", "gujaratiMeaning": "પૂર્વધારણા કરી", "hindiMeaning": "परिकल्पना की" },
+        "V3 (Past Participle)": { "word": "Hypothesized", "gujaratiPronunciation": "હાઇપોથિસાઇઝ્ડ", "hindiPronunciation": "हाइपोथेसाइज़्ड", "gujaratiMeaning": "પૂર્વધારણા કરેલ", "hindiMeaning": "परिकल्पित" },
+        "V4 (Present Participle)": { "word": "Hypothesizing", "gujaratiPronunciation": "હાઇપોથિસાઇઝિંગ", "hindiPronunciation": "हाइपोथेसाइज़िंग", "gujaratiMeaning": "પૂર્વધારણા કરી રહ્યું છે", "hindiMeaning": "परिकल्पना कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Theorize", "gujaratiPronunciation": "થિયરાઇઝ", "hindiPronunciation": "थियोराइज़", "gujaratiMeaning": "સિદ્ધાંત બનાવવો", "hindiMeaning": "सिद्धांत बनाना" },
+        { "word": "Speculate", "gujaratiPronunciation": "સ્પેક્યુલેટ", "hindiPronunciation": "स्पेक्युलेट", "gujaratiMeaning": "અટકળ કરવી", "hindiMeaning": "अटकलें लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Prove", "gujaratiPronunciation": "પ્રૂવ", "hindiPronunciation": "प्रूव", "gujaratiMeaning": "સાબિત કરવું", "hindiMeaning": "साबित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Hyphenate", "gujaratiPronunciation": "હાઇફનેટ", "hindiPronunciation": "हाइफनेट", "gujaratiMeaning": "હાઇફનથી જોડવું", "hindiMeaning": "हाइफ़न से जोड़ना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Scientists hypothesize that life could exist on other planets.",
+          "gujaratiTranslation": "વૈજ્ઞાનિકો પૂર્વધારણા કરે છે કે અન્ય ગ્રહો પર જીવન અસ્તિત્વમાં હોઈ શકે છે.",
+          "hindiTranslation": "वैज्ञानिक परिकल्पना करते हैं कि अन्य ग्रहों पर जीवन मौजूद हो सकता है।",
+          "gujaratiPronunciation": "સાયન્ટિસ્ટ્સ હાઇપોથિસાઇઝ ધેટ લાઇફ કુડ એક્ઝિસ્ટ ઓન અધર પ્લેનેટ્સ.",
+          "hindiPronunciation": "साइंटिस्ट्स हाइपोथेसाइज़ दैट लाइफ कुड एक्सिस्ट ऑन अदर प्लैनेट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Conclude",
+      "gujaratiPronunciation": "કન્ક્લુડ",
+      "hindiPronunciation": "कनक्लूड",
+      "gujaratiMeaning": "નિષ્કર્ષ કાઢવો",
+      "hindiMeaning": "निष्कर्ष निकालना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Conclude", "gujaratiPronunciation": "કન્ક્લુડ", "hindiPronunciation": "कनक्लूड", "gujaratiMeaning": "નિષ્કર્ષ કાઢવો", "hindiMeaning": "निष्कर्ष निकालना" },
+        "V2 (Past Simple)": { "word": "Concluded", "gujaratiPronunciation": "કન્ક્લુડેડ", "hindiPronunciation": "कनक्लूडेड", "gujaratiMeaning": "નિષ્કર્ષ કાઢ્યો", "hindiMeaning": "निष्कर्ष निकाला" },
+        "V3 (Past Participle)": { "word": "Concluded", "gujaratiPronunciation": "કન્ક્લુડેડ", "hindiPronunciation": "कनक्लूडेड", "gujaratiMeaning": "નિષ્કર્ષ કાઢેલ", "hindiMeaning": "निष्कर्ष निकाला हुआ" },
+        "V4 (Present Participle)": { "word": "Concluding", "gujaratiPronunciation": "કન્ક્લુડિંગ", "hindiPronunciation": "कनक्लूडिंग", "gujaratiMeaning": "નિષ્કર્ષ કાઢી રહ્યું છે", "hindiMeaning": "निष्कर्ष निकाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Deduce", "gujaratiPronunciation": "ડિડ્યુસ", "hindiPronunciation": "डिड्यूस", "gujaratiMeaning": "તારણ કાઢવું", "hindiMeaning": "परिणाम निकालना" },
+        { "word": "Infer", "gujaratiPronunciation": "ઇન્ફર", "hindiPronunciation": "इन्फर", "gujaratiMeaning": "અનુમાન કરવું", "hindiMeaning": "अनुमान लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Begin", "gujaratiPronunciation": "બિગિન", "hindiPronunciation": "बिगिन", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" }
+      ],
+      "confusingWords": [
+        { "word": "Include", "gujaratiPronunciation": "ઇન્ક્લુડ", "hindiPronunciation": "इन्क्लूड", "gujaratiMeaning": "સમાવેશ કરવો", "hindiMeaning": "शामिल करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "From the evidence, we can conclude that he is guilty.",
+          "gujaratiTranslation": "પુરાવા પરથી, આપણે નિષ્કર્ષ કાઢી શકીએ છીએ કે તે દોષિત છે.",
+          "hindiTranslation": "सबूतों से हम यह निष्कर्ष निकाल सकते हैं कि वह दोषी है।",
+          "gujaratiPronunciation": "ફ્રોમ ધ એવિડન્સ, વી કેન કન્ક્લુડ ધેટ હી ઇઝ ગિલ્ટી.",
+          "hindiPronunciation": "फ्रॉम द एविडेंस, वी कैन कनक्लूड दैट ही इज़ गिल्टी।"
+        }
+      ]
+    },
+    {
+      "word": "Derive",
+      "gujaratiPronunciation": "ડિરાઇવ",
+      "hindiPronunciation": "डिराइव",
+      "gujaratiMeaning": "મેળવવું",
+      "hindiMeaning": "प्राप्त करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Derive", "gujaratiPronunciation": "ડિરાઇવ", "hindiPronunciation": "डिराइव", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" },
+        "V2 (Past Simple)": { "word": "Derived", "gujaratiPronunciation": "ડિરાઇવ્ડ", "hindiPronunciation": "डिराइव्ड", "gujaratiMeaning": "મેળવ્યું", "hindiMeaning": "प्राप्त किया" },
+        "V3 (Past Participle)": { "word": "Derived", "gujaratiPronunciation": "ડિરાઇવ્ડ", "hindiPronunciation": "डिराइव्ड", "gujaratiMeaning": "મેળવેલ", "hindiMeaning": "व्युत्पन्न" },
+        "V4 (Present Participle)": { "word": "Deriving", "gujaratiPronunciation": "ડિરાઇવિંગ", "hindiPronunciation": "डिराइविंग", "gujaratiMeaning": "મેળવી રહ્યું છે", "hindiMeaning": "प्राप्त कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Obtain", "gujaratiPronunciation": "ઓબ્ટેન", "hindiPronunciation": "ऑब्टेन", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "प्राप्त करना" },
+        { "word": "Extract", "gujaratiPronunciation": "એક્સટ્રેક્ટ", "hindiPronunciation": "एक्सट्रेक्ट", "gujaratiMeaning": "બહાર કાઢવું", "hindiMeaning": "निकालना" }
+      ],
+      "antonyms": [
+        { "word": "Give", "gujaratiPronunciation": "ગિવ", "hindiPronunciation": "गिव", "gujaratiMeaning": "આપવું", "hindiMeaning": "देना" }
+      ],
+      "confusingWords": [
+        { "word": "Deprive", "gujaratiPronunciation": "ડિપ્રાઇવ", "hindiPronunciation": "डिपराइव", "gujaratiMeaning": "વંચિત કરવું", "hindiMeaning": "वंचित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Many medicines are derived from plants.",
+          "gujaratiTranslation": "ઘણી દવાઓ છોડમાંથી મેળવવામાં આવે છે.",
+          "hindiTranslation": "कई दवाएं पौधों से प्राप्त की जाती हैं।",
+          "gujaratiPronunciation": "મેની મેડિસિન્સ આર ડિરાઇવ્ડ ફ્રોમ પ્લાન્ટ્સ.",
+          "hindiPronunciation": "मेनी मेडिसिन्स आर डिराइव्ड फ्रॉम प्लांट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Corroborate",
+      "gujaratiPronunciation": "કરોબરેટ",
+      "hindiPronunciation": "करोबोरेट",
+      "gujaratiMeaning": "સમર્થન આપવું",
+      "hindiMeaning": "पुष्टि करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Corroborate", "gujaratiPronunciation": "કરોબરેટ", "hindiPronunciation": "करोबोरेट", "gujaratiMeaning": "સમર્થન આપવું", "hindiMeaning": "पुष्टि करना" },
+        "V2 (Past Simple)": { "word": "Corroborated", "gujaratiPronunciation": "કરોબરેટેડ", "hindiPronunciation": "करोबोरेटेड", "gujaratiMeaning": "સમર્થન આપ્યું", "hindiMeaning": "पुष्टि की" },
+        "V3 (Past Participle)": { "word": "Corroborated", "gujaratiPronunciation": "કરોબરેટેડ", "hindiPronunciation": "करोबोरेटेड", "gujaratiMeaning": "સમર્થન આપેલ", "hindiMeaning": "पुष्ट" },
+        "V4 (Present Participle)": { "word": "Corroborating", "gujaratiPronunciation": "કરોબરેટિંગ", "hindiPronunciation": "करोबोरेटिंग", "gujaratiMeaning": "સમર્થન આપી રહ્યું છે", "hindiMeaning": "पुष्टि कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" },
+        { "word": "Verify", "gujaratiPronunciation": "વેરિફાય", "hindiPronunciation": "वेरीफाई", "gujaratiMeaning": "ચકાસણી કરવી", "hindiMeaning": "सत्यापित करना" }
+      ],
+      "antonyms": [
+        { "word": "Contradict", "gujaratiPronunciation": "કોન્ટ્રાડિક્ટ", "hindiPronunciation": "कॉन्ट्राडिक्ट", "gujaratiMeaning": "વિરોધાભાસ કરવો", "hindiMeaning": "खंडन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Collaborate", "gujaratiPronunciation": "કલેબરેટ", "hindiPronunciation": "कोलैबोरेट", "gujaratiMeaning": "સહયોગ કરવો", "hindiMeaning": "सहयोग करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The witness was able to corroborate the victim's story.",
+          "gujaratiTranslation": "સાક્ષી પીડિતાની વાતને સમર્થન આપી શક્યો.",
+          "hindiTranslation": "गवाह पीड़ित की कहानी की पुष्टि करने में सक्षम था।",
+          "gujaratiPronunciation": "ધ વિટનેસ વોઝ એબલ ટુ કરોબરેટ ધ વિક્ટિમ્સ સ્ટોરી.",
+          "hindiPronunciation": "द विटनेस वाज़ एबल टू करोबोरेट द विक्टिम्स स्टोरी।"
+        }
+      ]
+    },
+    {
+      "word": "Quantify",
+      "gujaratiPronunciation": "ક્વોન્ટિફાય",
+      "hindiPronunciation": "क्वांटिफाई",
+      "gujaratiMeaning": "માત્રા નક્કી કરવી",
+      "hindiMeaning": "मात्रा निर्धारित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Quantify", "gujaratiPronunciation": "ક્વોન્ટિફાય", "hindiPronunciation": "क्वांटिफाई", "gujaratiMeaning": "માત્રા નક્કી કરવી", "hindiMeaning": "मात्रा निर्धारित करना" },
+        "V2 (Past Simple)": { "word": "Quantified", "gujaratiPronunciation": "ક્વોન્ટિફાઇડ", "hindiPronunciation": "क्वांटिफाइड", "gujaratiMeaning": "માત્રા નક્કી કરી", "hindiMeaning": "मात्रा निर्धारित की" },
+        "V3 (Past Participle)": { "word": "Quantified", "gujaratiPronunciation": "ક્વોન્ટિફાઇડ", "hindiPronunciation": "क्वांटिफाइड", "gujaratiMeaning": "માત્રા નક્કી કરેલ", "hindiMeaning": "परिमाणित" },
+        "V4 (Present Participle)": { "word": "Quantifying", "gujaratiPronunciation": "ક્વોન્ટિફાઇંગ", "hindiPronunciation": "क्वांटिफाइंग", "gujaratiMeaning": "માત્રા નક્કી કરી રહ્યું છે", "hindiMeaning": "मात्रा निर्धारित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Measure", "gujaratiPronunciation": "મેઝર", "hindiPronunciation": "मेज़र", "gujaratiMeaning": "માપવું", "hindiMeaning": "मापना" },
+        { "word": "Assess", "gujaratiPronunciation": "એસેસ", "hindiPronunciation": "असेस", "gujaratiMeaning": "મૂલ્યાંકન કરવું", "hindiMeaning": "आकलन करना" }
+      ],
+      "antonyms": [
+        { "word": "Qualify", "gujaratiPronunciation": "ક્વોલિફાય", "hindiPronunciation": "क्वालीफाई", "gujaratiMeaning": "ગુણવત્તા નક્કી કરવી", "hindiMeaning": "गुणवत्ता का वर्णन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Qualify", "gujaratiPronunciation": "ક્વોલિફાય", "hindiPronunciation": "क्वालीफाई", "gujaratiMeaning": "લાયક બનવું", "hindiMeaning": "योग्य बनाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is difficult to quantify the damage.",
+          "gujaratiTranslation": "નુકસાનની માત્રા નક્કી કરવી મુશ્કેલ છે.",
+          "hindiTranslation": "नुकसान की मात्रा निर्धारित करना मुश्किल है।",
+          "gujaratiPronunciation": "ઇટ ઇઝ ડિફિકલ્ટ ટુ ક્વોન્ટિફાય ધ ડેમેજ.",
+          "hindiPronunciation": "इट इज़ डिफिकल्ट टू क्वांटिफाई द डैमेज।"
+        }
+      ]
+    }
+  ]
+}

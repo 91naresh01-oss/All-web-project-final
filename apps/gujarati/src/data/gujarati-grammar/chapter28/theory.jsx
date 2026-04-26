@@ -1,0 +1,253 @@
+import React from 'react';
+import {
+    GradientCard,
+    TheoryCard,
+    TheoryHeading,
+    TheorySubHeading,
+    TheoryText,
+    TheoryList,
+    TheoryListItem,
+    TheoryGrid,
+    TheoryTable,
+    TheoryTableHeader,
+    TheoryTableRow,
+    HighlightBox
+} from '../../../components/TheoryComponents';
+
+export const chapter28Theory = [
+    {
+        title: "વિભક્તિ: પરિચય અને કોઠો",
+        content: (
+            <div className="modern-theory-wrapper">
+                {/* Header Section */}
+                <div style={{
+                    background: 'linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)',
+                    borderRadius: '16px',
+                    padding: '24px',
+                    color: 'white',
+                    textAlign: 'center',
+                    boxShadow: '0 10px 25px rgba(79, 70, 229, 0.3)',
+                    marginBottom: '24px'
+                }}>
+                    <h1 style={{ fontSize: '1.6rem', fontWeight: '800', marginBottom: '8px' }}>📚 ગુજરાતી વ્યાકરણ: વિભક્તિ (Vibhakti)</h1>
+                    <h2 style={{ fontSize: '1.2rem', fontWeight: '600', color: '#fef08a' }}>🏛️ Van Academy</h2>
+                    <p style={{ marginTop: '8px', opacity: 0.9 }}>ગુજરાતી વ્યાકરણનો પાયો</p>
+                </div>
+
+                <GradientCard
+                    icon="🔹"
+                    title="વિભક્તિ એટલે શું?"
+                    description="વાક્યમાં રહેલા જુદાં જુદાં પદ (શબ્દો) ને જોડતા પ્રત્યય (અનુગ-નામયોગી)ના સંબંધને વિભક્તિ કહે છે."
+                    theme="indigo"
+                >
+                    <TheoryText>
+                        <span style={{ fontWeight: 'bold' }}>વ્યાખ્યા:</span> વાક્યમાં રહેલા જુદાં જુદાં પદ (શબ્દો) ને જોડતા પ્રત્યય (અનુગ-નામયોગી)ના સંબંધને <span style={{ color: '#4338ca', fontWeight: 'bold' }}>વિભક્તિ</span> કહે છે.
+                        <br />
+                        વિભક્તિ એટલે જુદું અને વિભક્તિ એટલે ભેગું. આમ, જે જુદું છે તેને ભેગું કરે તે 'વિભક્તિ' તરીકે ઓળખાય છે.
+                    </TheoryText>
+                    <TheoryList>
+                        <TheoryListItem>ગુજરાતી ભાષામાં કુલ <span style={{ fontWeight: 'bold', color: '#7c3aed' }}>આઠ વિભક્તિઓ</span> છે.</TheoryListItem>
+                        <TheoryListItem>એક વાક્યમાં એકથી વધુ વિભક્તિઓ આવી શકે છે.</TheoryListItem>
+                    </TheoryList>
+
+                    <div style={{ marginTop: '16px', padding: '16px', background: 'rgba(255,255,255,0.3)', borderRadius: '12px' }}>
+                        <TheoryHeading>ઉદાહરણ સ્પષ્ટતા:</TheoryHeading>
+                        <TheoryList>
+                            <TheoryListItem>છોકરા છોકરી ફૂલ બતાવ્યું <span style={{ color: '#ef4444', fontSize: '0.9rem' }}>(અર્થ સ્પષ્ટ નથી)</span></TheoryListItem>
+                            <TheoryListItem>છોકરા<span style={{ fontWeight: 'bold', color: '#7c3aed' }}>એ</span> છોકરી<span style={{ fontWeight: 'bold', color: '#7c3aed' }}>ને</span> ફૂલ બતાવ્યું <span style={{ color: '#16a34a', fontWeight: '500' }}>(અર્થ સ્પષ્ટ)</span></TheoryListItem>
+                            <TheoryListItem>છોકરા<span style={{ fontWeight: 'bold', color: '#7c3aed' }}>ને</span> છોકરી<span style={{ fontWeight: 'bold', color: '#7c3aed' }}>એ</span> ફૂલ બતાવ્યું.</TheoryListItem>
+                        </TheoryList>
+                        <TheoryText>
+                            <em style={{ color: '#4b5563', borderLeft: '2px solid #9ca3af', paddingLeft: '8px', display: 'block', marginTop: '8px' }}>
+                                નોંધ: આમ, વાક્યમાં રહેલાં જુદાં જુદાં પદને જોડવા માટે જે પ્રત્યય કે અનુગ-નામયોગી વપરાય છે અને જેનાથી અર્થ સ્પષ્ટ થાય છે, તેને વિભક્તિ અથવા વિભક્તિના પ્રત્યય કહે છે.
+                            </em>
+                        </TheoryText>
+                    </div>
+                </GradientCard>
+
+                <TheoryCard title="📊 વિભક્તિ કોઠો (સારાંશ)" theme="blue">
+                    <TheoryTable>
+                        <TheoryTableHeader theme="blue" headers={['વિભક્તિ', 'કારક', 'પ્રત્યય', 'શું દર્શાવે?', 'ઓળખ']} />
+                        <TheoryTableRow cells={['પ્રથમા', 'કર્તા', 'શૂન્ય, એ, ને, થી', 'ક્રિયાનો કરનાર', 'કોણ/કોણે?']} />
+                        <TheoryTableRow cells={['દ્વિતીયા', 'કર્મ', 'શૂન્ય, ને', 'ક્રિયાનું કર્મ, લક્ષ્ય', 'શું, કોને?']} isEven />
+                        <TheoryTableRow cells={['તૃતીયા', 'કરણ', 'થી, થકી, વડે, દ્વારા', 'ક્રિયાનું સાધન, રીત', 'શાના દ્વારા/વડે?']} />
+                        <TheoryTableRow cells={['ચતુર્થી', 'સંપ્રદાન', 'ને, માટે, કાજે', 'આપવાનો હેતુ', 'કોના માટે?']} isEven />
+                        <TheoryTableRow cells={['પંચમી', 'અપાદાન', 'થી, માંથી, પાસેથી', 'છૂટા પડવું', 'ક્યાંથી/કોનાથી?']} />
+                        <TheoryTableRow cells={['ષષ્ઠી', 'સંબંધ', 'નો, ની, નું, ના', 'સંબંધ', 'કોનું/કોના?']} isEven />
+                        <TheoryTableRow cells={['સપ્તમી', 'અધિકરણ', 'માં, એ, અંદર, ઉપર', 'સ્થાન–સમય', 'ક્યાં, ક્યારે?']} />
+                        <TheoryTableRow cells={['અષ્ટમી', 'સંબોધન', 'હે, અરે, ઓ', 'સંબોધન', '!, અલ્પવિરામ']} isEven />
+                    </TheoryTable>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૧-૪ વિભક્તિઓ વિગતવાર",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard title="૧. પ્રથમા વિભક્તિ (કર્તા)" theme="purple">
+                    <TheoryText>
+                        <span style={{ fontWeight: 'bold' }}>વ્યાખ્યા:</span> ક્રિયાનો કરનાર તે કર્તા. કોઇ પણ પદ ક્રિયાના કરનારને દર્શાવે ત્યારે તે કર્તા વિભક્તિ છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>ઓળખ:</span> ક્રિયાપદને 'કોણ/કોણે' વડે પ્રશ્ન પૂછવાથી કર્તા મળે છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>પ્રત્યય:</span> શૂન્ય, એ, ને, થી.
+                    </TheoryText>
+                    <HighlightBox title="ઉદાહરણો:" type="note">
+                        <ul style={{ listStyle: 'disc', paddingLeft: '24px' }}>
+                            <li>રાજાથી ઘર દાન કરાય છે.</li>
+                            <li>દેવદત્ત પુણ્ય કરે છે.</li>
+                            <li>મહેશ સર અંગ્રેજી ભણાવે છે.</li>
+                            <li>ગાંધીજી રાષ્ટ્રપિતા તરીકે ઓળખાયા.</li>
+                            <li>બહેનથી કૉલેજમાં જવાયું નહીં.</li>
+                        </ul>
+                    </HighlightBox>
+                </TheoryCard>
+
+                <TheoryCard title="૨. દ્વિતીયા વિભક્તિ (કર્મ)" theme="teal">
+                    <TheoryText>
+                        <span style={{ fontWeight: 'bold' }}>વ્યાખ્યા:</span> ક્રિયાનું વિષય કે લક્ષ્ય એટલે કર્મ. (મુખ્ય કર્મ અને ગૌણ કર્મ).
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>ઓળખ:</span> 'શું, કોને, ક્યાં' વડે પ્રશ્ન પૂછવાથી કર્મ મળે છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>પ્રત્યય:</span> શૂન્ય, ને.
+                    </TheoryText>
+                    <HighlightBox title="ઉદાહરણો:" type="note">
+                        <ul style={{ listStyle: 'disc', paddingLeft: '24px' }}>
+                            <li>રાજા યુદ્ધ લડે છે.</li>
+                            <li>રાજાએ યુદ્ધ લડવા કહ્યું.</li>
+                            <li>રાહુલ મયંકને બોલાવે છે.</li>
+                            <li>તે ગરીબને દાન આપે છે.</li>
+                            <li>મેં ખોબે ખોબે જળને પીધું.</li>
+                            <li>મમ્મી રોટલી વણે છે.</li>
+                            <li>રામે રાવણને માર્યો.</li>
+                        </ul>
+                    </HighlightBox>
+                </TheoryCard>
+
+                <TheoryCard title="૩. તૃતીયા વિભક્તિ (કરણ)" theme="amber">
+                    <TheoryText>
+                        <span style={{ fontWeight: 'bold' }}>વ્યાખ્યા:</span> કરણ એટલે સાધન. ક્રિયા કરવામાં જે ઉપયોગી થાય તેને કરણ કહેવાય.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>ઓળખ:</span> 'શાના દ્વારા, શાના વડે, શાનાથી' વડે પ્રશ્ન પૂછવાથી કરણ મળે છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>પ્રત્યય:</span> થી, થકી, વડે, દ્વારા, મારફત.
+                    </TheoryText>
+                    <HighlightBox title="ઉદાહરણો:" type="note">
+                        <ul style={{ listStyle: 'disc', paddingLeft: '24px' }}>
+                            <li>તે દોડતો રથથી પડ્યો.</li>
+                            <li>તેણીએ મને નજરોથી ઘાયલ કર્યો.</li>
+                            <li>તેણે પેનથી લખાણ સુધાર્યું.</li>
+                            <li>સાપ આંખોથી સાંભળે છે.</li>
+                            <li>જૈમિને દાંત વડે શેરડી ખાધી.</li>
+                            <li>રમેશે કાંસકાથી વાળ ઓળ્યા.</li>
+                        </ul>
+                    </HighlightBox>
+                </TheoryCard>
+
+                <TheoryCard title="૪. ચતુર્થી વિભક્તિ (સંપ્રદાન)" theme="rose">
+                    <TheoryText>
+                        <span style={{ fontWeight: 'bold' }}>વ્યાખ્યા:</span> જેને પ્રાપ્ત કરવા ઇચ્છે તે સંપ્રદાન. આપવાની કે મેળવવાની ક્રિયાનો હેતુ.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>ઓળખ:</span> 'કોના માટે, કોના કાજે' વડે પ્રશ્ન પૂછવાથી સંપ્રદાન મળે છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>પ્રત્યય:</span> ને, માટે, વાસ્તે, કાજે, સારુ.
+                    </TheoryText>
+                    <HighlightBox title="ઉદાહરણો:" type="note">
+                        <ul style={{ listStyle: 'disc', paddingLeft: '24px' }}>
+                            <li>જૈમિને તપનને પુસ્તક આપ્યું.</li>
+                            <li>ગુરુ શિષ્યને જ્ઞાન આપે છે.</li>
+                            <li>મામા બાળકો માટે રમકડાં લાવ્યા.</li>
+                            <li>લોકો આઝાદી કાજે લડી રહ્યા હતાં.</li>
+                            <li>ગાયનું દૂધ શરીર માટે સારું છે.</li>
+                        </ul>
+                    </HighlightBox>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૫-૮ વિભક્તિઓ વિગતવાર",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard title="૫. પંચમી વિભક્તિ (અપાદાન)" theme="orange">
+                    <TheoryText>
+                        <span style={{ fontWeight: 'bold' }}>વ્યાખ્યા:</span> એક વસ્તુ બીજી વસ્તુથી છૂટી પડે ત્યારે, જેનાથી છૂટી પડે તે અપાદાન.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>ઓળખ:</span> 'ક્યાંથી, ક્યારથી, કોનાથી' વડે પ્રશ્ન પૂછવાથી અપાદાન મળે છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>પ્રત્યય:</span> થી, માંથી, અંદરથી, પાસેથી, બહારથી.
+                    </TheoryText>
+                    <HighlightBox title="ઉદાહરણો:" type="note">
+                        <ul style={{ listStyle: 'disc', paddingLeft: '24px' }}>
+                            <li>વૃક્ષ પરથી ફળ પડ્યું.</li>
+                            <li>ચિત્તો જંગલમાંથી ભાગ્યો.</li>
+                            <li>ગામથી મિત્ર આવે છે.</li>
+                            <li>તે ઘોડા પરથી પડે છે.</li>
+                            <li>વીજળીમાંથી જ્યોતિ પ્રકાશે છે.</li>
+                            <li>હું ગાંધીનગરથી નીકળી ગયો.</li>
+                        </ul>
+                    </HighlightBox>
+                </TheoryCard>
+
+                <TheoryCard title="૬. ષષ્ઠી વિભક્તિ (સંબંધ)" theme="pink">
+                    <TheoryText>
+                        <span style={{ fontWeight: 'bold' }}>વ્યાખ્યા:</span> એક નામને અન્ય નામ સાથે જોડનાર. પદ સાથેનો સંબંધ દર્શાવે છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>ઓળખ:</span> 'કોનું, કોના' વડે પ્રશ્ન પૂછવાથી સંબંધ વિભક્તિ મળે છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>પ્રત્યય:</span> નો, ની, નું, ના.
+                    </TheoryText>
+                    <HighlightBox title="ઉદાહરણો:" type="note">
+                        <ul style={{ listStyle: 'disc', paddingLeft: '24px' }}>
+                            <li>પિતાનો પ્રેમ મળે તે ધન્ય જ છે.</li>
+                            <li>ભગતનું નામ જાણીતું છે.</li>
+                            <li>તે ઘણા દહાડાનો ભુખ્યો છે.</li>
+                            <li>તેણે મહેતાજીના હાથનો માર ખાધો નથી.</li>
+                            <li>રાજાની રાણી આવી લાગે છે.</li>
+                        </ul>
+                    </HighlightBox>
+                </TheoryCard>
+
+                <TheoryCard title="૭. સપ્તમી વિભક્તિ (અધિકરણ)" theme="indigo">
+                    <TheoryText>
+                        <span style={{ fontWeight: 'bold' }}>વ્યાખ્યા:</span> ક્રિયાનો જે આધાર હોય તે. ક્રિયાનું સ્થાન કે સમય બતાવે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>ઓળખ:</span> 'ક્યાં, ક્યારે, કેટલામાં' વડે પ્રશ્ન પૂછવાથી અધિકરણ મળે છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>પ્રત્યય:</span> માં, એ, અંદર, ઉપર, તરફ.
+                    </TheoryText>
+                    <HighlightBox title="ઉદાહરણો:" type="note">
+                        <ul style={{ listStyle: 'disc', paddingLeft: '24px' }}>
+                            <li>બે ભાઈ મને રોડ પર મળ્યાં.</li>
+                            <li>લાખો નિરાશામાં એક અમર આશા છુપાઈ છે.</li>
+                            <li>મેં એની રાત્રે બાર વાગ્યા સુધી રાહ જોઈ.</li>
+                            <li>બધા છોકરાઓમાં તે હોશિયાર છે.</li>
+                            <li>સરસ્વતીને કાંઠે સિદ્ધપુર વસેલું છે.</li>
+                        </ul>
+                    </HighlightBox>
+                </TheoryCard>
+
+                <TheoryCard title="૮. અષ્ટમી વિભક્તિ (સંબોધન)" theme="blue">
+                    <TheoryText>
+                        <span style={{ fontWeight: 'bold' }}>વ્યાખ્યા:</span> વાક્યમાં કોઇને સંબોધીને ઉચ્ચારવામાં આવ્યું હોય તે પદ.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>નિયમ:</span> સંબોધન પછી અલ્પવિરામ અથવા ઉદ્ગારચિહ્ન મૂકાય છે.
+                        <br />
+                        <span style={{ fontWeight: 'bold' }}>પ્રત્યય:</span> શૂન્ય, હે, અરે, ઓ.
+                    </TheoryText>
+                    <HighlightBox title="ઉદાહરણો:" type="note">
+                        <ul style={{ listStyle: 'disc', paddingLeft: '24px' }}>
+                            <li>હે! ઈશ્વર, હવે તું જ આશરો છે.</li>
+                            <li>ઓ! મા હવે તો નથી સહેવાતું.</li>
+                            <li>પૂજય પિતાજી, સાદર પ્રણામ.</li>
+                            <li>બાળકો, આગળ ખાડો છે.</li>
+                            <li>હે પ્રભુ, તારા પંથે છીએ અમે.</li>
+                            <li>ભાઈ, મારી સાથે આવશોને?</li>
+                        </ul>
+                    </HighlightBox>
+                </TheoryCard>
+            </div>
+        )
+    }
+];

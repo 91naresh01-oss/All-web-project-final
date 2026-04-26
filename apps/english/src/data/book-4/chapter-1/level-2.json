@@ -1,0 +1,176 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Complex Feelings",
+  "words": [
+    {
+      "word": "Delight",
+      "gujaratiPronunciation": "ડિલાઇટ",
+      "hindiPronunciation": "डिलाइट",
+      "gujaratiMeaning": "આનંદ",
+      "hindiMeaning": "हर्ष",
+      "partOfSpeech": "Noun/Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Delight", "gujaratiPronunciation": "ડિલાઇટ", "hindiPronunciation": "डिलाइट", "gujaratiMeaning": "આનંદ આપવો", "hindiMeaning": "हर्षित करना" },
+        "V2 (Past)": { "word": "Delighted", "gujaratiPronunciation": "ડિલાઇટેડ", "hindiPronunciation": "डिलाइटेड", "gujaratiMeaning": "આનંદ આપ્યો", "hindiMeaning": "हर्षित किया" },
+        "V3 (Past Participle)": { "word": "Delighted", "gujaratiPronunciation": "ડિલાઇટેડ", "hindiPronunciation": "डिलाइटेड", "gujaratiMeaning": "આનંદિત", "hindiMeaning": "हर्षित" },
+        "V4 (Present Participle)": { "word": "Delighting", "gujaratiPronunciation": "ડિલાઇટિંગ", "hindiPronunciation": "डिलाइटिंग", "gujaratiMeaning": "આનંદ આપતો", "hindiMeaning": "हर्षित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Joy", "gujaratiPronunciation": "જોય", "hindiPronunciation": "जॉय", "gujaratiMeaning": "આનંદ", "hindiMeaning": "आनंद" },
+        { "word": "Pleasure", "gujaratiPronunciation": "પ્લેઝર", "hindiPronunciation": "प्लेज़र", "gujaratiMeaning": "ખુશી", "hindiMeaning": "खुशी" }
+      ],
+      "antonyms": [
+        { "word": "Sorrow", "gujaratiPronunciation": "સોરો", "hindiPronunciation": "सॉरो", "gujaratiMeaning": "દુઃખ", "hindiMeaning": "दुःख" },
+        { "word": "Misery", "gujaratiPronunciation": "મિઝરી", "hindiPronunciation": "मिज़री", "gujaratiMeaning": "દુર્દશા", "hindiMeaning": "दुर्दशा" }
+      ],
+      "confusingWords": [
+        { "word": "Dilute", "gujaratiPronunciation": "ડાયલ્યુટ", "hindiPronunciation": "डाइल्यूट", "gujaratiMeaning": "પાતળું કરવું", "hindiMeaning": "पतला करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The beautiful music was a delight to the ears.",
+          "gujaratiTranslation": "સુંદર સંગીત કાન માટે આનંદદાયક હતું.",
+          "hindiTranslation": "सुंदर संगीत कानों के लिए आनंददायक था।",
+          "gujaratiPronunciation": "ધ બ્યુટિફુલ મ્યુઝિક વોઝ અ ડિલાઇટ ટુ ધ ઇઅર્સ.",
+          "hindiPronunciation": "द ब्यूटीफुल म्यूजिक वाज़ अ डिलाइट टू द इयर्स।"
+        }
+      ]
+    },
+    {
+      "word": "Admire",
+      "gujaratiPronunciation": "એડમાયર",
+      "hindiPronunciation": "एडमायर",
+      "gujaratiMeaning": "પ્રશંસા કરવી",
+      "hindiMeaning": "प्रशंसा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Admire", "gujaratiPronunciation": "એડમાયર", "hindiPronunciation": "एडमायर", "gujaratiMeaning": "પ્રશંસા કરવી", "hindiMeaning": "प्रशंसा करना" },
+        "V2 (Past)": { "word": "Admired", "gujaratiPronunciation": "એડમાયર્ડ", "hindiPronunciation": "एडमायर्ड", "gujaratiMeaning": "પ્રશંસા કરી", "hindiMeaning": "प्रशंसा की" },
+        "V3 (Past Participle)": { "word": "Admired", "gujaratiPronunciation": "એડમાયર્ડ", "hindiPronunciation": "एडमायर्ड", "gujaratiMeaning": "પ્રશંસા કરેલી", "hindiMeaning": "प्रशंसित" },
+        "V4 (Present Participle)": { "word": "Admiring", "gujaratiPronunciation": "એડમાયરિંગ", "hindiPronunciation": "एडमायरिंग", "gujaratiMeaning": "પ્રશંસા કરતો", "hindiMeaning": "प्रशंसा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Appreciate", "gujaratiPronunciation": "એપ્રિશિએટ", "hindiPronunciation": "एप्रिशिएट", "gujaratiMeaning": "કદર કરવી", "hindiMeaning": "सराहना करना" },
+        { "word": "Respect", "gujaratiPronunciation": "રિસ્પેક્ટ", "hindiPronunciation": "रिस्पेक्ट", "gujaratiMeaning": "આદર કરવો", "hindiMeaning": "सम्मान करना" }
+      ],
+      "antonyms": [
+        { "word": "Criticize", "gujaratiPronunciation": "ક્રિટિસાઇઝ", "hindiPronunciation": "क्रिटिसाइज़", "gujaratiMeaning": "ટીકા કરવી", "hindiMeaning": "आलोचना करना" },
+        { "word": "Despise", "gujaratiPronunciation": "ડેસ્પાઇઝ", "hindiPronunciation": "डेस्पाइज़", "gujaratiMeaning": "તિરસ્કાર કરવો", "hindiMeaning": "तिरस्कार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Acquire", "gujaratiPronunciation": "એક્વાયર", "hindiPronunciation": "एक्वायर", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I admire your courage.",
+          "gujaratiTranslation": "હું તમારી હિંમતની પ્રશંસા કરું છું.",
+          "hindiTranslation": "मैं आपके साहस की प्रशंसा करता हूँ।",
+          "gujaratiPronunciation": "આઈ એડમાયર યોર કરેજ.",
+          "hindiPronunciation": "आई एडमायर योर करेज।"
+        }
+      ]
+    },
+    {
+      "word": "Grieve",
+      "gujaratiPronunciation": "ગ્રીવ",
+      "hindiPronunciation": "ग्रीव",
+      "gujaratiMeaning": "શોક કરવો",
+      "hindiMeaning": "शोक करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Grieve", "gujaratiPronunciation": "ગ્રીવ", "hindiPronunciation": "ग्रीव", "gujaratiMeaning": "શોક કરવો", "hindiMeaning": "शोक करना" },
+        "V2 (Past)": { "word": "Grieved", "gujaratiPronunciation": "ગ્રીવ્ડ", "hindiPronunciation": "ग्रीव्ड", "gujaratiMeaning": "શોક કર્યો", "hindiMeaning": "शोक किया" },
+        "V3 (Past Participle)": { "word": "Grieved", "gujaratiPronunciation": "ગ્રીવ્ડ", "hindiPronunciation": "ग्रीव्ड", "gujaratiMeaning": "શોક કરેલો", "hindiMeaning": "शोकग्रस्त" },
+        "V4 (Present Participle)": { "word": "Grieving", "gujaratiPronunciation": "ગ્રીવિંગ", "hindiPronunciation": "ग्रीविंग", "gujaratiMeaning": "શોક કરતો", "hindiMeaning": "शोक कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Mourn", "gujaratiPronunciation": "મોર્ન", "hindiPronunciation": "मोर्न", "gujaratiMeaning": "વિલાપ કરવો", "hindiMeaning": "विलाप करना" },
+        { "word": "Lament", "gujaratiPronunciation": "લમેન્ટ", "hindiPronunciation": "लमेंट", "gujaratiMeaning": "રડવું", "hindiMeaning": "विलाप करना" }
+      ],
+      "antonyms": [
+        { "word": "Rejoice", "gujaratiPronunciation": "રિજોઈસ", "hindiPronunciation": "रिजॉइस", "gujaratiMeaning": "આનંદ કરવો", "hindiMeaning": "आनंद मनाना" },
+        { "word": "Celebrate", "gujaratiPronunciation": "સેલિબ્રેટ", "hindiPronunciation": "सेलिब्रेट", "gujaratiMeaning": "ઉજવણી કરવી", "hindiMeaning": "जश्न मनाना" }
+      ],
+      "confusingWords": [
+        { "word": "Grave", "gujaratiPronunciation": "ગ્રેવ", "hindiPronunciation": "ग्रेव", "gujaratiMeaning": "કબર/ગંભીર", "hindiMeaning": "कब्र/गंभीर" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She continues to grieve for her lost son.",
+          "gujaratiTranslation": "તેણી તેના ખોવાયેલા પુત્ર માટે શોક કરવાનું ચાલુ રાખે છે.",
+          "hindiTranslation": "वह अपने खोए हुए बेटे के लिए शोक मनाती रहती है।",
+          "gujaratiPronunciation": "શી કન્ટિન્યુઝ ટુ ગ્રીવ ફોર હર લોસ્ટ સન.",
+          "hindiPronunciation": "शी कंटिन्यूज़ टू ग्रीव फॉर हर लॉस्ट सन।"
+        }
+      ]
+    },
+    {
+      "word": "Cringe",
+      "gujaratiPronunciation": "ક્રિન્જ",
+      "hindiPronunciation": "क्रिंज",
+      "gujaratiMeaning": "સંકોચાવું",
+      "hindiMeaning": "खुशामद करना/चापलूसी करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Cringe", "gujaratiPronunciation": "ક્રિન્જ", "hindiPronunciation": "क्रिंज", "gujaratiMeaning": "સંકોચાવું", "hindiMeaning": "चापलूसी करना" },
+        "V2 (Past)": { "word": "Cringed", "gujaratiPronunciation": "ક્રિન્જ્ડ", "hindiPronunciation": "क्रिंज्ड", "gujaratiMeaning": "સંકોચાયો", "hindiMeaning": "चापलूसी की" },
+        "V3 (Past Participle)": { "word": "Cringed", "gujaratiPronunciation": "ક્રિન્જ્ડ", "hindiPronunciation": "क्रिंज्ड", "gujaratiMeaning": "સંકોચાયેલો", "hindiMeaning": "चापलूसी की हुई" },
+        "V4 (Present Participle)": { "word": "Cringing", "gujaratiPronunciation": "ક્રિન્જિંગ", "hindiPronunciation": "क्रिंजिंग", "gujaratiMeaning": "સંકોચાતો", "hindiMeaning": "चापलूसी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Flinch", "gujaratiPronunciation": "ફ્લિન્ચ", "hindiPronunciation": "फ्लिंच", "gujaratiMeaning": "પાછા હટવું", "hindiMeaning": "पीछे हटना" },
+        { "word": "Wince", "gujaratiPronunciation": "વિન્સ", "hindiPronunciation": "विंस", "gujaratiMeaning": "ચમકવું", "hindiMeaning": "चौंकना" }
+      ],
+      "antonyms": [
+        { "word": "Face", "gujaratiPronunciation": "ફેસ", "hindiPronunciation": "फेस", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" },
+        { "word": "Confront", "gujaratiPronunciation": "કન્ફ્રન્ટ", "hindiPronunciation": "कन्फ्रंट", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" }
+      ],
+      "confusingWords": [
+        { "word": "Fringe", "gujaratiPronunciation": "ફ્રિન્જ", "hindiPronunciation": "फ्रिंज", "gujaratiMeaning": "ઝાડો", "hindiMeaning": "झालर" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I cringe whenever I hear that song.",
+          "gujaratiTranslation": "જ્યારે પણ હું તે ગીત સાંભળું છું ત્યારે મને સંકોચ થાય છે.",
+          "hindiTranslation": "जब भी मैं वह गाना सुनता हूं तो मुझे अजीब लगता है।",
+          "gujaratiPronunciation": "આઈ ક્રિન્જ વેનેવર આઈ હિયર ધેટ સોંગ.",
+          "hindiPronunciation": "आई क्रिंज व्हेनएवर आई हियर दैट सॉन्ग।"
+        }
+      ]
+    },
+    {
+      "word": "Revere",
+      "gujaratiPronunciation": "રિવિયર",
+      "hindiPronunciation": "रिवियर",
+      "gujaratiMeaning": "આદર કરવો",
+      "hindiMeaning": "सम्मान करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Revere", "gujaratiPronunciation": "રિવિયર", "hindiPronunciation": "रिवियर", "gujaratiMeaning": "આદર કરવો", "hindiMeaning": "सम्मान करना" },
+        "V2 (Past)": { "word": "Revered", "gujaratiPronunciation": "રિવિયર્ડ", "hindiPronunciation": "रिवियर्ड", "gujaratiMeaning": "આદર કર્યો", "hindiMeaning": "सम्मान किया" },
+        "V3 (Past Participle)": { "word": "Revered", "gujaratiPronunciation": "રિવિયર્ડ", "hindiPronunciation": "रिवियर्ड", "gujaratiMeaning": "આદરણીય", "hindiMeaning": "सम्मानित" },
+        "V4 (Present Participle)": { "word": "Revering", "gujaratiPronunciation": "રિવિયરિંગ", "hindiPronunciation": "रिवियरिंग", "gujaratiMeaning": "આદર કરતો", "hindiMeaning": "सम्मान कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Venerate", "gujaratiPronunciation": "વેનરેટ", "hindiPronunciation": "वेनरेट", "gujaratiMeaning": "પૂજવું", "hindiMeaning": "पूजा करना" },
+        { "word": "Honor", "gujaratiPronunciation": "ઓનર", "hindiPronunciation": "ऑनर", "gujaratiMeaning": "સન્માન કરવું", "hindiMeaning": "सम्मान करना" }
+      ],
+      "antonyms": [
+        { "word": "Despise", "gujaratiPronunciation": "ડેસ્પાઇઝ", "hindiPronunciation": "डेस्पाइज़", "gujaratiMeaning": "તિરસ્કાર કરવો", "hindiMeaning": "तिरस्कार करना" },
+        { "word": "Scorn", "gujaratiPronunciation": "સ્કૉર્ન", "hindiPronunciation": "स्कॉर्न", "gujaratiMeaning": "ધિક્કારવું", "hindiMeaning": "धिक्कारना" }
+      ],
+      "confusingWords": [
+        { "word": "Reverse", "gujaratiPronunciation": "રિવર્સ", "hindiPronunciation": "रिवर्स", "gujaratiMeaning": "ઉલટું", "hindiMeaning": "उल्टा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Nelson Mandela is revered for his fight against apartheid.",
+          "gujaratiTranslation": "નેલ્સન મંડેલાને તેમના રંગભેદ વિરુદ્ધના સંઘર્ષ માટે આદર આપવામાં આવે છે.",
+          "hindiTranslation": "नेल्सन मंडेला को रंगभेद के खिलाफ उनकी लड़ाई के लिए सम्मानित किया जाता है।",
+          "gujaratiPronunciation": "નેલ્સન મંડેલા ઇઝ રિવિયર્ડ ફોર હિઝ ફાઇટ અગેઇન્સ્ટ અપાર્થેઇડ.",
+          "hindiPronunciation": "नेल्सन मंडेला इज़ रिवियर्ड फॉर हिज़ फाइट अगेंस्ट अपार्थेड।"
+        }
+      ]
+    }
+  ]
+}

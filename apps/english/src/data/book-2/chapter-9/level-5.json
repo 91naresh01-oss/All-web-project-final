@@ -1,0 +1,77 @@
+
+{
+  "id": "level-5",
+  "title": "Gestures",
+  "words": [
+    {
+      "word": "Whisper",
+      "gujaratiPronunciation": "વ્હિસ્પર",
+      "hindiPronunciation": "व्हिस्पर",
+      "gujaratiMeaning": "ધીમેથી બોલવું",
+      "hindiMeaning": "फुसफुसाना",
+      "exampleSentences": [
+        {
+          "sentence": "She whispered a secret in his ear.",
+          "gujaratiTranslation": "તેણીએ તેના કાનમાં એક રહસ્ય ધીમેથી કહ્યું.",
+          "hindiTranslation": "उसने उसके कान में एक राज फुसफुसाया।"
+        }
+      ]
+    },
+    {
+      "word": "Gesture",
+      "gujaratiPronunciation": "જેસ્ચર",
+      "hindiPronunciation": "जेस्चर",
+      "gujaratiMeaning": "ઇશારો",
+      "hindiMeaning": "इशारा",
+      "exampleSentences": [
+        {
+          "sentence": "He made a rude gesture.",
+          "gujaratiTranslation": "તેણે એક અશિષ્ટ ઇશારો કર્યો.",
+          "hindiTranslation": "उसने एक अशिष्ट इशारा किया।"
+        }
+      ]
+    },
+    {
+      "word": "Point",
+      "gujaratiPronunciation": "પોઈન્ટ",
+      "hindiPronunciation": "पॉइंट",
+      "gujaratiMeaning": "ઇશારો કરવો",
+      "hindiMeaning": "इशारा करना",
+      "exampleSentences": [
+        {
+          "sentence": "Don't point your finger at others.",
+          "gujaratiTranslation": "બીજાઓ પર તમારી આંગળી ચીંધશો નહીં.",
+          "hindiTranslation": "दूसरों पर अपनी उंगली मत उठाओ।"
+        }
+      ]
+    },
+    {
+      "word": "Wave",
+      "gujaratiPronunciation": "વેવ",
+      "hindiPronunciation": "वेव",
+      "gujaratiMeaning": "હાથ હલાવવો",
+      "hindiMeaning": "हाथ हिलाना",
+      "exampleSentences": [
+        {
+          "sentence": "He waved goodbye to his friends.",
+          "gujaratiTranslation": "તેણે તેના મિત્રોને હાથ હલાવીને વિદાય આપી.",
+          "hindiTranslation": "उसने अपने दोस्तों को हाथ हिलाकर अलविदा कहा।"
+        }
+      ]
+    },
+    {
+      "word": "Nod",
+      "gujaratiPronunciation": "નોડ",
+      "hindiPronunciation": "नोड",
+      "gujaratiMeaning": "માથું હલાવવું",
+      "hindiMeaning": "सिर हिलाना",
+      "exampleSentences": [
+        {
+          "sentence": "She nodded her head in agreement.",
+          "gujaratiTranslation": "તેણીએ સંમતિમાં માથું હલાવ્યું.",
+          "hindiTranslation": "उसने सहमति में अपना सिर हिलाया।"
+        }
+      ]
+    }
+  ]
+}

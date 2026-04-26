@@ -1,0 +1,176 @@
+{
+  "id": "level-4",
+  "title": "Respect & Development",
+  "words": [
+    {
+      "word": "Champion",
+      "gujaratiPronunciation": "ચેમ્પિયન",
+      "hindiPronunciation": "चैंपियन",
+      "gujaratiMeaning": "સમર્થન કરવું, બચાવ કરવો",
+      "hindiMeaning": "समर्थन करना, बचाव करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Champion", "gujaratiPronunciation": "ચેમ્પિયન", "hindiPronunciation": "चैंपियन", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" },
+        "V2 (Past)": { "word": "Championed", "gujaratiPronunciation": "ચેમ્પિયન્ડ", "hindiPronunciation": "चैंपियन्ड", "gujaratiMeaning": "સમર્થન કર્યું", "hindiMeaning": "समर्थन किया" },
+        "V3 (Past Participle)": { "word": "Championed", "gujaratiPronunciation": "ચેમ્પિયન્ડ", "hindiPronunciation": "चैंपियन्ड", "gujaratiMeaning": "સમર્થન કરેલું", "hindiMeaning": "समर्थन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Championing", "gujaratiPronunciation": "ચેમ્પિયનિંગ", "hindiPronunciation": "चैंपियनिंग", "gujaratiMeaning": "સમર્થન કરી રહ્યું", "hindiMeaning": "समर्थन कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Advocate", "gujaratiPronunciation": "એડવોકેટ", "hindiPronunciation": "एडवोकेट", "gujaratiMeaning": "હિમાયત કરવી", "hindiMeaning": "वकालत करना" },
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "ટેકો આપવો", "hindiMeaning": "समर्थन करना" }
+      ],
+      "antonyms": [
+        { "word": "Oppose", "gujaratiPronunciation": "ઓપોઝ", "hindiPronunciation": "अपोज़", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" },
+        { "word": "Challenge", "gujaratiPronunciation": "ચેલેન્જ", "hindiPronunciation": "चैलेंज", "gujaratiMeaning": "પડકારવું", "hindiMeaning": "चुनौती देना" }
+      ],
+      "confusingWords": [
+        { "word": "Champagne", "gujaratiPronunciation": "શેમ્પેન", "hindiPronunciation": "शैम्पेन", "gujaratiMeaning": "એક પ્રકારનો દારૂ", "hindiMeaning": "एक प्रकार की शराब" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She championed the cause of animal rights.",
+          "gujaratiTranslation": "તેણીએ પ્રાણીઓના અધિકારોના કારણને સમર્થન આપ્યું.",
+          "hindiTranslation": "उन्होंने पशु अधिकारों के कारण का समर्थन किया।",
+          "gujaratiPronunciation": "શી ચેમ્પિયન્ડ ધ કૉઝ ઓફ એનિમલ રાઇટ્સ.",
+          "hindiPronunciation": "शी चैंपियन्ड द कॉज़ ऑफ एनिमल राइट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Cherish",
+      "gujaratiPronunciation": "ચેરિશ",
+      "hindiPronunciation": "चेरिश",
+      "gujaratiMeaning": "પ્રિય ગણવું, સંભાળપૂર્વક રાખવું",
+      "hindiMeaning": "प्रिय मानना, संजोना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Cherish", "gujaratiPronunciation": "ચેરિશ", "hindiPronunciation": "चेरिश", "gujaratiMeaning": "પ્રિય ગણવું", "hindiMeaning": "प्रिय मानना" },
+        "V2 (Past)": { "word": "Cherished", "gujaratiPronunciation": "ચેરિશ્ડ", "hindiPronunciation": "चेरिश्ड", "gujaratiMeaning": "પ્રિય ગણ્યું", "hindiMeaning": "प्रिय माना" },
+        "V3 (Past Participle)": { "word": "Cherished", "gujaratiPronunciation": "ચેરિશ્ડ", "hindiPronunciation": "चेरिश्ड", "gujaratiMeaning": "પ્રિય ગણેલું", "hindiMeaning": "प्रिय माना हुआ" },
+        "V4 (Present Participle)": { "word": "Cherishing", "gujaratiPronunciation": "ચેરિશિંગ", "hindiPronunciation": "चेरिशिंग", "gujaratiMeaning": "પ્રિય ગણી રહ્યું", "hindiMeaning": "प्रिय मान रहा" }
+      },
+      "synonyms": [
+        { "word": "Treasure", "gujaratiPronunciation": "ટ્રેઝર", "hindiPronunciation": "ट्रेज़र", "gujaratiMeaning": "ખજાનો માનવો", "hindiMeaning": "खजाना मानना" },
+        { "word": "Value", "gujaratiPronunciation": "વેલ્યુ", "hindiPronunciation": "वैल्यू", "gujaratiMeaning": "મહત્વ આપવું", "hindiMeaning": "महत्व देना" }
+      ],
+      "antonyms": [
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" },
+        { "word": "Abandon", "gujaratiPronunciation": "અબેન્ડન", "hindiPronunciation": "अबैंडन", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "त्याग देना" }
+      ],
+      "confusingWords": [
+        { "word": "Cherry", "gujaratiPronunciation": "ચેરી", "hindiPronunciation": "चेरी", "gujaratiMeaning": "એક ફળ", "hindiMeaning": "एक फल" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I cherish the memories of my childhood.",
+          "gujaratiTranslation": "હું મારા બાળપણની યાદોને પ્રિય ગણું છું.",
+          "hindiTranslation": "मैं अपने बचपन की यादों को संजोता हूं।",
+          "gujaratiPronunciation": "આઈ ચેરિશ ધ મેમરીઝ ઓફ માય ચાઇલ્ડહુડ.",
+          "hindiPronunciation": "आई चेरिश द मेमोरीज़ ऑफ माई चाइल्डहुड।"
+        }
+      ]
+    },
+    {
+      "word": "Honor",
+      "gujaratiPronunciation": "ઓનર",
+      "hindiPronunciation": "ऑनर",
+      "gujaratiMeaning": "સન્માન કરવું, આદર આપવો",
+      "hindiMeaning": "सम्मान करना, आदर देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Honor", "gujaratiPronunciation": "ઓનર", "hindiPronunciation": "ऑनर", "gujaratiMeaning": "સન્માન કરવું", "hindiMeaning": "सम्मान करना" },
+        "V2 (Past)": { "word": "Honored", "gujaratiPronunciation": "ઓનર્ડ", "hindiPronunciation": "ऑनर्ड", "gujaratiMeaning": "સન્માન કર્યું", "hindiMeaning": "सम्मान किया" },
+        "V3 (Past Participle)": { "word": "Honored", "gujaratiPronunciation": "ઓનર્ડ", "hindiPronunciation": "ऑनर्ड", "gujaratiMeaning": "સન્માન કરેલું", "hindiMeaning": "सम्मानित" },
+        "V4 (Present Participle)": { "word": "Honoring", "gujaratiPronunciation": "ઓનરિંગ", "hindiPronunciation": "ऑनरिंग", "gujaratiMeaning": "સન્માન કરી રહ્યું", "hindiMeaning": "सम्मान कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Respect", "gujaratiPronunciation": "રિસ્પેક્ટ", "hindiPronunciation": "रिस्पेक्ट", "gujaratiMeaning": "આદર કરવો", "hindiMeaning": "आदर करना" },
+        { "word": "Revere", "gujaratiPronunciation": "રિવિયર", "hindiPronunciation": "रिवियर", "gujaratiMeaning": "પૂજવું", "hindiMeaning": "पूजा करना" }
+      ],
+      "antonyms": [
+        { "word": "Dishonor", "gujaratiPronunciation": "ડિસઓનર", "hindiPronunciation": "डिसऑनर", "gujaratiMeaning": "અપમાન કરવું", "hindiMeaning": "अपमान करना" },
+        { "word": "Disgrace", "gujaratiPronunciation": "ડિસગ્રેસ", "hindiPronunciation": "डिसग्रेस", "gujaratiMeaning": "કલંક લગાવવું", "hindiMeaning": "अपमानित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Owner", "gujaratiPronunciation": "ઓનર", "hindiPronunciation": "ओनर", "gujaratiMeaning": "માલિક", "hindiMeaning": "मालिक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We honor the soldiers who fought for our country.",
+          "gujaratiTranslation": "અમે આપણા દેશ માટે લડેલા સૈનિકોનું સન્માન કરીએ છીએ.",
+          "hindiTranslation": "हम उन सैनिकों का सम्मान करते हैं जिन्होंने हमारे देश के लिए लड़ाई लड़ी।",
+          "gujaratiPronunciation": "વી ઓનર ધ સોલ્જર્સ હૂ ફૉટ ફોર અવર કન્ટ્રી.",
+          "hindiPronunciation": "वी ऑनर द सोल्जर्स हू फॉट फॉर आवर कंट्री।"
+        }
+      ]
+    },
+    {
+      "word": "Groom",
+      "gujaratiPronunciation": "ગ્રૂમ",
+      "hindiPronunciation": "ग्रूम",
+      "gujaratiMeaning": "તૈયાર કરવું, શણગારવું, તાલીમ આપવી",
+      "hindiMeaning": "तैयार करना, संवारना, प्रशिक्षित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Groom", "gujaratiPronunciation": "ગ્રૂમ", "hindiPronunciation": "ग्रूम", "gujaratiMeaning": "તૈયાર કરવું", "hindiMeaning": "तैयार करना" },
+        "V2 (Past)": { "word": "Groomed", "gujaratiPronunciation": "ગ્રૂમ્ડ", "hindiPronunciation": "ग्रूम्ड", "gujaratiMeaning": "તૈયાર કર્યું", "hindiMeaning": "तैयार किया" },
+        "V3 (Past Participle)": { "word": "Groomed", "gujaratiPronunciation": "ગ્રૂમ્ડ", "hindiPronunciation": "ग्रूम्ड", "gujaratiMeaning": "તૈયાર કરેલું", "hindiMeaning": "तैयार किया हुआ" },
+        "V4 (Present Participle)": { "word": "Grooming", "gujaratiPronunciation": "ગ્રૂમિંગ", "hindiPronunciation": "ग्रूमिंग", "gujaratiMeaning": "તૈયાર કરી રહ્યું", "hindiMeaning": "तैयार कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Prepare", "gujaratiPronunciation": "પ્રિપેર", "hindiPronunciation": "प्रिपेयर", "gujaratiMeaning": "તૈયાર કરવું", "hindiMeaning": "तैयार करना" },
+        { "word": "Train", "gujaratiPronunciation": "ટ્રેન", "hindiPronunciation": "ट्रेन", "gujaratiMeaning": "તાલીમ આપવી", "hindiMeaning": "प्रशिक्षित करना" }
+      ],
+      "antonyms": [
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" },
+        { "word": "Mess up", "gujaratiPronunciation": "મેસ અપ", "hindiPronunciation": "मेस अप", "gujaratiMeaning": "બગાડવું", "hindiMeaning": "गड़बड़ करना" }
+      ],
+      "confusingWords": [
+        { "word": "Room", "gujaratiPronunciation": "રૂમ", "hindiPronunciation": "रूम", "gujaratiMeaning": "ઓરડો", "hindiMeaning": "कमरा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He was groomed to take over the family business.",
+          "gujaratiTranslation": "તેને પારિવારિક વ્યવસાય સંભાળવા માટે તૈયાર કરવામાં આવ્યો હતો.",
+          "hindiTranslation": "उसे पारिवारिक व्यवसाय संभालने के लिए तैयार किया गया था।",
+          "gujaratiPronunciation": "હી વૉઝ ગ્રૂમ્ડ ટુ ટેક ઓવર ધ ફેમિલી બિઝનેસ.",
+          "hindiPronunciation": "ही वॉज़ ग्रूम्ड टू टेक ओवर द फैमिली बिज़नेस।"
+        }
+      ]
+    },
+    {
+      "word": "Unify",
+      "gujaratiPronunciation": "યુનિફાય",
+      "hindiPronunciation": "यूनिफाई",
+      "gujaratiMeaning": "એક કરવું, એકીકૃત કરવું",
+      "hindiMeaning": "एक करना, एकीकृत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Unify", "gujaratiPronunciation": "યુનિફાય", "hindiPronunciation": "यूनिफाई", "gujaratiMeaning": "એક કરવું", "hindiMeaning": "एक करना" },
+        "V2 (Past)": { "word": "Unified", "gujaratiPronunciation": "યુનિફાઇડ", "hindiPronunciation": "यूनिफाइड", "gujaratiMeaning": "એક કર્યું", "hindiMeaning": "एक किया" },
+        "V3 (Past Participle)": { "word": "Unified", "gujaratiPronunciation": "યુનિફાઇડ", "hindiPronunciation": "यूनिफाइड", "gujaratiMeaning": "એક કરેલું", "hindiMeaning": "एकीकृत" },
+        "V4 (Present Participle)": { "word": "Unifying", "gujaratiPronunciation": "યુનિફાઇંગ", "hindiPronunciation": "यूनिफाइंग", "gujaratiMeaning": "એક કરી રહ્યું", "hindiMeaning": "एक कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Unite", "gujaratiPronunciation": "યુનાઇટ", "hindiPronunciation": "यूनाइट", "gujaratiMeaning": "એક થવું", "hindiMeaning": "एकजुट करना" },
+        { "word": "Merge", "gujaratiPronunciation": "મર્જ", "hindiPronunciation": "मर्ज", "gujaratiMeaning": "વિલીન કરવું", "hindiMeaning": "विलय करना" }
+      ],
+      "antonyms": [
+        { "word": "Divide", "gujaratiPronunciation": "ડિવાઇડ", "hindiPronunciation": "डिवाइड", "gujaratiMeaning": "વિભાજીત કરવું", "hindiMeaning": "विभाजित करना" },
+        { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" }
+      ],
+      "confusingWords": [
+        { "word": "Notify", "gujaratiPronunciation": "નોટિફાય", "hindiPronunciation": "नोटिफाई", "gujaratiMeaning": "જાણ કરવી", "hindiMeaning": "सूचित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The new leader hopes to unify the country.",
+          "gujaratiTranslation": "નવા નેતા દેશને એક કરવાની આશા રાખે છે.",
+          "hindiTranslation": "नए नेता देश को एकजुट करने की उम्मीद करते हैं।",
+          "gujaratiPronunciation": "ધ ન્યૂ લીડર હોપ્સ ટુ યુનિફાય ધ કન્ટ્રી.",
+          "hindiPronunciation": "द न्यू लीडर होप्स टू यूनिफाई द कंट्री।"
+        }
+      ]
+    }
+  ]
+}

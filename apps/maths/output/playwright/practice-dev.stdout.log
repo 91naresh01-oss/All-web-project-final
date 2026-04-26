@@ -1,0 +1,20 @@
+
+> maths-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://10.163.143.212:3000
+- Experiments (use with caution):
+  · optimizePackageImports
+
+✓ Starting...
+Creating turbopack project {
+  dir: 'C:\\Users\\NARESH\\OneDrive\\Desktop\\Project\\MATHS',
+  testMode: true
+}
+✓ Ready in 1231ms
+ GET /chapters/49/practice/SQUARE-all 200 in 2.1s (compile: 1658ms, render: 471ms)
+ GET /chapters/49/practice/SQUARE-all 200 in 2.1s (compile: 1647ms, render: 477ms)
+ GET /chapters/49/practice/SQUARE-all 200 in 195ms (compile: 27ms, render: 167ms)
+ GET /chapters/49/practice/SQUARE-all 200 in 76ms (compile: 15ms, render: 61ms)

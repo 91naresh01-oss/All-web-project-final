@@ -1,0 +1,77 @@
+
+{
+  "id": "level-3",
+  "title": "Physical Actions 1",
+  "words": [
+    {
+      "word": "Kick",
+      "gujaratiPronunciation": "કિક",
+      "hindiPronunciation": "किक",
+      "gujaratiMeaning": "લાત મારવી",
+      "hindiMeaning": "लात मारना",
+      "exampleSentences": [
+        {
+          "sentence": "The player kicked the ball hard.",
+          "gujaratiTranslation": "ખેલાડીએ દડાને જોરથી લાત મારી.",
+          "hindiTranslation": "खिलाड़ी ने गेंद को जोर से लात मारी।"
+        }
+      ]
+    },
+    {
+      "word": "Throw",
+      "gujaratiPronunciation": "થ્રો",
+      "hindiPronunciation": "थ्रो",
+      "gujaratiMeaning": "ફેંકવું",
+      "hindiMeaning": "फेंकना",
+      "exampleSentences": [
+        {
+          "sentence": "Don't throw stones at the dog.",
+          "gujaratiTranslation": "કૂતરા પર પથ્થર ફેંકશો નહીં.",
+          "hindiTranslation": "कुत्ते पर पत्थर मत फेंको।"
+        }
+      ]
+    },
+    {
+      "word": "Catch",
+      "gujaratiPronunciation": "કેચ",
+      "hindiPronunciation": "कैच",
+      "gujaratiMeaning": "પકડવું",
+      "hindiMeaning": "पकड़ना",
+      "exampleSentences": [
+        {
+          "sentence": "Try to catch the ball.",
+          "gujaratiTranslation": "દડો પકડવાનો પ્રયત્ન કરો.",
+          "hindiTranslation": "गेंद पकड़ने की कोशिश करो।"
+        }
+      ]
+    },
+    {
+      "word": "Push",
+      "gujaratiPronunciation": "પુશ",
+      "hindiPronunciation": "पुश",
+      "gujaratiMeaning": "ધક્કો મારવો",
+      "hindiMeaning": "धक्का देना",
+      "exampleSentences": [
+        {
+          "sentence": "Push the door to open it.",
+          "gujaratiTranslation": "દરવાજો ખોલવા માટે તેને ધક્કો મારો.",
+          "hindiTranslation": "दरवाजा खोलने के लिए उसे धक्का दो।"
+        }
+      ]
+    },
+    {
+      "word": "Pull",
+      "gujaratiPronunciation": "પુલ",
+      "hindiPronunciation": "पुल",
+      "gujaratiMeaning": "ખેંચવું",
+      "hindiMeaning": "खींचना",
+      "exampleSentences": [
+        {
+          "sentence": "Pull the rope to ring the bell.",
+          "gujaratiTranslation": "ઘંટડી વગાડવા માટે દોરડું ખેંચો.",
+          "hindiTranslation": "घंटी बजाने के लिए रस्सी खींचो।"
+        }
+      ]
+    }
+  ]
+}

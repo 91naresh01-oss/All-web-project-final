@@ -1,0 +1,47 @@
+
+{
+    "id": "level-7",
+    "title": "Animal Homes 1",
+    "words": [
+        {
+            "word": "Kennel",
+            "icon": "🏠",
+            "gujaratiPronunciation": "કેનલ",
+            "hindiPronunciation": "केनेल",
+            "gujaratiMeaning": "કૂતરાઘર",
+            "hindiMeaning": "कुत्ताघर"
+        },
+        {
+            "word": "Nest",
+            "icon": "🪺",
+            "gujaratiPronunciation": "નેસ્ટ",
+            "hindiPronunciation": "नेस्ट",
+            "gujaratiMeaning": "માળો",
+            "hindiMeaning": "घोंसला"
+        },
+        {
+            "word": "Hive",
+            "icon": "🐝",
+            "gujaratiPronunciation": "હાઇવ",
+            "hindiPronunciation": "हाइव",
+            "gujaratiMeaning": "મધપૂડો",
+            "hindiMeaning": "मधुमक्खी का छत्ता"
+        },
+        {
+            "word": "Den",
+            "icon": "굴",
+            "gujaratiPronunciation": "ડેન",
+            "hindiPronunciation": "डेन",
+            "gujaratiMeaning": "ગુફા",
+            "hindiMeaning": "मांद"
+        },
+        {
+            "word": "Web",
+            "icon": "🕸️",
+            "gujaratiPronunciation": "વેબ",
+            "hindiPronunciation": "वेब",
+            "gujaratiMeaning": "જાળું",
+            "hindiMeaning": "जाल"
+        }
+    ]
+}

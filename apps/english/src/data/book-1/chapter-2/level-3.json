@@ -1,0 +1,47 @@
+
+{
+    "id": "level-3",
+    "title": "Body Parts 3",
+    "words": [
+        {
+            "word": "Teeth",
+            "icon": "🦷",
+            "gujaratiPronunciation": "ટીથ",
+            "hindiPronunciation": "टीथ",
+            "gujaratiMeaning": "દાંત",
+            "hindiMeaning": "दांत"
+        },
+        {
+            "word": "Hair",
+            "icon": "👱",
+            "gujaratiPronunciation": "હેર",
+            "hindiPronunciation": "हेयर",
+            "gujaratiMeaning": "વાળ",
+            "hindiMeaning": "बाल"
+        },
+        {
+            "word": "Face",
+            "icon": "😊",
+            "gujaratiPronunciation": "ફેસ",
+            "hindiPronunciation": "फेस",
+            "gujaratiMeaning": "ચહેરો",
+            "hindiMeaning": "चेहरा"
+        },
+        {
+            "word": "Neck",
+            "icon": "🦒",
+            "gujaratiPronunciation": "નેક",
+            "hindiPronunciation": "नेक",
+            "gujaratiMeaning": "ગરદન",
+            "hindiMeaning": "गरदन"
+        },
+        {
+            "word": "Shoulder",
+            "icon": "🤷",
+            "gujaratiPronunciation": "શોલ્ડર",
+            "hindiPronunciation": "शोल्डर",
+            "gujaratiMeaning": "ખભો",
+            "hindiMeaning": "कंधा"
+        }
+    ]
+}

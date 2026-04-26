@@ -1,0 +1,146 @@
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Axiomatize",
+            "gujaratiPronunciation": "એક્ઝિઓમેટાઇઝ",
+            "hindiPronunciation": "एक्ज़िओमेटाइज़",
+            "gujaratiMeaning": "સ્વયંસિદ્ધ સિદ્ધાંતો પર આધારિત કરવું",
+            "hindiMeaning": "स्वयंसिद्ध सिद्धांतों पर आधारित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Axiomatize", "gujaratiPronunciation": "એક્ઝિઓમેટાઇઝ", "hindiPronunciation": "एक्ज़िओमेटाइज़", "gujaratiMeaning": "સ્વયંસિદ્ધ કરવું", "hindiMeaning": "स्वयंसिद्ध करना" },
+                "v2": { "word": "Axiomatized", "gujaratiPronunciation": "એક્ઝિઓમેટાઇઝ્ડ", "hindiPronunciation": "एक्ज़िओमेटाइज़्ड", "gujaratiMeaning": "સ્વયંસિદ્ધ કર્યું", "hindiMeaning": "स्वयंसिद्ध किया" },
+                "v3": { "word": "Axiomatized", "gujaratiPronunciation": "એક્ઝિઓમેટાઇઝ્ડ", "hindiPronunciation": "एक्ज़िओमेटाइज़्ड", "gujaratiMeaning": "સ્વયંસિદ્ધ કરેલું", "hindiMeaning": "स्वयंसिद्ध किया हुआ" },
+                "v4": { "word": "Axiomatizing", "gujaratiPronunciation": "એક્ઝિઓમેટાઇઝિંગ", "hindiPronunciation": "एक्ज़िओमेटाइज़िंग", "gujaratiMeaning": "સ્વયંસિદ્ધ કરી રહ્યું છે", "hindiMeaning": "स्वयंसिद्ध कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Formalize", "gujaratiPronunciation": "ફોર્મલાઇઝ", "hindiPronunciation": "फॉर्मलाइज़", "gujaratiMeaning": "ઔપચારિક બનાવવું", "hindiMeaning": "औपचारिक बनाना" },
+                { "word": "Systematize", "gujaratiPronunciation": "સિસ્ટમેટાઇઝ", "hindiPronunciation": "सिस्टमेटाइज़", "gujaratiMeaning": "વ્યવસ્થિત કરવું", "hindiMeaning": "व्यवस्थित करना" }
+            ],
+            "antonyms": [
+                { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गेनाइज़", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अस्त-व्यस्त करना" },
+                { "word": "Guess", "gujaratiPronunciation": "ગેસ", "hindiPronunciation": "गेस", "gujaratiMeaning": "અનુમાન કરવું", "hindiMeaning": "अनुमान लगाना" }
+            ],
+            "confusingWords": [
+                { "word": "Acclimatize", "gujaratiPronunciation": "એક્લિમેટાઇઝ", "hindiPronunciation": "एक्लिमेटाइज़", "gujaratiMeaning": "અનુકૂલન સાધવું", "hindiMeaning": "अनुकूल बनाना", "difference": "Axiomatize એ તાર્કિક પ્રણાલી બનાવવાની ક્રિયા છે, જ્યારે Acclimatize એ નવા વાતાવરણ સાથે અનુકૂલન સાધવાની ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "Euclid was the first to axiomatize geometry.", "gujaratiPronunciation": "યુક્લિડ વોઝ ધ ફર્સ્ટ ટુ એક્ઝિઓમેટાઇઝ જિયોમેટ્રી.", "hindiPronunciation": "यूक्लिड वॉज़ द फर्स्ट टू एक्ज़िओमेटाइज़ जियोमेट्री।", "gujaratiTranslation": "યુક્લિડ ભૂમિતિને સ્વયંસિદ્ધ સિદ્ધાંતો પર આધારિત કરનાર પ્રથમ વ્યક્તિ હતા.", "hindiTranslation": "यूक्लिड ज्यामिति को स्वयंसिद्ध सिद्धांतों पर आधारित करने वाले पहले व्यक्ति थे।" }
+            ]
+        },
+        {
+            "word": "Critique",
+            "gujaratiPronunciation": "ક્રિટીક",
+            "hindiPronunciation": "क्रिटीक",
+            "gujaratiMeaning": "સમીક્ષા કરવી",
+            "hindiMeaning": "समीक्षा करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Critique", "gujaratiPronunciation": "ક્રિટીક", "hindiPronunciation": "क्रिटीक", "gujaratiMeaning": "સમીક્ષા કરવી", "hindiMeaning": "समीक्षा करना" },
+                "v2": { "word": "Critiqued", "gujaratiPronunciation": "ક્રિટીક્ડ", "hindiPronunciation": "क्रिटीक्ड", "gujaratiMeaning": "સમીક્ષા કરી", "hindiMeaning": "समीक्षा की" },
+                "v3": { "word": "Critiqued", "gujaratiPronunciation": "ક્રિટીક્ડ", "hindiPronunciation": "क्रिटीक्ड", "gujaratiMeaning": "સમીક્ષા કરેલી", "hindiMeaning": "समीक्षा की हुई" },
+                "v4": { "word": "Critiquing", "gujaratiPronunciation": "ક્રિટીકિંગ", "hindiPronunciation": "क्रिटीकिंग", "gujaratiMeaning": "સમીક્ષા કરી રહ્યું છે", "hindiMeaning": "समीक्षा कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Review", "gujaratiPronunciation": "રિવ્યુ", "hindiPronunciation": "रिव्यू", "gujaratiMeaning": "પુનરાવલોકન કરવું", "hindiMeaning": "समीक्षा करना" },
+                { "word": "Analyze", "gujaratiPronunciation": "એનલાઇઝ", "hindiPronunciation": "एनालाइज़", "gujaratiMeaning": "વિશ્લેષણ કરવું", "hindiMeaning": "विश्लेषण करना" }
+            ],
+            "antonyms": [
+                { "word": "Praise", "gujaratiPronunciation": "પ્રેઝ", "hindiPronunciation": "प्रेज़", "gujaratiMeaning": "પ્રશંસા કરવી", "hindiMeaning": "प्रशंसा करना" },
+                { "word": "Approve", "gujaratiPronunciation": "અપ્રુવ", "hindiPronunciation": "अप्रूव", "gujaratiMeaning": "મંજૂર કરવું", "hindiMeaning": "मंजूर करना" }
+            ],
+            "confusingWords": [
+                { "word": "Critic", "gujaratiPronunciation": "ક્રિટિક", "hindiPronunciation": "क्रिटिक", "gujaratiMeaning": "સમીક્ષક", "hindiMeaning": "समीक्षक", "difference": "Critique એ સમીક્ષા કરવાની ક્રિયા (ક્રિયાપદ) છે, જ્યારે Critic એ સમીક્ષા કરનાર વ્યક્તિ (સંજ્ઞા) છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "The professor will critique our essays tomorrow.", "gujaratiPronunciation": "ધ પ્રોફેસર વિલ ક્રિટીક અવર એસેઝ ટુમોરો.", "hindiPronunciation": "द प्रोफेसर विल क्रिटीक अवर एसेज़ टुमॉरो।", "gujaratiTranslation": "પ્રોફેસર આવતીકાલે અમારા નિબંધોની સમીક્ષા કરશે.", "hindiTranslation": "प्रोफेसर कल हमारे निबंधों की समीक्षा करेंगे।" }
+            ]
+        },
+        {
+            "word": "Abstract",
+            "gujaratiPronunciation": "એબ્સ્ટ્રેક્ટ",
+            "hindiPronunciation": "एब्स्ट्रैक्ट",
+            "gujaratiMeaning": "સારાંશ કાઢવો / અલગ કરવું",
+            "hindiMeaning": "अमूर्त करना / सार निकालना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Abstract", "gujaratiPronunciation": "એબ્સ્ટ્રેક્ટ", "hindiPronunciation": "एब्स्ट्रैक्ट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अमूर्त करना" },
+                "v2": { "word": "Abstracted", "gujaratiPronunciation": "એબ્સ્ટ્રેક્ટેડ", "hindiPronunciation": "एब्स्ट्रैक्टेड", "gujaratiMeaning": "અલગ કર્યું", "hindiMeaning": "अमूर्त किया" },
+                "v3": { "word": "Abstracted", "gujaratiPronunciation": "એબ્સ્ટ્રેક્ટેડ", "hindiPronunciation": "एब्स्ट्रैक्टेड", "gujaratiMeaning": "અલગ કરેલું", "hindiMeaning": "अमूर्त किया हुआ" },
+                "v4": { "word": "Abstracting", "gujaratiPronunciation": "એબ્સ્ટ્રેક્ટિંગ", "hindiPronunciation": "एब्स्ट्रैक्टिंग", "gujaratiMeaning": "અલગ કરી રહ્યું છે", "hindiMeaning": "अमूर्त कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Summarize", "gujaratiPronunciation": "સમરાઇઝ", "hindiPronunciation": "समराइज़", "gujaratiMeaning": "સારાંશ આપવો", "hindiMeaning": "सारांश देना" },
+                { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" }
+            ],
+            "antonyms": [
+                { "word": "Specify", "gujaratiPronunciation": "સ્પેસિફાય", "hindiPronunciation": "स्पेसिफाई", "gujaratiMeaning": "નિર્દિષ્ટ કરવું", "hindiMeaning": "विनिर्दिष्ट करना" },
+                { "word": "Detail", "gujaratiPronunciation": "ડિટેલ", "hindiPronunciation": "डिटेल", "gujaratiMeaning": "વિગતવાર જણાવવું", "hindiMeaning": "विस्तार से बताना" }
+            ],
+            "confusingWords": [
+                { "word": "Attract", "gujaratiPronunciation": "એટ્રેક્ટ", "hindiPronunciation": "अट्रैक्ट", "gujaratiMeaning": "આકર્ષવું", "hindiMeaning": "आकर्षित करना", "difference": "Abstract એ વિચારોને અલગ કરવાની ક્રિયા છે, જ્યારે Attract એ કોઈ વસ્તુને પોતાની તરફ ખેંચવાની ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "She abstracted the main ideas from the long report.", "gujaratiPronunciation": "શી એબ્સ્ટ્રેક્ટેડ ધ મેઇન આઇડિયાઝ ફ્રોમ ધ લોંગ રિપોર્ટ.", "hindiPronunciation": "शी एब्स्ट्रैक्टेड द मेन आइडियाज़ फ्रॉम द लॉन्ग रिपोर्ट।", "gujaratiTranslation": "તેણીએ લાંબા અહેવાલમાંથી મુખ્ય વિચારોનો સારાંશ કાઢ્યો.", "hindiTranslation": "उसने लंबी रिपोर्ट से मुख्य विचारों को सार निकाला।" }
+            ]
+        },
+        {
+            "word": "Hypothesize",
+            "gujaratiPronunciation": "હાઇપોથિસાઇઝ",
+            "hindiPronunciation": "हाइपोथेसाइज़",
+            "gujaratiMeaning": "પૂર્વધારણા કરવી",
+            "hindiMeaning": "परिकल्पना करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Hypothesize", "gujaratiPronunciation": "હાઇપોથિસાઇઝ", "hindiPronunciation": "हाइपोथेसाइज़", "gujaratiMeaning": "પૂર્વધારણા કરવી", "hindiMeaning": "परिकल्पना करना" },
+                "v2": { "word": "Hypothesized", "gujaratiPronunciation": "હાઇપોથિસાઇઝ્ડ", "hindiPronunciation": "हाइपोथेसाइज़्ड", "gujaratiMeaning": "પૂર્વધારણા કરી", "hindiMeaning": "परिकल्पना की" },
+                "v3": { "word": "Hypothesized", "gujaratiPronunciation": "હાઇપોથિસાઇઝ્ડ", "hindiPronunciation": "हाइपोथेसाइज़्ड", "gujaratiMeaning": "પૂર્વધારણા કરેલી", "hindiMeaning": "परिकल्पना की हुई" },
+                "v4": { "word": "Hypothesizing", "gujaratiPronunciation": "હાઇપોથિસાઇઝિંગ", "hindiPronunciation": "हाइपोथेसाइज़िंग", "gujaratiMeaning": "પૂર્વધારણા કરી રહ્યું છે", "hindiMeaning": "परिकल्पना कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Theorize", "gujaratiPronunciation": "થિયરાઇઝ", "hindiPronunciation": "थिओराइज़", "gujaratiMeaning": "સિદ્ધાંત બનાવવો", "hindiMeaning": "सिद्धांत बनाना" },
+                { "word": "Suppose", "gujaratiPronunciation": "સપોઝ", "hindiPronunciation": "सपोज़", "gujaratiMeaning": "ધારવું", "hindiMeaning": "मान लेना" }
+            ],
+            "antonyms": [
+                { "word": "Prove", "gujaratiPronunciation": "પ્રુવ", "hindiPronunciation": "प्रूव", "gujaratiMeaning": "સાબિત કરવું", "hindiMeaning": "साबित करना" },
+                { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" }
+            ],
+            "confusingWords": [
+                { "word": "Hyphenate", "gujaratiPronunciation": "હાઇફનેટ", "hindiPronunciation": "हाइफनेट", "gujaratiMeaning": "હાઇફનથી જોડવું", "hindiMeaning": "हाइफ़न से जोड़ना", "difference": "Hypothesize એ વૈજ્ઞાનિક અનુમાન લગાવવાની ક્રિયા છે, જ્યારે Hyphenate એ શબ્દોને જોડવાની વ્યાકરણિક ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "Scientists hypothesize that dark matter exists.", "gujaratiPronunciation": "સાયન્ટિસ્ટ્સ હાઇપોથિસાઇઝ ધેટ ડાર્ક મેટર એક્ઝિસ્ટ્સ.", "hindiPronunciation": "साइंटिस्ट्स हाइपोथेसाइज़ दैट डार्क मैटर एक्सिस्ट्स।", "gujaratiTranslation": "વૈજ્ઞાનિકો પૂર્વધારણા કરે છે કે ડાર્ક મેટર અસ્તિત્વમાં છે.", "hindiTranslation": "वैज्ञानिक यह परिकल्पना करते हैं कि डार्क मैटर मौजूद है।" }
+            ]
+        },
+        {
+            "word": "Presume",
+            "gujaratiPronunciation": "પ્રિઝ્યુમ",
+            "hindiPronunciation": "प्रिज्यूम",
+            "gujaratiMeaning": "ધારણા કરવી / માની લેવું",
+            "hindiMeaning": "अनुमान करना / मान लेना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Presume", "gujaratiPronunciation": "પ્રિઝ્યુમ", "hindiPronunciation": "प्रिज्यूम", "gujaratiMeaning": "ધારણા કરવી", "hindiMeaning": "अनुमान करना" },
+                "v2": { "word": "Presumed", "gujaratiPronunciation": "પ્રિઝ્યુમ્ડ", "hindiPronunciation": "प्रिज्यूम्ड", "gujaratiMeaning": "ધારણા કરી", "hindiMeaning": "अनुमान किया" },
+                "v3": { "word": "Presumed", "gujaratiPronunciation": "પ્રિઝ્યુમ્ડ", "hindiPronunciation": "प्रिज्यूम्ड", "gujaratiMeaning": "ધારણા કરેલી", "hindiMeaning": "अनुमान किया हुआ" },
+                "v4": { "word": "Presuming", "gujaratiPronunciation": "પ્રિઝ્યુમિંગ", "hindiPronunciation": "प्रिज्यूमिंग", "gujaratiMeaning": "ધારણા કરી રહ્યું છે", "hindiMeaning": "अनुमान कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Assume", "gujaratiPronunciation": "અસ્યુમ", "hindiPronunciation": "अज्यूम", "gujaratiMeaning": "માની લેવું", "hindiMeaning": "मान लेना" },
+                { "word": "Suppose", "gujaratiPronunciation": "સપોઝ", "hindiPronunciation": "सपोज़", "gujaratiMeaning": "ધારવું", "hindiMeaning": "मान लेना" }
+            ],
+            "antonyms": [
+                { "word": "Know", "gujaratiPronunciation": "નો", "hindiPronunciation": "नो", "gujaratiMeaning": "જાણવું", "hindiMeaning": "जानना" },
+                { "word": "Prove", "gujaratiPronunciation": "પ્રુવ", "hindiPronunciation": "प्रूव", "gujaratiMeaning": "સાબિત કરવું", "hindiMeaning": "साबित करना" }
+            ],
+            "confusingWords": [
+                { "word": "Resume", "gujaratiPronunciation": "રિઝ્યુમ", "hindiPronunciation": "रिज़्यूम", "gujaratiMeaning": "ફરી શરૂ કરવું", "hindiMeaning": "फिर से शुरू करना", "difference": "Presume એ પુરાવા વિના માની લેવું છે, જ્યારે Resume એ કોઈ કાર્ય ફરી શરૂ કરવું છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "I presume you know why you are here.", "gujaratiPronunciation": "આઈ પ્રિઝ્યુમ યુ નો વ્હાય યુ આર હિયર.", "hindiPronunciation": "आई प्रिज्यूम यू नो व्हाई यू आर हियर।", "gujaratiTranslation": "હું ધારું છું કે તમે જાણો છો કે તમે અહીં શા માટે છો.", "hindiTranslation": "मैं अनुमान लगाता हूं कि आप जानते हैं कि आप यहां क्यों हैं।" }
+            ]
+        }
+    ]
+}

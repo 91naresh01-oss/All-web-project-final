@@ -1,0 +1,369 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Amplify",
+      "partOfSpeech": "Verb",
+      "gujaratiPronunciation": "એમ્પ્લિફાય",
+      "hindiPronunciation": "एम्प्लिफ़ाय",
+      "gujaratiMeaning": "વધારો કરવો, મોટું કરવું",
+      "hindiMeaning": "बढ़ाना, विस्तृत करना",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Amplify",
+          "gujaratiPronunciation": "એમ્પ્લિફાય",
+          "hindiPronunciation": "एम्प्लिफ़ाय",
+          "gujaratiMeaning": "વધારો કરવો",
+          "hindiMeaning": "बढ़ाना"
+        },
+        "V2 (Past)": {
+          "word": "Amplified",
+          "gujaratiPronunciation": "એમ્પ્લિફાઇડ",
+          "hindiPronunciation": "एम्प्लिफ़ाइड",
+          "gujaratiMeaning": "વધારો કર્યો",
+          "hindiMeaning": "बढ़ाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Amplified",
+          "gujaratiPronunciation": "એમ્પ્લિફાઇડ",
+          "hindiPronunciation": "एम्प्लिफ़ाइड",
+          "gujaratiMeaning": "વધારેલું",
+          "hindiMeaning": "बढ़ाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Amplifying",
+          "gujaratiPronunciation": "એમ્પ્લિફાઇંગ",
+          "hindiPronunciation": "एम्प्लिफ़ाइंग",
+          "gujaratiMeaning": "વધારી રહ્યું છે",
+          "hindiMeaning": "बढ़ा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Magnify",
+          "gujaratiPronunciation": "મેગ્નિફાય",
+          "hindiPronunciation": "मैग्निफ़ाय",
+          "gujaratiMeaning": "મોટું કરવું",
+          "hindiMeaning": "बड़ा करना"
+        },
+        {
+          "word": "Augment",
+          "gujaratiPronunciation": "ઓગ્મેન્ટ",
+          "hindiPronunciation": "ऑग्मेंट",
+          "gujaratiMeaning": "વૃદ્ધિ કરવી",
+          "hindiMeaning": "वृद्धि करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Reduce",
+          "gujaratiPronunciation": "રિડ્યુસ",
+          "hindiPronunciation": "रेड्यूस",
+          "gujaratiMeaning": "ઘટાડવું",
+          "hindiMeaning": "कम करना"
+        },
+        {
+          "word": "Diminish",
+          "gujaratiPronunciation": "ડિમિનિશ",
+          "hindiPronunciation": "डिमिनिश",
+          "gujaratiMeaning": "ઓછું કરવું",
+          "hindiMeaning": "कम करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Simplify",
+          "gujaratiPronunciation": "સિમ્પ્લિફાય",
+          "hindiPronunciation": "सिમ્પ્लिफ़ाय",
+          "gujaratiMeaning": "સરળ બનાવવું",
+          "hindiMeaning": "सरल बनाना",
+          "difference": "Amplify म्हणजे आवाજ કે અસર વધારવી, જ્યારે Simplify म्हणजे કોઈ વસ્તુને ઓછી જટિલ બનાવવી."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The microphone helps to amplify the speaker's voice.",
+          "gujaratiPronunciation": "ધ માઇક્રોફોન હેલ્પ્સ ટુ એમ્પ્લિફાય ધ સ્પીકર્સ વોઇસ.",
+          "hindiPronunciation": "द माइक्रोफ़ोन हेल्प्स टू एम्प्लिफ़ाय द स्पीकर्स वॉइस।",
+          "gujaratiTranslation": "માઇક્રોફોન વક્તાના અવાજને વધારવામાં મદદ કરે છે.",
+          "hindiTranslation": "माइक्रोफ़ोन वक्ता की आवाज़ को बढ़ाने में मदद करता है।"
+        }
+      ]
+    },
+    {
+      "word": "Decibel",
+      "partOfSpeech": "Noun",
+      "gujaratiPronunciation": "ડેસિબલ",
+      "hindiPronunciation": "डेसिबल",
+      "gujaratiMeaning": "અવાજની તીવ્રતાનો એકમ",
+      "hindiMeaning": "ध्वनि की तीव्रता की इकाई",
+      "verbForms": {},
+      "synonyms": [
+        {
+          "word": "Sound unit",
+          "gujaratiPronunciation": "સાઉન્ડ યુનિટ",
+          "hindiPronunciation": "साउंड यूनिट",
+          "gujaratiMeaning": "ધ્વનિનો એકમ",
+          "hindiMeaning": "ध्वनि की इकाई"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        {
+          "word": "Decimal",
+          "gujaratiPronunciation": "ડેસિમલ",
+          "hindiPronunciation": "डेसिमल",
+          "gujaratiMeaning": "દશાંશ",
+          "hindiMeaning": "दशमलव",
+          "difference": "Decibel અવાજનું માપ છે, જ્યારે Decimal ગણિતમાં દશાંશ પદ્ધતિનો ભાગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A jet engine can produce sounds over 140 decibels.",
+          "gujaratiPronunciation": "અ જેટ એન્જિન કેન પ્રોડ્યુસ સાઉન્ડ્સ ઓવર 140 ડેસિબલ્સ.",
+          "hindiPronunciation": "अ जेट इंजन कैन प्रोड्यूस साउंड्स ओवर 140 डेसिबल्स।",
+          "gujaratiTranslation": "જેટ એન્જિન 140 ડેસિબલથી વધુનો અવાજ ઉત્પન્ન કરી શકે છે.",
+          "hindiTranslation": "एक जेट इंजन 140 डेसिबल से अधिक की ध्वनि उत्पन्न कर सकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Silence",
+      "partOfSpeech": "Noun/Verb",
+      "gujaratiPronunciation": "સાઈલન્સ",
+      "hindiPronunciation": "साइलेंस",
+      "gujaratiMeaning": "શાંતિ, ચૂપ રહેવું",
+      "hindiMeaning": "शांति, चुप रहना",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Silence",
+          "gujaratiPronunciation": "સાઈલન્સ",
+          "hindiPronunciation": "साइलेंस",
+          "gujaratiMeaning": "ચૂપ કરાવવું",
+          "hindiMeaning": "चुप कराना"
+        },
+        "V2 (Past)": {
+          "word": "Silenced",
+          "gujaratiPronunciation": "સાઈલન્સ્ડ",
+          "hindiPronunciation": "साइलेंस्ड",
+          "gujaratiMeaning": "ચૂપ કરાવ્યું",
+          "hindiMeaning": "चुप कराया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Silenced",
+          "gujaratiPronunciation": "સાઈલન્સ્ડ",
+          "hindiPronunciation": "साइलेंस्ड",
+          "gujaratiMeaning": "ચૂપ કરાવેલું",
+          "hindiMeaning": "चुप कराया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Silencing",
+          "gujaratiPronunciation": "સાઈલન્સિંગ",
+          "hindiPronunciation": "साइलेंसिंग",
+          "gujaratiMeaning": "ચૂપ કરાવી રહ્યું છે",
+          "hindiMeaning": "चुप करा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Quiet",
+          "gujaratiPronunciation": "ક્વાયટ",
+          "hindiPronunciation": "क्वायट",
+          "gujaratiMeaning": "શાંતિ",
+          "hindiMeaning": "शांति"
+        },
+        {
+          "word": "Stillness",
+          "gujaratiPronunciation": "સ્ટિલનેસ",
+          "hindiPronunciation": "स्टिलनेस",
+          "gujaratiMeaning": "સ્થિરતા",
+          "hindiMeaning": "स्थिरता"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Noise",
+          "gujaratiPronunciation": "નોઈઝ",
+          "hindiPronunciation": "नॉइज़",
+          "gujaratiMeaning": "ઘોંઘાટ",
+          "hindiMeaning": "शोर"
+        },
+        {
+          "word": "Sound",
+          "gujaratiPronunciation": "સાઉન્ડ",
+          "hindiPronunciation": "साउंड",
+          "gujaratiMeaning": "અવાજ",
+          "hindiMeaning": "आवाज़"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "A moment of silence was observed for the victims.",
+          "gujaratiPronunciation": "અ મોમેન્ટ ઓફ સાઈલન્સ વોઝ ઓબ્ઝર્વ્ડ ફોર ધ વિક્ટિમ્સ.",
+          "hindiPronunciation": "अ मोमेंट ऑफ़ साइलेंस वॉज़ ऑब्ज़ર્વ्ड फ़ॉर द विक्टिम्स।",
+          "gujaratiTranslation": "પીડિતો માટે એક ક્ષણનું મૌન પાળવામાં આવ્યું હતું.",
+          "hindiTranslation": "पीड़ितों के लिए एक पल का मौन रखा गया।"
+        }
+      ]
+    },
+    {
+      "word": "Vibrate",
+      "partOfSpeech": "Verb",
+      "gujaratiPronunciation": "વાઈબ્રેટ",
+      "hindiPronunciation": "वाइब्रेट",
+      "gujaratiMeaning": "કંપન કરવું",
+      "hindiMeaning": "कंपन करना",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Vibrate",
+          "gujaratiPronunciation": "વાઈબ્રેટ",
+          "hindiPronunciation": "वाइब्रेट",
+          "gujaratiMeaning": "કંપન કરવું",
+          "hindiMeaning": "कंपन करना"
+        },
+        "V2 (Past)": {
+          "word": "Vibrated",
+          "gujaratiPronunciation": "વાઈબ્રેટેડ",
+          "hindiPronunciation": "वाइब्रेटेड",
+          "gujaratiMeaning": "કંપન કર્યું",
+          "hindiMeaning": "कंपन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Vibrated",
+          "gujaratiPronunciation": "વાઈબ્રેટેડ",
+          "hindiPronunciation": "वाइब्रेटेड",
+          "gujaratiMeaning": "કંપન કરેલું",
+          "hindiMeaning": "कंपन किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Vibrating",
+          "gujaratiPronunciation": "વાઈબ્રેટિંગ",
+          "hindiPronunciation": "वाइब्रेटिंग",
+          "gujaratiMeaning": "કંપન કરી રહ્યું છે",
+          "hindiMeaning": "कंपन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Shake",
+          "gujaratiPronunciation": "શેક",
+          "hindiPronunciation": "शेक",
+          "gujaratiMeaning": "હલાવવું",
+          "hindiMeaning": "हिलाना"
+        },
+        {
+          "word": "Quiver",
+          "gujaratiPronunciation": "ક્વિવર",
+          "hindiPronunciation": "क्विवर",
+          "gujaratiMeaning": "ધ્રુજવું",
+          "hindiMeaning": "कांपना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Still",
+          "gujaratiPronunciation": "સ્ટિલ",
+          "hindiPronunciation": "स्टिल",
+          "gujaratiMeaning": "સ્થિર",
+          "hindiMeaning": "स्थिर"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The phone began to vibrate in his pocket.",
+          "gujaratiPronunciation": "ધ ફોન બિગેન ટુ વાઈબ્રેટ ઇન હિસ પોકેટ.",
+          "hindiPronunciation": "द फ़ोन बिगेन टू वाइब्रेट इन हिज़ पॉकेट।",
+          "gujaratiTranslation": "તેના ખિસ્સામાં ફોન વાઇબ્રેટ થવા લાગ્યો.",
+          "hindiTranslation": "उसके जेब में फ़ोन कंपन करने लगा।"
+        }
+      ]
+    },
+    {
+      "word": "Broadcast",
+      "partOfSpeech": "Verb/Noun",
+      "gujaratiPronunciation": "બ્રોડકાસ્ટ",
+      "hindiPronunciation": "ब्रॉडकास्ट",
+      "gujaratiMeaning": "પ્રસારણ કરવું, પ્રસારણ",
+      "hindiMeaning": "प्रसारण करना, प्रसारण",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Broadcast",
+          "gujaratiPronunciation": "બ્રોડકાસ્ટ",
+          "hindiPronunciation": "ब्रॉडकास्ट",
+          "gujaratiMeaning": "પ્રસારણ કરવું",
+          "hindiMeaning": "प्रसारण करना"
+        },
+        "V2 (Past)": {
+          "word": "Broadcast",
+          "gujaratiPronunciation": "બ્રોડકાસ્ટ",
+          "hindiPronunciation": "ब्रॉडकास्ट",
+          "gujaratiMeaning": "પ્રસારણ કર્યું",
+          "hindiMeaning": "प्रसारण किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Broadcast",
+          "gujaratiPronunciation": "બ્રોડકાસ્ટ",
+          "hindiPronunciation": "ब्रॉडकास्ट",
+          "gujaratiMeaning": "પ્રસારિત",
+          "hindiMeaning": "प्रसारित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Broadcasting",
+          "gujaratiPronunciation": "બ્રોડકાસ્ટिंग",
+          "hindiPronunciation": "ब्रॉडकास्टिंग",
+          "gujaratiMeaning": "પ્રસારણ કરી રહ્યું છે",
+          "hindiMeaning": "प्रसारण कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Transmit",
+          "gujaratiPronunciation": "ટ્રાન્સમિટ",
+          "hindiPronunciation": "ट्रांसमिट",
+          "gujaratiMeaning": "પ્રસારિત કરવું",
+          "hindiMeaning": "प्रसारित करना"
+        },
+        {
+          "word": "Air",
+          "gujaratiPronunciation": "એર",
+          "hindiPronunciation": "एयर",
+          "gujaratiMeaning": "પ્રસારિત કરવું",
+          "hindiMeaning": "प्रसारित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Conceal",
+          "gujaratiPronunciation": "કન્સીલ",
+          "hindiPronunciation": "कंसील",
+          "gujaratiMeaning": "છુપાવવું",
+          "hindiMeaning": " छिपाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Forecast",
+          "gujaratiPronunciation": "ફોરકાસ્ટ",
+          "hindiPronunciation": "फ़ोरकास्ट",
+          "gujaratiMeaning": "આગાહી કરવી",
+          "hindiMeaning": "पूर्वानुमान करना",
+          "difference": "Broadcast એટલે માહિતી ફેલાવવી, જ્યારે Forecast એટલે ભવિષ્યની ઘટનાઓની આગાહી કરવી."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The concert will be broadcast live tomorrow.",
+          "gujaratiPronunciation": "ધ કોન્સર્ટ વિલ બી બ્રોડકાસ્ટ લાઈવ ટુમોરો.",
+          "hindiPronunciation": "द कॉन्सर्ट विल बी ब्रॉडकास्ट लाइव टुमॉरो।",
+          "gujaratiTranslation": "આ કોન્સર્ટનું આવતીકાલે જીવંત પ્રસારણ કરવામાં આવશે.",
+          "hindiTranslation": "यह कॉन्सर्ट कल लाइव प्रसारित किया जाएगा।"
+        }
+      ]
+    }
+  ]
+}

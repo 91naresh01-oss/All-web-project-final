@@ -1,0 +1,177 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Propose",
+      "gujaratiPronunciation": "પ્રપોઝ",
+      "hindiPronunciation": "प्रपोज",
+      "gujaratiMeaning": "પ્રસ્તાવ મૂકવો",
+      "hindiMeaning": "प्रस्ताव रखना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Propose", "gujaratiPronunciation": "પ્રપોઝ", "hindiPronunciation": "प्रपोज", "gujaratiMeaning": "પ્રસ્તાવ મૂકવો", "hindiMeaning": "प्रस्ताव रखना" },
+        "V2 (Past)": { "word": "Proposed", "gujaratiPronunciation": "પ્રપોઝ્ડ", "hindiPronunciation": "प्रपोज्ड", "gujaratiMeaning": "પ્રસ્તાવ મૂક્યો", "hindiMeaning": "प्रस्ताव रखा" },
+        "V3 (Past Participle)": { "word": "Proposed", "gujaratiPronunciation": "પ્રપોઝ્ડ", "hindiPronunciation": "प्रपोज्ड", "gujaratiMeaning": "પ્રસ્તાવ મૂકેલો", "hindiMeaning": "प्रस्ताव रखा हुआ" },
+        "V4 (Present Participle)": { "word": "Proposing", "gujaratiPronunciation": "પ્રપોઝિંગ", "hindiPronunciation": "प्रपोजिंग", "gujaratiMeaning": "પ્રસ્તાવ મૂકતા", "hindiMeaning": "प्रस्ताव रखते हुए" }
+      },
+      "synonyms": [
+        { "word": "Suggest", "gujaratiPronunciation": "સજેસ્ટ", "hindiPronunciation": "सजेस्ट", "gujaratiMeaning": "સૂચન કરવું", "hindiMeaning": "सुझाव देना" },
+        { "word": "Offer", "gujaratiPronunciation": "ઓફર", "hindiPronunciation": "ऑफर", "gujaratiMeaning": "પ્રસ્તાવ કરવો", "hindiMeaning": "पेशकश करना" }
+      ],
+      "antonyms": [
+        { "word": "Oppose", "gujaratiPronunciation": "ઓપોઝ", "hindiPronunciation": "अपोज", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" },
+        { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Purpose", "gujaratiPronunciation": "પર્પઝ", "hindiPronunciation": "परपज", "gujaratiMeaning": "હેતુ", "hindiMeaning": "उद्देश्य" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I propose a toast to the bride and groom.",
+          "gujaratiTranslation": "હું કન્યા અને વરરાજા માટે ટોસ્ટનો પ્રસ્તાવ મૂકું છું.",
+          "hindiTranslation": "मैं दूल्हा और दुल्हन के लिए एक टोस्ट का प्रस्ताव रखता हूँ।",
+          "gujaratiPronunciation": "આઇ પ્રપોઝ અ ટોસ્ટ ટુ ધ બ્રાઇડ એન્ડ ગ્રૂમ.",
+          "hindiPronunciation": "आई प्रपोज अ टोस्ट टू द ब्राइड एंड ग्रूम।"
+        }
+      ]
+    },
+    {
+      "word": "Chronicle",
+      "gujaratiPronunciation": "ક્રોનિકલ",
+      "hindiPronunciation": "क्रॉनिकल",
+      "gujaratiMeaning": "ઘટનાક્રમ નોંધવો",
+      "hindiMeaning": "इतिहास दर्ज करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Chronicle", "gujaratiPronunciation": "ક્રોનિકલ", "hindiPronunciation": "क्रॉनिकल", "gujaratiMeaning": "નોંધવું", "hindiMeaning": "दर्ज करना" },
+        "V2 (Past)": { "word": "Chronicled", "gujaratiPronunciation": "ક્રોનિકલ્ડ", "hindiPronunciation": "क्रॉनिकल्ड", "gujaratiMeaning": "નોંધ્યું", "hindiMeaning": "दर्ज किया" },
+        "V3 (Past Participle)": { "word": "Chronicled", "gujaratiPronunciation": "ક્રોનિકલ્ડ", "hindiPronunciation": "क्रॉनिकल्ड", "gujaratiMeaning": "નોંધેલું", "hindiMeaning": "दर्ज किया हुआ" },
+        "V4 (Present Participle)": { "word": "Chronicling", "gujaratiPronunciation": "ક્રોનિકલિંગ", "hindiPronunciation": "क्रॉनिकलिंग", "gujaratiMeaning": "નોંધતા", "hindiMeaning": "दर्ज करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Record", "gujaratiPronunciation": "રેકોર્ડ", "hindiPronunciation": "रिकॉर्ड", "gujaratiMeaning": "નોંધવું", "hindiMeaning": "दर्ज करना" },
+        { "word": "Document", "gujaratiPronunciation": "ડોક્યુમેન્ટ", "hindiPronunciation": "डॉक्यूमेंट", "gujaratiMeaning": "દસ્તાવેજીકરણ કરવું", "hindiMeaning": "दस्तावेजीकरण करना" }
+      ],
+      "antonyms": [
+        { "word": "Erase", "gujaratiPronunciation": "ઇરેઝ", "hindiPronunciation": "इरेज़", "gujaratiMeaning": "ભૂંસી નાખવું", "hindiMeaning": "मिटाना" },
+        { "word": "Obscure", "gujaratiPronunciation": "ઓબ્સ્ક્યોર", "hindiPronunciation": "ऑब्स्क्योर", "gujaratiMeaning": "અસ્પષ્ટ કરવું", "hindiMeaning": "अस्पष्ट करना" }
+      ],
+      "confusingWords": [
+        { "word": "Chronic", "gujaratiPronunciation": "ક્રોનિક", "hindiPronunciation": "क्रोनिक", "gujaratiMeaning": "લાંબા ગાળાનું", "hindiMeaning": "दीर्घकालिक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The book chronicles the events of the war.",
+          "gujaratiTranslation": "આ પુસ્તક યુદ્ધની ઘટનાઓનો ઘટનાક્રમ નોંધે છે.",
+          "hindiTranslation": "यह पुस्तक युद्ध की घटनाओं का इतिहास दर्ज करती है।",
+          "gujaratiPronunciation": "ધ બુક ક્રોનિકલ્સ ધ ઇવેન્ટ્સ ઓફ ધ વોર.",
+          "hindiPronunciation": "द बुक क्रॉनिकल्स द इवेंट्स ऑफ द वॉर।"
+        }
+      ]
+    },
+    {
+      "word": "Declaim",
+      "gujaratiPronunciation": "ડિક્લેમ",
+      "hindiPronunciation": "डिक्लेम",
+      "gujaratiMeaning": "જોરથી બોલવું, ભાષણ આપવું",
+      "hindiMeaning": "जोर से बोलना, भाषण देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Declaim", "gujaratiPronunciation": "ડિક્લેમ", "hindiPronunciation": "डिक्लेम", "gujaratiMeaning": "ભાષણ આપવું", "hindiMeaning": "भाषण देना" },
+        "V2 (Past)": { "word": "Declaimed", "gujaratiPronunciation": "ડિક્લેમ્ડ", "hindiPronunciation": "डिक्लेम्ड", "gujaratiMeaning": "ભાષણ આપ્યું", "hindiMeaning": "भाषण दिया" },
+        "V3 (Past Participle)": { "word": "Declaimed", "gujaratiPronunciation": "ડિક્લેમ્ડ", "hindiPronunciation": "डिक्लेम्ड", "gujaratiMeaning": "ભાષણ આપેલું", "hindiMeaning": "भाषण दिया हुआ" },
+        "V4 (Present Participle)": { "word": "Declaiming", "gujaratiPronunciation": "ડિક્લેમિંગ", "hindiPronunciation": "डिक्लेमिंग", "gujaratiMeaning": "ભાષણ આપતા", "hindiMeaning": "भाषण देते हुए" }
+      },
+      "synonyms": [
+        { "word": "Recite", "gujaratiPronunciation": "રિસાઇટ", "hindiPronunciation": "रिसाइट", "gujaratiMeaning": "પાઠ કરવો", "hindiMeaning": "पाठ करना" },
+        { "word": "Orate", "gujaratiPronunciation": "ઓરેટ", "hindiPronunciation": "ओरेट", "gujaratiMeaning": "ભાષણ આપવું", "hindiMeaning": "भाषण देना" }
+      ],
+      "antonyms": [
+        { "word": "Whisper", "gujaratiPronunciation": "વ્હિસ્પર", "hindiPronunciation": "व्हिस्पर", "gujaratiMeaning": "ધીમેથી બોલવું", "hindiMeaning": "फुसफुसाना" },
+        { "word": "Mutter", "gujaratiPronunciation": "મટર", "hindiPronunciation": "मटर", "gujaratiMeaning": "ગણગણવું", "hindiMeaning": "बड़बड़ाना" }
+      ],
+      "confusingWords": [
+        { "word": "Reclaim", "gujaratiPronunciation": "રિક્લેમ", "hindiPronunciation": "रिक्लेम", "gujaratiMeaning": "પાછો દાવો કરવો", "hindiMeaning": "पुनः दावा करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The politician declaimed his speech from the podium.",
+          "gujaratiTranslation": "રાજકારણીએ મંચ પરથી પોતાનું ભાષણ જોરથી બોલ્યું.",
+          "hindiTranslation": "राजनेता ने मंच से अपना भाषण जोर-शोर से दिया।",
+          "gujaratiPronunciation": "ધ પોલિટિશિયન ડિક્લેમ્ડ હિઝ સ્પીચ ફ્રોમ ધ પોડિયમ.",
+          "hindiPronunciation": "द पॉलिटिशियन डिक्लेम्ड हिज स्पीच फ्रॉम द पोडियम।"
+        }
+      ]
+    },
+    {
+      "word": "Mediate",
+      "gujaratiPronunciation": "મિડિએટ",
+      "hindiPronunciation": "मीडिएट",
+      "gujaratiMeaning": "મધ્યસ્થી કરવી",
+      "hindiMeaning": "मध्यस्थता करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Mediate", "gujaratiPronunciation": "મિડિએટ", "hindiPronunciation": "मीडिएट", "gujaratiMeaning": "મધ્યસ્થી કરવી", "hindiMeaning": "मध्यस्थता करना" },
+        "V2 (Past)": { "word": "Mediated", "gujaratiPronunciation": "મિડિએટેડ", "hindiPronunciation": "मीडिएटेड", "gujaratiMeaning": "મધ્યસ્થી કરી", "hindiMeaning": "मध्यस्थता की" },
+        "V3 (Past Participle)": { "word": "Mediated", "gujaratiPronunciation": "મિડિએટેડ", "hindiPronunciation": "मीडिएटेड", "gujaratiMeaning": "મધ્યસ્થી કરેલી", "hindiMeaning": "मध्यस्थता की हुई" },
+        "V4 (Present Participle)": { "word": "Mediating", "gujaratiPronunciation": "મિડિએટિંગ", "hindiPronunciation": "मीडिएटिंग", "gujaratiMeaning": "મધ્યસ્થી કરતા", "hindiMeaning": "मध्यस्थता करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Arbitrate", "gujaratiPronunciation": "આર્બિટ્રેટ", "hindiPronunciation": "आर्बिट्रेट", "gujaratiMeaning": "લવાદ તરીકે કામ કરવું", "hindiMeaning": "पंच फैसला करना" },
+        { "word": "Intervene", "gujaratiPronunciation": "ઇન્ટરવીન", "hindiPronunciation": "इंटरवीन", "gujaratiMeaning": "દખલગીરી કરવી", "hindiMeaning": "हस्तक्षेप करना" }
+      ],
+      "antonyms": [
+        { "word": "Argue", "gujaratiPronunciation": "આર્ગ્યુ", "hindiPronunciation": "आर्ग्यू", "gujaratiMeaning": "દલીલ કરવી", "hindiMeaning": "बहस करना" },
+        { "word": "Fight", "gujaratiPronunciation": "ફાઇટ", "hindiPronunciation": "फाइट", "gujaratiMeaning": "લડવું", "hindiMeaning": "लड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Meditate", "gujaratiPronunciation": "મેડિટેટ", "hindiPronunciation": "मेडिटेट", "gujaratiMeaning": "ધ્યાન કરવું", "hindiMeaning": "ध्यान करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A lawyer was brought in to mediate the dispute.",
+          "gujaratiTranslation": "વિવાદમાં મધ્યસ્થી કરવા માટે એક વકીલને લાવવામાં આવ્યો હતો.",
+          "hindiTranslation": "विवाद में मध्यस्थता करने के लिए एक वकील को लाया गया था।",
+          "gujaratiPronunciation": "અ લોયર વોઝ બ્રોટ ઇન ટુ મિડિએટ ધ ડિસ્પ્યુટ.",
+          "hindiPronunciation": "अ लॉयर वॉज ब्रॉट इन टू मीडिएट द डिस्प्यूट।"
+        }
+      ]
+    },
+    {
+      "word": "Enlighten",
+      "gujaratiPronunciation": "એનલાઇટન",
+      "hindiPronunciation": "एनलाइटन",
+      "gujaratiMeaning": "જ્ઞાન આપવું, પ્રકાશિત કરવું",
+      "hindiMeaning": "ज्ञान देना, प्रबुद्ध करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Enlighten", "gujaratiPronunciation": "એનલાઇટન", "hindiPronunciation": "एनलाइटन", "gujaratiMeaning": "જ્ઞાન આપવું", "hindiMeaning": "ज्ञान देना" },
+        "V2 (Past)": { "word": "Enlightened", "gujaratiPronunciation": "એનલાઇટન્ડ", "hindiPronunciation": "एनलाइटेंड", "gujaratiMeaning": "જ્ઞાન આપ્યું", "hindiMeaning": "ज्ञान दिया" },
+        "V3 (Past Participle)": { "word": "Enlightened", "gujaratiPronunciation": "એનલાઇટન્ડ", "hindiPronunciation": "एनलाइटेंड", "gujaratiMeaning": "જ્ઞાન આપેલું", "hindiMeaning": "ज्ञान दिया हुआ" },
+        "V4 (Present Participle)": { "word": "Enlightening", "gujaratiPronunciation": "એનલાઇટનિંગ", "hindiPronunciation": "एनलाइटनिंग", "gujaratiMeaning": "જ્ઞાન આપતા", "hindiMeaning": "ज्ञान देते हुए" }
+      },
+      "synonyms": [
+        { "word": "Inform", "gujaratiPronunciation": "ઇન્ફોર્મ", "hindiPronunciation": "इन्फॉर्म", "gujaratiMeaning": "જાણ કરવી", "hindiMeaning": "सूचित करना" },
+        { "word": "Educate", "gujaratiPronunciation": "એજ્યુકેટ", "hindiPronunciation": "एजुकेट", "gujaratiMeaning": "શિક્ષિત કરવું", "hindiMeaning": "शिक्षित करना" }
+      ],
+      "antonyms": [
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "भ्रमित करना" },
+        { "word": "Mislead", "gujaratiPronunciation": "મિસલીડ", "hindiPronunciation": "मिसलीड", "gujaratiMeaning": "ગેરમાર્ગે દોરવું", "hindiMeaning": "गुमराह करना" }
+      ],
+      "confusingWords": [
+        { "word": "Lighten", "gujaratiPronunciation": "લાઇટન", "hindiPronunciation": "लाइटन", "gujaratiMeaning": "હળવું કરવું", "hindiMeaning": "हल्का करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you enlighten me on this topic?",
+          "gujaratiTranslation": "શું તમે મને આ વિષય પર જ્ઞાન આપી શકો છો?",
+          "hindiTranslation": "क्या आप मुझे इस विषय पर ज्ञान दे सकते हैं?",
+          "gujaratiPronunciation": "કેન યુ એનલાઇટન મી ઓન ધીસ ટોપિક?",
+          "hindiPronunciation": "कैन यू एनलाइटन मी ऑन दिस टॉपिक?"
+        }
+      ]
+    }
+  ]
+}

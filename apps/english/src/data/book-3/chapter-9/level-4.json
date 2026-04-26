@@ -1,0 +1,156 @@
+{
+  "id": "level-4",
+  "title": "Level 4: Foresight & Prediction",
+  "words": [
+    {
+      "word": "Predict",
+      "gujaratiPronunciation": "પ્રેડિક્ટ",
+      "hindiPronunciation": "प्रेडिक्ट",
+      "gujaratiMeaning": "ભવિષ્યવાણી કરવી",
+      "hindiMeaning": "भविष्यवाणी करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Predict", "gujaratiPronunciation": "પ્રેડિક્ટ", "hindiPronunciation": "प्रेडिक्ट", "gujaratiMeaning": "ભવિષ્યવાણી કરવી", "hindiMeaning": "भविष्यवाणी करना" },
+        "V2 (Past)": { "word": "Predicted", "gujaratiPronunciation": "પ્રેડિક્ટેડ", "hindiPronunciation": "प्रेडिक्टेड", "gujaratiMeaning": "ભવિષ્યવાણી કરી", "hindiMeaning": "भविष्यवाणी की" },
+        "V3 (Past Participle)": { "word": "Predicted", "gujaratiPronunciation": "પ્રેડિક્ટેડ", "hindiPronunciation": "प्रेडिक्टेड", "gujaratiMeaning": "ભવિષ્યવાણી કરેલ", "hindiMeaning": "भविष्यवाणी की हुई" },
+        "V4 (Present Participle)": { "word": "Predicting", "gujaratiPronunciation": "પ્રેડિક્ટિંગ", "hindiPronunciation": "प्रेडिक्टिंग", "gujaratiMeaning": "ભવિષ્યવાણી કરી રહ્યું છે", "hindiMeaning": "भविष्यवाणी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Forecast", "gujaratiPronunciation": "ફોરકાસ્ટ", "hindiPronunciation": "फोरकास्ट", "gujaratiMeaning": "આગાહી કરવી", "hindiMeaning": "पूर्वानुमान करना" },
+        { "word": "Foretell", "gujaratiPronunciation": "ફોરટેલ", "hindiPronunciation": "फोरटेल", "gujaratiMeaning": "આગાહી કરવી", "hindiMeaning": "भविष्य बताना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "It is difficult to predict the future.",
+          "gujaratiTranslation": "ભવિષ્યની આગાહી કરવી મુશ્કેલ છે.",
+          "hindiTranslation": "भविष्य की भविष्यवाणी करना मुश्किल है।",
+          "gujaratiPronunciation": "ઇટ ઇઝ ડિફિકલ્ટ ટુ પ્રેડિક્ટ ધ ફ્યુચર.",
+          "hindiPronunciation": "इट इज़ डिफिकल्ट टू प्रेडिक्ट द फ्यूचर।"
+        }
+      ]
+    },
+    {
+      "word": "Prognosticate",
+      "gujaratiPronunciation": "પ્રોગ્નોસ્ટિકેટ",
+      "hindiPronunciation": "प्रोग्नोस्टिकेट",
+      "gujaratiMeaning": "આગાહી કરવી, ભવિષ્યકથન કરવું",
+      "hindiMeaning": "भविष्यवाणी करना, भविष्यकथन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Prognosticate", "gujaratiPronunciation": "પ્રોગ્નોસ્ટિકેટ", "hindiPronunciation": "प्रोग्नोस्टिकेट", "gujaratiMeaning": "આગાહી કરવી", "hindiMeaning": "भविष्यवाणी करना" },
+        "V2 (Past)": { "word": "Prognosticated", "gujaratiPronunciation": "પ્રોગ્નોસ્ટિકેટેડ", "hindiPronunciation": "प्रोग्नोस्टिकेटेड", "gujaratiMeaning": "આગાહી કરી", "hindiMeaning": "भविष्यवाणी की" },
+        "V3 (Past Participle)": { "word": "Prognosticated", "gujaratiPronunciation": "પ્રોગ્નોસ્ટિકેટેડ", "hindiPronunciation": "प्रोग्नोस्टिकेटेड", "gujaratiMeaning": "આગાહી કરેલ", "hindiMeaning": "भविष्यवाणी किया हुआ" },
+        "V4 (Present Participle)": { "word": "Prognosticating", "gujaratiPronunciation": "પ્રોગ્નોસ્ટિકેટિંગ", "hindiPronunciation": "प्रोग्नोस्टिकेटिंग", "gujaratiMeaning": "આગાહી કરી રહ્યું છે", "hindiMeaning": "भविष्यवाणी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Predict", "gujaratiPronunciation": "પ્રેડિક્ટ", "hindiPronunciation": "प्रेडिक्ट", "gujaratiMeaning": "ભવિષ્યવાણી કરવી", "hindiMeaning": "भविष्यवाणी करना" },
+        { "word": "Forecast", "gujaratiPronunciation": "ફોરકાસ્ટ", "hindiPronunciation": "फोरकास्ट", "gujaratiMeaning": "આગાહી કરવી", "hindiMeaning": "पूर्वानुमान करना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "He tried to prognosticate the election results.",
+          "gujaratiTranslation": "તેણે ચૂંટણીના પરિણામોની આગાહી કરવાનો પ્રયાસ કર્યો.",
+          "hindiTranslation": "उन्होंने चुनाव परिणामों की भविष्यवाणी करने की कोशिश की।",
+          "gujaratiPronunciation": "હી ટ્રાઇડ ટુ પ્રોગ્નોસ્ટિકેટ ધ ઇલેક્શન રિઝલ્ટ્સ.",
+          "hindiPronunciation": "ही ट्राइड टू प्रोग्नोस्टिकेट द इलेक्शन रिजल्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Demystify",
+      "gujaratiPronunciation": "ડિમિસ્ટિફાય",
+      "hindiPronunciation": "डिमिस्टिफाई",
+      "gujaratiMeaning": "રહસ્ય દૂર કરવું, સ્પષ્ટ કરવું",
+      "hindiMeaning": "रहस्य दूर करना, स्पष्ट करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Demystify", "gujaratiPronunciation": "ડિમિસ્ટિફાય", "hindiPronunciation": "डिमिस्टिफाई", "gujaratiMeaning": "સ્પષ્ટ કરવું", "hindiMeaning": "स्पष्ट करना" },
+        "V2 (Past)": { "word": "Demystified", "gujaratiPronunciation": "ડિમિસ્ટિફાઇડ", "hindiPronunciation": "डिमिस्टिफाइड", "gujaratiMeaning": "સ્પષ્ટ કર્યું", "hindiMeaning": "स्पष्ट किया" },
+        "V3 (Past Participle)": { "word": "Demystified", "gujaratiPronunciation": "ડિમિસ્ટિફાઇડ", "hindiPronunciation": "डिमिस्टिफाइड", "gujaratiMeaning": "સ્પષ્ટ કરેલું", "hindiMeaning": "स्पष्ट किया हुआ" },
+        "V4 (Present Participle)": { "word": "Demystifying", "gujaratiPronunciation": "ડિમિસ્ટિફાઇંગ", "hindiPronunciation": "डिमिस्टिफाइंग", "gujaratiMeaning": "સ્પષ્ટ કરી રહ્યું છે", "hindiMeaning": "स्पष्ट कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Clarify", "gujaratiPronunciation": "ક્લેરિફાય", "hindiPronunciation": "क्लैरिफाई", "gujaratiMeaning": "સ્પષ્ટ કરવું", "hindiMeaning": "स्पष्ट करना" },
+        { "word": "Explain", "gujaratiPronunciation": "એક્સપ્લેન", "hindiPronunciation": "एक्सप्लेन", "gujaratiMeaning": "સમજાવવું", "hindiMeaning": "समझाना" }
+      ],
+      "antonyms": [
+        { "word": "Mystify", "gujaratiPronunciation": "મિસ્ટિફાય", "hindiPronunciation": "मिस्टिफाई", "gujaratiMeaning": "રહસ્યમય બનાવવું", "hindiMeaning": "रहस्यमय बनाना" },
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज़", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "भ्रमित करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The book aims to demystify science for the general public.",
+          "gujaratiTranslation": "આ પુસ્તકનો ઉદ્દેશ્ય સામાન્ય જનતા માટે વિજ્ઞાનને સ્પષ્ટ કરવાનો છે.",
+          "hindiTranslation": "इस पुस्तक का उद्देश्य आम जनता के लिए विज्ञान को रहस्यमुक्त करना है।",
+          "gujaratiPronunciation": "ધ બુક એમ્સ ટુ ડિમિસ્ટિફાય સાયન્સ ફોર ધ જનરલ પબ્લિક.",
+          "hindiPronunciation": "द बुक एम्स टू डिमिस्टिफाई साइंस फॉर द जनरल पब्लिक।"
+        }
+      ]
+    },
+    {
+      "word": "Scry",
+      "gujaratiPronunciation": "સ્ક્રાય",
+      "hindiPronunciation": "स्क्राई",
+      "gujaratiMeaning": "ભવિષ્ય જોવું (જાદુઈ રીતે)",
+      "hindiMeaning": "भविष्य देखना (जादुई रूप से)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Scry", "gujaratiPronunciation": "સ્ક્રાય", "hindiPronunciation": "स्क्राई", "gujaratiMeaning": "ભવિષ્ય જોવું", "hindiMeaning": "भविष्य देखना" },
+        "V2 (Past)": { "word": "Scried", "gujaratiPronunciation": "સ્ક્રાઇડ", "hindiPronunciation": "स्क्राइड", "gujaratiMeaning": "ભવિષ્ય જોયું", "hindiMeaning": "भविष्य देखा" },
+        "V3 (Past Participle)": { "word": "Scried", "gujaratiPronunciation": "સ્ક્રાઇડ", "hindiPronunciation": "स्क्राइड", "gujaratiMeaning": "ભવિષ્ય જોયેલું", "hindiMeaning": "भविष्य देखा हुआ" },
+        "V4 (Present Participle)": { "word": "Scrying", "gujaratiPronunciation": "સ્ક્રાઇંગ", "hindiPronunciation": "स्क्राइंग", "gujaratiMeaning": "ભવિષ્ય જોઈ રહ્યું છે", "hindiMeaning": "भविष्य देख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Foretell", "gujaratiPronunciation": "ફોરટેલ", "hindiPronunciation": "फोरटेल", "gujaratiMeaning": "આગાહી કરવી", "hindiMeaning": "भविष्य बताना" },
+        { "word": "Divinate", "gujaratiPronunciation": "ડિવિનેટ", "hindiPronunciation": "डिविनेट", "gujaratiMeaning": "ભવિષ્યકથન કરવું", "hindiMeaning": "भविष्यवाणी करना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        { "word": "Cry", "gujaratiPronunciation": "ક્રાય", "hindiPronunciation": "क्राई", "gujaratiMeaning": "રડવું", "hindiMeaning": "रोना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The witch would scry into her crystal ball.",
+          "gujaratiTranslation": "ડાકણ તેના ક્રિસ્ટલ બોલમાં ભવિષ્ય જોતી હતી.",
+          "hindiTranslation": "चुड़ैल अपने क्रिस्टल बॉल में भविष्य देखती थी।",
+          "gujaratiPronunciation": "ધ વિચ વુડ સ્ક્રાય ઇનટુ હર ક્રિસ્ટલ બોલ.",
+          "hindiPronunciation": "द विच वुड स्क्राई इनटू हर क्रिस्टल बॉल।"
+        }
+      ]
+    },
+    {
+      "word": "Foreshadow",
+      "gujaratiPronunciation": "ફોરશેડો",
+      "hindiPronunciation": "फोरशैडो",
+      "gujaratiMeaning": "પૂર્વાભાસ આપવો, સંકેત આપવો",
+      "hindiMeaning": "पूर्वाभास देना, संकेत देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Foreshadow", "gujaratiPronunciation": "ફોરશેડો", "hindiPronunciation": "फोरशैडो", "gujaratiMeaning": "સંકેત આપવો", "hindiMeaning": "संकेत देना" },
+        "V2 (Past)": { "word": "Foreshadowed", "gujaratiPronunciation": "ફોરશેડોડ", "hindiPronunciation": "फोरशैडोड", "gujaratiMeaning": "સંકેત આપ્યો", "hindiMeaning": "संकेत दिया" },
+        "V3 (Past Participle)": { "word": "Foreshadowed", "gujaratiPronunciation": "ફોરશેડોડ", "hindiPronunciation": "फोरशैडोड", "gujaratiMeaning": "સંકેત આપેલ", "hindiMeaning": "पूर्वाभासित" },
+        "V4 (Present Participle)": { "word": "Foreshadowing", "gujaratiPronunciation": "ફોરશેડોઇંગ", "hindiPronunciation": "फोरशैडोइंग", "gujaratiMeaning": "સંકેત આપી રહ્યું છે", "hindiMeaning": "संकेत दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Indicate", "gujaratiPronunciation": "ઇન્ડિકેટ", "hindiPronunciation": "इंडिकेट", "gujaratiMeaning": "સૂચવવું", "hindiMeaning": "संकेत देना" },
+        { "word": "Portend", "gujaratiPronunciation": "પોર્ટેન્ડ", "hindiPronunciation": "पोर्टेंड", "gujaratiMeaning": "સૂચવવું", "hindiMeaning": "पूर्वाभास देना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The dark clouds foreshadow a storm.",
+          "gujaratiTranslation": "કાળા વાદળો તોફાનનો સંકેત આપે છે.",
+          "hindiTranslation": "काले बादल तूफान का पूर्वाभास देते हैं।",
+          "gujaratiPronunciation": "ધ ડાર્ક ક્લાઉડ્સ ફોરશેડો અ સ્ટોર્મ.",
+          "hindiPronunciation": "द डार्क क्लाउड्स फोरशैडो अ स्टॉर्म।"
+        }
+      ]
+    }
+  ]
+}

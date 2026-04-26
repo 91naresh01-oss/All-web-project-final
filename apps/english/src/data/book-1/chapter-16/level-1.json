@@ -1,0 +1,47 @@
+
+{
+    "id": "level-1",
+    "title": "School Items 1",
+    "words": [
+        {
+            "word": "Book",
+            "icon": "📚",
+            "gujaratiPronunciation": "બુક",
+            "hindiPronunciation": "बुक",
+            "gujaratiMeaning": "પુસ્તક",
+            "hindiMeaning": "किताब"
+        },
+        {
+            "word": "Pen",
+            "icon": "🖊️",
+            "gujaratiPronunciation": "પેન",
+            "hindiPronunciation": "पेन",
+            "gujaratiMeaning": "પેન",
+            "hindiMeaning": "कलम"
+        },
+        {
+            "word": "Bag",
+            "icon": "🎒",
+            "gujaratiPronunciation": "બેગ",
+            "hindiPronunciation": "बैग",
+            "gujaratiMeaning": "દફતર",
+            "hindiMeaning": "बस्ता"
+        },
+        {
+            "word": "Desk",
+            "icon": "🪑",
+            "gujaratiPronunciation": "ડેસ્ક",
+            "hindiPronunciation": "डेस्क",
+            "gujaratiMeaning": "ડૅસ્ક",
+            "hindiMeaning": "डेस्क"
+        },
+        {
+            "word": "Board",
+            "icon": "칠",
+            "gujaratiPronunciation": "બોર્ડ",
+            "hindiPronunciation": "बोर्ड",
+            "gujaratiMeaning": "બોર્ડ",
+            "hindiMeaning": "बोर्ड"
+        }
+    ]
+}

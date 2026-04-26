@@ -1,0 +1,435 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1: Recall | Forget | Note | Remind | Memorize",
+  "words": [
+    {
+      "word": "Recall",
+      "gujaratiPronunciation": "રિકોલ",
+      "hindiPronunciation": "रिकॉल",
+      "gujaratiMeaning": "યાદ કરવું",
+      "hindiMeaning": "याद करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Recall",
+          "gujaratiPronunciation": "રિકોલ",
+          "hindiPronunciation": "रिकॉल",
+          "gujaratiMeaning": "યાદ કરવું",
+          "hindiMeaning": "याद करना"
+        },
+        "V2": {
+          "word": "Recalled",
+          "gujaratiPronunciation": "રિકોલ્ડ",
+          "hindiPronunciation": "रिकॉल्ड",
+          "gujaratiMeaning": "યાદ કર્યું",
+          "hindiMeaning": "याद किया"
+        },
+        "V3": {
+          "word": "Recalled",
+          "gujaratiPronunciation": "રિકોલ્ડ",
+          "hindiPronunciation": "रिकॉल्ड",
+          "gujaratiMeaning": "યાદ કરેલું",
+          "hindiMeaning": "याद किया हुआ"
+        },
+        "V4": {
+          "word": "Recalling",
+          "gujaratiPronunciation": "રિકોલિંગ",
+          "hindiPronunciation": "रिकॉलिंग",
+          "gujaratiMeaning": "યાદ કરી રહ્યું છે",
+          "hindiMeaning": "याद कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Remember",
+          "gujaratiPronunciation": "રિમેમ્બર",
+          "hindiPronunciation": "रिमेंबर",
+          "gujaratiMeaning": "યાદ રાખવું",
+          "hindiMeaning": "याद रखना"
+        },
+        {
+          "word": "Recollect",
+          "gujaratiPronunciation": "રિકલેક્ટ",
+          "hindiPronunciation": "रिकलेक्ट",
+          "gujaratiMeaning": "ફરીથી યાદ કરવું",
+          "hindiMeaning": "स्मरण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Forget",
+          "gujaratiPronunciation": "ફરગેટ",
+          "hindiPronunciation": "फॉरगेट",
+          "gujaratiMeaning": "ભૂલી જવું",
+          "hindiMeaning": "भूल जाना"
+        },
+        {
+          "word": "Overlook",
+          "gujaratiPronunciation": "ઓવરલૂક",
+          "hindiPronunciation": "ओवरलुक",
+          "gujaratiMeaning": "ધ્યાન ન આપવું",
+          "hindiMeaning": "नज़रअंदाज़ करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Recoiled",
+          "gujaratiPronunciation": "રિકોઇલ્ડ",
+          "hindiPronunciation": "रिकॉइल्ड",
+          "gujaratiMeaning": "પાછળ હટી જવું",
+          "hindiMeaning": "पीछे हटना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I can't recall her name.",
+          "gujaratiTranslation": "મને તેનું નામ યાદ નથી આવી રહ્યું.",
+          "hindiTranslation": "मुझे उसका नाम याद नहीं आ रहा है।",
+          "gujaratiPronunciation": "આઈ કાન્ટ રિકોલ હર નેમ.",
+          "hindiPronunciation": "आई कांट रिकॉल हर नेम।"
+        }
+      ]
+    },
+    {
+      "word": "Forget",
+      "gujaratiPronunciation": "ફરગેટ",
+      "hindiPronunciation": "फॉरगेट",
+      "gujaratiMeaning": "ભૂલી જવું",
+      "hindiMeaning": "भूल जाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Forget",
+          "gujaratiPronunciation": "ફરગેટ",
+          "hindiPronunciation": "फॉरगेट",
+          "gujaratiMeaning": "ભૂલી જવું",
+          "hindiMeaning": "भूल जाना"
+        },
+        "V2": {
+          "word": "Forgot",
+          "gujaratiPronunciation": "ફરગોટ",
+          "hindiPronunciation": "फॉरगॉट",
+          "gujaratiMeaning": "ભૂલી ગયું",
+          "hindiMeaning": "भूल गया"
+        },
+        "V3": {
+          "word": "Forgotten",
+          "gujaratiPronunciation": "ફરગોટન",
+          "hindiPronunciation": "फॉरगॉटन",
+          "gujaratiMeaning": "ભૂલી ગયેલું",
+          "hindiMeaning": "भूला हुआ"
+        },
+        "V4": {
+          "word": "Forgetting",
+          "gujaratiPronunciation": "ફરગેટિંગ",
+          "hindiPronunciation": "फॉरगेटिंग",
+          "gujaratiMeaning": "ભૂલી રહ્યું છે",
+          "hindiMeaning": "भूल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Overlook",
+          "gujaratiPronunciation": "ઓવરલૂક",
+          "hindiPronunciation": "ओवरलुक",
+          "gujaratiMeaning": "ધ્યાન ન આપવું",
+          "hindiMeaning": "नज़रअंदाज़ करना"
+        },
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગલેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Remember",
+          "gujaratiPronunciation": "રિમેમ્બર",
+          "hindiPronunciation": "रिमेंबर",
+          "gujaratiMeaning": "યાદ રાખવું",
+          "hindiMeaning": "याद रखना"
+        },
+        {
+          "word": "Recall",
+          "gujaratiPronunciation": "રિકોલ",
+          "hindiPronunciation": "रिकॉल",
+          "gujaratiMeaning": "યાદ કરવું",
+          "hindiMeaning": "याद करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Forgo",
+          "gujaratiPronunciation": "ફોરગો",
+          "hindiPronunciation": "फोरगो",
+          "gujaratiMeaning": "જતું કરવું",
+          "hindiMeaning": "त्यागना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't forget to lock the door.",
+          "gujaratiTranslation": "દરવાજો બંધ કરવાનું ભૂલશો નહીં.",
+          "hindiTranslation": "दरवाजा बंद करना मत भूलना।",
+          "gujaratiPronunciation": "ડોન્ટ ફરગેટ ટુ લોક ધ ડોર.",
+          "hindiPronunciation": "डोंट फॉरगेट टू लॉक द डोर।"
+        }
+      ]
+    },
+    {
+      "word": "Note",
+      "gujaratiPronunciation": "નોટ",
+      "hindiPronunciation": "नोट",
+      "gujaratiMeaning": "નોંધવું, ધ્યાન આપવું",
+      "hindiMeaning": "नोट करना, ध्यान देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Note",
+          "gujaratiPronunciation": "નોટ",
+          "hindiPronunciation": "नोट",
+          "gujaratiMeaning": "નોંધવું",
+          "hindiMeaning": "नोट करना"
+        },
+        "V2": {
+          "word": "Noted",
+          "gujaratiPronunciation": "નોટેડ",
+          "hindiPronunciation": "नोटेड",
+          "gujaratiMeaning": "નોંધ્યું",
+          "hindiMeaning": "नोट किया"
+        },
+        "V3": {
+          "word": "Noted",
+          "gujaratiPronunciation": "નોટેડ",
+          "hindiPronunciation": "नोटेड",
+          "gujaratiMeaning": "નોંધેલું",
+          "hindiMeaning": "नोट किया हुआ"
+        },
+        "V4": {
+          "word": "Noting",
+          "gujaratiPronunciation": "નોટિંગ",
+          "hindiPronunciation": "नोटिंग",
+          "gujaratiMeaning": "નોંધી રહ્યું છે",
+          "hindiMeaning": "नोट कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Observe",
+          "gujaratiPronunciation": "ઓબ્ઝર્વ",
+          "hindiPronunciation": "ऑब्ज़र्व",
+          "gujaratiMeaning": "નિરીક્ષણ કરવું",
+          "hindiMeaning": "अवलोकन करना"
+        },
+        {
+          "word": "Record",
+          "gujaratiPronunciation": "રેકોર્ડ",
+          "hindiPronunciation": "रिकॉर्ड",
+          "gujaratiMeaning": "નોંધવું",
+          "hindiMeaning": "दर्ज करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नजरअंदाज करना"
+        },
+        {
+          "word": "Overlook",
+          "gujaratiPronunciation": "ઓવરલૂક",
+          "hindiPronunciation": "ओवरलुक",
+          "gujaratiMeaning": "ધ્યાન ન આપવું",
+          "hindiMeaning": "अनदेखा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Knot",
+          "gujaratiPronunciation": "નોટ",
+          "hindiPronunciation": "नॉट",
+          "gujaratiMeaning": "ગાંઠ",
+          "hindiMeaning": "गांठ"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please note the change in the schedule.",
+          "gujaratiTranslation": "કૃપા કરીને સમયપત્રકમાં ફેરફારની નોંધ લો.",
+          "hindiTranslation": "कृपया शेड्यूल में बदलाव पर ध्यान दें।",
+          "gujaratiPronunciation": "પ્લીઝ નોટ ધ ચેન્જ ઇન ધ શેડ્યૂલ.",
+          "hindiPronunciation": "प्लीज़ नोट द चेंज इन द शेड्यूल।"
+        }
+      ]
+    },
+    {
+      "word": "Remind",
+      "gujaratiPronunciation": "રિમાઇન્ડ",
+      "hindiPronunciation": "रिमाइंड",
+      "gujaratiMeaning": "યાદ કરાવવું",
+      "hindiMeaning": "याद दिलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Remind",
+          "gujaratiPronunciation": "રિમાઇન્ડ",
+          "hindiPronunciation": "रिमाइंड",
+          "gujaratiMeaning": "યાદ કરાવવું",
+          "hindiMeaning": "याद दिलाना"
+        },
+        "V2": {
+          "word": "Reminded",
+          "gujaratiPronunciation": "રિમાઇન્ડેડ",
+          "hindiPronunciation": "रिमाइंडेड",
+          "gujaratiMeaning": "યાદ કરાવ્યું",
+          "hindiMeaning": "याद दिलाया"
+        },
+        "V3": {
+          "word": "Reminded",
+          "gujaratiPronunciation": "રિમાઇન્ડેડ",
+          "hindiPronunciation": "रिमाइंडेड",
+          "gujaratiMeaning": "યાદ કરાવેલું",
+          "hindiMeaning": "याद दिलाया हुआ"
+        },
+        "V4": {
+          "word": "Reminding",
+          "gujaratiPronunciation": "રિમાઇન્ડિંગ",
+          "hindiPronunciation": "रिमाइंडिंग",
+          "gujaratiMeaning": "યાદ કરાવી રહ્યું છે",
+          "hindiMeaning": "याद दिला रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Prompt",
+          "gujaratiPronunciation": "પ્રોમ્પ્ટ",
+          "hindiPronunciation": "प्रॉम्प्ट",
+          "gujaratiMeaning": "પ્રેરિત કરવું",
+          "hindiMeaning": "પ્રેરિત करना"
+        },
+        {
+          "word": "Alert",
+          "gujaratiPronunciation": "એલર્ટ",
+          "hindiPronunciation": "अलर्ट",
+          "gujaratiMeaning": "સાવચેત કરવું",
+          "hindiMeaning": "सचेत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Distract",
+          "gujaratiPronunciation": "ડિસ્ટ્રેક્ટ",
+          "hindiPronunciation": "डिस्ट्रैक्ट",
+          "gujaratiMeaning": "ધ્યાન ભટકાવવું",
+          "hindiMeaning": "ध्यान भटकाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Rewind",
+          "gujaratiPronunciation": "રિવાઇન્ડ",
+          "hindiPronunciation": "रिवाइंड",
+          "gujaratiMeaning": "પાછું વાળવું",
+          "hindiMeaning": "पीछे करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you remind me to call him tomorrow?",
+          "gujaratiTranslation": "શું તમે મને કાલે તેને ફોન કરવાનું યાદ કરાવી શકો છો?",
+          "hindiTranslation": "क्या आप मुझे कल उसे फोन करने की याद दिला सकते हैं?",
+          "gujaratiPronunciation": "કેન યુ રિમાઇન્ડ મી ટુ કોલ હિમ ટુમોરો?",
+          "hindiPronunciation": "कैन यू रिमाइंड मी टू कॉल हिम टुमॉरो?"
+        }
+      ]
+    },
+    {
+      "word": "Memorize",
+      "gujaratiPronunciation": "મેમરાઇઝ",
+      "hindiPronunciation": "मेमराइज़",
+      "gujaratiMeaning": "યાદ કરવું, કંઠસ્થ કરવું",
+      "hindiMeaning": "याद करना, कंठस्थ करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Memorize",
+          "gujaratiPronunciation": "મેમરાઇઝ",
+          "hindiPronunciation": "मेमराइज़",
+          "gujaratiMeaning": "યાદ કરવું",
+          "hindiMeaning": "याद करना"
+        },
+        "V2": {
+          "word": "Memorized",
+          "gujaratiPronunciation": "મેમરાઇઝ્ડ",
+          "hindiPronunciation": "मेमराइज़्ड",
+          "gujaratiMeaning": "યાદ કર્યું",
+          "hindiMeaning": "याद किया"
+        },
+        "V3": {
+          "word": "Memorized",
+          "gujaratiPronunciation": "મેમરાઇઝ્ડ",
+          "hindiPronunciation": "मेमराइज़्ड",
+          "gujaratiMeaning": "યાદ કરેલું",
+          "hindiMeaning": "याद किया हुआ"
+        },
+        "V4": {
+          "word": "Memorizing",
+          "gujaratiPronunciation": "મેમરાઇઝિંગ",
+          "hindiPronunciation": "मेमराइजिंग",
+          "gujaratiMeaning": "યાદ કરી રહ્યું છે",
+          "hindiMeaning": "याद कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Learn by heart",
+          "gujaratiPronunciation": "લર્ન બાય હાર્ટ",
+          "hindiPronunciation": "लर्न बाय हार्ट",
+          "gujaratiMeaning": "મોઢે કરવું",
+          "hindiMeaning": "कंठस्थ करना"
+        },
+        {
+          "word": "Retain",
+          "gujaratiPronunciation": "રિટેન",
+          "hindiPronunciation": "रिटेन",
+          "gujaratiMeaning": "જાળવી રાખવું",
+          "hindiMeaning": "बनाए रखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Forget",
+          "gujaratiPronunciation": "ફરગેટ",
+          "hindiPronunciation": "फॉरगेट",
+          "gujaratiMeaning": "ભૂલી જવું",
+          "hindiMeaning": "भूल जाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Mesmerize",
+          "gujaratiPronunciation": "મેસ્મરાઇઝ",
+          "hindiPronunciation": "मेस्मराइज़",
+          "gujaratiMeaning": "સંમોહિત કરવું",
+          "hindiMeaning": "सम्मोहित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Actors have to memorize a lot of lines.",
+          "gujaratiTranslation": "અભિનેતાઓએ ઘણી બધી લાઇનો યાદ કરવી પડે છે.",
+          "hindiTranslation": "अभिनेताओं को बहुत सारी लाइनें याद करनी पड़ती हैं।",
+          "gujaratiPronunciation": "એક્ટર્સ હેવ ટુ મેમરાઇઝ અ લોટ ઓફ લાઇન્સ.",
+          "hindiPronunciation": "एक्टर्स हैव टू मेमराइज़ अ लॉट ऑफ़ लाइन्स।"
+        }
+      ]
+    }
+  ]
+}
+
+    

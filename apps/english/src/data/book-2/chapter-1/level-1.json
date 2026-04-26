@@ -1,0 +1,76 @@
+{
+  "id": "level-1",
+  "title": "Days of the Week 1",
+  "words": [
+    {
+      "word": "Monday",
+      "gujaratiPronunciation": "મન્ડે",
+      "hindiPronunciation": "मंडे",
+      "gujaratiMeaning": "સોમવાર",
+      "hindiMeaning": "सोमवार",
+      "exampleSentences": [
+        {
+          "sentence": "We have a meeting on Monday.",
+          "gujaratiTranslation": "આપણે સોમવારે એક મીટિંગ છે.",
+          "hindiTranslation": "हमारी सोमवार को एक बैठक है।"
+        }
+      ]
+    },
+    {
+      "word": "Tuesday",
+      "gujaratiPronunciation": "ટ્યુઝડે",
+      "hindiPronunciation": "ट्यूसडे",
+      "gujaratiMeaning": "મંગળવાર",
+      "hindiMeaning": "मंगलवार",
+      "exampleSentences": [
+        {
+          "sentence": "I go to the gym on Tuesday.",
+          "gujaratiTranslation": "હું મંગળવારે જીમમાં જાઉં છું.",
+          "hindiTranslation": "मैं मंगलवार को जिम जाता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Wednesday",
+      "gujaratiPronunciation": "વેનસ્ડે",
+      "hindiPronunciation": "वेडनेसडे",
+      "gujaratiMeaning": "બુધવાર",
+      "hindiMeaning": "बुधवार",
+      "exampleSentences": [
+        {
+          "sentence": "She has a class on Wednesday.",
+          "gujaratiTranslation": "તેણીનો બુધવારે ક્લાસ છે.",
+          "hindiTranslation": "उसकी बुधवार को एक क्लास है।"
+        }
+      ]
+    },
+    {
+      "word": "Thursday",
+      "gujaratiPronunciation": "થર્સડે",
+      "hindiPronunciation": "थर्सडे",
+      "gujaratiMeaning": "ગુરુવાર",
+      "hindiMeaning": "गुरुवार",
+      "exampleSentences": [
+        {
+          "sentence": "The new movie releases on Thursday.",
+          "gujaratiTranslation": "નવી ફિલ્મ ગુરુવારે રિલીઝ થાય છે.",
+          "hindiTranslation": "नई फिल्म गुरुवार को रिलीज हो रही है।"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "gujaratiPronunciation": "ફ્રાઇડે",
+      "hindiPronunciation": "फ्राइडे",
+      "gujaratiMeaning": "શુક્રવાર",
+      "hindiMeaning": "शुक्रवार",
+      "exampleSentences": [
+        {
+          "sentence": "Let's go out for dinner on Friday.",
+          "gujaratiTranslation": "ચાલો શુક્રવારે રાત્રિભોજન માટે બહાર જઈએ.",
+          "hindiTranslation": "चलो शुक्रवार को रात के खाने के लिए बाहर चलते हैं।"
+        }
+      ]
+    }
+  ]
+}

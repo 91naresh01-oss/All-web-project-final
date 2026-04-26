@@ -1,0 +1,19 @@
+# Settings to manage and configure a Firebase App Hosting backend.
+# https://firebase.google.com/docs/app-hosting/configure
+# Using minimum settings to reduce cost, including scaling to zero when idle.
+
+# Using an older supported runtime to match available configurations.
+runtime: nodejs20
+
+# Add the serveStaticAssets property to correctly serve Next.js static files
+serveStaticAssets: true
+
+automatic_scaling:
+  min_instances: 0
+  max_instances: 1
+  cpu_utilization:
+    target_utilization: 0.6
+
+resources:
+  cpu: 0.25
+  memory_mib: 256

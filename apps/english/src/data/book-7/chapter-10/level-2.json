@@ -1,0 +1,179 @@
+{
+    "id": "level-2",
+    "title": "Level 2",
+    "words": [
+        {
+            "word": "Succeed",
+            "gujaratiPronunciation": "સક્સીડ",
+            "hindiPronunciation": "सक्सीड",
+            "gujaratiMeaning": "સફળ થવું",
+            "hindiMeaning": "सफल होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Succeed", "gujaratiPronunciation": "સક્સીડ", "hindiPronunciation": "सक्सीड", "gujaratiMeaning": "સફળ થવું", "hindiMeaning": "सफल होना" },
+                "V2": { "word": "Succeeded", "gujaratiPronunciation": "સક્સીડેડ", "hindiPronunciation": "सक्सीडेड", "gujaratiMeaning": "સફળ થયું", "hindiMeaning": "सफल हुआ" },
+                "V3": { "word": "Succeeded", "gujaratiPronunciation": "સક્સીડેડ", "hindiPronunciation": "सक्सीडेड", "gujaratiMeaning": "સફળ થયેલું", "hindiMeaning": "सफल हुआ" },
+                "V4": { "word": "Succeeding", "gujaratiPronunciation": "સક્સીડિંગ", "hindiPronunciation": "सक्सीडिंग", "gujaratiMeaning": "સફળ થઈ રહ્યું છે", "hindiMeaning": "सफल हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Triumph", "gujaratiPronunciation": "ટ્રાયમ્ફ", "hindiPronunciation": "ट्राइंफ", "gujaratiMeaning": "વિજય મેળવવો", "hindiMeaning": "विजय प्राप्त करना" },
+                { "word": "Prevail", "gujaratiPronunciation": "પ્રિવેલ", "hindiPronunciation": "प्रिवेल", "gujaratiMeaning": "પ્રચલિત થવું", "hindiMeaning": "प्रबल होना" }
+            ],
+            "antonyms": [
+                { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ થવું", "hindiMeaning": "विफल होना" },
+                { "word": "Struggle", "gujaratiPronunciation": "સ્ટ્રગલ", "hindiPronunciation": "स्ट्रगल", "gujaratiMeaning": "સંઘર્ષ કરવો", "hindiMeaning": "संघर्ष करना" }
+            ],
+            "confusingWords": [
+                { "word": "Exceed", "gujaratiPronunciation": "એક્સીડ", "hindiPronunciation": "एक्सीड", "gujaratiMeaning": "વધી જવું", "hindiMeaning": "अधिक होना" },
+                { "word": "Secede", "gujaratiPronunciation": "સીસીડ", "hindiPronunciation": "सिसीड", "gujaratiMeaning": "અલગ થવું", "hindiMeaning": "अलग होना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "If you work hard, you will succeed in life.",
+                    "gujaratiPronunciation": "ઇફ યુ વર્ક હાર્ડ, યુ વિલ સક્સીડ ઇન લાઇફ.",
+                    "hindiPronunciation": "इफ यू वर्क हार्ड, यू विल सक्सीड इन लाइफ।",
+                    "gujaratiTranslation": "જો તમે સખત મહેનત કરશો, તો તમે જીવનમાં સફળ થશો.",
+                    "hindiTranslation": "यदि आप कड़ी मेहनत करते हैं, तो आप जीवन में सफल होंगे।"
+                }
+            ]
+        },
+        {
+            "word": "Overcome",
+            "gujaratiPronunciation": "ઓવરકમ",
+            "hindiPronunciation": "ओवरकम",
+            "gujaratiMeaning": "કાબુ મેળવવો",
+            "hindiMeaning": "કાબુ પાના",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Overcome", "gujaratiPronunciation": "ઓવરકમ", "hindiPronunciation": "ओवरकम", "gujaratiMeaning": "કાબુ મેળવવો", "hindiMeaning": "કાબુ પાના" },
+                "V2": { "word": "Overcame", "gujaratiPronunciation": "ઓવરકેમ", "hindiPronunciation": "ओवरकेम", "gujaratiMeaning": "કાબુ મેળવ્યો", "hindiMeaning": "કાબુ પાયા" },
+                "V3": { "word": "Overcome", "gujaratiPronunciation": "ઓવરકમ", "hindiPronunciation": "ओवरकम", "gujaratiMeaning": "કાબુ મેળવેલો", "hindiMeaning": "કાબુ પાયા હુઆ" },
+                "V4": { "word": "Overcoming", "gujaratiPronunciation": "ઓવરકમિંગ", "hindiPronunciation": "ओवरकमिंग", "gujaratiMeaning": "કાબુ મેળવી રહ્યું છે", "hindiMeaning": "કાબુ પા રહા હૈ" }
+            },
+            "synonyms": [
+                { "word": "Conquer", "gujaratiPronunciation": "કોન્કર", "hindiPronunciation": "कॉन्कर", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+                { "word": "Defeat", "gujaratiPronunciation": "ડિફીટ", "hindiPronunciation": "डिफीट", "gujaratiMeaning": "હરાવવું", "hindiMeaning": "हराना" }
+            ],
+            "antonyms": [
+                { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" },
+                { "word": "Yield", "gujaratiPronunciation": "યીલ્ડ", "hindiPronunciation": "यील्ड", "gujaratiMeaning": "વશ થવું", "hindiMeaning": "झुक जाना" }
+            ],
+            "confusingWords": [
+                { "word": "Outcome", "gujaratiPronunciation": "આઉટકમ", "hindiPronunciation": "आउटकम", "gujaratiMeaning": "પરિણામ", "hindiMeaning": "परिणाम" },
+                { "word": "Become", "gujaratiPronunciation": "બિકમ", "hindiPronunciation": "बिकम", "gujaratiMeaning": "બનવું", "hindiMeaning": "बनना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She managed to overcome her fear of flying.",
+                    "gujaratiPronunciation": "શી મેનેજ્ડ ટુ ઓવરકમ હર ફિયર ઓફ ફ્લાઈંગ.",
+                    "hindiPronunciation": "शी मैनेज्ड टु ओवरकम हर फियर ऑफ फ्लाइंग।",
+                    "gujaratiTranslation": "તેણી ઉડાનના તેના ડર પર કાબુ મેળવવામાં સફળ રહી.",
+                    "hindiTranslation": "वह उड़ने के अपने डर पर काबू पाने में कामयाब रही।"
+                }
+            ]
+        },
+        {
+            "word": "Attain",
+            "gujaratiPronunciation": "અટેન",
+            "hindiPronunciation": "अटेन",
+            "gujaratiMeaning": "પ્રાપ્ત કરવું",
+            "hindiMeaning": "प्राप्त करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Attain", "gujaratiPronunciation": "અટેન", "hindiPronunciation": "अटेन", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "प्राप्त करना" },
+                "V2": { "word": "Attained", "gujaratiPronunciation": "અટેન્ડ", "hindiPronunciation": "अटेंड", "gujaratiMeaning": "પ્રાપ્ત કર્યું", "hindiMeaning": "प्राप्त किया" },
+                "V3": { "word": "Attained", "gujaratiPronunciation": "અટેન્ડ", "hindiPronunciation": "अटेंड", "gujaratiMeaning": "પ્રાપ્ત કરેલું", "hindiMeaning": "प्राप्त किया हुआ" },
+                "V4": { "word": "Attaining", "gujaratiPronunciation": "અટેનિંગ", "hindiPronunciation": "अटेनिंग", "gujaratiMeaning": "પ્રાપ્ત કરી રહ્યું છે", "hindiMeaning": "प्राप्त कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Achieve", "gujaratiPronunciation": "અચીવ", "hindiPronunciation": "अचीव", "gujaratiMeaning": "હાંસલ કરવું", "hindiMeaning": "हासिल करना" },
+                { "word": "Reach", "gujaratiPronunciation": "રીચ", "hindiPronunciation": "रीच", "gujaratiMeaning": "પહોંચવું", "hindiMeaning": "पहुँचना" }
+            ],
+            "antonyms": [
+                { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज", "gujaratiMeaning": "ગુમાવવું", "hindiMeaning": "खोना" },
+                { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ જવું", "hindiMeaning": "असफल होना" }
+            ],
+            "confusingWords": [
+                { "word": "Attend", "gujaratiPronunciation": "અટેન્ડ", "hindiPronunciation": "अटेंड", "gujaratiMeaning": "હાજરી આપવી", "hindiMeaning": "उपस्थित होना" },
+                { "word": "Abstain", "gujaratiPronunciation": "એબ્સ્ટેન", "hindiPronunciation": "एब्स्टेन", "gujaratiMeaning": "દૂર રહેવું", "hindiMeaning": "दूर रहना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He hopes to attain a high position in the company.",
+                    "gujaratiPronunciation": "હી હોપ્સ ટુ અટેન અ હાઈ પોઝિશન ઇન ધ કંપની.",
+                    "hindiPronunciation": "ही होप्स टु अटेन अ हाई पोजिशन इन द कंपनी।",
+                    "gujaratiTranslation": "તે કંપનીમાં ઉચ્ચ પદ પ્રાપ્ત કરવાની આશા રાખે છે.",
+                    "hindiTranslation": "वह कंपनी में एक उच्च पद प्राप्त करने की उम्मीद करता है।"
+                }
+            ]
+        },
+        {
+            "word": "Execute",
+            "gujaratiPronunciation": "એક્ઝિક્યુટ",
+            "hindiPronunciation": "एक्जिक्यूट",
+            "gujaratiMeaning": "અમલ કરવો",
+            "hindiMeaning": "निष्पादित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Execute", "gujaratiPronunciation": "એક્ઝિક્યુટ", "hindiPronunciation": "एक्जिक्यूट", "gujaratiMeaning": "અમલ કરવો", "hindiMeaning": "निष्पादित करना" },
+                "V2": { "word": "Executed", "gujaratiPronunciation": "એક્ઝિક્યુટેડ", "hindiPronunciation": "एक्जिक्यूटेड", "gujaratiMeaning": "અમલ કર્યો", "hindiMeaning": "निष्पादित किया" },
+                "V3": { "word": "Executed", "gujaratiPronunciation": "એક્ઝિક્યુટેડ", "hindiPronunciation": "एक्जिक्यूटेड", "gujaratiMeaning": "અમલ કરેલો", "hindiMeaning": "निष्पादित किया हुआ" },
+                "V4": { "word": "Executing", "gujaratiPronunciation": "એક્ઝિક્યુટિંગ", "hindiPronunciation": "एक्जिक्यूटिंग", "gujaratiMeaning": "અમલ કરી રહ્યું છે", "hindiMeaning": "निष्पादित कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Implement", "gujaratiPronunciation": "ઇમ્પ્લિમેન્ટ", "hindiPronunciation": "इम्प्लीमेंट", "gujaratiMeaning": "લાગુ કરવું", "hindiMeaning": "लागू करना" },
+                { "word": "Perform", "gujaratiPronunciation": "પર્ફોર્મ", "hindiPronunciation": "परफॉर्म", "gujaratiMeaning": "પ્રદર્શન કરવું", "hindiMeaning": "प्रदर्शन करना" }
+            ],
+            "antonyms": [
+                { "word": "Neglect", "gujaratiPronunciation": "નેગલેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "उपेक्षा करना" },
+                { "word": "Abandon", "gujaratiPronunciation": "અબૅન્ડન", "hindiPronunciation": "अबैंडन", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "छोड़ देना" }
+            ],
+            "confusingWords": [
+                { "word": "Excuse", "gujaratiPronunciation": "એક્સક્યુઝ", "hindiPronunciation": "एक्सक्यूज", "gujaratiMeaning": "માફી", "hindiMeaning": "बहाना" },
+                { "word": "Executive", "gujaratiPronunciation": "એક્ઝિક્યુટિવ", "hindiPronunciation": "एक्जिक्यूटिव", "gujaratiMeaning": "કાર્યકારી", "hindiMeaning": "कार्यकारी" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The team was ready to execute the plan.",
+                    "gujaratiPronunciation": "ધ ટીમ વોઝ રેડી ટુ એક્ઝિક્યુટ ધ પ્લાન.",
+                    "hindiPronunciation": "द टीम वॉज रेडी टु एक्जिक्यूट द प्लान।",
+                    "gujaratiTranslation": "ટીમ યોજનાનો અમલ કરવા માટે તૈયાર હતી.",
+                    "hindiTranslation": "टीम योजना को निष्पादित करने के लिए तैयार थी।"
+                }
+            ]
+        },
+        {
+            "word": "Accomplish",
+            "gujaratiPronunciation": "અકમ્પ્લિશ", "hindiPronunciation": "अकम्प्लिश", "gujaratiMeaning": "પાર પાડવું",
+            "hindiMeaning": "पूरा करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1": { "word": "Accomplish", "gujaratiPronunciation": "અકમ્પ્લિશ", "hindiPronunciation": "अकम्प्लिश", "gujaratiMeaning": "પાર પાડવું", "hindiMeaning": "पूरा करना" },
+                "V2": { "word": "Accomplished", "gujaratiPronunciation": "અકમ્પ્લિશ્ડ", "hindiPronunciation": "अकम्प्लिश्ड", "gujaratiMeaning": "પાર પાડ્યું", "hindiMeaning": "पूरा किया" },
+                "V3": { "word": "Accomplished", "gujaratiPronunciation": "અકમ્પ્લિશ્ડ", "hindiPronunciation": "अकम्प्लिश्ड", "gujaratiMeaning": "પાર પાડેલું", "hindiMeaning": "पूरा किया हुआ" },
+                "V4": { "word": "Accomplishing", "gujaratiPronunciation": "અકમ્પ્લિશિંગ", "hindiPronunciation": "अकम्प्लिशिंग", "gujaratiMeaning": "પાર પાડી રહ્યું છે", "hindiMeaning": "पूरा कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Achieve", "gujaratiPronunciation": "અચીવ", "hindiPronunciation": "अचीव", "gujaratiMeaning": "હાંસલ કરવું", "hindiMeaning": "हासिल करना" },
+                { "word": "Fulfill", "gujaratiPronunciation": "ફુલફિલ", "hindiPronunciation": "फुलफिल", "gujaratiMeaning": "પૂરું કરવું", "hindiMeaning": "पूरा करना" }
+            ],
+            "antonyms": [
+                { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ થવું", "hindiMeaning": "विफल होना" },
+                { "word": "Abandon", "gujaratiPronunciation": "અબૅન્ડન", "hindiPronunciation": "अबैंडन", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "छोड़ देना" }
+            ],
+            "confusingWords": [
+                { "word": "Abolish", "gujaratiPronunciation": "અબોલિશ", "hindiPronunciation": "अबोलिश", "gujaratiMeaning": "નાબૂદ કરવું", "hindiMeaning": "समाप्त करना" },
+                { "word": "Comply", "gujaratiPronunciation": "કમ્પ્લાય", "hindiPronunciation": "कम्प्लाई", "gujaratiMeaning": "પાલન કરવું", "hindiMeaning": "पालन करना" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "It's amazing what you can accomplish with teamwork.",
+                    "gujaratiPronunciation": "ઇટ્સ અમેઝિંગ વોટ યુ કેન અકમ્પ્લિશ વિથ ટીમવર્ક.",
+                    "hindiPronunciation": "इट्स अमेजिंग व्हॉट यू कैन अकम्प्लिश विथ टीमवर्क।",
+                    "gujaratiTranslation": "ટીમવર્કથી તમે શું પાર પાડી શકો છો તે અદ્ભુત છે.",
+                    "hindiTranslation": "यह आश्चर्यजनक है कि आप टीम वर्क से क्या हासिल कर सकते हैं।"
+                }
+            ]
+        }
+    ]
+}

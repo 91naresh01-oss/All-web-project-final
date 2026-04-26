@@ -1,0 +1,410 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Assess",
+      "gujaratiPronunciation": "અસેસ",
+      "hindiPronunciation": "असेस",
+      "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+      "hindiMeaning": "आकलन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Assess",
+          "gujaratiPronunciation": "અસેસ",
+          "hindiPronunciation": "असेस",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "आकलन करना"
+        },
+        "V2 (Past)": {
+          "word": "Assessed",
+          "gujaratiPronunciation": "અસેસ્ડ",
+          "hindiPronunciation": "असेस्ड",
+          "gujaratiMeaning": "મૂલ્યાંકન કર્યું",
+          "hindiMeaning": "आकलन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Assessed",
+          "gujaratiPronunciation": "અસેસ્ડ",
+          "hindiPronunciation": "असेस्ड",
+          "gujaratiMeaning": "મૂલ્યાંકન કરેલું",
+          "hindiMeaning": "आकलन किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Assessing",
+          "gujaratiPronunciation": "અસેસિંગ",
+          "hindiPronunciation": "असेसिंग",
+          "gujaratiMeaning": "મૂલ્યાંકન કરી રહ્યું છે",
+          "hindiMeaning": "आकलन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Evaluate",
+          "gujaratiPronunciation": "ઇવેલ્યુએટ",
+          "hindiPronunciation": "इवैल्यूएट",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "मूल्यांकन करना"
+        },
+        {
+          "word": "Judge",
+          "gujaratiPronunciation": "જજ",
+          "hindiPronunciation": "जज",
+          "gujaratiMeaning": "નਿਰણય કરવો",
+          "hindiMeaning": "निर्णय करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        {
+          "word": "Assess",
+          "gujaratiPronunciation": "અસેસ",
+          "hindiPronunciation": "असेस",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "आकलन करना",
+          "difference": "Assess એટલે મૂલ્યાંકન કરવું, જ્યારે Access એટલે પ્રવેશ."
+        },
+        {
+          "word": "Access",
+          "gujaratiPronunciation": "એક્સેસ",
+          "hindiPronunciation": "एक्सेस",
+          "gujaratiMeaning": "પ્રવેશ",
+          "hindiMeaning": "पहुंच",
+          "difference": "Assess એટલે મૂલ્યાંકન કરવું, જ્યારે Access એટલે પ્રવેશ."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The insurance company will assess the damage to your car.",
+          "gujaratiPronunciation": "ધ ઇન્સ્યોરન્સ કંપની વિલ અસેસ ધ ડેમેજ ટુ યોર કાર.",
+          "hindiPronunciation": "द इंश्योरेंस कंपनी विल असेस द डैमेज टू योर कार।",
+          "gujaratiTranslation": "વીમા કંપની તમારી કારને થયેલા નુકસાનનું મૂલ્યાંકન કરશે.",
+          "hindiTranslation": "बीमा कंपनी आपकी कार को हुए नुकसान का आकलन करेगी।"
+        }
+      ]
+    },
+    {
+      "word": "Delineate",
+      "gujaratiPronunciation": "ડિલિનિએટ",
+      "hindiPronunciation": "डिलिनिएट",
+      "gujaratiMeaning": "સ્પષ્ટ કરવું",
+      "hindiMeaning": "स्पष्ट करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Delineate",
+          "gujaratiPronunciation": "ડિલિનિએટ",
+          "hindiPronunciation": "डिलिनिएट",
+          "gujaratiMeaning": "સ્પષ્ટ કરવું",
+          "hindiMeaning": "स्पष्ट करना"
+        },
+        "V2 (Past)": {
+          "word": "Delineated",
+          "gujaratiPronunciation": "ડિલિનિએટેડ",
+          "hindiPronunciation": "डिलिनिएटेड",
+          "gujaratiMeaning": "સ્પષ્ટ કર્યું",
+          "hindiMeaning": "स्पष्ट किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Delineated",
+          "gujaratiPronunciation": "ડિલિનિએટેડ",
+          "hindiPronunciation": "डिलिनिएटेड",
+          "gujaratiMeaning": "સ્પષ્ટ કરેલું",
+          "hindiMeaning": "स्पष्ट किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Delineating",
+          "gujaratiPronunciation": "ડિલિનિએટિંગ",
+          "hindiPronunciation": "डिलिनिएटिंग",
+          "gujaratiMeaning": "સ્પષ્ટ કરી રહ્યું છે",
+          "hindiMeaning": "स्पष्ट कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Describe",
+          "gujaratiPronunciation": "ડિસ્ક્રાઇબ",
+          "hindiPronunciation": "डिस्क्राइब",
+          "gujaratiMeaning": "વર્ણન કરવું",
+          "hindiMeaning": "वर्णन करना"
+        },
+        {
+          "word": "Outline",
+          "gujaratiPronunciation": "આઉટલાઇન",
+          "hindiPronunciation": "आउटलाइन",
+          "gujaratiMeaning": "રૂપરેખા આપવી",
+          "hindiMeaning": "रूपरेखा देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Confuse",
+          "gujaratiPronunciation": "કન્ફ્યુઝ",
+          "hindiPronunciation": "कन्फ्यूज",
+          "gujaratiMeaning": "ગૂંચવવું",
+          "hindiMeaning": "उलझाना"
+        },
+        {
+          "word": "Obscure",
+          "gujaratiPronunciation": "ઓબ્સ્ક્યોર",
+          "hindiPronunciation": "ऑब्स्क्योर",
+          "gujaratiMeaning": "અસ્પષ્ટ કરવું",
+          "hindiMeaning": "अस्पष्ट करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The teacher tried to delineate the main points of the lesson.",
+          "gujaratiPronunciation": "ધ ટીચર ટ્રાઇડ ટુ ડિલિનિએટ ધ મેઇન પોઇન્ટ્સ ઓફ ધ લેસન.",
+          "hindiPronunciation": "द टीचर ट्राइड टू डिलिनिएट द मेन पॉइंट्स ऑफ़ द लेसन।",
+          "gujaratiTranslation": "શિક્ષકે પાઠના મુખ્ય મુદ્દાઓને સ્પષ્ટ કરવાનો પ્રયાસ કર્યો.",
+          "hindiTranslation": "शिक्षक ने पाठ के मुख्य बिंदुओं को स्पष्ट करने का प्रयास किया।"
+        }
+      ]
+    },
+    {
+      "word": "Increment",
+      "gujaratiPronunciation": "ઇન્ક્રીમેન્ટ",
+      "hindiPronunciation": "इन्क्रिमेंट",
+      "gujaratiMeaning": "વધારો કરવો",
+      "hindiMeaning": "बढ़ाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Increment",
+          "gujaratiPronunciation": "ઇન્ક્રીમેન્ટ",
+          "hindiPronunciation": "इन्क्रिमेंट",
+          "gujaratiMeaning": "વધારો કરવો",
+          "hindiMeaning": "बढ़ाना"
+        },
+        "V2 (Past)": {
+          "word": "Incremented",
+          "gujaratiPronunciation": "ઇન્ક્રીમેન્ટેડ",
+          "hindiPronunciation": "इन्क्रिमेंटेड",
+          "gujaratiMeaning": "વધારો કર્યો",
+          "hindiMeaning": "बढ़ाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Incremented",
+          "gujaratiPronunciation": "ઇન્ક્રીમેન્ટેડ",
+          "hindiPronunciation": "इन्क्रिमेंटेड",
+          "gujaratiMeaning": "વધારો કરેલ",
+          "hindiMeaning": "बढ़ाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Incrementing",
+          "gujaratiPronunciation": "ઇન્ક્રીમેન્ટિંગ",
+          "hindiPronunciation": "इन्क्रिमेंटिंग",
+          "gujaratiMeaning": "વધારો કરી રહ્યું છે",
+          "hindiMeaning": "बढ़ा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Increase",
+          "gujaratiPronunciation": "ઇન્ક્રીઝ",
+          "hindiPronunciation": "इंक्रीज",
+          "gujaratiMeaning": "વધારો કરવો",
+          "hindiMeaning": "बढ़ाना"
+        },
+        {
+          "word": "Augment",
+          "gujaratiPronunciation": "ઓગમેન્ટ",
+          "hindiPronunciation": "ऑगमेंट",
+          "gujaratiMeaning": "વધારવું",
+          "hindiMeaning": "बढ़ाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Decrement",
+          "gujaratiPronunciation": "ડિક્રીમેન્ટ",
+          "hindiPronunciation": "डिक्रिमेंट",
+          "gujaratiMeaning": "ઘટાડો કરવો",
+          "hindiMeaning": "घटाना"
+        },
+        {
+          "word": "Decrease",
+          "gujaratiPronunciation": "ડિક્રીઝ",
+          "hindiPronunciation": "डिक्रीज",
+          "gujaratiMeaning": "ઘટાડો કરવો",
+          "hindiMeaning": "घटाना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The program will increment the counter by one.",
+          "gujaratiPronunciation": "ધ પ્રોગ્રામ વિલ ઇન્ક્રીમેન્ટ ધ કાઉન્ટર બાય વન.",
+          "hindiPronunciation": "द प्रोग्राम विल इन्क्रिमेंट द काउंटर बाइ वन।",
+          "gujaratiTranslation": "પ્રોગ્રામ કાઉન્ટરમાં એકનો વધારો કરશે.",
+          "hindiTranslation": "प्रोग्राम काउंटर को एक से बढ़ाएगा।"
+        }
+      ]
+    },
+    {
+      "word": "Diminish",
+      "gujaratiPronunciation": "ડિમિનિશ",
+      "hindiPronunciation": "डिमिनिश",
+      "gujaratiMeaning": "ઘટાડવું",
+      "hindiMeaning": "कम करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Diminish",
+          "gujaratiPronunciation": "ડિમિનિશ",
+          "hindiPronunciation": "डिमिनिश",
+          "gujaratiMeaning": "ઘટાડવું",
+          "hindiMeaning": "कम करना"
+        },
+        "V2 (Past)": {
+          "word": "Diminished",
+          "gujaratiPronunciation": "ડિમિનિશ્ડ",
+          "hindiPronunciation": "डिमिनिश्ड",
+          "gujaratiMeaning": "ઘટાડ્યું",
+          "hindiMeaning": "कम किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Diminished",
+          "gujaratiPronunciation": "ડિમિનિશ્ડ",
+          "hindiPronunciation": "डिमिनिश्ड",
+          "gujaratiMeaning": "ઘટાડેલું",
+          "hindiMeaning": "कम किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Diminishing",
+          "gujaratiPronunciation": "ડિમિનિશિંગ",
+          "hindiPronunciation": "डिमिनिशिंग",
+          "gujaratiMeaning": "ઘટાડી રહ્યું છે",
+          "hindiMeaning": "कम कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Decrease",
+          "gujaratiPronunciation": "ડિક્રીઝ",
+          "hindiPronunciation": "डिक्रीज",
+          "gujaratiMeaning": "ઘટાડો કરવો",
+          "hindiMeaning": "कम करना"
+        },
+        {
+          "word": "Reduce",
+          "gujaratiPronunciation": "રિડ્યુસ",
+          "hindiPronunciation": "रिड्यूस",
+          "gujaratiMeaning": "ઘટાડવું",
+          "hindiMeaning": "कम करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Increase",
+          "gujaratiPronunciation": "ઇન્ક્રીઝ",
+          "hindiPronunciation": "इंक्रीज",
+          "gujaratiMeaning": "વધારો કરવો",
+          "hindiMeaning": "बढ़ाना"
+        },
+        {
+          "word": "Augment",
+          "gujaratiPronunciation": "ઓગમેન્ટ",
+          "hindiPronunciation": "ऑगमेंट",
+          "gujaratiMeaning": "વધારવું",
+          "hindiMeaning": "बढ़ाना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The passing of time did not diminish their love.",
+          "gujaratiPronunciation": "ધ पासिंग ઓફ ટાઈમ ડીડ નોટ ડિમિનિશ ધેર લવ.",
+          "hindiPronunciation": "द पासिंग ऑफ़ टाइम डिड नॉट डिमिनिश देयर लव।",
+          "gujaratiTranslation": "સમય પસાર થવાથી તેમનો પ્રેમ ઓછો ન થયો.",
+          "hindiTranslation": "समय बीतने से उनका प्यार कम नहीं हुआ।"
+        }
+      ]
+    },
+    {
+      "word": "Appraise",
+      "gujaratiPronunciation": "અપ્રેઇઝ",
+      "hindiPronunciation": "अप्रेज़",
+      "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+      "hindiMeaning": "मूल्यांकन کرنا",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Appraise",
+          "gujaratiPronunciation": "અપ્રેઇઝ",
+          "hindiPronunciation": "अप्रेज़",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "मूल्यांकन کرنا"
+        },
+        "V2 (Past)": {
+          "word": "Appraised",
+          "gujaratiPronunciation": "અપ્રેઇઝ્ડ",
+          "hindiPronunciation": "अप्रेज़्ड",
+          "gujaratiMeaning": "મૂલ્યાંકન કર્યું",
+          "hindiMeaning": "मूल्यांकन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Appraised",
+          "gujaratiPronunciation": "અપ્રેઇઝ્ડ",
+          "hindiPronunciation": "अप्रेज़्ड",
+          "gujaratiMeaning": "મૂલ્યાંકન કરેલું",
+          "hindiMeaning": "मूल्यांकन किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Appraising",
+          "gujaratiPronunciation": "અપ્રેઇઝિંગ",
+          "hindiPronunciation": "अप्रेज़िंग",
+          "gujaratiMeaning": "મૂલ્યાંકન કરી રહ્યું છે",
+          "hindiMeaning": "मूल्यांकन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Assess",
+          "gujaratiPronunciation": "અસેસ",
+          "hindiPronunciation": "असेस",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "आकलन करना"
+        },
+        {
+          "word": "Evaluate",
+          "gujaratiPronunciation": "ઇવેલ્યુએટ",
+          "hindiPronunciation": "इवैल्यूएट",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "मूल्यांकन करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        {
+          "word": "Appraise",
+          "gujaratiPronunciation": "અપ્રેઇઝ",
+          "hindiPronunciation": "अप्रेज़",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "मूल्यांकन करना",
+          "difference": "Appraise એટલે કોઈ વસ્તુની કિંમત કે ગુણવત્તાનું મૂલ્યાંકન કરવું, જ્યારે Apprise એટલે કોઈને માહિતી આપવી."
+        },
+        {
+          "word": "Apprise",
+          "gujaratiPronunciation": "અપ્રાઇઝ",
+          "hindiPronunciation": "अप्राइज़",
+          "gujaratiMeaning": "માહિતી આપવી",
+          "hindiMeaning": "सूचित करना",
+          "difference": "Appraise એટલે કોઈ વસ્તુની કિંમત કે ગુણવત્તાનું મૂલ્યાંકન કરવું, જ્યારે Apprise એટલે કોઈને માહિતી આપવી."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A jeweler will appraise the value of the diamond ring.",
+          "gujaratiPronunciation": "અ જ્વેલર વિલ અપ્રેઇઝ ધ વેલ્યુ ઓફ ધ ડાયમંડ રિંગ.",
+          "hindiPronunciation": "अ ज्वेलर विल अप्रेज़ द वैल्यू ऑफ़ द डायमंड रिंग।",
+          "gujaratiTranslation": "એક ઝવેરી હીરાની વીંટીની કિંમતનું મૂલ્યાંકન કરશે.",
+          "hindiTranslation": "एक जौहरी हीरे की अंगूठी के मूल्य का मूल्यांकन करेगा।"
+        }
+      ]
+    }
+  ]
+}

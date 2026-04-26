@@ -1,0 +1,381 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Donate",
+      "gujaratiPronunciation": "ડોનેટ",
+      "hindiPronunciation": "डोनेट",
+      "gujaratiMeaning": "દાન કરવું",
+      "hindiMeaning": "दान करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Donate",
+          "pronunciation": "ડોનેટ",
+          "meaning": "દાન કરવું"
+        },
+        "V2 (Past)": {
+          "word": "Donated",
+          "pronunciation": "ડોનેટેડ",
+          "meaning": "દાન કર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Donated",
+          "pronunciation": "ડોનેટેડ",
+          "meaning": "દાન કરેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Donating",
+          "pronunciation": "ડોનેટિંગ",
+          "meaning": "દાન કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Contribute",
+          "pronunciation": "કોન્ટ્રીબ્યુટ",
+          "meaning": "ફાળો આપવો"
+        },
+        {
+          "word": "Give",
+          "pronunciation": "ગિવ",
+          "meaning": "આપવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Receive",
+          "pronunciation": "રિસીવ",
+          "meaning": "મેળવવું"
+        },
+        {
+          "word": "Keep",
+          "pronunciation": "કીપ",
+          "meaning": "રાખવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Donut",
+          "pronunciation": "ડોનટ",
+          "meaning": "એક પ્રકારની મીઠાઈ"
+        },
+        {
+          "word": "Dominate",
+          "pronunciation": "ડૉમિનેટ",
+          "meaning": "વર્ચસ્વ જમાવવું"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She decided to donate her old clothes to charity.",
+          "gujaratiTranslation": "તેણીએ તેના જૂના કપડાં ચેરિટીમાં દાન કરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "उसने अपने पुराने कपड़े चैरिटी में दान करने का फैसला किया।",
+          "gujaratiPronunciation": "શી ડિસાઇડેડ ટુ ડોનેટ હર ઓલ્ડ ક્લોથ્સ ટુ ચેરિટી.",
+          "hindiPronunciation": "शी डिसाइडेड टू डोनेट हर ओल्ड क्लोथ्स टू चैरिटी।"
+        }
+      ]
+    },
+    {
+      "word": "Receive",
+      "gujaratiPronunciation": "રિસીવ",
+      "hindiPronunciation": "रिसीव",
+      "gujaratiMeaning": "મેળવવું, પ્રાપ્ત કરવું",
+      "hindiMeaning": "प्राप्त करना, मिलना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Receive",
+          "pronunciation": "રિસીવ",
+          "meaning": "મેળવવું"
+        },
+        "V2 (Past)": {
+          "word": "Received",
+          "pronunciation": "રિસીવ્ડ",
+          "meaning": "મેળવ્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Received",
+          "pronunciation": "રિસીવ્ડ",
+          "meaning": "મેળવેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Receiving",
+          "pronunciation": "રિસીવિંગ",
+          "meaning": "મેળવી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Get",
+          "pronunciation": "ગેટ",
+          "meaning": "મેળવવું"
+        },
+        {
+          "word": "Obtain",
+          "pronunciation": "ઓબ્ટેન",
+          "meaning": "પ્રાપ્ત કરવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Give",
+          "pronunciation": "ગિવ",
+          "meaning": "આપવું"
+        },
+        {
+          "word": "Send",
+          "pronunciation": "સેન્ડ",
+          "meaning": "મોકલવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Deceive",
+          "pronunciation": "ડિસીવ",
+          "meaning": "છેતરવું"
+        },
+        {
+          "word": "Relieve",
+          "pronunciation": "રિલીવ",
+          "meaning": "રાહત આપવી"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Did you receive my email?",
+          "gujaratiTranslation": "શું તમને મારો ઈમેલ મળ્યો?",
+          "hindiTranslation": "क्या आपको मेरा ईमेल मिला?",
+          "gujaratiPronunciation": "ડિડ યુ રિસીવ માય ઇમેઇલ?",
+          "hindiPronunciation": "डिड यू रिसीव माय ईमेल?"
+        }
+      ]
+    },
+    {
+      "word": "Present",
+      "gujaratiPronunciation": "પ્રેઝન્ટ",
+      "hindiPronunciation": "प्रेजेंट",
+      "gujaratiMeaning": "રજૂ કરવું, ભેટ આપવી",
+      "hindiMeaning": "प्रस्तुत करना, उपहार देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Present",
+          "pronunciation": "પ્રેઝન્ટ",
+          "meaning": "રજૂ કરવું"
+        },
+        "V2 (Past)": {
+          "word": "Presented",
+          "pronunciation": "પ્રેઝન્ટેડ",
+          "meaning": "રજૂ કર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Presented",
+          "pronunciation": "પ્રેઝન્ટેડ",
+          "meaning": "રજૂ કરેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Presenting",
+          "pronunciation": "પ્રેઝન્ટિંગ",
+          "meaning": "રજૂ કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Show",
+          "pronunciation": "શો",
+          "meaning": "બતાવવું"
+        },
+        {
+          "word": "Offer",
+          "pronunciation": "ઓફર",
+          "meaning": "પ્રસ્તાવ મૂકવો"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Hide",
+          "pronunciation": "હાઇડ",
+          "meaning": "છુપાવવું"
+        },
+        {
+          "word": "Withhold",
+          "pronunciation": "વિથહોલ્ડ",
+          "meaning": "રોકી રાખવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Presence",
+          "pronunciation": "પ્રેઝન્સ",
+          "meaning": "હાજરી"
+        },
+        {
+          "word": "Peasant",
+          "pronunciation": "પેઝન્ટ",
+          "meaning": "ખેડૂત"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The team will present their findings tomorrow.",
+          "gujaratiTranslation": "ટીમ આવતીકાલે તેમના તારણો રજૂ કરશે.",
+          "hindiTranslation": "टीम कल अपनी रिपोर्ट प्रस्तुत करेगी।",
+          "gujaratiPronunciation": "ધ ટીમ વિલ પ્રેઝન્ટ ધેર ફાઇન્ડિંગ્સ ટુમોરો.",
+          "hindiPronunciation": "द टीम विल प्रेजेंट देयर फाइंडिंग्स टुमॉरो।"
+        }
+      ]
+    },
+    {
+      "word": "Exchange",
+      "gujaratiPronunciation": "એક્સચેન્જ",
+      "hindiPronunciation": "एक्सचेंज",
+      "gujaratiMeaning": "આપ-લે કરવી, વિનિમય કરવો",
+      "hindiMeaning": "आदान-प्रदान करना, विनिमय करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Exchange",
+          "pronunciation": "એક્સચેન્જ",
+          "meaning": "વિનિમય કરવો"
+        },
+        "V2 (Past)": {
+          "word": "Exchanged",
+          "pronunciation": "એક્સચેન્જ્ડ",
+          "meaning": "વિનિમય કર્યો"
+        },
+        "V3 (Past Participle)": {
+          "word": "Exchanged",
+          "pronunciation": "એક્સચેન્જ્ડ",
+          "meaning": "વિનિમય કરેલો"
+        },
+        "V4 (Present Participle)": {
+          "word": "Exchanging",
+          "pronunciation": "એક્સચેન્જિંગ",
+          "meaning": "વિનિમય કરી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Swap",
+          "pronunciation": "સ્વેપ",
+          "meaning": "અદલાબદલી કરવી"
+        },
+        {
+          "word": "Trade",
+          "pronunciation": "ટ્રેડ",
+          "meaning": "વેપાર કરવો"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Keep",
+          "pronunciation": "કીપ",
+          "meaning": "રાખવું"
+        },
+        {
+          "word": "Hold",
+          "pronunciation": "હોલ્ડ",
+          "meaning": "પકડી રાખવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Change",
+          "pronunciation": "ચેન્જ",
+          "meaning": "બદલવું"
+        },
+        {
+          "word": "Excuse",
+          "pronunciation": "એક્સક્યુઝ",
+          "meaning": "બહાનું"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They agreed to exchange gifts at Christmas.",
+          "gujaratiTranslation": "તેઓ નાતાલ પર ભેટોની આપ-લે કરવા સંમત થયા.",
+          "hindiTranslation": "वे क्रिसमस पर उपहारों का आदान-प्रदान करने के लिए सहमत हुए।",
+          "gujaratiPronunciation": "ધે એગ્રીડ ટુ એક્સચેન્જ ગિફ્ટ્સ એટ ક્રિસમસ.",
+          "hindiPronunciation": "दे एग्रीड टू एक्सचेंज गिफ्ट्स एट क्रिसमस।"
+        }
+      ]
+    },
+    {
+      "word": "Distribute",
+      "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ",
+      "hindiPronunciation": "डिस्ट्रिब्यूट",
+      "gujaratiMeaning": "વહેંચવું, વિતરણ કરવું",
+      "hindiMeaning": "बाँटना, वितरण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Distribute",
+          "pronunciation": "ડિસ્ટ્રિબ્યુટ",
+          "meaning": "વહેંચવું"
+        },
+        "V2 (Past)": {
+          "word": "Distributed",
+          "pronunciation": "ડિસ્ટ્રિબ્યુટેડ",
+          "meaning": "વહેંચ્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Distributed",
+          "pronunciation": "ડિસ્ટ્રિબ્યુટેડ",
+          "meaning": "વહેંચેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Distributing",
+          "pronunciation": "ડિસ્ટ્રિબ્યુટિંગ",
+          "meaning": "વહેંચી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Share",
+          "pronunciation": "શેર",
+          "meaning": "વહેંચવું"
+        },
+        {
+          "word": "Disperse",
+          "pronunciation": "ડિસ્પર્સ",
+          "meaning": "વિખેરી નાખવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Collect",
+          "pronunciation": "કલેક્ટ",
+          "meaning": "એકત્ર કરવું"
+        },
+        {
+          "word": "Gather",
+          "pronunciation": "ગેધર",
+          "meaning": "ભેગું કરવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Contribute",
+          "pronunciation": "કોન્ટ્રીબ્યુટ",
+          "meaning": "ફાળો આપવો"
+        },
+        {
+          "word": "Dispute",
+          "pronunciation": "ડિસ્પ્યુટ",
+          "meaning": "વિવાદ"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The teacher will distribute the worksheets.",
+          "gujaratiTranslation": "શિક્ષક વર્કશીટનું વિતરણ કરશે.",
+          "hindiTranslation": "शिक्षक वर्कशीट वितरित करेंगे।",
+          "gujaratiPronunciation": "ધ ટીચર વિલ ડિસ્ટ્રિબ્યુટ ધ વર્કશીટ્સ.",
+          "hindiPronunciation": "द टीचर विल डिस्ट्रिब्यूट द वर्कशीट्स।"
+        }
+      ]
+    }
+  ]
+}

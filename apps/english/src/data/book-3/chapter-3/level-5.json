@@ -1,0 +1,172 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Rouse",
+      "gujaratiPronunciation": "રાઉઝ",
+      "hindiPronunciation": "राउज",
+      "gujaratiMeaning": "જગાડવું, ઉત્તેજિત કરવું",
+      "hindiMeaning": "जगाना, उत्तेजित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Rouse", "gujaratiPronunciation": "રાઉઝ", "hindiPronunciation": "राउज", "gujaratiMeaning": "જગાડવું", "hindiMeaning": "जगाना" },
+        "V2 (Past)": { "word": "Roused", "gujaratiPronunciation": "રાઉઝ્ડ", "hindiPronunciation": "राउज्ड", "gujaratiMeaning": "જગાડ્યું", "hindiMeaning": "जगाया" },
+        "V3 (Past Participle)": { "word": "Roused", "gujaratiPronunciation": "રાઉઝ્ડ", "hindiPronunciation": "राउज्ड", "gujaratiMeaning": "જગાડેલું", "hindiMeaning": "जगाया हुआ" },
+        "V4 (Present Participle)": { "word": "Rousing", "gujaratiPronunciation": "રાઉઝિંગ", "hindiPronunciation": "राउजिंग", "gujaratiMeaning": "જગાડતા", "hindiMeaning": "जगाते हुए" }
+      },
+      "synonyms": [
+        { "word": "Awaken", "gujaratiPronunciation": "અવેકન", "hindiPronunciation": "अवेकन", "gujaratiMeaning": "જાગૃત કરવું", "hindiMeaning": "जगाना" },
+        { "word": "Arouse", "gujaratiPronunciation": "અરાઉઝ", "hindiPronunciation": "अराउज", "gujaratiMeaning": "ઉશ્કેરવું", "hindiMeaning": "उत्तेजित करना" }
+      ],
+      "antonyms": [
+        { "word": "Calm", "gujaratiPronunciation": "કામ", "hindiPronunciation": "काम", "gujaratiMeaning": "શાંત કરવું", "hindiMeaning": "शांत करना" },
+        { "word": "Soothe", "gujaratiPronunciation": "સૂધ", "hindiPronunciation": "सूद", "gujaratiMeaning": "શાંત પાડવું", "hindiMeaning": "शांत करना" }
+      ],
+      "confusingWords": [
+        { "word": "House", "gujaratiPronunciation": "હાઉસ", "hindiPronunciation": "हाउस", "gujaratiMeaning": "ઘર", "hindiMeaning": "घर" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The speech was intended to rouse the crowd.",
+          "gujaratiTranslation": "આ ભાષણનો હેતુ ભીડને ઉત્તેજિત કરવાનો હતો.",
+          "hindiTranslation": "भाषण का उद्देश्य भीड़ को उत्तेजित करना था।",
+          "gujaratiPronunciation": "ધ સ્પીચ વોઝ ઇન્ટેન્ડેડ ટુ રાઉઝ ધ ક્રાઉડ.",
+          "hindiPronunciation": "द स्पीच वॉज इंटेंडेड टू राउज द क्राउड।"
+        }
+      ]
+    },
+    {
+      "word": "Abridge",
+      "gujaratiPronunciation": "અબ્રિજ",
+      "hindiPronunciation": "अब्रिज",
+      "gujaratiMeaning": "સંક્ષિપ્ત કરવું",
+      "hindiMeaning": "संक्षेप करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Abridge", "gujaratiPronunciation": "અબ્રિજ", "hindiPronunciation": "अब्रिज", "gujaratiMeaning": "સંક્ષિપ્ત કરવું", "hindiMeaning": "संक्षेप करना" },
+        "V2 (Past)": { "word": "Abridged", "gujaratiPronunciation": "અબ્રિજ્ડ", "hindiPronunciation": "अब्रिज्ड", "gujaratiMeaning": "સંક્ષિપ્ત કર્યું", "hindiMeaning": "संक्षेप किया" },
+        "V3 (Past Participle)": { "word": "Abridged", "gujaratiPronunciation": "અબ્રિજ્ડ", "hindiPronunciation": "अब्रिज्ड", "gujaratiMeaning": "સંક્ષિપ્ત કરેલું", "hindiMeaning": "संक्षेप किया हुआ" },
+        "V4 (Present Participle)": { "word": "Abridging", "gujaratiPronunciation": "અબ્રિજિંગ", "hindiPronunciation": "अब्रिजिंग", "gujaratiMeaning": "સંક્ષિપ્ત કરતા", "hindiMeaning": "संक्षेप करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Shorten", "gujaratiPronunciation": "શોર્ટન", "hindiPronunciation": "शॉर्टन", "gujaratiMeaning": "ટૂંકું કરવું", "hindiMeaning": "छोटा करना" },
+        { "word": "Condense", "gujaratiPronunciation": "કન્ડેન્સ", "hindiPronunciation": "कंडेंस", "gujaratiMeaning": "સંક્ષિપ્ત કરવું", "hindiMeaning": "संघनित करना" }
+      ],
+      "antonyms": [
+        { "word": "Expand", "gujaratiPronunciation": "એક્સપાન્ડ", "hindiPronunciation": "एक्सपैंड", "gujaratiMeaning": "વિસ્તારવું", "hindiMeaning": "विस्तार करना" },
+        { "word": "Lengthen", "gujaratiPronunciation": "લેન્ગ્થન", "hindiPronunciation": "लेंग्थेन", "gujaratiMeaning": "લંબાવવું", "hindiMeaning": "लंबा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Bridge", "gujaratiPronunciation": "બ્રિજ", "hindiPronunciation": "ब्रिज", "gujaratiMeaning": "પુલ", "hindiMeaning": "पुल" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The book was abridged for children.",
+          "gujaratiTranslation": "આ પુસ્તક બાળકો માટે સંક્ષિપ્ત કરવામાં આવ્યું હતું.",
+          "hindiTranslation": "यह किताब बच्चों के लिए संक्षिप्त की गई थी।",
+          "gujaratiPronunciation": "ધ બુક વોઝ અબ્રિજ્ડ ફોર ચિલ્ડ્રન.",
+          "hindiPronunciation": "द बुक वॉज अब्रिज्ड फॉर चिल्ड्रन।"
+        }
+      ]
+    },
+    {
+      "word": "Address",
+      "gujaratiPronunciation": "એડ્રેસ",
+      "hindiPronunciation": "एड्रेस",
+      "gujaratiMeaning": "સંબોધન કરવું, ધ્યાન આપવું",
+      "hindiMeaning": "संबोधित करना, ध्यान देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Address", "gujaratiPronunciation": "એડ્રેસ", "hindiPronunciation": "एड्रेस", "gujaratiMeaning": "સંબોધન કરવું", "hindiMeaning": "संबोधित करना" },
+        "V2 (Past)": { "word": "Addressed", "gujaratiPronunciation": "એડ્રેસ્ડ", "hindiPronunciation": "एड्रेस्ड", "gujaratiMeaning": "સંબોધન કર્યું", "hindiMeaning": "संबोधित किया" },
+        "V3 (Past Participle)": { "word": "Addressed", "gujaratiPronunciation": "એડ્રેસ્ડ", "hindiPronunciation": "एड्रेस्ड", "gujaratiMeaning": "સંબોધન કરેલું", "hindiMeaning": "संबोधित किया हुआ" },
+        "V4 (Present Participle)": { "word": "Addressing", "gujaratiPronunciation": "એડ્રેસિંગ", "hindiPronunciation": "एड्रेसिंग", "gujaratiMeaning": "સંબોધન કરતા", "hindiMeaning": "संबोधित करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Speak to", "gujaratiPronunciation": "સ્પીક ટુ", "hindiPronunciation": "स्पीक टू", "gujaratiMeaning": "વાત કરવી", "hindiMeaning": "बात करना" },
+        { "word": "Tackle", "gujaratiPronunciation": "ટેકલ", "hindiPronunciation": "टैकल", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "निपटना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Avoid", "gujaratiPronunciation": "અવોઇડ", "hindiPronunciation": "अवॉइड", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" }
+      ],
+      "confusingWords": [
+        { "word": "A dress", "gujaratiPronunciation": "અ ડ્રેસ", "hindiPronunciation": "अ ड्रेस", "gujaratiMeaning": "એક પોશાક", "hindiMeaning": "एक पोशाक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government must address the issue of unemployment.",
+          "gujaratiTranslation": "સરકારે બેરોજગારીની સમસ્યા પર ધ્યાન આપવું જ જોઈએ.",
+          "hindiTranslation": "सरकार को बेरोजगारी की समस्या का समाधान करना चाहिए।",
+          "gujaratiPronunciation": "ધ ગવર્નમેન્ટ મસ્ટ એડ્રેસ ધ ઇશ્યુ ઓફ અનએમ્પ્લોયમેન્ટ.",
+          "hindiPronunciation": "द गवर्नमेंट मस्ट एड्रेस द इश्यू ऑफ अनएम्प्लॉयमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Cajole",
+      "gujaratiPronunciation": "કજોલ",
+      "hindiPronunciation": "कैजोल",
+      "gujaratiMeaning": "પટાવવું, ખુશામત કરવી",
+      "hindiMeaning": "फुसलाना, खुशामद करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Cajole", "gujaratiPronunciation": "કજોલ", "hindiPronunciation": "कैजोल", "gujaratiMeaning": "પટાવવું", "hindiMeaning": "फुसलाना" },
+        "V2 (Past)": { "word": "Cajoled", "gujaratiPronunciation": "કજોલ્ડ", "hindiPronunciation": "कैजोल्ड", "gujaratiMeaning": "પટાવ્યું", "hindiMeaning": "फुसलाया" },
+        "V3 (Past Participle)": { "word": "Cajoled", "gujaratiPronunciation": "કજોલ્ડ", "hindiPronunciation": "कैजोल्ड", "gujaratiMeaning": "પટાવેલું", "hindiMeaning": "फुसलाया हुआ" },
+        "V4 (Present Participle)": { "word": "Cajoling", "gujaratiPronunciation": "કજોલિંગ", "hindiPronunciation": "कैजोलिंग", "gujaratiMeaning": "પટાવતા", "hindiMeaning": "फुसलाते हुए" }
+      },
+      "synonyms": [
+        { "word": "Persuade", "gujaratiPronunciation": "પર્સ્યુએડ", "hindiPronunciation": "पर्स्यूएड", "gujaratiMeaning": "મનાવવું", "hindiMeaning": "मनाना" },
+        { "word": "Coax", "gujaratiPronunciation": "કોક્સ", "hindiPronunciation": "कोक्स", "gujaratiMeaning": "સમજાવીને મનાવવું", "hindiMeaning": "मनाना" }
+      ],
+      "antonyms": [
+        { "word": "Force", "gujaratiPronunciation": "ફોર્સ", "hindiPronunciation": "फोर्स", "gujaratiMeaning": "દબાણ કરવું", "hindiMeaning": "मजबूर करना" },
+        { "word": "Bully", "gujaratiPronunciation": "બુલી", "hindiPronunciation": "बुली", "gujaratiMeaning": "ધમકાવવું", "hindiMeaning": "धमकाना" }
+      ],
+      "confusingWords": [
+        { "word": "Kajal", "gujaratiPronunciation": "કાજલ", "hindiPronunciation": "काजल", "gujaratiMeaning": "કાજલ (આંખમાં લગાવવાનું)", "hindiMeaning": "काजल" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He cajoled her into signing the document.",
+          "gujaratiTranslation": "તેણે તેણીને દસ્તાવેજ પર સહી કરવા માટે પટાવી.",
+          "hindiTranslation": "उसने उसे दस्तावेज़ पर हस्ताक्षर करने के लिए फुसलाया।",
+          "gujaratiPronunciation": "હી કજોલ્ડ હર ઇન્ટુ સાઇનિંગ ધ ડોક્યુમેન્ટ.",
+          "hindiPronunciation": "ही कैजोल्ड हर इनटू साइनिंग द डॉक्यूमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Discourse",
+      "gujaratiPronunciation": "ડિસ્કોર્સ",
+      "hindiPronunciation": "डिस्कोर्स",
+      "gujaratiMeaning": "પ્રવચન, ચર્ચા",
+      "hindiMeaning": "प्रवचन, चर्चा",
+      "partOfSpeech": "Noun",
+      "verbForms": {},
+      "synonyms": [
+        { "word": "Discussion", "gujaratiPronunciation": "ડિસ્કશન", "hindiPronunciation": "डिस्कशन", "gujaratiMeaning": "ચર્ચા", "hindiMeaning": "चर्चा" },
+        { "word": "Conversation", "gujaratiPronunciation": "કન્વર્સેશન", "hindiPronunciation": "कन्वर्सेशन", "gujaratiMeaning": "વાતચીત", "hindiMeaning": "बातचीत" }
+      ],
+      "antonyms": [
+        { "word": "Silence", "gujaratiPronunciation": "સાયલન્સ", "hindiPronunciation": "साइलेंस", "gujaratiMeaning": "શાંતિ", "hindiMeaning": "शांति" },
+        { "word": "Quiet", "gujaratiPronunciation": "ક્વાયટ", "hindiPronunciation": "क्वायट", "gujaratiMeaning": "ચૂપકીદી", "hindiMeaning": "चुप्पी" }
+      ],
+      "confusingWords": [
+        { "word": "This course", "gujaratiPronunciation": "ધીસ કોર્સ", "hindiPronunciation": "दिस कोर्स", "gujaratiMeaning": "આ અભ્યાસક્રમ", "hindiMeaning": "यह पाठ्यक्रम" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He delivered a discourse on political reform.",
+          "gujaratiTranslation": "તેમણે રાજકીય સુધારા પર પ્રવચન આપ્યું.",
+          "hindiTranslation": "उन्होंने राजनीतिक सुधार पर एक प्रवचन दिया।",
+          "gujaratiPronunciation": "હી ડિલિવર્ડ અ ડિસ્કોર્સ ઓન પોલિટિકલ રિફોર્મ.",
+          "hindiPronunciation": "ही डिलिवर्ड अ डिस्कोर्स ऑन पॉलिटिकल रिफॉर्म।"
+        }
+      ]
+    }
+  ]
+}

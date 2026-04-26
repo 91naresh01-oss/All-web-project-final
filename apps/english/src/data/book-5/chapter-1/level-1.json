@@ -1,0 +1,146 @@
+{
+    "id": "level-1",
+    "title": "Level 1: Core Interactions",
+    "words": [
+        {
+            "word": "Meet",
+            "gujaratiPronunciation": "મીટ",
+            "hindiPronunciation": "मीट",
+            "gujaratiMeaning": "મળવું, ભેટવું",
+            "hindiMeaning": "मिलना, भेंट करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Meet", "gujaratiPronunciation": "મીટ", "hindiPronunciation": "मीट", "gujaratiMeaning": "મળવું", "hindiMeaning": "मिलना" },
+                "V2 (Past)": { "word": "Met", "gujaratiPronunciation": "મેટ", "hindiPronunciation": "मेट", "gujaratiMeaning": "મળ્યા", "hindiMeaning": "मिले" },
+                "V3 (Past Participle)": { "word": "Met", "gujaratiPronunciation": "મેટ", "hindiPronunciation": "मेट", "gujaratiMeaning": "મળેલ", "hindiMeaning": "मिल चुके" },
+                "V4 (Present Participle)": { "word": "Meeting", "gujaratiPronunciation": "મીટિંગ", "hindiPronunciation": "मीटिंग", "gujaratiMeaning": "મળી રહ્યું છે", "hindiMeaning": "मिल रहा है" }
+            },
+            "synonyms": [
+                { "word": "Encounter", "gujaratiPronunciation": "એન્કાઉન્ટર", "hindiPronunciation": "एनकाउंटर", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" },
+                { "word": "Greet", "gujaratiPronunciation": "ગ્રીટ", "hindiPronunciation": "ग्रीट", "gujaratiMeaning": "અભિવાદન કરવું", "hindiMeaning": "अभिवादन करना" }
+            ],
+            "antonyms": [
+                { "word": "Avoid", "gujaratiPronunciation": "અવૉઇડ", "hindiPronunciation": "अवॉइड", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" },
+                { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ થવું", "hindiMeaning": "अलग होना" }
+            ],
+            "confusingWords": [
+                { "word": "Meat", "gujaratiPronunciation": "મીટ", "hindiPronunciation": "मीट", "gujaratiMeaning": "માંસ", "hindiMeaning": "मांस" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Let's meet for coffee tomorrow.", "gujaratiTranslation": "ચાલો કાલે કોફી માટે મળીએ.", "hindiTranslation": "चलो कल कॉफ़ी के लिए मिलते हैं।", "gujaratiPronunciation": "લેટ્સ મીટ ફોર કોફી ટુમોરો.", "hindiPronunciation": "लेट्स मीट फॉर कॉफी टुमॉरो।" }
+            ]
+        },
+        {
+            "word": "Share",
+            "gujaratiPronunciation": "શેર",
+            "hindiPronunciation": "शेयर",
+            "gujaratiMeaning": "વહેંચવું, ભાગ પાડવો",
+            "hindiMeaning": "बाँटना, साझा करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Share", "gujaratiPronunciation": "શેર", "hindiPronunciation": "शेयर", "gujaratiMeaning": "વહેંચવું", "hindiMeaning": "बाँटना" },
+                "V2 (Past)": { "word": "Shared", "gujaratiPronunciation": "શેર્ડ", "hindiPronunciation": "शेयर्ड", "gujaratiMeaning": "વહેંચ્યું", "hindiMeaning": "बाँटा" },
+                "V3 (Past Participle)": { "word": "Shared", "gujaratiPronunciation": "શેર્ડ", "hindiPronunciation": "शेयर्ड", "gujaratiMeaning": "વહેંચેલ", "hindiMeaning": "बाँट चुके" },
+                "V4 (Present Participle)": { "word": "Sharing", "gujaratiPronunciation": "શેરિંગ", "hindiPronunciation": "शेयरिंग", "gujaratiMeaning": "વહેંચી રહ્યું છે", "hindiMeaning": "बाँट रहा है" }
+            },
+            "synonyms": [
+                { "word": "Distribute", "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ", "hindiPronunciation": "डिस्ट्रिब्यूट", "gujaratiMeaning": "વિતરણ કરવું", "hindiMeaning": "वितरण करना" },
+                { "word": "Divide", "gujaratiPronunciation": "ડિવાઇડ", "hindiPronunciation": "डिवाइड", "gujaratiMeaning": "વિભાજન કરવું", "hindiMeaning": "विभाजित करना" }
+            ],
+            "antonyms": [
+                { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "રાખવું", "hindiMeaning": "रखना" },
+                { "word": "Withhold", "gujaratiPronunciation": "વિથહોલ્ડ", "hindiPronunciation": "विथहोल्ड", "gujaratiMeaning": "અટકાવી રાખવું", "hindiMeaning": "रोक रखना" }
+            ],
+            "confusingWords": [
+                { "word": "Chair", "gujaratiPronunciation": "ચેર", "hindiPronunciation": "चेयर", "gujaratiMeaning": "ખુરશી", "hindiMeaning": "कुर्सी" }
+            ],
+            "exampleSentences": [
+                { "sentence": "It's important to share your toys with your friends.", "gujaratiTranslation": "તમારા મિત્રો સાથે તમારા રમકડાં વહેંચવા મહત્વપૂર્ણ છે.", "hindiTranslation": "अपने दोस्तों के साथ अपने खिलौne साझा करना महत्वपूर्ण है।", "gujaratiPronunciation": "ઇટ્સ ઇમ્પોર્ટન્ટ ટુ શેર યોર ટોય્ઝ વિથ યોર ફ્રેન્ડ્સ.", "hindiPronunciation": "इट्स इम्पोर्टेंट टू शेयर योर टॉयज विद योर फ्रेंड्स।" }
+            ]
+        },
+        {
+            "word": "Trust",
+            "gujaratiPronunciation": "ટ્રસ્ટ",
+            "hindiPronunciation": "ट्रस्ट",
+            "gujaratiMeaning": "વિશ્વાસ કરવો, ભરોસો રાખવો",
+            "hindiMeaning": "विश्वास करना, भरोसा रखना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Trust", "gujaratiPronunciation": "ટ્રસ્ટ", "hindiPronunciation": "ट्रस्ट", "gujaratiMeaning": "વિશ્વાસ કરવો", "hindiMeaning": "विश्वास करना" },
+                "V2 (Past)": { "word": "Trusted", "gujaratiPronunciation": "ટ્રસ્ટેડ", "hindiPronunciation": "ट्रस्टेड", "gujaratiMeaning": "વિશ્વાસ કર્યો", "hindiMeaning": "विश्वास किया" },
+                "V3 (Past Participle)": { "word": "Trusted", "gujaratiPronunciation": "ટ્રસ્ટેડ", "hindiPronunciation": "ट्रस्टेड", "gujaratiMeaning": "વિશ્વાસ કરેલ", "hindiMeaning": "विश्वास कर चुके" },
+                "V4 (Present Participle)": { "word": "Trusting", "gujaratiPronunciation": "ટ્રસ્ટિંગ", "hindiPronunciation": "ट्रस्टिंग", "gujaratiMeaning": "વિશ્વાસ કરી રહ્યું છે", "hindiMeaning": "विश्वास कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Believe", "gujaratiPronunciation": "બિલીવ", "hindiPronunciation": "बिलीव", "gujaratiMeaning": "માનવું", "hindiMeaning": "मानना" },
+                { "word": "Rely on", "gujaratiPronunciation": "રિલાય ઓન", "hindiPronunciation": "रिलाय ऑन", "gujaratiMeaning": "આધાર રાખવો", "hindiMeaning": "निर्भर रहना" }
+            ],
+            "antonyms": [
+                { "word": "Doubt", "gujaratiPronunciation": "ડાઉટ", "hindiPronunciation": "डाउट", "gujaratiMeaning": "શંકા કરવી", "hindiMeaning": "संदेह करना" },
+                { "word": "Distrust", "gujaratiPronunciation": "ડિસ્ટ્રસ્ટ", "hindiPronunciation": "डिस्ट्रस्ट", "gujaratiMeaning": "અવિશ્વાસ કરવો", "hindiMeaning": "अविश्वास करना" }
+            ],
+            "confusingWords": [
+                { "word": "Thrust", "gujaratiPronunciation": "થ્રસ્ટ", "hindiPronunciation": "थ्रस्ट", "gujaratiMeaning": "ધક્કો મારવો", "hindiMeaning": "धक्का देना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "You can trust me to keep your secret.", "gujaratiTranslation": "તમે તમારું રહસ્ય રાખવા માટે મારા પર વિશ્વાસ કરી શકો છો.", "hindiTranslation": "तुम अपना रहस्य रखने के लिए मुझ पर भरोसा कर सकते हो।", "gujaratiPronunciation": "યુ કેન ટ્રસ્ટ મી ટુ કીપ યોર સીક્રેટ.", "hindiPronunciation": "यू कैन ट्रस्ट मी टू कीप योर सीक्रेट।" }
+            ]
+        },
+        {
+            "word": "Agree",
+            "gujaratiPronunciation": "એગ્રી",
+            "hindiPronunciation": "एग्री",
+            "gujaratiMeaning": "સંમત થવું",
+            "hindiMeaning": "सहमत होना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Agree", "gujaratiPronunciation": "એગ્રી", "hindiPronunciation": "एग्री", "gujaratiMeaning": "સંમત થવું", "hindiMeaning": "सहमत होना" },
+                "V2 (Past)": { "word": "Agreed", "gujaratiPronunciation": "એગ્રીડ", "hindiPronunciation": "एग्रीड", "gujaratiMeaning": "સંમત થયા", "hindiMeaning": "सहमत हुए" },
+                "V3 (Past Participle)": { "word": "Agreed", "gujaratiPronunciation": "એગ્રીડ", "hindiPronunciation": "एग्रीड", "gujaratiMeaning": "સંમત થયેલ", "hindiMeaning": "सहमत हो चुके" },
+                "V4 (Present Participle)": { "word": "Agreeing", "gujaratiPronunciation": "એગ્રીઇંગ", "hindiPronunciation": "एग्रीइंग", "gujaratiMeaning": "સંમત થઈ રહ્યું છે", "hindiMeaning": "सहमत हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Consent", "gujaratiPronunciation": "કન્સેન્ટ", "hindiPronunciation": "कंसेंट", "gujaratiMeaning": "મંજૂરી આપવી", "hindiMeaning": "सहमति देना" },
+                { "word": "Concur", "gujaratiPronunciation": "કન્કર", "hindiPronunciation": "कंकर", "gujaratiMeaning": "સહમત થવું", "hindiMeaning": "सहमत होना" }
+            ],
+            "antonyms": [
+                { "word": "Disagree", "gujaratiPronunciation": "ડિસએગ્રી", "hindiPronunciation": "डिसएग्री", "gujaratiMeaning": "અસંમત થવું", "hindiMeaning": "असहमत होना" },
+                { "word": "Refuse", "gujaratiPronunciation": "રિફ્યુઝ", "hindiPronunciation": "रिफ्यूज", "gujaratiMeaning": "ઇનકાર કરવો", "hindiMeaning": "इनकार करना" }
+            ],
+            "confusingWords": [
+                { "word": "Angry", "gujaratiPronunciation": "એંગ્રી", "hindiPronunciation": "एंग्री", "gujaratiMeaning": "ગુસ્સે", "hindiMeaning": "गुस्सा" }
+            ],
+            "exampleSentences": [
+                { "sentence": "I agree with your point of view.", "gujaratiTranslation": "હું તમારા દૃષ્ટિકોણ સાથે સંમત છું.", "hindiTranslation": "मैं आपके दृष्टिकोण से सहमत हूँ।", "gujaratiPronunciation": "આઈ એગ્રી વિથ યોર પોઈન્ટ ઓફ વ્યૂ.", "hindiPronunciation": "आई एग्री विद योर पॉइंट ऑफ व्यू।" }
+            ]
+        },
+        {
+            "word": "Follow",
+            "gujaratiPronunciation": "ફોલો",
+            "hindiPronunciation": "फॉलो",
+            "gujaratiMeaning": "અનુસરણ કરવું, પાછળ જવું",
+            "hindiMeaning": "अनुसरण करना, पीछे जाना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Follow", "gujaratiPronunciation": "ફોલો", "hindiPronunciation": "फॉलो", "gujaratiMeaning": "અનુસરણ કરવું", "hindiMeaning": "अनुसरण करना" },
+                "V2 (Past)": { "word": "Followed", "gujaratiPronunciation": "ફોલોડ", "hindiPronunciation": "फॉलोड", "gujaratiMeaning": "અનુસરણ કર્યું", "hindiMeaning": "अनुसरण किया" },
+                "V3 (Past Participle)": { "word": "Followed", "gujaratiPronunciation": "ફોલોડ", "hindiPronunciation": "फॉलोड", "gujaratiMeaning": "અનુસરણ કરેલ", "hindiMeaning": "अनुसरण कर चुके" },
+                "V4 (Present Participle)": { "word": "Following", "gujaratiPronunciation": "ફોલોઇંગ", "hindiPronunciation": "फॉलोइंग", "gujaratiMeaning": "અનુસરણ કરી રહ્યું છે", "hindiMeaning": "अनुसरण कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Pursue", "gujaratiPronunciation": "પર્સ્યુ", "hindiPronunciation": "पर्स्यू", "gujaratiMeaning": "પીછો કરવો", "hindiMeaning": "पीछा करना" },
+                { "word": "Obey", "gujaratiPronunciation": "ઓબે", "hindiPronunciation": "ओबे", "gujaratiMeaning": "આજ્ઞાનું પાલન કરવું", "hindiMeaning": "आज्ञा का पालन करना" }
+            ],
+            "antonyms": [
+                { "word": "Lead", "gujaratiPronunciation": "લીડ", "hindiPronunciation": "लीड", "gujaratiMeaning": "નેતૃત્વ કરવું", "hindiMeaning": "नेतृत्व करना" },
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Hollow", "gujaratiPronunciation": "હોલો", "hindiPronunciation": "हॉलो", "gujaratiMeaning": "પોલું", "hindiMeaning": "खोखला" }
+            ],
+            "exampleSentences": [
+                { "sentence": "You must follow the rules of the game.", "gujaratiTranslation": "તમારે રમતના નિયમોનું પાલન કરવું જ જોઈએ.", "hindiTranslation": "आपको खेल के नियमों का पालन करना होगा।", "gujaratiPronunciation": "યુ મસ્ટ ફોલો ધ રૂલ્સ ઓફ ધ ગેમ.", "hindiPronunciation": "यू मस्ट फॉलो द रूल्स ऑफ द गेम।" }
+            ]
+        }
+    ]
+}

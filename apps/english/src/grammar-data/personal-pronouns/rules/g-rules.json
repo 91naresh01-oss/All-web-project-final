@@ -1,0 +1,334 @@
+
+{
+  "id": "personal-pronouns-gu",
+  "title": "Personal Pronouns (વ્યક્તિવાચક સર્વનામ)",
+  "lang": "gu",
+  "content": [
+    {
+      "type": "heading",
+      "content": "💡 Personal Pronouns શું છે?"
+    },
+    {
+      "type": "paragraph",
+      "content": "અંગ્રેજી વ્યાકરણમાં Personal Pronouns એ એવા શબ્દો છે જે કોઈ વ્યક્તિ/વસ્તુના નામની જગ્યાએ વપરાય છે જેથી નામ વારંવાર લખવાનું ન પડે."
+    },
+    {
+      "type": "table",
+      "content": {
+        "title": "📘 1. Personal Pronouns નો ચાર્ટ",
+        "headers": [
+          "Person",
+          "Number",
+          "Subject Pronoun",
+          "Object Pronoun",
+          "Possessive Adjective",
+          "Possessive Pronoun"
+        ],
+        "rows": [
+          [
+            "First Person",
+            "Singular",
+            "I (હું)",
+            "Me (મને)",
+            "My (મારું)",
+            "Mine (મારું)"
+          ],
+          [
+            "",
+            "Plural",
+            "We (અમે)",
+            "Us (અમને)",
+            "Our (અમારું)",
+            "Ours (અમારું)"
+          ],
+          [
+            "Second Person",
+            "Singular/Plural",
+            "You (તું/તમે)",
+            "You (તમને)",
+            "Your (તમારું)",
+            "Yours (તમારું)"
+          ],
+          [
+            "Third Person",
+            "Singular (Male)",
+            "He (તે)",
+            "Him (તેને)",
+            "His (તેનું)",
+            "His (તેનું)"
+          ],
+          [
+            "",
+            "Singular (Female)",
+            "She (તેણી)",
+            "Her (તેણીને)",
+            "Her (તેણીનું)",
+            "Hers (તેણીનું)"
+          ],
+          [
+            "",
+            "Singular (Neutral)",
+            "It (વસ્તુ/જંતુ)",
+            "It",
+            "Its (તેનું)",
+            "-"
+          ],
+          [
+            "",
+            "Plural",
+            "They (તેઓ)",
+            "Them (તેઓને)",
+            "Their (તેઓનું)",
+            "Theirs (તેઓનું)"
+          ]
+        ]
+      }
+    },
+    {
+        "type": "heading",
+        "content": "🚀 Personal Pronouns – All Rules + Examples + Explained (Full Mega Pack)"
+    },
+    {
+        "type": "paragraph",
+        "content": "(Gen-Z Gujarati mode: clean, short, stylish🔥)"
+    },
+    {
+      "type": "heading",
+      "content": "🧠 1️⃣ SUBJECT PRONOUNS (કર્તા)"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 Sentence માં action કરનાર."
+    },
+    {
+      "type": "list",
+      "content": [
+        "I play.",
+        "She is smart.",
+        "They are here."
+      ]
+    },
+    {
+        "type": "note",
+        "content": "💡 **Why?**<br/>કર્તા એટલે work કોણ કરે છે."
+    },
+    {
+      "type": "heading",
+      "content": "🎯 2️⃣ OBJECT PRONOUNS (કર્મ)"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 Action જેને મળે છે / Preposition પછી આવે છે."
+    },
+    {
+      "type": "list",
+      "content": [
+        "He called me.",
+        "I will help them.",
+        "Give it to her."
+      ]
+    },
+    {
+        "type": "note",
+        "content": "💡 **Why?**<br/>Verb પછી હંમેશા object આવે."
+    },
+     {
+      "type": "heading",
+      "content": "🏠 3️⃣ POSSESSIVE ADJECTIVES"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 પછી noun આવે."
+    },
+    {
+      "type": "list",
+      "content": [
+        "This is my book.",
+        "That is their car."
+      ]
+    },
+    {
+        "type": "note",
+        "content": "💡 **Why?**<br/>Ownership + Noun combo."
+    },
+     {
+      "type": "heading",
+      "content": "🔑 4️⃣ POSSESSIVE PRONOUNS (Noun નથી આવતું)"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 mine, yours, his, hers, ours, theirs"
+    },
+    {
+      "type": "list",
+      "content": [
+        "This book is mine.",
+        "The house is theirs."
+      ]
+    },
+    {
+        "type": "note",
+        "content": "💡 **Why?**<br/>Ownership alone."
+    },
+    {
+      "type": "heading",
+      "content": "🪞 5️⃣ REFLEXIVE PRONOUNS"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 Action પોતાના ઉપર → myself, yourself, himself…"
+    },
+    {
+      "type": "list",
+      "content": [
+        "I hurt myself.",
+        "They enjoyed themselves."
+      ]
+    },
+    {
+        "type": "note",
+        "content": "💡 **Why?**<br/>Doer & receiver same."
+    },
+    {
+      "type": "heading",
+      "content": "🫱🏼‍🫲🏻 6️⃣ RECIPROCAL PRONOUNS"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 બે લોકો → each other<br/>👉 ઘણા → one another"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Twins love each other.",
+        "Students help one another."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "⚖️ 7️⃣ 231 RULE (Order of Pronouns)"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 Positive sentence → You → He/She → I"
+    },
+    {
+      "type": "list",
+      "content": [
+        "✔ **Correct:** You, he and I will go.",
+        "❌ **Wrong:** I, you and he will go."
+      ]
+    },
+    {
+        "type": "note",
+        "content": "💡 **Why?**<br/>Respect order → 2 → 3 → 1"
+    },
+    {
+      "type": "heading",
+      "content": "🪫 8️⃣ Preposition પછી Object Case"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 between, to, for, with… પછી → me, him, her, us, them"
+    },
+    {
+      "type": "list",
+      "content": [
+        "✔ **Examples:**",
+        "between you and me",
+        "with him",
+        "for them",
+        "❌ **Wrong:** between you and I"
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "🌧 9️⃣ “IT” નો સાચો ઉપયોગ"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 Weather, time, distance, animal, thing"
+    },
+    {
+      "type": "list",
+      "content": [
+        "It is raining.",
+        "It is 4 PM.",
+        "I have a cat. It is cute."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "🏁 🔟 Comparison Rule (than/as)"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 Formal → Subject Case<br/>👉 Informal → Object Case"
+    },
+    {
+      "type": "list",
+      "content": [
+        "✔ **Formal:** He is taller than I (am).",
+        "✔ **Spoken:** He is taller than me."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "📝 1️⃣1️⃣ Pronoun + Noun Rule"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 Pronoun હંમેશા noun પહેલાં"
+    },
+    {
+      "type": "list",
+      "content": [
+        "✔ **Examples:**",
+        "We students will speak.",
+        "You boys come here.",
+        "❌ **Wrong:** Students we will speak."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "🧍‍♂️🧍‍♀️ 1️⃣2️⃣ Gender-Neutral “They”"
+    },
+    {
+      "type": "paragraph",
+      "content": "👉 Gender unknown હોય તો “They”"
+    },
+    {
+      "type": "list",
+      "content": [
+        "Someone called. They left no message.",
+        "Each student must bring their ID."
+      ]
+    },
+    {
+      "type": "heading",
+      "content": "🚫 1️⃣3️⃣ Common Mistakes Fix"
+    },
+    {
+      "type": "table",
+      "content": {
+        "headers": ["Wrong", "Correct", "Why"],
+        "rows": [
+          ["Me and Rahul went", "Rahul and I went", "Start → Subject"],
+          ["This is him bag", "This is his bag", "Ownership"],
+          ["It’s tail", "Its tail", "It’s = it is"],
+          ["She gave to we", "She gave to us", "Preposition"]
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "content": "📦 BONUS PACK (FREE🔥)"
+    },
+    {
+      "type": "note",
+      "content": "✔ **SUMMARY SHORT NOTES**<br/>• Subject → I, we, you, he, she, it, they<br/>• Object → me, us, you, him, her, it, them<br/>• Possessive Adj → my, our, your, his, her, its, their<br/>• Possessive Pronoun → mine, ours, yours, his, hers, theirs<br/>• Reflexive → myself, yourself, himself…<br/>• Order → 2 → 3 → 1<br/>• Preposition પછી object<br/>• Comparison → than + (I/me)"
+    }
+  ]
+}
+
+    

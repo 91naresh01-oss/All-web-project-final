@@ -1,0 +1,453 @@
+{
+  "id": "level-2",
+  "title": "Movement Verbs 2",
+  "words": [
+    {
+      "word": "Bolt",
+      "gujaratiPronunciation": "બોલ્ટ",
+      "hindiPronunciation": "बोल्ट",
+      "gujaratiMeaning": "ઝડપથી ભાગી જવું, આગળો",
+      "hindiMeaning": "तेज़ी से भाग जाना, सिटकनी",
+      "partOfSpeech": "Verb / Noun",
+      "verbForms": {
+        "V1": {
+          "word": "Bolt",
+          "gujaratiPronunciation": "બોલ્ટ",
+          "hindiPronunciation": "बोल्ट",
+          "gujaratiMeaning": "ભાગી જવું",
+          "hindiMeaning": "भाग जाना"
+        },
+        "V2": {
+          "word": "Bolted",
+          "gujaratiPronunciation": "બોલ્ટેડ",
+          "hindiPronunciation": "बोल्टेड",
+          "gujaratiMeaning": "ભાગી ગયો",
+          "hindiMeaning": "भाग गया"
+        },
+        "V3": {
+          "word": "Bolted",
+          "gujaratiPronunciation": "બોલ્ટેડ",
+          "hindiPronunciation": "बोल्टेड",
+          "gujaratiMeaning": "ભાગી ગયેલો",
+          "hindiMeaning": "भाग चुका"
+        },
+        "V4": {
+          "word": "Bolting",
+          "gujaratiPronunciation": "બોલ્ટિંગ",
+          "hindiPronunciation": "बोल्टिंग",
+          "gujaratiMeaning": "ભાગી રહ્યો છે",
+          "hindiMeaning": "भाग रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Dash",
+          "gujaratiPronunciation": "ડેશ",
+          "hindiPronunciation": "डैश",
+          "gujaratiMeaning": "ઝડપથી દોડવું",
+          "hindiMeaning": "तेज़ी से दौड़ना"
+        },
+        {
+          "word": "Flee",
+          "gujaratiPronunciation": "ફ્લી",
+          "hindiPronunciation": "फ्ली",
+          "gujaratiMeaning": "ભાગી જવું",
+          "hindiMeaning": "भाग जाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Stroll",
+          "gujaratiPronunciation": "સ્ટ્રોલ",
+          "hindiPronunciation": "स्ट्रोल",
+          "gujaratiMeaning": "ધીમે ધીમે ચાલવું",
+          "hindiMeaning": "धीरे-धीरे चलना"
+        },
+        {
+          "word": "Stay",
+          "gujaratiPronunciation": "સ્ટે",
+          "hindiPronunciation": "स्टे",
+          "gujaratiMeaning": "રહેવું",
+          "hindiMeaning": "रहना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Bold",
+          "gujaratiPronunciation": "બોલ્ડ",
+          "hindiPronunciation": "बोल्ड",
+          "gujaratiMeaning": "હિંમતવાન",
+          "hindiMeaning": "साहसी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The horse bolted from the stable.",
+          "gujaratiTranslation": "ઘોડો તબેલામાંથી ઝડપથી ભાગી ગયો.",
+          "hindiTranslation": "घोड़ा अस्तबल से तेज़ी से भाग गया।",
+          "gujaratiPronunciation": "ધ હૉર્સ બોલ્ટેડ ફ્રોમ ધ સ્ટેબલ.",
+          "hindiPronunciation": "द हॉर्स बोल्टेड फ्रॉम द स्टेबल।"
+        }
+      ]
+    },
+    {
+      "word": "Poise",
+      "gujaratiPronunciation": "પૉઇઝ",
+      "hindiPronunciation": "पॉइज़",
+      "gujaratiMeaning": "સંતુલન રાખવું, શાંતિ",
+      "hindiMeaning": "संतुलन रखना, शांति",
+      "partOfSpeech": "Verb / Noun",
+      "verbForms": {
+        "V1": {
+          "word": "Poise",
+          "gujaratiPronunciation": "પૉઇઝ",
+          "hindiPronunciation": "पॉइज़",
+          "gujaratiMeaning": "સંતુલન રાખવું",
+          "hindiMeaning": "संतुलन रखना"
+        },
+        "V2": {
+          "word": "Poised",
+          "gujaratiPronunciation": "પૉઇઝ્ડ",
+          "hindiPronunciation": "पॉइज़्ड",
+          "gujaratiMeaning": "સંતુલન રાખ્યું",
+          "hindiMeaning": "संतुलन रखा"
+        },
+        "V3": {
+          "word": "Poised",
+          "gujaratiPronunciation": "પૉઇઝ્ડ",
+          "hindiPronunciation": "पॉइज़्ड",
+          "gujaratiMeaning": "સંતુલન રાખેલું",
+          "hindiMeaning": "संतुलन रख चुका"
+        },
+        "V4": {
+          "word": "Poising",
+          "gujaratiPronunciation": "પૉઇઝિંગ",
+          "hindiPronunciation": "पॉइज़िंग",
+          "gujaratiMeaning": "સંતુલન રાખી રહ્યો છે",
+          "hindiMeaning": "संतुलन रख रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Balance",
+          "gujaratiPronunciation": "બેલેન્સ",
+          "hindiPronunciation": "बैलेंस",
+          "gujaratiMeaning": "સંતુલન",
+          "hindiMeaning": "संतुलन"
+        },
+        {
+          "word": "Composure",
+          "gujaratiPronunciation": "કમ્પોઝર",
+          "hindiPronunciation": "कम्पोज़र",
+          "gujaratiMeaning": "આત્મસંયમ",
+          "hindiMeaning": "आत्मसंयम"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Agitation",
+          "gujaratiPronunciation": "એજિટેશન",
+          "hindiPronunciation": "एजिटेशन",
+          "gujaratiMeaning": "ઉશ્કેરાટ",
+          "hindiMeaning": "व्याकुलता"
+        },
+        {
+          "word": "Panic",
+          "gujaratiPronunciation": "પેનિક",
+          "hindiPronunciation": "पैनिक",
+          "gujaratiMeaning": "ગભરાટ",
+          "hindiMeaning": "घबराहट"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Poison",
+          "gujaratiPronunciation": "પૉઇઝન",
+          "hindiPronunciation": "पॉइज़न",
+          "gujaratiMeaning": "ઝેર",
+          "hindiMeaning": "ज़हर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The dancer was praised for her poise and grace.",
+          "gujaratiTranslation": "નૃત્યાંગનાની તેના સંતુલન અને સુંદરતા માટે પ્રશંસા કરવામાં આવી.",
+          "hindiTranslation": "नर्तकी की उसके संतुलन और सुंदरता के लिए प्रशंसा की गई।",
+          "gujaratiPronunciation": "ધ ડાન્સર વૉઝ પ્રેઇઝ્ડ ફૉર હર પૉઇઝ એન્ડ ગ્રેસ.",
+          "hindiPronunciation": "द डांसर वॉज़ प्रेज़्ड फॉर हर पॉइज़ एंड ग्रेस।"
+        }
+      ]
+    },
+    {
+      "word": "Perch",
+      "gujaratiPronunciation": "પર્ચ",
+      "hindiPronunciation": "पर्च",
+      "gujaratiMeaning": "ઊંચી જગ્યાએ બેસવું",
+      "hindiMeaning": "ऊँची जगह पर बैठना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Perch",
+          "gujaratiPronunciation": "પર્ચ",
+          "hindiPronunciation": "पर्च",
+          "gujaratiMeaning": "બેસવું",
+          "hindiMeaning": "बैठना"
+        },
+        "V2": {
+          "word": "Perched",
+          "gujaratiPronunciation": "પર્ચ્ડ",
+          "hindiPronunciation": "पर्च्ड",
+          "gujaratiMeaning": "બેઠો",
+          "hindiMeaning": "बैठा"
+        },
+        "V3": {
+          "word": "Perched",
+          "gujaratiPronunciation": "પર્ચ્ડ",
+          "hindiPronunciation": "पर्च्ड",
+          "gujaratiMeaning": "બેઠેલો",
+          "hindiMeaning": "बैठ चुका"
+        },
+        "V4": {
+          "word": "Perching",
+          "gujaratiPronunciation": "પર્ચિંગ",
+          "hindiPronunciation": "पर्चिंग",
+          "gujaratiMeaning": "બેસી રહ્યો છે",
+          "hindiMeaning": "बैठ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Sit",
+          "gujaratiPronunciation": "સિટ",
+          "hindiPronunciation": "सिट",
+          "gujaratiMeaning": "બેસવું",
+          "hindiMeaning": "बैठना"
+        },
+        {
+          "word": "Roost",
+          "gujaratiPronunciation": "રૂસ્ટ",
+          "hindiPronunciation": "रूस्ट",
+          "gujaratiMeaning": "આશરો લેવો",
+          "hindiMeaning": "आशियाना बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Move",
+          "gujaratiPronunciation": "મૂવ",
+          "hindiPronunciation": "मूव",
+          "gujaratiMeaning": "ખસવું",
+          "hindiMeaning": "हिलना"
+        },
+        {
+          "word": "Fly",
+          "gujaratiPronunciation": "ફ્લાય",
+          "hindiPronunciation": "फ्लाई",
+          "gujaratiMeaning": "ઉડવું",
+          "hindiMeaning": "उड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Porch",
+          "gujaratiPronunciation": "પોર્ચ",
+          "hindiPronunciation": "पोर्च",
+          "gujaratiMeaning": "ઓસરી",
+          "hindiMeaning": "बरामदा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A bird was perched on the branch of the tree.",
+          "gujaratiTranslation": "એક પક્ષી ઝાડની ડાળી પર બેઠું હતું.",
+          "hindiTranslation": "एक पक्षी पेड़ की डाल पर बैठा था।",
+          "gujaratiPronunciation": "અ બર્ડ વૉઝ પર્ચ્ડ ઓન ધ બ્રાન્ચ ઓફ ધ ટ્રી.",
+          "hindiPronunciation": "अ बर्ड वॉज़ पर्च्ड ऑन द ब्रांच ऑफ़ द ट्री।"
+        }
+      ]
+    },
+    {
+      "word": "Dart",
+      "gujaratiPronunciation": "ડાર્ટ",
+      "hindiPronunciation": "डार्ट",
+      "gujaratiMeaning": "ઝડપથી ખસવું, ભાલો",
+      "hindiMeaning": "तेज़ी से हिलना, भाला",
+      "partOfSpeech": "Verb / Noun",
+      "verbForms": {
+        "V1": {
+          "word": "Dart",
+          "gujaratiPronunciation": "ડાર્ટ",
+          "hindiPronunciation": "डार्ट",
+          "gujaratiMeaning": "ઝડપથી ખસવું",
+          "hindiMeaning": "तेज़ी से हिलना"
+        },
+        "V2": {
+          "word": "Darted",
+          "gujaratiPronunciation": "ડાર્ટેડ",
+          "hindiPronunciation": "डार्टेड",
+          "gujaratiMeaning": "ઝડપથી ખસ્યો",
+          "hindiMeaning": "तेज़ी से हिला"
+        },
+        "V3": {
+          "word": "Darted",
+          "gujaratiPronunciation": "ડાર્ટેડ",
+          "hindiPronunciation": "डार्टेड",
+          "gujaratiMeaning": "ઝડપથી ખસેલો",
+          "hindiMeaning": "तेज़ी से हिल चुका"
+        },
+        "V4": {
+          "word": "Darting",
+          "gujaratiPronunciation": "ડાર્ટિંગ",
+          "hindiPronunciation": "डार्टिंग",
+          "gujaratiMeaning": "ઝડપથી ખસી રહ્યો છે",
+          "hindiMeaning": "तेज़ी से हिल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rush",
+          "gujaratiPronunciation": "રશ",
+          "hindiPronunciation": "रश",
+          "gujaratiMeaning": "ધસી જવું",
+          "hindiMeaning": "तेज़ी से जाना"
+        },
+        {
+          "word": "Zip",
+          "gujaratiPronunciation": "ઝિપ",
+          "hindiPronunciation": "ज़िप",
+          "gujaratiMeaning": "સરકવું",
+          "hindiMeaning": "तेज़ी से निकलना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Crawl",
+          "gujaratiPronunciation": "ક્રૉલ",
+          "hindiPronunciation": "क्रॉल",
+          "gujaratiMeaning": "સરકવું",
+          "hindiMeaning": "रेंगना"
+        },
+        {
+          "word": "Amble",
+          "gujaratiPronunciation": "એમ્બલ",
+          "hindiPronunciation": "एम्बल",
+          "gujaratiMeaning": "ધીમે ચાલવું",
+          "hindiMeaning": "धीरे-धीरे चलना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Dirt",
+          "gujaratiPronunciation": "ડર્ટ",
+          "hindiPronunciation": "डर्ट",
+          "gujaratiMeaning": "ગંદકી",
+          "hindiMeaning": "गंदगी"
+        },
+        {
+          "word": "Dark",
+          "gujaratiPronunciation": "ડાર્ક",
+          "hindiPronunciation": "डार्क",
+          "gujaratiMeaning": "અંધારું",
+          "hindiMeaning": "अंधेरा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The lizard darted under the rock.",
+          "gujaratiTranslation": "ગરોળી પથ્થર નીચે ઝડપથી ખસી ગઈ.",
+          "hindiTranslation": "छिपकली पत्थर के नीचे तेज़ी से चली गई।",
+          "gujaratiPronunciation": "ધ લિઝાર્ડ ડાર્ટેડ અન્ડર ધ રૉક.",
+          "hindiPronunciation": "द लिज़ार्ड डार्टेड अंडर द रॉक।"
+        }
+      ]
+    },
+    {
+      "word": "Snatch",
+      "gujaratiPronunciation": "સ્નેચ",
+      "hindiPronunciation": "स्नैच",
+      "gujaratiMeaning": "ઝૂંટવી લેવું",
+      "hindiMeaning": "छीन लेना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Snatch",
+          "gujaratiPronunciation": "સ્નેચ",
+          "hindiPronunciation": "स्नैच",
+          "gujaratiMeaning": "ઝૂંટવી લેવું",
+          "hindiMeaning": "छीन लेना"
+        },
+        "V2": {
+          "word": "Snatched",
+          "gujaratiPronunciation": "સ્નેચ્ડ",
+          "hindiPronunciation": "स्नैच्ड",
+          "gujaratiMeaning": "ઝૂંટવી લીધું",
+          "hindiMeaning": "छीन लिया"
+        },
+        "V3": {
+          "word": "Snatched",
+          "gujaratiPronunciation": "સ્નેચ્ડ",
+          "hindiPronunciation": "स्नैच्ड",
+          "gujaratiMeaning": "ઝૂંટવી લીધેલું",
+          "hindiMeaning": "छीन चुका"
+        },
+        "V4": {
+          "word": "Snatching",
+          "gujaratiPronunciation": "સ્નેચિંગ",
+          "hindiPronunciation": "स्नैचिंग",
+          "gujaratiMeaning": "ઝૂંટવી રહ્યો છે",
+          "hindiMeaning": "छीन रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Grab",
+          "gujaratiPronunciation": "ગ્રેબ",
+          "hindiPronunciation": "ग्रैब",
+          "gujaratiMeaning": "પકડી લેવું",
+          "hindiMeaning": "पकड़ लेना"
+        },
+        {
+          "word": "Seize",
+          "gujaratiPronunciation": "સીઝ",
+          "hindiPronunciation": "सीज़",
+          "gujaratiMeaning": "જપ્ત કરવું",
+          "hindiMeaning": "ज़ब्त करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Give",
+          "gujaratiPronunciation": "ગિવ",
+          "hindiPronunciation": "गिव",
+          "gujaratiMeaning": "આપવું",
+          "hindiMeaning": "देना"
+        },
+        {
+          "word": "Release",
+          "gujaratiPronunciation": "રિલીઝ",
+          "hindiPronunciation": "रिलीज़",
+          "gujaratiMeaning": "છોડવું",
+          "hindiMeaning": "छोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Match",
+          "gujaratiPronunciation": "મેચ",
+          "hindiPronunciation": "मैच",
+          "gujaratiMeaning": "સ્પર્ધા",
+          "hindiMeaning": "मैच"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The thief tried to snatch her purse.",
+          "gujaratiTranslation": "ચોરે તેનું પર્સ ઝૂંટવી લેવાનો પ્રયત્ન કર્યો.",
+          "hindiTranslation": "चोर ने उसका पर्स छीनने की कोशिश की।",
+          "gujaratiPronunciation": "ધ થીફ ટ્રાઇડ ટુ સ્નેચ હર પર્સ.",
+          "hindiPronunciation": "द थीफ ट्राइड टू स्नैच हर पर्स।"
+        }
+      ]
+    }
+  ]
+}

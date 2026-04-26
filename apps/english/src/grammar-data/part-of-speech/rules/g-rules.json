@@ -1,0 +1,441 @@
+{
+    "id": "part-of-speech-gu",
+    "title": "Parts of Speech (શબ્દભેદ)",
+    "content": [
+        {
+            "type": "section",
+            "title": "📚 Introduction (પરિચય)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "અંગ્રેજી ભાષામાં <b>8 પ્રકારનાં Parts of Speech</b> છે. દરેક શબ્દ આમાંથી એક category માં આવે છે. આને <b>Word Family</b> પણ કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 8 Parts of Speech Overview",
+                        "headers": ["#", "Part of Speech", "ગુજરાતીમાં", "Quick Definition"],
+                        "rows": [
+                            ["1", "<b>Noun</b>", "નામ / સંજ્ઞા", "Naming word (नाम) - Person, Place, Thing"],
+                            ["2", "<b>Pronoun</b>", "સર્વનામ", "Replaces Noun - He, She, It, They"],
+                            ["3", "<b>Verb</b>", "ક્રિયાપદ", "Action/State word - Run, Is, Have"],
+                            ["4", "<b>Adjective</b>", "વિશેષણ", "Describes Noun - Good, Big, Red"],
+                            ["5", "<b>Adverb</b>", "ક્રિયા વિશેષણ", "Describes Verb - Slowly, Very, Now"],
+                            ["6", "<b>Preposition</b>", "નામયોગી અવ્યય", "Shows relation - In, On, At, To"],
+                            ["7", "<b>Conjunction</b>", "સંયોજક", "Joins words - And, But, Or, Because"],
+                            ["8", "<b>Interjection</b>", "કેવળપ્રયોગી", "Expresses emotion - Wow!, Oh!, Alas!"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "1️⃣ Noun (નામ / સંજ્ઞા)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "કોઈપણ <b>વ્યક્તિ (Person), વસ્તુ (Thing), સ્થળ (Place), પ્રાણી (Animal)</b> કે <b>ભાવ (Idea/Feeling)</b> દર્શાવતા નામને <b>Noun</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Noun",
+                        "headers": ["Type", "ગુજરાતીમાં", "Definition", "Examples"],
+                        "rows": [
+                            ["<b>Common Noun</b>", "જાતિવાચક", "General name (સામાન્ય નામ)", "boy, city, book, river"],
+                            ["<b>Proper Noun</b>", "વ્યક્તિવાચક", "Specific name (ચોક્કસ નામ) - Capital letter", "Rahul, India, Ganga, Monday"],
+                            ["<b>Collective Noun</b>", "સમૂહવાચક", "Group name (સમૂહનું નામ)", "team, crowd, army, flock"],
+                            ["<b>Material Noun</b>", "દ્રવ્યવાચક", "Substance name (પદાર્થનું નામ)", "gold, water, wood, iron"],
+                            ["<b>Abstract Noun</b>", "ભાવવાચક", "Quality/Feeling name (ગુણ/ભાવનું નામ)", "happiness, love, honesty, fear"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔍 How to Identify Noun?",
+                        "headers": ["Question", "Answer = Noun"],
+                        "rows": [
+                            ["<b>કોણ?</b> (Who?)", "Rahul is playing. → <b>Rahul</b>"],
+                            ["<b>શું?</b> (What?)", "I bought a <b>book</b>."],
+                            ["<b>ક્યાં?</b> (Where?)", "He lives in <b>Mumbai</b>."]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Proper Noun નો પહેલો અક્ષર હંમેશા <b>Capital</b> હોય છે.<br>Example: <b>R</b>am, <b>I</b>ndia, <b>M</b>onday"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2️⃣ Pronoun (સર્વનામ)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>Noun</b> ના બદલે વપરાતા શબ્દને <b>Pronoun</b> કહે છે. આનાથી એક જ નામનું વારંવાર પુનરાવર્તન અટકે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Pronoun",
+                        "headers": ["Type", "ગુજરાતીમાં", "Examples"],
+                        "rows": [
+                            ["<b>Personal Pronoun</b>", "પુરુષવાચક", "I, We, You, He, She, It, They"],
+                            ["<b>Possessive Pronoun</b>", "માલિકીવાચક", "Mine, Ours, Yours, His, Hers, Theirs"],
+                            ["<b>Reflexive Pronoun</b>", "આત્મવાચક", "Myself, Ourselves, Yourself, Himself, Herself"],
+                            ["<b>Demonstrative Pronoun</b>", "નિદર્શનવાચક", "This, That, These, Those"],
+                            ["<b>Interrogative Pronoun</b>", "પ્રશ્નવાચક", "Who, Whom, Which, What, Whose"],
+                            ["<b>Relative Pronoun</b>", "સંબંધવાચક", "Who, Which, That, Whom, Whose"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Personal Pronoun Forms",
+                        "headers": ["Person", "Subject", "Object", "Possessive"],
+                        "rows": [
+                            ["1st Singular", "<b>I</b>", "me", "my/mine"],
+                            ["1st Plural", "<b>We</b>", "us", "our/ours"],
+                            ["2nd", "<b>You</b>", "you", "your/yours"],
+                            ["3rd Singular (M)", "<b>He</b>", "him", "his"],
+                            ["3rd Singular (F)", "<b>She</b>", "her", "her/hers"],
+                            ["3rd Singular (N)", "<b>It</b>", "it", "its"],
+                            ["3rd Plural", "<b>They</b>", "them", "their/theirs"]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Noun + Pronoun ક્યારેય સાથે ન આવે!<br>❌ <i>Rahul he is coming.</i><br>✅ <i>Rahul is coming.</i> OR <i>He is coming.</i>"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3️⃣ Verb (ક્રિયાપદ)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જે શબ્દ કોઈ <b>ક્રિયા (Action), સ્થિતિ (State)</b>, કે <b>માલિકી (Possession)</b> દર્શાવે છે, તેને <b>Verb</b> કહે છે. <b>Verb વિના વાક્ય બની શકતું નથી!</b>"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Verb",
+                        "headers": ["Type", "Definition", "Examples"],
+                        "rows": [
+                            ["<b>Main Verb</b>", "મુખ્ય ક્રિયા દર્શાવે", "go, eat, play, write, run, read"],
+                            ["<b>Helping Verb</b>", "Main Verb ને મદદ કરે", "is, am, are, was, were, has, have, do, does, did"],
+                            ["<b>Modal Verb</b>", "Ability/Permission/Possibility", "can, could, may, might, shall, should, will, would, must"],
+                            ["<b>Linking Verb</b>", "Subject ને Complement સાથે જોડે", "is, am, are, seem, appear, become, feel"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Verb Forms (V1, V2, V3)",
+                        "headers": ["V1 (Base)", "V2 (Past)", "V3 (Past Participle)", "V4 (ing)"],
+                        "rows": [
+                            ["go", "went", "gone", "going"],
+                            ["eat", "ate", "eaten", "eating"],
+                            ["write", "wrote", "written", "writing"],
+                            ["play", "played", "played", "playing"],
+                            ["run", "ran", "run", "running"]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> દરેક અંગ્રેજી વાક્યમાં ઓછામાં ઓછું <b>એક Verb</b> હોવું ફરજિયાત છે!<br>ભલે તે 'is', 'am', 'are' જેવું નાનું ક્રિયાપદ હોય."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4️⃣ Adjective (વિશેષણ)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જે શબ્દ <b>Noun</b> કે <b>Pronoun</b> ના અર્થમાં વધારો કરે (વિશેષતા દર્શાવે), તેને <b>Adjective</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Adjective",
+                        "headers": ["Type", "ગુજરાતીમાં", "Examples"],
+                        "rows": [
+                            ["<b>Adjective of Quality</b>", "ગુણવાચક", "good, bad, beautiful, tall, honest"],
+                            ["<b>Adjective of Quantity</b>", "પરિમાણવાચક", "some, much, little, enough, all"],
+                            ["<b>Adjective of Number</b>", "સંખ્યાવાચક", "one, two, first, second, many, few"],
+                            ["<b>Demonstrative Adjective</b>", "નિર્દેશવાચક", "this, that, these, those"],
+                            ["<b>Possessive Adjective</b>", "માલિકીવાચક", "my, your, his, her, our, their"],
+                            ["<b>Interrogative Adjective</b>", "પ્રશ્નવાચક", "which, what, whose"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔍 How to Identify Adjective?",
+                        "headers": ["Question", "Answer = Adjective"],
+                        "rows": [
+                            ["<b>કેવું?</b> (How is it?)", "She is <b>beautiful</b>."],
+                            ["<b>કેટલું?</b> (How much?)", "I have <b>some</b> money."],
+                            ["<b>કેટલા?</b> (How many?)", "There are <b>five</b> books."],
+                            ["<b>કયું?</b> (Which one?)", "<b>This</b> book is mine."]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Adjective હંમેશા Noun <b>પહેલાં</b> આવે!<br>Example: <b>beautiful</b> girl, <b>red</b> apple, <b>tall</b> building"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "5️⃣ Adverb (ક્રિયા વિશેષણ)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જે શબ્દ <b>Verb, Adjective</b> કે <b>બીજા Adverb</b> ના અર્થમાં વધારો કરે છે, તેને <b>Adverb</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Adverb",
+                        "headers": ["Type", "Question", "Examples"],
+                        "rows": [
+                            ["<b>Adverb of Manner</b>", "કેવી રીતે? (How?)", "slowly, quickly, carefully, well"],
+                            ["<b>Adverb of Time</b>", "ક્યારે? (When?)", "now, then, today, yesterday, always"],
+                            ["<b>Adverb of Place</b>", "ક્યાં? (Where?)", "here, there, everywhere, outside"],
+                            ["<b>Adverb of Frequency</b>", "કેટલી વાર? (How often?)", "always, never, often, sometimes"],
+                            ["<b>Adverb of Degree</b>", "કેટલું? (How much?)", "very, too, quite, almost, enough"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Adjective → Adverb Conversion",
+                        "headers": ["Adjective", "Adverb", "Rule"],
+                        "rows": [
+                            ["slow", "slow<b>ly</b>", "+ ly"],
+                            ["quick", "quick<b>ly</b>", "+ ly"],
+                            ["happy", "happi<b>ly</b>", "y → ily"],
+                            ["good", "<b>well</b>", "Irregular"],
+                            ["fast", "<b>fast</b>", "No change"]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> મોટાભાગના Adverbs ની પાછળ <b>-ly</b> આવે છે!<br>slow → slow<b>ly</b>, quick → quick<b>ly</b>"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "6️⃣ Preposition (નામયોગી અવ્યય)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જે શબ્દ <b>Noun/Pronoun</b> ની આગળ આવીને તેનો <b>સંબંધ</b> વાક્યના બીજા શબ્દો સાથે જોડે છે, તેને <b>Preposition</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Preposition",
+                        "headers": ["Type", "Usage", "Examples"],
+                        "rows": [
+                            ["<b>Preposition of Time</b>", "સમય માટે", "at (5 o'clock), in (morning), on (Monday)"],
+                            ["<b>Preposition of Place</b>", "સ્થળ માટે", "in (room), on (table), at (home)"],
+                            ["<b>Preposition of Direction</b>", "દિશા માટે", "to, from, into, towards, through"],
+                            ["<b>Preposition of Agent</b>", "કર્તા માટે", "by (Passive Voice માં)"],
+                            ["<b>Preposition of Instrument</b>", "સાધન માટે", "with (pen), by (bus)"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 In / On / At - Quick Rules",
+                        "headers": ["Preposition", "Time", "Place"],
+                        "rows": [
+                            ["<b>In</b>", "Month, Year, Season<br>(in January, in 2024)", "Big places - City, Country<br>(in India, in Mumbai)"],
+                            ["<b>On</b>", "Day, Date<br>(on Monday, on 5th Jan)", "Surface - floor, wall<br>(on the table, on the road)"],
+                            ["<b>At</b>", "Specific Time<br>(at 5 o'clock, at noon)", "Specific Point<br>(at home, at the bus stop)"]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Preposition પછી હંમેશા <b>Noun</b> અથવા <b>Pronoun (Object Form: me, him, her, us, them)</b> આવે છે!"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "7️⃣ Conjunction (સંયોજક)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "બે <b>શબ્દો, શબ્દસમૂહો કે વાક્યો</b>ને જોડવા માટે વપરાતા શબ્દને <b>Conjunction</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Conjunction",
+                        "headers": ["Type", "Examples", "Usage"],
+                        "rows": [
+                            ["<b>Coordinating</b>", "and, but, or, nor, for, yet, so", "Equal importance ના 2 ભાગ જોડે (FANBOYS)"],
+                            ["<b>Subordinating</b>", "because, if, when, while, although, unless", "Main + Dependent clause જોડે"],
+                            ["<b>Correlative</b>", "either...or, neither...nor, both...and, not only...but also", "Pairs માં વપરાય"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 FANBOYS - Coordinating Conjunctions",
+                        "headers": ["Letter", "Conjunction", "Example"],
+                        "rows": [
+                            ["<b>F</b>", "For", "I was tired, <b>for</b> I had worked all day."],
+                            ["<b>A</b>", "And", "She is smart <b>and</b> beautiful."],
+                            ["<b>N</b>", "Nor", "He neither drinks <b>nor</b> smokes."],
+                            ["<b>B</b>", "But", "I tried <b>but</b> failed."],
+                            ["<b>O</b>", "Or", "Tea <b>or</b> coffee?"],
+                            ["<b>Y</b>", "Yet", "He is poor <b>yet</b> honest."],
+                            ["<b>S</b>", "So", "It was late, <b>so</b> I went home."]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Coordinating Conjunctions યાદ રાખવા <b>FANBOYS</b> યાદ રાખો!<br><b>F</b>or, <b>A</b>nd, <b>N</b>or, <b>B</b>ut, <b>O</b>r, <b>Y</b>et, <b>S</b>o"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "8️⃣ Interjection (કેવળપ્રયોગી / ઉદગાર)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "મનમાં <b>અચાનક ઉદ્ભવતી તીવ્ર લાગણીઓ</b> (joy, sorrow, surprise, fear) વ્યક્ત કરતા શબ્દોને <b>Interjection</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Interjection",
+                        "headers": ["Emotion", "Interjections", "Example Sentence"],
+                        "rows": [
+                            ["<b>Joy (આનંદ)</b>", "Hurrah!, Wow!, Yay!", "<b>Hurrah!</b> We won the match!"],
+                            ["<b>Sorrow (દુઃખ)</b>", "Alas!, Oh no!", "<b>Alas!</b> He is no more."],
+                            ["<b>Surprise (આશ્ચર્ય)</b>", "Oh!, What!, Wow!", "<b>Oh!</b> What a beautiful place!"],
+                            ["<b>Pain (પીડા)</b>", "Ouch!, Ow!", "<b>Ouch!</b> That hurts!"],
+                            ["<b>Appreciation (પ્રશંસા)</b>", "Bravo!, Well done!", "<b>Bravo!</b> You did it!"],
+                            ["<b>Attention (ધ્યાન)</b>", "Hello!, Hey!, Look!", "<b>Hey!</b> Listen to me."]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Interjection પછી હંમેશા <b>Exclamation Mark (!)</b> આવે છે!<br>Interjection વાક્યના વ્યાકરણનો ભાગ નથી."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "⚠️ Confusion Points (ગૂંચવણભર્યા મુદ્દા)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔴 Common Confusions",
+                        "headers": ["Confusion", "Clarification", "Examples"],
+                        "rows": [
+                            ["<b>Adjective vs Adverb</b>", "Adjective → Noun વર્ણવે<br>Adverb → Verb/Adj/Adv વર્ણવે", "<b>beautiful</b> girl (Adj)<br>She sings <b>beautifully</b> (Adv)"],
+                            ["<b>Noun vs Verb</b>", "Same શબ્દ બંને બની શકે!", "I <b>play</b> cricket. (Verb)<br>The <b>play</b> was amazing. (Noun)"],
+                            ["<b>Preposition vs Conjunction</b>", "Prep = Noun ની આગળ<br>Conj = Clauses/Words જોડે", "<b>Before</b> lunch (Prep)<br><b>Before</b> I came, he left. (Conj)"],
+                            ["<b>This/That - Pronoun vs Adjective</b>", "Alone = Pronoun<br>Before Noun = Adjective", "<b>This</b> is my book. (Pronoun)<br><b>This</b> book is mine. (Adjective)"],
+                            ["<b>Possessive Pronoun vs Possessive Adjective</b>", "Adj + Noun = Possessive Adj<br>Alone = Possessive Pronoun", "<b>My</b> book (Adj)<br>It is <b>mine</b>. (Pronoun)"],
+                            ["<b>good vs well</b>", "good = Adjective<br>well = Adverb", "He is a <b>good</b> singer.<br>He sings <b>well</b>."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "🔍 Word Identification Trick",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🎯 How to Identify POS in a Sentence",
+                        "headers": ["Question to Ask", "Answer is..."],
+                        "rows": [
+                            ["<b>કોણ? શું?</b> (Who? What?)", "→ Noun / Pronoun"],
+                            ["<b>શું કરે છે? શું થાય છે?</b> (What does?)", "→ Verb"],
+                            ["<b>કેવું? કેવી?</b> (How is it?)", "→ Adjective"],
+                            ["<b>ક્રિયા કેવી રીતે?</b> (How the action?)", "→ Adverb"],
+                            ["<b>ક્યાં? ક્યારે? કઈ દિશા?</b> (Where? When?)", "→ Preposition"],
+                            ["<b>શું જોડે છે?</b> (What connects?)", "→ Conjunction"],
+                            ["<b>અચાનક ભાવ?</b> (Sudden emotion?)", "→ Interjection"]
+                        ]
+                    }
+                },
+                {
+                    "type": "paragraph",
+                    "content": "<b>Example:</b> \"<i>Wow! The beautiful girl runs quickly in the park.</i>\"<br><br>• <b>Wow!</b> - Interjection (અચાનક ભાવ)<br>• <b>The</b> - Article (Adjective)<br>• <b>beautiful</b> - Adjective (કેવી girl?)<br>• <b>girl</b> - Noun (કોણ?)<br>• <b>runs</b> - Verb (શું કરે છે?)<br>• <b>quickly</b> - Adverb (કેવી રીતે runs?)<br>• <b>in</b> - Preposition (ક્યાં?)<br>• <b>the</b> - Article<br>• <b>park</b> - Noun (શું?)"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📋 All Topics Summary (સંપૂર્ણ સારાંશ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 8 Parts of Speech Summary",
+                        "headers": ["POS", "Function", "Question", "Examples"],
+                        "rows": [
+                            ["<b>Noun</b>", "Naming word", "કોણ? શું? ક્યાં?", "boy, India, happiness"],
+                            ["<b>Pronoun</b>", "Replaces Noun", "Noun ની જગ્યાએ", "I, he, she, it, they"],
+                            ["<b>Verb</b>", "Action/State", "શું કરે છે?", "run, is, have, play"],
+                            ["<b>Adjective</b>", "Describes Noun", "કેવું? કેટલું?", "good, big, five, this"],
+                            ["<b>Adverb</b>", "Describes Verb", "કેવી રીતે? ક્યારે?", "slowly, now, very"],
+                            ["<b>Preposition</b>", "Shows relation", "ક્યાં? ક્યારે?", "in, on, at, to, from"],
+                            ["<b>Conjunction</b>", "Joins words", "શું જોડે છે?", "and, but, or, because"],
+                            ["<b>Interjection</b>", "Shows emotion", "અચાનક ભાવ?", "Wow!, Alas!, Oh!"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 Key Rules to Remember",
+                        "headers": ["Rule", "Remember"],
+                        "rows": [
+                            ["Every sentence needs", "At least one <b>Verb</b>"],
+                            ["Proper Noun", "First letter always <b>Capital</b>"],
+                            ["Noun + Pronoun", "Never together in same sentence"],
+                            ["Adjective comes", "Before the <b>Noun</b>"],
+                            ["Adverb ends in", "<b>-ly</b> (mostly)"],
+                            ["Preposition", "Always before Noun/Pronoun"],
+                            ["FANBOYS", "For, And, Nor, But, Or, Yet, So"],
+                            ["Interjection", "Always followed by <b>!</b>"]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

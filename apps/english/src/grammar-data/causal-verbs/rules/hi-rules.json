@@ -1,0 +1,165 @@
+{
+    "id": "causal-verbs-h",
+    "title": "Causal Verbs (प्रेरक क्रियापद)",
+    "description": "जब कर्ता कोई काम खुद न करके किसी और से करवाता है, तब Causal Verbs (Make, Get, Have, Let, Help) का उपयोग होता है।",
+    "content": [
+        {
+            "type": "heading",
+            "content": "Causal Verbs क्या है?"
+        },
+        {
+            "type": "paragraph",
+            "content": "सामान्य वाक्य में कर्ता स्वयं क्रिया करता है। लेकिन Causal वाक्य में कर्ता किसी अन्य व्यक्ति से क्रिया करवाता है। मुख्य Causal Verbs हैं: **Make, Get, Have**."
+        },
+        {
+            "type": "section",
+            "title": "1. Make (To Force / Compel)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जब किसी को कुछ करने के लिए मजबूर या बाध्य किया जाता है, तब **Make** का उपयोग होता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Make Structures",
+                        "headers": [
+                            "Voice",
+                            "Structure",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Active",
+                                "Sub + Make + Person + <b>V1</b> (Base Form)",
+                                "The teacher <b>made</b> the students <b>write</b>.<br>(शिक्षक ने छात्रों से लिखवाया।)"
+                            ],
+                            [
+                                "Passive",
+                                "Sub + Be + Made + <b>to + V1</b>",
+                                "The students <b>were made to write</b>.<br>(छात्रों से लिखवाया गया।)"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Note:</b> Active Voice में 'to' के बिना रूप आता है, लेकिन Passive Voice में 'to' वाला रूप आता है।"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2. Get (To Persuade / Convince)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जब किसी को समझा-बुझाकर या विनती करके काम करवाया जाता है, तब **Get** का उपयोग होता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Get Structures",
+                        "headers": [
+                            "Voice",
+                            "Structure",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Active",
+                                "Sub + Get + Person + <b>to + V1</b>",
+                                "I <b>got</b> him <b>to help</b> me.<br>(मैंने उससे मदद करवाई।)"
+                            ],
+                            [
+                                "Passive",
+                                "Sub + Get + Thing + <b>V3</b> (Past Participle)",
+                                "I <b>got</b> my car <b>repaired</b>.<br>(मैंने अपनी कार रिपेयर करवाई।)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3. Have (To Assign Responsibility)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जब किसी को काम सौंपा जाता है (जैसे professional service), तब **Have** का उपयोग होता है।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Have Structures",
+                        "headers": [
+                            "Voice",
+                            "Structure",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Active",
+                                "Sub + Have + Person + <b>V1</b>",
+                                "I will <b>have</b> the plumber <b>fix</b> the leak.<br>(मैं प्लम्बर से लीक ठीक करवाऊंगा।)"
+                            ],
+                            [
+                                "Passive",
+                                "Sub + Have + Thing + <b>V3</b>",
+                                "He <b>had</b> his hair <b>cut</b>.<br>(उसने अपने बाल कटवाए।)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Comparison Table",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Make vs Get vs Have",
+                        "headers": [
+                            "Verb",
+                            "Active Voice Structure",
+                            "Passive Voice Structure"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Make</b>",
+                                "Make + Agent + <b>V1</b>",
+                                "Be Made + <b>to + V1</b>"
+                            ],
+                            [
+                                "<b>Get</b>",
+                                "Get + Agent + <b>to + V1</b>",
+                                "Get + Object + <b>V3</b>"
+                            ],
+                            [
+                                "<b>Have</b>",
+                                "Have + Agent + <b>V1</b>",
+                                "Have + Object + <b>V3</b>"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Other Causal Verbs (Let, Help)",
+            "content": [
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Let:</b> अनुमति देना (Allow). <i>Structure:</i> Let + Person + <b>V1</b>. (Ex: Let him <b>go</b>.)",
+                        "<b>Help:</b> मदद करना. <i>Structure:</i> Help + Person + <b>(to) + V1</b>. (Ex: He helped me <b>(to) lift</b> the box.)"
+                    ]
+                }
+            ]
+        }
+    ]
+}

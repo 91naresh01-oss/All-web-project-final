@@ -1,0 +1,13 @@
+{
+  "id": "chapter-5",
+  "title": "Teaching & Learning 🧑‍🏫",
+  "gujaratiTitle": "શિક્ષણ અને શીખવું 🧑‍🏫",
+  "hindiTitle": "शिक्षण और सीखना 🧑‍🏫",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" },
+    { "id": "level-5" }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "level-3",
+  "title": "Analysis & Organization",
+  "words": [
+    {
+      "word": "Picture",
+      "gujaratiPronunciation": "પિક્ચર",
+      "hindiPronunciation": "पिक्चर",
+      "gujaratiMeaning": "કલ્પના કરવી, મનમાં ચિત્ર બનાવવું",
+      "hindiMeaning": "कल्पना करना, मन में चित्र बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Picture", "gujaratiPronunciation": "પિક્ચર", "hindiPronunciation": "पिक्चर", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" },
+        "V2 (Past)": { "word": "Pictured", "gujaratiPronunciation": "પિક્ચર્ડ", "hindiPronunciation": "पिक्चर्ड", "gujaratiMeaning": "કલ્પના કરી", "hindiMeaning": "कल्पना की" },
+        "V3 (Past Participle)": { "word": "Pictured", "gujaratiPronunciation": "પિક્ચર્ડ", "hindiPronunciation": "पिक्चर्ड", "gujaratiMeaning": "કલ્પના કરેલી", "hindiMeaning": "कल्पना की हुई" },
+        "V4 (Present Participle)": { "word": "Picturing", "gujaratiPronunciation": "પિક્ચરિંગ", "hindiPronunciation": "पिक्चरिंग", "gujaratiMeaning": "કલ્પના કરી રહ્યું", "hindiMeaning": "कल्पना कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Visualize", "gujaratiPronunciation": "વિઝ્યુલાઇઝ", "hindiPronunciation": "विज़ुअलाइज़", "gujaratiMeaning": "માનસપટ પર જોવું", "hindiMeaning": "मानस पटल पर देखना" },
+        { "word": "Imagine", "gujaratiPronunciation": "ઇમેજિન", "hindiPronunciation": "इमेजिन", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" }
+      ],
+      "antonyms": [
+        { "word": "Reality", "gujaratiPronunciation": "રિયાલિટી", "hindiPronunciation": "रियालिटी", "gujaratiMeaning": "વાસ્તવિકતા", "hindiMeaning": "वास्तविकता" },
+        { "word": "Fact", "gujaratiPronunciation": "ફેક્ટ", "hindiPronunciation": "फैक्ट", "gujaratiMeaning": "હકીકત", "hindiMeaning": "तथ्य" }
+      ],
+      "confusingWords": [
+        { "word": "Pitcher", "gujaratiPronunciation": "પિચર", "hindiPronunciation": "पिचर", "gujaratiMeaning": "કૂંજો", "hindiMeaning": "घड़ा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Try to picture the scene in your mind.",
+          "gujaratiTranslation": "તમારા મનમાં દ્રશ્યની કલ્પના કરવાનો પ્રયાસ કરો.",
+          "hindiTranslation": "अपने मन में दृश्य की कल्पना करने का प्रयास करें।",
+          "gujaratiPronunciation": "ટ્રાય ટુ પિક્ચર ધ સીન ઇન યોર માઇન્ડ.",
+          "hindiPronunciation": "ट्राई टू पिक्चर द सीन इन योर माइंड।"
+        }
+      ]
+    },
+    {
+      "word": "Examine",
+      "gujaratiPronunciation": "એક્ઝામિન",
+      "hindiPronunciation": "एक्ज़ामिन",
+      "gujaratiMeaning": "પરીક્ષણ કરવું, ચકાસણી કરવી",
+      "hindiMeaning": "परीक्षण करना, जांचना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एक्ज़ामिन", "gujaratiMeaning": "પરીક્ષણ કરવું", "hindiMeaning": "परीक्षण करना" },
+        "V2 (Past)": { "word": "Examined", "gujaratiPronunciation": "એક્ઝામિન્ડ", "hindiPronunciation": "एक्ज़ामिन्ड", "gujaratiMeaning": "પરીક્ષણ કર્યું", "hindiMeaning": "परीक्षण किया" },
+        "V3 (Past Participle)": { "word": "Examined", "gujaratiPronunciation": "એક્ઝામિન્ડ", "hindiPronunciation": "एक्ज़ामिन्ड", "gujaratiMeaning": "પરીક્ષણ કરેલું", "hindiMeaning": "परीक्षण किया हुआ" },
+        "V4 (Present Participle)": { "word": "Examining", "gujaratiPronunciation": "એક્ઝામિનિંગ", "hindiPronunciation": "एक्ज़ामिनिंग", "gujaratiMeaning": "પરીક્ષણ કરી રહ્યું", "hindiMeaning": "परीक्षण कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Inspect", "gujaratiPronunciation": "ઇન્સ્પેક્ટ", "hindiPronunciation": "इंस्पेक्ट", "gujaratiMeaning": "નિરીક્ષણ કરવું", "hindiMeaning": "निरीक्षण करना" },
+        { "word": "Analyze", "gujaratiPronunciation": "એનલાઈઝ", "hindiPronunciation": "एनलाइज़", "gujaratiMeaning": "વિશ્લેષણ કરવું", "hindiMeaning": "विश्लेषण करना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Example", "gujaratiPronunciation": "એક્ઝામ્પલ", "hindiPronunciation": "एग्जांपल", "gujaratiMeaning": "ઉદાહરણ", "hindiMeaning": "उदाहरण" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The doctor will examine the patient.",
+          "gujaratiTranslation": "ડૉક્ટર દર્દીની તપાસ કરશે.",
+          "hindiTranslation": "डॉक्टर मरीज की जांच करेंगे।",
+          "gujaratiPronunciation": "ધ ડોક્ટર વિલ એક્ઝામિન ધ પેશન્ટ.",
+          "hindiPronunciation": "द डॉक्टर विल एक्ज़ामिन द पेशेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Rationalize",
+      "gujaratiPronunciation": "રેશનલાઈઝ",
+      "hindiPronunciation": "रैशनलाइज़",
+      "gujaratiMeaning": "તર્કબદ્ધ કરવું, બહાનું કાઢવું",
+      "hindiMeaning": "तर्कसंगत बनाना, बहाना बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Rationalize", "gujaratiPronunciation": "રેશનલાઈઝ", "hindiPronunciation": "रैशनलाइज़", "gujaratiMeaning": "તર્કબદ્ધ કરવું", "hindiMeaning": "तर्कसंगत बनाना" },
+        "V2 (Past)": { "word": "Rationalized", "gujaratiPronunciation": "રેશનલાઈઝ્ડ", "hindiPronunciation": "रैशनलाइज़्ड", "gujaratiMeaning": "તર્કબદ્ધ કર્યું", "hindiMeaning": "तर्कसंगत बनाया" },
+        "V3 (Past Participle)": { "word": "Rationalized", "gujaratiPronunciation": "રેશનલાઈઝ્ડ", "hindiPronunciation": "रैशनलाइज़्ड", "gujaratiMeaning": "તર્કબદ્ધ કરેલું", "hindiMeaning": "तर्कसंगत बनाया हुआ" },
+        "V4 (Present Participle)": { "word": "Rationalizing", "gujaratiPronunciation": "રેશનલાઈઝિંગ", "hindiPronunciation": "रैशनलाइज़िंग", "gujaratiMeaning": "તર્કબદ્ધ કરી રહ્યું", "hindiMeaning": "तर्कसंगत बना रहा" }
+      },
+      "synonyms": [
+        { "word": "Justify", "gujaratiPronunciation": "જસ્ટિફાય", "hindiPronunciation": "जस्टिफाई", "gujaratiMeaning": "ન્યાયી ઠેરવવું", "hindiMeaning": "उचित ठहराना" },
+        { "word": "Explain", "gujaratiPronunciation": "એક્સપ્લેન", "hindiPronunciation": "एक्सप्लेन", "gujaratiMeaning": "સમજાવવું", "hindiMeaning": "समझाना" }
+      ],
+      "antonyms": [
+        { "word": "Accept", "gujaratiPronunciation": "એક્સેપ્ટ", "hindiPronunciation": "एक्सेप्ट", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" },
+        { "word": "Face", "gujaratiPronunciation": "ફેસ", "hindiPronunciation": "फेस", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" }
+      ],
+      "confusingWords": [
+        { "word": "Nationalize", "gujaratiPronunciation": "નેશનલાઈઝ", "hindiPronunciation": "नेशनलाइज़", "gujaratiMeaning": "રાષ્ટ્રીયકરણ કરવું", "hindiMeaning": "राष्ट्रीयकरण करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He tried to rationalize his bad behavior.",
+          "gujaratiTranslation": "તેમણે પોતાના ખરાબ વર્તનને તર્કબદ્ધ કરવાનો પ્રયાસ કર્યો.",
+          "hindiTranslation": "उसने अपने बुरे व्यवहार को तर्कसंगत बनाने की कोशिश की।",
+          "gujaratiPronunciation": "હી ટ્રાઇડ ટુ રેશનલાઈઝ હિસ બેડ બિહેવિયર.",
+          "hindiPronunciation": "ही ट्राइड टू रैशनलाइज़ हिज़ बैड बिहेवियर।"
+        }
+      ]
+    },
+    {
+      "word": "Tabulate",
+      "gujaratiPronunciation": "ટેબ્યુલેટ",
+      "hindiPronunciation": "टैब्युलेट",
+      "gujaratiMeaning": "કોષ્ટકમાં ગોઠવવું",
+      "hindiMeaning": "सारणी बनाना, तालिका में व्यवस्थित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Tabulate", "gujaratiPronunciation": "ટેબ્યુલેટ", "hindiPronunciation": "टैब्युलेट", "gujaratiMeaning": "કોષ્ટકમાં ગોઠવવું", "hindiMeaning": "सारणी बनाना" },
+        "V2 (Past)": { "word": "Tabulated", "gujaratiPronunciation": "ટેબ્યુલેટેડ", "hindiPronunciation": "टैब्युलेटेड", "gujaratiMeaning": "કોષ્ટકમાં ગોઠવ્યું", "hindiMeaning": "सारणी बनाई" },
+        "V3 (Past Participle)": { "word": "Tabulated", "gujaratiPronunciation": "ટેબ્યુલેટેડ", "hindiPronunciation": "टैब्युलेटेड", "gujaratiMeaning": "કોષ્ટકમાં ગોઠવેલું", "hindiMeaning": "सारणीबद्ध किया हुआ" },
+        "V4 (Present Participle)": { "word": "Tabulating", "gujaratiPronunciation": "ટેબ્યુલેટિંગ", "hindiPronunciation": "टैब्युलेटिंग", "gujaratiMeaning": "કોષ્ટકમાં ગોઠવી રહ્યું", "hindiMeaning": "सारणी बना रहा" }
+      },
+      "synonyms": [
+        { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઇઝ", "hindiPronunciation": "ऑर्गनाइज़", "gujaratiMeaning": "વ્યવસ્થિત કરવું", "hindiMeaning": "व्यवस्थित करना" },
+        { "word": "Arrange", "gujaratiPronunciation": "અરેન્જ", "hindiPronunciation": "अरेंज", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "व्यवस्थित करना" }
+      ],
+      "antonyms": [
+        { "word": "Scatter", "gujaratiPronunciation": "સ્કેટર", "hindiPronunciation": "स्कैटर", "gujaratiMeaning": "વિખેરવું", "hindiMeaning": "बिखेरना" },
+        { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गनाइज़", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अव्यवस्थित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Tablet", "gujaratiPronunciation": "ટેબ્લેટ", "hindiPronunciation": "टैबलेट", "gujaratiMeaning": "ગોળી, ટેબ્લેટ", "hindiMeaning": "गोली, टैबलेट" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The researchers will tabulate the survey results.",
+          "gujaratiTranslation": "સંશોધકો સર્વેના પરિણામોને કોષ્ટકમાં ગોઠવશે.",
+          "hindiTranslation": "शोधकर्ता सर्वेक्षण के परिणामों को सारणीबद्ध करेंगे।",
+          "gujaratiPronunciation": "ધ રિસર્ચર્સ વિલ ટેબ્યુલેટ ધ સર્વે રિઝલ્ટ્સ.",
+          "hindiPronunciation": "द रिसर्चर्स विल टैब्युलेट द सर्वे रिजल्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Scour",
+      "gujaratiPronunciation": "સ્કાઉર",
+      "hindiPronunciation": "स्कावर",
+      "gujaratiMeaning": "ઘસીને સાફ કરવું, સઘન શોધ કરવી",
+      "hindiMeaning": "रगड़कर साफ करना, गहन खोज करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Scour", "gujaratiPronunciation": "સ્કાઉર", "hindiPronunciation": "स्कावर", "gujaratiMeaning": "ઘસીને સાફ કરવું", "hindiMeaning": "रगड़कर साफ करना" },
+        "V2 (Past)": { "word": "Scoured", "gujaratiPronunciation": "સ્કાઉર્ડ", "hindiPronunciation": "स्कावर्ड", "gujaratiMeaning": "ઘસીને સાફ કર્યું", "hindiMeaning": "रगड़कर साफ किया" },
+        "V3 (Past Participle)": { "word": "Scoured", "gujaratiPronunciation": "સ્કાઉર્ડ", "hindiPronunciation": "स्कावर्ड", "gujaratiMeaning": "ઘસીને સાફ કરેલું", "hindiMeaning": "रगड़कर साफ किया हुआ" },
+        "V4 (Present Participle)": { "word": "Scouring", "gujaratiPronunciation": "સ્કાઉરિંગ", "hindiPronunciation": "स्कावरिंग", "gujaratiMeaning": "ઘસીને સાફ કરી રહ્યું", "hindiMeaning": "रगड़कर साफ कर रहा" }
+      },
+      "synonyms": [
+        { "word": "Scrub", "gujaratiPronunciation": "સ્ક્રબ", "hindiPronunciation": "स्क्रब", "gujaratiMeaning": "ઘસવું", "hindiMeaning": "रगड़ना" },
+        { "word": "Search", "gujaratiPronunciation": "સર્ચ", "hindiPronunciation": "सर्च", "gujaratiMeaning": "શોધવું", "hindiMeaning": "खोजना" }
+      ],
+      "antonyms": [
+        { "word": "Dirty", "gujaratiPronunciation": "ડર્ટી", "hindiPronunciation": "डर्टी", "gujaratiMeaning": "ગંદુ કરવું", "hindiMeaning": "गंदा करना" },
+        { "word": "Glance", "gujaratiPronunciation": "ગ્લાન્સ", "hindiPronunciation": "ग्लान्स", "gujaratiMeaning": "નજર નાખવી", "hindiMeaning": "नज़र डालना" }
+      ],
+      "confusingWords": [
+        { "word": "Sour", "gujaratiPronunciation": "સાઉર", "hindiPronunciation": "सावर", "gujaratiMeaning": "ખાટું", "hindiMeaning": "खट्टा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She had to scour the pans to get them clean.",
+          "gujaratiTranslation": "તેણીએ તવાઓને સાફ કરવા માટે ઘસવા પડ્યા.",
+          "hindiTranslation": "उसे बर्तनों को साफ करने के लिए रगड़ना पड़ा।",
+          "gujaratiPronunciation": "શી હેડ ટુ સ્કાઉર ધ પેન્સ ટુ ગેટ ધેમ ક્લીન.",
+          "hindiPronunciation": "शी हैड टू स्कावर द पैन्स टू गेट देम क्लीन।"
+        }
+      ]
+    }
+  ]
+}

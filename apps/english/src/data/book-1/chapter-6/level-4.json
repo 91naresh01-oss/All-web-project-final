@@ -1,0 +1,55 @@
+
+{
+    "id": "level-4",
+    "title": "Birds 4",
+    "words": [
+        {
+            "word": "Hawk",
+            "icon": "🦅",
+            "gujaratiPronunciation": "હોક",
+            "hindiPronunciation": "हॉक",
+            "gujaratiMeaning": "બાજ",
+            "hindiMeaning": "बाज़"
+        },
+        {
+            "word": "Falcon",
+            "icon": "🦅",
+            "gujaratiPronunciation": "ફાલ્કન",
+            "hindiPronunciation": "फाल्कन",
+            "gujaratiMeaning": "બાજ",
+            "hindiMeaning": "बाज़"
+        },
+        {
+            "word": "Woodpecker",
+            "icon": "🐦",
+            "gujaratiPronunciation": "વુડપેકર",
+            "hindiPronunciation": "वुडपेकर",
+            "gujaratiMeaning": "લક્કડખોદ",
+            "hindiMeaning": "कठफोड़वा"
+        },
+        {
+            "word": "Stork",
+            "icon": "🐦",
+            "gujaratiPronunciation": "સ્ટોર્ક",
+            "hindiPronunciation": "स्टॉर्क",
+            "gujaratiMeaning": "બગલો",
+            "hindiMeaning": "सारस"
+        },
+        {
+            "word": "Dove",
+            "icon": "🕊️",
+            "gujaratiPronunciation": "ડવ",
+            "hindiPronunciation": "डव",
+            "gujaratiMeaning": "હોલો",
+            "hindiMeaning": "फाख्ता"
+        },
+        {
+            "word": "Kite",
+            "icon": "🪁",
+            "gujaratiPronunciation": "કાઇટ",
+            "hindiPronunciation": "काइट",
+            "gujaratiMeaning": "સમડી",
+            "hindiMeaning": "चील"
+        }
+    ]
+}

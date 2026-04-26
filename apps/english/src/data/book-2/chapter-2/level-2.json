@@ -1,0 +1,77 @@
+
+{
+  "id": "level-2",
+  "title": "Weather 2",
+  "words": [
+    {
+      "word": "Hot",
+      "gujaratiPronunciation": "હોટ",
+      "hindiPronunciation": "हॉट",
+      "gujaratiMeaning": "ગરમ",
+      "hindiMeaning": "गर्म",
+      "exampleSentences": [
+        {
+          "sentence": "The weather is very hot today.",
+          "gujaratiTranslation": "આજે હવામાન ખૂબ ગરમ છે.",
+          "hindiTranslation": "आज मौसम बहुत गर्म है।"
+        }
+      ]
+    },
+    {
+      "word": "Cold",
+      "gujaratiPronunciation": "કોલ્ડ",
+      "hindiPronunciation": "कोल्ड",
+      "gujaratiMeaning": "ઠંડુ",
+      "hindiMeaning": "ठंडा",
+      "exampleSentences": [
+        {
+          "sentence": "It is very cold outside.",
+          "gujaratiTranslation": "બહાર ખૂબ ઠંડી છે.",
+          "hindiTranslation": "बाहर बहुत ठंड है।"
+        }
+      ]
+    },
+    {
+      "word": "Warm",
+      "gujaratiPronunciation": "વોર્મ",
+      "hindiPronunciation": "वार्म",
+      "gujaratiMeaning": "ગરમ/હૂંફાળું",
+      "hindiMeaning": "गर्म/गुनगुना",
+      "exampleSentences": [
+        {
+          "sentence": "The water is warm.",
+          "gujaratiTranslation": "પાણી ગરમ છે.",
+          "hindiTranslation": "पानी गुनगुना है।"
+        }
+      ]
+    },
+    {
+      "word": "Cool",
+      "gujaratiPronunciation": "કૂલ",
+      "hindiPronunciation": "कूल",
+      "gujaratiMeaning": "ઠંડુ/શીતળ",
+      "hindiMeaning": "ठंडा/शीतल",
+      "exampleSentences": [
+        {
+          "sentence": "A cool breeze is blowing.",
+          "gujaratiTranslation": "ઠંડી હવા વાઈ રહી છે.",
+          "hindiTranslation": "ठंडी हवा चल रही है।"
+        }
+      ]
+    },
+    {
+      "word": "Stormy",
+      "gujaratiPronunciation": "સ્ટોર્મી",
+      "hindiPronunciation": "स्टॉर्मी",
+      "gujaratiMeaning": "તોફાની",
+      "hindiMeaning": "तूफानी",
+      "exampleSentences": [
+        {
+          "sentence": "It was a stormy night.",
+          "gujaratiTranslation": "તે એક તોફાની રાત હતી.",
+          "hindiTranslation": "वह एक तूफानी रात थी।"
+        }
+      ]
+    }
+  ]
+}

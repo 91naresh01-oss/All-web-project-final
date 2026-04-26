@@ -1,0 +1,215 @@
+{
+    "id": "degree-of-comparison-hi",
+    "title": "Degree of Comparison (तुलना)",
+    "description": "विशेषण (Adjective) या क्रियाविशेषण (Adverb) द्वारा गुण, क्रिया या तरीके की तुलना दर्शाने के लिए Degree of Comparison का उपयोग होता है।",
+    "content": [
+        {
+            "type": "section",
+            "title": "📚 Introduction (परिचय)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जब दो या दो से अधिक व्यक्तियों, वस्तुओं या स्थानों के गुण, मात्रा या क्रिया की तुलना की जाती है, तो उसे <b>Degree of Comparison</b> कहते हैं।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 3 Degrees Overview",
+                        "headers": ["Degree", "हिंदी में", "Definition", "Example"],
+                        "rows": [
+                            ["<b>Positive</b>", "समानता", "No comparison or Equal comparison (समान है)", "He is <b>as tall as</b> Ram."],
+                            ["<b>Comparative</b>", "अधिकता", "Compare 2 things (एक दूसरे से बेहतर)", "He is <b>taller than</b> Ram."],
+                            ["<b>Superlative</b>", "श्रेष्ठता", "Compare 2+ things (सबसे श्रेष्ठ)", "He is the <b>tallest</b> boy in class."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "1️⃣ Formation Rules (रूप बनाने के नियम)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Regular Adjectives",
+                        "headers": ["Type", "Rule", "Positive", "Comparative (-er)", "Superlative (-est)"],
+                        "rows": [
+                            ["Short Words", "+er / +est", "tall", "taller", "tallest"],
+                            ["Ends in 'e'", "+r / +st", "large", "larger", "largest"],
+                            ["Ends in 'y'", "y → i + er/est", "happy", "happier", "happiest"],
+                            ["CVC (Big)", "Double last letter", "big", "bigger", "biggest"],
+                            ["Long Words", "more / most", "beautiful", "more beautiful", "most beautiful"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "⚠️ Irregular Adjectives (अनियमित रूप)",
+                        "headers": ["Positive", "Comparative", "Superlative"],
+                        "rows": [
+                            ["good / well", "better", "best"],
+                            ["bad / ill", "worse", "worst"],
+                            ["little", "less", "least"],
+                            ["much / many", "more", "most"],
+                            ["far", "farther", "farthest"],
+                            ["old", "older / elder", "oldest / eldest"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2️⃣ Key Rules: 'The' and 'Than'",
+            "content": [
+                {
+                    "type": "rules_table_section",
+                    "content": {
+                        "headers": ["Degree", "Keyword", "Rule"],
+                        "rows": [
+                            {
+                                "Degree": "Comparative",
+                                "Keyword": "than",
+                                "Rule": "Comparative form के बाद हमेशा <b>than</b> आता है।<br>Example: Better <b>than</b>, Taller <b>than</b>"
+                            },
+                            {
+                                "Degree": "Superlative",
+                                "Keyword": "the",
+                                "Rule": "Superlative form से पहले हमेशा <b>the</b> आता है।<br>Example: <b>The</b> best, <b>The</b> tallest"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3️⃣ Sentence Transformation (वाक्य परिवर्तन)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "एक Degree से दूसरी Degree में वाक्य बदलते समय अर्थ नहीं बदलना चाहिए।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Type 1: Comparison between 2 (दो के बीच तुलना)",
+                        "headers": ["From", "To", "Example"],
+                        "rows": [
+                            ["<b>Positive</b>", "<b>Comparative</b>", "Ram is <b>as tall as</b> Shyam.<br>↓<br>Shyam is <b>not taller than</b> Ram."],
+                            ["<b>Comparative</b>", "<b>Positive</b>", "Tea is <b>better than</b> coffee.<br>↓<br>Coffee is <b>not as good as</b> tea."]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Rule:</b> जब केवल दो व्यक्तियों/वस्तुओं की तुलना हो, तो <b>Superlative Degree नहीं बनती</b>।<br>सकारात्मक का नकारात्मक और नकारात्मक का सकारात्मक होता है।"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4️⃣ Superlative Transformation Patterns",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जब समूह के साथ तुलना हो, तो तीनों Degrees संभव हैं।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Pattern A: 'The Best' (सबसे श्रेष्ठ)",
+                        "headers": ["Degree", "Keyword", "Structure", "Example"],
+                        "rows": [
+                            ["<b>Superlative</b>", "the ...est", "Subject + the adj-est", "Ganga is <b>the longest</b> river."],
+                            ["<b>Comparative</b>", "than any other", "adj-er + than any other", "Ganga is <b>longer than any other</b> river."],
+                            ["<b>Positive</b>", "No other", "No other... as adj as", "<b>No other</b> river is <b>as long as</b> Ganga."]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Pattern B: 'One of the Best' (श्रेष्ठों में से एक)",
+                        "headers": ["Degree", "Keyword", "Structure", "Example"],
+                        "rows": [
+                            ["<b>Superlative</b>", "one of the", "one of the adj-est", "Ashoka was <b>one of the greatest</b> kings."],
+                            ["<b>Comparative</b>", "than most other", "adj-er + than most other", "Ashoka was <b>greater than most other</b> kings."],
+                            ["<b>Positive</b>", "Very few", "Very few... as adj as", "<b>Very few</b> kings were <b>as great as</b> Ashoka."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "⚠️ Confusion Points (भ्रामक मुद्दे)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔴 Common Confusions",
+                        "headers": ["Word Pair", "Difference", "Example"],
+                        "rows": [
+                            ["<b>Older vs Elder</b>", "Older: वस्तु/व्यक्ति (उम्र में बड़ा)<br>Elder: केवल सगे भाई-बहन के लिए", "My friend is <b>older</b> than me.<br>She is my <b>elder</b> sister."],
+                            ["<b>Farther vs Further</b>", "Farther: दूर (Distance)<br>Further: आगे (Next/More)", "Mumbai is <b>farther</b> than Surat.<br>Any <b>further</b> questions?"],
+                            ["<b>Nearest vs Next</b>", "Nearest: सबसे पास (Distance)<br>Next: अगला (Sequence)", "Where is the <b>nearest</b> bank?<br>Who is <b>next</b>?"],
+                            ["<b>Later vs Latter</b>", "Later: बाद में (Time)<br>Latter: दो में से दूसरा (Position)", "I will call you <b>later</b>.<br>The <b>latter</b> option is better."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "❌ Common Mistakes (सामान्य गलतियाँ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🚫 Avoid These Mistakes",
+                        "headers": ["❌ गलत", "✅ सही", "Reason"],
+                        "rows": [
+                            ["He is <b>more taller</b> than me.", "He is <b>taller</b> than me.", "Double Comparative (more + er) नहीं लगता।"],
+                            ["He is the <b>most best</b> student.", "He is the <b>best</b> student.", "Double Superlative (most + est) नहीं लगता।"],
+                            ["She is <b>senior than</b> me.", "She is <b>senior to</b> me.", "Senior, Junior, Superior, Inferior के बाद 'to' आता है, 'than' नहीं।"],
+                            ["This implies <b>more perfect</b> solution.", "This implies <b>a perfect</b> solution.", "'Perfect', 'Unique', 'Dead' की कोई डिग्री नहीं होती।"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📋 All Topics Summary (संपूर्ण सारांश)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 3 Degrees Shortcuts",
+                        "headers": ["Comparison Type", "Superlative", "Comparative", "Positive"],
+                        "rows": [
+                            ["<b>Type A (Best)</b>", "The ...est", "than any other", "No other..."],
+                            ["<b>Type B (One of)</b>", "One of the ...est", "than most other", "Very few..."],
+                            ["<b>Type C (2 things)</b>", "❌ (Not possible)", "than", "not as/so...as"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 Keywords to Remember",
+                        "headers": ["Degree", "Keywords"],
+                        "rows": [
+                            ["<b>Positive</b>", "as...as, so...as, No other, Very few"],
+                            ["<b>Comparative</b>", "form + er, more + form, than"],
+                            ["<b>Superlative</b>", "the + form + est, the + most + form"]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,379 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Codify",
+      "gujaratiPronunciation": "કોડિફાય",
+      "hindiPronunciation": "कोडिफाई",
+      "gujaratiMeaning": "સંહિતાબદ્ધ કરવું",
+      "hindiMeaning": "संहिताबद्ध करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Codify",
+          "gujaratiMeaning": "સંહિતાબદ્ધ કરવું",
+          "hindiMeaning": "संहिताबद्ध करना"
+        },
+        "V2 (Past)": {
+          "word": "Codified",
+          "gujaratiMeaning": "સંહિતાબદ્ધ કર્યું",
+          "hindiMeaning": "संहिताबद्ध किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Codified",
+          "gujaratiMeaning": "સંહિતાબદ્ધ કરેલું",
+          "hindiMeaning": "संहिताबद्ध किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Codifying",
+          "gujaratiPronunciation": "કોડિફાયિંગ",
+          "hindiPronunciation": "कोडिफाईिंग",
+          "gujaratiMeaning": "સંહિતાબદ્ધ કરી રહ્યું",
+          "hindiMeaning": "संहिताबद्ध कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Systematize",
+          "gujaratiMeaning": "વ્યવસ્થિત કરવું",
+          "hindiMeaning": "व्यवस्थित करना"
+        },
+        {
+          "word": "Organize",
+          "gujaratiMeaning": "આયોજન કરવું",
+          "hindiMeaning": "संगठित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Disorganize",
+          "gujaratiMeaning": "અવ્યવસ્થિત કરવું",
+          "hindiMeaning": "अस्त-व्यस्त करना"
+        },
+        {
+          "word": "Disorder",
+          "gujaratiMeaning": "ગડબડ કરવી",
+          "hindiMeaning": "गड़बड़ करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Modify",
+          "gujaratiPronunciation": "મોડિફાય",
+          "hindiPronunciation": "मॉडिफाई",
+          "gujaratiMeaning": "સુધારો કરવો",
+          "hindiMeaning": "संशोधित करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government plans to codify the new regulations.",
+          "gujaratiTranslation": "સરકાર નવા નિયમોને સંહિતાબદ્ધ કરવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "सरकार नए नियमों को संहिताबद्ध करने की योजना बना रही है।",
+          "gujaratiPronunciation": "ધ ગવર્નમેન્ટ પ્લાન્સ ટુ કોડિફાય ધ ન્યુ રેગ્યુલેશન્સ.",
+          "hindiPronunciation": "द गवर्नमेंट प्लांस टू कोडिफाई द न्यू रेगुलेशंस।"
+        }
+      ]
+    },
+    {
+      "word": "Extradite",
+      "gujaratiPronunciation": "એક્સ્ટ્રાડાઇટ",
+      "hindiPronunciation": "एक्सट्रैडाइट",
+      "gujaratiMeaning": "પ્રત્યર્પણ કરવું",
+      "hindiMeaning": "प्रत्यर्पण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Extradite",
+          "gujaratiMeaning": "પ્રત્યર્પણ કરવું",
+          "hindiMeaning": "प्रत्यर्पण करना"
+        },
+        "V2 (Past)": {
+          "word": "Extradited",
+          "gujaratiMeaning": "પ્રત્યર્પણ કર્યું",
+          "hindiMeaning": "प्रत्यर्पण किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Extradited",
+          "gujaratiMeaning": "પ્રત્યર્પણ કરેલું",
+          "hindiMeaning": "प्रत्यर्पित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Extraditing",
+          "gujaratiPronunciation": "એક્સ્ટ્રાડાઇટિંગ",
+          "hindiPronunciation": "एक्सट्रैडाइटिंग",
+          "gujaratiMeaning": "પ્રત્યર્પણ કરી રહ્યું",
+          "hindiMeaning": "प्रत्यर्पण कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Deport",
+          "gujaratiMeaning": "દેશનિકાલ કરવું",
+          "hindiMeaning": "निर्वासित करना"
+        },
+        {
+          "word": "Hand over",
+          "gujaratiMeaning": "સોંપી દેવું",
+          "hindiMeaning": "सौंप देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Harbor",
+          "gujaratiMeaning": "આશરો આપવો",
+          "hindiMeaning": "शरण देना"
+        },
+        {
+          "word": "Shelter",
+          "gujaratiMeaning": "આશ્રય આપવો",
+          "hindiMeaning": "आश्रय देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Expedite",
+          "gujaratiPronunciation": "એક્સપિડાઇટ",
+          "hindiPronunciation": "एक्सपीडाइट",
+          "gujaratiMeaning": "ઝડપી બનાવવું",
+          "hindiMeaning": "शीघ्र करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The criminal was extradited from Spain to France.",
+          "gujaratiTranslation": "ગુનેગારને સ્પેનથી ફ્રાન્સમાં પ્રત્યર્પણ કરવામાં આવ્યો હતો.",
+          "hindiTranslation": "अपराधी को स्पेन से फ्रांस प्रत्यर्पित किया गया था।",
+          "gujaratiPronunciation": "ધ ક્રિમિનલ વોઝ એક્સ્ટ્રાડાઇટેડ ફ્રોમ સ્પેન ટુ ફ્રાન્સ.",
+          "hindiPronunciation": "द क्रिमिनल वॉज़ एक्सट्रैडाइटेड फ्रॉम स्पेन टू फ्रांस।"
+        }
+      ]
+    },
+    {
+      "word": "Litigate",
+      "gujaratiPronunciation": "લિટિગેટ",
+      "hindiPronunciation": "लिटिगेट",
+      "gujaratiMeaning": "મુકદ્દમો લડવો",
+      "hindiMeaning": "मुकदमा लड़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Litigate",
+          "gujaratiMeaning": "મુકદ્દમો લડવો",
+          "hindiMeaning": "मुकदमा लड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Litigated",
+          "gujaratiMeaning": "મુકદ્દમો લડ્યો",
+          "hindiMeaning": "मुकदमा लड़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Litigated",
+          "gujaratiMeaning": "મુકદ્દમો લડેલો",
+          "hindiMeaning": "मुकदमा लड़ा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Litigating",
+          "gujaratiPronunciation": "લિટિગેટિંગ",
+          "hindiPronunciation": "लिटिगेटिंग",
+          "gujaratiMeaning": "મુકદ્દમો લડી રહ્યું",
+          "hindiMeaning": "मुकदमा लड़ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Sue",
+          "gujaratiMeaning": "દાવો માંડવો",
+          "hindiMeaning": "मुकदमा करना"
+        },
+        {
+          "word": "Contest",
+          "gujaratiMeaning": "વિરોધ કરવો",
+          "hindiMeaning": "विरोध करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Settle",
+          "gujaratiMeaning": "સમાધાન કરવું",
+          "hindiMeaning": "समझौता करना"
+        },
+        {
+          "word": "Agree",
+          "gujaratiMeaning": "સંમત થવું",
+          "hindiMeaning": "सहमत होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Mitigate",
+          "gujaratiPronunciation": "મિટિગેટ",
+          "hindiPronunciation": "मिटिगेट",
+          "gujaratiMeaning": "ઓછું કરવું",
+          "hindiMeaning": "कम करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He chose to litigate rather than accept the settlement.",
+          "gujaratiTranslation": "તેણે સમાધાન સ્વીકારવાને બદલે મુકદ્દમો લડવાનું પસંદ કર્યું.",
+          "hindiTranslation": "उसने समझौते को स्वीकार करने के बजाय मुकदमा लड़ना चुना।",
+          "gujaratiPronunciation": "હી ચોઝ ટુ લિટિગેટ રાધર ધેન એક્સેપ્ટ ધ સેટલમેન્ટ.",
+          "hindiPronunciation": "ही चोज़ टू लिटिगेट रादर दैन एक्सेप्ट द सेटलमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Nullify",
+      "gujaratiPronunciation": "નલિફાય",
+      "hindiPronunciation": "नलीफाई",
+      "gujaratiMeaning": "રદ કરવું",
+      "hindiMeaning": "रद्द करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Nullify",
+          "gujaratiMeaning": "રદ કરવું",
+          "hindiMeaning": "रद्द करना"
+        },
+        "V2 (Past)": {
+          "word": "Nullified",
+          "gujaratiMeaning": "રદ કર્યું",
+          "hindiMeaning": "रद्द किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Nullified",
+          "gujaratiMeaning": "રદ કરેલું",
+          "hindiMeaning": "रद्द किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Nullifying",
+          "gujaratiPronunciation": "નલિફાયિંગ",
+          "hindiPronunciation": "नलीफाईिंग",
+          "gujaratiMeaning": "રદ કરી રહ્યું",
+          "hindiMeaning": "रद्द कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Annul",
+          "gujaratiMeaning": "રદ કરવું",
+          "hindiMeaning": "रद्द करना"
+        },
+        {
+          "word": "Invalidate",
+          "gujaratiMeaning": "અમાન્ય કરવું",
+          "hindiMeaning": "अमान्य करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Validate",
+          "gujaratiMeaning": "માન્ય કરવું",
+          "hindiMeaning": "मान्य करना"
+        },
+        {
+          "word": "Confirm",
+          "gujaratiMeaning": "પુષ્ટિ કરવી",
+          "hindiMeaning": "पुष्टि करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Nullity",
+          "gujaratiPronunciation": "નલિટી",
+          "hindiPronunciation": "नलिटी",
+          "gujaratiMeaning": "રદબાતલપણું",
+          "hindiMeaning": "शून्यता"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The new evidence could nullify the previous verdict.",
+          "gujaratiTranslation": "નવા પુરાવા અગાઉના ચુકાદાને રદ કરી શકે છે.",
+          "hindiTranslation": "नए सबूत पिछले फैसले को रद्द कर सकते हैं।",
+          "gujaratiPronunciation": "ધ ન્યુ એવિડન્સ કુડ નલિફાય ધ પ્રિવિયસ વર્ડિક્ટ.",
+          "hindiPronunciation": "द न्यू एविडेंस कुड नलीफाई द प्रीवियस वर्डिक्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Censure",
+      "gujaratiPronunciation": "સેન્શર",
+      "hindiPronunciation": "सेन्शर",
+      "gujaratiMeaning": "ઠપકો આપવો",
+      "hindiMeaning": "निंदा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Censure",
+          "gujaratiMeaning": "ઠપકો આપવો",
+          "hindiMeaning": "निंदा करना"
+        },
+        "V2 (Past)": {
+          "word": "Censured",
+          "gujaratiMeaning": "ઠપકો આપ્યો",
+          "hindiMeaning": "निंदा की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Censured",
+          "gujaratiMeaning": "ઠપકો આપેલો",
+          "hindiMeaning": "निंदा की हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Censuring",
+          "gujaratiPronunciation": "સેન્શરિંગ",
+          "hindiPronunciation": "सेन्शरिंग",
+          "gujaratiMeaning": "ઠપકો આપી રહ્યું",
+          "hindiMeaning": "निंदा कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Condemn",
+          "gujaratiMeaning": "નિંદા કરવી",
+          "hindiMeaning": "निंदा करना"
+        },
+        {
+          "word": "Criticize",
+          "gujaratiMeaning": "ટીકા કરવી",
+          "hindiMeaning": "आलोचना करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Praise",
+          "gujaratiMeaning": "પ્રશંસા કરવી",
+          "hindiMeaning": "प्रशंसा करना"
+        },
+        {
+          "word": "Applaud",
+          "gujaratiMeaning": "વખાણવું",
+          "hindiMeaning": "सराहना करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sensor",
+          "gujaratiMeaning": "સેન્સર",
+          "hindiMeaning": "सेंसर"
+        },
+        {
+          "word": "Censor",
+          "gujaratiMeaning": "સેન્સર કરવું",
+          "hindiMeaning": "सेंसर करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The politician was censured for his inappropriate remarks.",
+          "gujaratiTranslation": "રાજકારણીને તેની અયોગ્ય ટિપ્પણીઓ માટે ઠપકો આપવામાં આવ્યો હતો.",
+          "hindiTranslation": "राजनेता को उसकी अनुचित टिप्पणियों के लिए निन्दित किया गया था।",
+          "gujaratiPronunciation": "ધ પોલિટિશિયન વોઝ સેન્શર્ડ ફોર હિસ ઇનએપ્રોપ્રિએટ રિમાર્ક્સ.",
+          "hindiPronunciation": "द पॉलिटिशियन वॉज़ सेन्शर्ड फॉर हिज़ इनएप्रोप्रिएट रिमार्क्स।"
+        }
+      ]
+    }
+  ]
+}

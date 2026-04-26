@@ -1,0 +1,148 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Till",
+      "gujaratiPronunciation": "ટિલ",
+      "hindiPronunciation": "टिल",
+      "gujaratiMeaning": "ખેડાણ કરવું",
+      "hindiMeaning": "जुताई करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Till", "gujaratiPronunciation": "ટિલ", "hindiPronunciation": "टिल", "gujaratiMeaning": "ખેડાણ કરવું", "hindiMeaning": "जुताई करना" },
+        "V2 (Past)": { "word": "Tilled", "gujaratiPronunciation": "ટિલ્ડ", "hindiPronunciation": "टिल्ड", "gujaratiMeaning": "ખેડાણ કર્યું", "hindiMeaning": "जुताई की" },
+        "V3 (Past Participle)": { "word": "Tilled", "gujaratiPronunciation": "ટિલ્ડ", "hindiPronunciation": "टिल्ड", "gujaratiMeaning": "ખેડાણ કરેલું", "hindiMeaning": "जुताई किया हुआ" },
+        "V4 (Present Participle)": { "word": "Tilling", "gujaratiPronunciation": "ટિલિંગ", "hindiPronunciation": "टिलिंग", "gujaratiMeaning": "ખેડાણ કરી રહ્યું છે", "hindiMeaning": "जुताई कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Plough", "gujaratiPronunciation": "પ્લાઉ", "hindiPronunciation": "प्लाऊ", "gujaratiMeaning": "ખેડવું", "hindiMeaning": "जोतना" },
+        { "word": "Cultivate", "gujaratiPronunciation": "કલ્ટિવેટ", "hindiPronunciation": "कल्टिवेट", "gujaratiMeaning": "ખેતી કરવી", "hindiMeaning": "खेती करना" }
+      ],
+      "antonyms": [
+        { "word": "Compact", "gujaratiPronunciation": "કોમ્પેક્ટ", "hindiPronunciation": "कॉम्पैक्ट", "gujaratiMeaning": "દબાવવું", "hindiMeaning": "दबाना" },
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "उपेक्षा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Tell", "gujaratiPronunciation": "ટેલ", "hindiPronunciation": "टेल", "gujaratiMeaning": "કહેવું", "hindiMeaning": "बताना" },
+        { "word": "Till (conjunction)", "gujaratiPronunciation": "ટિલ", "hindiPronunciation": "टिल", "gujaratiMeaning": "જ્યાં સુધી", "hindiMeaning": "जब तक" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The farmer had to till the soil before planting the crops.", "gujaratiPronunciation": "ધ ફાર્મર હેડ ટુ ટિલ ધ સોઇલ બિફોર પ્લાન્ટિંગ ધ ક્રોપ્સ.", "hindiPronunciation": "द फार्मर हैड टू टिल द सॉइल बिफोर प्लांटिंग द क्रॉप्स।", "gujaratiTranslation": "ખેડૂતને પાક વાવતા પહેલા જમીન ખેડવી પડી.", "hindiTranslation": "किसान को फसल लगाने से पहले मिट्टी की जुताई करनी पड़ी।" }
+      ]
+    },
+    {
+      "word": "Conserve",
+      "gujaratiPronunciation": "કન્ઝર્વ",
+      "hindiPronunciation": "कंजर्व",
+      "gujaratiMeaning": "સંરક્ષણ કરવું",
+      "hindiMeaning": "संरक्षण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Conserve", "gujaratiPronunciation": "કન્ઝર્વ", "hindiPronunciation": "कंजर्व", "gujaratiMeaning": "સંરક્ષણ કરવું", "hindiMeaning": "संरक्षण करना" },
+        "V2 (Past)": { "word": "Conserved", "gujaratiPronunciation": "કન્ઝર્વ્ડ", "hindiPronunciation": "कंजर्व्ड", "gujaratiMeaning": "સંરક્ષણ કર્યું", "hindiMeaning": "संरक्षण किया" },
+        "V3 (Past Participle)": { "word": "Conserved", "gujaratiPronunciation": "કન્ઝર્વ્ડ", "hindiPronunciation": "कंजर्व्ड", "gujaratiMeaning": "સંરક્ષણ કરેલું", "hindiMeaning": "संरक्षित" },
+        "V4 (Present Participle)": { "word": "Conserving", "gujaratiPronunciation": "કન્ઝર્વિંગ", "hindiPronunciation": "कंजर्विंग", "gujaratiMeaning": "સંરક્ષણ કરી રહ્યું છે", "hindiMeaning": "संरक्षण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Preserve", "gujaratiPronunciation": "પ્રિઝર્વ", "hindiPronunciation": "प्रिजर्व", "gujaratiMeaning": "જાળવવું", "hindiMeaning": "संरक्षित करना" },
+        { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" }
+      ],
+      "antonyms": [
+        { "word": "Waste", "gujaratiPronunciation": "વેસ્ટ", "hindiPronunciation": "वेस्ट", "gujaratiMeaning": "બગાડ કરવો", "hindiMeaning": "बर्बाद करना" },
+        { "word": "Squander", "gujaratiPronunciation": "સ્કવોન્ડર", "hindiPronunciation": "स्क्वांडर", "gujaratiMeaning": "ઉડાવી દેવું", "hindiMeaning": "गंवाना" }
+      ],
+      "confusingWords": [
+        { "word": "Converse", "gujaratiPronunciation": "કન્વર્સ", "hindiPronunciation": "कन्वर्स", "gujaratiMeaning": "વાતચીત કરવી", "hindiMeaning": "बातचीत करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "We must conserve water for future generations.", "gujaratiPronunciation": "વી મસ્ટ કન્ઝર્વ વોટર ફોર ફ્યુચર જનરેશન્સ.", "hindiPronunciation": "वी मस्ट कंजर्व वॉटर फॉर फ्यूचर जेनरेशंस।", "gujaratiTranslation": "આપણે ભવિષ્યની પેઢીઓ માટે પાણીનું સંરક્ષણ કરવું જ જોઈએ.", "hindiTranslation": "हमें भविष्य की पीढ़ियों के लिए पानी का संरक्षण करना चाहिए।" }
+      ]
+    },
+    {
+      "word": "Yield",
+      "gujaratiPronunciation": "યીલ્ડ",
+      "hindiPronunciation": "यील्ड",
+      "gujaratiMeaning": "ઉપજ આપવી",
+      "hindiMeaning": "उपज देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Yield", "gujaratiPronunciation": "યીલ્ડ", "hindiPronunciation": "यील्ड", "gujaratiMeaning": "ઉપજ આપવી", "hindiMeaning": "उपज देना" },
+        "V2 (Past)": { "word": "Yielded", "gujaratiPronunciation": "યીલ્ડેડ", "hindiPronunciation": "यील्डेड", "gujaratiMeaning": "ઉપજ આપી", "hindiMeaning": "उपज दी" },
+        "V3 (Past Participle)": { "word": "Yielded", "gujaratiPronunciation": "યીલ્ડેડ", "hindiPronunciation": "यील्डेड", "gujaratiMeaning": "ઉપજ આપેલું", "hindiMeaning": "उपज दिया हुआ" },
+        "V4 (Present Participle)": { "word": "Yielding", "gujaratiPronunciation": "યીલ્ડિંગ", "hindiPronunciation": "यील्डिंग", "gujaratiMeaning": "ઉપજ આપી રહ્યું છે", "hindiMeaning": "उपज दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Produce", "gujaratiPronunciation": "પ્રોડ્યુસ", "hindiPronunciation": "प्रोड्यूस", "gujaratiMeaning": "ઉત્પન્ન કરવું", "hindiMeaning": "उत्पन्न करना" },
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" }
+      ],
+      "antonyms": [
+        { "word": "Resist", "gujaratiPronunciation": "રિઝિસ્ટ", "hindiPronunciation": "रेज़िस्ट", "gujaratiMeaning": "પ્રતિકાર કરવો", "hindiMeaning": "विरोध करना" },
+        { "word": "Withhold", "gujaratiPronunciation": "વિથહોલ્ડ", "hindiPronunciation": "विथहोल्ड", "gujaratiMeaning": "રોકી રાખવું", "hindiMeaning": "रोक रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Yelled", "gujaratiPronunciation": "યેલ્ડ", "hindiPronunciation": "येल्ड", "gujaratiMeaning": "બૂમ પાડી", "hindiMeaning": "चिल्लाया" }
+      ],
+      "exampleSentences": [
+        { "sentence": "This land can yield a good harvest.", "gujaratiPronunciation": "ધીસ લેન્ડ કેન યીલ્ડ અ ગુડ હાર્વેસ્ટ.", "hindiPronunciation": "दिस लैंड कैन यील्ड अ गुड हार्वेस्ट।", "gujaratiTranslation": "આ જમીન સારી ઉપજ આપી શકે છે.", "hindiTranslation": "यह भूमि अच्छी फसल दे सकती है।" }
+      ]
+    },
+    {
+      "word": "Propagate",
+      "gujaratiPronunciation": "પ્રોપગેટ",
+      "hindiPronunciation": "प्रॉपगेट",
+      "gujaratiMeaning": "પ્રચાર કરવો",
+      "hindiMeaning": "प्रचार करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Propagate", "gujaratiPronunciation": "પ્રોપગેટ", "hindiPronunciation": "प्रॉपगेट", "gujaratiMeaning": "પ્રચાર કરવો", "hindiMeaning": "प्रचार करना" },
+        "V2 (Past)": { "word": "Propagated", "gujaratiPronunciation": "પ્રોપગેટેડ", "hindiPronunciation": "प्रॉपगेटेड", "gujaratiMeaning": "પ્રચાર કર્યો", "hindiMeaning": "प्रचार किया" },
+        "V3 (Past Participle)": { "word": "Propagated", "gujaratiPronunciation": "પ્રોપગેટેડ", "hindiPronunciation": "प्रॉपगेटेड", "gujaratiMeaning": "પ્રચાર કરેલું", "hindiMeaning": "प्रचारित" },
+        "V4 (Present Participle)": { "word": "Propagating", "gujaratiPronunciation": "પ્રોપગેટિંગ", "hindiPronunciation": "प्रॉपगेटिंग", "gujaratiMeaning": "પ્રચાર કરી રહ્યું છે", "hindiMeaning": "प्रचार कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Spread", "gujaratiPronunciation": "સ્પ્રેડ", "hindiPronunciation": "स्प्रेड", "gujaratiMeaning": "ફેલાવવું", "hindiMeaning": "फैलाना" },
+        { "word": "Reproduce", "gujaratiPronunciation": "રિપ્રોડ્યુસ", "hindiPronunciation": "रिप्रोड्यूस", "gujaratiMeaning": "પ્રજનન કરવું", "hindiMeaning": "प्रजनन करना" }
+      ],
+      "antonyms": [
+        { "word": "Suppress", "gujaratiPronunciation": "સપ્રેસ", "hindiPronunciation": "सप्रेस", "gujaratiMeaning": "દબાવવું", "hindiMeaning": "दबाना" },
+        { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Proper gate", "gujaratiPronunciation": "પ્રોપર ગેટ", "hindiPronunciation": "प्रॉपर गेट", "gujaratiMeaning": "યોગ્ય દરવાજો", "hindiMeaning": "उचित द्वार" }
+      ],
+      "exampleSentences": [
+        { "sentence": "You can propagate this plant from cuttings.", "gujaratiPronunciation": "યુ કેન પ્રોપગેટ ધીસ પ્લાન્ટ ફ્રોમ કટિંગ્સ.", "hindiPronunciation": "यू कैन प्रॉपगेट दिस प्लांट फ्रॉम कटिंग्स।", "gujaratiTranslation": "તમે આ છોડને કટિંગમાંથી ઉગાડી શકો છો.", "hindiTranslation": "आप इस पौधे को कलमों से उगा सकते हैं।" }
+      ]
+    },
+    {
+      "word": "Enact",
+      "gujaratiPronunciation": "એનેક્ટ",
+      "hindiPronunciation": "इनैक्ट",
+      "gujaratiMeaning": "કાનૂન બનાવવો",
+      "hindiMeaning": "कानून बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Enact", "gujaratiPronunciation": "એનેક્ટ", "hindiPronunciation": "इनैक्ट", "gujaratiMeaning": "કાનૂન બનાવવો", "hindiMeaning": "कानून बनाना" },
+        "V2 (Past)": { "word": "Enacted", "gujaratiPronunciation": "એનેક્ટેડ", "hindiPronunciation": "इनैक्टेड", "gujaratiMeaning": "કાનૂન બનાવ્યો", "hindiMeaning": "कानून बनाया" },
+        "V3 (Past Participle)": { "word": "Enacted", "gujaratiPronunciation": "એનેક્ટેડ", "hindiPronunciation": "इनैक्टेड", "gujaratiMeaning": "કાનૂન બનાવેલો", "hindiMeaning": "अधिनियमित" },
+        "V4 (Present Participle)": { "word": "Enacting", "gujaratiPronunciation": "એનેક્ટિંગ", "hindiPronunciation": "इनैक्टिंग", "gujaratiMeaning": "કાનૂન બનાવી રહ્યું છે", "hindiMeaning": "कानून बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Legislate", "gujaratiPronunciation": "લેજિસ્લેટ", "hindiPronunciation": "लेजिस्लेट", "gujaratiMeaning": "કાયદો ઘડવો", "hindiMeaning": "कानून बनाना" },
+        { "word": "Pass", "gujaratiPronunciation": "પાસ", "hindiPronunciation": "पास", "gujaratiMeaning": "પસાર કરવું", "hindiMeaning": "पारित करना" }
+      ],
+      "antonyms": [
+        { "word": "Repeal", "gujaratiPronunciation": "રિપીલ", "hindiPronunciation": "रिपील", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" },
+        { "word": "Veto", "gujaratiPronunciation": "વીટો", "hindiPronunciation": "वीटो", "gujaratiMeaning": "નિષેધ કરવો", "hindiMeaning": "निषेध करना" }
+      ],
+      "confusingWords": [
+        { "word": "Exact", "gujaratiPronunciation": "એક્ઝેક્ટ", "hindiPronunciation": "एग्जैक्ट", "gujaratiMeaning": "ચોક્કસ", "hindiMeaning": "सटीक" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The government will enact new laws to protect the environment.", "gujaratiPronunciation": "ધ ગવર્નમેન્ટ વિલ એનેક્ટ ન્યુ લોઝ ટુ પ્રોટેક્ટ ધ એન્વાયર્નમેન્ટ.", "hindiPronunciation": "द गवर्नमेंट विल इनैक्ट न्यू लॉज़ टू प्रोटेक्ट द एनवायरनमेंट।", "gujaratiTranslation": "સરકાર પર્યાવરણની સુરક્ષા માટે નવા કાયદા બનાવશે.", "hindiTranslation": "सरकार पर्यावरण की रक्षा के लिए नए कानून बनाएगी।" }
+      ]
+    }
+  ]
+}
+    

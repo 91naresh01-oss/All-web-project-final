@@ -1,0 +1,340 @@
+{
+  "id": "level-3",
+  "title": "Level 3: Comm. & Digital",
+  "words": [
+    {
+      "word": "Debug",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "ડીબગ",
+      "hindiPronunciation": "डीबग",
+      "gujaratiMeaning": "ભૂલો સુધારવી (પ્રોગ્રામમાંથી)",
+      "hindiMeaning": "त्रुटियों को सुधारना (प्रोग्राम से)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Debug",
+          "gujaratiPronunciation": "ડીબગ",
+          "hindiPronunciation": "डीबग",
+          "gujaratiMeaning": "ભૂલો સુધારવી",
+          "hindiMeaning": "त्रुटियों को सुधारना"
+        },
+        "v2 (Past)": {
+          "word": "Debugged",
+          "gujaratiPronunciation": "ડીબગ્ડ",
+          "hindiPronunciation": "डीबग किया",
+          "gujaratiMeaning": "ભૂલો સુધારી",
+          "hindiMeaning": "त्रुटियों को सुधारा"
+        },
+        "v3 (Past Participle)": {
+          "word": "Debugged",
+          "gujaratiPronunciation": "ડીબગ્ડ",
+          "hindiPronunciation": "डीबग किया",
+          "gujaratiMeaning": "ભૂલો સુધારેલી",
+          "hindiMeaning": "त्रुटियों को सुधारा हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Debugging",
+          "gujaratiPronunciation": "ડીબગિંગ",
+          "hindiPronunciation": "डीबगिंग",
+          "gujaratiMeaning": "ભૂલો સુધારી રહ્યું છે",
+          "hindiMeaning": "त्रुटियों को सुधार रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Troubleshoot",
+          "gujaratiPronunciation": "ટ્રબલશૂટ",
+          "hindiPronunciation": "ट्रबलशूट",
+          "gujaratiMeaning": "સમસ્યાનું નિવારણ કરવું",
+          "hindiMeaning": "समस्या निवारण करना"
+        },
+        {
+          "word": "Fix",
+          "gujaratiPronunciation": "ફિક્સ",
+          "hindiPronunciation": "फिक्स",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "सुधारना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The programmer spent hours trying to debug the code.",
+          "gujaratiTranslation": "પ્રોગ્રામરે કોડને ડીબગ કરવાના પ્રયાસમાં કલાકો ગાળ્યા.",
+          "hindiTranslation": "प्रोग्रामर ने कोड को डीबग करने की कोशिश में घंटों बिताए।"
+        }
+      ]
+    },
+    {
+      "word": "Interface",
+      "partOfSpeech": "noun/verb",
+      "gujaratiPronunciation": "ઇન્ટરફેસ",
+      "hindiPronunciation": "इंटरफ़ेस",
+      "gujaratiMeaning": "ઇન્ટરફેસ, બે સિસ્ટમ વચ્ચેનું જોડાણ",
+      "hindiMeaning": "इंटरफ़ेस, दो प्रणालियों के बीच का संबंध",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Interface",
+          "gujaratiPronunciation": "ઇન્ટરફેસ",
+          "hindiPronunciation": "इंटरफ़ेस",
+          "gujaratiMeaning": "જોડાણ કરવું",
+          "hindiMeaning": "अंतरापृष्ठ बनाना"
+        },
+        "v2 (Past)": {
+          "word": "Interfaced",
+          "gujaratiPronunciation": "ઇન્ટરફેસ્ડ",
+          "hindiPronunciation": "इंटरफ़ेस्ड",
+          "gujaratiMeaning": "જોડાણ કર્યું",
+          "hindiMeaning": "अंतरापृष्ठ बनाया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Interfaced",
+          "gujaratiPronunciation": "ઇન્ટરફેસ્ડ",
+          "hindiPronunciation": "इंटरफ़ेस्ड",
+          "gujaratiMeaning": "જોડાણ કરેલું",
+          "hindiMeaning": "अंतरापृष्ठ बनाया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Interfacing",
+          "gujaratiPronunciation": "ઇન્ટરફેસિંગ",
+          "hindiPronunciation": "इंटरफेसिंग",
+          "gujaratiMeaning": "જોડાણ કરી રહ્યું છે",
+          "hindiMeaning": "अंतरापृष्ठ बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Connection",
+          "gujaratiPronunciation": "કનેક્શન",
+          "hindiPronunciation": "कनेक्शन",
+          "gujaratiMeaning": "જોડાણ",
+          "hindiMeaning": "संबंध"
+        },
+        {
+          "word": "Interaction",
+          "gujaratiPronunciation": "ઇન્ટરેક્શન",
+          "hindiPronunciation": "इंटरेक्शन",
+          "gujaratiMeaning": "પરસ્પર ક્રિયા",
+          "hindiMeaning": "बातचीत"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The user interface of this app is very friendly.",
+          "gujaratiTranslation": "આ એપનું યુઝર ઇન્ટરફેસ ખૂબ જ ફ્રેન્ડલી છે.",
+          "hindiTranslation": "इस ऐप का यूजर इंटरफेस बहुत अनुकूल है।"
+        }
+      ]
+    },
+    {
+      "word": "Archive",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "આર્કાઇવ",
+      "hindiPronunciation": "आर्काइव",
+      "gujaratiMeaning": "દસ્તાવેજોનો સંગ્રહ કરવો",
+      "hindiMeaning": "पुरालेख में रखना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Archive",
+          "gujaratiPronunciation": "આર્કાઇવ",
+          "hindiPronunciation": "आर्काइव",
+          "gujaratiMeaning": "સંગ્રહ કરવો",
+          "hindiMeaning": "संग्रहीत करना"
+        },
+        "v2 (Past)": {
+          "word": "Archived",
+          "gujaratiPronunciation": "આર્કાઇવ્ડ",
+          "hindiPronunciation": "आर्काइव किया",
+          "gujaratiMeaning": "સંગ્રહ કર્યો",
+          "hindiMeaning": "संग्रहीत किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Archived",
+          "gujaratiPronunciation": "આર્કાઇવ્ડ",
+          "hindiPronunciation": "आर्काइव किया",
+          "gujaratiMeaning": "સંગ્રહ કરેલો",
+          "hindiMeaning": "संग्रहीत किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Archiving",
+          "gujaratiPronunciation": "આર્કાઇવિંગ",
+          "hindiPronunciation": "आर्काइविंग",
+          "gujaratiMeaning": "સંગ્રહ કરી રહ્યું છે",
+          "hindiMeaning": "संग्रहीत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Store",
+          "gujaratiPronunciation": "સ્ટોર",
+          "hindiPronunciation": "स्टोर",
+          "gujaratiMeaning": "સંગ્રહ કરવો",
+          "hindiMeaning": "संग्रहीत करना"
+        },
+        {
+          "word": "File",
+          "gujaratiPronunciation": "ફાઇલ",
+          "hindiPronunciation": "फाइल",
+          "gujaratiMeaning": "ફાઇલ કરવું",
+          "hindiMeaning": "फाइल करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Delete",
+          "gujaratiPronunciation": "ડિલીટ",
+          "hindiPronunciation": "डिलीट",
+          "gujaratiMeaning": "કાઢી નાખવું",
+          "hindiMeaning": "मिटाना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You should archive your old emails to save space.",
+          "gujaratiTranslation": "જગ્યા બચાવવા માટે તમારે તમારા જૂના ઇમેઇલ્સને આર્કાઇવ કરવા જોઈએ.",
+          "hindiTranslation": "जगह बचाने के लिए आपको अपने पुराने ईमेल आर्काइव करने चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Encrypt",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "એન્ક્રિપ્ટ",
+      "hindiPronunciation": "एन्क्रिप्ट",
+      "gujaratiMeaning": "ગુપ્ત કોડમાં ફેરવવું",
+      "hindiMeaning": "एन्क्रिप्ट करना (गुप्त कोड में बदलना)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Encrypt",
+          "gujaratiPronunciation": "એન્ક્રિપ્ટ",
+          "hindiPronunciation": "एन्क्रिप्ट",
+          "gujaratiMeaning": "ગુપ્ત કોડમાં ફેરવવું",
+          "hindiMeaning": "एन्क्रिप्ट करना"
+        },
+        "v2 (Past)": {
+          "word": "Encrypted",
+          "gujaratiPronunciation": "એન્ક્રિપ્ટેડ",
+          "hindiPronunciation": "एन्क्रिप्टेड",
+          "gujaratiMeaning": "ગુપ્ત કોડમાં ફેરવ્યું",
+          "hindiMeaning": "एन्क्रिप्ट किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Encrypted",
+          "gujaratiPronunciation": "એન્ક્રિપ્ટેડ",
+          "hindiPronunciation": "एन्क्रिप्टेड",
+          "gujaratiMeaning": "ગુપ્ત કોડમાં ફેરવેલું",
+          "hindiMeaning": "एन्क्रिप्ट किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Encrypting",
+          "gujaratiPronunciation": "એન્ક્રિપ્ટિંગ",
+          "hindiPronunciation": "एन्क्रिप्टिंग",
+          "gujaratiMeaning": "ગુપ્ત કોડમાં ફેરવી રહ્યું છે",
+          "hindiMeaning": "एन्क्रिप्ट कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Encode",
+          "gujaratiPronunciation": "એન્કોડ",
+          "hindiPronunciation": "एन्कोड",
+          "gujaratiMeaning": "એન્કોડ કરવું",
+          "hindiMeaning": "एन्कोड करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Decrypt",
+          "gujaratiPronunciation": "ડીક્રિપ્ટ",
+          "hindiPronunciation": "डिक्रिप्ट",
+          "gujaratiMeaning": "ગુપ્ત કોડમાંથી મૂળ રૂપમાં ફેરવવું",
+          "hindiMeaning": "डिक्रिप्ट करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The data is encrypted for security purposes.",
+          "gujaratiTranslation": "સુરક્ષાના હેતુઓ માટે ડેટા એન્ક્રિપ્ટ કરવામાં આવે છે.",
+          "hindiTranslation": "सुरक्षा उद्देश्यों के लिए डेटा एन्क्रिप्ट किया गया है।"
+        }
+      ]
+    },
+    {
+      "word": "Transmit",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "ટ્રાન્સમિટ",
+      "hindiPronunciation": "ट्रांसमिट",
+      "gujaratiMeaning": "પ્રસારિત કરવું, મોકલવું",
+      "hindiMeaning": "संचारित करना, भेजना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Transmit",
+          "gujaratiPronunciation": "ટ્રાન્સમિટ",
+          "hindiPronunciation": "ट्रांसमिट",
+          "gujaratiMeaning": "પ્રસારિત કરવું",
+          "hindiMeaning": "संचारित करना"
+        },
+        "v2 (Past)": {
+          "word": "Transmitted",
+          "gujaratiPronunciation": "ટ્રાન્સમિટેડ",
+          "hindiPronunciation": "ट्रांसमिटेड",
+          "gujaratiMeaning": "પ્રસારિત કર્યું",
+          "hindiMeaning": "संचारित किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Transmitted",
+          "gujaratiPronunciation": "ટ્રાન્સમિટેડ",
+          "hindiPronunciation": "ट्रांसमिटेड",
+          "gujaratiMeaning": "પ્રસારિત કરેલું",
+          "hindiMeaning": "संचारित किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Transmitting",
+          "gujaratiPronunciation": "ટ્રાન્સમિટિંગ",
+          "hindiPronunciation": "ट्रांसमिटिंग",
+          "gujaratiMeaning": "પ્રસારિત કરી રહ્યું છે",
+          "hindiMeaning": "संचारित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Send",
+          "gujaratiPronunciation": "સેન્ડ",
+          "hindiPronunciation": "सेंड",
+          "gujaratiMeaning": "મોકલવું",
+          "hindiMeaning": "भेजना"
+        },
+        {
+          "word": "Broadcast",
+          "gujaratiPronunciation": "બ્રોડકાસ્ટ",
+          "hindiPronunciation": "ब्रॉडकास्ट",
+          "gujaratiMeaning": "પ્રસારણ કરવું",
+          "hindiMeaning": "प्रसारण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Receive",
+          "gujaratiPronunciation": "રિસીવ",
+          "hindiPronunciation": "रिसीव",
+          "gujaratiMeaning": "મેળવવું",
+          "hindiMeaning": "प्राप्त करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The radio station will transmit the news at 8 PM.",
+          "gujaratiTranslation": "રેડિયો સ્ટેશન રાત્રે 8 વાગ્યે સમાચાર પ્રસારિત કરશે.",
+          "hindiTranslation": "रेडियो स्टेशन रात 8 बजे समाचार प्रसारित करेगा।"
+        }
+      ]
+    }
+  ]
+}
+
+    

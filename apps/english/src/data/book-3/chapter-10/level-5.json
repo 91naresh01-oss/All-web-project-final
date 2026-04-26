@@ -1,0 +1,159 @@
+{
+  "id": "level-5",
+  "title": "Level 5: Advanced Commerce",
+  "words": [
+    {
+      "word": "Arbitrage",
+      "gujaratiPronunciation": "આર્બિટ્રાજ",
+      "hindiPronunciation": "आर्बिट्राज",
+      "gujaratiMeaning": "એક બજારમાંથી સસ્તું ખરીદીને બીજામાં મોંઘું વેચવું",
+      "hindiMeaning": "एक बाजार से सस्ता खरीदकर दूसरे में महंगा बेचना",
+      "partOfSpeech": "Noun, Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Arbitrage", "gujaratiPronunciation": "આર્બિટ્રાજ", "hindiPronunciation": "आर्बिट्राज", "gujaratiMeaning": "લાભ માટે ખરીદ-વેચાણ કરવું", "hindiMeaning": "लाभ के लिए खरीदना-बेचना" },
+        "V2 (Past)": { "word": "Arbitraged", "gujaratiPronunciation": "આર્બિટ્રાજ્ડ", "hindiPronunciation": "आर्बिट्राज्ड", "gujaratiMeaning": "લાભ માટે ખરીદ-વેચાણ કર્યું", "hindiMeaning": "लाभ के लिए खरीदा-बेचा" },
+        "V3 (Past Participle)": { "word": "Arbitraged", "gujaratiPronunciation": "આર્બિટ્રાજ્ડ", "hindiPronunciation": "आर्बिट्राज्ड", "gujaratiMeaning": "લાભ માટે ખરીદ-વેચાણ કરેલ", "hindiMeaning": "लाभ के लिए खरीदा-बेचा हुआ" },
+        "V4 (Present Participle)": { "word": "Arbitraging", "gujaratiPronunciation": "આર્બિટ્રાજિંગ", "hindiPronunciation": "आर्बिट्राजिंग", "gujaratiMeaning": "લાભ માટે ખરીદ-વેચાણ કરી રહ્યું છે", "hindiMeaning": "लाभ के लिए खरीद-बेच रहा है" }
+      },
+      "synonyms": [],
+      "antonyms": [],
+      "confusingWords": [
+        { "word": "Arbitrate", "gujaratiPronunciation": "આર્બિટ્રેટ", "hindiPronunciation": "आर्बिट्रेट", "gujaratiMeaning": "લવાદ કરવી", "hindiMeaning": "पंच-फैसला करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He made a profit through currency arbitrage.",
+          "gujaratiTranslation": "તેણે ચલણના આર્બિટ્રાજ દ્વારા નફો કર્યો.",
+          "hindiTranslation": "उसने मुद्रा आर्बिट्राज के माध्यम से लाभ कमाया।",
+          "gujaratiPronunciation": "હી મેડ અ પ્રોફિટ થ્રુ કરન્સી આર્બિટ્રાજ.",
+          "hindiPronunciation": "ही मेड अ प्रॉफिट थ्रू करेंसी आर्बिट्राज।"
+        }
+      ]
+    },
+    {
+      "word": "Streamline",
+      "gujaratiPronunciation": "સ્ટ્રીમલાઇન",
+      "hindiPronunciation": "स्ट्रीमलाइन",
+      "gujaratiMeaning": "સરળ અને કાર્યક્ષમ બનાવવું",
+      "hindiMeaning": "सुव्यवस्थित और कुशल बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Streamline", "gujaratiPronunciation": "સ્ટ્રીમલાઇન", "hindiPronunciation": "स्ट्रीमलाइन", "gujaratiMeaning": "સરળ બનાવવું", "hindiMeaning": "सुव्यवस्थित करना" },
+        "V2 (Past)": { "word": "Streamlined", "gujaratiPronunciation": "સ્ટ્રીમલાઇન્ડ", "hindiPronunciation": "स्ट्रीमलाइन्ड", "gujaratiMeaning": "સરળ બનાવ્યું", "hindiMeaning": "सुव्यवस्थित किया" },
+        "V3 (Past Participle)": { "word": "Streamlined", "gujaratiPronunciation": "સ્ટ્રીમલાઇન્ડ", "hindiPronunciation": "स्ट्रीमलाइन्ड", "gujaratiMeaning": "સરળ બનાવેલું", "hindiMeaning": "सुव्यवस्थित" },
+        "V4 (Present Participle)": { "word": "Streamlining", "gujaratiPronunciation": "સ્ટ્રીમલાઇનિંગ", "hindiPronunciation": "स्ट्रीमलाइनिंग", "gujaratiMeaning": "સરળ બનાવી રહ્યું છે", "hindiMeaning": "सुव्यवस्थित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Simplify", "gujaratiPronunciation": "સિમ્પ્લીફાય", "hindiPronunciation": "सिम्प्लिफाई", "gujaratiMeaning": "સરળ બનાવવું", "hindiMeaning": "सरल बनाना" },
+        { "word": "Efficient", "gujaratiPronunciation": "એફિશિયન્ટ", "hindiPronunciation": "एफिशिएंट", "gujaratiMeaning": "કાર્યક્ષમ બનાવવું", "hindiMeaning": "कुशल बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Complicate", "gujaratiPronunciation": "કોમ્પ્લિકેટ", "hindiPronunciation": "कॉम्प्लीकेट", "gujaratiMeaning": "જટિલ બનાવવું", "hindiMeaning": "जटिल बनाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company needs to streamline its processes.",
+          "gujaratiTranslation": "કંપનીને તેની પ્રક્રિયાઓને સરળ અને કાર્યક્ષમ બનાવવાની જરૂર છે.",
+          "hindiTranslation": "कंपनी को अपनी प्रक्रियाओं को सुव्यवस्थित करने की आवश्यकता है।",
+          "gujaratiPronunciation": "ધ કંપની નીડ્સ ટુ સ્ટ્રીમલાઇન ઇટ્સ પ્રોસેસીસ.",
+          "hindiPronunciation": "द कंपनी नीड्स टू स्ट्रीमलाइन इट्स प्रोसेसेस।"
+        }
+      ]
+    },
+    {
+      "word": "Inventory",
+      "gujaratiPronunciation": "ઇન્વેન્ટરી",
+      "hindiPronunciation": "इन्वेंटरी",
+      "gujaratiMeaning": "માલ-સામાનની યાદી બનાવવી, સ્ટોક",
+      "hindiMeaning": "माल-सूची बनाना, स्टॉक",
+      "partOfSpeech": "Noun, Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Inventory", "gujaratiPronunciation": "ઇન્વેન્ટરી", "hindiPronunciation": "इन्वेंटरी", "gujaratiMeaning": "યાદી બનાવવી", "hindiMeaning": "सूची बनाना" },
+        "V2 (Past)": { "word": "Inventoried", "gujaratiPronunciation": "ઇન્વેન્ટરીડ", "hindiPronunciation": "इन्वेंटरीड", "gujaratiMeaning": "યાદી બનાવી", "hindiMeaning": "सूची बनाई" },
+        "V3 (Past Participle)": { "word": "Inventoried", "gujaratiPronunciation": "ઇન્વેન્ટરીડ", "hindiPronunciation": "इन्वेंटरीड", "gujaratiMeaning": "યાદી બનાવેલી", "hindiMeaning": "सूचीबद्ध" },
+        "V4 (Present Participle)": { "word": "Inventorying", "gujaratiPronunciation": "ઇન્વેન્ટરીઇંગ", "hindiPronunciation": "इन्वेंटरीइंग", "gujaratiMeaning": "યાદી બનાવી રહ્યું છે", "hindiMeaning": "सूची बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Stock", "gujaratiPronunciation": "સ્ટોક", "hindiPronunciation": "स्टॉक", "gujaratiMeaning": "માલનો જથ્થો", "hindiMeaning": "भंडार" },
+        { "word": "List", "gujaratiPronunciation": "લિસ્ટ", "hindiPronunciation": "लिस्ट", "gujaratiMeaning": "યાદી", "hindiMeaning": "सूची" }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        { "word": "Invention", "gujaratiPronunciation": "ઇન્વેન્શન", "hindiPronunciation": "इन्वेंशन", "gujaratiMeaning": "શોધ", "hindiMeaning": "आविष्कार" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to do an inventory of all our products.",
+          "gujaratiTranslation": "આપણે આપણા તમામ ઉત્પાદનોની માલ-સામાનની યાદી બનાવવાની જરૂર છે.",
+          "hindiTranslation": "हमें अपने सभी उत्पादों की एक सूची बनाने की आवश्यकता है।",
+          "gujaratiPronunciation": "વી નીડ ટુ ડુ એન ઇન્વેન્ટરી ઓફ ઓલ અવર પ્રોડક્ટ્સ.",
+          "hindiPronunciation": "वी नीड टू डू एन इन्वेंटरी ऑफ ऑल आवर प्रोडक्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Deplete",
+      "gujaratiPronunciation": "ડિપ્લીટ",
+      "hindiPronunciation": "डिप्लीट",
+      "gujaratiMeaning": "ખલાસ કરવું, ઘટાડવું",
+      "hindiMeaning": "समाप्त करना, कम करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Deplete", "gujaratiPronunciation": "ડિપ્લીટ", "hindiPronunciation": "डिप्लीट", "gujaratiMeaning": "ખલાસ કરવું", "hindiMeaning": "समाप्त करना" },
+        "V2 (Past)": { "word": "Depleted", "gujaratiPronunciation": "ડિપ્લીટેડ", "hindiPronunciation": "डिप्लीटेड", "gujaratiMeaning": "ખલાસ કર્યું", "hindiMeaning": "समाप्त किया" },
+        "V3 (Past Participle)": { "word": "Depleted", "gujaratiPronunciation": "ડિપ્લીટેડ", "hindiPronunciation": "डिप्लीटेड", "gujaratiMeaning": "ખલાસ થયેલું", "hindiMeaning": "समाप्त" },
+        "V4 (Present Participle)": { "word": "Depleting", "gujaratiPronunciation": "ડિપ્લીટિંગ", "hindiPronunciation": "डिप्लीटिंग", "gujaratiMeaning": "ખલાસ કરી રહ્યું છે", "hindiMeaning": "समाप्त कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Exhaust", "gujaratiPronunciation": "એક્ઝોસ્ટ", "hindiPronunciation": "एग्जॉस्ट", "gujaratiMeaning": "ખલાસ કરવું", "hindiMeaning": "खत्म करना" },
+        { "word": "Use up", "gujaratiPronunciation": "યુઝ અપ", "hindiPronunciation": "यूज़ अप", "gujaratiMeaning": "વાપરી નાખવું", "hindiMeaning": "उपयोग कर लेना" }
+      ],
+      "antonyms": [
+        { "word": "Increase", "gujaratiPronunciation": "ઇનક્રીઝ", "hindiPronunciation": "इनक्रीज़", "gujaratiMeaning": "વધારવું", "hindiMeaning": "बढ़ाना" },
+        { "word": "Replenish", "gujaratiPronunciation": "રિપ્લેનિશ", "hindiPronunciation": "रिप्लेनिश", "gujaratiMeaning": "ફરીથી ભરવું", "hindiMeaning": "फिर से भरना" }
+      ],
+      "confusingWords": [
+        { "word": "Delete", "gujaratiPronunciation": "ડિલીટ", "hindiPronunciation": "डिलीट", "gujaratiMeaning": "કાઢી નાખવું", "hindiMeaning": "हटाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We should not deplete our natural resources.",
+          "gujaratiTranslation": "આપણે આપણા કુદરતી સંસાધનોને ખલાસ ન કરવા જોઈએ.",
+          "hindiTranslation": "हमें अपने प्राकृतिक संसाधनों को समाप्त नहीं करना चाहिए।",
+          "gujaratiPronunciation": "વી શુડ નોટ ડિપ્લીટ અવર નેચરલ રિસોર્સીસ.",
+          "hindiPronunciation": "वी शुड नॉट डिप्लीट आवर नेचुरल रिसोर्सेज।"
+        }
+      ]
+    },
+    {
+      "word": "Merchandise",
+      "gujaratiPronunciation": "મર્ચેન્ડાઇઝ",
+      "hindiPronunciation": "मर्चेंडाइज",
+      "gujaratiMeaning": "વેપાર કરવો, માલ-સામાન",
+      "hindiMeaning": "व्यापार करना, माल",
+      "partOfSpeech": "Noun, Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Merchandise", "gujaratiPronunciation": "મર્ચેન્ડાઇઝ", "hindiPronunciation": "मर्चेंडाइज", "gujaratiMeaning": "વેપાર કરવો", "hindiMeaning": "व्यापार करना" },
+        "V2 (Past)": { "word": "Merchandised", "gujaratiPronunciation": "મર્ચેન્ડાઇઝ્ડ", "hindiPronunciation": "मर्चेंडाइज्ड", "gujaratiMeaning": "વેપાર કર્યો", "hindiMeaning": "व्यापार किया" },
+        "V3 (Past Participle)": { "word": "Merchandised", "gujaratiPronunciation": "મર્ચેન્ડાઇઝ્ડ", "hindiPronunciation": "मर्चेंडाइज्ड", "gujaratiMeaning": "વેપાર કરેલ", "hindiMeaning": "व्यापार किया हुआ" },
+        "V4 (Present Participle)": { "word": "Merchandising", "gujaratiPronunciation": "મર્ચેન્ડાઇઝિંગ", "hindiPronunciation": "मर्चेंडाइजिंग", "gujaratiMeaning": "વેપાર કરી રહ્યું છે", "hindiMeaning": "व्यापार कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Goods", "gujaratiPronunciation": "ગુડ્ઝ", "hindiPronunciation": "गुड्स", "gujaratiMeaning": "માલ", "hindiMeaning": "माल" },
+        { "word": "Products", "gujaratiPronunciation": "પ્રોડક્ટ્સ", "hindiPronunciation": "प्रोडक्ट्स", "gujaratiMeaning": "ઉત્પાદનો", "hindiMeaning": "उत्पाद" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The store sells a wide range of merchandise.",
+          "gujaratiTranslation": "આ દુકાન વિશાળ શ્રેણીનો માલ-સામાન વેચે છે.",
+          "hindiTranslation": "यह दुकान विभिन्न प्रकार के माल बेचती है।",
+          "gujaratiPronunciation": "ધ સ્ટોર સેલ્સ અ વાઇડ રેન્જ ઓફ મર્ચેન્ડાઇઝ.",
+          "hindiPronunciation": "द स्टोर सेल्स अ वाइड रेंज ऑफ मर्चेंडाइज।"
+        }
+      ]
+    }
+  ]
+}

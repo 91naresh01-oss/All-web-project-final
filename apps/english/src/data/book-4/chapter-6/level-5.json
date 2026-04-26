@@ -1,0 +1,372 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Exterminate",
+      "gujaratiPronunciation": "એક્સટર્મિનેટ",
+      "hindiPronunciation": "एक्सटर्मिनेट",
+      "gujaratiMeaning": "સંપૂર્ણપણે નાશ કરવો",
+      "hindiMeaning": "पूरी तरह से नष्ट करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Exterminate",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नाश करना"
+        },
+        "V2 (Past)": {
+          "word": "Exterminated",
+          "gujaratiMeaning": "નાશ કર્યો",
+          "hindiMeaning": "नाश किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Exterminated",
+          "gujaratiMeaning": "નાશ પામેલું",
+          "hindiMeaning": "नष्ट हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Exterminating",
+          "gujaratiPronunciation": "એક્સટર્મિનેટિંગ",
+          "hindiPronunciation": "एक्सटर्मिनेटिंग",
+          "gujaratiMeaning": "નાશ કરી રહ્યું",
+          "hindiMeaning": "नाश कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Annihilate",
+          "gujaratiMeaning": "સર્વનાશ કરવો",
+          "hindiMeaning": "सर्वनाश करना"
+        },
+        {
+          "word": "Eradicate",
+          "gujaratiMeaning": "જડમૂળથી નાશ કરવો",
+          "hindiMeaning": "जड़ से उखाड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Create",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Foster",
+          "gujaratiMeaning": "પાલનપોષણ કરવું",
+          "hindiMeaning": "पालन-पोषण करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Terminate",
+          "gujaratiPronunciation": "ટર્મિનેટ",
+          "hindiPronunciation": "टर्मिनेट",
+          "gujaratiMeaning": "સમાપ્ત કરવું",
+          "hindiMeaning": "समाप्त करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The government is trying to exterminate the pest population.",
+          "gujaratiTranslation": "સરકાર જીવાતની વસ્તીનો સંપૂર્ણ નાશ કરવાનો પ્રયાસ કરી રહી છે.",
+          "hindiTranslation": "सरकार कीटों की आबादी को पूरी तरह से खत्म करने की कोशिश कर रही है।",
+          "gujaratiPronunciation": "ધ ગવર્નમેન્ટ ઇઝ ટ્રાઇંગ ટુ એક્સટર્મિનેટ ધ પેસ્ટ પોપ્યુલેશન.",
+          "hindiPronunciation": "द गवर्नमेंट इज़ ट्राइंग टू एक्सटर्मिनेट द पेस्ट पॉपुलेशन।"
+        }
+      ]
+    },
+    {
+      "word": "Cripple",
+      "gujaratiPronunciation": "ક્રિપલ",
+      "hindiPronunciation": "क्रिप्पल",
+      "gujaratiMeaning": "અપંગ બનાવવું",
+      "hindiMeaning": "अपंग बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Cripple",
+          "gujaratiMeaning": "અપંગ બનાવવું",
+          "hindiMeaning": "अपंग बनाना"
+        },
+        "V2 (Past)": {
+          "word": "Crippled",
+          "gujaratiMeaning": "અપંગ બનાવ્યું",
+          "hindiMeaning": "अपंग बनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Crippled",
+          "gujaratiMeaning": "અપંગ બનેલું",
+          "hindiMeaning": "अपंग बना हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Crippling",
+          "gujaratiPronunciation": "ક્રિપલિંગ",
+          "hindiPronunciation": "क्रिप्पलिंग",
+          "gujaratiMeaning": "અપંગ બનાવી રહ્યું",
+          "hindiMeaning": "अपंग बना रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Disable",
+          "gujaratiMeaning": "અક્ષમ કરવું",
+          "hindiMeaning": "अक्षम करना"
+        },
+        {
+          "word": "Maim",
+          "gujaratiMeaning": "અપંગ બનાવવું",
+          "hindiMeaning": "अपंग बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Enable",
+          "gujaratiMeaning": "સક્ષમ કરવું",
+          "hindiMeaning": "सक्षम करना"
+        },
+        {
+          "word": "Strengthen",
+          "gujaratiMeaning": "મજબૂત કરવું",
+          "hindiMeaning": "मजबूत करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Ripple",
+          "gujaratiPronunciation": "રિપલ",
+          "hindiPronunciation": "रिपल",
+          "gujaratiMeaning": "લહેર",
+          "hindiMeaning": "लहर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The war has crippled the country's economy.",
+          "gujaratiTranslation": "યુદ્ધે દેશના અર્થતંત્રને અપંગ બનાવી દીધું છે.",
+          "hindiTranslation": "युद्ध ने देश की अर्थव्यवस्था को पंगु बना दिया है।",
+          "gujaratiPronunciation": "ધ વોર હેઝ ક્રિપલ્ડ ધ કંટ્રીઝ ઇકોનોમી.",
+          "hindiPronunciation": "द वॉर हैज़ क्रिपल्ड द कंट्रीज़ इकोनॉमी।"
+        }
+      ]
+    },
+    {
+      "word": "Corrode",
+      "gujaratiPronunciation": "કરોડ",
+      "hindiPronunciation": "करोड",
+      "gujaratiMeaning": "કાટ લાગવો",
+      "hindiMeaning": "जंग लगना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Corrode",
+          "gujaratiMeaning": "કાટ લાગવો",
+          "hindiMeaning": "जंग लगना"
+        },
+        "V2 (Past)": {
+          "word": "Corroded",
+          "gujaratiMeaning": "કાટ લાગ્યો",
+          "hindiMeaning": "जंग लगा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Corroded",
+          "gujaratiMeaning": "કાટ લાગેલો",
+          "hindiMeaning": "जंग लगा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Corroding",
+          "gujaratiPronunciation": "કરોડિંગ",
+          "hindiPronunciation": "करोडिंग",
+          "gujaratiMeaning": "કાટ લાગી રહ્યું",
+          "hindiMeaning": "जंग लग रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rust",
+          "gujaratiMeaning": "કાટ",
+          "hindiMeaning": "जंग"
+        },
+        {
+          "word": "Erode",
+          "gujaratiMeaning": "નાશ પામવું",
+          "hindiMeaning": "नष्ट होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Protect",
+          "gujaratiMeaning": "રક્ષણ કરવું",
+          "hindiMeaning": "रक्षा करना"
+        },
+        {
+          "word": "Preserve",
+          "gujaratiMeaning": "જાળવવું",
+          "hindiMeaning": "संरक्षित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Corrupt",
+          "gujaratiPronunciation": "કરપ્ટ",
+          "hindiPronunciation": "करप्ट",
+          "gujaratiMeaning": "ભ્રષ્ટ",
+          "hindiMeaning": "भ्रष्ट"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Acid can corrode metal.",
+          "gujaratiTranslation": "એસિડ ધાતુને કાટ લગાડી શકે છે.",
+          "hindiTranslation": "एसिड धातु को जंग लगा सकता है।",
+          "gujaratiPronunciation": "એસિડ કેન કરોડ મેટલ.",
+          "hindiPronunciation": "एसिड कैन करोड मेटल।"
+        }
+      ]
+    },
+    {
+      "word": "Fissure",
+      "gujaratiPronunciation": "ફિશર",
+      "hindiPronunciation": "फिशर",
+      "gujaratiMeaning": "તિરાડ પડવી",
+      "hindiMeaning": "दरार पड़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Fissure",
+          "gujaratiMeaning": "તિરાડ પડવી",
+          "hindiMeaning": "दरार पड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Fissured",
+          "gujaratiMeaning": "તિરાડ પડી",
+          "hindiMeaning": "दरार पड़ी"
+        },
+        "V3 (Past Participle)": {
+          "word": "Fissured",
+          "gujaratiMeaning": "તિરાડ પડેલી",
+          "hindiMeaning": "दरार पड़ी हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Fissuring",
+          "gujaratiPronunciation": "ફિશરિંગ",
+          "hindiPronunciation": "फिशरिंग",
+          "gujaratiMeaning": "તિરાડ પડી રહ્યું",
+          "hindiMeaning": "दरार पड़ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Crack",
+          "gujaratiMeaning": "તિરાડ",
+          "hindiMeaning": "दरार"
+        },
+        {
+          "word": "Split",
+          "gujaratiMeaning": "વિભાજન",
+          "hindiMeaning": "विभाजन"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Seal",
+          "gujaratiMeaning": "સીલ કરવું",
+          "hindiMeaning": "सील करना"
+        },
+        {
+          "word": "Join",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Fisher",
+          "gujaratiMeaning": "માછીમાર",
+          "hindiMeaning": "मछुआरा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The dry earth began to fissure under the hot sun.",
+          "gujaratiTranslation": "ગરમ સૂર્ય હેઠળ સૂકી ધરતીમાં તિરાડ પડવા લાગી.",
+          "hindiTranslation": "गर्म सूरज के नीचे सूखी धरती में दरार पड़ने लगी।",
+          "gujaratiPronunciation": "ધ ડ્રાય અર્થ બિગેન ટુ ફિશર અન્ડર ધ હોટ સન.",
+          "hindiPronunciation": "द ड्राई अर्थ बिगेन टू फिशर अंडर द हॉट सन।"
+        }
+      ]
+    },
+    {
+      "word": "Ravage",
+      "gujaratiPronunciation": "રેવેજ",
+      "hindiPronunciation": "रैवेज",
+      "gujaratiMeaning": "ઉજ્જડ કરવું",
+      "hindiMeaning": "उजाड़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Ravage",
+          "gujaratiMeaning": "ઉજ્જડ કરવું",
+          "hindiMeaning": "उजाड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Ravaged",
+          "gujaratiMeaning": "ઉજ્જડ કર્યું",
+          "hindiMeaning": "उजाड़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Ravaged",
+          "gujaratiMeaning": "ઉજ્જડ થયેલું",
+          "hindiMeaning": "उजड़ा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Ravaging",
+          "gujaratiPronunciation": "રેવેજિંગ",
+          "hindiPronunciation": "रैवेजिंग",
+          "gujaratiMeaning": "ઉજ્જડ કરી રહ્યું",
+          "hindiMeaning": "उजाड़ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Devastate",
+          "gujaratiMeaning": "તબાહ કરવું",
+          "hindiMeaning": "तबाह करना"
+        },
+        {
+          "word": "Ruin",
+          "gujaratiMeaning": "બરબાદ કરવું",
+          "hindiMeaning": "बर्बाद करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Rebuild",
+          "gujaratiMeaning": "પુનઃનિર્માણ કરવું",
+          "hindiMeaning": "पुनर्निर्माण करना"
+        },
+        {
+          "word": "Restore",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કરવું",
+          "hindiMeaning": "पुनर्स्थापित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Savage",
+          "gujaratiMeaning": "જંગલી",
+          "hindiMeaning": "जंगली"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The forest was ravaged by fire.",
+          "gujaratiTranslation": "જંગલ આગથી ઉજ્જડ થઈ ગયું હતું.",
+          "hindiTranslation": "जंगल आग से उजड़ गया था।",
+          "gujaratiPronunciation": "ધ ફોરેસ્ટ વોઝ રેવેજ્ડ બાય ફાયર.",
+          "hindiPronunciation": "द फॉरेस्ट वॉज़ रैवेज्ड बाय फायर।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Break",
+      "gujaratiPronunciation": "બ્રેક",
+      "hindiPronunciation": "ब्रेक",
+      "gujaratiMeaning": "તોડવું",
+      "hindiMeaning": "तोड़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Broke",
+          "gujaratiPronunciation": "બ્રોક",
+          "hindiPronunciation": "ब्रोक",
+          "gujaratiMeaning": "તોડ્યું",
+          "hindiMeaning": "तोड़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Broken",
+          "gujaratiPronunciation": "બ્રોકન",
+          "hindiPronunciation": "ब्रोकन",
+          "gujaratiMeaning": "તૂટેલું",
+          "hindiMeaning": "टूटा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Breaking",
+          "gujaratiPronunciation": "બ્રેકિંગ",
+          "hindiPronunciation": "ब्रेकिंग",
+          "gujaratiMeaning": "તોડી રહ્યું",
+          "hindiMeaning": "तोड़ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Fracture",
+          "gujaratiPronunciation": "ફ્રેક્ચર",
+          "hindiPronunciation": "फ्रैक्चर",
+          "gujaratiMeaning": "તૂટવું",
+          "hindiMeaning": "टूटना"
+        },
+        {
+          "word": "Shatter",
+          "gujaratiPronunciation": "શેટર",
+          "hindiPronunciation": "शैटर",
+          "gujaratiMeaning": "ચકનાચૂર કરવું",
+          "hindiMeaning": "चकनाचूर करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Fix",
+          "gujaratiPronunciation": "ફિક્સ",
+          "hindiPronunciation": "फिक्स",
+          "gujaratiMeaning": "સરખું કરવું",
+          "hindiMeaning": "ठीक करना"
+        },
+        {
+          "word": "Mend",
+          "gujaratiPronunciation": "મેન્ડ",
+          "hindiPronunciation": "मेंड",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Brake",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "વાહનની ગતિ રોકવાનું સાધન",
+          "hindiMeaning": "वाहन की गति रोकने का यंत्र"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Be careful not to break the glass.",
+          "gujaratiTranslation": "કાચ ન તૂટે તેનું ધ્યાન રાખજો.",
+          "hindiTranslation": "काँच न टूटे इसका ध्यान रखना।",
+          "gujaratiPronunciation": "બી કેરફુલ નોટ ટુ બ્રેક ધ ગ્લાસ.",
+          "hindiPronunciation": "बी केयरफुल नॉट टू ब्रेक द ग्लास।"
+        }
+      ]
+    },
+    {
+      "word": "Hurt",
+      "gujaratiPronunciation": "હર્ટ",
+      "hindiPronunciation": "हर्ट",
+      "gujaratiMeaning": "ઇજા પહોંચાડવી",
+      "hindiMeaning": "चोट पहुँचाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Hurt",
+          "gujaratiMeaning": "ઇજા પહોંચાડવી",
+          "hindiMeaning": "चोट पहुँचाना"
+        },
+        "V2 (Past)": {
+          "word": "Hurt",
+          "gujaratiMeaning": "ઇજા પહોંચાડી",
+          "hindiMeaning": "चोट पहुँचाई"
+        },
+        "V3 (Past Participle)": {
+          "word": "Hurt",
+          "gujaratiMeaning": "ઇજા પામેલું",
+          "hindiMeaning": "घायल"
+        },
+        "V4 (Present Participle)": {
+          "word": "Hurting",
+          "gujaratiPronunciation": "હર્ટિંગ",
+          "hindiPronunciation": "हर्टिंग",
+          "gujaratiMeaning": "ઇજા પહોંચાડી રહ્યું",
+          "hindiMeaning": "चोट पहुँचा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Injure",
+          "gujaratiMeaning": "ઘાયલ કરવું",
+          "hindiMeaning": "घायल करना"
+        },
+        {
+          "word": "Harm",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "नुकसान पहुँचाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Heal",
+          "gujaratiMeaning": "રૂઝાવવું",
+          "hindiMeaning": "ठीक होना"
+        },
+        {
+          "word": "Soothe",
+          "gujaratiMeaning": "શાંત કરવું",
+          "hindiMeaning": "शांत करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Heart",
+          "gujaratiMeaning": "હૃદય",
+          "hindiMeaning": "हृदय"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Did you hurt yourself?",
+          "gujaratiTranslation": "શું તમને ઇજા થઈ?",
+          "hindiTranslation": "क्या तुम्हें चोट लगी?",
+          "gujaratiPronunciation": "ડીડ યુ હર્ટ યોરસેલ્ફ?",
+          "hindiPronunciation": "डिड यू हर्ट योरसेल्फ?"
+        }
+      ]
+    },
+    {
+      "word": "Cut",
+      "gujaratiPronunciation": "કટ",
+      "hindiPronunciation": "कट",
+      "gujaratiMeaning": "કાપવું",
+      "hindiMeaning": "काटना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Cut",
+          "gujaratiMeaning": "કાપવું",
+          "hindiMeaning": "काटना"
+        },
+        "V2 (Past)": {
+          "word": "Cut",
+          "gujaratiMeaning": "કાપ્યું",
+          "hindiMeaning": "काटा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Cut",
+          "gujaratiMeaning": "કાપેલું",
+          "hindiMeaning": "काटा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Cutting",
+          "gujaratiPronunciation": "કટિંગ",
+          "hindiPronunciation": "कटिंग",
+          "gujaratiMeaning": "કાપી રહ્યું",
+          "hindiMeaning": "काट रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Slice",
+          "gujaratiMeaning": "ચીરી કરવી",
+          "hindiMeaning": "टुकड़ा करना"
+        },
+        {
+          "word": "Chop",
+          "gujaratiMeaning": "ટુકડા કરવા",
+          "hindiMeaning": "टुकड़े करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Join",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        },
+        {
+          "word": "Unite",
+          "gujaratiMeaning": "એક કરવું",
+          "hindiMeaning": "एक करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Cute",
+          "gujaratiMeaning": "સુંદર",
+          "hindiMeaning": "प्यारा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He cut the apple into four pieces.",
+          "gujaratiTranslation": "તેણે સફરજનના ચાર ટુકડા કર્યા.",
+          "hindiTranslation": "उसने सेब के चार टुकड़े किए।",
+          "gujaratiPronunciation": "હી કટ ધ એપલ ઇનટુ ફોર પીસીસ.",
+          "hindiPronunciation": "ही कट द एप्पल इनटू फोर पीसेज़।"
+        }
+      ]
+    },
+    {
+      "word": "Tear",
+      "gujaratiPronunciation": "ટેર",
+      "hindiPronunciation": "टेयर",
+      "gujaratiMeaning": "ફાડવું",
+      "hindiMeaning": "फाड़ना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Tear",
+          "gujaratiMeaning": "ફાડવું",
+          "hindiMeaning": "फाड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Tore",
+          "gujaratiMeaning": "ફાડ્યું",
+          "hindiMeaning": "फाड़ा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Torn",
+          "gujaratiMeaning": "ફાટેલું",
+          "hindiMeaning": "फटा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Tearing",
+          "gujaratiPronunciation": "ટેરિંગ",
+          "hindiPronunciation": "टेयरिंग",
+          "gujaratiMeaning": "ફાડી રહ્યું",
+          "hindiMeaning": "फाड़ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rip",
+          "gujaratiMeaning": "ચીરવું",
+          "hindiMeaning": "चीरना"
+        },
+        {
+          "word": "Split",
+          "gujaratiMeaning": "વિભાજીત કરવું",
+          "hindiMeaning": "विभाजित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Mend",
+          "gujaratiMeaning": "સાંધવું",
+          "hindiMeaning": "सीना"
+        },
+        {
+          "word": "Repair",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Tier",
+          "gujaratiMeaning": "સ્તર",
+          "hindiMeaning": "स्तर"
+        },
+        {
+          "word": "Tear (eye)",
+          "gujaratiMeaning": "આંસુ",
+          "hindiMeaning": "आँसू"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't tear the pages of the book.",
+          "gujaratiTranslation": "પુસ્તકના પાના ફાડશો નહીં.",
+          "hindiTranslation": "किताब के पन्ने मत फाड़ो।",
+          "gujaratiPronunciation": "ડોન્ટ ટેર ધ પેજીસ ઓફ ધ બુક.",
+          "hindiPronunciation": "डोंट टेयर द पेजेज़ ऑफ द बुक।"
+        }
+      ]
+    },
+    {
+      "word": "Crash",
+      "gujaratiPronunciation": "ક્રેશ",
+      "hindiPronunciation": "क्रैश",
+      "gujaratiMeaning": "અથડાવું",
+      "hindiMeaning": "टकराना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Crash",
+          "gujaratiMeaning": "અથડાવું",
+          "hindiMeaning": "टकराना"
+        },
+        "V2 (Past)": {
+          "word": "Crashed",
+          "gujaratiMeaning": "અથડાયું",
+          "hindiMeaning": "टकराया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Crashed",
+          "gujaratiMeaning": "અથડાયેલું",
+          "hindiMeaning": "टकराया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Crashing",
+          "gujaratiPronunciation": "ક્રેશિંગ",
+          "hindiPronunciation": "क्रैशिंग",
+          "gujaratiMeaning": "અથડાી રહ્યું",
+          "hindiMeaning": "टकरा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Collide",
+          "gujaratiMeaning": "ટક્કર થવી",
+          "hindiMeaning": "टक्कर होना"
+        },
+        {
+          "word": "Smash",
+          "gujaratiMeaning": "ભૂક્કો કરવો",
+          "hindiMeaning": "चूर-चूर करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Avoid",
+          "gujaratiMeaning": "ટાળવું",
+          "hindiMeaning": "टालना"
+        },
+        {
+          "word": "Dodge",
+          "gujaratiMeaning": "ચૂકવવું",
+          "hindiMeaning": "बचना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Cash",
+          "gujaratiMeaning": "રોકડ",
+          "hindiMeaning": "नकद"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The car crashed into a tree.",
+          "gujaratiTranslation": "કાર ઝાડ સાથે અથડાઈ.",
+          "hindiTranslation": "कार एक पेड़ से टकरा गई।",
+          "gujaratiPronunciation": "ધ કાર ક્રેશ્ડ ઇનટુ અ ટ્રી.",
+          "hindiPronunciation": "द कार क्रैश्ड इनटू अ ट्री।"
+        }
+      ]
+    }
+  ]
+}

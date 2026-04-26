@@ -1,0 +1,141 @@
+
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Recede",
+            "gujaratiPronunciation": "રિસિડ",
+            "hindiPronunciation": "रिसीड",
+            "gujaratiMeaning": "પાછું હટવું",
+            "hindiMeaning": "पीछे हटना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Recede", "gujaratiPronunciation": "રિસિડ", "hindiPronunciation": "रिसीड", "gujaratiMeaning": "પાછું હટવું", "hindiMeaning": "पीछे हटना" },
+                "V2 (Past)": { "word": "Receded", "gujaratiPronunciation": "રિસિડેડ", "hindiPronunciation": "रिसीडेड", "gujaratiMeaning": "પાછું હટ્યું", "hindiMeaning": "पीछे हटा" },
+                "V3 (Past Participle)": { "word": "Receded", "gujaratiPronunciation": "રિસિડેડ", "hindiPronunciation": "रिसीडेड", "gujaratiMeaning": "પાછું હટેલું", "hindiMeaning": "पीछे हटा हुआ" },
+                "V4 (Present Participle)": { "word": "Receding", "gujaratiPronunciation": "રિસિડિંગ", "hindiPronunciation": "रिसीडिंग", "gujaratiMeaning": "પાછું હટી રહ્યું છે", "hindiMeaning": "पीछे हट रहा है" }
+            },
+            "synonyms": [
+                { "word": "Retreat", "gujaratiPronunciation": "રિટ્રીટ", "hindiPronunciation": "रिट्रीट", "gujaratiMeaning": "પાછું ખેંચાવું", "hindiMeaning": "पीछे हटना" },
+                { "word": "Withdraw", "gujaratiPronunciation": "વિથડ્રો", "hindiPronunciation": "विथड्रा", "gujaratiMeaning": "પાછું ખેંચવું", "hindiMeaning": "वापस लेना" }
+            ],
+            "antonyms": [
+                { "word": "Advance", "gujaratiPronunciation": "એડવાન્સ", "hindiPronunciation": "एडवांस", "gujaratiMeaning": "આગળ વધવું", "hindiMeaning": "आगे बढ़ना" },
+                { "word": "Approach", "gujaratiPronunciation": "એપ્રોચ", "hindiPronunciation": "एप्रोच", "gujaratiMeaning": "નજીક આવવું", "hindiMeaning": "नजदीक आना" }
+            ],
+            "confusingWords": [
+                { "word": "Reside", "gujaratiPronunciation": "રિસાઇડ", "hindiPronunciation": "रिसाइड", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The floodwaters slowly began to recede.", "gujaratiTranslation": "પૂરના પાણી ધીમે ધીમે પાછા હટવા લાગ્યા.", "hindiTranslation": "बाढ़ का पानी धीरे-धीरे कम होने लगा।", "gujaratiPronunciation": "ધ ફ્લડવોટર્સ સ્લોલી બિગેન ટુ રિસિડ.", "hindiPronunciation": "द फ्लडवॉटर्स स्लोली बिगैन टू रिसीड।" }
+            ]
+        },
+        {
+            "word": "Linger",
+            "gujaratiPronunciation": "લિંગર",
+            "hindiPronunciation": "लिंगर",
+            "gujaratiMeaning": "રહેવું, ટકી રહેવું",
+            "hindiMeaning": "बने रहना, टिके रहना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Linger", "gujaratiPronunciation": "લિંગર", "hindiPronunciation": "लिंगर", "gujaratiMeaning": "ટકી રહેવું", "hindiMeaning": "टिके रहना" },
+                "V2 (Past)": { "word": "Lingered", "gujaratiPronunciation": "લિંગર્ડ", "hindiPronunciation": "लिंगर्ड", "gujaratiMeaning": "ટકી રહ્યું", "hindiMeaning": "टिका रहा" },
+                "V3 (Past Participle)": { "word": "Lingered", "gujaratiPronunciation": "લિંગર્ડ", "hindiPronunciation": "लिंगर्ड", "gujaratiMeaning": "ટકી રહેલું", "hindiMeaning": "टिका रहा हुआ" },
+                "V4 (Present Participle)": { "word": "Lingering", "gujaratiPronunciation": "લિંગરિંગ", "hindiPronunciation": "लिंगरिंग", "gujaratiMeaning": "ટકી રહ્યું છે", "hindiMeaning": "टिका रह रहा है" }
+            },
+            "synonyms": [
+                { "word": "Remain", "gujaratiPronunciation": "રિમેઇન", "hindiPronunciation": "रिमेन", "gujaratiMeaning": "બાકી રહેવું", "hindiMeaning": "बने रहना" },
+                { "word": "Loiter", "gujaratiPronunciation": "લોઇટર", "hindiPronunciation": "लॉइटर", "gujaratiMeaning": "રખડવું", "hindiMeaning": "आवारा घूमना" }
+            ],
+            "antonyms": [
+                { "word": "Vanish", "gujaratiPronunciation": "વેનિશ", "hindiPronunciation": "वैनिश", "gujaratiMeaning": "અદૃશ્ય થઈ જવું", "hindiMeaning": "गायब हो जाना" },
+                { "word": "Depart", "gujaratiPronunciation": "ડિપાર્ટ", "hindiPronunciation": "डिपार्ट", "gujaratiMeaning": "રવાના થવું", "hindiMeaning": "चले जाना" }
+            ],
+            "confusingWords": [
+                { "word": "Finger", "gujaratiPronunciation": "ફિંગર", "hindiPronunciation": "फिंगर", "gujaratiMeaning": "આંગળી", "hindiMeaning": "उंगली" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The smell of coffee lingered in the room.", "gujaratiTranslation": "ઓરડામાં કોફીની સુગંધ ટકી રહી.", "hindiTranslation": "कमरे में कॉफी की महक बनी रही।", "gujaratiPronunciation": "ધ સ્મેલ ઓફ કોફી લિંગર્ડ ઇન ધ રૂમ.", "hindiPronunciation": "द स्मेल ऑफ़ कॉफ़ी लिंगर्ड इन द रूम।" }
+            ]
+        },
+        {
+            "word": "Chronologize",
+            "gujaratiPronunciation": "ક્રોનોલોજાઇઝ",
+            "hindiPronunciation": "क्रोनोलॉजाइज़",
+            "gujaratiMeaning": "કાળક્રમ અનુસાર ગોઠવવું",
+            "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Chronologize", "gujaratiPronunciation": "ક્રોનોલોજાઇઝ", "hindiPronunciation": "क्रोनोलॉजाइज़", "gujaratiMeaning": "કાળક્રમ અનુસાર ગોઠવવું", "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित करना" },
+                "V2 (Past)": { "word": "Chronologized", "gujaratiPronunciation": "ક્રોનોલોજાઇઝ્ડ", "hindiPronunciation": "क्रोनोलॉजाइज़्ड", "gujaratiMeaning": "કાળક્રમ અનુસાર ગોઠવ્યું", "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित किया" },
+                "V3 (Past Participle)": { "word": "Chronologized", "gujaratiPronunciation": "ક્રોનોલોજાઇઝ્ડ", "hindiPronunciation": "क्रोनोलॉजाइज़्ड", "gujaratiMeaning": "કાળક્રમ અનુસાર ગોઠવેલું", "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित किया हुआ" },
+                "V4 (Present Participle)": { "word": "Chronologizing", "gujaratiPronunciation": "ક્રોનોલોજાઇઝિંગ", "hindiPronunciation": "क्रोनोलॉजाइज़िंग", "gujaratiMeaning": "કાળક્રમ અનુસાર ગોઠવી રહ્યું છે", "hindiMeaning": "कालक्रम के अनुसार व्यवस्थित कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Order", "gujaratiPronunciation": "ઓર્ડર", "hindiPronunciation": "ऑर्डर", "gujaratiMeaning": "ક્રમમાં ગોઠવવું", "hindiMeaning": "क्रम में रखना" },
+                { "word": "Sequence", "gujaratiPronunciation": "સિક્વન્સ", "hindiPronunciation": "सीक्वेंस", "gujaratiMeaning": "ક્રમબદ્ધ કરવું", "hindiMeaning": "क्रमबद्ध करना" }
+            ],
+            "antonyms": [
+                { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઈઝ", "hindiPronunciation": "डिसऑर्गेनाइज़", "gujaratiMeaning": "અસ્તવ્યસ્ત કરવું", "hindiMeaning": "अव्यवस्थित करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The historian's job is to chronologize the events.", "gujaratiTranslation": "ઇતિહાસકારનું કામ ઘટનાઓને કાળક્રમ અનુસાર ગોઠવવાનું છે.", "hindiTranslation": "इतिहासकार का काम घटनाओं को कालक्रम के अनुसार व्यवस्थित करना है।", "gujaratiPronunciation": "ધ હિસ્ટોરિયન્સ જોબ ઇઝ ટુ ક્રોનોલોજાઇઝ ધ ઇવેન્ટ્સ.", "hindiPronunciation": "द हिस्टोरियंस जॉब इज़ टू क्रोनोलॉजाइज़ द इवेंट्स।" }
+            ]
+        },
+        {
+            "word": "Intercede",
+            "gujaratiPronunciation": "ઇન્ટરસિડ",
+            "hindiPronunciation": "इंटरसीड",
+            "gujaratiMeaning": "વચમાં પડવું, મધ્યસ્થી કરવી",
+            "hindiMeaning": "बीच-बचाव करना, मध्यस्थता करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Intercede", "gujaratiPronunciation": "ઇન્ટરસિડ", "hindiPronunciation": "इंटरसीड", "gujaratiMeaning": "મધ્યસ્થી કરવી", "hindiMeaning": "मध्यस्थता करना" },
+                "V2 (Past)": { "word": "Interceded", "gujaratiPronunciation": "ઇન્ટરસિડેડ", "hindiPronunciation": "इंटरसीडेड", "gujaratiMeaning": "મધ્યસ્થી કરી", "hindiMeaning": "मध्यस्थता की" },
+                "V3 (Past Participle)": { "word": "Interceded", "gujaratiPronunciation": "ઇન્ટરસિડેડ", "hindiPronunciation": "इंटरसीडेड", "gujaratiMeaning": "મધ્યસ્થી કરેલી", "hindiMeaning": "मध्यस्थता की हुई" },
+                "V4 (Present Participle)": { "word": "Interceding", "gujaratiPronunciation": "ઇન્ટરસિડિંગ", "hindiPronunciation": "इंटरसीडिंग", "gujaratiMeaning": "મધ્યસ્થી કરી રહ્યું છે", "hindiMeaning": "मध्यस्थता कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Mediate", "gujaratiPronunciation": "મિડિએટ", "hindiPronunciation": "मिडिएट", "gujaratiMeaning": "વચેટિયા તરીકે કામ કરવું", "hindiMeaning": "मध्यस्थता करना" },
+                { "word": "Intervene", "gujaratiPronunciation": "ઇન્ટરવીન", "hindiPronunciation": "इंटरवीन", "gujaratiMeaning": "દખલ કરવી", "hindiMeaning": "हस्तक्षेप करना" }
+            ],
+            "antonyms": [
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Intercept", "gujaratiPronunciation": "ઇન્ટરસેપ્ટ", "hindiPronunciation": "इंटरसेप्ट", "gujaratiMeaning": "વચ્ચેથી અટકાવવું", "hindiMeaning": "बीच में रोकना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "He agreed to intercede on her behalf.", "gujaratiTranslation": "તે તેણીના વતી મધ્યસ્થી કરવા સંમત થયો.", "hindiTranslation": "वह उसकी ओर से मध्यस्थता करने के लिए सहमत हो गया।", "gujaratiPronunciation": "હી અગ્રીડ ટુ ઇન્ટરસિડ ઓન હર બિહાફ.", "hindiPronunciation": "ही अग्रीड टू इंटरसीड ऑन हर बिहाफ।" }
+            ]
+        },
+        {
+            "word": "Prolong",
+            "gujaratiPronunciation": "પ્રોલોંગ",
+            "hindiPronunciation": "प्रोलॉन्ग",
+            "gujaratiMeaning": "લંબાવવું",
+            "hindiMeaning": "लंबा करना, बढ़ाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Prolong", "gujaratiPronunciation": "પ્રોલોંગ", "hindiPronunciation": "प्रोलॉन्ग", "gujaratiMeaning": "લંબાવવું", "hindiMeaning": "लंबा करना" },
+                "V2 (Past)": { "word": "Prolonged", "gujaratiPronunciation": "પ્રોલોંગ્ડ", "hindiPronunciation": "प्रोलॉन्ग्ड", "gujaratiMeaning": "લંબાવ્યું", "hindiMeaning": "लंबा किया" },
+                "V3 (Past Participle)": { "word": "Prolonged", "gujaratiPronunciation": "પ્રોલોંગ્ડ", "hindiPronunciation": "प्रोलॉन्ग्ड", "gujaratiMeaning": "લંબાવેલું", "hindiMeaning": "लंबा किया हुआ" },
+                "V4 (Present Participle)": { "word": "Prolonging", "gujaratiPronunciation": "પ્રોલોંગિંગ", "hindiPronunciation": "प्रोलॉन्गिंग", "gujaratiMeaning": "લંબાવી રહ્યું છે", "hindiMeaning": "लंबा कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Extend", "gujaratiPronunciation": "એક્સટેન્ડ", "hindiPronunciation": "एक्सटेंड", "gujaratiMeaning": "વિસ્તારવું", "hindiMeaning": "बढ़ाना" },
+                { "word": "Lengthen", "gujaratiPronunciation": "લેન્થન", "hindiPronunciation": "लेंग्थेन", "gujaratiMeaning": "લાંબુ કરવું", "hindiMeaning": "लंबा करना" }
+            ],
+            "antonyms": [
+                { "word": "Shorten", "gujaratiPronunciation": "શોર્ટન", "hindiPronunciation": "शॉर्टेन", "gujaratiMeaning": "ટૂંકું કરવું", "hindiMeaning": "छोटा करना" },
+                { "word": "Abbreviate", "gujaratiPronunciation": "એબ્રિવિએટ", "hindiPronunciation": "एब्रीविएट", "gujaratiMeaning": "સંક્ષિપ્ત કરવું", "hindiMeaning": "संक्षिप्त करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "Don't prolong the discussion unnecessarily.", "gujaratiTranslation": "બિનજરૂરી રીતે ચર્ચાને લંબાવશો નહીં.", "hindiTranslation": "चर्चा को अनावश्यक रूप से लंबा न करें।", "gujaratiPronunciation": "ડોન્ટ પ્રોલોંગ ધ ડિસ્કશન અનનેસેસરિલી.", "hindiPronunciation": "डोंट प्रोलॉन्ग द डिस्कशन अननेसेसरिली।" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+
+{
+    "id": "level-6",
+    "title": "Basic Math Symbols",
+    "words": [
+        {
+            "word": "Plus",
+            "icon": "➕",
+            "gujaratiPronunciation": "પ્લસ",
+            "hindiPronunciation": "प्लस",
+            "gujaratiMeaning": "વત્તા",
+            "hindiMeaning": "जोड़"
+        },
+        {
+            "word": "Minus",
+            "icon": "➖",
+            "gujaratiPronunciation": "માઇનસ",
+            "hindiPronunciation": "माइनस",
+            "gujaratiMeaning": "બાદ",
+            "hindiMeaning": "घटा"
+        },
+        {
+            "word": "Multiply / Times",
+            "icon": "✖️",
+            "gujaratiPronunciation": "મલ્ટિપ્લાય / ટાઇમ્સ",
+            "hindiPronunciation": "मल्टीप्लाई / टाइम्स",
+            "gujaratiMeaning": "ગુણ્યા",
+            "hindiMeaning": "गुणा"
+        },
+        {
+            "word": "Divide",
+            "icon": "➗",
+            "gujaratiPronunciation": "ડિવાઇડ",
+            "hindiPronunciation": "डिवाइड",
+            "gujaratiMeaning": "ભાગ્યા",
+            "hindiMeaning": "भाग"
+        },
+        {
+            "word": "Equal",
+            "icon": "🟰",
+            "gujaratiPronunciation": "ઇક્વલ",
+            "hindiPronunciation": "इक्वल",
+            "gujaratiMeaning": "બરાબર",
+            "hindiMeaning": "बराबर"
+        }
+    ]
+}

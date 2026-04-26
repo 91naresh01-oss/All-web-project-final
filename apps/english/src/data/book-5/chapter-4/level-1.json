@@ -1,0 +1,369 @@
+{
+  "id": "level-1",
+  "title": "Level 1: Comm. & Digital",
+  "words": [
+    {
+      "word": "Type",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "ટાઇપ",
+      "hindiPronunciation": "टाइप",
+      "gujaratiMeaning": "લખવું (કીબોર્ડ વડે)",
+      "hindiMeaning": "लिखना (कीबोर्ड से)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Type",
+          "gujaratiPronunciation": "ટાઇપ",
+          "hindiPronunciation": "टाइप",
+          "gujaratiMeaning": "લખવું",
+          "hindiMeaning": "लिखना"
+        },
+        "v2 (Past)": {
+          "word": "Typed",
+          "gujaratiPronunciation": "ટાઇપ્ડ",
+          "hindiPronunciation": "टाइप्ड",
+          "gujaratiMeaning": "લખ્યું",
+          "hindiMeaning": "लिखा"
+        },
+        "v3 (Past Participle)": {
+          "word": "Typed",
+          "gujaratiPronunciation": "ટાઇપ્ડ",
+          "hindiPronunciation": "टाइप्ड",
+          "gujaratiMeaning": "લખેલું",
+          "hindiMeaning": "लिखा हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Typing",
+          "gujaratiPronunciation": "ટાઇપિંગ",
+          "hindiPronunciation": "टाइपिंग",
+          "gujaratiMeaning": "લખી રહ્યું છે",
+          "hindiMeaning": "लिख रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Write",
+          "gujaratiPronunciation": "રાઇટ",
+          "hindiPronunciation": "राइट",
+          "gujaratiMeaning": "લખવું",
+          "hindiMeaning": "लिखना"
+        },
+        {
+          "word": "Key in",
+          "gujaratiPronunciation": "કી ઇન",
+          "hindiPronunciation": "की इन",
+          "gujaratiMeaning": "દાખલ કરવું",
+          "hindiMeaning": "दर्ज करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Speak",
+          "gujaratiPronunciation": "સ્પીક",
+          "hindiPronunciation": "स्पीक",
+          "gujaratiMeaning": "બોલવું",
+          "hindiMeaning": "बोलना"
+        },
+        {
+          "word": "Handwrite",
+          "gujaratiPronunciation": "હેન્ડરાઇટ",
+          "hindiPronunciation": "हैंडराइट",
+          "gujaratiMeaning": "હાથથી લખવું",
+          "hindiMeaning": "हाथ से लिखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Tape",
+          "gujaratiPronunciation": "ટેપ",
+          "hindiPronunciation": "टेप",
+          "gujaratiMeaning": "પટ્ટી",
+          "hindiMeaning": "पट्टी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please type your name and address.",
+          "gujaratiTranslation": "કૃપા કરીને તમારું નામ અને સરનામું લખો.",
+          "hindiTranslation": "कृपया अपना नाम और पता टाइप करें।"
+        }
+      ]
+    },
+    {
+      "word": "Click",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "ક્લિક",
+      "hindiPronunciation": "क्लिक",
+      "gujaratiMeaning": "ક્લિક કરવું (માઉસ વડે)",
+      "hindiMeaning": "क्लिक करना (माउस से)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Click",
+          "gujaratiPronunciation": "ક્લિક",
+          "hindiPronunciation": "क्लिक",
+          "gujaratiMeaning": "ક્લિક કરવું",
+          "hindiMeaning": "क्लिक करना"
+        },
+        "v2 (Past)": {
+          "word": "Clicked",
+          "gujaratiPronunciation": "ક્લિક્ડ",
+          "hindiPronunciation": "क्लिक किया",
+          "gujaratiMeaning": "ક્લિક કર્યું",
+          "hindiMeaning": "क्लिक किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Clicked",
+          "gujaratiPronunciation": "ક્લિક્ડ",
+          "hindiPronunciation": "क्लिक किया",
+          "gujaratiMeaning": "ક્લિક કરેલું",
+          "hindiMeaning": "क्लिक किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Clicking",
+          "gujaratiPronunciation": "ક્લિકિંગ",
+          "hindiPronunciation": "क्लिकिंग",
+          "gujaratiMeaning": "ક્લિક કરી રહ્યું છે",
+          "hindiMeaning": "क्लिक कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Press",
+          "gujaratiPronunciation": "પ્રેસ",
+          "hindiPronunciation": "प्रेस",
+          "gujaratiMeaning": "દબાવવું",
+          "hindiMeaning": "दबाना"
+        },
+        {
+          "word": "Tap",
+          "gujaratiPronunciation": "ટેપ",
+          "hindiPronunciation": "टैप",
+          "gujaratiMeaning": "ટકોરો મારવો",
+          "hindiMeaning": "थपथपाना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Click on the icon to open the file.",
+          "gujaratiTranslation": "ફાઇલ ખોલવા માટે આઇકોન પર ક્લિક કરો.",
+          "hindiTranslation": "फ़ाइल खोलने के लिए आइकन पर क्लिक करें।"
+        }
+      ]
+    },
+    {
+      "word": "Send",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "સેન્ડ",
+      "hindiPronunciation": "सेंड",
+      "gujaratiMeaning": "મોકલવું",
+      "hindiMeaning": "भेजना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Send",
+          "gujaratiPronunciation": "સેન્ડ",
+          "hindiPronunciation": "सेंड",
+          "gujaratiMeaning": "મોકલવું",
+          "hindiMeaning": "भेजना"
+        },
+        "v2 (Past)": {
+          "word": "Sent",
+          "gujaratiPronunciation": "સેન્ટ",
+          "hindiPronunciation": "सेंट",
+          "gujaratiMeaning": "મોકલ્યું",
+          "hindiMeaning": "भेजा"
+        },
+        "v3 (Past Participle)": {
+          "word": "Sent",
+          "gujaratiPronunciation": "સેન્ટ",
+          "hindiPronunciation": "सेंट",
+          "gujaratiMeaning": "મોકલેલું",
+          "hindiMeaning": "भेजा हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Sending",
+          "gujaratiPronunciation": "સેન્ડિંગ",
+          "hindiPronunciation": "सेंडिंग",
+          "gujaratiMeaning": "મોકલી રહ્યું છે",
+          "hindiMeaning": "भेज रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Dispatch",
+          "gujaratiPronunciation": "ડિસ્પેચ",
+          "hindiPronunciation": "डिस्पैच",
+          "gujaratiMeaning": "રવાના કરવું",
+          "hindiMeaning": "रवाना करना"
+        },
+        {
+          "word": "Transmit",
+          "gujaratiPronunciation": "ટ્રાન્સમિટ",
+          "hindiPronunciation": "ट्रांसमिट",
+          "gujaratiMeaning": "પ્રસારિત કરવું",
+          "hindiMeaning": "संचारित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Receive",
+          "gujaratiPronunciation": "રિસીવ",
+          "hindiPronunciation": "रिसीव",
+          "gujaratiMeaning": "મેળવવું",
+          "hindiMeaning": "प्राप्त करना"
+        },
+        {
+          "word": "Get",
+          "gujaratiPronunciation": "ગેટ",
+          "hindiPronunciation": "गेट",
+          "gujaratiMeaning": "મેળવવું",
+          "hindiMeaning": "पाना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "I will send you an email tomorrow.",
+          "gujaratiTranslation": "હું તમને કાલે એક ઇમેઇલ મોકલીશ.",
+          "hindiTranslation": "मैं तुम्हें कल एक ईमेल भेजूंगा।"
+        }
+      ]
+    },
+    {
+      "word": "Search",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "સર્ચ",
+      "hindiPronunciation": "सर्च",
+      "gujaratiMeaning": "શોધવું",
+      "hindiMeaning": "खोजना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Search",
+          "gujaratiPronunciation": "સર્ચ",
+          "hindiPronunciation": "सर्च",
+          "gujaratiMeaning": "શોધવું",
+          "hindiMeaning": "खोजना"
+        },
+        "v2 (Past)": {
+          "word": "Searched",
+          "gujaratiPronunciation": "સર્ચ્ડ",
+          "hindiPronunciation": "सर्च किया",
+          "gujaratiMeaning": "શોધ્યું",
+          "hindiMeaning": "खोजा"
+        },
+        "v3 (Past Participle)": {
+          "word": "Searched",
+          "gujaratiPronunciation": "સર્ચ્ડ",
+          "hindiPronunciation": "सर्च किया",
+          "gujaratiMeaning": "શોધેલું",
+          "hindiMeaning": "खोजा हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Searching",
+          "gujaratiPronunciation": "સર્ચિંગ",
+          "hindiPronunciation": "सर्चिंग",
+          "gujaratiMeaning": "શોધી રહ્યું છે",
+          "hindiMeaning": "खोज रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Look for",
+          "gujaratiPronunciation": "લુક ફોર",
+          "hindiPronunciation": "लुक फॉर",
+          "gujaratiMeaning": "ની શોધ કરવી",
+          "hindiMeaning": "ढूंढना"
+        },
+        {
+          "word": "Explore",
+          "gujaratiPronunciation": "એક્સપ્લોર",
+          "hindiPronunciation": "एक्सप्लोर",
+          "gujaratiMeaning": "અન્વેષણ કરવું",
+          "hindiMeaning": "अन्वेषण करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You can search for information on the internet.",
+          "gujaratiTranslation": "તમે ઇન્ટરનેટ પર માહિતી શોધી શકો છો.",
+          "hindiTranslation": "आप इंटरनेट पर जानकारी खोज सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "View",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "વ્યૂ",
+      "hindiPronunciation": "व्यू",
+      "gujaratiMeaning": "જોવું",
+      "hindiMeaning": "देखना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "View",
+          "gujaratiPronunciation": "વ્યૂ",
+          "hindiPronunciation": "व्यू",
+          "gujaratiMeaning": "જોવું",
+          "hindiMeaning": "देखना"
+        },
+        "v2 (Past)": {
+          "word": "Viewed",
+          "gujaratiPronunciation": "વ્યૂડ",
+          "hindiPronunciation": "व्यू किया",
+          "gujaratiMeaning": "જોયું",
+          "hindiMeaning": "देखा"
+        },
+        "v3 (Past Participle)": {
+          "word": "Viewed",
+          "gujaratiPronunciation": "વ્યૂડ",
+          "hindiPronunciation": "व्यू किया",
+          "gujaratiMeaning": "જોયેલું",
+          "hindiMeaning": "देखा हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Viewing",
+          "gujaratiPronunciation": "વ્યૂઇંગ",
+          "hindiPronunciation": "व्यूइंग",
+          "gujaratiMeaning": "જોઈ રહ્યું છે",
+          "hindiMeaning": "देख रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "See",
+          "gujaratiPronunciation": "સી",
+          "hindiPronunciation": "सी",
+          "gujaratiMeaning": "જોવું",
+          "hindiMeaning": "देखना"
+        },
+        {
+          "word": "Watch",
+          "gujaratiPronunciation": "વૉચ",
+          "hindiPronunciation": "वॉच",
+          "gujaratiMeaning": "ધ્યાનથી જોવું",
+          "hindiMeaning": "ध्यान से देखना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नजरअंदाज करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You can view your profile details here.",
+          "gujaratiTranslation": "તમે અહીં તમારી પ્રોફાઇલ વિગતો જોઈ શકો છો.",
+          "hindiTranslation": "आप अपनी प्रोफ़ाइल विवरण यहाँ देख सकते हैं।"
+        }
+      ]
+    }
+  ]
+}
+
+    

@@ -1,0 +1,182 @@
+{
+    "id": "adjectives-h",
+    "title": "Adjectives (विशेषण)",
+    "description": "विशेषण (Adjective) वह शब्द है जो वाक्य में संज्ञा (noun) या सर्वनाम (pronoun) की विशेषता बताता है, यानी उसके गुण, संख्या, माप आदि को दर्शाता है।",
+    "content": [
+        {
+            "type": "heading",
+            "content": "विशेषण के प्रकार (Types of Adjectives)"
+        },
+        {
+            "type": "paragraph",
+            "content": "अंग्रेजी व्याकरण में विशेषण के मुख्य रूप से निम्नलिखित प्रकार हैं:"
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "1. Adjectives of Quality (गुणवाचक विशेषण)",
+                "headers": ["Term", "Explanation"],
+                "rows": [
+                    { "Term": "Quality Adjectives", "Explanation": "इस प्रकार के विशेषण व्यक्ति, वस्तु या स्थान के गुण, दोष, रंग, रूप, आकार या आकृति को दर्शाते हैं। यह 'What kind of?' (किस प्रकार का?) प्रश्न का उत्तर देते हैं।" }
+                ]
+            }
+        },
+        {
+            "type": "example_section",
+            "content": {
+                "title": "Examples",
+                "examples": [
+                    "A <b>clever</b> girl. (एक होशियार लड़की)",
+                    "The sky is <b>blue</b>. (आकाश नीला है)",
+                    "He is an <b>honest</b> man. (वह एक ईमानदार आदमी है)",
+                    "This is a <b>large</b> city. ( यह एक बड़ा शहर है)"
+                ]
+            }
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "2. Adjectives of Quantity (परिमाणवाचक विशेषण)",
+                "headers": ["Term", "Explanation"],
+                "rows": [
+                    { "Term": "Quantity Adjectives", "Explanation": "ये विशेषण वस्तु की मात्रा या परिमाण को दर्शाते हैं। यह 'How much?' (कितना?) प्रश्न का उत्तर देते हैं। ये विशेषण आम तौर पर अगणनीय संज्ञाओं (Uncountable Nouns) के साथ उपयोग किए जाते हैं।" }
+                ]
+            }
+        },
+        {
+            "type": "example_section",
+            "content": {
+                "title": "Examples",
+                "examples": [
+                    "I ate <b>some</b> rice. (मैंने कुछ चावल खाए)",
+                    "He has <b>little</b> intelligence. (उसमें बहुत कम बुद्धि है)",
+                    "There is <b>enough</b> water in the jug. (जग में पर्याप्त पानी है)",
+                    "She did not eat <b>any</b> food. (उसने कुछ भी नहीं खाया)"
+                ]
+            }
+        },
+        {
+            "type": "note",
+            "content": "<b>Some, any, little, much, enough, all, no</b> आदि परिमाणवाचक विशेषण हैं।"
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "3. Adjectives of Number (संख्यावाचक विशेषण)",
+                "headers": ["Type", "Explanation", "Example"],
+                "rows": [
+                    { "Type": "Definite Numeral", "Explanation": "निश्चित संख्या दर्शाते हैं। इसके दो उप-प्रकार हैं: <b>Cardinals</b> (1, 2, 3...) और <b>Ordinals</b> (first, second, third...)।", "Example": "She has <b>two</b> pens. He got the <b>first</b> prize." },
+                    { "Type": "Indefinite Numeral", "Explanation": "अनिश्चित संख्या दर्शाते हैं।", "Example": "<b>All</b> men must die. <b>Some</b> boys are clever." },
+                    { "Type": "Distributive Numeral", "Explanation": "समूह में से प्रत्येक का अलग-अलग उल्लेख करते हैं।", "Example": "<b>Each</b> boy must take his turn. <b>Every</b> word of it is false." }
+                ]
+            }
+        },
+        {
+            "type": "note",
+            "content": "<b>Each, every, either, neither</b> Distributive Numeral Adjectives हैं।"
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "4. Demonstrative Adjectives (संकेतवाचक विशेषण)",
+                "headers": ["Term", "Explanation"],
+                "rows": [
+                    { "Term": "Demonstrative Adjectives", "Explanation": "ये विशेषण किसी व्यक्ति या वस्तु की ओर संकेत करने के लिए उपयोग किए जाते हैं। यह 'Which?' (कौन सा?) प्रश्न का उत्तर देते हैं।" }
+                ]
+            }
+        },
+        {
+            "type": "example_section",
+            "content": {
+                "title": "Examples",
+                "examples": [
+                    "<b>This</b> book is mine. (यह किताब मेरी है)",
+                    "<b>That</b> boy is very naughty. (वह लड़का बहुत शरारती है)",
+                    "<b>These</b> mangoes are sour. (ये आम खट्टे हैं)",
+                    "<b>Those</b> birds are flying high. (वे पक्षी ऊँचा उड़ रहे हैं)"
+                ]
+            }
+        },
+        {
+            "type": "note",
+            "content": "<b>This</b> और <b>These</b> पास की वस्तुओं के लिए उपयोग किए जाते हैं, जबकि <b>That</b> और <b>Those</b> दूर की वस्तुओं के लिए उपयोग किए जाते हैं।"
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "5. Interrogative Adjectives (प्रश्नवाचक विशेषण)",
+                "headers": ["Term", "Explanation"],
+                "rows": [
+                    { "Term": "Interrogative Adjectives", "Explanation": "ये विशेषण संज्ञा के साथ प्रश्न पूछने के लिए उपयोग किए जाते हैं।" }
+                ]
+            }
+        },
+        {
+            "type": "example_section",
+            "content": {
+                "title": "Examples",
+                "examples": [
+                    "<b>What</b> kind of man is he? (वह किस तरह का आदमी है?)",
+                    "<b>Which</b> way shall we go? (हम किस रास्ते से जाएंगे?)",
+                    "<b>Whose</b> book is this? (यह किसकी किताब है?)"
+                ]
+            }
+        },
+        {
+            "type": "note",
+            "content": "<b>What</b> का उपयोग सामान्य अर्थ में होता है, जबकि <b>Which</b> का उपयोग सीमित विकल्पों में से एक के लिए होता है।"
+        },
+        {
+            "type": "rules_table_section",
+            "content": {
+                "title": "6. Possessive Adjectives (संबंधवाचक विशेषण)",
+                "headers": ["Term", "Explanation"],
+                "rows": [
+                    { "Term": "Possessive Adjectives", "Explanation": "ये विशेषण स्वामित्व या संबंध दर्शाते हैं। यह हमेशा संज्ञा से पहले आते हैं।" }
+                ]
+            }
+        },
+        {
+            "type": "example_section",
+            "content": {
+                "title": "Examples",
+                "examples": [
+                    "This is <b>my</b> car. (यह मेरी कार है)",
+                    "<b>Your</b> dress is beautiful. (आपकी पोशाक सुंदर है)",
+                    "She is <b>her</b> sister. (वह उसकी बहन है)",
+                    "The dog wagged <b>its</b> tail. (कुत्ते نے اپنی پونچھ ہلائی)"
+                ]
+            }
+        },
+        {
+            "type": "note",
+            "content": "Possessive Adjectives (my, your, his, her, its, our, their) और Possessive Pronouns (mine, yours, his, hers, its, ours, theirs) के बीच भ्रमित न हों। Possessive Adjectives संज्ञा से पहले आते हैं, जबकि Possessive Pronouns संज्ञा के स्थान पर उपयोग किए जाते हैं।"
+        },
+        {
+            "type": "heading",
+            "content": "Order of Adjectives (विशेषणों का क्रम)"
+        },
+        {
+            "type": "paragraph",
+            "content": "जब एक ही संज्ञा के लिए एक से अधिक विशेषणों का उपयोग किया जाता है, तो उन्हें एक निश्चित क्रम में रखा जाता है। सामान्य क्रम इस प्रकार है:"
+        },
+        {
+            "type": "list",
+            "content": [
+                "<b>Determiner</b> (a, an, the, my, your)",
+                "<b>Opinion</b> (beautiful, ugly, nice)",
+                "<b>Size</b> (large, small, tall)",
+                "<b>Age</b> (old, new, young)",
+                "<b>Shape</b> (round, square)",
+                "<b>Color</b> (red, blue, green)",
+                "<b>Origin</b> (Indian, American)",
+                "<b>Material</b> (cotton, wooden, plastic)",
+                "<b>Purpose</b> (sleeping bag, cooking oil)"
+            ]
+        },
+        {
+            "type": "note",
+            "content": "उदाहरण: She has a <b>beautiful small old round brown Indian wooden</b> table. (उसके पास एक सुंदर, छोटी, पुरानी, गोल, भूरी, भारतीय, लकड़ी की मेज है)। हालांकि, व्यवहार में एक साथ इतने सारे विशेषणों का उपयोग शायद ही कभी किया जाता है।"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+
+{
+  "id": "level-3",
+  "title": "Countries 3",
+  "words": [
+    {
+      "word": "Canada",
+      "gujaratiPronunciation": "કેનેડા",
+      "hindiPronunciation": "कनाडा",
+      "gujaratiMeaning": "કેનેડા",
+      "hindiMeaning": "कनाडा",
+      "exampleSentences": [
+        {
+          "sentence": "Canada is known for its cold winters.",
+          "gujaratiTranslation": "કેનેડા તેની ઠંડી શિયાળા માટે જાણીતું છે.",
+          "hindiTranslation": "कनाडा अपनी ठंडी सर्दियों के लिए जाना जाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Germany",
+      "gujaratiPronunciation": "જર્મની",
+      "hindiPronunciation": "जर्मनी",
+      "gujaratiMeaning": "જર્મની",
+      "hindiMeaning": "जर्मनी",
+      "exampleSentences": [
+        {
+          "sentence": "Germany is famous for its cars.",
+          "gujaratiTranslation": "જર્મની તેની કાર માટે પ્રખ્યાત છે.",
+          "hindiTranslation": "जर्मनी अपनी कारों के लिए प्रसिद्ध है।"
+        }
+      ]
+    },
+    {
+      "word": "Australia",
+      "gujaratiPronunciation": "ઓસ્ટ્રેલિયા",
+      "hindiPronunciation": "ऑस्ट्रेलिया",
+      "gujaratiMeaning": "ઓસ્ટ્રેલિયા",
+      "hindiMeaning": "ऑस्ट्रेलिया",
+      "exampleSentences": [
+        {
+          "sentence": "Kangaroos are found in Australia.",
+          "gujaratiTranslation": "કાંગારૂ ઓસ્ટ્રેલિયામાં જોવા મળે છે.",
+          "hindiTranslation": "कंगारू ऑस्ट्रेलिया में पाए जाते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Mexico",
+      "gujaratiPronunciation": "મેક્સિકો",
+      "hindiPronunciation": "मेक्सिको",
+      "gujaratiMeaning": "મેક્સિકો",
+      "hindiMeaning": "मेक्सिको",
+      "exampleSentences": [
+        {
+          "sentence": "Tacos are a popular food from Mexico.",
+          "gujaratiTranslation": "ટાકોઝ મેક્સિકોનો એક લોકપ્રિય ખોરાક છે.",
+          "hindiTranslation": "टैको मेक्सिको का एक लोकप्रिय भोजन है।"
+        }
+      ]
+    },
+    {
+      "word": "Nepal",
+      "gujaratiPronunciation": "નેપાળ",
+      "hindiPronunciation": "नेपाल",
+      "gujaratiMeaning": "નેપાળ",
+      "hindiMeaning": "नेपाल",
+      "exampleSentences": [
+        {
+          "sentence": "Mount Everest is in Nepal.",
+          "gujaratiTranslation": "માઉન્ટ એવરેસ્ટ નેપાળમાં છે.",
+          "hindiTranslation": "माउंट एवरेस्ट नेपाल में है।"
+        }
+      ]
+    }
+  ]
+}

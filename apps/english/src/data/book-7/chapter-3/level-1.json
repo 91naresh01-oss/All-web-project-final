@@ -1,0 +1,381 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Give",
+      "gujaratiPronunciation": "ગિવ",
+      "hindiPronunciation": "गिव",
+      "gujaratiMeaning": "આપવું",
+      "hindiMeaning": "देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Give",
+          "pronunciation": "ગિવ",
+          "meaning": "આપવું"
+        },
+        "V2 (Past)": {
+          "word": "Gave",
+          "pronunciation": "ગેવ",
+          "meaning": "આપ્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Given",
+          "pronunciation": "ગિવન",
+          "meaning": "આપેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Giving",
+          "pronunciation": "ગિવિંગ",
+          "meaning": "આપી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Provide",
+          "pronunciation": "પ્રોવાઇડ",
+          "meaning": "પૂરું પાડવું"
+        },
+        {
+          "word": "Offer",
+          "pronunciation": "ઓફર",
+          "meaning": "પ્રસ્તાવ મૂકવો"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Take",
+          "pronunciation": "ટેક",
+          "meaning": "લેવું"
+        },
+        {
+          "word": "Receive",
+          "pronunciation": "રિસીવ",
+          "meaning": "મેળવવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Gave",
+          "pronunciation": "ગેવ",
+          "meaning": "આપ્યું (ભૂતકાળનું રૂપ)"
+        },
+        {
+          "word": "Giver",
+          "pronunciation": "ગિવર",
+          "meaning": "આપનાર"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please give me a glass of water.",
+          "gujaratiTranslation": "મહેરબાની કરીને મને એક ગ્લાસ પાણી આપો.",
+          "hindiTranslation": "कृपया मुझे एक गिलास पानी दीजिए।",
+          "gujaratiPronunciation": "પ્લીઝ ગિવ મી અ ગ્લાસ ઓફ વોટર.",
+          "hindiPronunciation": "कृपया गिव मी अ ग्लास ऑफ वॉटर।"
+        }
+      ]
+    },
+    {
+      "word": "Take",
+      "gujaratiPronunciation": "ટેક",
+      "hindiPronunciation": "टेक",
+      "gujaratiMeaning": "લેવું",
+      "hindiMeaning": "लेना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Take",
+          "pronunciation": "ટેક",
+          "meaning": "લેવું"
+        },
+        "V2 (Past)": {
+          "word": "Took",
+          "pronunciation": "ટૂક",
+          "meaning": "લીધું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Taken",
+          "pronunciation": "ટેકન",
+          "meaning": "લીધેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Taking",
+          "pronunciation": "ટેકિંગ",
+          "meaning": "લઈ રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Receive",
+          "pronunciation": "રિસીવ",
+          "meaning": "મેળવવું"
+        },
+        {
+          "word": "Accept",
+          "pronunciation": "એક્સેપ્ટ",
+          "meaning": "સ્વીકારવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Give",
+          "pronunciation": "ગિવ",
+          "meaning": "આપવું"
+        },
+        {
+          "word": "Refuse",
+          "pronunciation": "રિફ્યુઝ",
+          "meaning": "નકારવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Took",
+          "pronunciation": "ટૂક",
+          "meaning": "લીધું (ભૂતકાળનું રૂપ)"
+        },
+        {
+          "word": "Talk",
+          "pronunciation": "ટોક",
+          "meaning": "વાત કરવી"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't forget to take your keys.",
+          "gujaratiTranslation": "તમારી ચાવીઓ લેવાનું ભૂલશો નહીં.",
+          "hindiTranslation": "अपनी चाबियाँ लेना न भूलें।",
+          "gujaratiPronunciation": "ડોન્ટ ફરગેટ ટુ ટેક યોર કીઝ.",
+          "hindiPronunciation": "डोन्ट फॉरगेट टू टेक योर कीज।"
+        }
+      ]
+    },
+    {
+      "word": "Offer",
+      "gujaratiPronunciation": "ઓફર",
+      "hindiPronunciation": "ऑफर",
+      "gujaratiMeaning": "પ્રસ્તાવ મૂકવો, આપવું",
+      "hindiMeaning": "प्रस्ताव देना, पेशकश करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Offer",
+          "pronunciation": "ઓફર",
+          "meaning": "પ્રસ્તાવ મૂકવો"
+        },
+        "V2 (Past)": {
+          "word": "Offered",
+          "pronunciation": "ઓફર્ડ",
+          "meaning": "પ્રસ્તાવ મૂક્યો"
+        },
+        "V3 (Past Participle)": {
+          "word": "Offered",
+          "pronunciation": "ઓફર્ડ",
+          "meaning": "પ્રસ્તાવ મૂકેલો"
+        },
+        "V4 (Present Participle)": {
+          "word": "Offering",
+          "pronunciation": "ઓફરિંગ",
+          "meaning": "પ્રસ્તાવ મૂકી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Propose",
+          "pronunciation": "પ્રપોઝ",
+          "meaning": "દરખાસ્ત કરવી"
+        },
+        {
+          "word": "Present",
+          "pronunciation": "પ્રેઝન્ટ",
+          "meaning": "રજૂ કરવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Withdraw",
+          "pronunciation": "વિથડ્રો",
+          "meaning": "પાછું ખેંચવું"
+        },
+        {
+          "word": "Deny",
+          "pronunciation": "ડિનાય",
+          "meaning": "નકારવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Suffer",
+          "pronunciation": "સફર",
+          "meaning": "પીડાવું"
+        },
+        {
+          "word": "Officer",
+          "pronunciation": "ઓફિસર",
+          "meaning": "અધિકારી"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He offered me a job.",
+          "gujaratiTranslation": "તેમણે મને નોકરીની ઓફર કરી.",
+          "hindiTranslation": "उन्होंने मुझे नौकरी की पेशकश की।",
+          "gujaratiPronunciation": "હી ઓફર્ડ મી અ જોબ.",
+          "hindiPronunciation": "ही ऑफर्ड मी अ जॉब।"
+        }
+      ]
+    },
+    {
+      "word": "Accept",
+      "gujaratiPronunciation": "એક્સેપ્ટ",
+      "hindiPronunciation": "एक्सेप्ट",
+      "gujaratiMeaning": "સ્વીકારવું",
+      "hindiMeaning": "स्वीकार करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Accept",
+          "pronunciation": "એક્સેપ્ટ",
+          "meaning": "સ્વીકારવું"
+        },
+        "V2 (Past)": {
+          "word": "Accepted",
+          "pronunciation": "એક્સેપ્ટેડ",
+          "meaning": "સ્વીકાર્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Accepted",
+          "pronunciation": "એક્સેપ્ટેડ",
+          "meaning": "સ્વીકારેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Accepting",
+          "pronunciation": "એક્સેપ્ટિંગ",
+          "meaning": "સ્વીકારી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Receive",
+          "pronunciation": "રિસીવ",
+          "meaning": "મેળવવું"
+        },
+        {
+          "word": "Acknowledge",
+          "pronunciation": "એક્નોલેજ",
+          "meaning": "કબૂલ કરવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Reject",
+          "pronunciation": "રિજેક્ટ",
+          "meaning": "નકારવું"
+        },
+        {
+          "word": "Decline",
+          "pronunciation": "ડિક્લાઇન",
+          "meaning": "અસ્વીકાર કરવો"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Except",
+          "pronunciation": "એક્સેપ્ટ",
+          "meaning": "સિવાય"
+        },
+        {
+          "word": "Aspect",
+          "pronunciation": "આસ્પેક્ટ",
+          "meaning": "પહેલું"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I accept your apology.",
+          "gujaratiTranslation": "હું તમારી માફી સ્વીકારું છું.",
+          "hindiTranslation": "मैं आपकी माफी स्वीकार करता हूँ।",
+          "gujaratiPronunciation": "આઈ એક્સેપ્ટ યોર અપોલોજી.",
+          "hindiPronunciation": "आई एक्सेप्ट योर अपोलॉजी।"
+        }
+      ]
+    },
+    {
+      "word": "Hand",
+      "gujaratiPronunciation": "હેન્ડ",
+      "hindiPronunciation": "हैंड",
+      "gujaratiMeaning": "સોંપવું, હાથ",
+      "hindiMeaning": "सौंपना, हाथ",
+      "partOfSpeech": "verb, noun",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Hand",
+          "pronunciation": "હેન્ડ",
+          "meaning": "સોંપવું"
+        },
+        "V2 (Past)": {
+          "word": "Handed",
+          "pronunciation": "હેન્ડેડ",
+          "meaning": "સોંપ્યું"
+        },
+        "V3 (Past Participle)": {
+          "word": "Handed",
+          "pronunciation": "હેન્ડેડ",
+          "meaning": "સોંપેલું"
+        },
+        "V4 (Present Participle)": {
+          "word": "Handing",
+          "pronunciation": "હેન્ડિંગ",
+          "meaning": "સોંપી રહ્યું છે"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Pass",
+          "pronunciation": "પાસ",
+          "meaning": "પસાર કરવું"
+        },
+        {
+          "word": "Give",
+          "pronunciation": "ગિવ",
+          "meaning": "આપવું"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Keep",
+          "pronunciation": "કીપ",
+          "meaning": "રાખવું"
+        },
+        {
+          "word": "Receive",
+          "pronunciation": "રિસીવ",
+          "meaning": "મેળવવું"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "End",
+          "pronunciation": "એન્ડ",
+          "meaning": "અંત"
+        },
+        {
+          "word": "And",
+          "pronunciation": "એન્ડ",
+          "meaning": "અને"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you hand me that book?",
+          "gujaratiTranslation": "શું તમે મને તે પુસ્તક સોંપી શકો છો?",
+          "hindiTranslation": "क्या आप मुझे वह किताब दे सकते हैं?",
+          "gujaratiPronunciation": "કેન યુ હેન્ડ મી ધેટ બુક?",
+          "hindiPronunciation": "कैन यू हैंड मी दैट बुक?"
+        }
+      ]
+    }
+  ]
+}

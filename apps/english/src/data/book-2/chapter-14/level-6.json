@@ -1,0 +1,76 @@
+{
+  "id": "level-6",
+  "title": "Prepositions 1",
+  "words": [
+    {
+      "word": "In",
+      "gujaratiPronunciation": "ઇન",
+      "hindiPronunciation": "इन",
+      "gujaratiMeaning": "માં",
+      "hindiMeaning": "में",
+      "exampleSentences": [
+        {
+          "sentence": "The book is in the bag.",
+          "gujaratiTranslation": "પુસ્તક બેગમાં છે.",
+          "hindiTranslation": "किताब बैग में है।"
+        }
+      ]
+    },
+    {
+      "word": "On",
+      "gujaratiPronunciation": "ઓન",
+      "hindiPronunciation": "ऑन",
+      "gujaratiMeaning": "પર",
+      "hindiMeaning": "पर",
+      "exampleSentences": [
+        {
+          "sentence": "The cat is on the table.",
+          "gujaratiTranslation": "બિલાડી ટેબલ પર છે.",
+          "hindiTranslation": "बिल्ली मेज पर है।"
+        }
+      ]
+    },
+    {
+      "word": "Under",
+      "gujaratiPronunciation": "અંડર",
+      "hindiPronunciation": "अंडर",
+      "gujaratiMeaning": "નીચે",
+      "hindiMeaning": "नीचे",
+      "exampleSentences": [
+        {
+          "sentence": "The dog is under the tree.",
+          "gujaratiTranslation": "કૂતરો ઝાડ નીચે છે.",
+          "hindiTranslation": "कुत्ता पेड़ के नीचे है।"
+        }
+      ]
+    },
+    {
+      "word": "Over",
+      "gujaratiPronunciation": "ઓવર",
+      "hindiPronunciation": "ओवर",
+      "gujaratiMeaning": "ઉપર",
+      "hindiMeaning": "ऊपर",
+      "exampleSentences": [
+        {
+          "sentence": "The plane is flying over the city.",
+          "gujaratiTranslation": "વિમાન શહેર ઉપર ઉડી રહ્યું છે.",
+          "hindiTranslation": "विमान शहर के ऊपर उड़ रहा है।"
+        }
+      ]
+    },
+    {
+      "word": "Between",
+      "gujaratiPronunciation": "બિટવીન",
+      "hindiPronunciation": "बिटवीन",
+      "gujaratiMeaning": "વચ્ચે",
+      "hindiMeaning": "बीच में",
+      "exampleSentences": [
+        {
+          "sentence": "The shop is between the bank and the school.",
+          "gujaratiTranslation": "દુકાન બેંક અને શાળાની વચ્ચે છે.",
+          "hindiTranslation": "दुकान बैंक और स्कूल کے बीच में है।"
+        }
+      ]
+    }
+  ]
+}

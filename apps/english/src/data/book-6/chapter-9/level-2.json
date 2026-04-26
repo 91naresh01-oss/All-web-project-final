@@ -1,0 +1,147 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Weed",
+      "gujaratiPronunciation": "વીડ",
+      "hindiPronunciation": "वीड",
+      "gujaratiMeaning": "નિંદામણ કરવું",
+      "hindiMeaning": "निराई करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Weed", "gujaratiPronunciation": "વીડ", "hindiPronunciation": "वीड", "gujaratiMeaning": "નિંદામણ કરવું", "hindiMeaning": "निराई करना" },
+        "V2 (Past)": { "word": "Weeded", "gujaratiPronunciation": "વીડેડ", "hindiPronunciation": "वीडेड", "gujaratiMeaning": "નિંદામણ કર્યું", "hindiMeaning": "निराई की" },
+        "V3 (Past Participle)": { "word": "Weeded", "gujaratiPronunciation": "વીડેડ", "hindiPronunciation": "वीडेड", "gujaratiMeaning": "નિંદામણ કરેલું", "hindiMeaning": "निराई किया हुआ" },
+        "V4 (Present Participle)": { "word": "Weeding", "gujaratiPronunciation": "વીડિંગ", "hindiPronunciation": "वीडिंग", "gujaratiMeaning": "નિંદામણ કરી રહ્યું છે", "hindiMeaning": "निराई कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Remove", "gujaratiPronunciation": "રિમૂવ", "hindiPronunciation": "रिमूव", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" },
+        { "word": "Clear", "gujaratiPronunciation": "ક્લિયર", "hindiPronunciation": "क्लियर", "gujaratiMeaning": "સાફ કરવું", "hindiMeaning": "साफ करना" }
+      ],
+      "antonyms": [
+        { "word": "Plant", "gujaratiPronunciation": "પ્લાન્ટ", "hindiPronunciation": "प्लांट", "gujaratiMeaning": "રોપવું", "hindiMeaning": "लगाना" },
+        { "word": "Sow", "gujaratiPronunciation": "સો", "hindiPronunciation": "सो", "gujaratiMeaning": "વાવવું", "hindiMeaning": "बोना" }
+      ],
+      "confusingWords": [
+        { "word": "Width", "gujaratiPronunciation": "વિડ્થ", "hindiPronunciation": "विड्थ", "gujaratiMeaning": "પહોળાઈ", "hindiMeaning": "चौड़ाई" }
+      ],
+      "exampleSentences": [
+        { "sentence": "You must weed the garden every week.", "gujaratiPronunciation": "યુ મસ્ટ વીડ ધ ગાર્ડન એવરી વીક.", "hindiPronunciation": "यू मस्ट वीड द गार्डन एवरी वीक।", "gujaratiTranslation": "તમારે દર અઠવાડિયે બગીચામાં નિંદામણ કરવું જ જોઈએ.", "hindiTranslation": "आपको हर हफ्ते बगीचे की निराई करनी चाहिए।" }
+      ]
+    },
+    {
+      "word": "Fertilize",
+      "gujaratiPronunciation": "ફર્ટિલાઇઝ",
+      "hindiPronunciation": "फर्टिलाइज़",
+      "gujaratiMeaning": "ખાતર નાખવું",
+      "hindiMeaning": "खाद डालना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Fertilize", "gujaratiPronunciation": "ફર્ટિલાઇઝ", "hindiPronunciation": "फर्टिलाइज़", "gujaratiMeaning": "ખાતર નાખવું", "hindiMeaning": "खाद डालना" },
+        "V2 (Past)": { "word": "Fertilized", "gujaratiPronunciation": "ફર્ટિલાઇઝ્ડ", "hindiPronunciation": "फर्टिलाइज़्ड", "gujaratiMeaning": "ખાતર નાખ્યું", "hindiMeaning": "खाद डाली" },
+        "V3 (Past Participle)": { "word": "Fertilized", "gujaratiPronunciation": "ફર્ટિલાઇઝ્ડ", "hindiPronunciation": "फर्टिलाइज़्ड", "gujaratiMeaning": "ખાતર નાખેલું", "hindiMeaning": "खाद डाला हुआ" },
+        "V4 (Present Participle)": { "word": "Fertilizing", "gujaratiPronunciation": "ફર્ટિલાઇઝિંગ", "hindiPronunciation": "फर्टिलाइज़िंग", "gujaratiMeaning": "ખાતર નાખી રહ્યું છે", "hindiMeaning": "खाद डाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Enrich", "gujaratiPronunciation": "એનરિચ", "hindiPronunciation": "एनरिच", "gujaratiMeaning": "સમૃદ્ધ કરવું", "hindiMeaning": "समृद्ध करना" },
+        { "word": "Nourish", "gujaratiPronunciation": "નરિશ", "hindiPronunciation": "नरिश", "gujaratiMeaning": "પોષણ આપવું", "hindiMeaning": "पोषण देना" }
+      ],
+      "antonyms": [
+        { "word": "Deplete", "gujaratiPronunciation": "ડિપ્લીટ", "hindiPronunciation": "डिप्लीट", "gujaratiMeaning": "ક્ષીણ કરવું", "hindiMeaning": "खाली करना" },
+        { "word": "Sterilize", "gujaratiPronunciation": "સ્ટેરિલાઇઝ", "hindiPronunciation": "स्टेरिलाइज़", "gujaratiMeaning": "જંતુરહિત કરવું", "hindiMeaning": "कीटाणुरहित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Fertile", "gujaratiPronunciation": "ફર્ટાઇલ", "hindiPronunciation": "फर्टाइल", "gujaratiMeaning": "ફળદ્રુપ", "hindiMeaning": "उपजाऊ" }
+      ],
+      "exampleSentences": [
+        { "sentence": "It is important to fertilize the soil before planting.", "gujaratiPronunciation": "ઇટ ઇઝ ઇમ્પોર્ટન્ટ ટુ ફર્ટિલાઇઝ ધ સોઇલ બિફોર પ્લાન્ટિંગ.", "hindiPronunciation": "इट इज़ इम्पॉर्टेंट टू फर्टिलाइज़ द सॉइल बिफोर प्लांटिंग।", "gujaratiTranslation": "વાવણી કરતા પહેલા જમીનને ફળદ્રુપ બનાવવી મહત્વપૂર્ણ છે.", "hindiTranslation": "रोपण से पहले मिट्टी में खाद डालना महत्वपूर्ण है।" }
+      ]
+    },
+    {
+      "word": "Prune",
+      "gujaratiPronunciation": "પ્રૂન",
+      "hindiPronunciation": "प्रून",
+      "gujaratiMeaning": "કાપણી કરવી",
+      "hindiMeaning": "छंटाई करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Prune", "gujaratiPronunciation": "પ્રૂન", "hindiPronunciation": "प्रून", "gujaratiMeaning": "કાપણી કરવી", "hindiMeaning": "छंटाई करना" },
+        "V2 (Past)": { "word": "Pruned", "gujaratiPronunciation": "પ્રૂન્ડ", "hindiPronunciation": "प्रून्ड", "gujaratiMeaning": "કાપણી કરી", "hindiMeaning": "छंटाई की" },
+        "V3 (Past Participle)": { "word": "Pruned", "gujaratiPronunciation": "પ્રૂન્ડ", "hindiPronunciation": "प्रून्ड", "gujaratiMeaning": "કાપણી કરેલું", "hindiMeaning": "छंटाई किया हुआ" },
+        "V4 (Present Participle)": { "word": "Pruning", "gujaratiPronunciation": "પ્રૂનિંગ", "hindiPronunciation": "प्रूनिंग", "gujaratiMeaning": "કાપણી કરી રહ્યું છે", "hindiMeaning": "छंटाई कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Trim", "gujaratiPronunciation": "ટ્રિમ", "hindiPronunciation": "ट्रिम", "gujaratiMeaning": "કાપકૂપ કરવી", "hindiMeaning": "कांट-छांट करना" },
+        { "word": "Cut", "gujaratiPronunciation": "કટ", "hindiPronunciation": "कट", "gujaratiMeaning": "કાપવું", "hindiMeaning": "काटना" }
+      ],
+      "antonyms": [
+        { "word": "Grow", "gujaratiPronunciation": "ગ્રો", "hindiPronunciation": "ग्रो", "gujaratiMeaning": "ઉગાડવું", "hindiMeaning": "उगाना" },
+        { "word": "Encourage", "gujaratiPronunciation": "એન્કરેજ", "hindiPronunciation": "एनकरेज", "gujaratiMeaning": "પ્રોત્સાહન આપવું", "hindiMeaning": "प्रोत्সাহিত करना" }
+      ],
+      "confusingWords": [
+        { "word": "Prone", "gujaratiPronunciation": "પ્રોન", "hindiPronunciation": "प्रोन", "gujaratiMeaning": "વલણ ધરાવતું", "hindiMeaning": "प्रवृत्त" }
+      ],
+      "exampleSentences": [
+        { "sentence": "You should prune the rose bushes for better growth.", "gujaratiPronunciation": "યુ શુડ પ્રૂન ધ રોઝ બુશિસ ફોર બેટર ગ્રોથ.", "hindiPronunciation": "यू शुड प्रून द रोज़ बुशिज़ फॉर बेटर ग्रोथ।", "gujaratiTranslation": "વધુ સારી વૃદ્ધિ માટે તમારે ગુલાબની ઝાડીઓની કાપણી કરવી જોઈએ.", "hindiTranslation": "बेहतर विकास के लिए आपको गुलाब की झाड़ियों की छंटाई करनी चाहिए।" }
+      ]
+    },
+    {
+      "word": "Transplant",
+      "gujaratiPronunciation": "ટ્રાન્સપ્લાન્ટ",
+      "hindiPronunciation": "ट्रांसप्लांट",
+      "gujaratiMeaning": "રોપવું",
+      "hindiMeaning": "प्रतिरोपित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Transplant", "gujaratiPronunciation": "ટ્રાન્સપ્લાન્ટ", "hindiPronunciation": "ट्रांसप्लांट", "gujaratiMeaning": "રોપવું", "hindiMeaning": "प्रतिरोपित करना" },
+        "V2 (Past)": { "word": "Transplanted", "gujaratiPronunciation": "ટ્રાન્સપ્લાન્ટેડ", "hindiPronunciation": "ट्रांसप्लांटेड", "gujaratiMeaning": "રોપ્યું", "hindiMeaning": "प्रतिरोपित किया" },
+        "V3 (Past Participle)": { "word": "Transplanted", "gujaratiPronunciation": "ટ્રાન્સપ્લાન્ટેડ", "hindiPronunciation": "ट्रांसप्लांटेड", "gujaratiMeaning": "રોપેલું", "hindiMeaning": "प्रतिरोपित किया हुआ" },
+        "V4 (Present Participle)": { "word": "Transplanting", "gujaratiPronunciation": "ટ્રાન્સપ્લાન્ટિંગ", "hindiPronunciation": "ट्रांसप्लांटिंग", "gujaratiMeaning": "રોપી રહ્યું છે", "hindiMeaning": "प्रतिरोपित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Relocate", "gujaratiPronunciation": "રિલોકેટ", "hindiPronunciation": "रिलोकेट", "gujaratiMeaning": "સ્થળાંતર કરવું", "hindiMeaning": "स्थानांतरित करना" },
+        { "word": "Replant", "gujaratiPronunciation": "રિપ્લાન્ટ", "hindiPronunciation": "रिप्लांट", "gujaratiMeaning": "ફરીથી રોપવું", "hindiMeaning": "फिर से लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Remain", "gujaratiPronunciation": "રિમેઇન", "hindiPronunciation": "रिमेन", "gujaratiMeaning": "રહેવું", "hindiMeaning": "बने रहना" },
+        { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Transport", "gujaratiPronunciation": "ટ્રાન્સપોર્ટ", "hindiPronunciation": "ट्रांसपोर्ट", "gujaratiMeaning": "પરિવહન", "hindiMeaning": "परिवहन" }
+      ],
+      "exampleSentences": [
+        { "sentence": "We need to transplant these seedlings to a larger pot.", "gujaratiPronunciation": "વી નીડ ટુ ટ્રાન્સપ્લાન્ટ ધીસ સીડલિંગ્સ ટુ અ લાર્જર પોટ.", "hindiPronunciation": "वी नीड टू ट्रांसप्लांट दीज़ सीडलिंग्स टू अ लार्जर पॉट।", "gujaratiTranslation": "આપણે આ રોપાઓને મોટા કુંડામાં રોપવાની જરૂર છે.", "hindiTranslation": "हमें इन पौधों को एक बड़े गमले में प्रतिरोपित करने की आवश्यकता है।" }
+      ]
+    },
+    {
+      "word": "Rotate",
+      "gujaratiPronunciation": "રોટેટ",
+      "hindiPronunciation": "रोटेट",
+      "gujaratiMeaning": "ફેરવવું",
+      "hindiMeaning": "घुमाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Rotate", "gujaratiPronunciation": "રોટેટ", "hindiPronunciation": "रोटेट", "gujaratiMeaning": "ફેરવવું", "hindiMeaning": "घुमाना" },
+        "V2 (Past)": { "word": "Rotated", "gujaratiPronunciation": "રોટેટેડ", "hindiPronunciation": "रोटेटेड", "gujaratiMeaning": "ફેરવ્યું", "hindiMeaning": "घुमाया" },
+        "V3 (Past Participle)": { "word": "Rotated", "gujaratiPronunciation": "રોટેટેડ", "hindiPronunciation": "रोटेटेड", "gujaratiMeaning": "ફેરવેલું", "hindiMeaning": "घुमाया हुआ" },
+        "V4 (Present Participle)": { "word": "Rotating", "gujaratiPronunciation": "રોટેટિંગ", "hindiPronunciation": "रोटेटिंग", "gujaratiMeaning": "ફેરવી રહ્યું છે", "hindiMeaning": "घुमा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Spin", "gujaratiPronunciation": "સ્પિન", "hindiPronunciation": "स्पिन", "gujaratiMeaning": "ગોળ ફેરવવું", "hindiMeaning": "घूमना" },
+        { "word": "Turn", "gujaratiPronunciation": "ટર્ન", "hindiPronunciation": "टर्न", "gujaratiMeaning": "વળવું", "hindiMeaning": "मुड़ना" }
+      ],
+      "antonyms": [
+        { "word": "Fix", "gujaratiPronunciation": "ફિક્સ", "hindiPronunciation": "फिक्स", "gujaratiMeaning": "સ્થિર કરવું", "hindiMeaning": "स्थिर करना" },
+        { "word": "Stabilize", "gujaratiPronunciation": "સ્ટેબિલાઇઝ", "hindiPronunciation": "स्टेबिलाइज़", "gujaratiMeaning": "સ્થિર કરવું", "hindiMeaning": "स्थिर करना" }
+      ],
+      "confusingWords": [
+        { "word": "Rotten", "gujaratiPronunciation": "રોટન", "hindiPronunciation": "रॉटेन", "gujaratiMeaning": "સડેલું", "hindiMeaning": "सड़ा हुआ" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Farmers rotate crops to keep the soil healthy.", "gujaratiPronunciation": "ફાર્મર્સ રોટેટ ક્રોપ્સ ટુ કીપ ધ સોઇલ હેલ્ધી.", "hindiPronunciation": "फार्मर्स रोटेट क्रॉप्स टू कीप द सॉइल हेल्दी।", "gujaratiTranslation": "ખેડૂતો જમીનને સ્વસ્થ રાખવા માટે પાકની ફેરબદલી કરે છે.", "hindiTranslation": "किसान मिट्टी को स्वस्थ रखने के लिए फसलें घुमाते हैं।" }
+      ]
+    }
+  ]
+}
+    

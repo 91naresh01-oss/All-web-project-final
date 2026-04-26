@@ -1,0 +1,142 @@
+
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Coalesce",
+            "gujaratiPronunciation": "કોએલેસ",
+            "hindiPronunciation": "कोएलेस",
+            "gujaratiMeaning": "એક થવું, જોડાવું",
+            "hindiMeaning": "एक हो जाना, जुड़ जाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Coalesce", "gujaratiPronunciation": "કોએલેસ", "hindiPronunciation": "कोएलेस", "gujaratiMeaning": "એક થવું", "hindiMeaning": "एक होना" },
+                "V2 (Past)": { "word": "Coalesced", "gujaratiPronunciation": "કોએલેસ્ડ", "hindiPronunciation": "कोएलेस्ड", "gujaratiMeaning": "એક થયું", "hindiMeaning": "एक हुआ" },
+                "V3 (Past Participle)": { "word": "Coalesced", "gujaratiPronunciation": "કોએલેસ્ડ", "hindiPronunciation": "कोएलेस्ड", "gujaratiMeaning": "એક થયેલું", "hindiMeaning": "एक हुआ" },
+                "V4 (Present Participle)": { "word": "Coalescing", "gujaratiPronunciation": "કોએલેસિંગ", "hindiPronunciation": "कोएलेसिंग", "gujaratiMeaning": "એક થઈ રહ્યું છે", "hindiMeaning": "एक हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Merge", "gujaratiPronunciation": "મર્જ", "hindiPronunciation": "मर्ज", "gujaratiMeaning": "વિલીન થવું", "hindiMeaning": "विलय होना" },
+                { "word": "Unite", "gujaratiPronunciation": "યુનાઇટ", "hindiPronunciation": "यूनाइट", "gujaratiMeaning": "એક થવું", "hindiMeaning": "एकजुट होना" }
+            ],
+            "antonyms": [
+                { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ થવું", "hindiMeaning": "अलग होना" },
+                { "word": "Divide", "gujaratiPronunciation": "ડિવાઈડ", "hindiPronunciation": "डिवाइड", "gujaratiMeaning": "વિભાજીત થવું", "hindiMeaning": "विभाजित होना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The small groups coalesced into one large protest.", "gujaratiTranslation": "નાના જૂથો એક મોટા વિરોધમાં એક થઈ ગયા.", "hindiTranslation": "छोटे समूह एक बड़े विरोध में विलीन हो गए।", "gujaratiPronunciation": "ધ સ્મોલ ગ્રુપ્સ કોએલેસ્ડ ઇન્ટુ વન લાર્જ પ્રોટેસ્ટ.", "hindiPronunciation": "द स्मॉल ग्रुप्स कोएलेस्ड इनटू वन लार्ज प्रोटेस्ट।" }
+            ]
+        },
+        {
+            "word": "Haste",
+            "gujaratiPronunciation": "હેસ્ટ",
+            "hindiPronunciation": "हेस्ट",
+            "gujaratiMeaning": "ઉતાવળ કરવી",
+            "hindiMeaning": "जल्दी करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Haste", "gujaratiPronunciation": "હેસ્ટ", "hindiPronunciation": "हेस्ट", "gujaratiMeaning": "ઉતાવળ કરવી", "hindiMeaning": "जल्दी करना" },
+                "V2 (Past)": { "word": "Hasted", "gujaratiPronunciation": "હેસ્ટેડ", "hindiPronunciation": "हेस्टेड", "gujaratiMeaning": "ઉતાવળ કરી", "hindiMeaning": "जल्दी की" },
+                "V3 (Past Participle)": { "word": "Hasted", "gujaratiPronunciation": "હેસ્ટેડ", "hindiPronunciation": "हेस्टेड", "gujaratiMeaning": "ઉતાવળ કરેલી", "hindiMeaning": "जल्दी की हुई" },
+                "V4 (Present Participle)": { "word": "Hasting", "gujaratiPronunciation": "હેસ્ટિંગ", "hindiPronunciation": "हेस्टिंग", "gujaratiMeaning": "ઉતાવળ કરી રહ્યું છે", "hindiMeaning": "जल्दी कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Hurry", "gujaratiPronunciation": "હરી", "hindiPronunciation": "हरी", "gujaratiMeaning": "જલદી કરવી", "hindiMeaning": "जल्दी करना" },
+                { "word": "Rush", "gujaratiPronunciation": "રશ", "hindiPronunciation": "रश", "gujaratiMeaning": "દોડવું", "hindiMeaning": "दौड़ना" }
+            ],
+            "antonyms": [
+                { "word": "Delay", "gujaratiPronunciation": "ડિલે", "hindiPronunciation": "डिले", "gujaratiMeaning": "વિલંબ કરવો", "hindiMeaning": "देर करना" },
+                { "word": "Wait", "gujaratiPronunciation": "વેઇટ", "hindiPronunciation": "वेट", "gujaratiMeaning": "રાહ જોવી", "hindiMeaning": "इंतजार करना" }
+            ],
+            "confusingWords": [
+                { "word": "Taste", "gujaratiPronunciation": "ટેસ્ટ", "hindiPronunciation": "टेस्ट", "gujaratiMeaning": "સ્વાદ", "hindiMeaning": "स्वाद" },
+                { "word": "Waste", "gujaratiPronunciation": "વેસ્ટ", "hindiPronunciation": "वेस्ट", "gujaratiMeaning": "બગાડ", "hindiMeaning": "बर्बाद" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Haste makes waste.", "gujaratiTranslation": "ઉતાવળે આંબા ન પાકે.", "hindiTranslation": "जल्दी का काम शैतान का।", "gujaratiPronunciation": "હેસ્ટ મેક્સ વેસ્ટ.", "hindiPronunciation": "हेस्ट मेक्स वेस्ट।" }
+            ]
+        },
+        {
+            "word": "Outlast",
+            "gujaratiPronunciation": "આઉટલાસ્ટ",
+            "hindiPronunciation": "आउटलास्ट",
+            "gujaratiMeaning": "વધુ સમય ટકવું",
+            "hindiMeaning": "अधिक समय तक टिकना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Outlast", "gujaratiPronunciation": "આઉટલાસ્ટ", "hindiPronunciation": "आउटलास्ट", "gujaratiMeaning": "વધુ સમય ટકવું", "hindiMeaning": "अधिक समय तक टिकना" },
+                "V2 (Past)": { "word": "Outlasted", "gujaratiPronunciation": "આઉટલાસ્ટેડ", "hindiPronunciation": "आउटलास्टेड", "gujaratiMeaning": "વધુ સમય ટક્યું", "hindiMeaning": "अधिक समय तक टिका" },
+                "V3 (Past Participle)": { "word": "Outlasted", "gujaratiPronunciation": "આઉટલાસ્ટેડ", "hindiPronunciation": "आउटलास्टेड", "gujaratiMeaning": "વધુ સમય ટકેલું", "hindiMeaning": "अधिक समय तक टिका हुआ" },
+                "V4 (Present Participle)": { "word": "Outlasting", "gujaratiPronunciation": "આઉટલાસ્ટિંગ", "hindiPronunciation": "आउटलास्टिंग", "gujaratiMeaning": "વધુ સમય ટકી રહ્યું છે", "hindiMeaning": "अधिक समय तक टिक रहा है" }
+            },
+            "synonyms": [
+                { "word": "Survive", "gujaratiPronunciation": "સરવાઈવ", "hindiPronunciation": "सर्वाइव", "gujaratiMeaning": "જીવિત રહેવું", "hindiMeaning": "जीवित रहना" },
+                { "word": "Endure", "gujaratiPronunciation": "એન્ડ્યોર", "hindiPronunciation": "एंड्योर", "gujaratiMeaning": "સહન કરવું", "hindiMeaning": "सहन करना" }
+            ],
+            "antonyms": [
+                { "word": "Perish", "gujaratiPronunciation": "પેરિશ", "hindiPronunciation": "पेरिश", "gujaratiMeaning": "નાશ પામવું", "hindiMeaning": "नष्ट होना" },
+                { "word": "Fade", "gujaratiPronunciation": "ફેડ", "hindiPronunciation": "फेड", "gujaratiMeaning": "ઝાંખું પડવું", "hindiMeaning": "फीका पड़ना" }
+            ],
+            "confusingWords": [
+                { "word": "Outcast", "gujaratiPronunciation": "આઉટકાસ્ટ", "hindiPronunciation": "आउटकास्ट", "gujaratiMeaning": "બહિષ્કૃત", "hindiMeaning": "बहिष्कृत" }
+            ],
+            "exampleSentences": [
+                { "sentence": "His fame will outlast many of his contemporaries.", "gujaratiTranslation": "તેમની ખ્યાતિ તેમના ઘણા સમકાલીનો કરતાં વધુ સમય ટકશે.", "hindiTranslation": "उनकी प्रसिद्धि उनके कई समकालीनों से अधिक समय तक बनी रहेगी।", "gujaratiPronunciation": "હિઝ ફેમ વિલ આઉટલાસ્ટ મેની ઓફ હિઝ કન્ટેમ્પરરીઝ.", "hindiPronunciation": "हिज़ फेम विल आउटलास्ट मेनी ऑफ़ हिज़ कंटेम्पररीज़।" }
+            ]
+        },
+        {
+            "word": "Terminate",
+            "gujaratiPronunciation": "ટર્મિનેટ",
+            "hindiPronunciation": "टर्मिनेट",
+            "gujaratiMeaning": "સમાપ્ત કરવું",
+            "hindiMeaning": "समाप्त करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Terminate", "gujaratiPronunciation": "ટર્મિનેટ", "hindiPronunciation": "टर्मिनेट", "gujaratiMeaning": "સમાપ્ત કરવું", "hindiMeaning": "समाप्त करना" },
+                "V2 (Past)": { "word": "Terminated", "gujaratiPronunciation": "ટર્મિનેટેડ", "hindiPronunciation": "टर्मिनेटेड", "gujaratiMeaning": "સમાપ્ત કર્યું", "hindiMeaning": "समाप्त किया" },
+                "V3 (Past Participle)": { "word": "Terminated", "gujaratiPronunciation": "ટર્મિનેટેડ", "hindiPronunciation": "टर्मिनेटेड", "gujaratiMeaning": "સમાપ્ત કરેલું", "hindiMeaning": "समाप्त किया हुआ" },
+                "V4 (Present Participle)": { "word": "Terminating", "gujaratiPronunciation": "ટર્મિનેટિંગ", "hindiPronunciation": "टर्मिनेटिंग", "gujaratiMeaning": "સમાપ્ત કરી રહ્યું છે", "hindiMeaning": "समाप्त कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "End", "gujaratiPronunciation": "એન્ડ", "hindiPronunciation": "एंड", "gujaratiMeaning": "અંત કરવો", "hindiMeaning": "अंत करना" },
+                { "word": "Abolish", "gujaratiPronunciation": "એબોલિશ", "hindiPronunciation": "एबॉलिश", "gujaratiMeaning": "નાબૂદ કરવું", "hindiMeaning": "समाप्त करना" }
+            ],
+            "antonyms": [
+                { "word": "Begin", "gujaratiPronunciation": "બિગિન", "hindiPronunciation": "बिगिन", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+                { "word": "Initiate", "gujaratiPronunciation": "ઇનિશિએટ", "hindiPronunciation": "इनिशिएट", "gujaratiMeaning": "પ્રારંભ કરવો", "hindiMeaning": "प्रारंभ करना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The company decided to terminate the contract.", "gujaratiTranslation": "કંપનીએ કરાર સમાપ્ત કરવાનો નિર્ણય કર્યો.", "hindiTranslation": "कंपनी ने अनुबंध समाप्त करने का निर्णय लिया।", "gujaratiPronunciation": "ધ કંપની ડિસાઈડેડ ટુ ટર્મિનેટ ધ કોન્ટ્રેક્ટ.", "hindiPronunciation": "द कंपनी डिसाइडेड टू टर्मिनेट द कॉन्ट्रैक्ट।" }
+            ]
+        },
+        {
+            "word": "Recur",
+            "gujaratiPronunciation": "રિકર",
+            "hindiPronunciation": "रिकर",
+            "gujaratiMeaning": "ફરીથી થવું, પુનરાવર્તન થવું",
+            "hindiMeaning": "फिर से होना, पुनरावृत्ति होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Recur", "gujaratiPronunciation": "રિકર", "hindiPronunciation": "रिकर", "gujaratiMeaning": "ફરીથી થવું", "hindiMeaning": "फिर से होना" },
+                "V2 (Past)": { "word": "Recurred", "gujaratiPronunciation": "રિકર્ડ", "hindiPronunciation": "रिकर्ड", "gujaratiMeaning": "ફરીથી થયું", "hindiMeaning": "फिर से हुआ" },
+                "V3 (Past Participle)": { "word": "Recurred", "gujaratiPronunciation": "રિકર્ડ", "hindiPronunciation": "रिकर्ड", "gujaratiMeaning": "ફરીથી થયેલું", "hindiMeaning": "फिर से हुआ" },
+                "V4 (Present Participle)": { "word": "Recurring", "gujaratiPronunciation": "રિકરિંગ", "hindiPronunciation": "रिकरिंग", "gujaratiMeaning": "ફરીથી થઈ રહ્યું છે", "hindiMeaning": "फिर से हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Repeat", "gujaratiPronunciation": "રિપીટ", "hindiPronunciation": "रिपीट", "gujaratiMeaning": "પુનરાવર્તન કરવું", "hindiMeaning": "दोहराना" },
+                { "word": "Reappear", "gujaratiPronunciation": "રિઅપિયર", "hindiPronunciation": "रिअपीयर", "gujaratiMeaning": "ફરી દેખાવું", "hindiMeaning": "फिर से दिखना" }
+            ],
+            "antonyms": [
+                { "word": "Cease", "gujaratiPronunciation": "સીઝ", "hindiPronunciation": "सीज़", "gujaratiMeaning": "બંધ થવું", "hindiMeaning": "रुक जाना" },
+                { "word": "Stop", "gujaratiPronunciation": "સ્ટોપ", "hindiPronunciation": "स्टॉप", "gujaratiMeaning": "અટકવું", "hindiMeaning": "रुकना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "The same dream would recur every night.", "gujaratiTranslation": "તે જ સ્વપ્ન દરરોજ રાત્રે ફરીથી આવતું.", "hindiTranslation": "वही सपना हर रात फिर से आता था।", "gujaratiPronunciation": "ધ સેમ ડ્રીમ વુડ રિકર એવરી નાઈટ.", "hindiPronunciation": "द सेम ड्रीम वुड रिकर एवरी नाइट।" }
+            ]
+        }
+    ]
+}

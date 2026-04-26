@@ -1,0 +1,174 @@
+{
+  "id": "level-1",
+  "title": "Level 1: Push, Pull, Lift, Drop, Turn",
+  "words": [
+    {
+      "word": "Push",
+      "gujaratiPronunciation": "પુશ",
+      "hindiPronunciation": "पुश",
+      "gujaratiMeaning": "ધક્કો મારવો",
+      "hindiMeaning": "धक्का देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Push", "gujaratiPronunciation": "પુશ", "hindiPronunciation": "पुश", "gujaratiMeaning": "ધક્કો મારવો", "hindiMeaning": "धक्का देना" },
+        "v2": { "word": "Pushed", "gujaratiPronunciation": "પુશ્ડ", "hindiPronunciation": "पुश्ड", "gujaratiMeaning": "ધક્કો માર્યો", "hindiMeaning": "धक्का दिया" },
+        "v3": { "word": "Pushed", "gujaratiPronunciation": "પુશ્ડ", "hindiPronunciation": "पुश्ड", "gujaratiMeaning": "ધક્કો મારેલો", "hindiMeaning": "धक्का दिया हुआ" },
+        "v4": { "word": "Pushing", "gujaratiPronunciation": "પુશિંગ", "hindiPronunciation": "पुशिंग", "gujaratiMeaning": "ધક્કો મારી રહ્યો છે", "hindiMeaning": "धक्का दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Shove", "gujaratiPronunciation": "શવ", "hindiPronunciation": "शव", "gujaratiMeaning": "જોરથી ધક્કો મારવો", "hindiMeaning": "ज़ोर से धक्का देना" },
+        { "word": "Thrust", "gujaratiPronunciation": "થ્રસ્ટ", "hindiPronunciation": "थ्रस्ट", "gujaratiMeaning": "આગળ ધકેલવું", "hindiMeaning": "आगे धकेलना" }
+      ],
+      "antonyms": [
+        { "word": "Pull", "gujaratiPronunciation": "પુલ", "hindiPronunciation": "पुल", "gujaratiMeaning": "ખેંચવું", "hindiMeaning": "खींचना" },
+        { "word": "Drag", "gujaratiPronunciation": "ડ્રેગ", "hindiPronunciation": "ड्रैग", "gujaratiMeaning": "ઘસડવું", "hindiMeaning": "घसीटना" }
+      ],
+      "confusingWords": [
+        { "word": "Bush", "gujaratiPronunciation": "બુશ", "hindiPronunciation": "बुश", "gujaratiMeaning": "ઝાડવું", "hindiMeaning": "झाड़ी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to push the door to open it.",
+          "gujaratiPronunciation": "યુ નીડ ટુ પુશ ધ ડોર ટુ ઓપન ઇટ.",
+          "hindiPronunciation": "यू नीड टू पुश द डोर टू ओपन इट।",
+          "gujaratiTranslation": "દરવાજો ખોલવા માટે તમારે ધક્કો મારવાની જરૂર છે.",
+          "hindiTranslation": "दरवाज़ा खोलने के लिए आपको धक्का देना होगा।"
+        }
+      ]
+    },
+    {
+      "word": "Pull",
+      "gujaratiPronunciation": "પુલ",
+      "hindiPronunciation": "पुल",
+      "gujaratiMeaning": "ખેંચવું",
+      "hindiMeaning": "खींचना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Pull", "gujaratiPronunciation": "પુલ", "hindiPronunciation": "पुल", "gujaratiMeaning": "ખેંચવું", "hindiMeaning": "खींचना" },
+        "v2": { "word": "Pulled", "gujaratiPronunciation": "પુલ્ડ", "hindiPronunciation": "पुल्ड", "gujaratiMeaning": "ખેંચ્યું", "hindiMeaning": "खींचा" },
+        "v3": { "word": "Pulled", "gujaratiPronunciation": "પુલ્ડ", "hindiPronunciation": "पुल्ड", "gujaratiMeaning": "ખેંચેલું", "hindiMeaning": "खींचा हुआ" },
+        "v4": { "word": "Pulling", "gujaratiPronunciation": "પુલિંગ", "hindiPronunciation": "पुलिंग", "gujaratiMeaning": "ખેંચી રહ્યો છે", "hindiMeaning": "खींच रहा है" }
+      },
+      "synonyms": [
+        { "word": "Tug", "gujaratiPronunciation": "ટગ", "hindiPronunciation": "टग", "gujaratiMeaning": "ઝટકો મારીને ખેંચવું", "hindiMeaning": "झटका मारकर खींचना" },
+        { "word": "Haul", "gujaratiPronunciation": "હોલ", "hindiPronunciation": "हॉल", "gujaratiMeaning": "જોરથી ખેંચવું", "hindiMeaning": "ज़ोर से खींचना" }
+      ],
+      "antonyms": [
+        { "word": "Push", "gujaratiPronunciation": "પુશ", "hindiPronunciation": "पुश", "gujaratiMeaning": "ધક્કો મારવો", "hindiMeaning": "धक्का देना" }
+      ],
+      "confusingWords": [
+        { "word": "Pool", "gujaratiPronunciation": "પૂલ", "hindiPronunciation": "पूल", "gujaratiMeaning": "તરવાનો કુંડ", "hindiMeaning": "तरणताल" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She pulled the rope with all her strength.",
+          "gujaratiPronunciation": "શી પુલ્ડ ધ રોપ વિથ ઓલ હર સ્ટ્રેન્થ.",
+          "hindiPronunciation": "शी पुल्ड द रोप विद ऑल हर स्ट्रेंथ।",
+          "gujaratiTranslation": "તેણીએ તેની બધી તાકાતથી દોરડું ખેંચ્યું.",
+          "hindiTranslation": "उसने अपनी पूरी ताकत से रस्सी खींची।"
+        }
+      ]
+    },
+    {
+      "word": "Lift",
+      "gujaratiPronunciation": "લિફ્ટ",
+      "hindiPronunciation": "लिफ्ट",
+      "gujaratiMeaning": "ઉંચકવું",
+      "hindiMeaning": "उठाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Lift", "gujaratiPronunciation": "લિફ્ટ", "hindiPronunciation": "लिफ्ट", "gujaratiMeaning": "ઉંચકવું", "hindiMeaning": "उठाना" },
+        "v2": { "word": "Lifted", "gujaratiPronunciation": "લિફ્ટેડ", "hindiPronunciation": "लिफ्टेड", "gujaratiMeaning": "ઉંચક્યું", "hindiMeaning": "उठाया" },
+        "v3": { "word": "Lifted", "gujaratiPronunciation": "લિફ્ટેડ", "hindiPronunciation": "लिफ्टेड", "gujaratiMeaning": "ઉંચકેલું", "hindiMeaning": "उठाया हुआ" },
+        "v4": { "word": "Lifting", "gujaratiPronunciation": "લિફ્ટિંગ", "hindiPronunciation": "लिफ्टिंग", "gujaratiMeaning": "ઉંચકી રહ્યો છે", "hindiMeaning": "उठा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Raise", "gujaratiPronunciation": "રેઇઝ", "hindiPronunciation": "रेज़", "gujaratiMeaning": "ઉપર ઉઠાવવું", "hindiMeaning": "ऊपर उठाना" },
+        { "word": "Heave", "gujaratiPronunciation": "હીવ", "hindiPronunciation": "हीव", "gujaratiMeaning": "જોર લગાવીને ઉંચકવું", "hindiMeaning": "ज़ोर लगाकर उठाना" }
+      ],
+      "antonyms": [
+        { "word": "Drop", "gujaratiPronunciation": "ડ્રોપ", "hindiPronunciation": "ड्रॉप", "gujaratiMeaning": "નીચે મૂકવું", "hindiMeaning": "नीचे रखना" },
+        { "word": "Lower", "gujaratiPronunciation": "લોઅર", "hindiPronunciation": "लोअर", "gujaratiMeaning": "નીચે કરવું", "hindiMeaning": "नीचे करना" }
+      ],
+      "confusingWords": [
+        { "word": "Left", "gujaratiPronunciation": "લેફ્ટ", "hindiPronunciation": "लेफ्ट", "gujaratiMeaning": "ડાબું / છોડી દીધું", "hindiMeaning": "बायाँ / छोड़ दिया" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He lifted the heavy box with ease.",
+          "gujaratiPronunciation": "હી લિફ્ટેડ ધ હેવી બોક્સ વિથ ઇઝ.",
+          "hindiPronunciation": "ही लिफ्टेड द हेवी बॉक्स विद ईज़।",
+          "gujaratiTranslation": "તેણે ભારે બોક્સ સરળતાથી ઉંચકી લીધું.",
+          "hindiTranslation": "उसने भारी बक्सा आसानी से उठा लिया।"
+        }
+      ]
+    },
+    {
+      "word": "Drop",
+      "gujaratiPronunciation": "ડ્રોપ",
+      "hindiPronunciation": "ड्रॉप",
+      "gujaratiMeaning": "પડતું મૂકવું",
+      "hindiMeaning": "गिराना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Drop", "gujaratiPronunciation": "ડ્રોપ", "hindiPronunciation": "ड्रॉप", "gujaratiMeaning": "પડતું મૂકવું", "hindiMeaning": "गिराना" },
+        "v2": { "word": "Dropped", "gujaratiPronunciation": "ડ્રોપ્ડ", "hindiPronunciation": "ड्रॉप्ड", "gujaratiMeaning": "પડતું મૂક્યું", "hindiMeaning": "गिराया" },
+        "v3": { "word": "Dropped", "gujaratiPronunciation": "ડ્રોપ્ડ", "hindiPronunciation": "ड्रॉप्ड", "gujaratiMeaning": "પડતું મૂકેલું", "hindiMeaning": "गिराया हुआ" },
+        "v4": { "word": "Dropping", "gujaratiPronunciation": "ડ્રોપિંગ", "hindiPronunciation": "ड्रॉपिंग", "gujaratiMeaning": "પડતું મૂકી રહ્યો છે", "hindiMeaning": "गिरा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Release", "gujaratiPronunciation": "રિલીઝ", "hindiPronunciation": "रिलीज़", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ देना" },
+        { "word": "Lower", "gujaratiPronunciation": "લોઅર", "hindiPronunciation": "लोअर", "gujaratiMeaning": "નીચે કરવું", "hindiMeaning": "नीचे करना" }
+      ],
+      "antonyms": [
+        { "word": "Lift", "gujaratiPronunciation": "લિફ્ટ", "hindiPronunciation": "लिफ्ट", "gujaratiMeaning": "ઉંચકવું", "hindiMeaning": "उठाना" },
+        { "word": "Hold", "gujaratiPronunciation": "હોલ્ડ", "hindiPronunciation": "होल्ड", "gujaratiMeaning": "પકડી રાખવું", "hindiMeaning": "पकड़े रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Drip", "gujaratiPronunciation": "ડ્રિપ", "hindiPronunciation": "ड्रिप", "gujaratiMeaning": "ટપકવું", "hindiMeaning": "टपकना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Be careful not to drop the glass.",
+          "gujaratiPronunciation": "બી કેરફુલ નોટ ટુ ડ્રોપ ધ ગ્લાસ.",
+          "hindiPronunciation": "बी केयरफुल नॉट टू ड्रॉप द ग्लास।",
+          "gujaratiTranslation": "કાચ પડી ન જાય તેનું ધ્યાન રાખજો.",
+          "hindiTranslation": "सावधान रहें, गिलास न गिरे।"
+        }
+      ]
+    },
+    {
+      "word": "Turn",
+      "gujaratiPronunciation": "ટર્ન",
+      "hindiPronunciation": "टर्न",
+      "gujaratiMeaning": "વળવું / ફેરવવું",
+      "hindiMeaning": "मुड़ना / घुमाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Turn", "gujaratiPronunciation": "ટર્ન", "hindiPronunciation": "टर्न", "gujaratiMeaning": "વળવું", "hindiMeaning": "मुड़ना" },
+        "v2": { "word": "Turned", "gujaratiPronunciation": "ટર્ન્ડ", "hindiPronunciation": "टर्न्ड", "gujaratiMeaning": "વળ્યો", "hindiMeaning": "मुड़ा" },
+        "v3": { "word": "Turned", "gujaratiPronunciation": "ટર્ન્ડ", "hindiPronunciation": "टर्न्ड", "gujaratiMeaning": "વળેલો", "hindiMeaning": "मुड़ा हुआ" },
+        "v4": { "word": "Turning", "gujaratiPronunciation": "ટર્નિંગ", "hindiPronunciation": "टर्निंग", "gujaratiMeaning": "વળી રહ્યો છે", "hindiMeaning": "मुड़ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Rotate", "gujaratiPronunciation": "રોટેટ", "hindiPronunciation": "रोटेट", "gujaratiMeaning": "ગોળ ફેરવવું", "hindiMeaning": "घूमना" },
+        { "word": "Spin", "gujaratiPronunciation": "સ્પિન", "hindiPronunciation": "स्पिन", "gujaratiMeaning": "ભમવું", "hindiMeaning": "चक्कर काटना" }
+      ],
+      "antonyms": [
+        { "word": "Straighten", "gujaratiPronunciation": "સ્ટ્રેઇટન", "hindiPronunciation": "स्ट्रेटन", "gujaratiMeaning": "સીધું કરવું", "hindiMeaning": "सीधा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Term", "gujaratiPronunciation": "ટર્મ", "hindiPronunciation": "टर्म", "gujaratiMeaning": "શરત / મુદત", "hindiMeaning": "अवधि / शब्द" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Turn right at the next corner.",
+          "gujaratiPronunciation": "ટર્ન રાઇટ એટ ધ નેક્સ્ટ કોર્નર.",
+          "hindiPronunciation": "टर्न राइट एट द नेक्स्ट कॉर्नर।",
+          "gujaratiTranslation": "આગલા ખૂણેથી જમણી બાજુ વળો.",
+          "hindiTranslation": "अगले कोने से दाएँ मुड़ें।"
+        }
+      ]
+    }
+  ]
+}

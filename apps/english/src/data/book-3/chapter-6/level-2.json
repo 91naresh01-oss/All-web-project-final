@@ -1,0 +1,176 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Artistic Techniques",
+  "words": [
+    {
+      "word": "Sculpt",
+      "gujaratiPronunciation": "સ્કલ્પ્ટ",
+      "hindiPronunciation": "स्कल्प्ट",
+      "gujaratiMeaning": "મૂર્તિ બનાવવી, કોતરણી કરવી",
+      "hindiMeaning": "मूर्ति बनाना, नक्काशी करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Sculpt", "gujaratiPronunciation": "સ્કલ્પ્ટ", "hindiPronunciation": "स्कल्प्ट", "gujaratiMeaning": "કોતરણી કરવી", "hindiMeaning": "नक्काशी करना" },
+        "V2 (Past)": { "word": "Sculpted", "gujaratiPronunciation": "સ્કલ્પટેડ", "hindiPronunciation": "स्कल्प्टेड", "gujaratiMeaning": "કોતરણી કરી", "hindiMeaning": "नक्काशी की" },
+        "V3 (Past Participle)": { "word": "Sculpted", "gujaratiPronunciation": "સ્કલ્પટેડ", "hindiPronunciation": "स्कल्प्टेड", "gujaratiMeaning": "કોતરેલ", "hindiMeaning": "नक्काशीदार" },
+        "V4 (Present Participle)": { "word": "Sculpting", "gujaratiPronunciation": "સ્કલ્પટિંગ", "hindiPronunciation": "स्कल्प्टिंग", "gujaratiMeaning": "કોતરણી કરી રહ્યું છે", "hindiMeaning": "नक्काशी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Carve", "gujaratiPronunciation": "કાર્વ", "hindiPronunciation": "कार्व", "gujaratiMeaning": "કોતરવું", "hindiMeaning": "तराशना" },
+        { "word": "Shape", "gujaratiPronunciation": "શેપ", "hindiPronunciation": "शेप", "gujaratiMeaning": "આકાર આપવો", "hindiMeaning": "आकार देना" }
+      ],
+      "antonyms": [
+        { "word": "Demolish", "gujaratiPronunciation": "ડિમોલિશ", "hindiPronunciation": "डिमोलिश", "gujaratiMeaning": "તોડી પાડવું", "hindiMeaning": "ध्वस्त करना" },
+        { "word": "Melt", "gujaratiPronunciation": "મેલ્ટ", "hindiPronunciation": "मेल्ट", "gujaratiMeaning": "ઓગાળવું", "hindiMeaning": "पिघलाना" }
+      ],
+      "confusingWords": [
+        { "word": "Scalp", "gujaratiPronunciation": "સ્કાલ્પ", "hindiPronunciation": "स्कैल्प", "gujaratiMeaning": "માથાની ચામડી", "hindiMeaning": "खोपड़ी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He can sculpt a statue from stone.",
+          "gujaratiTranslation": "તે પથ્થરમાંથી મૂર્તિ કોતરી શકે છે.",
+          "hindiTranslation": "वह पत्थर से मूर्ति गढ़ सकता है।",
+          "gujaratiPronunciation": "હી કેન સ્કલ્પ્ટ અ સ્ટેચ્યુ ફ્રોમ સ્ટોન.",
+          "hindiPronunciation": "ही कैन स्कल्प्ट अ स्टैच्यू फ्रॉम स्टोन।"
+        }
+      ]
+    },
+    {
+      "word": "Etch",
+      "gujaratiPronunciation": "એચ",
+      "hindiPronunciation": "एच",
+      "gujaratiMeaning": "નકશીકામ કરવું, કોતરવું (ધાતુ/કાચ પર)",
+      "hindiMeaning": "नक़्क़ाशी करना, खोदना (धातु/कांच पर)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Etch", "gujaratiPronunciation": "એચ", "hindiPronunciation": "एच", "gujaratiMeaning": "કોતરવું", "hindiMeaning": "खोदना" },
+        "V2 (Past)": { "word": "Etched", "gujaratiPronunciation": "એચ્ડ", "hindiPronunciation": "एचड", "gujaratiMeaning": "કોતર્યું", "hindiMeaning": "खोदा" },
+        "V3 (Past Participle)": { "word": "Etched", "gujaratiPronunciation": "એચ્ડ", "hindiPronunciation": "एचड", "gujaratiMeaning": "કોતરેલું", "hindiMeaning": "खोदा हुआ" },
+        "V4 (Present Participle)": { "word": "Etching", "gujaratiPronunciation": "એચિંગ", "hindiPronunciation": "एचिंग", "gujaratiMeaning": "કોતરી રહ્યું છે", "hindiMeaning": "खोद रहा है" }
+      },
+      "synonyms": [
+        { "word": "Engrave", "gujaratiPronunciation": "એન્ગ્રેવ", "hindiPronunciation": "एंग्रेव", "gujaratiMeaning": "કોતરણી કરવી", "hindiMeaning": "नक्काशी करना" },
+        { "word": "Carve", "gujaratiPronunciation": "કાર્વ", "hindiPronunciation": "कार्व", "gujaratiMeaning": "કોતરવું", "hindiMeaning": "तराशना" }
+      ],
+      "antonyms": [
+        { "word": "Erase", "gujaratiPronunciation": "ઇરેઝ", "hindiPronunciation": "इरेज़", "gujaratiMeaning": "ભૂંસી નાખવું", "hindiMeaning": "मिटाना" },
+        { "word": "Smooth", "gujaratiPronunciation": "સ્મૂધ", "hindiPronunciation": "स्मूथ", "gujaratiMeaning": "લીસું કરવું", "hindiMeaning": "चिकना करना" }
+      ],
+      "confusingWords": [
+        { "word": "Edge", "gujaratiPronunciation": "એજ", "hindiPronunciation": "एज", "gujaratiMeaning": "ધાર", "hindiMeaning": "किनारा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She will etch her name on the glass.",
+          "gujaratiTranslation": "તેણી કાચ પર પોતાનું નામ કોતરશે.",
+          "hindiTranslation": "वह कांच पर अपना नाम उकेरेगी।",
+          "gujaratiPronunciation": "શી વિલ એચ હર નેમ ઓન ધ ગ્લાસ.",
+          "hindiPronunciation": "शी विल एच हर नेम ऑन द ग्लास।"
+        }
+      ]
+    },
+    {
+      "word": "Weave",
+      "gujaratiPronunciation": "વીવ",
+      "hindiPronunciation": "वीव",
+      "gujaratiMeaning": "વણવું",
+      "hindiMeaning": "बुनना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Weave", "gujaratiPronunciation": "વીવ", "hindiPronunciation": "वीव", "gujaratiMeaning": "વણવું", "hindiMeaning": "बुनना" },
+        "V2 (Past)": { "word": "Wove", "gujaratiPronunciation": "વોવ", "hindiPronunciation": "वोव", "gujaratiMeaning": "વણ્યું", "hindiMeaning": "बुना" },
+        "V3 (Past Participle)": { "word": "Woven", "gujaratiPronunciation": "વોવન", "hindiPronunciation": "वोवन", "gujaratiMeaning": "વણેલું", "hindiMeaning": "बुना हुआ" },
+        "V4 (Present Participle)": { "word": "Weaving", "gujaratiPronunciation": "વીવિંગ", "hindiPronunciation": "वीविंग", "gujaratiMeaning": "વણી રહ્યું છે", "hindiMeaning": "बुन रहा है" }
+      },
+      "synonyms": [
+        { "word": "Knit", "gujaratiPronunciation": "નિટ", "hindiPronunciation": "निट", "gujaratiMeaning": "ગૂંથવું", "hindiMeaning": "बुनना" },
+        { "word": "Interlace", "gujaratiPronunciation": "ઇન્ટરલેસ", "hindiPronunciation": "इंटरलेस", "gujaratiMeaning": "ગૂંથવું", "hindiMeaning": "गूंथना" }
+      ],
+      "antonyms": [
+        { "word": "Unravel", "gujaratiPronunciation": "અનરેવલ", "hindiPronunciation": "अनरेवल", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "खोलना" },
+        { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" }
+      ],
+      "confusingWords": [
+        { "word": "Wave", "gujaratiPronunciation": "વેવ", "hindiPronunciation": "वेव", "gujaratiMeaning": "તરંગ", "hindiMeaning": "लहर" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She can weave beautiful patterns.",
+          "gujaratiTranslation": "તેણી સુંદર ભાત વણી શકે છે.",
+          "hindiTranslation": "वह सुंदर पैटर्न बुन सकती है।",
+          "gujaratiPronunciation": "શી કેન વીવ બ્યુટિફુલ પેટર્ન્સ.",
+          "hindiPronunciation": "शी कैन वीव ब्यूटीफुल पैटर्न्स।"
+        }
+      ]
+    },
+    {
+      "word": "Draft",
+      "gujaratiPronunciation": "ડ્રાફ્ટ",
+      "hindiPronunciation": "ड्राफ़्ट",
+      "gujaratiMeaning": "મુસદ્દો તૈયાર કરવો",
+      "hindiMeaning": "प्रारूप तैयार करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Draft", "gujaratiPronunciation": "ડ્રાફ્ટ", "hindiPronunciation": "ड्राफ़्ट", "gujaratiMeaning": "મુસદ્દો બનાવવો", "hindiMeaning": "प्रारूप बनाना" },
+        "V2 (Past)": { "word": "Drafted", "gujaratiPronunciation": "ડ્રાફ્ટેડ", "hindiPronunciation": "ड्राफ़्टेड", "gujaratiMeaning": "મુસદ્દો બનાવ્યો", "hindiMeaning": "प्रारूप बनाया" },
+        "V3 (Past Participle)": { "word": "Drafted", "gujaratiPronunciation": "ડ્રાફ્ટેડ", "hindiPronunciation": "ड्राफ़्टेड", "gujaratiMeaning": "મુસદ્દો બનાવેલ", "hindiMeaning": "प्रारूपित" },
+        "V4 (Present Participle)": { "word": "Drafting", "gujaratiPronunciation": "ડ્રાફ્ટિંગ", "hindiPronunciation": "ड्राफ़्टिंग", "gujaratiMeaning": "મુસદ્દો બનાવી રહ્યું છે", "hindiMeaning": "प्रारूप बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Outline", "gujaratiPronunciation": "આઉટલાઇન", "hindiPronunciation": "आउटलाइन", "gujaratiMeaning": "રૂપરેખા બનાવવી", "hindiMeaning": "रूपरेखा बनाना" },
+        { "word": "Sketch", "gujaratiPronunciation": "સ્કેચ", "hindiPronunciation": "स्केच", "gujaratiMeaning": "કાચું ચિત્ર દોરવું", "hindiMeaning": "कच्चा चित्र बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Finalize", "gujaratiPronunciation": "ફાઇનલાઇઝ", "hindiPronunciation": "फाइनलाइज़", "gujaratiMeaning": "અંતિમ રૂપ આપવું", "hindiMeaning": "अंतिम रूप देना" },
+        { "word": "Publish", "gujaratiPronunciation": "પબ્લિશ", "hindiPronunciation": "पब्लिश", "gujaratiMeaning": "પ્રકાશિત કરવું", "hindiMeaning": "प्रकाशित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Draught", "gujaratiPronunciation": "ડ્રાફ્ટ", "hindiPronunciation": "ड्राफ्ट", "gujaratiMeaning": "હવાનો ઝોકો", "hindiMeaning": "हवा का झोंका" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I will draft the report tomorrow.",
+          "gujaratiTranslation": "હું આવતીકાલે રિપોર્ટનો મુસદ્દો તૈયાર કરીશ.",
+          "hindiTranslation": "मैं कल रिपोर्ट का मसौदा तैयार करूंगा।",
+          "gujaratiPronunciation": "આઇ વિલ ડ્રાફ્ટ ધ રિપોર્ટ ટુમોરો.",
+          "hindiPronunciation": "आई विल ड्राफ़्ट द रिपोर्ट टुमॉरो।"
+        }
+      ]
+    },
+    {
+      "word": "Refine",
+      "gujaratiPronunciation": "રિફાઇન",
+      "hindiPronunciation": "रिफाइन",
+      "gujaratiMeaning": "સુધારવું, શુદ્ધ કરવું",
+      "hindiMeaning": "सुधारना, शुद्ध करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Refine", "gujaratiPronunciation": "રિફાઇન", "hindiPronunciation": "रिफाइन", "gujaratiMeaning": "સુધારવું", "hindiMeaning": "सुधारना" },
+        "V2 (Past)": { "word": "Refined", "gujaratiPronunciation": "રિફાઇન્ડ", "hindiPronunciation": "रिफाइंड", "gujaratiMeaning": "સુધાર્યું", "hindiMeaning": "सुधारा" },
+        "V3 (Past Participle)": { "word": "Refined", "gujaratiPronunciation": "રિફાઇન્ડ", "hindiPronunciation": "रिफाइंड", "gujaratiMeaning": "સુધારેલું", "hindiMeaning": "परिष्कृत" },
+        "V4 (Present Participle)": { "word": "Refining", "gujaratiPronunciation": "રિફાઇનિંગ", "hindiPronunciation": "रिफाइनिंग", "gujaratiMeaning": "સુધારી રહ્યું છે", "hindiMeaning": "सुधार रहा है" }
+      },
+      "synonyms": [
+        { "word": "Improve", "gujaratiPronunciation": "ઇમ્પ્રુવ", "hindiPronunciation": "इम्प्रूव", "gujaratiMeaning": "સુધારવું", "hindiMeaning": "सुधारना" },
+        { "word": "Purify", "gujaratiPronunciation": "પ્યુરિફાય", "hindiPronunciation": "प्यूरिफी", "gujaratiMeaning": "શુદ્ધ કરવું", "hindiMeaning": "शुद्ध करना" }
+      ],
+      "antonyms": [
+        { "word": "Worsen", "gujaratiPronunciation": "વર્સન", "hindiPronunciation": "वर्सन", "gujaratiMeaning": "વધુ ખરાબ કરવું", "hindiMeaning": "खराब करना" },
+        { "word": "Contaminate", "gujaratiPronunciation": "કન્ટેમિનેટ", "hindiPronunciation": "कंटैमिनेट", "gujaratiMeaning": "દૂષિત કરવું", "hindiMeaning": "दूषित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Define", "gujaratiPronunciation": "ડિફાઇન", "hindiPronunciation": "डिफाइन", "gujaratiMeaning": "વ્યાખ્યાયિત કરવું", "hindiMeaning": "परिभाषित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to refine your search results.",
+          "gujaratiTranslation": "તમારે તમારા શોધ પરિણામોને સુધારવાની જરૂર છે.",
+          "hindiTranslation": "आपको अपने खोज परिणामों को परिष्कृत करने की आवश्यकता है।",
+          "gujaratiPronunciation": "યુ નીડ ટુ રિફાઇન યોર સર્ચ રિઝલ્ટ્સ.",
+          "hindiPronunciation": "यू नीड टू रिफाइन योर सर्च रिजल्ट्स।"
+        }
+      ]
+    }
+  ]
+}

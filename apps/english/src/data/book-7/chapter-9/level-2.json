@@ -1,0 +1,149 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Abandon",
+      "gujaratiPronunciation": "અબૅન્ડન",
+      "hindiPronunciation": "अबैंडन",
+      "gujaratiMeaning": "ત્યાગ કરવો",
+      "hindiMeaning": "त्याग देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Abandon", "gujaratiPronunciation": "અબૅન્ડન", "hindiPronunciation": "अबैंडन", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "त्याग देना" },
+        "v2": { "word": "Abandoned", "gujaratiPronunciation": "અબૅન્ડન્ડ", "hindiPronunciation": "अबैंडंड", "gujaratiMeaning": "ત્યાગ કર્યો", "hindiMeaning": "त्याग दिया" },
+        "v3": { "word": "Abandoned", "gujaratiPronunciation": "અબૅન્ડન્ડ", "hindiPronunciation": "अबैंडंड", "gujaratiMeaning": "ત્યાગ કરેલો", "hindiMeaning": "त्याग चुका" },
+        "v4": { "word": "Abandoning", "gujaratiPronunciation": "અબૅન્ડનિંગ", "hindiPronunciation": "अबैंडनिंग", "gujaratiMeaning": "ત્યાગ કરી રહ્યું છે", "hindiMeaning": "त्याग रहा है" }
+      },
+      "synonyms": [
+        { "word": "Forsake", "gujaratiPronunciation": "ફોરસેક", "hindiPronunciation": "फोरसेक", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ देना" },
+        { "word": "Desert", "gujaratiPronunciation": "ડેઝર્ટ", "hindiPronunciation": "डेज़र्ट", "gujaratiMeaning": "ત્યજી દેવું", "hindiMeaning": "छोड़ देना" }
+      ],
+      "antonyms": [
+        { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "રાખવું", "hindiMeaning": "रखना" },
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Abundant", "gujaratiPronunciation": "અબંડન્ટ", "hindiPronunciation": "अबंडेंट", "gujaratiMeaning": "વિપુલ", "hindiMeaning": "प्रचुर" },
+        { "word": "A band on", "gujaratiPronunciation": "અ બેન્ડ ઓન", "hindiPronunciation": "अ बैंड ऑन", "gujaratiMeaning": "એક પટ્ટો", "hindiMeaning": "एक बैंड" }
+      ],
+      "exampleSentences": [
+        { "sentence": "They had to abandon the sinking ship.", "gujaratiPronunciation": "ધે હેડ ટુ અબૅન્ડન ધ સિંકિંગ શિપ.", "hindiPronunciation": "दे हैड टू अबैंडन द सिंकिंग शिप।", "gujaratiTranslation": "તેઓએ ડૂબતા જહાજનો ત્યાગ કરવો પડ્યો.", "hindiTranslation": "उन्हें डूबते जहाज को छोड़ना पड़ा।" }
+      ]
+    },
+    {
+      "word": "Surrender",
+      "gujaratiPronunciation": "સરેન્ડર",
+      "hindiPronunciation": "सरेंडर",
+      "gujaratiMeaning": "શરણાગતિ સ્વીકારવી",
+      "hindiMeaning": "आत्मसमर्पण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" },
+        "v2": { "word": "Surrendered", "gujaratiPronunciation": "સરેન્ડર્ડ", "hindiPronunciation": "सरेंडर्ड", "gujaratiMeaning": "શરણાગતિ સ્વીકારી", "hindiMeaning": "आत्मसमर्पण किया" },
+        "v3": { "word": "Surrendered", "gujaratiPronunciation": "સરેન્ડર્ડ", "hindiPronunciation": "सरेंडर्ड", "gujaratiMeaning": "શરણાગતિ સ્વીકારેલી", "hindiMeaning": "आत्मसमर्पण कर चुका" },
+        "v4": { "word": "Surrendering", "gujaratiPronunciation": "સરેન્ડરિંગ", "hindiPronunciation": "सरेंडरिंग", "gujaratiMeaning": "શરણાગતિ સ્વીકારી રહ્યું છે", "hindiMeaning": "आत्मसमर्पण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Yield", "gujaratiPronunciation": "યીલ્ડ", "hindiPronunciation": "यील्ड", "gujaratiMeaning": "આધીન થવું", "hindiMeaning": "झुकना" },
+        { "word": "Submit", "gujaratiPronunciation": "સબમિટ", "hindiPronunciation": "सबमिट", "gujaratiMeaning": "આધીન થવું", "hindiMeaning": "सौंपना" }
+      ],
+      "antonyms": [
+        { "word": "Resist", "gujaratiPronunciation": "રેઝિસ્ટ", "hindiPronunciation": "रेज़िस्ट", "gujaratiMeaning": "પ્રતિકાર કરવો", "hindiMeaning": "विरोध करना" },
+        { "word": "Fight", "gujaratiPronunciation": "ફાઇટ", "hindiPronunciation": "फाइट", "gujaratiMeaning": "લડવું", "hindiMeaning": "लड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Surender", "gujaratiPronunciation": "સુરેન્દર", "hindiPronunciation": "सुरेंदर", "gujaratiMeaning": "એક નામ", "hindiMeaning": "एक नाम" },
+        { "word": "Slender", "gujaratiPronunciation": "સ્લેન્ડર", "hindiPronunciation": "स्लेंडर", "gujaratiMeaning": "પાતળું", "hindiMeaning": "पतला" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The enemy was forced to surrender.", "gujaratiPronunciation": "ધ એનિમી વોઝ ફોર્સ્ડ ટુ સરેન્ડર.", "hindiPronunciation": "द एनिमी वॉज़ फोर्स्ड टू सरेंडर।", "gujaratiTranslation": "દુશ્મનને શરણાગતિ સ્વીકારવાની ફરજ પડી.", "hindiTranslation": "दुश्मन को आत्मसमर्पण करने के लिए मजबूर किया गया।" }
+      ]
+    },
+    {
+      "word": "Collapse",
+      "gujaratiPronunciation": "કૉલેપ્સ",
+      "hindiPronunciation": "कोलैप्स",
+      "gujaratiMeaning": "પડી ભાંગવું",
+      "hindiMeaning": "ढह जाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Collapse", "gujaratiPronunciation": "કૉલેપ્સ", "hindiPronunciation": "कोलैप्स", "gujaratiMeaning": "પડી ભાંગવું", "hindiMeaning": "ढह जाना" },
+        "v2": { "word": "Collapsed", "gujaratiPronunciation": "કૉલેપ્સ્ડ", "hindiPronunciation": "कोलैप्स्ड", "gujaratiMeaning": "પડી ભાંગ્યું", "hindiMeaning": "ढह गया" },
+        "v3": { "word": "Collapsed", "gujaratiPronunciation": "કૉલેપ્સ્ડ", "hindiPronunciation": "कोलैप्स्ड", "gujaratiMeaning": "પડી ભાંગેલું", "hindiMeaning": "ढह चुका" },
+        "v4": { "word": "Collapsing", "gujaratiPronunciation": "કૉલેપ્સિંગ", "hindiPronunciation": "कोलैप्सिंग", "gujaratiMeaning": "પડી ભાંગી રહ્યું છે", "hindiMeaning": "ढह रहा है" }
+      },
+      "synonyms": [
+        { "word": "Crumble", "gujaratiPronunciation": "ક્રમ્બલ", "hindiPronunciation": "क्रम्बल", "gujaratiMeaning": "ટુકડા થઈ જવા", "hindiMeaning": "टुकड़े-टुकड़े हो जाना" },
+        { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ જવું", "hindiMeaning": "विफल होना" }
+      ],
+      "antonyms": [
+        { "word": "Rise", "gujaratiPronunciation": "રાઇઝ", "hindiPronunciation": "राइज़", "gujaratiMeaning": "ઉદય પામવું", "hindiMeaning": "उठना" },
+        { "word": "Strengthen", "gujaratiPronunciation": "સ્ટ્રેન્થન", "hindiPronunciation": "स्ट्रेंग्थेन", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "मजबूत करना" }
+      ],
+      "confusingWords": [
+        { "word": "Claps", "gujaratiPronunciation": "ક્લેપ્સ", "hindiPronunciation": "क्लैप्स", "gujaratiMeaning": "તાળીઓ પાડે છે", "hindiMeaning": "तालियाँ बजाता है" },
+        { "word": "Eclipse", "gujaratiPronunciation": "ઇક્લિપ્સ", "hindiPronunciation": "इक्लिप्स", "gujaratiMeaning": "ગ્રહણ", "hindiMeaning": "ग्रहण" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The old building might collapse.", "gujaratiPronunciation": "ધ ઓલ્ડ બિલ્ડિંગ માઇટ કૉલેપ્સ.", "hindiPronunciation": "द ओल्ड बिल्डिंग माइट कोलैप्स।", "gujaratiTranslation": "જૂની ઇમારત પડી ભાંગે તેવી શક્યતા છે.", "hindiTranslation": "पुरानी इमारत ढह सकती है।" }
+      ]
+    },
+    {
+      "word": "Neglect",
+      "gujaratiPronunciation": "નેગ્લેક્ટ",
+      "hindiPronunciation": "नेग्लेक्ट",
+      "gujaratiMeaning": "ઉપેક્ષા કરવી",
+      "hindiMeaning": "उपेक्षा करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" },
+        "v2": { "word": "Neglected", "gujaratiPronunciation": "નેગ્લેક્ટેડ", "hindiPronunciation": "नेग्लेक्टेड", "gujaratiMeaning": "ઉપેક્ષા કરી", "hindiMeaning": "उपेक्षा की" },
+        "v3": { "word": "Neglected", "gujaratiPronunciation": "નેગ્લેક્ટેડ", "hindiPronunciation": "नेग्लेक्टेड", "gujaratiMeaning": "ઉપેક્ષા કરેલી", "hindiMeaning": "उपेक्षा कर चुका" },
+        "v4": { "word": "Neglecting", "gujaratiPronunciation": "નેગ્લેક્ટિંગ", "hindiPronunciation": "नेग्लेक्टिंग", "gujaratiMeaning": "ઉપેક્ષા કરી રહ્યું છે", "hindiMeaning": "उपेक्षा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "नजरअंदाज करना" },
+        { "word": "Disregard", "gujaratiPronunciation": "ડિસરિગાર્ડ", "hindiPronunciation": "डिसरिगार्ड", "gujaratiMeaning": "અનાદર કરવો", "hindiMeaning": "अवहेलना करना" }
+      ],
+      "antonyms": [
+        { "word": "Attend to", "gujaratiPronunciation": "અટેન્ડ ટુ", "hindiPronunciation": "अटेंड टू", "gujaratiMeaning": "ધ્યાન આપવું", "hindiMeaning": "ध्यान देना" },
+        { "word": "Cherish", "gujaratiPronunciation": "ચેરિશ", "hindiPronunciation": "चेरिश", "gujaratiMeaning": "સંઘરવું", "hindiMeaning": "संजोना" }
+      ],
+      "confusingWords": [
+        { "word": "Elect", "gujaratiPronunciation": "ઇલેક્ટ", "hindiPronunciation": "इलेक्ट", "gujaratiMeaning": "ચૂંટવું", "hindiMeaning": "चुनना" },
+        { "word": "Reflect", "gujaratiPronunciation": "રિફ્લેક્ટ", "hindiPronunciation": "रिफ्लेक्ट", "gujaratiMeaning": "પ્રતિબિંબિત કરવું", "hindiMeaning": "प्रतिबिंबित करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Do not neglect your health.", "gujaratiPronunciation": "ડુ નોટ નેગ્લેક્ટ યોર હેલ્થ.", "hindiPronunciation": "डू नॉट नेग्लेक्ट योर हेल्थ।", "gujaratiTranslation": "તમારા સ્વાસ્થ્યની ઉપેક્ષા ન કરો.", "hindiTranslation": "अपने स्वास्थ्य की उपेक्षा न करें।" }
+      ]
+    },
+    {
+      "word": "Forfeit",
+      "gujaratiPronunciation": "ફોર્ફિટ",
+      "hindiPronunciation": "फोरफिट", "gujaratiMeaning": "જપ્ત કરવું", "hindiMeaning": "जब्त करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Forfeit", "gujaratiPronunciation": "ફોર્ફિટ", "hindiPronunciation": "फोरफिट", "gujaratiMeaning": "જપ્ત કરવું", "hindiMeaning": "जब्त करना" },
+        "v2": { "word": "Forfeited", "gujaratiPronunciation": "ફોર્ફિટેડ", "hindiPronunciation": "फोरफिटेड", "gujaratiMeaning": "જપ્ત કર્યું", "hindiMeaning": "जब्त किया" },
+        "v3": { "word": "Forfeited", "gujaratiPronunciation": "ફોર્ફિટેડ", "hindiPronunciation": "फोरफिटेड", "gujaratiMeaning": "જપ્ત કરેલું", "hindiMeaning": "जब्त कर चुका" },
+        "v4": { "word": "Forfeiting", "gujaratiPronunciation": "ફોર્ફિટિંગ", "hindiPronunciation": "फोरफिटिंग", "gujaratiMeaning": "જપ્ત કરી રહ્યું છે", "hindiMeaning": "जब्त कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज़", "gujaratiMeaning": "ગુમાવવું", "hindiMeaning": "खो देना" },
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "સોંપી દેવું", "hindiMeaning": "सौंप देना" }
+      ],
+      "antonyms": [
+        { "word": "Win", "gujaratiPronunciation": "વિન", "hindiPronunciation": "विन", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+        { "word": "Claim", "gujaratiPronunciation": "ક્લેમ", "hindiPronunciation": "क्लेम", "gujaratiMeaning": "દાવો કરવો", "hindiMeaning": "दावा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Forecast", "gujaratiPronunciation": "ફોરકાસ્ટ", "hindiPronunciation": "फोरकास्ट", "gujaratiMeaning": "આગાહી", "hindiMeaning": "पूर्वानुमान" },
+        { "word": "Forbid", "gujaratiPronunciation": "ફોર્બિડ", "hindiPronunciation": "फोरबिड", "gujaratiMeaning": "મનાઈ કરવી", "hindiMeaning": "मना करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "If you cancel your trip, you will forfeit your deposit.", "gujaratiPronunciation": "ઇફ યુ કેન્સલ યોર ટ્રિપ, યુ વિલ ફોર્ફિટ યોર ડિપોઝિટ.", "hindiPronunciation": "इफ यू कैंसिल योर ट्रिप, यू विल फोरफिट योर डिपॉजिट।", "gujaratiTranslation": "જો તમે તમારી યાત્રા રદ કરશો, તો તમે તમારી ડિપોઝિટ ગુમાવશો.", "hindiTranslation": "यदि आप अपनी यात्रा रद्द करते हैं, तो आप अपनी जमा राशि जब्त कर लेंगे।" }
+      ]
+    }
+  ]
+}

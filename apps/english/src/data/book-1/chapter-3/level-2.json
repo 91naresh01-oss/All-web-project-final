@@ -1,0 +1,47 @@
+
+{
+    "id": "level-2",
+    "title": "Colors 2",
+    "words": [
+        {
+            "word": "White",
+            "icon": "⚪",
+            "gujaratiPronunciation": "વ્હાઇટ",
+            "hindiPronunciation": "व्हाइट",
+            "gujaratiMeaning": "સફેદ",
+            "hindiMeaning": "सफ़ेद"
+        },
+        {
+            "word": "Pink",
+            "icon": "🌸",
+            "gujaratiPronunciation": "પિંક",
+            "hindiPronunciation": "पिंक",
+            "gujaratiMeaning": "ગુલાબી",
+            "hindiMeaning": "गुलाबी"
+        },
+        {
+            "word": "Orange",
+            "icon": "🟠",
+            "gujaratiPronunciation": "ઓરેન્જ",
+            "hindiPronunciation": "ऑरेंज",
+            "gujaratiMeaning": "નારંગી",
+            "hindiMeaning": "नारंगी"
+        },
+        {
+            "word": "Brown",
+            "icon": "🟤",
+            "gujaratiPronunciation": "બ્રાઉન",
+            "hindiPronunciation": "ब्राउन",
+            "gujaratiMeaning": "ભૂરો",
+            "hindiMeaning": "भूरा"
+        },
+        {
+            "word": "Purple",
+            "icon": "🟣",
+            "gujaratiPronunciation": "પર્પલ",
+            "hindiPronunciation": "पर्पल",
+            "gujaratiMeaning": "જાંબલી",
+            "hindiMeaning": "बैंगनी"
+        }
+    ]
+}

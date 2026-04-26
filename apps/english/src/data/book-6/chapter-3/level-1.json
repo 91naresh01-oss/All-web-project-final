@@ -1,0 +1,154 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Hide",
+      "gujaratiPronunciation": "હાઇડ",
+      "hindiPronunciation": "हाइड",
+      "gujaratiMeaning": "છુપાવવું",
+      "hindiMeaning": "छिपाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        "V2 (Past)": { "word": "Hid", "gujaratiPronunciation": "હિડ", "hindiPronunciation": "हिड", "gujaratiMeaning": "છુપાવ્યું", "hindiMeaning": "छिपाया" },
+        "V3 (Past Participle)": { "word": "Hidden", "gujaratiPronunciation": "હિડન", "hindiPronunciation": "हिडन", "gujaratiMeaning": "છુપાવેલું", "hindiMeaning": "छिपा हुआ" },
+        "V4 (Present Participle)": { "word": "Hiding", "gujaratiPronunciation": "હાઇડિંગ", "hindiPronunciation": "हाइडिंग", "gujaratiMeaning": "છુપાવી રહ્યું છે", "hindiMeaning": "छिपा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        { "word": "Cover", "gujaratiPronunciation": "કવર", "hindiPronunciation": "कवर", "gujaratiMeaning": "ઢાંકવું", "hindiMeaning": "ढकना" }
+      ],
+      "antonyms": [
+        { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+        { "word": "Show", "gujaratiPronunciation": "શો", "hindiPronunciation": "शो", "gujaratiMeaning": "બતાવવું", "hindiMeaning": "दिखाना" }
+      ],
+      "confusingWords": [
+        { "word": "Heed", "gujaratiPronunciation": "હીડ", "hindiPronunciation": "हीड", "gujaratiMeaning": "ધ્યાન આપવું", "hindiMeaning": "ध्यान देना" },
+        { "word": "Height", "gujaratiPronunciation": "હાઇટ", "hindiPronunciation": "हाइट", "gujaratiMeaning": "ઊંચાઈ", "hindiMeaning": "ऊंचाई" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The cat likes to hide under the bed.", "gujaratiPronunciation": "ધ કેટ લાઇક્સ ટુ હાઇડ અંડર ધ બેડ.", "hindiPronunciation": "द कैट लाइक्स टू हाइड अंडर द बेड।", "gujaratiTranslation": "બિલાડીને પલંગ નીચે છુપાવવું ગમે છે.", "hindiTranslation": "बिल्ली को बिस्तर के नीचे छिपना पसंद है।" }
+      ]
+    },
+    {
+      "word": "Find",
+      "gujaratiPronunciation": "ફાઇન્ડ",
+      "hindiPronunciation": "फाइंड",
+      "gujaratiMeaning": "શોધવું",
+      "hindiMeaning": "खोजना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Find", "gujaratiPronunciation": "ફાઇન્ડ", "hindiPronunciation": "फाइंड", "gujaratiMeaning": "શોધવું", "hindiMeaning": "खोजना" },
+        "V2 (Past)": { "word": "Found", "gujaratiPronunciation": "ફાઉન્ડ", "hindiPronunciation": "फाउंड", "gujaratiMeaning": "શોધ્યું", "hindiMeaning": "खोजा" },
+        "V3 (Past Participle)": { "word": "Found", "gujaratiPronunciation": "ફાઉન્ડ", "hindiPronunciation": "फाउंड", "gujaratiMeaning": "શોધેલું", "hindiMeaning": "खोजा हुआ" },
+        "V4 (Present Participle)": { "word": "Finding", "gujaratiPronunciation": "ફાઇન્ડિંગ", "hindiPronunciation": "फाइंडिंग", "gujaratiMeaning": "શોધી રહ્યું છે", "hindiMeaning": "खोज रहा है" }
+      },
+      "synonyms": [
+        { "word": "Discover", "gujaratiPronunciation": "ડિસ્કવર", "hindiPronunciation": "डिस्कवर", "gujaratiMeaning": "શોધવું", "hindiMeaning": "खोजना" },
+        { "word": "Locate", "gujaratiPronunciation": "લોકેટ", "hindiPronunciation": "लोकेट", "gujaratiMeaning": "સ્થાન શોધવું", "hindiMeaning": "पता लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज", "gujaratiMeaning": "ગુમાવવું", "hindiMeaning": "खोना" },
+        { "word": "Misplace", "gujaratiPronunciation": "મિસ્પ્લેસ", "hindiPronunciation": "मिस्प्लेस", "gujaratiMeaning": "ખોટી જગ્યાએ મૂકવું", "hindiMeaning": "गलत जगह रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Fined", "gujaratiPronunciation": "ફાઇન્ડ", "hindiPronunciation": "ফাইন্ড", "gujaratiMeaning": "દંડ કરવો", "hindiMeaning": "जुर्माना लगाना" },
+        { "word": "Fiend", "gujaratiPronunciation": "ફીન્ડ", "hindiPronunciation": "फीन्ड", "gujaratiMeaning": "દુષ્ટ વ્યક્તિ", "hindiMeaning": "दुष्ट व्यक्ति" }
+      ],
+      "exampleSentences": [
+        { "sentence": "I need to find my keys.", "gujaratiPronunciation": "આઇ નીડ ટુ ફાઇન્ડ માય કીઝ.", "hindiPronunciation": "आई नीड टू फाइंड माई कीज़।", "gujaratiTranslation": "મારે મારી ચાવીઓ શોધવાની જરૂર છે.", "hindiTranslation": "मुझे अपनी चाबियाँ ढूंढनी हैं।" }
+      ]
+    },
+    {
+      "word": "Show",
+      "gujaratiPronunciation": "શો",
+      "hindiPronunciation": "शो",
+      "gujaratiMeaning": "બતાવવું",
+      "hindiMeaning": "दिखाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Show", "gujaratiPronunciation": "શો", "hindiPronunciation": "शो", "gujaratiMeaning": "બતાવવું", "hindiMeaning": "दिखाना" },
+        "V2 (Past)": { "word": "Showed", "gujaratiPronunciation": "શોડ", "hindiPronunciation": "शोड", "gujaratiMeaning": "બતાવ્યું", "hindiMeaning": "दिखाया" },
+        "V3 (Past Participle)": { "word": "Shown", "gujaratiPronunciation": "શોન", "hindiPronunciation": "शोन", "gujaratiMeaning": "બતાવેલું", "hindiMeaning": "दिखाया हुआ" },
+        "V4 (Present Participle)": { "word": "Showing", "gujaratiPronunciation": "શોઇંગ", "hindiPronunciation": "शोइंग", "gujaratiMeaning": "બતાવી રહ્યું છે", "hindiMeaning": "दिखा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Display", "gujaratiPronunciation": "ડિસ્પ્લે", "hindiPronunciation": "डिस्प्ले", "gujaratiMeaning": "પ્રદર્શિત કરવું", "hindiMeaning": "प्रदर्शित करना" },
+        { "word": "Exhibit", "gujaratiPronunciation": "એક્ઝિબિટ", "hindiPronunciation": "एक्ज़िबिट", "gujaratiMeaning": "પ્રદર્શન કરવું", "hindiMeaning": "प्रदर्शन करना" }
+      ],
+      "antonyms": [
+        { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Shoe", "gujaratiPronunciation": "શૂ", "hindiPronunciation": "शू", "gujaratiMeaning": "પગરખાં", "hindiMeaning": "जूता" },
+        { "word": "Sew", "gujaratiPronunciation": "સો", "hindiPronunciation": "सो", "gujaratiMeaning": "સીવવું", "hindiMeaning": "सिलना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Can you show me the way to the station?", "gujaratiPronunciation": "કેન યુ શો મી ધ વે ટુ ધ સ્ટેશન?", "hindiPronunciation": "कैन यू शो मी द वे टू द स्टेशन?", "gujaratiTranslation": "શું તમે મને સ્ટેશનનો રસ્તો બતાવી શકો છો?", "hindiTranslation": "क्या आप मुझे स्टेशन का रास्ता दिखा सकते हैं?" }
+      ]
+    },
+    {
+      "word": "Cover",
+      "gujaratiPronunciation": "કવર",
+      "hindiPronunciation": "कवर",
+      "gujaratiMeaning": "ઢાંકવું",
+      "hindiMeaning": "ढकना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Cover", "gujaratiPronunciation": "કવર", "hindiPronunciation": "कवर", "gujaratiMeaning": "ઢાંકવું", "hindiMeaning": "ढकना" },
+        "V2 (Past)": { "word": "Covered", "gujaratiPronunciation": "કવર્ડ", "hindiPronunciation": "कवर्ड", "gujaratiMeaning": "ઢાંક્યું", "hindiMeaning": "ढका" },
+        "V3 (Past Participle)": { "word": "Covered", "gujaratiPronunciation": "કવર્ડ", "hindiPronunciation": "कवर्ड", "gujaratiMeaning": "ઢાંકેલું", "hindiMeaning": "ढका हुआ" },
+        "V4 (Present Participle)": { "word": "Covering", "gujaratiPronunciation": "કવરિંગ", "hindiPronunciation": "कवरिंग", "gujaratiMeaning": "ઢાંકી રહ્યું છે", "hindiMeaning": "ढक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" },
+        { "word": "Veil", "gujaratiPronunciation": "વેઇલ", "hindiPronunciation": "वेल", "gujaratiMeaning": "પડદો કરવો", "hindiMeaning": "पर्दा करना" }
+      ],
+      "antonyms": [
+        { "word": "Uncover", "gujaratiPronunciation": "અનકવર", "hindiPronunciation": "अनकवर", "gujaratiMeaning": "ઉઘાડું પાડવું", "hindiMeaning": "उजागर करना" },
+        { "word": "Expose", "gujaratiPronunciation": "એક્સપોઝ", "hindiPronunciation": "एक्सपोज़", "gujaratiMeaning": "ખુલ્લું પાડવું", "hindiMeaning": "खुला करना" }
+      ],
+      "confusingWords": [
+        { "word": "Clover", "gujaratiPronunciation": "ક્લોવર", "hindiPronunciation": "क्लोवर", "gujaratiMeaning": "એક પ્રકારનો ઘાસચારો", "hindiMeaning": "एक प्रकार की घास" },
+        { "word": "Carver", "gujaratiPronunciation": "કાર્વર", "hindiPronunciation": "कार्वर", "gujaratiMeaning": "કોતરણી કરનાર", "hindiMeaning": "नक्काशी करनेवाला" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Please cover the food to keep it fresh.", "gujaratiPronunciation": "પ્લીઝ કવર ધ ફૂડ ટુ કીપ ઇટ ફ્રેશ.", "hindiPronunciation": "प्लीज़ कवर द फूड टू कीप इट फ्रेश।", "gujaratiTranslation": "ખોરાકને તાજો રાખવા માટે કૃપા કરીને તેને ઢાંકી દો.", "hindiTranslation": "कृपया भोजन को ताजा रखने के लिए ढक दें।" }
+      ]
+    },
+    {
+      "word": "Unveil",
+      "gujaratiPronunciation": "અનવેઇલ",
+      "hindiPronunciation": "अनवेल",
+      "gujaratiMeaning": "પડદો ઉઠાવવો",
+      "hindiMeaning": "पर्दा उठाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Unveil", "gujaratiPronunciation": "અનવેઇલ", "hindiPronunciation": "अनवेल", "gujaratiMeaning": "પડદો ઉઠાવવો", "hindiMeaning": "पर्दा उठाना" },
+        "V2 (Past)": { "word": "Unveiled", "gujaratiPronunciation": "અનવેઇલ્ડ", "hindiPronunciation": "अनवेल्ड", "gujaratiMeaning": "પડદો ઉઠાવ્યો", "hindiMeaning": "पर्दा उठाया" },
+        "V3 (Past Participle)": { "word": "Unveiled", "gujaratiPronunciation": "અનવેઇલ્ડ", "hindiPronunciation": "अनवेल्ड", "gujaratiMeaning": "પડદો ઉઠાવેલો", "hindiMeaning": "पर्दा उठाया हुआ" },
+        "V4 (Present Participle)": { "word": "Unveiling", "gujaratiPronunciation": "અનવેઇલિંગ", "hindiPronunciation": "अनवेलिंग", "gujaratiMeaning": "પડદો ઉઠાવી રહ્યું છે", "hindiMeaning": "पर्दा उठा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" },
+        { "word": "Disclose", "gujaratiPronunciation": "ડિસ્ક્લોઝ", "hindiPronunciation": "डिस्क्लोज़", "gujaratiMeaning": "જાહેર કરવું", "hindiMeaning": "खुलासा करना" }
+      ],
+      "antonyms": [
+        { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Unwell", "gujaratiPronunciation": "અનવેલ", "hindiPronunciation": "अनवेल", "gujaratiMeaning": "બીમાર", "hindiMeaning": "अस्वस्थ" },
+        { "word": "Avail", "gujaratiPronunciation": "અવેઇલ", "hindiPronunciation": "अवैल", "gujaratiMeaning": "લાભ ઉઠાવવો", "hindiMeaning": "लाभ उठाना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The company will unveil its new product next week.", "gujaratiPronunciation": "ધ કંપની વિલ અનવેઇલ ઇટ્સ ન્યૂ પ્રોડક્ટ નેક્સ્ટ વીક.", "hindiPronunciation": "द कंपनी विल अनवेल इट्स न्यू प्रोडक्ट नेक्स्ट वीक।", "gujaratiTranslation": "કંપની આવતા અઠવાડિયે તેની નવી પ્રોડક્ટનું અનાવરણ કરશે.", "hindiTranslation": "कंपनी अगले हफ्ते अपने नए उत्पाद का अनावरण करेगी।" }
+      ]
+    }
+  ]
+}
+
+    

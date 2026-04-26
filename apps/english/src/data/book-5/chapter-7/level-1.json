@@ -1,0 +1,238 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Pay",
+      "gujaratiPronunciation": "પે",
+      "hindiPronunciation": "पे",
+      "gujaratiMeaning": "ચૂકવવું",
+      "hindiMeaning": "भुगतान करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": {
+          "word": "Pay",
+          "gujaratiPronunciation": "પે",
+          "hindiPronunciation": "पे",
+          "gujaratiMeaning": "ચૂકવવું",
+          "hindiMeaning": "भुगतान करना"
+        },
+        "v2": {
+          "word": "Paid",
+          "gujaratiPronunciation": "પેઇડ",
+          "hindiPronunciation": "पेड",
+          "gujaratiMeaning": "ચૂકવ્યું",
+          "hindiMeaning": "भुगतान किया"
+        },
+        "v3": {
+          "word": "Paid",
+          "gujaratiPronunciation": "પેઇડ",
+          "hindiPronunciation": "पेड",
+          "gujaratiMeaning": "ચૂકવેલું",
+          "hindiMeaning": "भुगतान किया हुआ"
+        },
+        "v4": {
+          "word": "Paying",
+          "gujaratiPronunciation": "પેઇંગ",
+          "hindiPronunciation": "पेइंग",
+          "gujaratiMeaning": "ચૂકવી રહ્યું છે",
+          "hindiMeaning": "भुगतान कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Settle",
+          "gujaratiPronunciation": "સેટલ",
+          "hindiPronunciation": "सेटल",
+          "gujaratiMeaning": "પતાવટ કરવી",
+          "hindiMeaning": "निपटारा करना"
+        },
+        {
+          "word": "Remit",
+          "gujaratiPronunciation": "રેમિટ",
+          "hindiPronunciation": "रेमिट",
+          "gujaratiMeaning": "પૈસા મોકલવા",
+          "hindiMeaning": "पैसे भेजना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Owe",
+          "gujaratiPronunciation": "ઓ",
+          "hindiPronunciation": "ओ",
+          "gujaratiMeaning": "દેવું હોવું",
+          "hindiMeaning": "कर्ज़दार होना"
+        },
+        {
+          "word": "Default",
+          "gujaratiPronunciation": "ડિફોલ્ટ",
+          "hindiPronunciation": "डिफ़ॉल्ट",
+          "gujaratiMeaning": "ચૂકવણી ન કરવી",
+          "hindiMeaning": "भुगतान न करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Pray",
+          "gujaratiPronunciation": "પ્રે",
+          "hindiPronunciation": "प्रे",
+          "gujaratiMeaning": "પ્રાર્થના કરવી",
+          "hindiMeaning": "प्रार्थना करना",
+          "difference": "Pay એટલે ચૂકવણી કરવી, જ્યારે Pray એટલે પ્રાર્થના કરવી."
+        },
+        {
+          "word": "Play",
+          "gujaratiPronunciation": "પ્લે",
+          "hindiPronunciation": "प्ले",
+          "gujaratiMeaning": "રમવું",
+          "hindiMeaning": "खेलना",
+          "difference": "Pay એટલે ચૂકવણી, જ્યારે Play એટલે રમવું."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You must pay for the goods before you take them.",
+          "gujaratiTranslation": "તમે માલ લો તે પહેલાં તમારે તેની ચૂકવણી કરવી જ જોઇએ.",
+          "hindiTranslation": "आपको माल लेने से पहले उसका भुगतान करना होगा।",
+          "gujaratiPronunciation": "યુ મસ્ટ પે ફોર ધ ગુડ્સ બિફોર યુ ટેક ધેમ.",
+          "hindiPronunciation": "यू मस्ट पे फॉर द गुड्स बिफोर यू टेक देम।"
+        }
+      ]
+    },
+    {
+      "word": "Spend",
+      "gujaratiPronunciation": "સ્પેન્ડ",
+      "hindiPronunciation": "स्पेंड",
+      "gujaratiMeaning": "ખર્ચ કરવો",
+      "hindiMeaning": "खर्च करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Spend", "gujaratiPronunciation": "સ્પેન્ડ", "hindiPronunciation": "स्पेंड", "gujaratiMeaning": "ખર્ચ કરવો", "hindiMeaning": "खर्च करना" },
+        "v2": { "word": "Spent", "gujaratiPronunciation": "સ્પેન્ટ", "hindiPronunciation": "स्पेंट", "gujaratiMeaning": "ખર્ચ કર્યો", "hindiMeaning": "खर्च किया" },
+        "v3": { "word": "Spent", "gujaratiPronunciation": "સ્પેન્ટ", "hindiPronunciation": "स्पेंट", "gujaratiMeaning": "ખર્ચ કરેલો", "hindiMeaning": "खर्च किया हुआ" },
+        "v4": { "word": "Spending", "gujaratiPronunciation": "સ્પેન્ડિંગ", "hindiPronunciation": "स्पेंडिंग", "gujaratiMeaning": "ખર્ચ કરી રહ્યું છે", "hindiMeaning": "खर्च कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Expend", "gujaratiPronunciation": "એક્સપેન્ડ", "hindiPronunciation": "एक्सपेंड", "gujaratiMeaning": "ખર્ચ કરવો", "hindiMeaning": "व्यय करना" },
+        { "word": "Disburse", "gujaratiPronunciation": "ડિસ્બર્સ", "hindiPronunciation": "डिस्बर्स", "gujaratiMeaning": "વિતરણ કરવું", "hindiMeaning": "वितरित करना" }
+      ],
+      "antonyms": [
+        { "word": "Save", "gujaratiPronunciation": "સેવ", "hindiPronunciation": "सेव", "gujaratiMeaning": "બચાવવું", "hindiMeaning": "बचाना" },
+        { "word": "Conserve", "gujaratiPronunciation": "કન્ઝર્વ", "hindiPronunciation": "कंजर्व", "gujaratiMeaning": "સંરક્ષણ કરવું", "hindiMeaning": "संरक्षण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Send", "gujaratiPronunciation": "સેન્ડ", "hindiPronunciation": "सेंड", "gujaratiMeaning": "મોકલવું", "hindiMeaning": "भेजना", "difference": "Spend એટલે ખર્ચ કરવો, જ્યારે Send એટલે મોકલવું." }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "How much did you spend on this book?",
+          "gujaratiTranslation": "તમે આ પુસ્તક પર કેટલો ખર્ચ કર્યો?",
+          "hindiTranslation": "आपने इस किताब पर कितना खर्च किया?",
+          "gujaratiPronunciation": "હાઉ મચ ડિડ યુ સ્પેન્ડ ઓન ધિસ બુક?",
+          "hindiPronunciation": "हाउ मच डिड यू स्पेंड ऑन दिस बुक?"
+        }
+      ]
+    },
+    {
+      "word": "Earn",
+      "gujaratiPronunciation": "અર્ન",
+      "hindiPronunciation": "अर्न",
+      "gujaratiMeaning": "કમાવવું",
+      "hindiMeaning": "कमाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Earn", "gujaratiPronunciation": "અર્ન", "hindiPronunciation": "अर्न", "gujaratiMeaning": "કમાવવું", "hindiMeaning": "कमाना" },
+        "v2": { "word": "Earned", "gujaratiPronunciation": "અર્ન્ડ", "hindiPronunciation": "अर्न्ड", "gujaratiMeaning": "કમાવ્યું", "hindiMeaning": "कमाया" },
+        "v3": { "word": "Earned", "gujaratiPronunciation": "અર્ન્ડ", "hindiPronunciation": "अर्न्ड", "gujaratiMeaning": "કમાવેલું", "hindiMeaning": "कमाया हुआ" },
+        "v4": { "word": "Earning", "gujaratiPronunciation": "અર્નિંગ", "hindiPronunciation": "अर्निंग", "gujaratiMeaning": "કમાવી રહ્યું છે", "hindiMeaning": "कमा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Gain", "gujaratiPronunciation": "ગેઇન", "hindiPronunciation": "गेन", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" },
+        { "word": "Acquire", "gujaratiPronunciation": "એક્વાયર", "hindiPronunciation": "एक्वायर", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "अर्जित करना" }
+      ],
+      "antonyms": [
+        { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज", "gujaratiMeaning": "ગુમાવવું", "hindiMeaning": "खोना" },
+        { "word": "Forfeit", "gujaratiPronunciation": "ફોર્ફિટ", "hindiPronunciation": "फॉरफिट", "gujaratiMeaning": "જપ્ત કરવું", "hindiMeaning": "ज़ब्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Urn", "gujaratiPronunciation": "અર્ન", "hindiPronunciation": "अर्न", "gujaratiMeaning": "કળશ", "hindiMeaning": "कलश", "difference": "Earn એટલે કમાવવું, જ્યારે Urn એટલે કળશ. બંનેનો ઉચ્ચાર સમાન છે." }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He works hard to earn a living for his family.",
+          "gujaratiTranslation": "તે પોતાના પરિવાર માટે આજીવિકા કમાવવા માટે સખત મહેનત કરે છે.",
+          "hindiTranslation": "वह अपने परिवार के लिए आजीविका कमाने के लिए कड़ी मेहनत करता है।",
+          "gujaratiPronunciation": "હી વર્ક્સ હાર્ડ ટુ અર્ન અ લિવિંગ ફોર હિઝ ફેમિલી.",
+          "hindiPronunciation": "ही वर्क्स हार्ड टू अर्न अ लिविंग फॉर हिज फैमिली।"
+        }
+      ]
+    },
+    {
+      "word": "Borrow",
+      "gujaratiPronunciation": "બોરો",
+      "hindiPronunciation": "बॉरो",
+      "gujaratiMeaning": "ઉધાર લેવું",
+      "hindiMeaning": "उधार लेना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Borrow", "gujaratiPronunciation": "બોરો", "hindiPronunciation": "बॉरो", "gujaratiMeaning": "ઉધાર લેવું", "hindiMeaning": "उधार लेना" },
+        "v2": { "word": "Borrowed", "gujaratiPronunciation": "બોરોડ", "hindiPronunciation": "बॉरोड", "gujaratiMeaning": "ઉધાર લીધું", "hindiMeaning": "उधार लिया" },
+        "v3": { "word": "Borrowed", "gujaratiPronunciation": "બોરોડ", "hindiPronunciation": "बॉरोड", "gujaratiMeaning": "ઉધાર લીધેલું", "hindiMeaning": "उधार लिया हुआ" },
+        "v4": { "word": "Borrowing", "gujaratiPronunciation": "બોરોઇંગ", "hindiPronunciation": "बॉरोइंग", "gujaratiMeaning": "ઉધાર લઈ રહ્યું છે", "hindiMeaning": "उधार ले रहा है" }
+      },
+      "synonyms": [
+        { "word": "Take on loan", "gujaratiPronunciation": "ટેક ઓન લોન", "hindiPronunciation": "टेक ऑन लोन", "gujaratiMeaning": "લોન પર લેવું", "hindiMeaning": "ऋण पर लेना" },
+        { "word": "Use temporarily", "gujaratiPronunciation": "યુઝ ટેમ્પરરીલી", "hindiPronunciation": "यूज टेम्पररिली", "gujaratiMeaning": "કામચલાઉ ઉપયોગ કરવો", "hindiMeaning": "अस्थायी रूप से उपयोग करना" }
+      ],
+      "antonyms": [
+        { "word": "Lend", "gujaratiPronunciation": "લેન્ડ", "hindiPronunciation": "लेंड", "gujaratiMeaning": "ઉધાર આપવું", "hindiMeaning": "उधार देना" },
+        { "word": "Loan", "gujaratiPronunciation": "લોન", "hindiPronunciation": "लोन", "gujaratiMeaning": "ધિરાણ કરવું", "hindiMeaning": "ऋण देना" }
+      ],
+      "confusingWords": [
+        { "word": "Burrow", "gujaratiPronunciation": "બરો", "hindiPronunciation": "बरो", "gujaratiMeaning": "દર", "hindiMeaning": "बिल", "difference": "Borrow એટલે ઉધાર લેવું, જ્યારે Burrow એટલે પ્રાણીનું દર." }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can I borrow your pen for a moment?",
+          "gujaratiTranslation": "શું હું એક ક્ષણ માટે તમારી પેન ઉધાર લઈ શકું?",
+          "hindiTranslation": "क्या मैं एक पल के लिए आपकी कलम उधार ले सकता हूँ?",
+          "gujaratiPronunciation": "કેન આઈ બોરો યોર પેન ફોર અ મોમેન્ટ?",
+          "hindiPronunciation": "कैन आई बॉरो योर पेन फॉर अ मोमेंट?"
+        }
+      ]
+    },
+    {
+      "word": "Lend",
+      "gujaratiPronunciation": "લેન્ડ",
+      "hindiPronunciation": "लेंड",
+      "gujaratiMeaning": "ઉધાર આપવું",
+      "hindiMeaning": "उधार देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Lend", "gujaratiPronunciation": "લેન્ડ", "hindiPronunciation": "लेंड", "gujaratiMeaning": "ઉધાર આપવું", "hindiMeaning": "उधार देना" },
+        "v2": { "word": "Lent", "gujaratiPronunciation": "લેન્ટ", "hindiPronunciation": "लेंट", "gujaratiMeaning": "ઉધાર આપ્યું", "hindiMeaning": "उधार दिया" },
+        "v3": { "word": "Lent", "gujaratiPronunciation": "લેન્ટ", "hindiPronunciation": "लेंट", "gujaratiMeaning": "ઉધાર આપેલું", "hindiMeaning": "उधार दिया हुआ" },
+        "v4": { "word": "Lending", "gujaratiPronunciation": "લેન્ડિંગ", "hindiPronunciation": "लेंडिंग", "gujaratiMeaning": "ઉધાર આપી રહ્યું છે", "hindiMeaning": "उधार दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Loan", "gujaratiPronunciation": "લોન", "hindiPronunciation": "लोन", "gujaratiMeaning": "ધિરાણ કરવું", "hindiMeaning": "ऋण देना" },
+        { "word": "Advance", "gujaratiPronunciation": "એડવાન્સ", "hindiPronunciation": "एडवांस", "gujaratiMeaning": "પેશગી આપવી", "hindiMeaning": "अग्रिम देना" }
+      ],
+      "antonyms": [
+        { "word": "Borrow", "gujaratiPronunciation": "બોરો", "hindiPronunciation": "बॉरो", "gujaratiMeaning": "ઉધાર લેવું", "hindiMeaning": "उधार लेना" }
+      ],
+      "confusingWords": [
+        { "word": "Land", "gujaratiPronunciation": "લેન્ડ", "hindiPronunciation": "लैंड", "gujaratiMeaning": "જમીન", "hindiMeaning": "भूमि", "difference": "Lend એટલે ઉધાર આપવું, જ્યારે Land એટલે જમીન." }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The bank agreed to lend him the money.",
+          "gujaratiTranslation": "બેંક તેને પૈસા ઉધાર આપવા માટે સંમત થઈ.",
+          "hindiTranslation": "बैंक उसे पैसे उधार देने के लिए सहमत हो गया।",
+          "gujaratiPronunciation": "ધ બેંક એગ્રીડ ટુ લેન્ડ હિમ ધ મની.",
+          "hindiPronunciation": "द बैंक एग्रीड टू लेंड हिम द मनी।"
+        }
+      ]
+    }
+  ]
+}

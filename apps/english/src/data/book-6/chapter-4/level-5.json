@@ -1,0 +1,396 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Tally",
+      "gujaratiPronunciation": "ટેલી",
+      "hindiPronunciation": "टैली",
+      "gujaratiMeaning": "મેળવવું",
+      "hindiMeaning": "मिलान करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Tally",
+          "gujaratiPronunciation": "ટેલી",
+          "hindiPronunciation": "टैली",
+          "gujaratiMeaning": "મેળવવું",
+          "hindiMeaning": "मिलान करना"
+        },
+        "V2 (Past)": {
+          "word": "Tallied",
+          "gujaratiPronunciation": "ટેલીડ",
+          "hindiPronunciation": "टैलीड",
+          "gujaratiMeaning": "મેળવ્યું",
+          "hindiMeaning": "मिलान किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Tallied",
+          "gujaratiPronunciation": "ટેલીડ",
+          "hindiPronunciation": "टैलीड",
+          "gujaratiMeaning": "મેળવેલું",
+          "hindiMeaning": "मिलान किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Tallying",
+          "gujaratiPronunciation": "ટેલીઇંગ",
+          "hindiPronunciation": "टैलीइंग",
+          "gujaratiMeaning": "મેળવી રહ્યું છે",
+          "hindiMeaning": "मिलान कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Count",
+          "gujaratiPronunciation": "કાઉન્ટ",
+          "hindiPronunciation": "काउंट",
+          "gujaratiMeaning": "ગણતરી કરવી",
+          "hindiMeaning": "गिनती करना"
+        },
+        {
+          "word": "Correspond",
+          "gujaratiPronunciation": "કોરસ્પોન્ડ",
+          "hindiPronunciation": "कॉरस्पॉन्ड",
+          "gujaratiMeaning": "અનુરૂપ હોવું",
+          "hindiMeaning": "अनुरूप होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Disagree",
+          "gujaratiPronunciation": "ડિસએગ્રી",
+          "hindiPronunciation": "डिसएग्री",
+          "gujaratiMeaning": "અસંમત થવું",
+          "hindiMeaning": "असहमत होना"
+        },
+        {
+          "word": "Differ",
+          "gujaratiPronunciation": "ડિફર",
+          "hindiPronunciation": "डिफर",
+          "gujaratiMeaning": "ભિન્ન હોવું",
+          "hindiMeaning": "भिन्न होना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Let's tally the votes to see who won.",
+          "gujaratiPronunciation": "લેટ્સ ટેલી ધ વોટ્સ ટુ સી હુ વન.",
+          "hindiPronunciation": "लेट्स टैली द वोट्स टू सी हू वन।",
+          "gujaratiTranslation": "ચાલો મતોની ગણતરી કરીએ અને જોઈએ કે કોણ જીત્યું.",
+          "hindiTranslation": "चलो वोटों की गिनती करते हैं और देखते हैं कि कौन जीता।"
+        }
+      ]
+    },
+    {
+      "word": "Prorate",
+      "gujaratiPronunciation": "પ્રોરેટ",
+      "hindiPronunciation": "प्रोरेट",
+      "gujaratiMeaning": "પ્રમાણસર વહેંચવું",
+      "hindiMeaning": "आनुपातिक रूप से बांटना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Prorate",
+          "gujaratiPronunciation": "પ્રોરેટ",
+          "hindiPronunciation": "प्रोरेट",
+          "gujaratiMeaning": "પ્રમાણસર વહેંચવું",
+          "hindiMeaning": "आनुपातिक रूप से बांटना"
+        },
+        "V2 (Past)": {
+          "word": "Prorated",
+          "gujaratiPronunciation": "પ્રોરેટેડ",
+          "hindiPronunciation": "प्रोरेटेड",
+          "gujaratiMeaning": "પ્રમાણસર વહેંચ્યું",
+          "hindiMeaning": "आनुपातिक रूप से बांटा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Prorated",
+          "gujaratiPronunciation": "પ્રોરેટેડ",
+          "hindiPronunciation": "प्रोरेटेड",
+          "gujaratiMeaning": "પ્રમાણસર વહેંચેલું",
+          "hindiMeaning": "आनुपातिक रूप से बांटा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Prorating",
+          "gujaratiPronunciation": "પ્રોરેટિંગ",
+          "hindiPronunciation": "प्रोरेटिंग",
+          "gujaratiMeaning": "પ્રમાણસર વહેંચી રહ્યું છે",
+          "hindiMeaning": "आनुपातिक रूप से बांट रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Apportion",
+          "gujaratiPronunciation": "અપોર્શન",
+          "hindiPronunciation": "अपोर्शन",
+          "gujaratiMeaning": "ભાગ પાડવા",
+          "hindiMeaning": "भाग करना"
+        },
+        {
+          "word": "Distribute",
+          "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ",
+          "hindiPronunciation": "डिस्ट्रिब्यूट",
+          "gujaratiMeaning": "વહેંચવું",
+          "hindiMeaning": "बांटना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The rent will be prorated for the first month.",
+          "gujaratiPronunciation": "ધ રેન્ટ વિલ બી પ્રોરેટેડ ફોર ધ ફર્સ્ટ મન્થ.",
+          "hindiPronunciation": "द रेंट विल बी प्रोरेटेड फॉर द फर्स्ट मंथ।",
+          "gujaratiTranslation": "પહેલા મહિના માટે ભાડું પ્રમાણસર વહેંચવામાં આવશે.",
+          "hindiTranslation": "पहले महीने का किराया आनुपातिक रूप से बांटा जाएगा।"
+        }
+      ]
+    },
+    {
+      "word": "Ascertain",
+      "gujaratiPronunciation": "એસર્ટેન",
+      "hindiPronunciation": "एसर्टेन",
+      "gujaratiMeaning": "ખાતરી કરવી",
+      "hindiMeaning": "सुनिश्चित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Ascertain",
+          "gujaratiPronunciation": "એસર્ટેન",
+          "hindiPronunciation": "एसर्टेन",
+          "gujaratiMeaning": "ખાતરી કરવી",
+          "hindiMeaning": "सुनिश्चित करना"
+        },
+        "V2 (Past)": {
+          "word": "Ascertained",
+          "gujaratiPronunciation": "એસર્ટેન્ડ",
+          "hindiPronunciation": "एसर्टेंड",
+          "gujaratiMeaning": "ખાતરી કરી",
+          "hindiMeaning": "सुनिश्चित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Ascertained",
+          "gujaratiPronunciation": "એસર્ટેન્ડ",
+          "hindiPronunciation": "एसर्टेंड",
+          "gujaratiMeaning": "ખાતરી કરેલ",
+          "hindiMeaning": "सुनिश्चित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Ascertaining",
+          "gujaratiPronunciation": "એસર્ટેનિંગ",
+          "hindiPronunciation": "एसर्टेनिंग",
+          "gujaratiMeaning": "ખાતરી કરી રહ્યું છે",
+          "hindiMeaning": "सुनिश्चित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Determine",
+          "gujaratiPronunciation": "ડિટર્માઇન",
+          "hindiPronunciation": "डिटरमाइन",
+          "gujaratiMeaning": "નક્કી કરવું",
+          "hindiMeaning": "निर्धारित करना"
+        },
+        {
+          "word": "Confirm",
+          "gujaratiPronunciation": "કન્ફર્મ",
+          "hindiPronunciation": "कन्फर्म",
+          "gujaratiMeaning": "પુષ્ટિ કરવી",
+          "hindiMeaning": "पुष्टि करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Doubt",
+          "gujaratiPronunciation": "ડાઉટ",
+          "hindiPronunciation": "डाउट",
+          "gujaratiMeaning": "શંકા કરવી",
+          "hindiMeaning": "संदेह करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The police are trying to ascertain the cause of the fire.",
+          "gujaratiPronunciation": "ધ પોલીસ આર ટ્રाइंग ટુ એસર્ટેન ધ કોઝ ઓફ ધ ફાયર.",
+          "hindiPronunciation": "द पुलिस आर ट्राइंग टू एसर्टेन द कॉज़ ऑफ़ द फायर।",
+          "gujaratiTranslation": "પોલીસ આગનું કારણ જાણવાનો પ્રયાસ કરી રહી છે.",
+          "hindiTranslation": "पुलिस आग के कारण का पता लगाने की कोशिश कर रही है।"
+        }
+      ]
+    },
+    {
+      "word": "Weigh",
+      "gujaratiPronunciation": "વે",
+      "hindiPronunciation": "वे",
+      "gujaratiMeaning": "વજન કરવું",
+      "hindiMeaning": "वजन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Weigh",
+          "gujaratiPronunciation": "વે",
+          "hindiPronunciation": "वे",
+          "gujaratiMeaning": "વજન કરવું",
+          "hindiMeaning": "वजन करना"
+        },
+        "V2 (Past)": {
+          "word": "Weighed",
+          "gujaratiPronunciation": "વેડ",
+          "hindiPronunciation": "वेड",
+          "gujaratiMeaning": "વજન કર્યું",
+          "hindiMeaning": "वजन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Weighed",
+          "gujaratiPronunciation": "વેડ",
+          "hindiPronunciation": "वेड",
+          "gujaratiMeaning": "વજન કરેલ",
+          "hindiMeaning": "वजन किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Weighing",
+          "gujaratiPronunciation": "વેઇંગ",
+          "hindiPronunciation": "वेइंग",
+          "gujaratiMeaning": "વજન કરી રહ્યું છે",
+          "hindiMeaning": "वजन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Measure",
+          "gujaratiPronunciation": "મેઝर",
+          "hindiPronunciation": "मेज़र",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        },
+        {
+          "word": "Consider",
+          "gujaratiPronunciation": "કન્સિડર",
+          "hindiPronunciation": "कंसीडर",
+          "gujaratiMeaning": "વિચારવું",
+          "hindiMeaning": "विचार करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        {
+          "word": "Weigh",
+          "gujaratiPronunciation": "વે",
+          "hindiPronunciation": "वे",
+          "gujaratiMeaning": "વજન કરવું",
+          "hindiMeaning": "वजन करना",
+          "difference": "Weigh એટલે વજન કરવું, જ્યારે Way એટલે રસ્તો."
+        },
+        {
+          "word": "Way",
+          "gujaratiPronunciation": "વે",
+          "hindiPronunciation": "वे",
+          "gujaratiMeaning": "રસ્તો",
+          "hindiMeaning": "रास्ता",
+          "difference": "Weigh એટલે વજન કરવું, જ્યારે Way એટલે રસ્તો."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She needs to weigh her options carefully.",
+          "gujaratiPronunciation": "શી નીડ્સ ટુ વે હર ઓપ્શન્સ કેરફુલી.",
+          "hindiPronunciation": "शी नीड्स टू वे हर ऑप्शंस केयरफुली।",
+          "gujaratiTranslation": "તેણીએ તેના વિકલ્પોને કાળજીપૂર્વક વિચારવાની જરૂર છે.",
+          "hindiTranslation": "उसे अपने विकल्पों पर सावधानीपूर्वक विचार करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Portion",
+      "gujaratiPronunciation": "પોર્શન",
+      "hindiPronunciation": "पोर्शन",
+      "gujaratiMeaning": "ભાગ પાડવો",
+      "hindiMeaning": "भाग करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Portion",
+          "gujaratiPronunciation": "પોર્શન",
+          "hindiPronunciation": "पोर्शन",
+          "gujaratiMeaning": "ભાગ પાડવો",
+          "hindiMeaning": "भाग کرنا"
+        },
+        "V2 (Past)": {
+          "word": "Portioned",
+          "gujaratiPronunciation": "પોર્શન્ડ",
+          "hindiPronunciation": "पोर्शन्ड",
+          "gujaratiMeaning": "ભાગ પાડ્યા",
+          "hindiMeaning": "भाग किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Portioned",
+          "gujaratiPronunciation": "પોર્શન્ડ",
+          "hindiPronunciation": "पोर्शन्ड",
+          "gujaratiMeaning": "ભાગ પાડેલા",
+          "hindiMeaning": "भाग किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Portioning",
+          "gujaratiPronunciation": "પોર્શનિંગ",
+          "hindiPronunciation": "पोर्शनिंग",
+          "gujaratiMeaning": "ભાગ પાડી રહ્યું છે",
+          "hindiMeaning": "भाग कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Divide",
+          "gujaratiPronunciation": "ડિવાઇડ",
+          "hindiPronunciation": "डिवाइड",
+          "gujaratiMeaning": "વિभाજીત કરવું",
+          "hindiMeaning": "विभाजित करना"
+        },
+        {
+          "word": "Distribute",
+          "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ",
+          "hindiPronunciation": "डिस्ट्रिब्यूट",
+          "gujaratiMeaning": "વહેંચવું",
+          "hindiMeaning": "बांटना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Combine",
+          "gujaratiPronunciation": "કમ્બाइन",
+          "hindiPronunciation": "कंबाइन",
+          "gujaratiMeaning": "ભેગા કરવું",
+          "hindiMeaning": "मिलाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Portion",
+          "gujaratiPronunciation": "પોર્શન",
+          "hindiPronunciation": "पोर्शन",
+          "gujaratiMeaning": "ભાગ",
+          "hindiMeaning": "भाग",
+          "difference": "Portion એટલે ભાગ, જ્યારે Potion એટલે પીણું (દવા)."
+        },
+        {
+          "word": "Potion",
+          "gujaratiPronunciation": "પોશન",
+          "hindiPronunciation": "potion",
+          "gujaratiMeaning": "પીણું (દવા)",
+          "hindiMeaning": "पेय (दवा)",
+          "difference": "Portion એટલે ભાગ, જ્યારે Potion એટલે પીણું (દવા)."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She portioned out the cake among the children.",
+          "gujaratiPronunciation": "શી પોર્શન્ડ આઉટ ધ કેક અમંગ ધ ચિલ્ડ્રન.",
+          "hindiPronunciation": "शी पोर्शन्ड आउट द केक अमंग द चिल्ड्रन।",
+          "gujaratiTranslation": "તેણીએ બાળકોમાં કેકના ભાગ પાડ્યા.",
+          "hindiTranslation": "उसने बच्चों में केक बांटा।"
+        }
+      ]
+    }
+  ]
+}

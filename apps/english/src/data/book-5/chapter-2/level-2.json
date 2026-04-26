@@ -1,0 +1,147 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Advanced Control",
+  "words": [
+    {
+      "word": "Monitor",
+      "gujaratiPronunciation": "મોનિટર",
+      "hindiPronunciation": "मॉनिटर",
+      "gujaratiMeaning": "દેખરેખ રાખવી, નિરીક્ષણ કરવું",
+      "hindiMeaning": "निगरानी करना, निरीक्षण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Monitor", "gujaratiPronunciation": "મોનિટર", "hindiPronunciation": "मॉनिटर", "gujaratiMeaning": "દેખરેખ રાખવી", "hindiMeaning": "निगरानी करना" },
+        "V2 (Past)": { "word": "Monitored", "gujaratiPronunciation": "મોનિટર્ડ", "hindiPronunciation": "मॉनिटर्ड", "gujaratiMeaning": "દેખરેખ રાખી", "hindiMeaning": "निगरानी की" },
+        "V3 (Past Participle)": { "word": "Monitored", "gujaratiPronunciation": "મોનિટર્ડ", "hindiPronunciation": "मॉनिटर्ड", "gujaratiMeaning": "દેખરેખ રાખેલ", "hindiMeaning": "निगरानी की हुई" },
+        "V4 (Present Participle)": { "word": "Monitoring", "gujaratiPronunciation": "મોનિટરિંગ", "hindiPronunciation": "मॉनिटरिंग", "gujaratiMeaning": "દેખરેખ રાખી રહ્યું છે", "hindiMeaning": "निगरानी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Observe", "gujaratiPronunciation": "ઓબ્ઝર્વ", "hindiPronunciation": "ऑब्जर्व", "gujaratiMeaning": "નિરીક્ષણ કરવું", "hindiMeaning": "अवलोकन करना" },
+        { "word": "Supervise", "gujaratiPronunciation": "સુપરવાઇઝ", "hindiPronunciation": "सुपरवाइज", "gujaratiMeaning": "દેખરેખ રાખવી", "hindiMeaning": "पर्यवेक्षण करना" }
+      ],
+      "antonyms": [
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "नजरअंदाज करना" }
+      ],
+      "confusingWords": [
+        { "word": "Monster", "gujaratiPronunciation": "મોન્સ્ટર", "hindiPronunciation": "मॉन्स्टर", "gujaratiMeaning": "રાક્ષસ", "hindiMeaning": "राक्षस" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The doctors will monitor the patient's condition.", "gujaratiPronunciation": "ધ ડોક્ટર્સ વિલ મોનિટર ધ પેશન્ટ્સ કન્ડિશન.", "hindiPronunciation": "द डॉक्टर्स विल मॉनिटर द पेशेंट्स कंडीशन।", "gujaratiTranslation": "ડોકટરો દર્દીની સ્થિતિ પર નજર રાખશે.", "hindiTranslation": "डॉक्टर मरीज की हालत पर नजर रखेंगे।" }
+      ]
+    },
+    {
+      "word": "Restrain",
+      "gujaratiPronunciation": "રિસ્ટ્રેન",
+      "hindiPronunciation": "रिस्ट्रेन",
+      "gujaratiMeaning": "અંકુશમાં રાખવું, રોકવું",
+      "hindiMeaning": "नियंत्रित करना, रोकना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Restrain", "gujaratiPronunciation": "રિસ્ટ્રેન", "hindiPronunciation": "रिस्ट्रेन", "gujaratiMeaning": "અંકુશમાં રાખવું", "hindiMeaning": "नियंत्रित करना" },
+        "V2 (Past)": { "word": "Restrained", "gujaratiPronunciation": "રિસ્ટ્રેન્ડ", "hindiPronunciation": "रिस्ट्रेन्ड", "gujaratiMeaning": "અંકુશમાં રાખ્યું", "hindiMeaning": "नियंत्रित किया" },
+        "V3 (Past Participle)": { "word": "Restrained", "gujaratiPronunciation": "રિસ્ટ્રેન્ડ", "hindiPronunciation": "रिस्ट्रेन्ड", "gujaratiMeaning": "અંકુશમાં રાખેલ", "hindiMeaning": "नियंत्रित" },
+        "V4 (Present Participle)": { "word": "Restraining", "gujaratiPronunciation": "રિસ્ટ્રેનિંગ", "hindiPronunciation": "रिस्ट्रेनिंग", "gujaratiMeaning": "અંકુશમાં રાખી રહ્યું છે", "hindiMeaning": "नियंत्रित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Control", "gujaratiPronunciation": "કંટ્રોલ", "hindiPronunciation": "कंट्रोल", "gujaratiMeaning": "નિયંત્રણ કરવું", "hindiMeaning": "नियंत्रण करना" },
+        { "word": "Curb", "gujaratiPronunciation": "કાર્બ", "hindiPronunciation": "कर्ब", "gujaratiMeaning": "અંકુશ લગાવવો", "hindiMeaning": "अंकुश लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Release", "gujaratiPronunciation": "રિલીઝ", "hindiPronunciation": "रिलीज", "gujaratiMeaning": "છોડી દેવું", "hindiMeaning": "छोड़ना" },
+        { "word": "Liberate", "gujaratiPronunciation": "લિબરેટ", "hindiPronunciation": "लिबरेट", "gujaratiMeaning": "મુક્ત કરવું", "hindiMeaning": "मुक्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Retain", "gujaratiPronunciation": "રિટેન", "hindiPronunciation": "रिटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "He had to restrain his anger.", "gujaratiPronunciation": "હી હેડ ટુ રિસ્ટ્રેન હીઝ એંગર.", "hindiPronunciation": "ही हैड टू रिस्ट्रेन हिज एंगर।", "gujaratiTranslation": "તેને પોતાનો ગુસ્સો કાબૂમાં રાખવો પડ્યો.", "hindiTranslation": "उसे अपना गुस्सा काबू में रखना पड़ा।" }
+      ]
+    },
+    {
+      "word": "Govern",
+      "gujaratiPronunciation": "ગવર્ન",
+      "hindiPronunciation": "गवर्न",
+      "gujaratiMeaning": "શાસન કરવું, સરકાર ચલાવવી",
+      "hindiMeaning": "शासन करना, सरकार चलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Govern", "gujaratiPronunciation": "ગવર્ન", "hindiPronunciation": "गवर्न", "gujaratiMeaning": "શાસન કરવું", "hindiMeaning": "शासन करना" },
+        "V2 (Past)": { "word": "Governed", "gujaratiPronunciation": "ગવર્ન્ડ", "hindiPronunciation": "गवर्न्ड", "gujaratiMeaning": "શાસન કર્યું", "hindiMeaning": "शासन किया" },
+        "V3 (Past Participle)": { "word": "Governed", "gujaratiPronunciation": "ગવર્ન્ડ", "hindiPronunciation": "गवर्न्ड", "gujaratiMeaning": "શાસન કરેલ", "hindiMeaning": "शासित" },
+        "V4 (Present Participle)": { "word": "Governing", "gujaratiPronunciation": "ગવર્નિંગ", "hindiPronunciation": "गवर्निंग", "gujaratiMeaning": "શાસન કરી રહ્યું છે", "hindiMeaning": "शासन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Rule", "gujaratiPronunciation": "રૂલ", "hindiPronunciation": "रूल", "gujaratiMeaning": "શાસન કરવું", "hindiMeaning": "शासन करना" },
+        { "word": "Administer", "gujaratiPronunciation": "એડમિનિસ્ટર", "hindiPronunciation": "एडमिनिस्टर", "gujaratiMeaning": "વહીવટ કરવો", "hindiMeaning": "प्रशासन करना" }
+      ],
+      "antonyms": [
+        { "word": "Rebel", "gujaratiPronunciation": "રેબલ", "hindiPronunciation": "रेबेल", "gujaratiMeaning": "બળવો કરવો", "hindiMeaning": "विद्रोह करना" },
+        { "word": "Mismanage", "gujaratiPronunciation": "મિસમેનેજ", "hindiPronunciation": "मिसमैनेज", "gujaratiMeaning": "કુશાસન કરવું", "hindiMeaning": "कुशासन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Given", "gujaratiPronunciation": "ગિવન", "hindiPronunciation": "गिवन", "gujaratiMeaning": "આપેલ", "hindiMeaning": "दिया हुआ" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The country is governed by a prime minister.", "gujaratiPronunciation": "ધ કન્ટ્રી ઇઝ ગવર્ન્ડ બાય અ પ્રાઇમ મિનિસ્ટર.", "hindiPronunciation": "द कंट्री इज गवर्न्ड बाय अ प्राइम मिनिस्टर।", "gujaratiTranslation": "દેશનું શાસન વડાપ્રધાન દ્વારા ચલાવવામાં આવે છે.", "hindiTranslation": "देश का शासन प्रधानमंत्री द्वारा चलाया जाता है।" }
+      ]
+    },
+    {
+      "word": "Dictate",
+      "gujaratiPronunciation": "ડિક્ટેટ",
+      "hindiPronunciation": "डिक्टेट",
+      "gujaratiMeaning": "આજ્ઞા કરવી, હુકમ કરવો",
+      "hindiMeaning": "आज्ञा देना, हुक्म चलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Dictate", "gujaratiPronunciation": "ડિક્ટેટ", "hindiPronunciation": "डिक्टेट", "gujaratiMeaning": "હુકમ કરવો", "hindiMeaning": "हुक्म चलाना" },
+        "V2 (Past)": { "word": "Dictated", "gujaratiPronunciation": "ડિક્ટેટેડ", "hindiPronunciation": "डिक्टेटेड", "gujaratiMeaning": "હુકમ કર્યો", "hindiMeaning": "हुक्म चलाया" },
+        "V3 (Past Participle)": { "word": "Dictated", "gujaratiPronunciation": "ડિક્ટેટેડ", "hindiPronunciation": "डिक्टेटेड", "gujaratiMeaning": "હુકમ કરેલ", "hindiMeaning": "हुक्म चलाया हुआ" },
+        "V4 (Present Participle)": { "word": "Dictating", "gujaratiPronunciation": "ડિક્ટેટિંગ", "hindiPronunciation": "डिक्टेटिंग", "gujaratiMeaning": "હુકમ કરી રહ્યું છે", "hindiMeaning": "हुक्म चला रहा है" }
+      },
+      "synonyms": [
+        { "word": "Command", "gujaratiPronunciation": "કમાન્ડ", "hindiPronunciation": "कमांड", "gujaratiMeaning": "આદેશ આપવો", "hindiMeaning": "आदेश देना" },
+        { "word": "Impose", "gujaratiPronunciation": "ઇમ્પોઝ", "hindiPronunciation": "इंपोज", "gujaratiMeaning": "લાદવું", "hindiMeaning": "थोपना" }
+      ],
+      "antonyms": [
+        { "word": "Request", "gujaratiPronunciation": "રિક્વેસ્ટ", "hindiPronunciation": "रिक्वेस्ट", "gujaratiMeaning": "વિનંતી કરવી", "hindiMeaning": "अनुरोध करना" },
+        { "word": "Suggest", "gujaratiPronunciation": "સજેસ્ટ", "hindiPronunciation": "सजेस्ट", "gujaratiMeaning": "સૂચન કરવું", "hindiMeaning": "सुझाव देना" }
+      ],
+      "confusingWords": [
+        { "word": "Dedicate", "gujaratiPronunciation": "ડેડિકેટ", "hindiPronunciation": "डेडीकेट", "gujaratiMeaning": "સમર્પિત કરવું", "hindiMeaning": "समर्पित करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "You can't dictate to me what I should do.", "gujaratiPronunciation": "યુ કાન્ટ ડિક્ટેટ ટુ મી વોટ આઈ શુડ ડુ.", "hindiPronunciation": "यू कांट डिक्टेट टू मी व्हाट आई शुड डू।", "gujaratiTranslation": "તમે મને શું કરવું જોઈએ તે અંગે હુકમ કરી શકતા નથી.", "hindiTranslation": "आप मुझे यह हुक्म नहीं दे सकते कि मुझे क्या करना चाहिए।" }
+      ]
+    },
+    {
+      "word": "Oversee",
+      "gujaratiPronunciation": "ઓવરસી",
+      "hindiPronunciation": "ओवरसी",
+      "gujaratiMeaning": "દેખરેખ રાખવી, નિરીક્ષણ કરવું",
+      "hindiMeaning": "देखरेख करना, निरीक्षण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Oversee", "gujaratiPronunciation": "ઓવરસી", "hindiPronunciation": "ओवरसी", "gujaratiMeaning": "દેખરેખ રાખવી", "hindiMeaning": "देखरेख करना" },
+        "V2 (Past)": { "word": "Oversaw", "gujaratiPronunciation": "ઓવરસો", "hindiPronunciation": "ओवरसॉ", "gujaratiMeaning": "દેખરેખ રાખી", "hindiMeaning": "देखरेख की" },
+        "V3 (Past Participle)": { "word": "Overseen", "gujaratiPronunciation": "ઓવરસીન", "hindiPronunciation": "ओवरसीन", "gujaratiMeaning": "દેખરેખ રાખેલ", "hindiMeaning": "देखरेख किया हुआ" },
+        "V4 (Present Participle)": { "word": "Overseeing", "gujaratiPronunciation": "ઓવરસીઇંગ", "hindiPronunciation": "ओवरसीइंग", "gujaratiMeaning": "દેખરેખ રાખી રહ્યું છે", "hindiMeaning": "देखरेख कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Supervise", "gujaratiPronunciation": "સુપરવાઇઝ", "hindiPronunciation": "सुपरवाइज", "gujaratiMeaning": "દેખરેખ રાખવી", "hindiMeaning": "पर्यवेक्षण करना" },
+        { "word": "Manage", "gujaratiPronunciation": "મેનેજ", "hindiPronunciation": "मैनेज", "gujaratiMeaning": "સંચાલન કરવું", "hindiMeaning": "प्रबंधन करना" }
+      ],
+      "antonyms": [
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "नजरअंदाज करना" }
+      ],
+      "confusingWords": [
+        { "word": "Overlook", "gujaratiPronunciation": "ઓવરલુક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "ધ્યાન ન આપવું", "hindiMeaning": "नज़रअंदाज़ करना" },
+        { "word": "Overseas", "gujaratiPronunciation": "ઓવરસીઝ", "hindiPronunciation": "ओवरसीज", "gujaratiMeaning": "વિદેશમાં", "hindiMeaning": "विदेश में" }
+      ],
+      "exampleSentences": [
+        { "sentence": "He was hired to oversee the construction of the new bridge.", "gujaratiPronunciation": "હી વોઝ હાયર્ડ ટુ ઓવરસી ધ કન્સ્ટ્રક્શન ઓફ ધ ન્યુ બ્રિજ.", "hindiPronunciation": "ही वॉज हायर्ड टू ओवरसी द कंस्ट्रक्शन ऑफ द न्यू ब्रिज।", "gujaratiTranslation": "તેને નવા પુલના બાંધકામની દેખરેખ રાખવા માટે રાખવામાં આવ્યો હતો.", "hindiTranslation": "उसे नए पुल के निर्माण की देखरेख के लिए काम पर रखा गया था।" }
+      ]
+    }
+  ]
+}

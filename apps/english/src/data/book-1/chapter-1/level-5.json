@@ -1,0 +1,70 @@
+{
+    "id": "level-5",
+    "title": "Numbers 5",
+    "words": [
+        {
+            "word": "Thirty",
+            "icon": "🔢",
+            "gujaratiPronunciation": "થર્ટી",
+            "hindiPronunciation": "थर्टी",
+            "gujaratiMeaning": "ત્રીસ",
+            "hindiMeaning": "तीस"
+        },
+        {
+            "word": "Forty",
+            "icon": "🔢",
+            "gujaratiPronunciation": "ફોર્ટી",
+            "hindiPronunciation": "फोर्टी",
+            "gujaratiMeaning": "ચાલીસ",
+            "hindiMeaning": "चालीस"
+        },
+        {
+            "word": "Fifty",
+            "icon": "🔢",
+            "gujaratiPronunciation": "ફિફ્ટી",
+            "hindiPronunciation": "फिफ्टी",
+            "gujaratiMeaning": "પચાસ",
+            "hindiMeaning": "पचास"
+        },
+        {
+            "word": "Sixty",
+            "icon": "🔢",
+            "gujaratiPronunciation": "સિક્સ્ટી",
+            "hindiPronunciation": "सिक्स्टी",
+            "gujaratiMeaning": "સાઠ",
+            "hindiMeaning": "साठ"
+        },
+        {
+            "word": "Seventy",
+            "icon": "🔢",
+            "gujaratiPronunciation": "સેવન્ટી",
+            "hindiPronunciation": "सेवेंटी",
+            "gujaratiMeaning": "સિત્તેર",
+            "hindiMeaning": "सत्तर"
+        },
+        {
+            "word": "Eighty",
+            "icon": "🔢",
+            "gujaratiPronunciation": "એઇટી",
+            "hindiPronunciation": "एइटी",
+            "gujaratiMeaning": "એંસી",
+            "hindiMeaning": "अस्सी"
+        },
+        {
+            "word": "Ninety",
+            "icon": "🔢",
+            "gujaratiPronunciation": "નાઇન્ટી",
+            "hindiPronunciation": "नाइंटी",
+            "gujaratiMeaning": "નેવું",
+            "hindiMeaning": "नब्बे"
+        },
+        {
+            "word": "Hundred",
+            "icon": "🔢",
+            "gujaratiPronunciation": "હન્ડ્રેડ",
+            "hindiPronunciation": "हंड्रेड",
+            "gujaratiMeaning": "સો",
+            "hindiMeaning": "सौ"
+        }
+    ]
+}

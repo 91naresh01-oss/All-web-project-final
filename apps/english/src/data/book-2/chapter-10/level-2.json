@@ -1,0 +1,76 @@
+{
+  "id": "level-2",
+  "title": "Events and Fun 2",
+  "words": [
+    {
+      "word": "Gift",
+      "gujaratiPronunciation": "ગિફ્ટ",
+      "hindiPronunciation": "गिफ़्ट",
+      "gujaratiMeaning": "ભેટ",
+      "hindiMeaning": "उपहार",
+      "exampleSentences": [
+        {
+          "sentence": "I received a beautiful gift.",
+          "gujaratiTranslation": "મને એક સુંદર ભેટ મળી.",
+          "hindiTranslation": "मुझे एक सुंदर उपहार मिला।"
+        }
+      ]
+    },
+    {
+      "word": "Cake",
+      "gujaratiPronunciation": "કેક",
+      "hindiPronunciation": "केक",
+      "gujaratiMeaning": "કેક",
+      "hindiMeaning": "केक",
+      "exampleSentences": [
+        {
+          "sentence": "We will cut the cake at midnight.",
+          "gujaratiTranslation": "અમે મધ્યરાત્રિએ કેક કાપીશું.",
+          "hindiTranslation": "हम आधी रात को केक काटेंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Dress",
+      "gujaratiPronunciation": "ડ્રેસ",
+      "hindiPronunciation": "ड्रेस",
+      "gujaratiMeaning": "પોશાક",
+      "hindiMeaning": "पोशाक",
+      "exampleSentences": [
+        {
+          "sentence": "She wore a new dress.",
+          "gujaratiTranslation": "તેણીએ નવો પોશાક પહેર્યો હતો.",
+          "hindiTranslation": "उसने एक नई पोशाक पहनी थी।"
+        }
+      ]
+    },
+    {
+      "word": "Card",
+      "gujaratiPronunciation": "કાર્ડ",
+      "hindiPronunciation": "कार्ड",
+      "gujaratiMeaning": "કાર્ડ",
+      "hindiMeaning": "कार्ड",
+      "exampleSentences": [
+        {
+          "sentence": "I sent him a greeting card.",
+          "gujaratiTranslation": "મેં તેને શુભેચ્છા કાર્ડ મોકલ્યું.",
+          "hindiTranslation": "मैंने उसे एक ग्रीटिंग कार्ड भेजा।"
+        }
+      ]
+    },
+    {
+      "word": "Balloon",
+      "gujaratiPronunciation": "બલૂન",
+      "hindiPronunciation": "बलून",
+      "gujaratiMeaning": "ફુગ્ગો",
+      "hindiMeaning": "गुब्बारा",
+      "exampleSentences": [
+        {
+          "sentence": "The balloon floated in the air.",
+          "gujaratiTranslation": "ફુગ્ગો હવામાં તરતો હતો.",
+          "hindiTranslation": "गुब्बारा हवा में तैर रहा था।"
+        }
+      ]
+    }
+  ]
+}

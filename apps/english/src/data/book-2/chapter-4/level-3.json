@@ -1,0 +1,77 @@
+
+{
+  "id": "level-3",
+  "title": "Common Verbs 2",
+  "words": [
+    {
+      "word": "Read",
+      "gujaratiPronunciation": "રીડ",
+      "hindiPronunciation": "रीड",
+      "gujaratiMeaning": "વાંચવું",
+      "hindiMeaning": "पढ़ना",
+      "exampleSentences": [
+        {
+          "sentence": "I like to read books.",
+          "gujaratiTranslation": "મને પુસ્તકો વાંચવા ગમે છે.",
+          "hindiTranslation": "मुझे किताबें पढ़ना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Write",
+      "gujaratiPronunciation": "રાઇટ",
+      "hindiPronunciation": "राइट",
+      "gujaratiMeaning": "લખવું",
+      "hindiMeaning": "लिखना",
+      "exampleSentences": [
+        {
+          "sentence": "Please write your name here.",
+          "gujaratiTranslation": "કૃપા કરીને તમારું નામ અહીં લખો.",
+          "hindiTranslation": "कृपया अपना नाम यहाँ लिखें।"
+        }
+      ]
+    },
+    {
+      "word": "Draw",
+      "gujaratiPronunciation": "ડ્રો",
+      "hindiPronunciation": "ड्रॉ",
+      "gujaratiMeaning": "દોરવું",
+      "hindiMeaning": "चित्र बनाना",
+      "exampleSentences": [
+        {
+          "sentence": "She can draw beautiful pictures.",
+          "gujaratiTranslation": "તેણી સુંદર ચિત્રો દોરી શકે છે.",
+          "hindiTranslation": "वह सुंदर चित्र बना सकती है।"
+        }
+      ]
+    },
+    {
+      "word": "Listen",
+      "gujaratiPronunciation": "લિસન",
+      "hindiPronunciation": "लिसन",
+      "gujaratiMeaning": "સાંભળવું",
+      "hindiMeaning": "सुनना",
+      "exampleSentences": [
+        {
+          "sentence": "Listen to the music.",
+          "gujaratiTranslation": "સંગીત સાંભળો.",
+          "hindiTranslation": "संगीत सुनो।"
+        }
+      ]
+    },
+    {
+      "word": "Watch",
+      "gujaratiPronunciation": "વોચ",
+      "hindiPronunciation": "वॉच",
+      "gujaratiMeaning": "જોવું",
+      "hindiMeaning": "देखना",
+      "exampleSentences": [
+        {
+          "sentence": "Let's watch a movie.",
+          "gujaratiTranslation": "ચાલો ફિલ્મ જોઈએ.",
+          "hindiTranslation": "चलो एक फिल्म देखते हैं।"
+        }
+      ]
+    }
+  ]
+}

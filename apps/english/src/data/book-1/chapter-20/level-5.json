@@ -1,0 +1,11 @@
+{
+    "id": "level-5",
+    "title": "Outerwear & Formal",
+    "words": [
+        { "word": "Boots", "icon": "👢", "gujaratiMeaning": "બૂટ", "hindiMeaning": "बूट", "gujaratiPronunciation": "બૂટ્સ", "hindiPronunciation": "बूट्स" },
+        { "word": "Sandals", "icon": "👡", "gujaratiMeaning": "સેન્ડલ", "hindiMeaning": "सैंडल", "gujaratiPronunciation": "સેન્ડલ", "hindiPronunciation": "सैंडल" },
+        { "word": "Tie", "icon": "👔", "gujaratiMeaning": "ટાઈ", "hindiMeaning": "टाई", "gujaratiPronunciation": "ટાઇ", "hindiPronunciation": "टाई" },
+        { "word": "Uniform", "icon": "👕", "gujaratiMeaning": "ગણવેશ", "hindiMeaning": "वर्दी", "gujaratiPronunciation": "યુનિફોર્મ", "hindiPronunciation": "यूनिफार्म" },
+        { "word": "Shawl", "icon": "🧣", "gujaratiMeaning": "શાલ", "hindiMeaning": "शॉल", "gujaratiPronunciation": "શૉલ", "hindiPronunciation": "शॉल" }
+    ]
+}

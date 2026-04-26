@@ -1,0 +1,157 @@
+{
+  "id": "level-4",
+  "title": "Level 4: Strategic Business Actions",
+  "words": [
+    {
+      "word": "Consolidate",
+      "gujaratiPronunciation": "કન્સોલિડેટ",
+      "hindiPronunciation": "कंसॉलिडेट",
+      "gujaratiMeaning": "એકીકૃત કરવું, મજબૂત કરવું",
+      "hindiMeaning": "एकीकृत करना, मजबूत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Consolidate", "gujaratiPronunciation": "કન્સોલિડેટ", "hindiPronunciation": "कंसॉलिडेट", "gujaratiMeaning": "એકીકૃત કરવું", "hindiMeaning": "एकीकृत करना" },
+        "V2 (Past)": { "word": "Consolidated", "gujaratiPronunciation": "કન્સોલિડેટેડ", "hindiPronunciation": "कंसॉलिडेटेड", "gujaratiMeaning": "એકીકૃત કર્યું", "hindiMeaning": "एकीकृत किया" },
+        "V3 (Past Participle)": { "word": "Consolidated", "gujaratiPronunciation": "કન્સોલિડેટેડ", "hindiPronunciation": "कंसॉलिडेटेड", "gujaratiMeaning": "એકીકૃત", "hindiMeaning": "समेकित" },
+        "V4 (Present Participle)": { "word": "Consolidating", "gujaratiPronunciation": "કન્સોલિડેટિંગ", "hindiPronunciation": "कंसॉलिडेटिंग", "gujaratiMeaning": "એકીકૃત કરી રહ્યું છે", "hindiMeaning": "एकीकृत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Combine", "gujaratiPronunciation": "કમ્બાઇન", "hindiPronunciation": "कंबाइन", "gujaratiMeaning": "જોડવું", "hindiMeaning": "जोड़ना" },
+        { "word": "Merge", "gujaratiPronunciation": "મર્જ", "hindiPronunciation": "मर्ज", "gujaratiMeaning": "વિલીન કરવું", "hindiMeaning": "विलय करना" }
+      ],
+      "antonyms": [
+        { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" },
+        { "word": "Divide", "gujaratiPronunciation": "ડિવાઇડ", "hindiPronunciation": "डिवाइड", "gujaratiMeaning": "વિભાજન કરવું", "hindiMeaning": "विभाजित करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The company will consolidate its operations.",
+          "gujaratiTranslation": "કંપની તેની કામગીરીને એકીકૃત કરશે.",
+          "hindiTranslation": "कंपनी अपने परिचालन को समेकित करेगी।",
+          "gujaratiPronunciation": "ધ કંપની વિલ કન્સોલિડેટ ઇટ્સ ઓપરેશન્સ.",
+          "hindiPronunciation": "द कंपनी विल कंसॉलिडेट इट्स ऑपरेशन्स।"
+        }
+      ]
+    },
+    {
+      "word": "Monetize",
+      "gujaratiPronunciation": "મોનેટાઇઝ",
+      "hindiPronunciation": "मॉनेटाइज़",
+      "gujaratiMeaning": "નાણાકીય લાભ મેળવવો",
+      "hindiMeaning": "मुद्रीकरण करना, पैसा कमाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Monetize", "gujaratiPronunciation": "મોનેટાઇઝ", "hindiPronunciation": "मॉनेटाइज़", "gujaratiMeaning": "નાણાકીય લાભ મેળવવો", "hindiMeaning": "मुद्रीकरण करना" },
+        "V2 (Past)": { "word": "Monetized", "gujaratiPronunciation": "મોનેટાઇઝ્ડ", "hindiPronunciation": "मॉनेटाइज़्ड", "gujaratiMeaning": "નાણાકીય લાભ મેળવ્યો", "hindiMeaning": "मुद्रीकरण किया" },
+        "V3 (Past Participle)": { "word": "Monetized", "gujaratiPronunciation": "મોનેટાઇઝ્ડ", "hindiPronunciation": "मॉनेटाइज़्ड", "gujaratiMeaning": "નાણાકીય લાભ મેળવેલ", "hindiMeaning": "मुद्रीकृत" },
+        "V4 (Present Participle)": { "word": "Monetizing", "gujaratiPronunciation": "મોનેટાઇઝિંગ", "hindiPronunciation": "मॉनेटाइजिंग", "gujaratiMeaning": "નાણાકીય લાભ મેળવી રહ્યું છે", "hindiMeaning": "मुद्रीकरण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Cash in on", "gujaratiPronunciation": "કેશ ઇન ઓન", "hindiPronunciation": "कैश इन ऑन", "gujaratiMeaning": "લાભ ઉઠાવવો", "hindiMeaning": "लाभ उठाना" },
+        { "word": "Profit from", "gujaratiPronunciation": "પ્રોફિટ ફ્રોમ", "hindiPronunciation": "प्रॉफिट फ्रॉम", "gujaratiMeaning": "માંથી નફો મેળવવો", "hindiMeaning": "से लाभ कमाना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "They plan to monetize their website through advertising.",
+          "gujaratiTranslation": "તેઓ જાહેરાત દ્વારા તેમની વેબસાઇટ પરથી નાણાકીય લાભ મેળવવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "वे विज्ञापन के माध्यम से अपनी वेबसाइट का मुद्रीकरण करने की योजना बना रहे हैं।",
+          "gujaratiPronunciation": "ધે પ્લાન ટુ મોનેટાઇઝ ધેર વેબસાઇટ થ્રુ એડવર્ટાઇઝિંગ.",
+          "hindiPronunciation": "दे प्लान टू मॉनेटाइज़ देयर वेबसाइट थ्रू एडवरटाइजिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Spearhead",
+      "gujaratiPronunciation": "સ્પિયરહેડ",
+      "hindiPronunciation": "स्पीयरहेड",
+      "gujaratiMeaning": "નેતૃત્વ કરવું",
+      "hindiMeaning": "नेतृत्व करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Spearhead", "gujaratiPronunciation": "સ્પિયરહેડ", "hindiPronunciation": "स्पीयरहेड", "gujaratiMeaning": "નેતૃત્વ કરવું", "hindiMeaning": "नेतृत्व करना" },
+        "V2 (Past)": { "word": "Spearheaded", "gujaratiPronunciation": "સ્પિયરહેડેડ", "hindiPronunciation": "स्पीयरहेडेड", "gujaratiMeaning": "નેતૃત્વ કર્યું", "hindiMeaning": "नेतृत्व किया" },
+        "V3 (Past Participle)": { "word": "Spearheaded", "gujaratiPronunciation": "સ્પિયરહેડેડ", "hindiPronunciation": "स्पीयरहेडेड", "gujaratiMeaning": "નેતૃત્વ કરેલ", "hindiMeaning": "नेतृत्व किया हुआ" },
+        "V4 (Present Participle)": { "word": "Spearheading", "gujaratiPronunciation": "સ્પિયરહેડિંગ", "hindiPronunciation": "स्पीयरहेडिंग", "gujaratiMeaning": "નેતૃત્વ કરી રહ્યું છે", "hindiMeaning": "नेतृत्व कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Lead", "gujaratiPronunciation": "લીડ", "hindiPronunciation": "लीड", "gujaratiMeaning": "આગેવાની કરવી", "hindiMeaning": "नेतृत्व करना" },
+        { "word": "Initiate", "gujaratiPronunciation": "ઇનિશિએટ", "hindiPronunciation": "इनिशिएट", "gujaratiMeaning": "શરૂઆત કરવી", "hindiMeaning": "शुरू करना" }
+      ],
+      "antonyms": [
+        { "word": "Follow", "gujaratiPronunciation": "ફોલો", "hindiPronunciation": "फॉलो", "gujaratiMeaning": "અનુસરવું", "hindiMeaning": "अनुसरण करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "She will spearhead the new marketing campaign.",
+          "gujaratiTranslation": "તેણી નવા માર્કેટિંગ અભિયાનનું નેતૃત્વ કરશે.",
+          "hindiTranslation": "वह नए विपणन अभियान का नेतृत्व करेंगी।",
+          "gujaratiPronunciation": "શી વિલ સ્પિયરહેડ ધ ન્યૂ માર્કેટિંગ કેમ્પેઇન.",
+          "hindiPronunciation": "शी विल स्पीयरहेड द न्यू मार्केटिंग कैंपेन।"
+        }
+      ]
+    },
+    {
+      "word": "Outsource",
+      "gujaratiPronunciation": "આઉટસોર્સ",
+      "hindiPronunciation": "आउटसोर्स",
+      "gujaratiMeaning": "બહારથી કામ કરાવવું",
+      "hindiMeaning": "बाहरी स्रोत से काम कराना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Outsource", "gujaratiPronunciation": "આઉટસોર્સ", "hindiPronunciation": "आउटसोर्स", "gujaratiMeaning": "બહારથી કામ કરાવવું", "hindiMeaning": "बाहरी स्रोत से काम कराना" },
+        "V2 (Past)": { "word": "Outsourced", "gujaratiPronunciation": "આઉટસોર્સ્ડ", "hindiPronunciation": "आउटसोर्स्ड", "gujaratiMeaning": "બહારથી કામ કરાવ્યું", "hindiMeaning": "बाहरी स्रोत से काम कराया" },
+        "V3 (Past Participle)": { "word": "Outsourced", "gujaratiPronunciation": "આઉટસોર્સ્ડ", "hindiPronunciation": "आउटसोर्स्ड", "gujaratiMeaning": "બહારથી કરાવેલું", "hindiMeaning": "आउटसोर्स किया हुआ" },
+        "V4 (Present Participle)": { "word": "Outsourcing", "gujaratiPronunciation": "આઉટસોર્સિંગ", "hindiPronunciation": "आउटसोर्सिंग", "gujaratiMeaning": "બહારથી કામ કરાવી રહ્યું છે", "hindiMeaning": "बाहरी स्रोत से काम करा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Contract out", "gujaratiPronunciation": "કોન્ટ્રેક્ટ આઉટ", "hindiPronunciation": "कॉन्ट्रैक्ट आउट", "gujaratiMeaning": "કરાર પર આપવું", "hindiMeaning": "ठेके पर देना" }
+      ],
+      "antonyms": [
+        { "word": "In-house", "gujaratiPronunciation": "ઇન-હાઉસ", "hindiPronunciation": "इन-हाउस", "gujaratiMeaning": "આંતરિક રીતે", "hindiMeaning": "आंतरिक रूप से" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Many companies outsource their customer service.",
+          "gujaratiTranslation": "ઘણી કંપનીઓ તેમની ગ્રાહક સેવા બહારથી કરાવે છે.",
+          "hindiTranslation": "कई कंपनियाँ अपनी ग्राहक सेवा को आउटसोर्स करती हैं।",
+          "gujaratiPronunciation": "મેની કંપનીઝ આઉટસોર્સ ધેર કસ્ટમર સર્વિસ.",
+          "hindiPronunciation": "मेनी कंपनीज़ आउटसोर्स देयर कस्टमर सर्विस।"
+        }
+      ]
+    },
+    {
+      "word": "Underwrite",
+      "gujaratiPronunciation": "અન્ડરરાઇટ",
+      "hindiPronunciation": "अंडरराइट",
+      "gujaratiMeaning": "નાણાકીય જવાબદારી લેવી, વીમો ઉતારવો",
+      "hindiMeaning": "वित्तीय जिम्मेदारी लेना, बीमा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Underwrite", "gujaratiPronunciation": "અન્ડરરાઇટ", "hindiPronunciation": "अंडरराइट", "gujaratiMeaning": "જવાબદારી લેવી", "hindiMeaning": "जिम्मेदारी लेना" },
+        "V2 (Past)": { "word": "Underwrote", "gujaratiPronunciation": "અન્ડરરોટ", "hindiPronunciation": "अंडररोट", "gujaratiMeaning": "જવાબદારી લીધી", "hindiMeaning": "जिम्मेदारी ली" },
+        "V3 (Past Participle)": { "word": "Underwritten", "gujaratiPronunciation": "અન્ડરરિટન", "hindiPronunciation": "अंडररिटन", "gujaratiMeaning": "જવાબદારી લીધેલ", "hindiMeaning": "जिम्मेदारी ली हुई" },
+        "V4 (Present Participle)": { "word": "Underwriting", "gujaratiPronunciation": "અન્ડરરાઇટિંગ", "hindiPronunciation": "अंडरराइटिंग", "gujaratiMeaning": "જવાબદારી લઈ રહ્યું છે", "hindiMeaning": "जिम्मेदारी ले रहा है" }
+      },
+      "synonyms": [
+        { "word": "Guarantee", "gujaratiPronunciation": "ગેરેન્ટી", "hindiPronunciation": "गैरंटी", "gujaratiMeaning": "ખાતરી આપવી", "hindiMeaning": "गारंटी देना" },
+        { "word": "Sponsor", "gujaratiPronunciation": "સ્પોન્સર", "hindiPronunciation": "स्पॉन्सर", "gujaratiMeaning": "પ્રાયોજક બનવું", "hindiMeaning": "प्रायोजित करना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The bank will underwrite the loan.",
+          "gujaratiTranslation": "બેંક લોનની નાણાકીય જવાબદારી લેશે.",
+          "hindiTranslation": "बैंक ऋण की हामीदारी करेगा।",
+          "gujaratiPronunciation": "ધ બેંક વિલ અન્ડરરાઇટ ધ લોન.",
+          "hindiPronunciation": "द बैंक विल अंडरराइट द लोन।"
+        }
+      ]
+    }
+  ]
+}

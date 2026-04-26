@@ -1,0 +1,187 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Adorn",
+      "partOfSpeech": "verb",
+      "pronunciation": "અડોર્ન",
+      "gujaratiMeaning": "સુશોભિત કરવું",
+      "hindiMeaning": "सुशोभित करना",
+      "gujaratiPronunciation": "અડોર્ન",
+      "hindiPronunciation": "अडोर्न",
+      "verbForms": {
+        "v1": { "word": "Adorn", "pronunciation": "અડોર્ન", "gujaratiMeaning": "સુશોભિત કરવું", "hindiMeaning": "सुशोभित करना" },
+        "v2": { "word": "Adorned", "pronunciation": "અડોર્ન્ડ", "gujaratiMeaning": "સુશોભિત કર્યું", "hindiMeaning": "सुशोभित किया" },
+        "v3": { "word": "Adorned", "pronunciation": "અડોર્ન્ડ", "gujaratiMeaning": "સુશોભિત કરેલું", "hindiMeaning": "सुशोभित किया हुआ" },
+        "v4": { "word": "Adorning", "pronunciation": "અડોર્નિંગ", "gujaratiMeaning": "સુશોભિત કરી રહ્યું છે", "hindiMeaning": "सुशोभित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Decorate", "pronunciation": "ડેકોરેટ", "gujaratiMeaning": "શણગારવું", "hindiMeaning": "सजाना" },
+        { "word": "Embellish", "pronunciation": "એમ્બેલિશ", "gujaratiMeaning": "શણગારવું", "hindiMeaning": "अलंकृत करना" }
+      ],
+      "antonyms": [
+        { "word": "Disfigure", "pronunciation": "ડિસફિગર", "gujaratiMeaning": "બદસૂરત બનાવવું", "hindiMeaning": "विकृत करना" },
+        { "word": "Strip", "pronunciation": "સ્ટ્રીપ", "gujaratiMeaning": "ઉતારી લેવું", "hindiMeaning": "उतार लेना" }
+      ],
+      "confusingWords": [
+        { "word": "Adore", "pronunciation": "અડોર", "gujaratiMeaning": "આરાધના કરવી", "hindiMeaning": "पूजा करना" },
+        { "word": "Adopt", "pronunciation": "અડૉપ્ટ", "gujaratiMeaning": "દત્તક લેવું", "hindiMeaning": "अपनाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Paintings of flowers adorn the walls of her room.",
+          "gujaratiTranslation": "ફૂલોના ચિત્રો તેના રૂમની દીવાલોને સુશોભિત કરે છે.",
+          "hindiTranslation": "फूलों के चित्र उसके कमरे की दीवारों को सुशोभित करते हैं।",
+          "gujaratiPronunciation": "પેઇન્ટિંગ્સ ઓફ ફ્લાવર્સ અડોર્ન ધ વોલ્સ ઓફ હર રૂમ.",
+          "hindiPronunciation": "पेंटिंग्स ऑफ फ्लावर्स अडोर्न द वॉल्स ऑफ हर रूम।"
+        }
+      ]
+    },
+    {
+      "word": "Style",
+      "partOfSpeech": "verb",
+      "pronunciation": "સ્ટાઇલ",
+      "gujaratiMeaning": "રીતભાત આપવી, સજાવવું",
+      "hindiMeaning": "शैली देना, सजाना",
+      "gujaratiPronunciation": "સ્ટાઇલ",
+      "hindiPronunciation": "स्टाइल",
+      "verbForms": {
+        "v1": { "word": "Style", "pronunciation": "સ્ટાઇલ", "gujaratiMeaning": "રીતભાત આપવી", "hindiMeaning": "शैली देना" },
+        "v2": { "word": "Styled", "pronunciation": "સ્ટાઇલડ", "gujaratiMeaning": "રીતભાત આપી", "hindiMeaning": "शैली दी" },
+        "v3": { "word": "Styled", "pronunciation": "સ્ટાઇલડ", "gujaratiMeaning": "રીતભાત આપેલી", "hindiMeaning": "शैली दी हुई" },
+        "v4": { "word": "Styling", "pronunciation": "સ્ટાઇલિંગ", "gujaratiMeaning": "રીતભાત આપી રહ્યું છે", "hindiMeaning": "शैली दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Design", "pronunciation": "ડિઝાઇન", "gujaratiMeaning": "રચના કરવી", "hindiMeaning": "डिज़ाइन करना" },
+        { "word": "Fashion", "pronunciation": "ફેશન", "gujaratiMeaning": "ઘડવું", "hindiMeaning": "रूप देना" }
+      ],
+      "antonyms": [
+        { "word": "Mess up", "pronunciation": "મેસ અપ", "gujaratiMeaning": "ગડબડ કરવી", "hindiMeaning": "गड़बड़ करना" },
+        { "word": "Disarrange", "pronunciation": "ડિસઅરેન્જ", "gujaratiMeaning": "અસ્તવ્યસ્ત કરવું", "hindiMeaning": "अस्त-व्यस्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Steal", "pronunciation": "સ્ટીલ", "gujaratiMeaning": "ચોરી કરવી", "hindiMeaning": "चुराना" },
+        { "word": "Still", "pronunciation": "સ્ટીલ", "gujaratiMeaning": "હજુ પણ", "hindiMeaning": "अभी भी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She can style your hair for the event.",
+          "gujaratiTranslation": "તે ઇવેન્ટ માટે તમારા વાળને સ્ટાઇલ કરી શકે છે.",
+          "hindiTranslation": "वह इवेंट के लिए आपके बाल स्टाइल कर सकती है।",
+          "gujaratiPronunciation": "શી કેન સ્ટાઇલ યોર હેર ફોર ધ ઇવેન્ટ.",
+          "hindiPronunciation": "शी कैन स्टाइल योर हेयर फॉर द इवेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Embellish",
+      "partOfSpeech": "verb",
+      "pronunciation": "એમ્બેલિશ",
+      "gujaratiMeaning": "શણગારવું, વધુ રસપ્રદ બનાવવું",
+      "hindiMeaning": "अलंकृत करना, और रोचक बनाना",
+      "gujaratiPronunciation": "એમ્બેલિશ",
+      "hindiPronunciation": "एम्बेलिश",
+      "verbForms": {
+        "v1": { "word": "Embellish", "pronunciation": "એમ્બેલિશ", "gujaratiMeaning": "શણગારવું", "hindiMeaning": "अलंकृत करना" },
+        "v2": { "word": "Embellished", "pronunciation": "એમ્બેલિશ્ડ", "gujaratiMeaning": "શણગાર્યું", "hindiMeaning": "अलंकृत किया" },
+        "v3": { "word": "Embellished", "pronunciation": "એમ્બેલિશ્ડ", "gujaratiMeaning": "શણગારેલું", "hindiMeaning": "अलंकृत किया हुआ" },
+        "v4": { "word": "Embellishing", "pronunciation": "એમ્બેલિશિંગ", "gujaratiMeaning": "શણગારી રહ્યું છે", "hindiMeaning": "अलंकृत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Decorate", "pronunciation": "ડેકોરેટ", "gujaratiMeaning": "શણગારવું", "hindiMeaning": "सजाना" },
+        { "word": "Exaggerate", "pronunciation": "એક્ઝાજરેટ", "gujaratiMeaning": "વધારીને કહેવું", "hindiMeaning": "बढ़ा-चढ़ाकर कहना" }
+      ],
+      "antonyms": [
+        { "word": "Simplify", "pronunciation": "સિમ્પ્લિફાય", "gujaratiMeaning": "સરળ બનાવવું", "hindiMeaning": "सरल बनाना" },
+        { "word": "Reduce", "pronunciation": "રિડ્યુસ", "gujaratiMeaning": "ઘટાડવું", "hindiMeaning": "कम करना" }
+      ],
+      "confusingWords": [
+        { "word": "Abolish", "pronunciation": "એબોલિશ", "gujaratiMeaning": "નાબૂદ કરવું", "hindiMeaning": "समाप्त करना" },
+        { "word": "Establish", "pronunciation": "એસ્ટાબ્લિશ", "gujaratiMeaning": "સ્થાપના કરવી", "hindiMeaning": "स्थापित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He tends to embellish his stories to make them more exciting.",
+          "gujaratiTranslation": "તે તેની વાર્તાઓને વધુ રોમાંચક બનાવવા માટે તેને શણગારવાનું વલણ ધરાવે છે.",
+          "hindiTranslation": "वह अपनी कहानियों को और अधिक रोमांचक बनाने के लिए उन्हें अलंकृत करता है।",
+          "gujaratiPronunciation": "હી ટેન્ડ્સ ટુ એમ્બેલિશ હીઝ સ્ટોરીઝ ટુ મેક ધેમ મોર એક્સાઇટિંગ.",
+          "hindiPronunciation": "ही टेंड्स टू एम्बेलिश हिज स्टोरीज टू मेक देम मोर एक्साइटिंग।"
+        }
+      ]
+    },
+    {
+      "word": "Varnish",
+      "partOfSpeech": "verb",
+      "pronunciation": "વાર્નિશ",
+      "gujaratiMeaning": "વાર્નિશ લગાવવું, ચળકાટ આપવો",
+      "hindiMeaning": "वार्निश लगाना, चमकाना",
+      "gujaratiPronunciation": "વાર્નિશ",
+      "hindiPronunciation": "वार्निश",
+      "verbForms": {
+        "v1": { "word": "Varnish", "pronunciation": "વાર્નિશ", "gujaratiMeaning": "વાર્નિશ લગાવવું", "hindiMeaning": "वार्निश लगाना" },
+        "v2": { "word": "Varnished", "pronunciation": "વાર્નિશ્ડ", "gujaratiMeaning": "વાર્નિશ લગાવ્યું", "hindiMeaning": "वार्निश लगाया" },
+        "v3": { "word": "Varnished", "pronunciation": "વાર્નિશ્ડ", "gujaratiMeaning": "વાર્નિશ લગાવેલું", "hindiMeaning": "वार्निश लगाया हुआ" },
+        "v4": { "word": "Varnishing", "pronunciation": "વાર્નિશિંગ", "gujaratiMeaning": "વાર્નિશ લગાવી રહ્યું છે", "hindiMeaning": "वार्निश लगा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Lacquer", "pronunciation": "લેકર", "gujaratiMeaning": "લાકડા પર લગાડવાનો રંગ", "hindiMeaning": "लाख" },
+        { "word": "Glaze", "pronunciation": "ગ્લેઝ", "gujaratiMeaning": "ચળકાટ આપવો", "hindiMeaning": "शीशा लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Strip", "pronunciation": "સ્ટ્રીપ", "gujaratiMeaning": "પડ ઉતારવું", "hindiMeaning": "परत उतारना" },
+        { "word": "Dull", "pronunciation": "ડલ", "gujaratiMeaning": "ઝાંખું કરવું", "hindiMeaning": "धुंधला करना" }
+      ],
+      "confusingWords": [
+        { "word": "Banish", "pronunciation": "બૅનિશ", "gujaratiMeaning": "દેશનિકાલ કરવો", "hindiMeaning": "देश निकाला देना" },
+        { "word": "Vanish", "pronunciation": "વેનિશ", "gujaratiMeaning": "ગાયબ થવું", "hindiMeaning": "गायब हो जाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You should varnish the wooden table to protect it.",
+          "gujaratiTranslation": "તેને બચાવવા માટે તમારે લાકડાના ટેબલ પર વાર્નિશ લગાવવું જોઈએ.",
+          "hindiTranslation": "इसे बचाने के लिए आपको लकड़ी की मेज पर वार्निश करना चाहिए।",
+          "gujaratiPronunciation": "યુ શુડ વાર્નિશ ધ વુડન ટેબલ ટુ પ્રોટેક્ટ ઇટ.",
+          "hindiPronunciation": "यू शुड वार्निश द वुडन टेबल टू प्रोटेक्ट इट।"
+        }
+      ]
+    },
+    {
+      "word": "Portray",
+      "partOfSpeech": "verb",
+      "pronunciation": "પોર્ટ્રે",
+      "gujaratiMeaning": "ચિત્રણ કરવું, વર્ણન કરવું",
+      "hindiMeaning": "चित्रण करना, वर्णन करना",
+      "gujaratiPronunciation": "પોર્ટ્રે",
+      "hindiPronunciation": "पोर्ट्रे",
+      "verbForms": {
+        "v1": { "word": "Portray", "pronunciation": "પોર્ટ્રે", "gujaratiMeaning": "ચિત્રણ કરવું", "hindiMeaning": "चित्रण करना" },
+        "v2": { "word": "Portrayed", "pronunciation": "પોર્ટ્રેડ", "gujaratiMeaning": "ચિત્રણ કર્યું", "hindiMeaning": "चित्रण किया" },
+        "v3": { "word": "Portrayed", "pronunciation": "પોર્ટ્રેડ", "gujaratiMeaning": "ચિત્રણ કરેલું", "hindiMeaning": "चित्रण किया हुआ" },
+        "v4": { "word": "Portraying", "pronunciation": "પોર્ટ્રેઇંગ", "gujaratiMeaning": "ચિત્રણ કરી રહ્યું છે", "hindiMeaning": "चित्रण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Depict", "pronunciation": "ડેપિક્ટ", "gujaratiMeaning": "વર્ણન કરવું", "hindiMeaning": "चित्रित करना" },
+        { "word": "Represent", "pronunciation": "રેપ્રિઝેન્ટ", "gujaratiMeaning": "પ્રતિનિધિત્વ કરવું", "hindiMeaning": "प्रतिनिधित्व करना" }
+      ],
+      "antonyms": [
+        { "word": "Misrepresent", "pronunciation": "મિસરેપ્રિઝેન્ટ", "gujaratiMeaning": "ખોટું ચિત્રણ કરવું", "hindiMeaning": "गलत तरीके से प्रस्तुत करना" },
+        { "word": "Distort", "pronunciation": "ડિસ્ટોર્ટ", "gujaratiMeaning": "વિકૃત કરવું", "hindiMeaning": "विकृत करना" }
+      ],
+      "confusingWords": [
+        { "word": "Betray", "pronunciation": "બિટ્રે", "gujaratiMeaning": "દગો દેવો", "hindiMeaning": "धोखा देना" },
+        { "word": "Pray", "pronunciation": "પ્રે", "gujaratiMeaning": "પ્રાર્થના કરવી", "hindiMeaning": "प्रार्थना करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The movie aims to portray the life of a famous scientist.",
+          "gujaratiTranslation": "આ ફિલ્મનો હેતુ એક પ્રખ્યાત વૈજ્ઞાનિકના જીવનનું ચિત્રણ કરવાનો છે.",
+          "hindiTranslation": "फिल्म का उद्देश्य एक प्रसिद्ध वैज्ञानिक के जीवन का चित्रण करना है।",
+          "gujaratiPronunciation": "ધ મુવી એમ્સ ટુ પોર્ટ્રે ધ લાઇફ ઓફ અ ફેમસ સાયન્ટિસ્ટ.",
+          "hindiPronunciation": "द मूवी एम्स टू पोर्ट्रे द लाइफ ऑफ अ फेमस साइंटिस्ट।"
+        }
+      ]
+    }
+  ]
+}

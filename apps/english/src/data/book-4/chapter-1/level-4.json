@@ -1,0 +1,179 @@
+{
+  "id": "level-4",
+  "title": "Level 4: Intense Emotions",
+  "words": [
+    {
+      "word": "Savor",
+      "gujaratiPronunciation": "સેવર",
+      "hindiPronunciation": "सेवर",
+      "gujaratiMeaning": "સ્વાદ માણવો",
+      "hindiMeaning": "स्वाद लेना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Savor", "gujaratiPronunciation": "સેવર", "hindiPronunciation": "सेवर", "gujaratiMeaning": "સ્વાદ માણવો", "hindiMeaning": "स्वाद लेना" },
+        "V2 (Past)": { "word": "Savored", "gujaratiPronunciation": "સેવર્ડ", "hindiPronunciation": "सेवर्ड", "gujaratiMeaning": "સ્વાદ માણ્યો", "hindiMeaning": "स्वाद लिया" },
+        "V3 (Past Participle)": { "word": "Savored", "gujaratiPronunciation": "સેવર્ડ", "hindiPronunciation": "सेवर्ड", "gujaratiMeaning": "સ્વાદ માણેલો", "hindiMeaning": "स्वाद लिया हुआ" },
+        "V4 (Present Participle)": { "word": "Savoring", "gujaratiPronunciation": "સેવરિંગ", "hindiPronunciation": "सेवरिंग", "gujaratiMeaning": "સ્વાદ માણી રહ્યો છે", "hindiMeaning": "स्वाद ले रहा है" }
+      },
+      "synonyms": [
+        { "word": "Relish", "gujaratiPronunciation": "રેલિશ", "hindiPronunciation": "रैलिश", "gujaratiMeaning": "આનંદ માણવો", "hindiMeaning": "आनंद लेना" },
+        { "word": "Enjoy", "gujaratiPronunciation": "એન્જોય", "hindiPronunciation": "एंजॉय", "gujaratiMeaning": "આનંદ માણવો", "hindiMeaning": "आनंद लेना" }
+      ],
+      "antonyms": [
+        { "word": "Dislike", "gujaratiPronunciation": "ડિસલાઇક", "hindiPronunciation": "डिसलाइक", "gujaratiMeaning": "અણગમો", "hindiMeaning": "नापसंद करना" },
+        { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "અસ્વીકાર કરવો", "hindiMeaning": "अस्वीकार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Saver", "gujaratiPronunciation": "સેવર", "hindiPronunciation": "सेवर", "gujaratiMeaning": "બચાવનાર", "hindiMeaning": "बचाने वाला" },
+        { "word": "Savior", "gujaratiPronunciation": "સેવિયર", "hindiPronunciation": "सेवियर", "gujaratiMeaning": "તારણહાર", "hindiMeaning": "उद्धारकर्ता" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She savored every moment of her vacation.",
+          "gujaratiTranslation": "તેણીએ તેની રજાની દરેક ક્ષણનો આનંદ માણ્યો.",
+          "hindiTranslation": "उसने अपनी छुट्टियों के हर पल का आनंद लिया।",
+          "gujaratiPronunciation": "શી સેવર્ડ એવરી મોમેન્ટ ઓફ હર વેકેશન.",
+          "hindiPronunciation": "शी सेवार्ड एवरी मोमेंट ऑफ हर वेकेशन।"
+        }
+      ]
+    },
+    {
+      "word": "Venerate",
+      "gujaratiPronunciation": "વેનરેટ",
+      "hindiPronunciation": "वेनरेट",
+      "gujaratiMeaning": "પૂજવું",
+      "hindiMeaning": "पूजा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Venerate", "gujaratiPronunciation": "વેનરેટ", "hindiPronunciation": "वेनरेट", "gujaratiMeaning": "પૂજવું", "hindiMeaning": "पूजा करना" },
+        "V2 (Past)": { "word": "Venerated", "gujaratiPronunciation": "વેનરેટેડ", "hindiPronunciation": "वेनरेटेड", "gujaratiMeaning": "પૂજ્યું", "hindiMeaning": "पूजा की" },
+        "V3 (Past Participle)": { "word": "Venerated", "gujaratiPronunciation": "વેનરેટેડ", "hindiPronunciation": "वेनरेटेड", "gujaratiMeaning": "પૂજનીય", "hindiMeaning": "पूजनीय" },
+        "V4 (Present Participle)": { "word": "Venerating", "gujaratiPronunciation": "વેનરેટિંગ", "hindiPronunciation": "वेनरेटिंग", "gujaratiMeaning": "પૂજતો", "hindiMeaning": "पूजा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Revere", "gujaratiPronunciation": "રિવિયર", "hindiPronunciation": "रिवियर", "gujaratiMeaning": "આદર કરવો", "hindiMeaning": "आदर करना" },
+        { "word": "Worship", "gujaratiPronunciation": "વર્શિપ", "hindiPronunciation": "वरशिप", "gujaratiMeaning": "પૂજા કરવી", "hindiMeaning": "पूजा करना" }
+      ],
+      "antonyms": [
+        { "word": "Despise", "gujaratiPronunciation": "ડેસ્પાઇઝ", "hindiPronunciation": "डेस्पाइज़", "gujaratiMeaning": "તિરસ્કાર કરવો", "hindiMeaning": "तिरस्कार करना" },
+        { "word": "Defile", "gujaratiPronunciation": "ડિફાઇલ", "hindiPronunciation": "डिफाइल", "gujaratiMeaning": "અપવિત્ર કરવું", "hindiMeaning": "अपवित्र करना" }
+      ],
+      "confusingWords": [
+        { "word": "Generate", "gujaratiPronunciation": "જનરેટ", "hindiPronunciation": "जनरेट", "gujaratiMeaning": "ઉત્પન્ન કરવું", "hindiMeaning": "उत्पन्न करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The poet is venerated as a national hero.",
+          "gujaratiTranslation": "કવિને રાષ્ટ્રીય નાયક તરીકે પૂજવામાં આવે છે.",
+          "hindiTranslation": "कवि को एक राष्ट्रीय नायक के रूप में पूजा जाता है।",
+          "gujaratiPronunciation": "ધ પોએટ ઇઝ વેનરેટેડ એઝ અ નેશનલ હીરો.",
+          "hindiPronunciation": "द पोएट इज़ वेनरेटेड एज़ अ नेशनल हीरो।"
+        }
+      ]
+    },
+    {
+      "word": "Depress",
+      "gujaratiPronunciation": "ડિપ્રેસ",
+      "hindiPronunciation": "डिप्रेस",
+      "gujaratiMeaning": "ઉદાસ કરવું",
+      "hindiMeaning": "उदास करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Depress", "gujaratiPronunciation": "ડિપ્રેસ", "hindiPronunciation": "डिप्रेस", "gujaratiMeaning": "ઉદાસ કરવું", "hindiMeaning": "उदास करना" },
+        "V2 (Past)": { "word": "Depressed", "gujaratiPronunciation": "ડિપ્રેસ્ડ", "hindiPronunciation": "डिप्रेस्ड", "gujaratiMeaning": "ઉદાસ કર્યું", "hindiMeaning": "उदास किया" },
+        "V3 (Past Participle)": { "word": "Depressed", "gujaratiPronunciation": "ડિપ્રેસ્ડ", "hindiPronunciation": "डिप्रेस्ड", "gujaratiMeaning": "ઉદાસ", "hindiMeaning": "उदास" },
+        "V4 (Present Participle)": { "word": "Depressing", "gujaratiPronunciation": "ડિપ્રેસિંગ", "hindiPronunciation": "डिप्रेसिंग", "gujaratiMeaning": "ઉદાસ કરનારું", "hindiMeaning": "उदास करने वाला" }
+      },
+      "synonyms": [
+        { "word": "Sadden", "gujaratiPronunciation": "સેડન", "hindiPronunciation": "सैडन", "gujaratiMeaning": "દુઃખી કરવું", "hindiMeaning": "दुखी करना" },
+        { "word": "Discourage", "gujaratiPronunciation": "ડિસ્કરેજ", "hindiPronunciation": "डिस्कैज", "gujaratiMeaning": "નિરાશ કરવું", "hindiMeaning": "हतोत्साहित करना" }
+      ],
+      "antonyms": [
+        { "word": "Cheer", "gujaratiPronunciation": "ચિયર", "hindiPronunciation": "चियर", "gujaratiMeaning": "ખુશ કરવું", "hindiMeaning": "खुश करना" },
+        { "word": "Encourage", "gujaratiPronunciation": "એન્કરેજ", "hindiPronunciation": "एन्करेज", "gujaratiMeaning": "પ્રોત્સાહિત કરવું", "hindiMeaning": "प्रोत्साहित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Suppress", "gujaratiPronunciation": "સપ્રેસ", "hindiPronunciation": "सप्रेस", "gujaratiMeaning": "દબાવવું", "hindiMeaning": "दबाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The rainy weather always depresses me.",
+          "gujaratiTranslation": "વરસાદી હવામાન હંમેશા મને ઉદાસ કરે છે.",
+          "hindiTranslation": "बरसाती मौसम मुझे हमेशा उदास करता है।",
+          "gujaratiPronunciation": "ધ રેઇની વેધર ઓલવેઝ ડિપ્રેસીસ મી.",
+          "hindiPronunciation": "द रेनी वेदर ऑलवेज़ डिप्रेसेस मी।"
+        }
+      ]
+    },
+    {
+      "word": "Exult",
+      "gujaratiPronunciation": "એક્ઝલ્ટ",
+      "hindiPronunciation": "एग्ज़ल्ट",
+      "gujaratiMeaning": "આનંદથી ઉછળી પડવું",
+      "hindiMeaning": "उल्लासित होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Exult", "gujaratiPronunciation": "એક્ઝલ્ટ", "hindiPronunciation": "एग्ज़ल्ट", "gujaratiMeaning": "આનંદથી ઉછળી પડવું", "hindiMeaning": "उल्लासित होना" },
+        "V2 (Past)": { "word": "Exulted", "gujaratiPronunciation": "એક્ઝલ્ટેડ", "hindiPronunciation": "एग्ज़ल्टेड", "gujaratiMeaning": "આનંદથી ઉછળી પડ્યો", "hindiMeaning": "उल्लासित हुआ" },
+        "V3 (Past Participle)": { "word": "Exulted", "gujaratiPronunciation": "એક્ઝલ્ટેડ", "hindiPronunciation": "एग्ज़ल्टेड", "gujaratiMeaning": "આનંદથી ઉછળી પડેલો", "hindiMeaning": "उल्लासित" },
+        "V4 (Present Participle)": { "word": "Exulting", "gujaratiPronunciation": "એક્ઝલ્ટિંગ", "hindiPronunciation": "एग्ज़ल्टिंग", "gujaratiMeaning": "આનંદથી ઉછળી પડતો", "hindiMeaning": "उल्लासित हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Rejoice", "gujaratiPronunciation": "રિજોઈસ", "hindiPronunciation": "रिजॉइस", "gujaratiMeaning": "આનંદ કરવો", "hindiMeaning": "आनंद मनाना" },
+        { "word": "Triumph", "gujaratiPronunciation": "ટ્રાયમ્ફ", "hindiPronunciation": "ट्रायंफ", "gujaratiMeaning": "વિજયનો આનંદ", "hindiMeaning": "विजय का आनंद" }
+      ],
+      "antonyms": [
+        { "word": "Grieve", "gujaratiPronunciation": "ગ્રીવ", "hindiPronunciation": "ग्रीव", "gujaratiMeaning": "શોક કરવો", "hindiMeaning": "शोक करना" },
+        { "word": "Lament", "gujaratiPronunciation": "લમેન્ટ", "hindiPronunciation": "लमेंट", "gujaratiMeaning": "વિલાપ કરવો", "hindiMeaning": "विलाप करना" }
+      ],
+      "confusingWords": [
+        { "word": "Exalt", "gujaratiPronunciation": "એક્ઝોલ્ટ", "hindiPronunciation": "एग्ज़ॉल्ट", "gujaratiMeaning": "વખાણ કરવું", "hindiMeaning": "प्रशंसा करना" },
+        { "word": "Insult", "gujaratiPronunciation": "ઇન્સલ્ટ", "hindiPronunciation": "इंसल्ट", "gujaratiMeaning": "અપમાન કરવું", "hindiMeaning": "अपमान करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The team exulted in their victory.",
+          "gujaratiTranslation": "ટીમ તેમની જીતમાં આનંદથી ઉછળી પડી.",
+          "hindiTranslation": "टीम अपनी जीत पर उल्लासित हुई।",
+          "gujaratiPronunciation": "ધ ટીમ એક્ઝલ્ટેડ ઇન ધેર વિક્ટરી.",
+          "hindiPronunciation": "द टीम एग्ज़ल्टेड इन देयर विक्ट्री।"
+        }
+      ]
+    },
+    {
+      "word": "Resent",
+      "gujaratiPronunciation": "રિસેન્ટ",
+      "hindiPronunciation": "रिसेंट",
+      "gujaratiMeaning": "નારાજ થવું",
+      "hindiMeaning": "नाराज़ होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Resent", "gujaratiPronunciation": "રિસેન્ટ", "hindiPronunciation": "रिसेंट", "gujaratiMeaning": "નારાજ થવું", "hindiMeaning": "नाराज़ होना" },
+        "V2 (Past)": { "word": "Resented", "gujaratiPronunciation": "રિસેન્ટેડ", "hindiPronunciation": "रिसेंटेड", "gujaratiMeaning": "નારાજ થયો", "hindiMeaning": "नाराज़ हुआ" },
+        "V3 (Past Participle)": { "word": "Resented", "gujaratiPronunciation": "રિસેન્ટેડ", "hindiPronunciation": "रिसेंटेड", "gujaratiMeaning": "નારાજ થયેલો", "hindiMeaning": "नाराज़" },
+        "V4 (Present Participle)": { "word": "Resenting", "gujaratiPronunciation": "રિસેન્ટિંગ", "hindiPronunciation": "रिसेंटिंग", "gujaratiMeaning": "નારાજ થતો", "hindiMeaning": "नाराज़ हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Dislike", "gujaratiPronunciation": "ડિસલાઇક", "hindiPronunciation": "डिसलाइक", "gujaratiMeaning": "અણગમો", "hindiMeaning": "नापसंद करना" },
+        { "word": "Grudge", "gujaratiPronunciation": "ગ્રજ", "hindiPronunciation": "ग्रज", "gujaratiMeaning": "દ્વેષ રાખવો", "hindiMeaning": "द्वेष रखना" }
+      ],
+      "antonyms": [
+        { "word": "Welcome", "gujaratiPronunciation": "વેલકમ", "hindiPronunciation": "वेलकम", "gujaratiMeaning": "સ્વાગત કરવું", "hindiMeaning": "स्वागत करना" },
+        { "word": "Accept", "gujaratiPronunciation": "એક્સેપ્ટ", "hindiPronunciation": "एक्सेप्ट", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Recent", "gujaratiPronunciation": "રીસન્ટ", "hindiPronunciation": "रीसेंट", "gujaratiMeaning": "તાજેતરનું", "hindiMeaning": "हाल का" },
+        { "word": "Resend", "gujaratiPronunciation": "રિસૅન્ડ", "hindiPronunciation": "रिसेंड", "gujaratiMeaning": "ફરીથી મોકલવું", "hindiMeaning": "फिर से भेजना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She resented being treated like a child.",
+          "gujaratiTranslation": "તેણીને બાળકની જેમ વ્યવહાર કરવામાં આવતા નારાજ થઈ.",
+          "hindiTranslation": "उसे एक बच्चे की तरह व्यवहार किए जाने पर नाराज़गी हुई।",
+          "gujaratiPronunciation": "શી રિસેન્ટેડ બીઇંગ ટ્રીટેડ લાઇક અ ચાઇલ્ડ.",
+          "hindiPronunciation": "शी रिसेंटेड बीइंग ट्रीटेड लाइक अ चाइल्ड।"
+        }
+      ]
+    }
+  ]
+}

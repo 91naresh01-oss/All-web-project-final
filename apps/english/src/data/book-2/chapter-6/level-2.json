@@ -1,0 +1,77 @@
+
+{
+  "id": "level-2",
+  "title": "Common Places 2",
+  "words": [
+    {
+      "word": "Market",
+      "gujaratiPronunciation": "માર્કેટ",
+      "hindiPronunciation": "मार्केट",
+      "gujaratiMeaning": "બજાર",
+      "hindiMeaning": "बाज़ार",
+      "exampleSentences": [
+        {
+          "sentence": "The market is crowded on Sundays.",
+          "gujaratiTranslation": "રવિવારે બજારમાં ભીડ હોય છે.",
+          "hindiTranslation": "रविवार को बाजार में भीड़ होती है।"
+        }
+      ]
+    },
+    {
+      "word": "Temple",
+      "gujaratiPronunciation": "ટેમ્પલ",
+      "hindiPronunciation": "टेम्पल",
+      "gujaratiMeaning": "મંદિર",
+      "hindiMeaning": "मंदिर",
+      "exampleSentences": [
+        {
+          "sentence": "We go to the temple to pray.",
+          "gujaratiTranslation": "અમે પ્રાર્થના કરવા મંદિરમાં જઈએ છીએ.",
+          "hindiTranslation": "हम प्रार्थना करने के लिए मंदिर जाते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Hospital",
+      "gujaratiPronunciation": "હોસ્પિટલ",
+      "hindiPronunciation": "हॉस्पिटल",
+      "gujaratiMeaning": "દવાખાનું",
+      "hindiMeaning": "अस्पताल",
+      "exampleSentences": [
+        {
+          "sentence": "He was taken to the hospital after the accident.",
+          "gujaratiTranslation": "અકસ્માત બાદ તેને દવાખાને લઈ જવામાં આવ્યો.",
+          "hindiTranslation": "दुर्घटना के बाद उसे अस्पताल ले जाया गया।"
+        }
+      ]
+    },
+    {
+      "word": "Station",
+      "gujaratiPronunciation": "સ્ટેશન",
+      "hindiPronunciation": "स्टेशन",
+      "gujaratiMeaning": "સ્ટેશન",
+      "hindiMeaning": "स्टेशन",
+      "exampleSentences": [
+        {
+          "sentence": "The train will arrive at the station soon.",
+          "gujaratiTranslation": "ટ્રેન જલદીથી સ્ટેશન પર પહોંચશે.",
+          "hindiTranslation": "ट्रेन जल्द ही स्टेशन पर पहुंचेगी।"
+        }
+      ]
+    },
+    {
+      "word": "Office",
+      "gujaratiPronunciation": "ઓફિસ",
+      "hindiPronunciation": "ऑफिस",
+      "gujaratiMeaning": "કાર્યાલય",
+      "hindiMeaning": "कार्यालय",
+      "exampleSentences": [
+        {
+          "sentence": "My father works in an office.",
+          "gujaratiTranslation": "મારા પિતા એક કાર્યાલયમાં કામ કરે છે.",
+          "hindiTranslation": "मेरे पिता एक कार्यालय में काम करते हैं।"
+        }
+      ]
+    }
+  ]
+}

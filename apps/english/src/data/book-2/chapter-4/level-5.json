@@ -1,0 +1,77 @@
+
+{
+  "id": "level-5",
+  "title": "Common Verbs 4",
+  "words": [
+    {
+      "word": "Go",
+      "gujaratiPronunciation": "ગો",
+      "hindiPronunciation": "गो",
+      "gujaratiMeaning": "જવું",
+      "hindiMeaning": "जाना",
+      "exampleSentences": [
+        {
+          "sentence": "I want to go home.",
+          "gujaratiTranslation": "મારે ઘરે જવું છે.",
+          "hindiTranslation": "मुझे घर जाना है।"
+        }
+      ]
+    },
+    {
+      "word": "Come",
+      "gujaratiPronunciation": "કમ",
+      "hindiPronunciation": "कम",
+      "gujaratiMeaning": "આવવું",
+      "hindiMeaning": "आना",
+      "exampleSentences": [
+        {
+          "sentence": "Please come here.",
+          "gujaratiTranslation": "કૃપા કરીને અહીં આવો.",
+          "hindiTranslation": "कृपया यहाँ आओ।"
+        }
+      ]
+    },
+    {
+      "word": "Leave",
+      "gujaratiPronunciation": "લીવ",
+      "hindiPronunciation": "लीव",
+      "gujaratiMeaning": "છોડવું",
+      "hindiMeaning": "छोड़ना",
+      "exampleSentences": [
+        {
+          "sentence": "The train will leave soon.",
+          "gujaratiTranslation": "ટ્રેન જલ્દી જ ઉપડશે.",
+          "hindiTranslation": "ट्रेन जल्द ही रवाना होगी।"
+        }
+      ]
+    },
+    {
+      "word": "Bring",
+      "gujaratiPronunciation": "બ્રિંગ",
+      "hindiPronunciation": "ब्रिंग",
+      "gujaratiMeaning": "લાવવું",
+      "hindiMeaning": "लाना",
+      "exampleSentences": [
+        {
+          "sentence": "Bring me a glass of water.",
+          "gujaratiTranslation": "મારા માટે એક ગ્લાસ પાણી લાવો.",
+          "hindiTranslation": "मेरे लिए एक गिलास पानी लाओ।"
+        }
+      ]
+    },
+    {
+      "word": "Carry",
+      "gujaratiPronunciation": "કેરી",
+      "hindiPronunciation": "कैरी",
+      "gujaratiMeaning": "લઈ જવું",
+      "hindiMeaning": "ले जाना",
+      "exampleSentences": [
+        {
+          "sentence": "He can carry the heavy box.",
+          "gujaratiTranslation": "તે ભારે બોક્સ ઉપાડી શકે છે.",
+          "hindiTranslation": "वह भारी बक्सा उठा सकता है।"
+        }
+      ]
+    }
+  ]
+}

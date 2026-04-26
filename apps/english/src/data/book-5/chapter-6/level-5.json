@@ -1,0 +1,428 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5: Imbibe | Sublimate | Archive | Internalize | Foresake",
+  "words": [
+    {
+      "word": "Imbibe",
+      "gujaratiPronunciation": "ઇમ્બાઇબ",
+      "hindiPronunciation": "इम्बाइब",
+      "gujaratiMeaning": "આત્મસાત કરવું, શોષી લેવું",
+      "hindiMeaning": "आत्मसात करना, सोखना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Imbibe",
+          "gujaratiPronunciation": "ઇમ્બાઇબ",
+          "hindiPronunciation": "इम्बाइब",
+          "gujaratiMeaning": "આત્મસાત કરવું",
+          "hindiMeaning": "आत्मसात करना"
+        },
+        "V2": {
+          "word": "Imbibed",
+          "gujaratiPronunciation": "ઇમ્બાઇબ્ડ",
+          "hindiPronunciation": "इम्बाइब्ड",
+          "gujaratiMeaning": "આત્મસાત કર્યું",
+          "hindiMeaning": "आत्मसात किया"
+        },
+        "V3": {
+          "word": "Imbibed",
+          "gujaratiPronunciation": "ઇમ્બાઇબ્ડ",
+          "hindiPronunciation": "इम्बाइब्ड",
+          "gujaratiMeaning": "આત્મસાત કરેલું",
+          "hindiMeaning": "आत्मसात किया हुआ"
+        },
+        "V4": {
+          "word": "Imbibing",
+          "gujaratiPronunciation": "ઇમ્બાઇબિંગ",
+          "hindiPronunciation": "इम्बाइबिंग",
+          "gujaratiMeaning": "આત્મસાત કરી રહ્યું છે",
+          "hindiMeaning": "आत्मसात कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Absorb",
+          "gujaratiPronunciation": "એબ્સોર્બ",
+          "hindiPronunciation": "एब्सॉर्ब",
+          "gujaratiMeaning": "શોષી લેવું",
+          "hindiMeaning": "सोखना"
+        },
+        {
+          "word": "Assimilate",
+          "gujaratiPronunciation": "એસિમિલેટ",
+          "hindiPronunciation": "एसिमिलेट",
+          "gujaratiMeaning": "આત્મસાત કરવું",
+          "hindiMeaning": "आत्मसात करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Exude",
+          "gujaratiPronunciation": "એક્ઝ્યુડ",
+          "hindiPronunciation": "एक्स्यूड",
+          "gujaratiMeaning": "બહાર કાઢવું",
+          "hindiMeaning": "बाहर निकालना"
+        },
+        {
+          "word": "Reject",
+          "gujaratiPronunciation": "રિજેક્ટ",
+          "hindiPronunciation": "रिजेक्ट",
+          "gujaratiMeaning": "અસ્વીકાર કરવો",
+          "hindiMeaning": "अस्वीकार करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Imbue",
+          "gujaratiPronunciation": "ઇમ્બ્યુ",
+          "hindiPronunciation": "इम्ब्यू",
+          "gujaratiMeaning": "રંગવું, ભરી દેવું",
+          "hindiMeaning": "रंगना, भर देना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She imbibed the local culture during her stay.",
+          "gujaratiTranslation": "તેણીએ તેના રોકાણ દરમિયાન સ્થાનિક સંસ્કૃતિને આત્મસાત કરી.",
+          "hindiTranslation": "उसने अपने प्रवास के दौरान स्थानीय संस्कृति को आत्मसात कर लिया।",
+          "gujaratiPronunciation": "શી ઇમ્બાઇબ્ડ ધ લોકલ કલ્ચર ડ્યુરિંગ હર સ્ટે.",
+          "hindiPronunciation": "शी इम्बाइब्ड द लोकल कल्चर ड्यूरिंग हर स्टे।"
+        }
+      ]
+    },
+    {
+      "word": "Sublimate",
+      "gujaratiPronunciation": "સબ્લિમેટ",
+      "hindiPronunciation": "सब्लिमेट",
+      "gujaratiMeaning": "ઉદાત્ત બનાવવું",
+      "hindiMeaning": "उदात्त बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Sublimate",
+          "gujaratiPronunciation": "સબ્લિમેટ",
+          "hindiPronunciation": "सब्लिमेट",
+          "gujaratiMeaning": "ઉદાત્ત બનાવવું",
+          "hindiMeaning": "उदात्त बनाना"
+        },
+        "V2": {
+          "word": "Sublimated",
+          "gujaratiPronunciation": "સબ્લિમેટેડ",
+          "hindiPronunciation": "सब्लिमेटेड",
+          "gujaratiMeaning": "ઉદાત્ત બનાવ્યું",
+          "hindiMeaning": "उदात्त बनाया"
+        },
+        "V3": {
+          "word": "Sublimated",
+          "gujaratiPronunciation": "સબ્લિમેટેડ",
+          "hindiPronunciation": "सब्लिमेटेड",
+          "gujaratiMeaning": "ઉદાત્ત બનાવેલું",
+          "hindiMeaning": "उदात्त बनाया हुआ"
+        },
+        "V4": {
+          "word": "Sublimating",
+          "gujaratiPronunciation": "સબ્લિમેટિંગ",
+          "hindiPronunciation": "सब्लिमेटिंग",
+          "gujaratiMeaning": "ઉદાત્ત બનાવી રહ્યું છે",
+          "hindiMeaning": "उदात्त बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Refine",
+          "gujaratiPronunciation": "રિફાઇન",
+          "hindiPronunciation": "रिफाइन",
+          "gujaratiMeaning": "શુદ્ધ કરવું",
+          "hindiMeaning": "परिष्कृत करना"
+        },
+        {
+          "word": "Channel",
+          "gujaratiPronunciation": "ચેનલ",
+          "hindiPronunciation": "चैनल",
+          "gujaratiMeaning": "યોગ્ય માર્ગે વાળવું",
+          "hindiMeaning": "सही दिशा देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Indulge",
+          "gujaratiPronunciation": "ઇન્ડલ્જ",
+          "hindiPronunciation": "इंडल्ज",
+          "gujaratiMeaning": "લિપ્ત થવું",
+          "hindiMeaning": "लिप्त होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sublime",
+          "gujaratiPronunciation": "સબ્લાઇમ",
+          "hindiPronunciation": "सब्लाइम",
+          "gujaratiMeaning": "ભવ્ય, ઉદાત્ત",
+          "hindiMeaning": "भव्य, उदात्त"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He sublimated his aggressive impulses into art.",
+          "gujaratiTranslation": "તેણે તેની આક્રમક વૃત્તિઓને કળામાં ઉદાત્ત બનાવી.",
+          "hindiTranslation": "उसने अपनी आक्रामक प्रवृत्तियों को कला में उदात्त किया।",
+          "gujaratiPronunciation": "હી સબ્લિમેટેડ હિઝ એગ્રેસિવ ઇમ્પલ્સિસ ઇન્ટુ આર્ટ.",
+          "hindiPronunciation": "ही सब्लिमेटेड हिज़ एग्रेसिव इम्पल्सेज़ इनटू आर्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Archive",
+      "gujaratiPronunciation": "આર્કાઇવ",
+      "hindiPronunciation": "आर्काइव",
+      "gujaratiMeaning": "સંગ્રહ કરવો",
+      "hindiMeaning": "संग्रहीत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Archive",
+          "gujaratiPronunciation": "આર્કાઇવ",
+          "hindiPronunciation": "आर्काइव",
+          "gujaratiMeaning": "સંગ્રહ કરવો",
+          "hindiMeaning": "संग्रहीत करना"
+        },
+        "V2": {
+          "word": "Archived",
+          "gujaratiPronunciation": "આર્કાઇવ્ડ",
+          "hindiPronunciation": "आर्काइव्ड",
+          "gujaratiMeaning": "સંગ્રહ કર્યો",
+          "hindiMeaning": "संग्रहीत किया"
+        },
+        "V3": {
+          "word": "Archived",
+          "gujaratiPronunciation": "આર્કાઇવ્ડ",
+          "hindiPronunciation": "आर्काइव्ड",
+          "gujaratiMeaning": "સંગ્રહ કરેલો",
+          "hindiMeaning": "संग्रहीत"
+        },
+        "V4": {
+          "word": "Archiving",
+          "gujaratiPronunciation": "આર્કાઇવિંગ",
+          "hindiPronunciation": "आर्काइविंग",
+          "gujaratiMeaning": "સંગ્રહ કરી રહ્યું છે",
+          "hindiMeaning": "संग्रहीत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Store",
+          "gujaratiPronunciation": "સ્ટોર",
+          "hindiPronunciation": "स्टोर",
+          "gujaratiMeaning": "સંગ્રહ કરવો",
+          "hindiMeaning": "संग्रहित करना"
+        },
+        {
+          "word": "File",
+          "gujaratiPronunciation": "ફાઇલ",
+          "hindiPronunciation": "फाइल",
+          "gujaratiMeaning": "ફાઇલમાં રાખવું",
+          "hindiMeaning": "फाइल करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Delete",
+          "gujaratiPronunciation": "ડિલીટ",
+          "hindiPronunciation": "डिलीट",
+          "gujaratiMeaning": "કાઢી નાખવું",
+          "hindiMeaning": "हटाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Achieve",
+          "gujaratiPronunciation": "અચીવ",
+          "hindiPronunciation": "अचीव",
+          "gujaratiMeaning": "પ્રાપ્ત કરવું",
+          "hindiMeaning": "हासिल करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The old emails were archived to save space.",
+          "gujaratiTranslation": "જગ્યા બચાવવા માટે જૂના ઇમેઇલ્સનો સંગ્રહ કરવામાં આવ્યો હતો.",
+          "hindiTranslation": "जगह बचाने के लिए पुराने ईमेल संग्रहीत किए गए थे।",
+          "gujaratiPronunciation": "ધ ઓલ્ડ ઇમેઇલ્સ વર આર્કાઇવ્ડ ટુ સેવ સ્પેસ.",
+          "hindiPronunciation": "द ओल्ड ईमेल्स वर आर्काइव्ड टू सेव स्पेस।"
+        }
+      ]
+    },
+    {
+      "word": "Internalize",
+      "gujaratiPronunciation": "ઇન્ટર્નલાઇઝ",
+      "hindiPronunciation": "इंटर्नलाइज़",
+      "gujaratiMeaning": "આત્મસાત કરવું",
+      "hindiMeaning": "आत्मसात करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Internalize",
+          "gujaratiPronunciation": "ઇન્ટર્નલાઇઝ",
+          "hindiPronunciation": "इंटर्नलाइज़",
+          "gujaratiMeaning": "આત્મસાત કરવું",
+          "hindiMeaning": "आत्मसात करना"
+        },
+        "V2": {
+          "word": "Internalized",
+          "gujaratiPronunciation": "ઇન્ટર્નલાઇઝ્ડ",
+          "hindiPronunciation": "इंटर्नलाइज़्ड",
+          "gujaratiMeaning": "આત્મસાત કર્યું",
+          "hindiMeaning": "आत्मसात किया"
+        },
+        "V3": {
+          "word": "Internalized",
+          "gujaratiPronunciation": "ઇન્ટર્નલાઇઝ્ડ",
+          "hindiPronunciation": "इंटर्नलाइज़्ड",
+          "gujaratiMeaning": "આત્મસાત કરેલું",
+          "hindiMeaning": "आत्मसात किया हुआ"
+        },
+        "V4": {
+          "word": "Internalizing",
+          "gujaratiPronunciation": "ઇન્ટર્નલાઇઝિંગ",
+          "hindiPronunciation": "इंटर्नलाइजिंग",
+          "gujaratiMeaning": "આત્મસાત કરી રહ્યું છે",
+          "hindiMeaning": "आत्मसात कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Absorb",
+          "gujaratiPronunciation": "એબ્સોર્બ",
+          "hindiPronunciation": "एब्सॉर्ब",
+          "gujaratiMeaning": "શોષી લેવું",
+          "hindiMeaning": "अवशोषित करना"
+        },
+        {
+          "word": "Assimilate",
+          "gujaratiPronunciation": "એસિમિલેટ",
+          "hindiPronunciation": "एसिमिलेट",
+          "gujaratiMeaning": "આત્મસાત કરવું",
+          "hindiMeaning": "आत्मसात करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Externalize",
+          "gujaratiPronunciation": "એક્સટર્નલાઇઝ",
+          "hindiPronunciation": "एक्सटर्नलाइज़",
+          "gujaratiMeaning": "બાહ્ય બનાવવું",
+          "hindiMeaning": "बाहरी बनाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Infernal",
+          "gujaratiPronunciation": "ઇન્ફર્નલ",
+          "hindiPronunciation": "इन्फर्नल",
+          "gujaratiMeaning": "નાર્કીય",
+          "hindiMeaning": "नारकीय"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It takes time to internalize new information.",
+          "gujaratiTranslation": "નવી માહિતીને આત્મસાત કરવામાં સમય લાગે છે.",
+          "hindiTranslation": "नई जानकारी को आत्मसात करने में समय लगता है।",
+          "gujaratiPronunciation": "ઇટ ટેક્સ ટાઇમ ટુ ઇન્ટર્નલાઇઝ ન્યુ ઇન્ફર્મેશન.",
+          "hindiPronunciation": "इट टेक्स टाइम टू इंटर्नलाइज़ न्यू इंफॉर्मेशन।"
+        }
+      ]
+    },
+    {
+      "word": "Forsake",
+      "gujaratiPronunciation": "ફોરસેક",
+      "hindiPronunciation": "फोरसेक",
+      "gujaratiMeaning": "ત્યાગ કરવો",
+      "hindiMeaning": "त्याग देना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Forsake",
+          "gujaratiPronunciation": "ફોરસેક",
+          "hindiPronunciation": "फोरसेक",
+          "gujaratiMeaning": "ત્યાગ કરવો",
+          "hindiMeaning": "त्याग देना"
+        },
+        "V2": {
+          "word": "Forsook",
+          "gujaratiPronunciation": "ફોરસૂક",
+          "hindiPronunciation": "फोरसूक",
+          "gujaratiMeaning": "ત્યાગ કર્યો",
+          "hindiMeaning": "त्याग दिया"
+        },
+        "V3": {
+          "word": "Forsaken",
+          "gujaratiPronunciation": "ફોરસેકન",
+          "hindiPronunciation": "फोरसेकन",
+          "gujaratiMeaning": "ત્યાગ કરેલો",
+          "hindiMeaning": "त्यागा हुआ"
+        },
+        "V4": {
+          "word": "Forsaking",
+          "gujaratiPronunciation": "ફોરસેકિંગ",
+          "hindiPronunciation": "फोरसेकिंग",
+          "gujaratiMeaning": "ત્યાગ કરી રહ્યું છે",
+          "hindiMeaning": "त्याग रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Abandon",
+          "gujaratiPronunciation": "અબૅન્ડન",
+          "hindiPronunciation": "अबैंडन",
+          "gujaratiMeaning": "ત્યાગ કરવો",
+          "hindiMeaning": "त्याग देना"
+        },
+        {
+          "word": "Desert",
+          "gujaratiPronunciation": "ડિઝર્ટ",
+          "hindiPronunciation": "डिज़र्ट",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Keep",
+          "gujaratiPronunciation": "કીપ",
+          "hindiPronunciation": "कीप",
+          "gujaratiMeaning": "રાખવું",
+          "hindiMeaning": "रखना"
+        },
+        {
+          "word": "Hold",
+          "gujaratiPronunciation": "હોલ્ડ",
+          "hindiPronunciation": "होल्ड",
+          "gujaratiMeaning": "પકડી રાખવું",
+          "hindiMeaning": "पकड़े रहना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "For the sake of",
+          "gujaratiPronunciation": "ફોર ધ સેક ઓફ",
+          "hindiPronunciation": "फॉर द सेक ऑफ़",
+          "gujaratiMeaning": "ના ખાતર",
+          "hindiMeaning": "के खातिर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He promised never to forsake his friends.",
+          "gujaratiTranslation": "તેણે તેના મિત્રોનો ક્યારેય ત્યાગ ન કરવાનું વચન આપ્યું.",
+          "hindiTranslation": "उसने अपने दोस्तों को कभी न छोड़ने का वादा किया।",
+          "gujaratiPronunciation": "હી પ્રોમિસ્ડ નેવર ટુ ફોરસેક હિઝ ફ્રેન્ડ્સ.",
+          "hindiPronunciation": "ही प्रॉमिस्ड नेवर टू फोरसेक हिज़ फ्रेंड्स।"
+        }
+      ]
+    }
+  ]
+}
+
+    

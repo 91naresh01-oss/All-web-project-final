@@ -1,0 +1,46 @@
+{
+  "id": "level-3",
+  "title": "Crops 3",
+  "words": [
+    {
+      "word": "Soybean",
+      "icon": "🫘",
+      "gujaratiPronunciation": "સોયાબીન",
+      "hindiPronunciation": "सोयाबीन",
+      "gujaratiMeaning": "સોયાબીન",
+      "hindiMeaning": "सोयाबीन"
+    },
+    {
+      "word": "Cotton",
+      "icon": "☁️",
+      "gujaratiPronunciation": "કોટન",
+      "hindiPronunciation": "कॉटन",
+      "gujaratiMeaning": "કપાસ",
+      "hindiMeaning": "कपास"
+    },
+    {
+      "word": "Sugarcane",
+      "icon": "🌾",
+      "gujaratiPronunciation": "સુગરકેન",
+      "hindiPronunciation": "शुगरकेन",
+      "gujaratiMeaning": "શેરડી",
+      "hindiMeaning": "गन्ना"
+    },
+    {
+      "word": "Barleygrass",
+      "icon": "🌿",
+      "gujaratiPronunciation": "બાર્લીગ્રાસ",
+      "hindiPronunciation": "बार्लीग्रास",
+      "gujaratiMeaning": "જવનું ઘાસ",
+      "hindiMeaning": "जौ घास"
+    },
+    {
+      "word": "Sunflower",
+      "icon": "🌻",
+      "gujaratiPronunciation": "સનફ્લાવર",
+      "hindiPronunciation": "सनफ्लावर",
+      "gujaratiMeaning": "સૂર્યમુખી",
+      "hindiMeaning": "सूरजमुखी"
+    }
+  ]
+}

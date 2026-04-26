@@ -1,0 +1,173 @@
+{
+  "id": "level-1",
+  "title": "Level 1: Basic Senses",
+  "words": [
+    {
+      "word": "Hear",
+      "gujaratiPronunciation": "હિયર",
+      "hindiPronunciation": "हियर",
+      "gujaratiMeaning": "સાંભળવું",
+      "hindiMeaning": "सुनना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Hear", "gujaratiPronunciation": "હિયર", "hindiPronunciation": "हियर", "gujaratiMeaning": "સાંભળવું", "hindiMeaning": "सुनना" },
+        "V2 (Past)": { "word": "Heard", "gujaratiPronunciation": "હર્ડ", "hindiPronunciation": "हर्ड", "gujaratiMeaning": "સાંભળ્યું", "hindiMeaning": "सुना" },
+        "V3 (Past Participle)": { "word": "Heard", "gujaratiPronunciation": "હર્ડ", "hindiPronunciation": "हर्ड", "gujaratiMeaning": "સાંભળેલું", "hindiMeaning": "सुना हुआ" },
+        "V4 (Present Participle)": { "word": "Hearing", "gujaratiPronunciation": "હિયરિંગ", "hindiPronunciation": "हियरिंग", "gujaratiMeaning": "સાંભળી રહ્યું છે", "hindiMeaning": "सुन रहा है" }
+      },
+      "synonyms": [
+        { "word": "Listen", "gujaratiPronunciation": "લિસન", "hindiPronunciation": "लिसन", "gujaratiMeaning": "ધ્યાનથી સાંભળવું", "hindiMeaning": "सुनना" },
+        { "word": "Perceive", "gujaratiPronunciation": "પર્સીવ", "hindiPronunciation": "पर्सिव", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "समझना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Be deaf", "gujaratiPronunciation": "બી ડેફ", "hindiPronunciation": "बी डेफ", "gujaratiMeaning": "બહેરું હોવું", "hindiMeaning": "बहरा होना" }
+      ],
+      "confusingWords": [
+        { "word": "Here", "gujaratiPronunciation": "હિયર", "hindiPronunciation": "हियर", "gujaratiMeaning": "અહીં", "hindiMeaning": "यहाँ" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you hear the music?",
+          "gujaratiTranslation": "શું તમે સંગીત સાંભળી શકો છો?",
+          "hindiTranslation": "क्या आप संगीत सुन सकते हैं?",
+          "gujaratiPronunciation": "કેન યુ હિયર ધ મ્યુઝિક?",
+          "hindiPronunciation": "कैन यू हियर द म्यूज़िक?"
+        }
+      ]
+    },
+    {
+      "word": "Taste",
+      "gujaratiPronunciation": "ટેસ્ટ",
+      "hindiPronunciation": "टेस्ट",
+      "gujaratiMeaning": "સ્વાદ લેવો",
+      "hindiMeaning": "स्वाद लेना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Taste", "gujaratiPronunciation": "ટેસ્ટ", "hindiPronunciation": "टेस्ट", "gujaratiMeaning": "સ્વાદ લેવો", "hindiMeaning": "स्वाद लेना" },
+        "V2 (Past)": { "word": "Tasted", "gujaratiPronunciation": "ટેસ્ટેડ", "hindiPronunciation": "टेस्टेड", "gujaratiMeaning": "સ્વાદ લીધો", "hindiMeaning": "स्वाद लिया" },
+        "V3 (Past Participle)": { "word": "Tasted", "gujaratiPronunciation": "ટેસ્ટેડ", "hindiPronunciation": "टेस्टेड", "gujaratiMeaning": "સ્વાદ લીધેલો", "hindiMeaning": "चखा हुआ" },
+        "V4 (Present Participle)": { "word": "Tasting", "gujaratiPronunciation": "ટેસ્ટિંગ", "hindiPronunciation": "टेस्टिंग", "gujaratiMeaning": "સ્વાદ લઈ રહ્યું છે", "hindiMeaning": "चख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Savor", "gujaratiPronunciation": "સેવર", "hindiPronunciation": "सेवर", "gujaratiMeaning": "આનંદ માણવો", "hindiMeaning": "आनंद लेना" },
+        { "word": "Sample", "gujaratiPronunciation": "સેમ્પલ", "hindiPronunciation": "सैंपल", "gujaratiMeaning": "નમૂનો ચાખવો", "hindiMeaning": "नमूना लेना" }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        { "word": "Test", "gujaratiPronunciation": "ટેસ્ટ", "hindiPronunciation": "टेस्ट", "gujaratiMeaning": "પરીક્ષણ", "hindiMeaning": "परीक्षा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "This soup tastes delicious.",
+          "gujaratiTranslation": "આ સૂપ સ્વાદિષ્ટ લાગે છે.",
+          "hindiTranslation": "यह सूप स्वादिष्ट लगता है।",
+          "gujaratiPronunciation": "ધિસ સૂપ ટેસ્ટ્સ ડિલિશિયસ.",
+          "hindiPronunciation": "दिस सूप टेस्ट्स डिलीशियस।"
+        }
+      ]
+    },
+    {
+      "word": "Sense",
+      "gujaratiPronunciation": "સેન્સ",
+      "hindiPronunciation": "सेंस",
+      "gujaratiMeaning": "અનુભવવું, સમજવું",
+      "hindiMeaning": "अनुभव करना, समझना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Sense", "gujaratiPronunciation": "સેન્સ", "hindiPronunciation": "सेंस", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "अनुभव करना" },
+        "V2 (Past)": { "word": "Sensed", "gujaratiPronunciation": "સેન્સ્ડ", "hindiPronunciation": "सेंस्ड", "gujaratiMeaning": "અનુભવ્યું", "hindiMeaning": "अनुभव किया" },
+        "V3 (Past Participle)": { "word": "Sensed", "gujaratiPronunciation": "સેન્સ્ડ", "hindiPronunciation": "सेंस्ड", "gujaratiMeaning": "અનુભવેલું", "hindiMeaning": "अनुभव किया हुआ" },
+        "V4 (Present Participle)": { "word": "Sensing", "gujaratiPronunciation": "સેન્સિંગ", "hindiPronunciation": "सेंसिंग", "gujaratiMeaning": "અનુભવી રહ્યું છે", "hindiMeaning": "अनुभव कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Feel", "gujaratiPronunciation": "ફીલ", "hindiPronunciation": "फील", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" },
+        { "word": "Perceive", "gujaratiPronunciation": "પર્સીવ", "hindiPronunciation": "पर्सिव", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "समझना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Miss", "gujaratiPronunciation": "મિસ", "hindiPronunciation": "मिस", "gujaratiMeaning": "ચૂકી જવું", "hindiMeaning": "चूक जाना" }
+      ],
+      "confusingWords": [
+        { "word": "Since", "gujaratiPronunciation": "સિન્સ", "hindiPronunciation": "सिंस", "gujaratiMeaning": "જ્યારથી", "hindiMeaning": "जब से" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I sense some tension in the room.",
+          "gujaratiTranslation": "મને રૂમમાં થોડો તણાવ અનુભવાય છે.",
+          "hindiTranslation": "मुझे कमरे में कुछ तनाव महसूस हो रहा है।",
+          "gujaratiPronunciation": "આઇ સેન્સ સમ ટેન્શન ઇન ધ રૂમ.",
+          "hindiPronunciation": "आई सेंस सम टेंशन इन द रूम।"
+        }
+      ]
+    },
+    {
+      "word": "Observe",
+      "gujaratiPronunciation": "ઓબ્ઝર્વ",
+      "hindiPronunciation": "ऑब्ज़र्व",
+      "gujaratiMeaning": "નિરીક્ષણ કરવું, ધ્યાનથી જોવું",
+      "hindiMeaning": "अवलोकन करना, ध्यान से देखना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Observe", "gujaratiPronunciation": "ઓબ્ઝર્વ", "hindiPronunciation": "ऑब्ज़र्व", "gujaratiMeaning": "નિરીક્ષણ કરવું", "hindiMeaning": "अवलोकन करना" },
+        "V2 (Past)": { "word": "Observed", "gujaratiPronunciation": "ઓબ્ઝર્વ્ડ", "hindiPronunciation": "ऑब्ज़र्व्ड", "gujaratiMeaning": "નિરીક્ષણ કર્યું", "hindiMeaning": "अवलोकन किया" },
+        "V3 (Past Participle)": { "word": "Observed", "gujaratiPronunciation": "ઓબ્ઝર્વ્ડ", "hindiPronunciation": "ऑब्ज़र्व्ड", "gujaratiMeaning": "નિરીક્ષણ કરેલું", "hindiMeaning": "अवलोकित" },
+        "V4 (Present Participle)": { "word": "Observing", "gujaratiPronunciation": "ઓબ્ઝર્વિંગ", "hindiPronunciation": "ऑब्ज़र्विंग", "gujaratiMeaning": "નિરીક્ષણ કરી રહ્યું છે", "hindiMeaning": "अवलोकन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Watch", "gujaratiPronunciation": "વોચ", "hindiPronunciation": "वॉच", "gujaratiMeaning": "જોવું", "hindiMeaning": "देखना" },
+        { "word": "Notice", "gujaratiPronunciation": "નોટિસ", "hindiPronunciation": "नोटिस", "gujaratiMeaning": "ધ્યાન આપવું", "hindiMeaning": "ध्यान देना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Overlook", "gujaratiPronunciation": "ઓવરલૂક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "ધ્યાન ન આપવું", "hindiMeaning": "नजरअंदाज करना" }
+      ],
+      "confusingWords": [
+        { "word": "Absorb", "gujaratiPronunciation": "એબ્સોર્બ", "hindiPronunciation": "एब्सॉर्ब", "gujaratiMeaning": "શોષી લેવું", "hindiMeaning": "सोख लेना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Scientists observe the behavior of animals.",
+          "gujaratiTranslation": "વૈજ્ઞાનિકો પ્રાણીઓના વર્તનનું નિરીક્ષણ કરે છે.",
+          "hindiTranslation": "वैज्ञानिक जानवरों के व्यवहार का अवलोकन करते हैं।",
+          "gujaratiPronunciation": "સાયન્ટિસ્ટ્સ ઓબ્ઝર્વ ધ બિહેવિયર ઓફ એનિમલ્સ.",
+          "hindiPronunciation": "साइंटिस्ट्स ऑब्ज़र्व द बिहेवियर ऑफ एनिमल्स।"
+        }
+      ]
+    },
+    {
+      "word": "Gaze",
+      "gujaratiPronunciation": "ગેઝ",
+      "hindiPronunciation": "गेज़",
+      "gujaratiMeaning": "તાકીને જોવું",
+      "hindiMeaning": "टकटकी लगाकर देखना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Gaze", "gujaratiPronunciation": "ગેઝ", "hindiPronunciation": "गेज़", "gujaratiMeaning": "તાકીને જોવું", "hindiMeaning": "टकटकी लगाकर देखना" },
+        "V2 (Past)": { "word": "Gazed", "gujaratiPronunciation": "ગેઝ્ડ", "hindiPronunciation": "गेज़्ड", "gujaratiMeaning": "તાકીને જોયું", "hindiMeaning": "टकटकी लगाकर देखा" },
+        "V3 (Past Participle)": { "word": "Gazed", "gujaratiPronunciation": "ગેઝ્ડ", "hindiPronunciation": "गेज़्ड", "gujaratiMeaning": "તાકીને જોયેલું", "hindiMeaning": "टकटकी लगाकर देखा हुआ" },
+        "V4 (Present Participle)": { "word": "Gazing", "gujaratiPronunciation": "ગેઝિંગ", "hindiPronunciation": "गेज़िंग", "gujaratiMeaning": "તાકીને જોઈ રહ્યું છે", "hindiMeaning": "टकटकी लगाकर देख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Stare", "gujaratiPronunciation": "સ્ટેર", "hindiPronunciation": "स्टेयर", "gujaratiMeaning": "તાકીને જોવું", "hindiMeaning": "घूरना" },
+        { "word": "Look", "gujaratiPronunciation": "લુક", "hindiPronunciation": "लुक", "gujaratiMeaning": "જોવું", "hindiMeaning": "देखना" }
+      ],
+      "antonyms": [
+        { "word": "Glance", "gujaratiPronunciation": "ગ્લાન્સ", "hindiPronunciation": "ग्लान्स", "gujaratiMeaning": "નજર નાખવી", "hindiMeaning": "नज़र डालना" },
+        { "word": "Blink", "gujaratiPronunciation": "બ્લિંક", "hindiPronunciation": "ब्लिंक", "gujaratiMeaning": "પલક મારવી", "hindiMeaning": "पलक झपकाना" }
+      ],
+      "confusingWords": [
+        { "word": "Glaze", "gujaratiPronunciation": "ગ્લેઝ", "hindiPronunciation": "ग्लेज़", "gujaratiMeaning": "ચમક", "hindiMeaning": "चमक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He would gaze at the stars for hours.",
+          "gujaratiTranslation": "તે કલાકો સુધી તારાઓને તાકીને જોતો.",
+          "hindiTranslation": "वह घंटों तक तारों को देखता रहता था।",
+          "gujaratiPronunciation": "હી વુડ ગેઝ એટ ધ સ્ટાર્સ ફોર અવર્સ.",
+          "hindiPronunciation": "ही वुड गेज़ ऐट द स्टार्स फॉर आवर्स।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "level-1",
+    "title": "Common Vehicles",
+    "words": [
+        { "word": "Bus", "icon": "🚌", "gujaratiMeaning": "બસ", "hindiMeaning": "बस", "gujaratiPronunciation": "બસ", "hindiPronunciation": "बस" },
+        { "word": "Car", "icon": "🚗", "gujaratiMeaning": "કાર", "hindiMeaning": "गाड़ी", "gujaratiPronunciation": "કાર", "hindiPronunciation": "कार" },
+        { "word": "Bike", "icon": "🚲", "gujaratiMeaning": "બાઇક", "hindiMeaning": "बाइक", "gujaratiPronunciation": "બાઇક", "hindiPronunciation": "बाइक" },
+        { "word": "Train", "icon": "🚆", "gujaratiMeaning": "ટ્રેન", "hindiMeaning": "रेलगाड़ी", "gujaratiPronunciation": "ટ્રેન", "hindiPronunciation": "ट्रेन" },
+        { "word": "Ship", "icon": "🚢", "gujaratiMeaning": "જહાજ", "hindiMeaning": "जहाज", "gujaratiPronunciation": "શિપ", "hindiPronunciation": "शिप" }
+    ]
+}

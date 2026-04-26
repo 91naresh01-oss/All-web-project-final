@@ -1,0 +1,177 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Fumble",
+      "gujaratiPronunciation": "ફંબલ",
+      "hindiPronunciation": "फंबल",
+      "gujaratiMeaning": "ફાંફા મારવા",
+      "hindiMeaning": "टटोलना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Fumble", "gujaratiPronunciation": "ફંબલ", "hindiPronunciation": "फंबल", "gujaratiMeaning": "ફાંફા મારવા", "hindiMeaning": "टटोलना" },
+        "V2": { "word": "Fumbled", "gujaratiPronunciation": "ફંબલ્ડ", "hindiPronunciation": "फंबल्ड", "gujaratiMeaning": "ફાંફા માર્યા", "hindiMeaning": "टटोला" },
+        "V3": { "word": "Fumbled", "gujaratiPronunciation": "ફંબલ્ડ", "hindiPronunciation": "फंबल्ड", "gujaratiMeaning": "ફાંફા મારેલા", "hindiMeaning": "टटोला हुआ" },
+        "V4": { "word": "Fumbling", "gujaratiPronunciation": "ફંબલિંગ", "hindiPronunciation": "फंबलिंग", "gujaratiMeaning": "ફાંફા મારી રહ્યું છે", "hindiMeaning": "टटोल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Grope", "gujaratiPronunciation": "ગ્રોપ", "hindiPronunciation": "ग्रोप", "gujaratiMeaning": "અંધારામાં શોધવું", "hindiMeaning": "अंधेरे में टटोलना" },
+        { "word": "Stumble", "gujaratiPronunciation": "સ્ટંબલ", "hindiPronunciation": "स्टंबल", "gujaratiMeaning": "ઠોકર ખાવી", "hindiMeaning": "ठोकर खाना" }
+      ],
+      "antonyms": [
+        { "word": "Hold", "gujaratiPronunciation": "હોલ્ડ", "hindiPronunciation": "होल्ड", "gujaratiMeaning": "પકડવું", "hindiMeaning": "पकड़ना" },
+        { "word": "Succeed", "gujaratiPronunciation": "સક્સીડ", "hindiPronunciation": "सक्सीड", "gujaratiMeaning": "સફળ થવું", "hindiMeaning": "सफल होना" }
+      ],
+      "confusingWords": [
+        { "word": "Humble", "gujaratiPronunciation": "હંબલ", "hindiPronunciation": "हंबल", "gujaratiMeaning": "નમ્ર", "hindiMeaning": "विनम्र" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He fumbled for his keys in the dark.",
+          "gujaratiPronunciation": "હી ફંબલ્ડ ફોર હીઝ કીઝ ઇન ધ ડાર્ક.",
+          "hindiPronunciation": "ही फंबल्ड फॉर हिज कीज़ इन द डार्क।",
+          "gujaratiTranslation": "તેણે અંધારામાં તેની ચાવીઓ માટે ફાંફા માર્યા.",
+          "hindiTranslation": "उसने अँधेरे में अपनी चाबियाँ टटोलीं।"
+        }
+      ]
+    },
+    {
+      "word": "Palpate",
+      "gujaratiPronunciation": "પાલ્પેઇટ",
+      "hindiPronunciation": "पाल्पेट",
+      "gujaratiMeaning": "સ્પર્શ દ્વારા તપાસવું",
+      "hindiMeaning": "स्पर्श द्वारा जाँच करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Palpate", "gujaratiPronunciation": "પાલ્પેઇટ", "hindiPronunciation": "पाल्पेट", "gujaratiMeaning": "સ્પર્શ દ્વારા તપાસવું", "hindiMeaning": "स्पर्श द्वारा जाँच करना" },
+        "V2": { "word": "Palpated", "gujaratiPronunciation": "પાલ્પેટેડ", "hindiPronunciation": "पाल्पेटेड", "gujaratiMeaning": "સ્પર્શ દ્વારા તપાસ્યું", "hindiMeaning": "स्पर्श द्वारा जाँच की" },
+        "V3": { "word": "Palpated", "gujaratiPronunciation": "પાલ્પેટેડ", "hindiPronunciation": "पाल्पेटेड", "gujaratiMeaning": "સ્પર્શ દ્વારા તપાસેલું", "hindiMeaning": "स्पर्श द्वारा जाँचा हुआ" },
+        "V4": { "word": "Palpating", "gujaratiPronunciation": "પાલ્પેઇટિંગ", "hindiPronunciation": "पाल्पेटिंग", "gujaratiMeaning": "સ્પર્શ દ્વારા તપાસી રહ્યું છે", "hindiMeaning": "स्पर्श द्वारा जाँच कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एक्ज़ामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जाँचना" },
+        { "word": "Feel", "gujaratiPronunciation": "ફીલ", "hindiPronunciation": "फील", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Papaya", "gujaratiPronunciation": "પપાયા", "hindiPronunciation": "पपाया", "gujaratiMeaning": "પપૈયું", "hindiMeaning": "पपीता" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The doctor will palpate your abdomen.",
+          "gujaratiPronunciation": "ધ ડોક્ટર વિલ પાલ્પેઇટ યોર એબ્ડોમેન.",
+          "hindiPronunciation": "द डॉक्टर विल पाल्पेट योर एब्डोमेन।",
+          "gujaratiTranslation": "ડૉક્ટર તમારા પેટને સ્પર્શ દ્વારા તપાસશે.",
+          "hindiTranslation": "डॉक्टर आपके पेट की स्पर्श द्वारा जाँच करेंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Gauge",
+      "gujaratiPronunciation": "ગેજ",
+      "hindiPronunciation": "गेज",
+      "gujaratiMeaning": "માપવું",
+      "hindiMeaning": "मापना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Gauge", "gujaratiPronunciation": "ગેજ", "hindiPronunciation": "गेज", "gujaratiMeaning": "માપવું", "hindiMeaning": "मापना" },
+        "V2": { "word": "Gauged", "gujaratiPronunciation": "ગેજ્ડ", "hindiPronunciation": "गेज्ड", "gujaratiMeaning": "માપ્યું", "hindiMeaning": "मापा" },
+        "V3": { "word": "Gauged", "gujaratiPronunciation": "ગેજ્ડ", "hindiPronunciation": "गेज्ड", "gujaratiMeaning": "માપેલું", "hindiMeaning": "मापा हुआ" },
+        "V4": { "word": "Gauging", "gujaratiPronunciation": "ગેજિંગ", "hindiPronunciation": "गेजिंग", "gujaratiMeaning": "માપી રહ્યું છે", "hindiMeaning": "माप रहा है" }
+      },
+      "synonyms": [
+        { "word": "Measure", "gujaratiPronunciation": "મેઝર", "hindiPronunciation": "मेज़र", "gujaratiMeaning": "માપવું", "hindiMeaning": "मापना" },
+        { "word": "Assess", "gujaratiPronunciation": "અસેસ", "hindiPronunciation": "असेस", "gujaratiMeaning": "મૂલ્યાંકન કરવું", "hindiMeaning": "मूल्यांकन करना" }
+      ],
+      "antonyms": [
+        { "word": "Guess", "gujaratiPronunciation": "ગેસ", "hindiPronunciation": "गेस", "gujaratiMeaning": "અનુમાન લગાવવું", "hindiMeaning": "अनुमान लगाना" },
+        { "word": "Estimate", "gujaratiPronunciation": "એસ્ટીમેટ", "hindiPronunciation": "एस्टीमेट", "gujaratiMeaning": "અંદાજ કાઢવો", "hindiMeaning": "अंदाज़ा लगाना" }
+      ],
+      "confusingWords": [
+        { "word": "Gouge", "gujaratiPronunciation": "ગાઉજ", "hindiPronunciation": "गाउज", "gujaratiMeaning": "છેતરવું", "hindiMeaning": "छलना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is difficult to gauge the mood of the public.",
+          "gujaratiPronunciation": "ઇટ ઇઝ ડિફિકલ્ટ ટુ ગેજ ધ મૂડ ઓફ ધ પબ્લિક.",
+          "hindiPronunciation": "इट इज़ डिफिकल्ट टू गेज द मूड ऑफ द पब्लिक।",
+          "gujaratiTranslation": "જનતાનો મિજાજ માપવો મુશ્કેલ છે.",
+          "hindiTranslation": "जनता का मिजाज मापना मुश्किल है।"
+        }
+      ]
+    },
+    {
+      "word": "Delineate",
+      "gujaratiPronunciation": "ડિલિનિએટ",
+      "hindiPronunciation": "डिलिनिएट",
+      "gujaratiMeaning": "નિરૂપણ કરવું",
+      "hindiMeaning": "चित्रण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Delineate", "gujaratiPronunciation": "ડિલિનિએટ", "hindiPronunciation": "डिलिनिएट", "gujaratiMeaning": "નિરૂપણ કરવું", "hindiMeaning": "चित्रण करना" },
+        "V2": { "word": "Delineated", "gujaratiPronunciation": "ડિલિનિએટેડ", "hindiPronunciation": "डिलिनिएटेड", "gujaratiMeaning": "નિરૂપણ કર્યું", "hindiMeaning": "चित्रण किया" },
+        "V3": { "word": "Delineated", "gujaratiPronunciation": "ડિલિનિએટેડ", "hindiPronunciation": "डिलिनिएटेड", "gujaratiMeaning": "નિરૂપણ કરેલું", "hindiMeaning": "चित्रण किया हुआ" },
+        "V4": { "word": "Delineating", "gujaratiPronunciation": "ડિલિનિએટિંગ", "hindiPronunciation": "डिलिनिएटिंग", "gujaratiMeaning": "નિરૂપણ કરી રહ્યું છે", "hindiMeaning": "चित्रण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Describe", "gujaratiPronunciation": "ડિસ્ક્રાઇબ", "hindiPronunciation": "डिस्क्राइब", "gujaratiMeaning": "વર્ણન કરવું", "hindiMeaning": "वर्णन करना" },
+        { "word": "Outline", "gujaratiPronunciation": "આઉટલાઇન", "hindiPronunciation": "आउटलाइन", "gujaratiMeaning": "રૂપરેખા આપવી", "hindiMeaning": "रूपरेखा देना" }
+      ],
+      "antonyms": [
+        { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज़", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" },
+        { "word": "Obscure", "gujaratiPronunciation": "ઓબ્સ્ક્યોર", "hindiPronunciation": "ऑब्स्क्योर", "gujaratiMeaning": "અસ્પષ્ટ કરવું", "hindiMeaning": "अस्पष्ट करना" }
+      ],
+      "confusingWords": [
+        { "word": "Delinquent", "gujaratiPronunciation": "ડેલિંક્વન્ટ", "hindiPronunciation": "डेलिंक्वेंट", "gujaratiMeaning": "અપરાધી", "hindiMeaning": "अपराधी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The report delineates the main issues.",
+          "gujaratiPronunciation": "ધ રિપોર્ટ ડિલિનિએટ્સ ધ મેઇન ઇશ્યૂઝ.",
+          "hindiPronunciation": "द रिपोर्ट डिलिनिएट्स द मेन इश्यूज।",
+          "gujaratiTranslation": "આ અહેવાલ મુખ્ય મુદ્દાઓનું નિરૂપણ કરે છે.",
+          "hindiTranslation": "यह रिपोर्ट मुख्य मुद्दों का चित्रण करती है।"
+        }
+      ]
+    },
+    {
+      "word": "Correlate",
+      "gujaratiPronunciation": "કોરિલેટ",
+      "hindiPronunciation": "कोरिलेट",
+      "gujaratiMeaning": "સહસંબંધ સ્થાપવો",
+      "hindiMeaning": "सहसंबंध स्थापित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Correlate", "gujaratiPronunciation": "કોરિલેટ", "hindiPronunciation": "कोरिलेट", "gujaratiMeaning": "સહસંબંધ સ્થાપવો", "hindiMeaning": "सहसंबंध स्थापित करना" },
+        "V2": { "word": "Correlated", "gujaratiPronunciation": "કોરિલેટેડ", "hindiPronunciation": "कोरिलेटेड", "gujaratiMeaning": "સહસંબંધ સ્થાપ્યો", "hindiMeaning": "सहसंबंध स्थापित किया" },
+        "V3": { "word": "Correlated", "gujaratiPronunciation": "કોરિલેટેડ", "hindiPronunciation": "कोरिलेटेड", "gujaratiMeaning": "સહસંબંધ સ્થાપેલો", "hindiMeaning": "सहसंबंध स्थापित किया हुआ" },
+        "V4": { "word": "Correlating", "gujaratiPronunciation": "કોરિલેટિંગ", "hindiPronunciation": "कोरिलेटिंग", "gujaratiMeaning": "સહસંબંધ સ્થાપી રહ્યું છે", "hindiMeaning": "सहसंबंध स्थापित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Connect", "gujaratiPronunciation": "કનેક્ટ", "hindiPronunciation": "कनेक्ट", "gujaratiMeaning": "જોડવું", "hindiMeaning": "जोड़ना" },
+        { "word": "Associate", "gujaratiPronunciation": "અસોસિએટ", "hindiPronunciation": "असोसिएट", "gujaratiMeaning": "સંકળાવવું", "hindiMeaning": "संबद्ध करना" }
+      ],
+      "antonyms": [
+        { "word": "Disconnect", "gujaratiPronunciation": "ડિસ્કનેક્ટ", "hindiPronunciation": "डिस्कनेक्ट", "gujaratiMeaning": "વિચ્છેદ કરવો", "hindiMeaning": "विच्छेद करना" },
+        { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" }
+      ],
+      "confusingWords": [
+        { "word": "Corral", "gujaratiPronunciation": "કોરલ", "hindiPronunciation": "कोरल", "gujaratiMeaning": "વાડો", "hindiMeaning": "बाड़ा" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to correlate the test results with the data.",
+          "gujaratiPronunciation": "વી નીડ ટુ કોરિલેટ ધ ટેસ્ટ રિઝલ્ટ્સ વિથ ધ ડેટા.",
+          "hindiPronunciation": "वी नीड टू कोरिलेट द टेस्ट रिजल्ट्स विद द डेटा।",
+          "gujaratiTranslation": "આપણે પરીક્ષણના પરિણામોને ડેટા સાથે સહસંબંધિત કરવાની જરૂર છે.",
+          "hindiTranslation": "हमें परीक्षण के परिणामों को डेटा के साथ सहसंबंधित करने की आवश्यकता है।"
+        }
+      ]
+    }
+  ]
+}

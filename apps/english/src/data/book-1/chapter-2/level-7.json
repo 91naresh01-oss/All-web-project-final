@@ -1,0 +1,55 @@
+
+{
+    "id": "level-7",
+    "title": "Tastes",
+    "words": [
+        {
+            "word": "Taste",
+            "icon": "😋",
+            "gujaratiPronunciation": "ટેસ્ટ",
+            "hindiPronunciation": "टेस्ट",
+            "gujaratiMeaning": "સ્વાદ",
+            "hindiMeaning": "स्वाद"
+        },
+        {
+            "word": "Sweet",
+            "icon": "🍬",
+            "gujaratiPronunciation": "સ્વીટ",
+            "hindiPronunciation": "स्वीट",
+            "gujaratiMeaning": "ગળ્યું",
+            "hindiMeaning": "मीठा"
+        },
+        {
+            "word": "Sour",
+            "icon": "🍋",
+            "gujaratiPronunciation": "સોર",
+            "hindiPronunciation": "सोर",
+            "gujaratiMeaning": "ખાટું",
+            "hindiMeaning": "खट्टा"
+        },
+        {
+            "word": "Salty",
+            "icon": "🧂",
+            "gujaratiPronunciation": "સોલ્ટી",
+            "hindiPronunciation": "सॉल्टी",
+            "gujaratiMeaning": "ખારું",
+            "hindiMeaning": "नमकीन"
+        },
+        {
+            "word": "Bitter",
+            "icon": "🤢",
+            "gujaratiPronunciation": "બિટર",
+            "hindiPronunciation": "बिटर",
+            "gujaratiMeaning": "કડવું",
+            "hindiMeaning": "कड़वा"
+        },
+        {
+            "word": "Spicy",
+            "icon": "🌶️",
+            "gujaratiPronunciation": "સ્પાઇસી",
+            "hindiPronunciation": "स्पाइसी",
+            "gujaratiMeaning": "તીખું",
+            "hindiMeaning": "मसालेदार"
+        }
+    ]
+}

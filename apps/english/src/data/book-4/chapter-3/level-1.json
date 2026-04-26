@@ -1,0 +1,166 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Go",
+      "gujaratiPronunciation": "ગો",
+      "hindiPronunciation": "गो",
+      "gujaratiMeaning": "જવું",
+      "hindiMeaning": "जाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Go", "gujaratiPronunciation": "ગો", "hindiPronunciation": "गो", "gujaratiMeaning": "જવું", "hindiMeaning": "जाना" },
+        "V2 (Past Simple)": { "word": "Went", "gujaratiPronunciation": "વેન્ટ", "hindiPronunciation": "वेंट", "gujaratiMeaning": "ગયો", "hindiMeaning": "गया" },
+        "V3 (Past Participle)": { "word": "Gone", "gujaratiPronunciation": "ગોન", "hindiPronunciation": "गॉन", "gujaratiMeaning": "ગયેલ", "hindiMeaning": "जा चुका" },
+        "V4 (Present Participle)": { "word": "Going", "gujaratiPronunciation": "ગોઇંગ", "hindiPronunciation": "गोइंग", "gujaratiMeaning": "જઈ રહ્યું છે", "hindiMeaning": "जा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Travel", "gujaratiPronunciation": "ટ્રાવેલ", "hindiPronunciation": "ट्रैवल", "gujaratiMeaning": "મુસાફરી કરવી", "hindiMeaning": "यात्रा करना" },
+        { "word": "Proceed", "gujaratiPronunciation": "પ્રોસીડ", "hindiPronunciation": "प्रोसिड", "gujaratiMeaning": "આગળ વધવું", "hindiMeaning": "आगे बढ़ना" }
+      ],
+      "antonyms": [
+        { "word": "Stay", "gujaratiPronunciation": "સ્ટે", "hindiPronunciation": "स्टे", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Let's go to the park.",
+          "gujaratiTranslation": "ચાલો પાર્કમાં જઈએ.",
+          "hindiTranslation": "चलो पार्क चलते हैं।",
+          "gujaratiPronunciation": "લેટ્સ ગો ટુ ધ પાર્ક.",
+          "hindiPronunciation": "लेट्स गो टू द पार्क।"
+        }
+      ]
+    },
+    {
+      "word": "Drive",
+      "gujaratiPronunciation": "ડ્રાઇવ",
+      "hindiPronunciation": "ड्राइव",
+      "gujaratiMeaning": "ચલાવવું",
+      "hindiMeaning": "चलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Drive", "gujaratiPronunciation": "ડ્રાઇવ", "hindiPronunciation": "ड्राइव", "gujaratiMeaning": "ચલાવવું", "hindiMeaning": "चलाना" },
+        "V2 (Past Simple)": { "word": "Drove", "gujaratiPronunciation": "ડ્રોવ", "hindiPronunciation": "ड्रॉव", "gujaratiMeaning": "ચલાવ્યું", "hindiMeaning": "चलाया" },
+        "V3 (Past Participle)": { "word": "Driven", "gujaratiPronunciation": "ડ્રિવન", "hindiPronunciation": "ड्रिवन", "gujaratiMeaning": "ચલાવેલું", "hindiMeaning": "चलाया हुआ" },
+        "V4 (Present Participle)": { "word": "Driving", "gujaratiPronunciation": "ડ્રાઇવિંગ", "hindiPronunciation": "ड्राइविंग", "gujaratiMeaning": "ચલાવી રહ્યું છે", "hindiMeaning": "चला रहा है" }
+      },
+      "synonyms": [
+        { "word": "Operate", "gujaratiPronunciation": "ઓપરેટ", "hindiPronunciation": "ऑपरेट", "gujaratiMeaning": "સંચાલન કરવું", "hindiMeaning": "संचालित करना" },
+        { "word": "Steer", "gujaratiPronunciation": "સ્ટીયર", "hindiPronunciation": "स्टीयर", "gujaratiMeaning": "માર્ગદર્શન આપવું", "hindiMeaning": "मार्गदर्शन करना" }
+      ],
+      "antonyms": [
+        { "word": "Walk", "gujaratiPronunciation": "વોક", "hindiPronunciation": "वॉक", "gujaratiMeaning": "ચાલવું", "hindiMeaning": "चलना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "She learned to drive a car last year.",
+          "gujaratiTranslation": "તેણી ગયા વર્ષે કાર ચલાવતા શીખી.",
+          "hindiTranslation": "उसने पिछले साल कार चलाना सीखा।",
+          "gujaratiPronunciation": "શી લર્ન્ડ ટુ ડ્રાઇવ અ કાર લાસ્ટ યર.",
+          "hindiPronunciation": "शी लर्न्ड टू ड्राइव अ कार लास्ट ईयर।"
+        }
+      ]
+    },
+    {
+      "word": "Land",
+      "gujaratiPronunciation": "લેન્ડ",
+      "hindiPronunciation": "लैंड",
+      "gujaratiMeaning": "ઉતરાણ કરવું",
+      "hindiMeaning": "उतरना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Land", "gujaratiPronunciation": "લેન્ડ", "hindiPronunciation": "लैंड", "gujaratiMeaning": "ઉતરાણ કરવું", "hindiMeaning": "उतरना" },
+        "V2 (Past Simple)": { "word": "Landed", "gujaratiPronunciation": "લેન્ડેડ", "hindiPronunciation": "लैंडेड", "gujaratiMeaning": "ઉતરાણ કર્યું", "hindiMeaning": "उतरा" },
+        "V3 (Past Participle)": { "word": "Landed", "gujaratiPronunciation": "લેન્ડેડ", "hindiPronunciation": "लैंडेड", "gujaratiMeaning": "ઉતરાણ કરેલ", "hindiMeaning": "उतरा हुआ" },
+        "V4 (Present Participle)": { "word": "Landing", "gujaratiPronunciation": "લેન્ડિંગ", "hindiPronunciation": "लैंडिंग", "gujaratiMeaning": "ઉતરાણ કરી રહ્યું છે", "hindiMeaning": "उतर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Alight", "gujaratiPronunciation": "અલાઇટ", "hindiPronunciation": "अलाइट", "gujaratiMeaning": "ઉતરવું", "hindiMeaning": "उतरना" },
+        { "word": "Arrive", "gujaratiPronunciation": "અરાઇવ", "hindiPronunciation": "अराइव", "gujaratiMeaning": "આવવું", "hindiMeaning": "पहुंचना" }
+      ],
+      "antonyms": [
+        { "word": "Depart", "gujaratiPronunciation": "ડિપાર્ટ", "hindiPronunciation": "डिपार्ट", "gujaratiMeaning": "રવાના થવું", "hindiMeaning": "प्रस्थान करना" }
+      ],
+      "confusingWords": [
+        { "word": "Lend", "gujaratiPronunciation": "લેન્ડ", "hindiPronunciation": "लेंड", "gujaratiMeaning": "ઉધાર આપવું", "hindiMeaning": "उधार देना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The airplane will land in ten minutes.",
+          "gujaratiTranslation": "વિમાન દસ મિનિટમાં ઉતરાણ કરશે.",
+          "hindiTranslation": "विमान दस मिनट में उतरेगा।",
+          "gujaratiPronunciation": "ધ એરપ્લેન વિલ લેન્ડ ઇન ટેન મિનિટ્સ.",
+          "hindiPronunciation": "द एयरप्लेन विल लैंड इन टेन मिनट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Sail",
+      "gujaratiPronunciation": "સેઇલ",
+      "hindiPronunciation": "सेल",
+      "gujaratiMeaning": "જહાજમાં મુસાફરી કરવી",
+      "hindiMeaning": "जहाज चलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Sail", "gujaratiPronunciation": "સેઇલ", "hindiPronunciation": "सेल", "gujaratiMeaning": "જહાજમાં મુસાફરી કરવી", "hindiMeaning": "जहाज चलाना" },
+        "V2 (Past Simple)": { "word": "Sailed", "gujaratiPronunciation": "સેઇલ્ડ", "hindiPronunciation": "सेल्ड", "gujaratiMeaning": "મુસાફરી કરી", "hindiMeaning": "जहाज चलाया" },
+        "V3 (Past Participle)": { "word": "Sailed", "gujaratiPronunciation": "સેઇલ્ડ", "hindiPronunciation": "सेल्ड", "gujaratiMeaning": "મુસાફરી કરેલ", "hindiMeaning": "जहाज चलाया हुआ" },
+        "V4 (Present Participle)": { "word": "Sailing", "gujaratiPronunciation": "સેઇલિંગ", "hindiPronunciation": "सेलिंग", "gujaratiMeaning": "મુસાફરી કરી રહ્યું છે", "hindiMeaning": "जहाज चला रहा है" }
+      },
+      "synonyms": [
+        { "word": "Navigate", "gujaratiPronunciation": "નેવિગેટ", "hindiPronunciation": "नेविगेट", "gujaratiMeaning": "માર્ગદર્શન કરવું", "hindiMeaning": "मार्गदर्शन करना" },
+        { "word": "Cruise", "gujaratiPronunciation": "ક્રુઝ", "hindiPronunciation": "क्रूज", "gujaratiMeaning": "સફર કરવી", "hindiMeaning": "सैर करना" }
+      ],
+      "antonyms": [
+        { "word": "Dock", "gujaratiPronunciation": "ડોક", "hindiPronunciation": "डॉक", "gujaratiMeaning": "બંદર પર લાંગરવું", "hindiMeaning": "घाट पर लगाना" }
+      ],
+      "confusingWords": [
+        { "word": "Sale", "gujaratiPronunciation": "સેલ", "hindiPronunciation": "सेल", "gujaratiMeaning": "વેચાણ", "hindiMeaning": "बिक्री" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They plan to sail around the world.",
+          "gujaratiTranslation": "તેઓ વિશ્વભરમાં જહાજમાં મુસાફરી કરવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "वे दुनिया भर में जहाज चलाने की योजना बना रहे हैं।",
+          "gujaratiPronunciation": "ધે પ્લાન ટુ સેઇલ અરાઉન્ડ ધ વર્લ્ડ.",
+          "hindiPronunciation": "दे प्लान टू सेल अराउंड द वर्ल्ड।"
+        }
+      ]
+    },
+    {
+      "word": "Visit",
+      "gujaratiPronunciation": "વિઝિટ",
+      "hindiPronunciation": "विजिट",
+      "gujaratiMeaning": "મુલાકાત લેવી",
+      "hindiMeaning": "भेंट करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Visit", "gujaratiPronunciation": "વિઝિટ", "hindiPronunciation": "विजिट", "gujaratiMeaning": "મુલાકાત લેવી", "hindiMeaning": "भेंट करना" },
+        "V2 (Past Simple)": { "word": "Visited", "gujaratiPronunciation": "વિઝિટેડ", "hindiPronunciation": "विजिटेड", "gujaratiMeaning": "મુલાકાત લીધી", "hindiMeaning": "भेंट की" },
+        "V3 (Past Participle)": { "word": "Visited", "gujaratiPronunciation": "વિઝિટેડ", "hindiPronunciation": "विजिटेड", "gujaratiMeaning": "મુલાકાત લીધેલ", "hindiMeaning": "भेंट किया हुआ" },
+        "V4 (Present Participle)": { "word": "Visiting", "gujaratiPronunciation": "વિઝિટિંગ", "hindiPronunciation": "विजिटिंग", "gujaratiMeaning": "મુલાકાત લઈ રહ્યું છે", "hindiMeaning": "भेंट कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "See", "gujaratiPronunciation": "સી", "hindiPronunciation": "सी", "gujaratiMeaning": "જોવું", "hindiMeaning": "देखना" },
+        { "word": "Call on", "gujaratiPronunciation": "કોલ ઓન", "hindiPronunciation": "कॉल ऑन", "gujaratiMeaning": "મળવા જવું", "hindiMeaning": "मिलने जाना" }
+      ],
+      "antonyms": [
+        { "word": "Avoid", "gujaratiPronunciation": "અવોઇડ", "hindiPronunciation": "अवॉइड", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "We will visit our grandparents this weekend.",
+          "gujaratiTranslation": "અમે આ સપ્તાહના અંતે અમારા દાદા-દાદીની મુલાકાત લઈશું.",
+          "hindiTranslation": "हम इस सप्ताहांत अपने दादा-दादी से मिलने जाएंगे।",
+          "gujaratiPronunciation": "વી વિલ વિઝિટ અવર ગ્રાન્ડપેરન્ટ્સ ધીસ વીકેન્ડ.",
+          "hindiPronunciation": "वी विल विजिट आवर ग्रैंडपेरेंट्स दिस वीकेंड।"
+        }
+      ]
+    }
+  ]
+}

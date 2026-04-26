@@ -1,0 +1,175 @@
+{
+  "id": "level-3",
+  "title": "Level 3: Conceptualization",
+  "words": [
+    {
+      "word": "Originate",
+      "gujaratiPronunciation": "ઓરિજિનેટ",
+      "hindiPronunciation": "ओरिजिनेट",
+      "gujaratiMeaning": "ઉત્પન્ન થવું, શરૂઆત થવી",
+      "hindiMeaning": "उत्पन्न होना, आरंभ होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Originate", "gujaratiPronunciation": "ઓરિજિનેટ", "hindiPronunciation": "ओरिजिनेट", "gujaratiMeaning": "શરૂ થવું", "hindiMeaning": "शुरू होना" },
+        "V2 (Past)": { "word": "Originated", "gujaratiPronunciation": "ઓરિજિનેટેડ", "hindiPronunciation": "ओरिजिनेटेड", "gujaratiMeaning": "શરૂ થયું", "hindiMeaning": "शुरू हुआ" },
+        "V3 (Past Participle)": { "word": "Originated", "gujaratiPronunciation": "ઓરિજિનેટેડ", "hindiPronunciation": "ओरिजिनेटेड", "gujaratiMeaning": "શરૂ થયેલું", "hindiMeaning": "उत्पन्न" },
+        "V4 (Present Participle)": { "word": "Originating", "gujaratiPronunciation": "ઓરિજિનેટિંગ", "hindiPronunciation": "ओरिजिनेटिंग", "gujaratiMeaning": "શરૂ થઈ રહ્યું છે", "hindiMeaning": "उत्पन्न हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Start", "gujaratiPronunciation": "સ્ટાર્ટ", "hindiPronunciation": "स्टार्ट", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+        { "word": "Begin", "gujaratiPronunciation": "બિગિન", "hindiPronunciation": "बिगिन", "gujaratiMeaning": "પ્રારંભ કરવો", "hindiMeaning": "आरंभ करना" }
+      ],
+      "antonyms": [
+        { "word": "End", "gujaratiPronunciation": "એન્ડ", "hindiPronunciation": "एंड", "gujaratiMeaning": "અંત કરવો", "hindiMeaning": "समाप्त करना" },
+        { "word": "Terminate", "gujaratiPronunciation": "ટર્મિનેટ", "hindiPronunciation": "टर्मिनेट", "gujaratiMeaning": "સમાપ્ત કરવું", "hindiMeaning": "समाप्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Orientate", "gujaratiPronunciation": "ઓરિએન્ટેટ", "hindiPronunciation": "ओरिएंटेट", "gujaratiMeaning": "માર્ગદર્શન આપવું", "hindiMeaning": "अभिविन्यस्त करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The idea originated from a dream.",
+          "gujaratiTranslation": "આ વિચાર એક સ્વપ્નમાંથી ઉત્પન્ન થયો હતો.",
+          "hindiTranslation": "यह विचार एक सपने से उत्पन्न हुआ।",
+          "gujaratiPronunciation": "ધી આઇડિયા ઓરિજિનેટેડ ફ્રોમ અ ડ્રીમ.",
+          "hindiPronunciation": "द आइडिया ओरिजिनेटेड फ्रॉम अ ड्रीम।"
+        }
+      ]
+    },
+    {
+      "word": "Render",
+      "gujaratiPronunciation": "રેન્ડર",
+      "hindiPronunciation": "रेंडर",
+      "gujaratiMeaning": "પ્રસ્તુત કરવું, પ્રદાન કરવું, બનાવવું",
+      "hindiMeaning": "प्रस्तुत करना, प्रदान करना, बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Render", "gujaratiPronunciation": "રેન્ડર", "hindiPronunciation": "रेंडर", "gujaratiMeaning": "પ્રસ્તુત કરવું", "hindiMeaning": "प्रस्तुत करना" },
+        "V2 (Past)": { "word": "Rendered", "gujaratiPronunciation": "રેન્ડર્ડ", "hindiPronunciation": "रेंडर्ड", "gujaratiMeaning": "પ્રસ્તુત કર્યું", "hindiMeaning": "प्रस्तुत किया" },
+        "V3 (Past Participle)": { "word": "Rendered", "gujaratiPronunciation": "રેન્ડર્ડ", "hindiPronunciation": "रेंडर्ड", "gujaratiMeaning": "પ્રસ્તુત કરેલ", "hindiMeaning": "प्रस्तुत किया हुआ" },
+        "V4 (Present Participle)": { "word": "Rendering", "gujaratiPronunciation": "રેન્ડરિંગ", "hindiPronunciation": "रेंडरिंग", "gujaratiMeaning": "પ્રસ્તુત કરી રહ્યું છે", "hindiMeaning": "प्रस्तुत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Provide", "gujaratiPronunciation": "પ્રોવાઇડ", "hindiPronunciation": "प्रोवाइड", "gujaratiMeaning": "પૂરું પાડવું", "hindiMeaning": "प्रदान करना" },
+        { "word": "Give", "gujaratiPronunciation": "ગિવ", "hindiPronunciation": "गिव", "gujaratiMeaning": "આપવું", "hindiMeaning": "देना" }
+      ],
+      "antonyms": [
+        { "word": "Withhold", "gujaratiPronunciation": "વિથહોલ્ડ", "hindiPronunciation": "विथहोल्ड", "gujaratiMeaning": "અટકાવી રાખવું", "hindiMeaning": "रोक रखना" },
+        { "word": "Take", "gujaratiPronunciation": "ટેક", "hindiPronunciation": "टेक", "gujaratiMeaning": "લેવું", "hindiMeaning": "लेना" }
+      ],
+      "confusingWords": [
+        { "word": "Renter", "gujaratiPronunciation": "રેન્ટર", "hindiPronunciation": "रेंटर", "gujaratiMeaning": "ભાડૂત", "hindiMeaning": "किरायेदार" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The software will render the 3D model.",
+          "gujaratiTranslation": "સોફ્ટવેર 3D મોડેલને રેન્ડર કરશે.",
+          "hindiTranslation": "सॉफ्टवेयर 3डी मॉडल को रेंडर करेगा।",
+          "gujaratiPronunciation": "ધ સોફ્ટવેર વિલ રેન્ડર ધ 3ડી મોડેલ.",
+          "hindiPronunciation": "द सॉफ्टवेयर विल रेंडर द 3डी मॉडल।"
+        }
+      ]
+    },
+    {
+      "word": "Choreograph",
+      "gujaratiPronunciation": "કોરિયોગ્રાફ",
+      "hindiPronunciation": "कोरियोग्राफ",
+      "gujaratiMeaning": "નૃત્ય નિર્દેશન કરવું",
+      "hindiMeaning": "नृत्य निर्देशन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Choreograph", "gujaratiPronunciation": "કોરિયોગ્રાફ", "hindiPronunciation": "कोरियोग्राफ", "gujaratiMeaning": "નૃત્ય નિર્દેશન કરવું", "hindiMeaning": "नृत्य निर्देशन करना" },
+        "V2 (Past)": { "word": "Choreographed", "gujaratiPronunciation": "કોરિયોગ્રાફ્ડ", "hindiPronunciation": "कोरियोग्राफ्ड", "gujaratiMeaning": "નૃત્ય નિર્દેશન કર્યું", "hindiMeaning": "नृत्य निर्देशन किया" },
+        "V3 (Past Participle)": { "word": "Choreographed", "gujaratiPronunciation": "કોરિયોગ્રાફ્ડ", "hindiPronunciation": "कोरियोग्राफ्ड", "gujaratiMeaning": "નૃત્ય નિર્દેશન કરેલ", "hindiMeaning": "कोरियोग्राफ किया हुआ" },
+        "V4 (Present Participle)": { "word": "Choreographing", "gujaratiPronunciation": "કોરિયોગ્રાફિંગ", "hindiPronunciation": "कोरियोग्राफिंग", "gujaratiMeaning": "નૃત્ય નિર્દેશન કરી રહ્યું છે", "hindiMeaning": "नृत्य निर्देशन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Direct", "gujaratiPronunciation": "ડિરેક્ટ", "hindiPronunciation": "डायरेक्ट", "gujaratiMeaning": "નિર્દેશન કરવું", "hindiMeaning": "निर्देशन करना" },
+        { "word": "Design", "gujaratiPronunciation": "ડિઝાઇન", "hindiPronunciation": "डिज़ाइन", "gujaratiMeaning": "રચના કરવી", "hindiMeaning": "रचना करना" }
+      ],
+      "antonyms": [
+        { "word": "Improvise", "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ", "hindiPronunciation": "इम्प्रोवाइज़", "gujaratiMeaning": "તાત્કાલિક ઉપજાવી કાઢવું", "hindiMeaning": "तत्काल सुधार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Photograph", "gujaratiPronunciation": "ફોટોગ્રાફ", "hindiPronunciation": "फोटोग्राफ", "gujaratiMeaning": "ફોટો", "hindiMeaning": "तस्वीर" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She will choreograph the dance performance.",
+          "gujaratiTranslation": "તેણી ડાન્સ પર્ફોર્મન્સનું કોરિયોગ્રાફ કરશે.",
+          "hindiTranslation": "वह डांस परफॉर्मेंस को कोरियोग्राफ करेंगी।",
+          "gujaratiPronunciation": "શી વિલ કોરિયોગ્રાફ ધ ડાન્સ પર્ફોર્મન્સ.",
+          "hindiPronunciation": "शी विल कोरियोग्राफ द डांस परफॉर्मेंस।"
+        }
+      ]
+    },
+    {
+      "word": "Edit",
+      "gujaratiPronunciation": "એડિટ",
+      "hindiPronunciation": "एडिट",
+      "gujaratiMeaning": "સંપાદન કરવું",
+      "hindiMeaning": "संपादन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Edit", "gujaratiPronunciation": "એડિટ", "hindiPronunciation": "एडिट", "gujaratiMeaning": "સંપાદન કરવું", "hindiMeaning": "संपादन करना" },
+        "V2 (Past)": { "word": "Edited", "gujaratiPronunciation": "એડિટેડ", "hindiPronunciation": "एडिटेड", "gujaratiMeaning": "સંપાદન કર્યું", "hindiMeaning": "संपादन किया" },
+        "V3 (Past Participle)": { "word": "Edited", "gujaratiPronunciation": "એડિટેડ", "hindiPronunciation": "एडिटेड", "gujaratiMeaning": "સંપાદન કરેલ", "hindiMeaning": "संपादित" },
+        "V4 (Present Participle)": { "word": "Editing", "gujaratiPronunciation": "એડિટિંગ", "hindiPronunciation": "एडिटिंग", "gujaratiMeaning": "સંપાદન કરી રહ્યું છે", "hindiMeaning": "संपादन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Revise", "gujaratiPronunciation": "રિવાઇઝ", "hindiPronunciation": "रिवाइज़", "gujaratiMeaning": "સુધારવું", "hindiMeaning": "संशोधन करना" },
+        { "word": "Correct", "gujaratiPronunciation": "કરેક્ટ", "hindiPronunciation": "करेक्ट", "gujaratiMeaning": "સુધારવું", "hindiMeaning": "सही करना" }
+      ],
+      "antonyms": [
+        { "word": "Write", "gujaratiPronunciation": "રાઇટ", "hindiPronunciation": "राइट", "gujaratiMeaning": "લખવું", "hindiMeaning": "लिखना" },
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" }
+      ],
+      "confusingWords": [
+        { "word": "Addict", "gujaratiPronunciation": "એડિક્ટ", "hindiPronunciation": "एडिक्ट", "gujaratiMeaning": "વ્યસની", "hindiMeaning": "व्यसनी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please edit this document for errors.",
+          "gujaratiTranslation": "કૃપા કરીને ભૂલો માટે આ દસ્તાવેજને સંપાદિત કરો.",
+          "hindiTranslation": "कृपया त्रुटियों के लिए इस दस्तावेज़ को संपादित करें।",
+          "gujaratiPronunciation": "પ્લીઝ એડિટ ધિસ ડોક્યુમેન્ટ ફોર એરર્સ.",
+          "hindiPronunciation": "प्लीज़ एडिट दिस डॉक्यूमेंट फॉर एरर्स।"
+        }
+      ]
+    },
+    {
+      "word": "Conceptualize",
+      "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝ",
+      "hindiPronunciation": "कॉन्सेप्चुअलाइज़",
+      "gujaratiMeaning": "વિચારધારા બનાવવી, કલ્પના કરવી",
+      "hindiMeaning": "अवधारणा बनाना, कल्पना करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Conceptualize", "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝ", "hindiPronunciation": "कॉन्सेप्चुअलाइज़", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "अवधारणा बनाना" },
+        "V2 (Past)": { "word": "Conceptualized", "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝ્ડ", "hindiPronunciation": "कॉन्सेप्चुअलाइज़्ड", "gujaratiMeaning": "કલ્પના કરી", "hindiMeaning": "अवधारणा बनाई" },
+        "V3 (Past Participle)": { "word": "Conceptualized", "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝ્ડ", "hindiPronunciation": "कॉन्सेप्चुअलाइज़्ड", "gujaratiMeaning": "કલ્પના કરેલ", "hindiMeaning": "अवधारित" },
+        "V4 (Present Participle)": { "word": "Conceptualizing", "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝિંગ", "hindiPronunciation": "कॉन्सेप्चुअलाइज़िंग", "gujaratiMeaning": "કલ્પના કરી રહ્યું છે", "hindiMeaning": "अवधारणा बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Imagine", "gujaratiPronunciation": "ઇમેજિન", "hindiPronunciation": "इमेजिन", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" },
+        { "word": "Envision", "gujaratiPronunciation": "એનવિઝન", "hindiPronunciation": "एनविज़न", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "परिकल्पना करना" }
+      ],
+      "antonyms": [
+        { "word": "Execute", "gujaratiPronunciation": "એક્ઝિક્યુટ", "hindiPronunciation": "एक्ज़ीक्यूट", "gujaratiMeaning": "અમલ કરવો", "hindiMeaning": "निष्पादित करना" },
+        { "word": "Implement", "gujaratiPronunciation": "ઇમ્પ્લીમેન્ટ", "hindiPronunciation": "इम्प्लीमेंट", "gujaratiMeaning": "લાગુ કરવું", "hindiMeaning": "लागू करना" }
+      ],
+      "confusingWords": [
+        { "word": "Contextualize", "gujaratiPronunciation": "કન્ટેક્સ્યુઅલાઇઝ", "hindiPronunciation": "कॉन्टेक्स्चुअलाइज़", "gujaratiMeaning": "સંદર્ભમાં મૂકવું", "hindiMeaning": "संदर्भ में रखना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It is difficult to conceptualize the size of the universe.",
+          "gujaratiTranslation": "બ્રહ્માંડના કદની કલ્પના કરવી મુશ્કેલ છે.",
+          "hindiTranslation": "ब्रह्मांड के आकार की अवधारणा करना मुश्किल है।",
+          "gujaratiPronunciation": "ઇટ ઇઝ ડિફિકલ્ટ ટુ કન્સેપ્ચ્યુઅલાઇઝ ધ સાઇઝ ઓફ ધ યુનિવર્સ.",
+          "hindiPronunciation": "इट इज़ डिफिकल्ट टू कॉन्सेप्चुअलाइज़ द साइज़ ऑफ़ द यूनिवर्स।"
+        }
+      ]
+    }
+  ]
+}

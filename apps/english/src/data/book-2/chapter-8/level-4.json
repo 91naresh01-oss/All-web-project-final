@@ -1,0 +1,77 @@
+
+{
+  "id": "level-4",
+  "title": "Cities 1",
+  "words": [
+    {
+      "word": "Delhi",
+      "gujaratiPronunciation": "દિલ્હી",
+      "hindiPronunciation": "दिल्ली",
+      "gujaratiMeaning": "દિલ્હી",
+      "hindiMeaning": "दिल्ली",
+      "exampleSentences": [
+        {
+          "sentence": "Delhi is the capital of India.",
+          "gujaratiTranslation": "દિલ્હી ભારતની રાજધાની છે.",
+          "hindiTranslation": "दिल्ली भारत की राजधानी है।"
+        }
+      ]
+    },
+    {
+      "word": "London",
+      "gujaratiPronunciation": "લંડન",
+      "hindiPronunciation": "लंदन",
+      "gujaratiMeaning": "લંડન",
+      "hindiMeaning": "लंदन",
+      "exampleSentences": [
+        {
+          "sentence": "London is a big city in the UK.",
+          "gujaratiTranslation": "લંડન યુકેનું એક મોટું શહેર છે.",
+          "hindiTranslation": "लंदन यूके का एक बड़ा शहर है।"
+        }
+      ]
+    },
+    {
+      "word": "Paris",
+      "gujaratiPronunciation": "પેરિસ",
+      "hindiPronunciation": "पेरिस",
+      "gujaratiMeaning": "પેરિસ",
+      "hindiMeaning": "पेरिस",
+      "exampleSentences": [
+        {
+          "sentence": "Paris is known for the Eiffel Tower.",
+          "gujaratiTranslation": "પેરિસ એફિલ ટાવર માટે જાણીતું છે.",
+          "hindiTranslation": "पेरिस एफिल टॉवर के लिए जाना जाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Tokyo",
+      "gujaratiPronunciation": "ટોક્યો",
+      "hindiPronunciation": "टोक्यो",
+      "gujaratiMeaning": "ટોક્યો",
+      "hindiMeaning": "टोक्यो",
+      "exampleSentences": [
+        {
+          "sentence": "Tokyo is the capital of Japan.",
+          "gujaratiTranslation": "ટોક્યો જાપાનની રાજધાની છે.",
+          "hindiTranslation": "टोक्यो जापान की राजधानी है।"
+        }
+      ]
+    },
+    {
+      "word": "Dubai",
+      "gujaratiPronunciation": "દુબઈ",
+      "hindiPronunciation": "दुबई",
+      "gujaratiMeaning": "દુબઈ",
+      "hindiMeaning": "दुबई",
+      "exampleSentences": [
+        {
+          "sentence": "Dubai is famous for its tall buildings.",
+          "gujaratiTranslation": "દુબઈ તેની ઊંચી ઇમારતો માટે પ્રખ્યાત છે.",
+          "hindiTranslation": "दुबई अपनी ऊंची इमारतों के लिए प्रसिद्ध है।"
+        }
+      ]
+    }
+  ]
+}

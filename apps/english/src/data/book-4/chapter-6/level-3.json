@@ -1,0 +1,366 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Decimate",
+      "gujaratiPronunciation": "ડેસિમેટ",
+      "hindiPronunciation": "डेसिमेट",
+      "gujaratiMeaning": "મોટા ભાગનો નાશ કરવો",
+      "hindiMeaning": "बड़ा हिस्सा नष्ट करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Decimate",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नाश करना"
+        },
+        "V2 (Past)": {
+          "word": "Decimated",
+          "gujaratiMeaning": "નાશ કર્યો",
+          "hindiMeaning": "नाश किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Decimated",
+          "gujaratiMeaning": "નાશ પામેલું",
+          "hindiMeaning": "नष्ट हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Decimating",
+          "gujaratiPronunciation": "ડેસિમેટિંગ",
+          "hindiPronunciation": "डेसिमेटिंग",
+          "gujaratiMeaning": "નાશ કરી રહ્યું",
+          "hindiMeaning": "नाश कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Annihilate",
+          "gujaratiMeaning": "સંપૂર્ણ નાશ કરવો",
+          "hindiMeaning": "पूरी तरह से नष्ट करना"
+        },
+        {
+          "word": "Destroy",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Create",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Build",
+          "gujaratiMeaning": "નિર્માણ કરવું",
+          "hindiMeaning": "निर्माण करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Estimate",
+          "gujaratiMeaning": "અંદાજ",
+          "hindiMeaning": "अनुमान"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The disease decimated the local population.",
+          "gujaratiTranslation": "આ રોગે સ્થાનિક વસ્તીનો મોટો ભાગનો નાશ કર્યો.",
+          "hindiTranslation": "इस बीमारी ने स्थानीय आबादी का बड़ा हिस्सा नष्ट कर दिया।",
+          "gujaratiPronunciation": "ધ ડિસીઝ ડેસિમેટેડ ધ લોકલ પોપ્યુલેશન.",
+          "hindiPronunciation": "द डिज़ीज़ डेसिमेटेड द लोकल पॉपुलेशन।"
+        }
+      ]
+    },
+    {
+      "word": "Erode",
+      "gujaratiPronunciation": "ઇરોડ",
+      "hindiPronunciation": "इरोड",
+      "gujaratiMeaning": "ધીમે ધીમે નાશ પામવું",
+      "hindiMeaning": "धीरे-धीरे नष्ट होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Erode",
+          "gujaratiMeaning": "નાશ પામવું",
+          "hindiMeaning": "नष्ट होना"
+        },
+        "V2 (Past)": {
+          "word": "Eroded",
+          "gujaratiMeaning": "નાશ પામ્યું",
+          "hindiMeaning": "नष्ट हो गया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Eroded",
+          "gujaratiMeaning": "નાશ પામેલું",
+          "hindiMeaning": "नष्ट हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Eroding",
+          "gujaratiPronunciation": "ઇરોડિંગ",
+          "hindiPronunciation": "इरोडिंग",
+          "gujaratiMeaning": "નાશ પામી રહ્યું",
+          "hindiMeaning": "नष्ट हो रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Wear away",
+          "gujaratiMeaning": "ઘસાઈ જવું",
+          "hindiMeaning": "घिस जाना"
+        },
+        {
+          "word": "Corrode",
+          "gujaratiMeaning": "કાટ લાગવો",
+          "hindiMeaning": "जंग लगना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Build up",
+          "gujaratiMeaning": "વધારવું",
+          "hindiMeaning": "बढ़ाना"
+        },
+        {
+          "word": "Strengthen",
+          "gujaratiMeaning": "મજબૂત કરવું",
+          "hindiMeaning": "मजबूत करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Episode",
+          "gujaratiMeaning": "પ્રસંગ",
+          "hindiMeaning": "एपिसोड"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The coastline is slowly being eroded by the sea.",
+          "gujaratiTranslation": "દરિયાકિનારો ધીમે ધીમે દરિયા દ્વારા નાશ પામી રહ્યો છે.",
+          "hindiTranslation": "समुद्र तट धीरे-धीरे समुद्र द्वारा नष्ट हो रहा है।",
+          "gujaratiPronunciation": "ધ કોસ્ટલાઇન ઇઝ સ્લોલી બીઇંગ ઇરોડેડ બાય ધ સી.",
+          "hindiPronunciation": "द कोस्टलाइन इज़ स्लोली बीइंग इरोडेड बाय द सी।"
+        }
+      ]
+    },
+    {
+      "word": "Wreck",
+      "gujaratiPronunciation": "રેક",
+      "hindiPronunciation": "रेक",
+      "gujaratiMeaning": "નાશ કરવું",
+      "hindiMeaning": "नष्ट करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Wreck",
+          "gujaratiMeaning": "નાશ કરવું",
+          "hindiMeaning": "नष्ट करना"
+        },
+        "V2 (Past)": {
+          "word": "Wrecked",
+          "gujaratiMeaning": "નાશ કર્યું",
+          "hindiMeaning": "नष्ट किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Wrecked",
+          "gujaratiMeaning": "નાશ પામેલું",
+          "hindiMeaning": "नष्ट हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Wrecking",
+          "gujaratiPronunciation": "રેકિંગ",
+          "hindiPronunciation": "रेकिंग",
+          "gujaratiMeaning": "નાશ કરી રહ્યું",
+          "hindiMeaning": "नष्ट कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Ruin",
+          "gujaratiMeaning": "બરબાદ કરવું",
+          "hindiMeaning": "बर्बाद करना"
+        },
+        {
+          "word": "Demolish",
+          "gujaratiMeaning": "તોડી પાડવું",
+          "hindiMeaning": "तोड़ डालना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Repair",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        },
+        {
+          "word": "Restore",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કરવું",
+          "hindiMeaning": "पुनर्स्थापित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Rack",
+          "gujaratiMeaning": "ઘોડી",
+          "hindiMeaning": "रैक"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The storm wrecked several boats in the harbor.",
+          "gujaratiTranslation": "તોફાને બંદરમાં ઘણી બોટનો નાશ કર્યો.",
+          "hindiTranslation": "तूफान ने बंदरगाह में कई नावों को नष्ट कर दिया।",
+          "gujaratiPronunciation": "ધ સ્ટોર્મ રેક્ડ સેવરલ બોટ્સ ઇન ધ હાર્બર.",
+          "hindiPronunciation": "द स्टॉर्म रेक्ड सेवरल बोट्स इन द हार्बर।"
+        }
+      ]
+    },
+    {
+      "word": "Maim",
+      "gujaratiPronunciation": "મેઇમ",
+      "hindiPronunciation": "मेम",
+      "gujaratiMeaning": "અપંગ બનાવવું",
+      "hindiMeaning": "अपंग बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Maim",
+          "gujaratiMeaning": "અપંગ બનાવવું",
+          "hindiMeaning": "अपंग बनाना"
+        },
+        "V2 (Past)": {
+          "word": "Maimed",
+          "gujaratiMeaning": "અપંગ બનાવ્યું",
+          "hindiMeaning": "अपंग बनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Maimed",
+          "gujaratiMeaning": "અપંગ બનેલું",
+          "hindiMeaning": "अपंग बना हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Maiming",
+          "gujaratiPronunciation": "મેઇમિંગ",
+          "hindiPronunciation": "मेमिंग",
+          "gujaratiMeaning": "અપંગ બનાવી રહ્યું",
+          "hindiMeaning": "अपंग बना रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Cripple",
+          "gujaratiMeaning": "અપંગ બનાવવું",
+          "hindiMeaning": "अपंग करना"
+        },
+        {
+          "word": "Injure",
+          "gujaratiMeaning": "ઇજા કરવી",
+          "hindiMeaning": "घायल करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Heal",
+          "gujaratiMeaning": "સાજું કરવું",
+          "hindiMeaning": "ठीक करना"
+        },
+        {
+          "word": "Cure",
+          "gujaratiMeaning": "ઇલાજ કરવો",
+          "hindiMeaning": "इलाज करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Main",
+          "gujaratiMeaning": "મુખ્ય",
+          "hindiMeaning": "मुख्य"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The accident left him maimed for life.",
+          "gujaratiTranslation": "અકસ્માતે તેને જીવનભર માટે અપંગ બનાવી દીધો.",
+          "hindiTranslation": "दुर्घटना ने उसे जीवन भर के लिए अपंग बना दिया।",
+          "gujaratiPronunciation": "ધ એક્સિડન્ટ લેફ્ટ હિમ મેઇમ્ડ ફોર લાઇફ.",
+          "hindiPronunciation": "द एक्सीडेंट लेफ्ट हिम मेम्ड फॉर लाइफ।"
+        }
+      ]
+    },
+    {
+      "word": "Obliterate",
+      "gujaratiPronunciation": "ઓબ્લિટરેટ",
+      "hindiPronunciation": "ऑब्लिटरेट",
+      "gujaratiMeaning": "સંપૂર્ણપણે નાશ કરવું",
+      "hindiMeaning": "पूरी तरह से नष्ट करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Obliterate",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        },
+        "V2 (Past)": {
+          "word": "Obliterated",
+          "gujaratiMeaning": "નાશ કર્યો",
+          "hindiMeaning": "नष्ट किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Obliterated",
+          "gujaratiMeaning": "નાશ પામેલું",
+          "hindiMeaning": "नष्ट हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Obliterating",
+          "gujaratiPronunciation": "ઓબ્લિટરેટિંગ",
+          "hindiPronunciation": "ऑब्लिटरेटिंग",
+          "gujaratiMeaning": "નાશ કરી રહ્યું",
+          "hindiMeaning": "नष्ट कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Erase",
+          "gujaratiMeaning": "ભૂંસી નાખવું",
+          "hindiMeaning": "मिटा देना"
+        },
+        {
+          "word": "Annihilate",
+          "gujaratiMeaning": "સર્વનાશ કરવો",
+          "hindiMeaning": "सर्वनाश करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Create",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Construct",
+          "gujaratiMeaning": "નિર્માણ કરવું",
+          "hindiMeaning": "निर्माण करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Illustrate",
+          "gujaratiMeaning": "ઉદાહરણ આપવું",
+          "hindiMeaning": "उदाहरण देना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The entire village was obliterated by the landslide.",
+          "gujaratiTranslation": "ભૂસ્ખલનથી આખું ગામ નાશ પામ્યું હતું.",
+          "hindiTranslation": "भूस्खलन से पूरा गाँव नष्ट हो गया था।",
+          "gujaratiPronunciation": "ધ એન્ટાયર વિલેજ વોઝ ઓબ્લિટરેટેડ બાય ધ લેન્ડસ્લાઇડ.",
+          "hindiPronunciation": "द एंटायर विलेज वॉज़ ऑब्लिटरेटेड बाय द लैंडस्लाइड।"
+        }
+      ]
+    }
+  ]
+}

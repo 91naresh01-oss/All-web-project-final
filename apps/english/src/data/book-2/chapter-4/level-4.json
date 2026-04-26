@@ -1,0 +1,77 @@
+
+{
+  "id": "level-4",
+  "title": "Common Verbs 3",
+  "words": [
+    {
+      "word": "Think",
+      "gujaratiPronunciation": "થિન્ક",
+      "hindiPronunciation": "थिंक",
+      "gujaratiMeaning": "વિચારવું",
+      "hindiMeaning": "सोचना",
+      "exampleSentences": [
+        {
+          "sentence": "I need to think about it.",
+          "gujaratiTranslation": "મારે તેના વિશે વિચારવાની જરૂર છે.",
+          "hindiTranslation": "मुझे इसके बारे में सोचना होगा।"
+        }
+      ]
+    },
+    {
+      "word": "Remember",
+      "gujaratiPronunciation": "રિમેમ્બર",
+      "hindiPronunciation": "रिमेम्बर",
+      "gujaratiMeaning": "યાદ રાખવું",
+      "hindiMeaning": "याद रखना",
+      "exampleSentences": [
+        {
+          "sentence": "I can't remember his name.",
+          "gujaratiTranslation": "મને તેનું નામ યાદ નથી.",
+          "hindiTranslation": "मुझे उसका नाम याद नहीं है।"
+        }
+      ]
+    },
+    {
+      "word": "Forget",
+      "gujaratiPronunciation": "ફરગેટ",
+      "hindiPronunciation": "फॉरगेट",
+      "gujaratiMeaning": "ભૂલી જવું",
+      "hindiMeaning": "भूल जाना",
+      "exampleSentences": [
+        {
+          "sentence": "Don't forget to lock the door.",
+          "gujaratiTranslation": "દરવાજો બંધ કરવાનું ભૂલશો નહીં.",
+          "hindiTranslation": "दरवाजा बंद करना मत भूलना।"
+        }
+      ]
+    },
+    {
+      "word": "Try",
+      "gujaratiPronunciation": "ટ્રાય",
+      "hindiPronunciation": "ट्राइ",
+      "gujaratiMeaning": "પ્રયત્ન કરવો",
+      "hindiMeaning": "कोशिश करना",
+      "exampleSentences": [
+        {
+          "sentence": "You should try again.",
+          "gujaratiTranslation": "તમારે ફરીથી પ્રયાસ કરવો જોઈએ.",
+          "hindiTranslation": "तुम्हें फिर से कोशिश करनी चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Decide",
+      "gujaratiPronunciation": "ડિસાઈડ",
+      "hindiPronunciation": "डिसाइड",
+      "gujaratiMeaning": "નક્કી કરવું",
+      "hindiMeaning": "तय करना",
+      "exampleSentences": [
+        {
+          "sentence": "We need to decide what to do.",
+          "gujaratiTranslation": "આપણે શું કરવું તે નક્કી કરવાની જરૂર છે.",
+          "hindiTranslation": "हमें यह तय करने की ज़रूरत है कि क्या करना है।"
+        }
+      ]
+    }
+  ]
+}

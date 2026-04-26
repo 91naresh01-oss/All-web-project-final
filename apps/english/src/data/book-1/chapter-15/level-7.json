@@ -1,0 +1,47 @@
+
+{
+  "id": "level-7",
+  "title": "Appliances 2",
+  "words": [
+    {
+      "word": "Dishwasher",
+      "icon": "🍽️",
+      "gujaratiPronunciation": "ડિશવોશર",
+      "hindiPronunciation": "डिशवॉशर",
+      "gujaratiMeaning": "ડિશવોશર",
+      "hindiMeaning": "डिशवॉशर"
+    },
+    {
+      "word": "Sewing Machine",
+      "icon": "🧵",
+      "gujaratiPronunciation": "સિવિંગ મશીન",
+      "hindiPronunciation": "सीविंग मशीन",
+      "gujaratiMeaning": "સિલાઈ મશીન",
+      "hindiMeaning": "सिलाई मशीन"
+    },
+    {
+      "word": "Ceiling Fan",
+      "icon": "🌬️",
+      "gujaratiPronunciation": "સીલિંગ ફેન",
+      "hindiPronunciation": "सीलिंग फैन",
+      "gujaratiMeaning": "છતનો પંખો",
+      "hindiMeaning": "छत का पंखा"
+    },
+    {
+      "word": "Lamp",
+      "icon": "💡",
+      "gujaratiPronunciation": "લેમ્પ",
+      "hindiPronunciation": "लैंप",
+      "gujaratiMeaning": "દીવો",
+      "hindiMeaning": "दीया"
+    },
+    {
+      "word": "Alarm",
+      "icon": "⏰",
+      "gujaratiPronunciation": "અલાર્મ",
+      "hindiPronunciation": "अलार्म",
+      "gujaratiMeaning": "અલાર્મ",
+      "hindiMeaning": "अलार्म"
+    }
+  ]
+}

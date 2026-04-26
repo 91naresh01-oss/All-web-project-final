@@ -1,0 +1,141 @@
+
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Be",
+            "gujaratiPronunciation": "બી",
+            "hindiPronunciation": "बी",
+            "gujaratiMeaning": "હોવું",
+            "hindiMeaning": "होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Be", "gujaratiPronunciation": "બી", "hindiPronunciation": "बी", "gujaratiMeaning": "હોવું", "hindiMeaning": "होना" },
+                "V2 (Past)": { "word": "Was/Were", "gujaratiPronunciation": "વોઝ/વર", "hindiPronunciation": "वॉज़/वर", "gujaratiMeaning": "હતું/હતા", "hindiMeaning": "था/थे" },
+                "V3 (Past Participle)": { "word": "Been", "gujaratiPronunciation": "બીન", "hindiPronunciation": "बीन", "gujaratiMeaning": "થયેલું", "hindiMeaning": "हुआ" },
+                "V4 (Present Participle)": { "word": "Being", "gujaratiPronunciation": "બીઇંગ", "hindiPronunciation": "बीइंग", "gujaratiMeaning": "હોઈ રહ્યું છે", "hindiMeaning": "हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Exist", "gujaratiPronunciation": "એક્ઝિસ્ટ", "hindiPronunciation": "एग्ज़िस्ट", "gujaratiMeaning": "અસ્તિત્વ ધરાવવું", "hindiMeaning": "अस्तित्व में होना" }
+            ],
+            "antonyms": [
+                { "word": "Not exist", "gujaratiPronunciation": "નોટ એક્ઝિસ્ટ", "hindiPronunciation": "नॉट एग्ज़िस्ट", "gujaratiMeaning": "અસ્તિત્વ ન ધરાવવું", "hindiMeaning": "अस्तित्व में न होना" }
+            ],
+            "confusingWords": [
+                { "word": "Bee", "gujaratiPronunciation": "બી", "hindiPronunciation": "बी", "gujaratiMeaning": "મધમાખી", "hindiMeaning": "मधुमक्खी" }
+            ],
+            "exampleSentences": [
+                { "sentence": "To be, or not to be, that is the question.", "gujaratiTranslation": "હોવું કે ન હોવું, તે જ પ્રશ્ન છે.", "hindiTranslation": "होना या न होना, यही सवाल है।", "gujaratiPronunciation": "ટુ બી, ઓર નોટ ટુ બી, ધેટ ઇઝ ધ ક્વેશ્ચન.", "hindiPronunciation": "टू बी, और नॉट टू बी, दैट इज़ द क्वेश्चन।" }
+            ]
+        },
+        {
+            "word": "Exist",
+            "gujaratiPronunciation": "એક્ઝિસ્ટ",
+            "hindiPronunciation": "एग्ज़िस्ट",
+            "gujaratiMeaning": "અસ્તિત્વ ધરાવવું",
+            "hindiMeaning": "अस्तित्व में होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Exist", "gujaratiPronunciation": "એક્ઝિસ્ટ", "hindiPronunciation": "एग्ज़िस्ट", "gujaratiMeaning": "અસ્તિત્વ ધરાવવું", "hindiMeaning": "अस्तित्व में होना" },
+                "V2 (Past)": { "word": "Existed", "gujaratiPronunciation": "એક્ઝિસ્ટેડ", "hindiPronunciation": "एग्ज़िस्टेड", "gujaratiMeaning": "અસ્તિત્વ ધરાવતું હતું", "hindiMeaning": "अस्तित्व में था" },
+                "V3 (Past Participle)": { "word": "Existed", "gujaratiPronunciation": "એક્ઝિસ્ટેડ", "hindiPronunciation": "एग्ज़िस्टेड", "gujaratiMeaning": "અસ્તિત્વ ધરાવેલું", "hindiMeaning": "अस्तित्व में रहा" },
+                "V4 (Present Participle)": { "word": "Existing", "gujaratiPronunciation": "એક્ઝિસ્ટિંગ", "hindiPronunciation": "एग्ज़िस्टिंग", "gujaratiMeaning": "અસ્તિત્વ ધરાવી રહ્યું છે", "hindiMeaning": "अस्तित्व में है" }
+            },
+            "synonyms": [
+                { "word": "Be", "gujaratiPronunciation": "બી", "hindiPronunciation": "बी", "gujaratiMeaning": "હોવું", "hindiMeaning": "होना" },
+                { "word": "Live", "gujaratiPronunciation": "લિવ", "hindiPronunciation": "लिव", "gujaratiMeaning": "જીવવું", "hindiMeaning": "जीना" }
+            ],
+            "antonyms": [
+                { "word": "Vanish", "gujaratiPronunciation": "વેનિશ", "hindiPronunciation": "वैनिश", "gujaratiMeaning": "અદૃશ્ય થવું", "hindiMeaning": "गायब होना" },
+                { "word": "Perish", "gujaratiPronunciation": "પેરિશ", "hindiPronunciation": "पेरिश", "gujaratiMeaning": "નાશ પામવું", "hindiMeaning": "नष्ट होना" }
+            ],
+            "confusingWords": [
+                { "word": "Exit", "gujaratiPronunciation": "એક્ઝિટ", "hindiPronunciation": "एग्जिट", "gujaratiMeaning": "બહાર નીકળો", "hindiMeaning": "बाहर निकलें" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Do you believe unicorns ever existed?", "gujaratiTranslation": "શું તમે માનો છો કે યુનિકોર્ન ક્યારેય અસ્તિત્વમાં હતા?", "hindiTranslation": "क्या आप मानते हैं कि यूनिकॉर्न कभी अस्तित्व में थे?", "gujaratiPronunciation": "ડુ યુ બિલીવ યુનિકોર્ન્સ એવર એક્ઝિસ્ટેડ?", "hindiPronunciation": "डू यू बिलीव यूनिकॉर्न्स एवर एग्ज़िस्टेड?" }
+            ]
+        },
+        {
+            "word": "Live",
+            "gujaratiPronunciation": "લિવ",
+            "hindiPronunciation": "लिव",
+            "gujaratiMeaning": "જીવવું, રહેવું",
+            "hindiMeaning": "जीना, रहना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Live", "gujaratiPronunciation": "લિવ", "hindiPronunciation": "लिव", "gujaratiMeaning": "જીવવું", "hindiMeaning": "जीना" },
+                "V2 (Past)": { "word": "Lived", "gujaratiPronunciation": "લિવ્ડ", "hindiPronunciation": "लिव्ड", "gujaratiMeaning": "જીવ્યો", "hindiMeaning": "जिया" },
+                "V3 (Past Participle)": { "word": "Lived", "gujaratiPronunciation": "લિવ્ડ", "hindiPronunciation": "लिव्ड", "gujaratiMeaning": "જીવેલો", "hindiMeaning": "जिया हुआ" },
+                "V4 (Present Participle)": { "word": "Living", "gujaratiPronunciation": "લિવિંગ", "hindiPronunciation": "लिविंग", "gujaratiMeaning": "જીવી રહ્યું છે", "hindiMeaning": "जी रहा है" }
+            },
+            "synonyms": [
+                { "word": "Dwell", "gujaratiPronunciation": "ડ્વેલ", "hindiPronunciation": "ड्वेल", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" },
+                { "word": "Reside", "gujaratiPronunciation": "રિસાઇડ", "hindiPronunciation": "रिसाइड", "gujaratiMeaning": "નિવાસ કરવો", "hindiMeaning": "निवास करना" }
+            ],
+            "antonyms": [
+                { "word": "Die", "gujaratiPronunciation": "ડાય", "hindiPronunciation": "डाई", "gujaratiMeaning": "મરી જવું", "hindiMeaning": "मरना" },
+                { "word": "Perish", "gujaratiPronunciation": "પેરિશ", "hindiPronunciation": "पेरिश", "gujaratiMeaning": "નાશ પામવું", "hindiMeaning": "नष्ट होना" }
+            ],
+            "confusingWords": [
+                { "word": "Leave", "gujaratiPronunciation": "લીવ", "hindiPronunciation": "लीव", "gujaratiMeaning": "છોડવું", "hindiMeaning": "छोड़ना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "I live in a small town.", "gujaratiTranslation": "હું એક નાના શહેરમાં રહું છું.", "hindiTranslation": "मैं एक छोटे से शहर में रहता हूँ।", "gujaratiPronunciation": "આઈ લિવ ઇન અ સ્મોલ ટાઉન.", "hindiPronunciation": "आई लिव इन अ स्मॉल टाउन।" }
+            ]
+        },
+        {
+            "word": "Become",
+            "gujaratiPronunciation": "બિકમ",
+            "hindiPronunciation": "बिकम",
+            "gujaratiMeaning": "બનવું, થવું",
+            "hindiMeaning": "बनना, होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Become", "gujaratiPronunciation": "બિકમ", "hindiPronunciation": "बिकम", "gujaratiMeaning": "બનવું", "hindiMeaning": "बनना" },
+                "V2 (Past)": { "word": "Became", "gujaratiPronunciation": "બિકેમ", "hindiPronunciation": "बिकेम", "gujaratiMeaning": "બન્યું", "hindiMeaning": "बना" },
+                "V3 (Past Participle)": { "word": "Become", "gujaratiPronunciation": "બિકમ", "hindiPronunciation": "बिकम", "gujaratiMeaning": "બનેલું", "hindiMeaning": "बना हुआ" },
+                "V4 (Present Participle)": { "word": "Becoming", "gujaratiPronunciation": "બિકમિંગ", "hindiPronunciation": "बिकमिंग", "gujaratiMeaning": "બની રહ્યું છે", "hindiMeaning": "बन रहा है" }
+            },
+            "synonyms": [
+                { "word": "Grow into", "gujaratiPronunciation": "ગ્રો ઇન્ટુ", "hindiPronunciation": "ग्रो इनटू", "gujaratiMeaning": "માં વિકસવું", "hindiMeaning": "में विकसित होना" },
+                { "word": "Turn into", "gujaratiPronunciation": "ટર્ન ઇન્ટુ", "hindiPronunciation": "टर्न इनटू", "gujaratiMeaning": "માં ફેરવાવું", "hindiMeaning": "में बदलना" }
+            ],
+            "antonyms": [
+                { "word": "Remain", "gujaratiPronunciation": "રિમેઇન", "hindiPronunciation": "रिमेन", "gujaratiMeaning": "રહેવું", "hindiMeaning": "बने रहना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "He wants to become a doctor.", "gujaratiTranslation": "તે ડોક્ટર બનવા માંગે છે.", "hindiTranslation": "वह एक डॉक्टर बनना चाहता है।", "gujaratiPronunciation": "હી વોન્ટ્સ ટુ બિકમ અ ડોક્ટર.", "hindiPronunciation": "ही वॉन्ट्स टू बिकम अ डॉक्टर।" }
+            ]
+        },
+        {
+            "word": "Feel",
+            "gujaratiPronunciation": "ફીલ",
+            "hindiPronunciation": "फील",
+            "gujaratiMeaning": "અનુભવવું, લાગવું",
+            "hindiMeaning": "महसूस करना, लगना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Feel", "gujaratiPronunciation": "ફીલ", "hindiPronunciation": "फील", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" },
+                "V2 (Past)": { "word": "Felt", "gujaratiPronunciation": "ફેલ્ટ", "hindiPronunciation": "फेल्ट", "gujaratiMeaning": "અનુભવ્યું", "hindiMeaning": "महसूस किया" },
+                "V3 (Past Participle)": { "word": "Felt", "gujaratiPronunciation": "ફેલ્ટ", "hindiPronunciation": "फेल्ट", "gujaratiMeaning": "અનુભવેલું", "hindiMeaning": "महसूस किया हुआ" },
+                "V4 (Present Participle)": { "word": "Feeling", "gujaratiPronunciation": "ફીલિંગ", "hindiPronunciation": "फीलिंग", "gujaratiMeaning": "અનુભવી રહ્યું છે", "hindiMeaning": "महसूस कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Sense", "gujaratiPronunciation": "સેન્સ", "hindiPronunciation": "सेंस", "gujaratiMeaning": "ઇન્દ્રિયથી જાણવું", "hindiMeaning": "अनुभव करना" },
+                { "word": "Perceive", "gujaratiPronunciation": "પર્સીવ", "hindiPronunciation": "पर्सिव", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" }
+            ],
+            "antonyms": [
+                { "word": "Be numb", "gujaratiPronunciation": "બી નમ્બ", "hindiPronunciation": "बी नम्ब", "gujaratiMeaning": "બહેરું થઈ જવું", "hindiMeaning": "सुन्न होना" }
+            ],
+            "confusingWords": [
+                { "word": "Fill", "gujaratiPronunciation": "ફિલ", "hindiPronunciation": "फिल", "gujaratiMeaning": "ભરવું", "hindiMeaning": "भरना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "I feel happy today.", "gujaratiTranslation": "આજે મને ખુશીનો અનુભવ થાય છે.", "hindiTranslation": "आज मैं खुश महसूस कर रहा हूँ।", "gujaratiPronunciation": "આઈ ફીલ હેપી ટુડે.", "hindiPronunciation": "आई फील हैप्पी टुडे।" }
+            ]
+        }
+    ]
+}

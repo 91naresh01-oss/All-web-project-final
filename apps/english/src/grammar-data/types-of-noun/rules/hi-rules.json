@@ -1,0 +1,355 @@
+{
+    "id": "types-of-noun-hi",
+    "title": "Types of Noun (संज्ञा के प्रकार)",
+    "description": "संज्ञा के मुख्य प्रकार और उनके उपयोग के बारे में विस्तृत जानकारी।",
+    "content": [
+        {
+            "type": "section",
+            "title": "Introduction (परिचय)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "किसी भी व्यक्ति, वस्तु, स्थान, गुण, क्रिया, भाव, भावना, स्थिति, प्राणी, गतिविधि या अवस्था को पहचानने के लिए दिए गए संकेतों को **संज्ञा (Noun)** कहते हैं।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Kinds of Noun: संज्ञा के प्रकार",
+                        "headers": [
+                            "Countable Nouns<br/>(गिनने योग्य)",
+                            "Uncountable Nouns<br/>(न गिनने योग्य)"
+                        ],
+                        "rows": [
+                            [
+                                "**1. Proper Noun:** व्यक्तिवाचक",
+                                "**1. Material Noun:** द्रव्यवाचक"
+                            ],
+                            [
+                                "**2. Common Noun:** जातिवाचक",
+                                "**2. Abstract Noun:** भाववाचक"
+                            ],
+                            [
+                                "**3. Collective Noun:** समूहवाचक",
+                                ""
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "heading",
+                    "content": "Let's study all 5 types in detail... / चलिए, पाँचों प्रकारों का विस्तार से अध्ययन करते हैं..."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "1. Material Noun (द्रव्यवाचक संज्ञा)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "जिस वस्तु को 'एक, दो, तीन' ऐसे गिना न जा सके, लेकिन जिसका वजन, माप या मात्रा की जा सके, ऐसे पदार्थ को द्रव्यवाचक संज्ञा कहते हैं।"
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Rule:</b> Material Noun हमेशा **Uncountable** होते हैं। इनके आगे Article (a, an) नहीं लगता और इनका बहुवचन नहीं होता।<br/>(Gold is... (Not 'A Gold' or 'Golds'))"
+                },
+                {
+                    "type": "example_section",
+                    "content": {
+                        "title": "Comprehensive Examples (विस्तृत उदाहरण)",
+                        "examples": [
+                            "**Metals (धातु):** Gold (सोना), Silver (चांदी), Iron (लोहा), Copper (तांबा), Platinum (प्लैटिनम), Brass (पीतल), Aluminum (एल्यूमीनियम), Steel (स्टील), Zinc (जस्ता), Lead (सीसा)",
+                            "**Liquids (तरल):** Water (पानी), Milk (दूध), Oil (तेल), Ghee (घी), Buttermilk (छाछ), Curd (दही), Honey (शहद), Juice (रस), Petrol (पेट्रोल), Diesel (डीजल), Kerosene (मिट्टी का तेल), Ink (स्याही), Tea (चाय), Coffee (कॉफी)",
+                            "**Food/Grains (भोजन/अनाज):** Wheat (गेहूं), Rice (चावल), Bajri (बाजरा), Maize (मक्का), Pulse (दाल), Flour (आटा), Sugar (चीनी), Salt (नमक), Jaggery (गुड़), Spices (मसाले), Bread (ब्रेड), Butter (मक्खन), Cheese ( पनीर), Meat (मांस)",
+                            "**Natural Elements (प्राकृतिक तत्व):** Wood (लकड़ी), Stone (पत्थर), Clay (मिट्टी), Sand (रेत), Dust (धूल), Coal (कोयला), Cotton (रूई), Wool (ऊन), Silk (रेशम), Leather (चमड़ा), Rubber (रबर)",
+                            "**Gases/Others (गैस/अन्य):** Air (हवा), Oxygen (ऑक्सीजन), Nitrogen (नाइट्रोजन), Smoke (धुआं), Steam (भाप), Rain (बारिश), Dew (ओस), Mist (कोहरा), Ice (बर्फ), Glass (कांच), Paper (कागज), Cement (सीमेंट)"
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Sentences:</b><br/>👉 **Gold** is a precious metal.<br/>👉 We drink **water** every day.<br/>👉 **Cotton** grows in the field."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2. Common Noun (जातिवाचक संज्ञा)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "एक ही वर्ग के लोगों, स्थानों, वस्तुओं या प्राणियों के लिए समान रूप से लागू किए जाने वाले 'सामान्य नाम' को Common Noun कहते हैं।"
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Rule:</b> Common Noun एकवचन (Singular) या बहुवचन (Plural) हो सकते हैं। यदि एकवचन हो तो उनके आगे Article (a, an, the) लगता है।"
+                },
+                {
+                    "type": "example_section",
+                    "content": {
+                        "title": "Comprehensive Examples (विस्तृत उदाहरण)",
+                        "examples": [
+                            "**Relations (रिश्ते):** Mother (मां), Father (पिता), Brother (भाई), Sister (बहन), Uncle (चाचा/मामा), Aunt (चाची/मासी), Nephew (भतीजा/भांजा), Niece (भतीजी/भांजी), Guest (मेहमान), Friend (मित्र), Neighbour (पड़ोसी), Enemy (दुश्मन)",
+                            "**Professions (पेशे):** Teacher (शिक्षक), Student (छात्र), Doctor (डॉक्टर), Lawyer (वकील), Engineer (इंजीनियर), Farmer (किसान), Driver (चालक), Pilot (पायलट), Soldier (सैनिक), King (राजा), Servant (नौकर), Writer (लेखक), Singer (गायक)",
+                            "**Animals (जानवर):** Lion (शेर), Tiger (बाघ), Elephant (हाथी), Dog (कुत्ता), Cat (बिल्ली), Cow (गाय), Horse (घोड़ा), Monkey (बंदर), Fox (लोमड़ी), Rabbit (खरगोश), Deer (हिरण), Bear (भालू), Wolf (भेड़िया), Camel (ऊंट)",
+                            "**Birds (पक्षी):** Peacock (मोर), Parrot (तोता), Crow (कौआ), Sparrow (गौरैया), Eagle (चील), Pigeon (कबूतर), Swan (हंस), Owl (उल्लू), Crane (सारस)",
+                            "**Insects (कीड़े-मकोड़े):** Ant (चींटी), Bee (मधुमक्खी), Butterfly (तितली), Mosquito (मच्छर), Fly (मक्खी), Spider (मकड़ी), Snake (सांप)",
+                            "**Places (स्थान):** City (शहर), Village (गांव), School (विद्यालय), College (महाविद्यालय), Hospital (अस्पताल), Temple (मंदिर), Garden (बगीचा), Bank (बैंक), Post-office (डाकघर), Station (स्टेशन), River (नदी), Mountain (पहाड़)",
+                            "**Fruits/Vegetables (फल/सब्जियां):** Apple (सेब), Mango (आम), Banana (केला), Orange (संतरा), Potato (आलू), Tomato ( टमाटर), Onion (प्याज), Carrot (गाजर)",
+                            "**Vehicles/Objects (वाहन/वस्तुएं):** Car (कार), Bus (बस), Train (ट्रेन), Aeroplane (विमान), Bicycle (साइकिल), Pen (कलम), Book (पुस्तक), Table (मेज़), Chair (कुर्सी), Mobile (मोबाइल), Computer (कंप्यूटर), Watch (घड़ी)"
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Sentences:</b><br/>👉 The **teacher** is teaching in the **class**.<br/>👉 A **king** lives in a **palace**.<br/>👉 **Birds** fly in the **sky**."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3. Abstract Noun (भाववाचक संज्ञा)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "गुण, क्रिया, भाव, भावना या अवस्था के नाम को भाववाचक संज्ञा कहते हैं। इन्हें देखा या छुआ नहीं जा सकता, केवल महसूस किया जा सकता है।"
+                },
+                {
+                    "type": "note",
+                    "content": "<b>How to identify?</b> कई Abstract Nouns शब्द के अंत (Suffixes) से पहचाने जाते हैं, जैसे कि;<br/>-ness, -tion, -ment, -ship, -hood, -dom, -th, -ity"
+                },
+                {
+                    "type": "example_section",
+                    "content": {
+                        "title": "Comprehensive Examples (विस्तृत उदाहरण)",
+                        "examples": [
+                            "**Feelings (भावनाएं):** Happiness (खुशी), Sadness (दुःख), Joy (आनंद), Sorrow (शोक), Fear (डर), Anger (गुस्सा), Love (प्रेम), Hatred (नफरत), Pity (दया), Sympathy (सहानुभूति), Surprise (आश्चर्य), Pride (गर्व)",
+                            "**Qualities (गुण):** Goodness ( अच्छाई), Kindness (दयालुता), Honesty (ईमानदारी), Bravery (बहादुरी), Wisdom (बुद्धिमानी), Truth (सत्य), Beauty (सुंदरता), Cleverness (चतुराई), Intelligence (बुद्धि), Hardness (कठोरता), Softness (कोमलता), Brightness (चमक), Darkness (अंधेरा)",
+                            "**States (अवस्था/स्थिति):** Childhood (बचपन), Boyhood (लड़कपन), Youth (जवानी), Manhood (मर्दानगी), Old age (बुढ़ापा), Slavery (गुलामी), Freedom (आज़ादी/स्वतंत्रता), Poverty (गरीबी), Wealth (दौलत), Sickness (बीमारी), Health (स्वास्थ्य), Sleep (नींद), Death (मृत्यु), Life (जीवन)",
+                            "**Actions/Activity (क्रिया/गतिविधि):** Laughter (हंसी), Theft (चोरी), Movement (हलचल), Judgment (न्याय/फैसला), Discovery (खोज), Treatment (इलाज), Choice (पसंद)",
+                            "**Concepts (विचार):** Time (समय), Power (शक्ति), Knowledge (ज्ञान), Success (सफलता), Failure (असफलता), Luck (भाग्य), Justice (न्याय), Peace (शांति)"
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Sentences:</b><br/>👉 **Kindness** helps everyone.<br/>👉 India got **freedom** in 1947.<br/>👉 **Wisdom** is better than strength."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4. Collective Noun (समूहवाचक संज्ञा)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "किसी एक व्यक्ति या वस्तु नहीं, बल्कि पूरे समूह (Group) का उल्लेख करने के लिए उपयोग किए जाने वाले नाम को समूहवाचक संज्ञा कहते हैं।"
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Rule:</b> Collective Noun आमतौर पर एकवचन (Singular) माने जाते हैं, इसलिए क्रिया (Verb) भी एकवचन आती है।<br/>(e.g., The team **is** playing.)"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Comprehensive List (सपूर्ण सूची)",
+                        "headers": [
+                            "Collective Noun",
+                            "Meaning (हिंदी में)"
+                        ],
+                        "rows": [
+                            [
+                                "A **crowd/mob** of people",
+                                "लोगों की भीड़"
+                            ],
+                            [
+                                "A **herd** of cattle/deer",
+                                "पशुओं/हिरणों का झुंड"
+                            ],
+                            [
+                                "A **flock** of birds/sheep",
+                                "पक्षियों/भेड़ों का झुंड"
+                            ],
+                            [
+                                "An **army** of soldiers",
+                                "सैनिकों की सेना"
+                            ],
+                            [
+                                "A **class** of students",
+                                "छात्रों का वर्ग/कक्षा"
+                            ],
+                            [
+                                "A **team** of players",
+                                "खिलाड़ियों की टीम"
+                            ],
+                            [
+                                "A **jury** of judges",
+                                "न्यायाधीशों की समिति"
+                            ],
+                            [
+                                "A **committee** of members",
+                                "सदस्यों की समिति"
+                            ],
+                            [
+                                "A **gang** of thieves/robbers",
+                                "चोरों/लुटेरों का गिरोह"
+                            ],
+                            [
+                                "A **bunch** of keys/grapes",
+                                "चाबियों/अंगूरों का गुच्छा"
+                            ],
+                            [
+                                "A **bundle** of sticks",
+                                "लकड़ियों का गट्ठर"
+                            ],
+                            [
+                                "A **pile/heap** of stones/books",
+                                "पत्थरों/पुस्तकों का ढेर"
+                            ],
+                            [
+                                "A **fleet** of ships/cars",
+                                "जहाजों/कोरों का बेड़ा"
+                            ],
+                            [
+                                "A **library** of books",
+                                "पुस्तकालय"
+                            ],
+                            [
+                                "A **pride** of lions",
+                                "शेरों का झुंड"
+                            ],
+                            [
+                                "A **swarm** of bees/ants",
+                                "मक्खियों/चींटियों का झुंड"
+                            ],
+                            [
+                                "A **shoal/school** of fish",
+                                "मछलियों का झुंड"
+                            ],
+                            [
+                                "A **troupe** of dancers",
+                                "नर्तकों की मंडली"
+                            ],
+                            [
+                                "A **band** of musicians",
+                                "संगीतकारों की मंडली"
+                            ],
+                            [
+                                "A **bouquet** of flowers",
+                                "फूलों का गुलदस्ता"
+                            ],
+                            [
+                                "A **galaxy** of stars",
+                                "तारामंडल/आकाशगंगा"
+                            ],
+                            [
+                                "A **pack** of wolves/cards",
+                                "भेड़ियों का झुंड / ताश की गड्डी"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Sentences:</b><br/>👉 The **police** dispersed the **crowd**.<br/>👉 A **herd** of elephants crossed the road.<br/>👉 Our **team** won the match."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "5. Proper Noun (व्यक्तिवाचक संज्ञा)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "किसी भी व्यक्ति, वस्तु या स्थान को उसकी जाति के अन्य नामों से अलग करने के लिए जो 'विशेष नाम' दिया जाता है उसे व्यक्तिवाचक संज्ञा कहते हैं।"
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Rule:</b> Proper Noun का पहला अक्षर हमेशा **Capital** होता है। इसके आगे Article (a, an) नहीं लगता (अपवादों को छोड़कर)।"
+                },
+                {
+                    "type": "example_section",
+                    "content": {
+                        "title": "Examples (उदाहरण)",
+                        "examples": [
+                            "**Persons:** Rahul, Priya, Narendra Modi, Virat Kohli, Amitabh Bachchan",
+                            "**Cities/States:** Surat, Delhi, Gujarat, Mumbai, Rajkot, Punjab, Kashmir",
+                            "**Countries:** India, USA, Japan, Australia, Canada, China, Nepal",
+                            "**Days/Months:** Sunday, Monday, January, March, December",
+                            "**Festivals:** Diwali, Holi, Eid, Christmas, Navratri, Raksha Bandhan",
+                            "**Monuments:** The Taj Mahal, The Statue of Unity, The Red Fort, The Qutub Minar",
+                            "**Rivers/Mountains:** The Ganga, The Yamuna, The Narmada, The Himalayas, The Girnar",
+                            "**Brands:** Google, Amul, Honda, Samsung, Tata, Jio, Apple"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "🚫 Confusion Points (भ्रम से बचें)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "अक्सर छात्रों को कुछ नामों में भ्रम (Confusion) होता है। चलिए इसे स्पष्ट करते हैं।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Proper Noun vs Common Noun",
+                        "headers": [
+                            "Proper Noun (विशेष नाम)",
+                            "Common Noun (सामान्य नाम)"
+                        ],
+                        "rows": [
+                            [
+                                "**Sachin Tendulkar**",
+                                "**Cricketer** (कई क्रिकेटर हो सकते हैं)"
+                            ],
+                            [
+                                "**India**",
+                                "**Country** (कई देश हो सकते हैं)"
+                            ],
+                            [
+                                "**Tommy** (कुत्ते का नाम)",
+                                "**Dog** (प्राणी की जाति)"
+                            ],
+                            [
+                                "**Nokia**",
+                                "**Mobile**"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Common Noun vs Collective Noun",
+                        "headers": [
+                            "Common Noun",
+                            "Collective Noun (समूह)"
+                        ],
+                        "rows": [
+                            [
+                                "**Player** (एक खिलाड़ी)",
+                                "**Team** (खिलाड़ियों का समूह)"
+                            ],
+                            [
+                                "**Student** (एक छात्र)",
+                                "**Class** (छात्रों का समूह)"
+                            ],
+                            [
+                                "**Soldier** (एक सैनिक)",
+                                "**Army** (सैनिकों का समूह)"
+                            ],
+                            [
+                                "**Key** (एक चाबी)",
+                                "**Bunch** (चाबियों का गुच्छा)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "level-4",
+  "title": "Digital Actions 4",
+  "words": [
+    {
+      "word": "Upload",
+      "gujaratiPronunciation": "અપલોડ",
+      "hindiPronunciation": "अपलोड",
+      "gujaratiMeaning": "અપલોડ કરવું",
+      "hindiMeaning": "अपलोड करना",
+      "exampleSentences": [
+        {
+          "sentence": "You can upload your photos to the cloud.",
+          "gujaratiTranslation": "તમે તમારા ફોટા ક્લાઉડ પર અપલોડ કરી શકો છો.",
+          "hindiTranslation": "आप अपनी तस्वीरें क्लाउड पर अपलोड कर सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Download",
+      "gujaratiPronunciation": "ડાઉનલોડ",
+      "hindiPronunciation": "डाउनलोड",
+      "gujaratiMeaning": "ડાઉનલોડ કરવું",
+      "hindiMeaning": "डाउनलोड करना",
+      "exampleSentences": [
+        {
+          "sentence": "I need to download this file.",
+          "gujaratiTranslation": "મારે આ ફાઈલ ડાઉનલોડ કરવાની જરૂર છે.",
+          "hindiTranslation": "मुझे यह फ़ाइल डाउनलोड کرنے की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Copy",
+      "gujaratiPronunciation": "કૉપિ",
+      "hindiPronunciation": "कॉपी",
+      "gujaratiMeaning": "નકલ કરવી",
+      "hindiMeaning": "कॉपी करना",
+      "exampleSentences": [
+        {
+          "sentence": "Copy the text and paste it here.",
+          "gujaratiTranslation": "ટેક્સ્ટની નકલ કરો અને તેને અહીં પેસ્ટ કરો.",
+          "hindiTranslation": "टेक्स्ट कॉपी करें और इसे یہاں पेस्ट करें।"
+        }
+      ]
+    },
+    {
+      "word": "Paste",
+      "gujaratiPronunciation": "પેસ્ટ",
+      "hindiPronunciation": "पेस्ट",
+      "gujaratiMeaning": "પેસ્ટ કરવું",
+      "hindiMeaning": "पेस्ट करना",
+      "exampleSentences": [
+        {
+          "sentence": "You can paste the copied image.",
+          "gujaratiTranslation": "તમે કૉપિ કરેલી છબી પેસ્ટ કરી શકો છો.",
+          "hindiTranslation": " आप कॉपी की गई छवि पेस्ट कर सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Delete",
+      "gujaratiPronunciation": "ડિલીટ",
+      "hindiPronunciation": "डिलीट",
+      "gujaratiMeaning": "કાઢી નાખવું",
+      "hindiMeaning": "मिटाना",
+      "exampleSentences": [
+        {
+          "sentence": "Be careful before you delete the file.",
+          "gujaratiTranslation": "ફાઈલ કાઢી નાખતા પહેલા સાવચેત રહો.",
+          "hindiTranslation": "फ़ाइल को हटाने से पहले सावधान रहें।"
+        }
+      ]
+    }
+  ]
+}

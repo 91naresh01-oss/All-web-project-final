@@ -1,0 +1,452 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Exult",
+      "gujaratiPronunciation": "એક્ઝલ્ટ",
+      "hindiPronunciation": "एक्ज़ल्ट",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "અતિશય આનંદ કરવો",
+      "hindiMeaning": "अत्यधिक আনন্দ करना",
+      "verbForms": {
+        "v1": {
+          "word": "Exult",
+          "gujaratiPronunciation": "એક્ઝલ્ટ",
+          "hindiPronunciation": "एक्ज़ल्ट",
+          "gujaratiMeaning": "અતિશય આનંદ કરવો",
+          "hindiMeaning": "अत्यधिक आनंद करना"
+        },
+        "v2": {
+          "word": "Exulted",
+          "gujaratiPronunciation": "એક્ઝલ્ટેડ",
+          "hindiPronunciation": "एक्ज़ल्टेड",
+          "gujaratiMeaning": "અતિશય આનંદ કર્યો",
+          "hindiMeaning": "अत्यधिक आनंद किया"
+        },
+        "v3": {
+          "word": "Exulted",
+          "gujaratiPronunciation": "એક્ઝલ્ટેડ",
+          "hindiPronunciation": "एक्ज़ल्टेड",
+          "gujaratiMeaning": "અતિશય આનંદ કરેલો",
+          "hindiMeaning": "अत्यधिक आनंद कर चुका"
+        },
+        "v4": {
+          "word": "Exulting",
+          "gujaratiPronunciation": "એક્ઝલ્ટિંગ",
+          "hindiPronunciation": "एक्ज़ल्टिंग",
+          "gujaratiMeaning": "અતિશય આનંદ કરી રહ્યું છે",
+          "hindiMeaning": "अत्यधिक आनंद कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rejoice",
+          "gujaratiPronunciation": "રિજોઇસ",
+          "hindiPronunciation": "रिजॉइस",
+          "gujaratiMeaning": "આનંદ કરવો",
+          "hindiMeaning": "आनंद मनाना"
+        },
+        {
+          "word": "Triumph",
+          "gujaratiPronunciation": "ટ્રાયમ્ફ",
+          "hindiPronunciation": "ट्रायम्फ़",
+          "gujaratiMeaning": "વિજયોત્સવ મનાવવો",
+          "hindiMeaning": "विजय मनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Mourn",
+          "gujaratiPronunciation": "મોર્ન",
+          "hindiPronunciation": "मोर्न",
+          "gujaratiMeaning": "શોક કરવો",
+          "hindiMeaning": "शोक मनाना"
+        },
+        {
+          "word": "Lament",
+          "gujaratiPronunciation": "લમેન્ટ",
+          "hindiPronunciation": "लमेंट",
+          "gujaratiMeaning": "વિલાપ કરવો",
+          "hindiMeaning": "विलाप करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Exalt",
+          "gujaratiPronunciation": "એક્ઝોલ્ટ",
+          "hindiPronunciation": "एક્ज़ॉल्ट",
+          "gujaratiMeaning": "વખાણવું",
+          "hindiMeaning": "प्रशंसा करना"
+        },
+        {
+          "word": "Result",
+          "gujaratiPronunciation": "રિઝલ્ટ",
+          "hindiPronunciation": "रिज़ल्ट",
+          "gujaratiMeaning": "પરિણામ",
+          "hindiMeaning": "परिणाम"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The winning team began to exult in their victory.",
+          "gujaratiPronunciation": "ધ વિનિંગ ટીમ બિગેન ટુ એક્ઝલ્ટ ઇન ધેર વિક્ટરી.",
+          "hindiPronunciation": "द विनिंग टीम बिगेन टु एक्ज़ल्ट इन देयर विक्ट्री।",
+          "gujaratiTranslation": "વિજેતા ટીમે તેમની જીત પર અતિશય આનંદ કરવાનું શરૂ કર્યું.",
+          "hindiTranslation": "विजेता टीम ने अपनी जीत पर अत्यधिक आनंद मनाना शुरू कर दिया।"
+        }
+      ]
+    },
+    {
+      "word": "Catharsis",
+      "gujaratiPronunciation": "કેથાર્સિસ",
+      "hindiPronunciation": "कैथार्सिस",
+      "partOfSpeech": "noun",
+      "gujaratiMeaning": "ભાવનાત્મક શુદ્ધિ",
+      "hindiMeaning": "भावनात्मक शुद्धि",
+      "verbForms": {},
+      "synonyms": [
+        {
+          "word": "Purging",
+          "gujaratiPronunciation": "પર્જિંગ",
+          "hindiPronunciation": " पर्जिंग",
+          "gujaratiMeaning": "શુદ્ધિકરણ",
+          "hindiMeaning": "शुद्धिकरण"
+        },
+        {
+          "word": "Release",
+          "gujaratiPronunciation": "રિલીઝ",
+          "hindiPronunciation": "रिलीज़",
+          "gujaratiMeaning": "મુક્તિ",
+          "hindiMeaning": "मुक्ति"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Repression",
+          "gujaratiPronunciation": "રિપ્રેશન",
+          "hindiPronunciation": "रिप्रेशन",
+          "gujaratiMeaning": "દમન",
+          "hindiMeaning": "दमन"
+        },
+        {
+          "word": "Suppression",
+          "gujaratiPronunciation": "સપ્રેશન",
+          "hindiPronunciation": "सप्रेशन",
+          "gujaratiMeaning": "દબાવવું",
+          "hindiMeaning": "दबाव"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Cathedral",
+          "gujaratiPronunciation": "કેથેડ્રલ",
+          "hindiPronunciation": "कैथेड्रल",
+          "gujaratiMeaning": "દેવળ",
+          "hindiMeaning": "गिरजाघर"
+        },
+        {
+          "word": "Crisis",
+          "gujaratiPronunciation": "ક્રાઇસિસ",
+          "hindiPronunciation": "क्राइसिस",
+          "gujaratiMeaning": "સંકટ",
+          "hindiMeaning": "संकट"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Writing in her journal was a form of catharsis for her.",
+          "gujaratiPronunciation": "રાઇટિંગ ઇન હર જર્નલ વોઝ અ ફોર્મ ઓફ કેથાર્સિસ ફોર હર.",
+          "hindiPronunciation": "राइटिंग इन हर जर्नल वॉज़ अ फ़ॉर्म ऑफ़ कैथार्सिस फ़ॉर हर।",
+          "gujaratiTranslation": "તેની ડાયરીમાં લખવું તેના માટે ભાવનાત્મક શુદ્ધિનું એક સ્વરૂપ હતું.",
+          "hindiTranslation": "उसकी डायरी में लिखना उसके लिए भावनात्मक शुद्धि का एक रूप था।"
+        }
+      ]
+    },
+    {
+      "word": "Detach",
+      "gujaratiPronunciation": "ડિટેચ",
+      "hindiPronunciation": "डिटैच",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "અલગ કરવું",
+      "hindiMeaning": "अलग करना",
+      "verbForms": {
+        "v1": {
+          "word": "Detach",
+          "gujaratiPronunciation": "ડિટેચ",
+          "hindiPronunciation": "डिटैch",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        },
+        "v2": {
+          "word": "Detached",
+          "gujaratiPronunciation": "ડિટેચ્ડ",
+          "hindiPronunciation": "डिटैched",
+          "gujaratiMeaning": "અલગ કર્યું",
+          "hindiMeaning": "अलग किया"
+        },
+        "v3": {
+          "word": "Detached",
+          "gujaratiPronunciation": "ડિટેચ્ડ",
+          "hindiPronunciation": "डिटैched",
+          "gujaratiMeaning": "અલગ કરેલું",
+          "hindiMeaning": "अलग कर चुका"
+        },
+        "v4": {
+          "word": "Detaching",
+          "gujaratiPronunciation": "ડિટેચિંગ",
+          "hindiPronunciation": "डिटैching",
+          "gujaratiMeaning": "અલગ કરી રહ્યું છે",
+          "hindiMeaning": "अलग कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Separate",
+          "gujaratiPronunciation": "સેપરેટ",
+          "hindiPronunciation": "सेपरेट",
+          "gujaratiMeaning": "જુદું કરવું",
+          "hindiMeaning": "जुदा करना"
+        },
+        {
+          "word": "Disconnect",
+          "gujaratiPronunciation": "ડિસ્કનેક્ટ",
+          "hindiPronunciation": "डिस्कनेक्ट",
+          "gujaratiMeaning": "જોડાણ તોડવું",
+          "hindiMeaning": "संपर्क तोड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Attach",
+          "gujaratiPronunciation": "એટેચ",
+          "hindiPronunciation": "अटैch",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        },
+        {
+          "word": "Connect",
+          "gujaratiPronunciation": "કનેક્ટ",
+          "hindiPronunciation": "कनेक्ट",
+          "gujaratiMeaning": "સાંધવું",
+          "hindiMeaning": "जोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Detail",
+          "gujaratiPronunciation": "ડિટેલ",
+          "hindiPronunciation": "डिटेल",
+          "gujaratiMeaning": "વિગત",
+          "hindiMeaning": "विवरण"
+        },
+        {
+          "word": "Attack",
+          "gujaratiPronunciation": "એટેક",
+          "hindiPronunciation": "अटैक",
+          "gujaratiMeaning": "હુમલો",
+          "hindiMeaning": "आक्रमण"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to detach the trailer from the car.",
+          "gujaratiPronunciation": "યુ નીડ ટુ ડિટેચ ધ ટ્રેલર ફ્રોમ ધ કાર.",
+          "hindiPronunciation": "यू नीड टु डिटैच द ट्रेलर ఫ్రొમ द कार।",
+          "gujaratiTranslation": "તમારે ટ્રેલરને કારમાંથી અલગ કરવાની જરૂર છે.",
+          "hindiTranslation": "आपको ट्रेलर को कार से अलग करने की आवश्यकता है।"
+        }
+      ]
+    },
+    {
+      "word": "Liberate",
+      "gujaratiPronunciation": "લિબરેટ",
+      "hindiPronunciation": "लिबरेट",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "મુક્ત કરવું",
+      "hindiMeaning": "मुक्त करना",
+      "verbForms": {
+        "v1": {
+          "word": "Liberate",
+          "gujaratiPronunciation": "લિબરેટ",
+          "hindiPronunciation": "लिबरेट",
+          "gujaratiMeaning": "મુક્ત કરવું",
+          "hindiMeaning": "मुक्त करना"
+        },
+        "v2": {
+          "word": "Liberated",
+          "gujaratiPronunciation": "લિબરેટેડ",
+          "hindiPronunciation": "लिबरेटेड",
+          "gujaratiMeaning": "મુક્ત કર્યું",
+          "hindiMeaning": "मुक्त किया"
+        },
+        "v3": {
+          "word": "Liberated",
+          "gujaratiPronunciation": "લિબરેટેડ",
+          "hindiPronunciation": "लिबरेटेड",
+          "gujaratiMeaning": "મુક્ત કરેલું",
+          "hindiMeaning": "मुक्त कर चुका"
+        },
+        "v4": {
+          "word": "Liberating",
+          "gujaratiPronunciation": "લિબરેટિંગ",
+          "hindiPronunciation": "लिबरेटिंग",
+          "gujaratiMeaning": "મુક્ત કરી રહ્યું છે",
+          "hindiMeaning": "मुक्त कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Free",
+          "gujaratiPronunciation": "ફ્રી",
+          "hindiPronunciation": "फ्री",
+          "gujaratiMeaning": "સ્વતંત્ર કરવું",
+          "hindiMeaning": "स्वतंत्र करना"
+        },
+        {
+          "word": "Release",
+          "gujaratiPronunciation": "રિલીઝ",
+          "hindiPronunciation": "रिलीज़",
+          "gujaratiMeaning": "છોડવું",
+          "hindiMeaning": "छोड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Imprison",
+          "gujaratiPronunciation": "ઇમ્પ્રિઝન",
+          "hindiPronunciation": "इम्प्रिज़न",
+          "gujaratiMeaning": "કેદ કરવું",
+          "hindiMeaning": "कैद करना"
+        },
+        {
+          "word": "Enslave",
+          "gujaratiPronunciation": "એન્સલેવ",
+          "hindiPronunciation": "एन्स्लेव",
+          "gujaratiMeaning": "ગુલામ બનાવવું",
+          "hindiMeaning": "गुलाम बनाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Vibrate",
+          "gujaratiPronunciation": "વાઇબ્રેટ",
+          "hindiPronunciation": "वाइब्रेट",
+          "gujaratiMeaning": "ધ્રુજવું",
+          "hindiMeaning": "कांपना"
+        },
+        {
+          "word": "Liberal",
+          "gujaratiPronunciation": "લિબરલ",
+          "hindiPronunciation": "लिबरल",
+          "gujaratiMeaning": "ઉદાર",
+          "hindiMeaning": "उदार"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The soldiers' mission was to liberate the captured town.",
+          "gujaratiPronunciation": "ધ સોલ્જર્સ મિશન વોઝ ટુ લિબરેટ ધ કેપ્ચર્ડ ટાઉન.",
+          "hindiPronunciation": "द सोल्जर्स मिशन वॉज़ टु लिबरेट द कैપ્चर्ड टाउन।",
+          "gujaratiTranslation": "સૈનિકોનું મિશન કબજે કરાયેલા શહેરને મુક્ત કરવાનું હતું.",
+          "hindiTranslation": "सैनिकों का मिशन कब्ज़ा किए गए शहर को मुक्त कराना था।"
+        }
+      ]
+    },
+    {
+      "word": "Release",
+      "gujaratiPronunciation": "રિલીઝ",
+      "hindiPronunciation": "रिલીज़",
+      "partOfSpeech": "verb",
+      "gujaratiMeaning": "મુક્ત કરવું",
+      "hindiMeaning": "मुक्त करना",
+      "verbForms": {
+        "v1": {
+          "word": "Release",
+          "gujaratiPronunciation": "રિલીઝ",
+          "hindiPronunciation": "रिલીज़",
+          "gujaratiMeaning": "મુક્ત કરવું",
+          "hindiMeaning": "मुक्त करना"
+        },
+        "v2": {
+          "word": "Released",
+          "gujaratiPronunciation": "રિલીઝ્ડ",
+          "hindiPronunciation": "रिलीज़्ड",
+          "gujaratiMeaning": "મુક્ત કર્યું",
+          "hindiMeaning": "मुक्त किया"
+        },
+        "v3": {
+          "word": "Released",
+          "gujaratiPronunciation": "રિલીઝ્ડ",
+          "hindiPronunciation": "रिलीज़्ड",
+          "gujaratiMeaning": "મુક્ત કરેલું",
+          "hindiMeaning": "मुक्त कर चुका"
+        },
+        "v4": {
+          "word": "Releasing",
+          "gujaratiPronunciation": "રિલીઝિંગ",
+          "hindiPronunciation": "रिलीज़िंग",
+          "gujaratiMeaning": "મુક્ત કરી રહ્યું છે",
+          "hindiMeaning": "मुक्त कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Free",
+          "gujaratiPronunciation": "ફ્રી",
+          "hindiPronunciation": "फ्री",
+          "gujaratiMeaning": "સ્વતંત્ર કરવું",
+          "hindiMeaning": "स्वतंत्र करना"
+        },
+        {
+          "word": "Discharge",
+          "gujaratiPronunciation": "ડિસ્ચાર્જ",
+          "hindiPronunciation": "डिस्चार्ज",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Capture",
+          "gujaratiPronunciation": "કેપ્ચર",
+          "hindiPronunciation": "कैप्चर",
+          "gujaratiMeaning": "પકડવું",
+          "hindiMeaning": "पकड़ना"
+        },
+        {
+          "word": "Hold",
+          "gujaratiPronunciation": "હોલ્ડ",
+          "hindiPronunciation": "होल्ड",
+          "gujaratiMeaning": "પકડી રાખવું",
+          "hindiMeaning": "पकड़ कर रखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Re-lease",
+          "gujaratiPronunciation": "રી-લીઝ",
+          "hindiPronunciation": "री-लीज़",
+          "gujaratiMeaning": "ફરીથી ભાડે આપવું",
+          "hindiMeaning": "फिर से किराए पर देना"
+        },
+        {
+          "word": "Realize",
+          "gujaratiPronunciation": "રિયલાઇઝ",
+          "hindiPronunciation": "रियलाइज़",
+          "gujaratiMeaning": "સમજવું",
+          "hindiMeaning": "महसूस کرنا"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company will release its new product next month.",
+          "gujaratiPronunciation": "ધ કંપની વિલ રિલીઝ ઇટ્સ ન્યૂ પ્રોડક્ટ નેક્સ્ટ મન્થ.",
+          "hindiPronunciation": "द कंपनी विल रिलीज़ इट्स न्यू प्रोडक्ट नेक्स्ट मंथ।",
+          "gujaratiTranslation": "કંપની આવતા મહિને તેનું નવું ઉત્પાદન બહાર પાડશે.",
+          "hindiTranslation": "कंपनी अगले महीने اپنا نیا उत्पाद जारी करेगी।"
+        }
+      ]
+    }
+  ]
+}

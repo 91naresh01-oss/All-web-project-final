@@ -1,0 +1,164 @@
+{
+  "id": "level-2",
+  "title": "Level 2: Resource Management",
+  "words": [
+    {
+      "word": "Budget",
+      "gujaratiPronunciation": "બજેટ",
+      "hindiPronunciation": "बजट",
+      "gujaratiMeaning": "અંદાજપત્ર બનાવવું",
+      "hindiMeaning": "बजट बनाना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Budget", "gujaratiPronunciation": "બજેટ", "hindiPronunciation": "बजट", "gujaratiMeaning": "અંદાજપત્ર બનાવવું", "hindiMeaning": "बजट बनाना" },
+        "V2 (Past)": { "word": "Budgeted", "gujaratiPronunciation": "બજેટેડ", "hindiPronunciation": "बजेटेड", "gujaratiMeaning": "અંદાજપત્ર બનાવ્યું", "hindiMeaning": "बजट बनाया" },
+        "V3 (Past Participle)": { "word": "Budgeted", "gujaratiPronunciation": "બજેટેડ", "hindiPronunciation": "बजेटेड", "gujaratiMeaning": "અંદાજપત્ર બનાવેલું", "hindiMeaning": "बजट बनाया हुआ" },
+        "V4 (Present Participle)": { "word": "Budgeting", "gujaratiPronunciation": "બજેટિંગ", "hindiPronunciation": "बજેटिंग", "gujaratiMeaning": "અંદાજપત્ર બનાવી રહ્યું છે", "hindiMeaning": "बजट बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Allocate", "gujaratiPronunciation": "એલોકેટ", "hindiPronunciation": "एलोकेट", "gujaratiMeaning": "ફાળવવું", "hindiMeaning": "आवंटित करना" },
+        { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "hindiPronunciation": "प्लान", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Overspend", "gujaratiPronunciation": "ઓવરસ્પેન્ડ", "hindiPronunciation": "ओवरस्पेंड", "gujaratiMeaning": "વધુ ખર્ચ કરવો", "hindiMeaning": "अधिक खर्च करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "We need to budget our expenses for the month.",
+          "gujaratiTranslation": "આપણે મહિના માટે આપણા ખર્ચનું બજેટ બનાવવાની જરૂર છે.",
+          "hindiTranslation": "हमें महीने के लिए अपने खर्चों का बजट बनाना होगा।",
+          "gujaratiPronunciation": "વી નીડ ટુ બજેટ અવર એક્સપેન્સીસ ફોર ધ મન્થ.",
+          "hindiPronunciation": "वी नीड टू बजट आवर एक्सपेंसेस फॉर द मंथ।"
+        }
+      ]
+    },
+    {
+      "word": "Procure",
+      "gujaratiPronunciation": "પ્રોક્યોર",
+      "hindiPronunciation": "प्रोक्योर",
+      "gujaratiMeaning": "મેળવવું",
+      "hindiMeaning": "प्राप्त करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Procure", "gujaratiPronunciation": "પ્રોક્યોર", "hindiPronunciation": "प्रोक्योर", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" },
+        "V2 (Past)": { "word": "Procured", "gujaratiPronunciation": "પ્રોક્યોર્ડ", "hindiPronunciation": "प्रोक्योर्ड", "gujaratiMeaning": "મેળવ્યું", "hindiMeaning": "प्राप्त किया" },
+        "V3 (Past Participle)": { "word": "Procured", "gujaratiPronunciation": "પ્રોક્યોર્ડ", "hindiPronunciation": "प्रोक्योर्ड", "gujaratiMeaning": "મેળવેલું", "hindiMeaning": "प्राप्त किया हुआ" },
+        "V4 (Present Participle)": { "word": "Procuring", "gujaratiPronunciation": "પ્રોક્યોરિંગ", "hindiPronunciation": "प्रोक्योरिंग", "gujaratiMeaning": "મેળવી રહ્યું છે", "hindiMeaning": "प्राप्त कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Obtain", "gujaratiPronunciation": "ઓબટેન", "hindiPronunciation": "ऑब्टेन", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" },
+        { "word": "Acquire", "gujaratiPronunciation": "એક્વાયર", "hindiPronunciation": "एक्वायर", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "अधिग्रहित करना" }
+      ],
+      "antonyms": [
+        { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज़", "gujaratiMeaning": "ગુમાવવું", "hindiMeaning": "खोना" },
+        { "word": "Forfeit", "gujaratiPronunciation": "ફોર્ફીટ", "hindiPronunciation": "फॉरफीट", "gujaratiMeaning": "જપ્ત થવું", "hindiMeaning": "ज़ब्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Secure", "gujaratiPronunciation": "સિક્યોર", "hindiPronunciation": "सिक्योर", "gujaratiMeaning": "સુરક્ષિત", "hindiMeaning": "सुरक्षित" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company needs to procure new equipment.",
+          "gujaratiTranslation": "કંપનીને નવા સાધનો મેળવવાની જરૂર છે.",
+          "hindiTranslation": "कंपनी को नए उपकरण प्राप्त करने की आवश्यकता है।",
+          "gujaratiPronunciation": "ધ કંપની નીડ્સ ટુ પ્રોક્યોર ન્યૂ ઇક્વિપમેન્ટ.",
+          "hindiPronunciation": "द कंपनी नीड्स टू प्रोक्योर न्यू इक्विपमेंट।"
+        }
+      ]
+    },
+    {
+      "word": "Market",
+      "gujaratiPronunciation": "માર્કેટ",
+      "hindiPronunciation": "मार्केट",
+      "gujaratiMeaning": "બજારમાં વેચવું, માર્કેટિંગ કરવું",
+      "hindiMeaning": "बाजार में बेचना, विपणन करना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Market", "gujaratiPronunciation": "માર્કેટ", "hindiPronunciation": "मार्केट", "gujaratiMeaning": "માર્કેટિંગ કરવું", "hindiMeaning": "विपणन करना" },
+        "V2 (Past)": { "word": "Marketed", "gujaratiPronunciation": "માર્કેટેડ", "hindiPronunciation": "मार्केटेड", "gujaratiMeaning": "માર્કેટિંગ કર્યું", "hindiMeaning": "विपणन किया" },
+        "V3 (Past Participle)": { "word": "Marketed", "gujaratiPronunciation": "માર્કેટેડ", "hindiPronunciation": "मार्केटेड", "gujaratiMeaning": "માર્કેટિંગ કરેલું", "hindiMeaning": "विपणित" },
+        "V4 (Present Participle)": { "word": "Marketing", "gujaratiPronunciation": "માર્કેટિંગ", "hindiPronunciation": "मार्केटिंग", "gujaratiMeaning": "માર્કેટિંગ કરી રહ્યું છે", "hindiMeaning": "विपणन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Sell", "gujaratiPronunciation": "સેલ", "hindiPronunciation": "सेल", "gujaratiMeaning": "વેચવું", "hindiMeaning": "बेचना" },
+        { "word": "Promote", "gujaratiPronunciation": "પ્રમોટ", "hindiPronunciation": "प्रमोट", "gujaratiMeaning": "પ્રચાર કરવો", "hindiMeaning": "प्रचार करना" }
+      ],
+      "antonyms": [
+        { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "hindiPronunciation": "हाइड", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "They market their products globally.",
+          "gujaratiTranslation": "તેઓ તેમના ઉત્પાદનોનું વૈશ્વિક સ્તરે માર્કેટિંગ કરે છે.",
+          "hindiTranslation": "वे अपने उत्पादों का विश्व स्तर पर विपणन करते हैं।",
+          "gujaratiPronunciation": "ધે માર્કેટ ધેર પ્રોડક્ટ્સ ગ્લોબલી.",
+          "hindiPronunciation": "दे मार्केट देयर प्रोडक्ट्स ग्लोबली।"
+        }
+      ]
+    },
+    {
+      "word": "Distribute",
+      "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ",
+      "hindiPronunciation": "डिस्ट्रीब्यूट",
+      "gujaratiMeaning": "વહેંચણી કરવી",
+      "hindiMeaning": "वितरित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Distribute", "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ", "hindiPronunciation": "डिस्ट्रीब्यूट", "gujaratiMeaning": "વહેંચણી કરવી", "hindiMeaning": "वितरित करना" },
+        "V2 (Past)": { "word": "Distributed", "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટેડ", "hindiPronunciation": "डिस्ट्रीब्यूटेड", "gujaratiMeaning": "વહેંચણી કરી", "hindiMeaning": "वितरित किया" },
+        "V3 (Past Participle)": { "word": "Distributed", "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટેડ", "hindiPronunciation": "डिस्ट्रीब्यूटेड", "gujaratiMeaning": "વહેંચેલું", "hindiMeaning": "वितरित" },
+        "V4 (Present Participle)": { "word": "Distributing", "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટિંગ", "hindiPronunciation": "डिस्ट्रीब्यूटिंग", "gujaratiMeaning": "વહેંચણી કરી રહ્યું છે", "hindiMeaning": "वितरित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Share", "gujaratiPronunciation": "શેર", "hindiPronunciation": "शेयर", "gujaratiMeaning": "વહેંચવું", "hindiMeaning": "बाँटना" },
+        { "word": "Spread", "gujaratiPronunciation": "સ્પ્રેડ", "hindiPronunciation": "स्प्रेड", "gujaratiMeaning": "ફેલાવવું", "hindiMeaning": "फैलाना" }
+      ],
+      "antonyms": [
+        { "word": "Collect", "gujaratiPronunciation": "કલેક્ટ", "hindiPronunciation": "कलेक्ट", "gujaratiMeaning": "એકત્ર કરવું", "hindiMeaning": "एकत्र करना" },
+        { "word": "Gather", "gujaratiPronunciation": "ગેધર", "hindiPronunciation": "गैदर", "gujaratiMeaning": "ભેગું કરવું", "hindiMeaning": "इकट्ठा करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The organization will distribute food to the needy.",
+          "gujaratiTranslation": "સંસ્થા જરૂરિયાતમંદોને ખોરાકનું વિતરણ કરશે.",
+          "hindiTranslation": "संगठन जरूरतमंदों को भोजन वितरित करेगा।",
+          "gujaratiPronunciation": "ધ ઓર્ગેનાઇઝેશન વિલ ડિસ્ટ્રિબ્યુટ ફૂડ ટુ ધ નીડી.",
+          "hindiPronunciation": "द ऑर्गनाइजेशन विल डिस्ट्रीब्यूट फूड टू द नीडी।"
+        }
+      ]
+    },
+    {
+      "word": "Invest",
+      "gujaratiPronunciation": "ઇન્વેસ્ટ",
+      "hindiPronunciation": "इन्वेस्ट",
+      "gujaratiMeaning": "રોકાણ કરવું",
+      "hindiMeaning": "निवेश करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Invest", "gujaratiPronunciation": "ઇન્વેસ્ટ", "hindiPronunciation": "इन्वेस्ट", "gujaratiMeaning": "રોકાણ કરવું", "hindiMeaning": "निवेश करना" },
+        "V2 (Past)": { "word": "Invested", "gujaratiPronunciation": "ઇન્વેસ્ટેડ", "hindiPronunciation": "इन्वेस्टेड", "gujaratiMeaning": "રોકાણ કર્યું", "hindiMeaning": "निवेश किया" },
+        "V3 (Past Participle)": { "word": "Invested", "gujaratiPronunciation": "ઇન્વેસ્ટેડ", "hindiPronunciation": "इन्वेस्टेड", "gujaratiMeaning": "રોકાણ કરેલું", "hindiMeaning": "निवेशित" },
+        "V4 (Present Participle)": { "word": "Investing", "gujaratiPronunciation": "ઇન્વેસ્ટિંગ", "hindiPronunciation": "इन्वेस्टिंग", "gujaratiMeaning": "રોકાણ કરી રહ્યું છે", "hindiMeaning": "निवेश कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Fund", "gujaratiPronunciation": "ફંડ", "hindiPronunciation": "फंड", "gujaratiMeaning": "ભંડોળ પૂરું પાડવું", "hindiMeaning": "वित्त पोषण करना" }
+      ],
+      "antonyms": [
+        { "word": "Divest", "gujaratiPronunciation": "ડાયવેસ્ટ", "hindiPronunciation": "डाइवेस्ट", "gujaratiMeaning": "રોકાણ પાછું ખેંચવું", "hindiMeaning": "निवेश वापस लेना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "He decided to invest in the stock market.",
+          "gujaratiTranslation": "તેણે શેરબજારમાં રોકાણ કરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "उसने शेयर बाजार में निवेश करने का फैसला किया।",
+          "gujaratiPronunciation": "હી ડિસાઇડેડ ટુ ઇન્વેસ્ટ ઇન ધ સ્ટોક માર્કેટ.",
+          "hindiPronunciation": "ही डिसाइडेड टू इन्वेस्ट इन द स्टॉक मार्केट।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "adverbs-gu",
+  "title": "Adverbs (ક્રિયા વિશેષણ)",
+  "description": "ક્રિયા વિશેષણ એવા શબ્દો છે જે ક્રિયાપદ, વિશેષણ અથવા અન્ય ક્રિયા વિશેષણના અર્થમાં વધારો કરે છે.",
+  "content": [
+    {
+      "type": "section",
+      "title": "Introduction (પરિચય)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Adverb (ક્રિયા વિશેષણ) એ વાક્યમાં ક્રિયા ક્યારે, ક્યાં, કેવી રીતે, કેટલી વાર અથવા કેટલી માત્રામાં થઈ તે દર્શાવે છે. તે ક્રિયાપદ, વિશેષણ, અથવા બીજા ક્રિયા વિશેષણ વિશે વધુ માહિતી આપે છે."
+        },
+        {
+          "type": "paragraph",
+          "content": "ક્રિયા વિશેષણના મુખ્ય પ્રકારો નીચે મુજબ છે:"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "1. Adverb of Manner (રીતિવાચક ક્રિયા વિશેષણ)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "Adverb of Manner",
+            "headers": [
+              "Adverb",
+              "Gujarati Meaning",
+              "Example Sentence"
+            ],
+            "rows": [
+              [
+                "Slowly",
+                "ધીમેથી",
+                "He walks slowly.<br>(તે ધીમેથી ચાલે છે.)"
+              ],
+              [
+                "Happily",
+                "ખુશીથી",
+                "She smiled happily.<br>(તેણી ખુશીથી હસી.)"
+              ],
+              [
+                "Loudly",
+                "મોટેથી",
+                "The dog barked loudly.<br>(કૂતરો મોટેથી ભસ્યો.)"
+              ],
+              [
+                "Carefully",
+                "કાળજીપૂર્વક",
+                "She drives carefully.<br>(તેણી કાળજીપૂર્વક ગાડી ચલાવે છે.)"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "ઘણા Adverbs of Manner વિશેષણ (Adjective) માં '-ly' પ્રત્યય ઉમેરીને બને છે. જેમ કે, slow (ધીમું) -> slowly (ધીમેથી), happy (ખુશ) -> happily (ખુશીથી)."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "2. Adverb of Time (સમયવાચક ક્રિયા વિશેષણ)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "Adverb of Time",
+            "headers": [
+              "Adverb",
+              "Gujarati Meaning",
+              "Example Sentence"
+            ],
+            "rows": [
+              [
+                "Now",
+                "હવે",
+                "I am busy now.<br>(તે અત્યારે વ્યસ્ત છું.)"
+              ],
+              [
+                "Yesterday",
+                "ગઈકાલે",
+                "He came yesterday.<br>(તે ગઈકાલે આવ્યો હતો.)"
+              ],
+              [
+                "Soon",
+                "ટૂંક સમયમાં",
+                "They will arrive soon.<br>(તેઓ ટૂંક સમયમાં આવી જશે.)"
+              ],
+              [
+                "Today",
+                "આજે",
+                "We are going to the park today.<br>(આજે અમે બગીચામાં જઈ રહ્યા છીએ.)"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "3. Adverb of Place (સ્થળવાચક ક્રિયા વિશેષણ)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "Adverb of Place",
+            "headers": [
+              "Adverb",
+              "Gujarati Meaning",
+              "Example Sentence"
+            ],
+            "rows": [
+              [
+                "Here",
+                "અહીં",
+                "Please come here.<br>(મહેરબાની કરીને અહીં આવો.)"
+              ],
+              [
+                "There",
+                "ત્યાં",
+                "The book is there.<br>(પુસ્તક ત્યાં છે.)"
+              ],
+              [
+                "Everywhere",
+                "બધે જ",
+                "I looked for my keys everywhere.<br>(મેં મારી ચાવીઓ બધે જ શોધી.)"
+              ],
+              [
+                "Outside",
+                "બહાર",
+                "The children are playing outside.<br>(બાળકો બહાર રમી રહ્યા છે.)"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "4. Adverb of Frequency (આવૃત્તિવાચક ક્રિયા વિશેષણ)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "Adverb of Frequency",
+            "headers": [
+              "Adverb",
+              "Gujarati Meaning",
+              "Example Sentence"
+            ],
+            "rows": [
+              [
+                "Always",
+                "હંમેશા",
+                "He always tells the truth.<br>(તે હંમેશા સાચું બોલે છે.)"
+              ],
+              [
+                "Often",
+                "વારંવાર",
+                "We often go to the cinema.<br>(અમે વારંવાર સિનેમામાં જઈએ છીએ.)"
+              ],
+              [
+                "Sometimes",
+                "ક્યારેક",
+                "I sometimes drink coffee.<br>(હું ક્યારેક કોફી પીઉં છું.)"
+              ],
+              [
+                "Never",
+                "ક્યારેય નહીં",
+                "She never eats meat.<br>(તેણી ક્યારેય માંસ ખાતી નથી.)"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "5. Adverb of Degree (માત્રાવાચક ક્રિયા વિશેષણ)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "Adverb of Degree",
+            "headers": [
+              "Adverb",
+              "Gujarati Meaning",
+              "Example Sentence"
+            ],
+            "rows": [
+              [
+                "Very",
+                "ખૂબ જ",
+                "It is very hot today.<br>(આજે ખૂબ જ ગરમી છે.)"
+              ],
+              [
+                "Too",
+                "પણ / વધારે પડતું",
+                "The coffee is too hot to drink.<br>(કોફી પીવા માટે વધારે પડતી ગરમ છે.)"
+              ],
+              [
+                "Almost",
+                "લગભગ",
+                "I have almost finished my work.<br>(મેં લગભગ મારું કામ પૂરું કરી દીધું છે.)"
+              ],
+              [
+                "Quite",
+                "તદ્દન / સાવ",
+                "The movie was quite interesting.<br>(ફિલ્મ તદ્દન રસપ્રદ હતી.)"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

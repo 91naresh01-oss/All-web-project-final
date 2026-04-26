@@ -1,0 +1,77 @@
+
+{
+  "id": "level-6",
+  "title": "Common Verbs 5",
+  "words": [
+    {
+      "word": "Ask",
+      "gujaratiPronunciation": "આસ્ક",
+      "hindiPronunciation": "आस्क",
+      "gujaratiMeaning": "પૂછવું",
+      "hindiMeaning": "पूछना",
+      "exampleSentences": [
+        {
+          "sentence": "You can ask me anything.",
+          "gujaratiTranslation": "તમે મને કંઈપણ પૂછી શકો છો.",
+          "hindiTranslation": "आप मुझसे कुछ भी पूछ सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Buy",
+      "gujaratiPronunciation": "બાય",
+      "hindiPronunciation": "बाय",
+      "gujaratiMeaning": "ખરીદવું",
+      "hindiMeaning": "खरीदना",
+      "exampleSentences": [
+        {
+          "sentence": "I want to buy a new car.",
+          "gujaratiTranslation": "મારે નવી કાર ખરીદવી છે.",
+          "hindiTranslation": "मैं एक नई कार खरीदना चाहता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Cook",
+      "gujaratiPronunciation": "કુક",
+      "hindiPronunciation": "कुक",
+      "gujaratiMeaning": "રાંધવું",
+      "hindiMeaning": "पकाना",
+      "exampleSentences": [
+        {
+          "sentence": "My mother is cooking dinner.",
+          "gujaratiTranslation": "મારી માતા રાત્રિભોજન બનાવી રહી છે.",
+          "hindiTranslation": "मेरी माँ रात का खाना बना रही है।"
+        }
+      ]
+    },
+    {
+      "word": "Dance",
+      "gujaratiPronunciation": "ડાન્સ",
+      "hindiPronunciation": "डांस",
+      "gujaratiMeaning": "નાચવું",
+      "hindiMeaning": "नाचना",
+      "exampleSentences": [
+        {
+          "sentence": "She loves to dance.",
+          "gujaratiTranslation": "તેણીને નાચવું ગમે છે.",
+          "hindiTranslation": "उसे नाचना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Sing",
+      "gujaratiPronunciation": "સિંગ",
+      "hindiPronunciation": "सिंग",
+      "gujaratiMeaning": "ગાવું",
+      "hindiMeaning": "गाना",
+      "exampleSentences": [
+        {
+          "sentence": "He can sing very well.",
+          "gujaratiTranslation": "તે ખૂબ સારું ગાઈ શકે છે.",
+          "hindiTranslation": "वह बहुत अच्छा गा सकता है।"
+        }
+      ]
+    }
+  ]
+}

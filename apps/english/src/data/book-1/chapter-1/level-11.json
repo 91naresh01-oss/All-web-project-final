@@ -1,0 +1,62 @@
+{
+    "id": "level-11",
+    "title": "Types of Numbers",
+    "words": [
+        {
+            "word": "Even numbers",
+            "icon": "2️⃣",
+            "gujaratiPronunciation": "ઇવન નંબર્સ",
+            "hindiPronunciation": "इवन नंबर्स",
+            "gujaratiMeaning": "બેકી સંખ્યાઓ",
+            "hindiMeaning": "सम संख्याएं"
+        },
+        {
+            "word": "Odd numbers",
+            "icon": "1️⃣",
+            "gujaratiPronunciation": "ઓડ નંબર્સ",
+            "hindiPronunciation": "ऑड नंबर्स",
+            "gujaratiMeaning": "એકી સંખ્યાઓ",
+            "hindiMeaning": "विषम संख्याएं"
+        },
+        {
+            "word": "Prime numbers",
+            "icon": "🅿️",
+            "gujaratiPronunciation": "પ્રાઇમ નંબર્સ",
+            "hindiPronunciation": "प्राइम नंबर्स",
+            "gujaratiMeaning": "અવિભાજ્ય સંખ્યાઓ",
+            "hindiMeaning": "अभाज्य संख्याएं"
+        },
+        {
+            "word": "Composite numbers",
+            "icon": "🔢",
+            "gujaratiPronunciation": "કમ્પોઝિટ નંબર્સ",
+            "hindiPronunciation": "कंपोजिट नंबर्स",
+            "gujaratiMeaning": "વિભાજ્ય સંખ્યાઓ",
+            "hindiMeaning": "भाज्य संख्याएं"
+        },
+        {
+            "word": "Whole numbers",
+            "icon": "🌐",
+            "gujaratiPronunciation": "હોલ નંબર્સ",
+            "hindiPronunciation": "होल नंबर्स",
+            "gujaratiMeaning": "પૂર્ણ સંખ્યાઓ",
+            "hindiMeaning": "पूर्ण संख्याएं"
+        },
+        {
+            "word": "Natural numbers",
+            "icon": "🌿",
+            "gujaratiPronunciation": "નેચરલ નંબર્સ",
+            "hindiPronunciation": "नेचुरल नंबर्स",
+            "gujaratiMeaning": "પ્રાકૃતિક સંખ્યાઓ",
+            "hindiMeaning": "प्राकृतिक संख्याएं"
+        },
+        {
+            "word": "Integers",
+            "icon": "➕",
+            "gujaratiPronunciation": "ઇન્ટિજર્સ",
+            "hindiPronunciation": "इंटीजर्स",
+            "gujaratiMeaning": "પૂર્ણાંકો",
+            "hindiMeaning": "पूर्णांक"
+        }
+    ]
+}

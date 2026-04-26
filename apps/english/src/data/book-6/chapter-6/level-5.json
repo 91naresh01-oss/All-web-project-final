@@ -1,0 +1,151 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Attack",
+      "gujaratiPronunciation": "અટેક",
+      "hindiPronunciation": "अटैक",
+      "gujaratiMeaning": "હુમલો કરવો",
+      "hindiMeaning": "आक्रमण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Attack", "gujaratiPronunciation": "અટેક", "hindiPronunciation": "अटैक", "gujaratiMeaning": "હુમલો કરવો", "hindiMeaning": "आक्रमण करना" },
+        "V2 (Past)": { "word": "Attacked", "gujaratiPronunciation": "અટેક્ડ", "hindiPronunciation": "अटैक्ड", "gujaratiMeaning": "હુમલો કર્યો", "hindiMeaning": "आक्रमण किया" },
+        "V3 (Past Participle)": { "word": "Attacked", "gujaratiPronunciation": "અટેક્ડ", "hindiPronunciation": "अटैक्ड", "gujaratiMeaning": "હુમલો કરેલો", "hindiMeaning": "आक्रमण किया हुआ" },
+        "V4 (Present Participle)": { "word": "Attacking", "gujaratiPronunciation": "અટેકિંગ", "hindiPronunciation": "अटैकिंग", "gujaratiMeaning": "હુમલો કરી રહ્યું છે", "hindiMeaning": "आक्रमण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Assault", "gujaratiPronunciation": "અસોલ્ટ", "hindiPronunciation": "असॉल्ट", "gujaratiMeaning": "હુમલો", "hindiMeaning": "हमला" },
+        { "word": "Charge", "gujaratiPronunciation": "ચાર્જ", "hindiPronunciation": "चार्ज", "gujaratiMeaning": "આક્રમણ", "hindiMeaning": "धावा" }
+      ],
+      "antonyms": [
+        { "word": "Defend", "gujaratiPronunciation": "ડિફેન્ડ", "hindiPronunciation": "डिफेंड", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" },
+        { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "બચાવ કરવો", "hindiMeaning": "बचाव करना" }
+      ],
+      "confusingWords": [
+        { "word": "Attach", "gujaratiPronunciation": "અટેચ", "hindiPronunciation": "अटैच", "gujaratiMeaning": "જોડવું", "hindiMeaning": "जोड़ना" },
+        { "word": "Attain", "gujaratiPronunciation": "અટેન", "hindiPronunciation": "अटेन", "gujaratiMeaning": "પ્રાપ્ત કરવું", "hindiMeaning": "प्राप्त करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The lions attack their prey at dawn.", "gujaratiPronunciation": "ધ લાયન્સ અટેક ધેર પ્રે એટ ડોન.", "hindiPronunciation": "द लायंस अटैक देयर प्रे एट डॉन।", "gujaratiTranslation": "સિંહ પરોઢિયે તેમના શિકાર પર હુમલો કરે છે.", "hindiTranslation": "शेर भोर में अपने शिकार पर हमला करते हैं।" }
+      ]
+    },
+    {
+      "word": "Defend",
+      "gujaratiPronunciation": "ડિફેન્ડ",
+      "hindiPronunciation": "डिफेंड",
+      "gujaratiMeaning": "રક્ષણ કરવું",
+      "hindiMeaning": "रक्षा करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Defend", "gujaratiPronunciation": "ડિફેન્ડ", "hindiPronunciation": "डिफेंड", "gujaratiMeaning": "રક્ષણ કરવું", "hindiMeaning": "रक्षा करना" },
+        "V2 (Past)": { "word": "Defended", "gujaratiPronunciation": "ડિફેન્ડેડ", "hindiPronunciation": "डिफेंडेड", "gujaratiMeaning": "રક્ષણ કર્યું", "hindiMeaning": "रक्षा की" },
+        "V3 (Past Participle)": { "word": "Defended", "gujaratiPronunciation": "ડિફેન્ડેડ", "hindiPronunciation": "डिफेंडेड", "gujaratiMeaning": "રક્ષણ કરેલું", "hindiMeaning": "रक्षा की हुई" },
+        "V4 (Present Participle)": { "word": "Defending", "gujaratiPronunciation": "ડિફેન્ડિંગ", "hindiPronunciation": "डिफेंडिंग", "gujaratiMeaning": "રક્ષણ કરી રહ્યું છે", "hindiMeaning": "रक्षा कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Protect", "gujaratiPronunciation": "પ્રોટેક્ટ", "hindiPronunciation": "प्रोटेक्ट", "gujaratiMeaning": "સુરક્ષિત કરવું", "hindiMeaning": "बचाव करना" },
+        { "word": "Guard", "gujaratiPronunciation": "ગાર્ડ", "hindiPronunciation": "गार्ड", "gujaratiMeaning": "પહેરો ભરવો", "hindiMeaning": "पहरा देना" }
+      ],
+      "antonyms": [
+        { "word": "Attack", "gujaratiPronunciation": "અટેક", "hindiPronunciation": "अटैक", "gujaratiMeaning": "હુમલો કરવો", "hindiMeaning": "आक्रमण करना" },
+        { "word": "Assault", "gujaratiPronunciation": "અસોલ્ટ", "hindiPronunciation": "असॉल्ट", "gujaratiMeaning": "હુમલો", "hindiMeaning": "हमला" }
+      ],
+      "confusingWords": [
+        { "word": "Offend", "gujaratiPronunciation": "ઓફેન્ડ", "hindiPronunciation": "ऑफेंड", "gujaratiMeaning": "અપમાન કરવું", "hindiMeaning": "अपमान करना" },
+        { "word": "Depend", "gujaratiPronunciation": "ડિપેન્ડ", "hindiPronunciation": "डिपेंड", "gujaratiMeaning": "આધાર રાખવો", "hindiMeaning": "निर्भर रहना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The soldiers had to defend the castle.", "gujaratiPronunciation": "ધ સોલ્જર્સ હેડ ટુ ડિફેન્ડ ધ કાસ્ટલ.", "hindiPronunciation": "द सोल्जर्स हैड टू डिफेंड द कासल।", "gujaratiTranslation": "સૈનિકોને કિલ્લાનું રક્ષણ કરવું પડ્યું.", "hindiTranslation": "सैनिकों को महल की रक्षा करनी पड़ी।" }
+      ]
+    },
+    {
+      "word": "Neutralize",
+      "gujaratiPronunciation": "ન્યુટ્રલાઇઝ",
+      "hindiPronunciation": "न्यूट्रलाइज",
+      "gujaratiMeaning": "નિષ્ક્રિય કરવું",
+      "hindiMeaning": "निष्क्रिय करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Neutralize", "gujaratiPronunciation": "ન્યુટ્રલાઇઝ", "hindiPronunciation": "न्यूट्रलाइज", "gujaratiMeaning": "નિષ્ક્રિય કરવું", "hindiMeaning": "निष्क्रिय करना" },
+        "V2 (Past)": { "word": "Neutralized", "gujaratiPronunciation": "ન્યુટ્રલાઇઝ્ડ", "hindiPronunciation": "न्यूट्रलाइज्ड", "gujaratiMeaning": "નિષ્ક્રિય કર્યું", "hindiMeaning": "निष्क्रिय किया" },
+        "V3 (Past Participle)": { "word": "Neutralized", "gujaratiPronunciation": "ન્યુટ્રલાઇઝ્ડ", "hindiPronunciation": "न्यूट्रलाइज्ड", "gujaratiMeaning": "નિષ્ક્રિય કરેલું", "hindiMeaning": "निष्क्रिय किया हुआ" },
+        "V4 (Present Participle)": { "word": "Neutralizing", "gujaratiPronunciation": "ન્યુટ્રલાઇઝિંગ", "hindiPronunciation": "न्यूट्रलाइजिंग", "gujaratiMeaning": "નિષ્ક્રિય કરી રહ્યું છે", "hindiMeaning": "निष्क्रिय कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Counteract", "gujaratiPronunciation": "કાઉન્ટરએક્ટ", "hindiPronunciation": "काउंटरएक्ट", "gujaratiMeaning": "પ્રતિરોધ કરવો", "hindiMeaning": "निष्प्रभाव करना" },
+        { "word": "Disable", "gujaratiPronunciation": "ડિસેબલ", "hindiPronunciation": "डिसेबल", "gujaratiMeaning": "અક્ષમ કરવું", "hindiMeaning": "अक्षम करना" }
+      ],
+      "antonyms": [
+        { "word": "Activate", "gujaratiPronunciation": "એક્ટિવેટ", "hindiPronunciation": "एक्टिवेट", "gujaratiMeaning": "સક્રિય કરવું", "hindiMeaning": "सक्रिय करना" },
+        { "word": "Enhance", "gujaratiPronunciation": "એન્હાન્સ", "hindiPronunciation": "एनहान्स", "gujaratiMeaning": "વધારવું", "hindiMeaning": "बढ़ाना" }
+      ],
+      "confusingWords": [
+        { "word": "Naturalize", "gujaratiPronunciation": "નેચરલાઇઝ", "hindiPronunciation": "नेचुरलाइज", "gujaratiMeaning": "નાગરિક બનાવવું", "hindiMeaning": "नागरिक बनाना" },
+        { "word": "Neutral", "gujaratiPronunciation": "ન્યુટ્રલ", "hindiPronunciation": "न्यूट्रल", "gujaratiMeaning": "તટસ્થ", "hindiMeaning": "तटस्थ" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The agent's mission was to neutralize the threat.", "gujaratiPronunciation": "ધ એજન્ટ્સ મિશન વોઝ ટુ ન્યુટ્રલાઈઝ ધ થ્રેટ.", "hindiPronunciation": "द एजेंट्स मिशन वॉज टू न्यूट्रलाइज द थ्रेट।", "gujaratiTranslation": "એજન્ટનું મિશન ખતરાને નિષ્ક્રિય કરવાનું હતું.", "hindiTranslation": "एजेंट का मिशन खतरे को निष्क्रिय करना था।" }
+      ]
+    },
+    {
+      "word": "Vanquish",
+      "gujaratiPronunciation": "વેન્ક્વિશ",
+      "hindiPronunciation": "वैंक्विश",
+      "gujaratiMeaning": "પરાજિત કરવું",
+      "hindiMeaning": "पराजित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Vanquish", "gujaratiPronunciation": "વેન્ક્વિશ", "hindiPronunciation": "वैंक्विश", "gujaratiMeaning": "પરાજિત કરવું", "hindiMeaning": "पराजित करना" },
+        "V2 (Past)": { "word": "Vanquished", "gujaratiPronunciation": "વેન્ક્વિશ્ડ", "hindiPronunciation": "वैंक्विश्ड", "gujaratiMeaning": "પરાજિત કર્યું", "hindiMeaning": "पराजित किया" },
+        "V3 (Past Participle)": { "word": "Vanquished", "gujaratiPronunciation": "વેન્ક્વિશ્ડ", "hindiPronunciation": "वैंक्विश्ड", "gujaratiMeaning": "પરાજિત કરેલું", "hindiMeaning": "पराजित किया हुआ" },
+        "V4 (Present Participle)": { "word": "Vanquishing", "gujaratiPronunciation": "વેન્ક્વિશિંગ", "hindiPronunciation": "वैंक्विशिंग", "gujaratiMeaning": "પરાજિત કરી રહ્યું છે", "hindiMeaning": "पराजित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Conquer", "gujaratiPronunciation": "કોન્કર", "hindiPronunciation": "कांकेर", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+        { "word": "Defeat", "gujaratiPronunciation": "ડિફીટ", "hindiPronunciation": "डिफीट", "gujaratiMeaning": "હરાવવું", "hindiMeaning": "हराना" }
+      ],
+      "antonyms": [
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" },
+        { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज", "gujaratiMeaning": "હારવું", "hindiMeaning": "हारना" }
+      ],
+      "confusingWords": [
+        { "word": "Banish", "gujaratiPronunciation": "બૅનિશ", "hindiPronunciation": "बैनिश", "gujaratiMeaning": "દેશનિકાલ કરવો", "hindiMeaning": "देश-निकाला देना" },
+        { "word": "Varnish", "gujaratiPronunciation": "વાર્નિશ", "hindiPronunciation": "वार्निश", "gujaratiMeaning": "ચળકાટ", "hindiMeaning": "वार्निश" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The hero's quest was to vanquish the dragon.", "gujaratiPronunciation": "ધ હિરોઝ ક્વેસ્ટ વોઝ ટુ વેન્ક્વિશ ધ ડ્રેગન.", "hindiPronunciation": "द हीरोज क्वेस्ट वॉज टू वैंक्विश द ड्रैगन।", "gujaratiTranslation": "હીરોનું લક્ષ્ય ડ્રેગનને પરાજિત કરવાનું હતું.", "hindiTranslation": "नायक का लक्ष्य ड्रैगन को पराजित करना था।" }
+      ]
+    },
+    {
+      "word": "Subdue",
+      "gujaratiPronunciation": "સબડ્યુ",
+      "hindiPronunciation": "सबड्यू",
+      "gujaratiMeaning": "વશ કરવું",
+      "hindiMeaning": "वश में करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Subdue", "gujaratiPronunciation": "સબડ્યુ", "hindiPronunciation": "सबड्यू", "gujaratiMeaning": "વશ કરવું", "hindiMeaning": "वश में करना" },
+        "V2 (Past)": { "word": "Subdued", "gujaratiPronunciation": "સબડ્યુડ", "hindiPronunciation": "सबड्यूड", "gujaratiMeaning": "વશ કર્યું", "hindiMeaning": "वश में किया" },
+        "V3 (Past Participle)": { "word": "Subdued", "gujaratiPronunciation": "સબડ્યુડ", "hindiPronunciation": "सबड्यूड", "gujaratiMeaning": "વશ કરેલું", "hindiMeaning": "वश में किया हुआ" },
+        "V4 (Present Participle)": { "word": "Subduing", "gujaratiPronunciation": "સબડ્યુઇંગ", "hindiPronunciation": "सबड्यूइंग", "gujaratiMeaning": "વશ કરી રહ્યું છે", "hindiMeaning": "वश में कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Overcome", "gujaratiPronunciation": "ઓવરકમ", "hindiPronunciation": "ओवरकम", "gujaratiMeaning": "કાબૂ મેળવવો", "hindiMeaning": "કાબૂ મેળવવો" },
+        { "word": "Tame", "gujaratiPronunciation": "ટેમ", "hindiPronunciation": "टेम", "gujaratiMeaning": "પાળેલું બનાવવું", "hindiMeaning": "वश में करना" }
+      ],
+      "antonyms": [
+        { "word": "Incite", "gujaratiPronunciation": "ઇન્સાઇટ", "hindiPronunciation": "इन्साइट", "gujaratiMeaning": "ઉશ્કેરવું", "hindiMeaning": "उकसाना" },
+        { "word": "Arouse", "gujaratiPronunciation": "અરાઉઝ", "hindiPronunciation": "अराउज", "gujaratiMeaning": "જગાડવું", "hindiMeaning": "जगाना" }
+      ],
+      "confusingWords": [
+        { "word": "Subside", "gujaratiPronunciation": "સબસાઇડ", "hindiPronunciation": "सबसाइड", "gujaratiMeaning": "ઓછું થવું", "hindiMeaning": "कम होना" },
+        { "word": "Subtle", "gujaratiPronunciation": "સટલ", "hindiPronunciation": "सटल", "gujaratiMeaning": "સૂક્ષ્મ", "hindiMeaning": "सूक्ष्म" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The knight managed to subdue the rebellion.", "gujaratiPronunciation": "ધ નાઈટ મેનેજ્ડ ટુ સબડ્યુ ધ રિબેલિયન.", "hindiPronunciation": "द नाइट मैनेज्ड टू सबड्यू द रिबेलियन।", "gujaratiTranslation": "યોદ્ધા બળવાને વશ કરવામાં સફળ રહ્યો.", "hindiTranslation": "शूरवीर विद्रोह को वश में करने में कामयाब रहा।" }
+      ]
+    }
+  ]
+}

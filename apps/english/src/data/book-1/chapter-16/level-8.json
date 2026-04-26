@@ -1,0 +1,47 @@
+
+{
+    "id": "level-8",
+    "title": "Exponents & Roots",
+    "words": [
+        {
+            "word": "Square",
+            "icon": "²",
+            "gujaratiPronunciation": "સ્ક્વેર",
+            "hindiPronunciation": "स्क्वायर",
+            "gujaratiMeaning": "વર્ગ",
+            "hindiMeaning": "वर्ग"
+        },
+        {
+            "word": "Cube",
+            "icon": "³",
+            "gujaratiPronunciation": "ક્યુબ",
+            "hindiPronunciation": "क्यूब",
+            "gujaratiMeaning": "ઘન",
+            "hindiMeaning": "घन"
+        },
+        {
+            "word": "Square Root",
+            "icon": "√",
+            "gujaratiPronunciation": "સ્ક્વેર રૂટ",
+            "hindiPronunciation": "स्क्वायर रूट",
+            "gujaratiMeaning": "વર્ગમૂળ",
+            "hindiMeaning": "वर्गमूल"
+        },
+        {
+            "word": "Bracket",
+            "icon": "()",
+            "gujaratiPronunciation": "બ્રેકેટ",
+            "hindiPronunciation": "ब्रैकेट",
+            "gujaratiMeaning": "કૌંસ",
+            "hindiMeaning": "कोष्ठक"
+        },
+        {
+            "word": "Exponent / Power",
+            "icon": "^",
+            "gujaratiPronunciation": "એક્સપોનન્ટ / પાવર",
+            "hindiPronunciation": "एक्सपोनेंट / पावर",
+            "gujaratiMeaning": "ઘાતાંક",
+            "hindiMeaning": "घातांक"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "level-6",
+    "title": "Trees 3",
+    "words": [
+        { "word": "Oak Tree", "icon": "🌳", "gujaratiPronunciation": "ઓક ટ્રી", "hindiPronunciation": "ओक ट्री", "gujaratiMeaning": "ઓકનું વૃક્ષ", "hindiMeaning": "बांज का पेड़" },
+        { "word": "Maple Tree", "icon": "🍁", "gujaratiPronunciation": "મેપલ ટ્રી", "hindiPronunciation": "मेपल ट्री", "gujaratiMeaning": "મેપલનું વૃક્ષ", "hindiMeaning": "मेपल का पेड़" },
+        { "word": "Willow Tree", "icon": "🌱", "gujaratiPronunciation": "વિલો ટ્રી", "hindiPronunciation": "विलो ट्री", "gujaratiMeaning": "વિલોનું વૃક્ષ", "hindiMeaning": "विलो का पेड़" },
+        { "word": "Cherry Blossom Tree", "icon": "🌸", "gujaratiPronunciation": "ચેરી બ્લોસમ ટ્રી", "hindiPronunciation": "चेरी ब्लॉसम ट्री", "gujaratiMeaning": "ચેરી બ્લોસમ", "hindiMeaning": "चेरी ब्लॉसम" },
+        { "word": "Fir Tree", "icon": "🌲", "gujaratiPronunciation": "ફર ટ્રી", "hindiPronunciation": "फ़र ट्री", "gujaratiMeaning": "ફરનું વૃક્ષ", "hindiMeaning": "देवदार का पेड़" }
+    ]
+}

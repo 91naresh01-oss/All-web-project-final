@@ -1,0 +1,370 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Raze",
+      "gujaratiPronunciation": "રેઝ",
+      "hindiPronunciation": "रेज़",
+      "gujaratiMeaning": "જમીનદોસ્ત કરવું",
+      "hindiMeaning": "ध्वस्त करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Raze",
+          "gujaratiMeaning": "જમીનદોસ્ત કરવું",
+          "hindiMeaning": "ध्वस्त करना"
+        },
+        "V2 (Past)": {
+          "word": "Razed",
+          "gujaratiMeaning": "જમીનદોસ્ત કર્યું",
+          "hindiMeaning": "ध्वस्त किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Razed",
+          "gujaratiMeaning": "જમીનદોસ્ત કરેલું",
+          "hindiMeaning": "ध्वस्त किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Razing",
+          "gujaratiPronunciation": "રેઝિંગ",
+          "hindiPronunciation": "रेज़िंग",
+          "gujaratiMeaning": "જમીનદોસ્ત કરી રહ્યું",
+          "hindiMeaning": "ध्वस्त कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Demolish",
+          "gujaratiMeaning": "તોડી પાડવું",
+          "hindiMeaning": "तोड़ डालना"
+        },
+        {
+          "word": "Destroy",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Build",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Construct",
+          "gujaratiMeaning": "નિર્માણ કરવું",
+          "hindiMeaning": "निर्माण करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Raise",
+          "gujaratiMeaning": "ઉછેરવું",
+          "hindiMeaning": "उठाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The old building was razed to make way for a new shopping mall.",
+          "gujaratiTranslation": "નવા શોપિંગ મોલ માટે જૂની ઇમારત જમીનદોસ્ત કરવામાં આવી હતી.",
+          "hindiTranslation": "नए शॉपिंग मॉल के लिए पुरानी इमारत को ध्वस्त कर दिया गया।",
+          "gujaratiPronunciation": "ધ ઓલ્ડ બિલ્ડિંગ વોઝ રેઝ્ડ ટુ મેક વે ફોર અ ન્યુ શોપિંગ મોલ.",
+          "hindiPronunciation": "द ओल्ड बिल्डिंग वॉज़ रेज़्ड टू मेक वे फॉर अ न्यू शॉपिंग मॉल।"
+        }
+      ]
+    },
+    {
+      "word": "Scar",
+      "gujaratiPronunciation": "સ્કાર",
+      "hindiPronunciation": "स्कार",
+      "gujaratiMeaning": "ડામ દેવો",
+      "hindiMeaning": "दाग लगाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Scar",
+          "gujaratiMeaning": "ડામ દેવો",
+          "hindiMeaning": "दाग लगाना"
+        },
+        "V2 (Past)": {
+          "word": "Scarred",
+          "gujaratiMeaning": "ડામ દીધો",
+          "hindiMeaning": "दाग लगाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Scarred",
+          "gujaratiMeaning": "ડામ દીધેલો",
+          "hindiMeaning": "दाग लगाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Scarring",
+          "gujaratiPronunciation": "સ્કારિંગ",
+          "hindiPronunciation": "स्कारिंग",
+          "gujaratiMeaning": "ડામ દેી રહ્યું",
+          "hindiMeaning": "दाग लगा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Mark",
+          "gujaratiMeaning": "ચિહ્ન કરવું",
+          "hindiMeaning": "चिह्नित करना"
+        },
+        {
+          "word": "Blemish",
+          "gujaratiMeaning": "ડાઘ પાડવો",
+          "hindiMeaning": "धब्बा लगाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Heal",
+          "gujaratiMeaning": "રૂઝાવવું",
+          "hindiMeaning": "ठीक होना"
+        },
+        {
+          "word": "Beautify",
+          "gujaratiMeaning": "સુંદર બનાવવું",
+          "hindiMeaning": "सुंदर बनाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Scare",
+          "gujaratiMeaning": "ડરાવવું",
+          "hindiMeaning": "डराना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The incident scarred him for life.",
+          "gujaratiTranslation": "આ ઘટનાએ તેને જીવનભર માટે ડામ દીધો.",
+          "hindiTranslation": "इस घटना ने उसे जीवन भर के लिए दागदार कर दिया।",
+          "gujaratiPronunciation": "ધ ઇન્સિડન્ટ સ્કાર્ડ હિમ ફોર લાઇફ.",
+          "hindiPronunciation": "द इंसिडेंट स्कार्ड हिम फॉर लाइफ।"
+        }
+      ]
+    },
+    {
+      "word": "Impair",
+      "gujaratiPronunciation": "ઇમ્પેર",
+      "hindiPronunciation": "इम्पेयर",
+      "gujaratiMeaning": "ક્ષતિગ્રસ્ત કરવું",
+      "hindiMeaning": "क्षतिग्रस्त करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Impair",
+          "gujaratiMeaning": "ક્ષતિગ્રસ્ત કરવું",
+          "hindiMeaning": "क्षतिग्रस्त करना"
+        },
+        "V2 (Past)": {
+          "word": "Impaired",
+          "gujaratiMeaning": "ક્ષતિગ્રસ્ત કર્યું",
+          "hindiMeaning": "क्षतिग्रस्त किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Impaired",
+          "gujaratiMeaning": "ક્ષતિગ્રસ્ત થયેલું",
+          "hindiMeaning": "क्षतिग्रस्त हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Impairing",
+          "gujaratiPronunciation": "ઇમ્પેરિંગ",
+          "hindiPronunciation": "इम्पेयरिंग",
+          "gujaratiMeaning": "ક્ષતિગ્રસ્ત કરી રહ્યું",
+          "hindiMeaning": "क्षतिग्रस्त कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Weaken",
+          "gujaratiMeaning": "નબળું પાડવું",
+          "hindiMeaning": "कमजोर करना"
+        },
+        {
+          "word": "Damage",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "नुकसान पहुँचाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Improve",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "सुधारना"
+        },
+        {
+          "word": "Enhance",
+          "gujaratiMeaning": "વધારવું",
+          "hindiMeaning": "बढ़ाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Repair",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Lack of sleep can impair your ability to think clearly.",
+          "gujaratiTranslation": "ઊંઘનો અભાવ તમારી સ્પષ્ટ રીતે વિચારવાની ક્ષમતાને ક્ષતિગ્રસ્ત કરી શકે છે.",
+          "hindiTranslation": "नींद की कमी आपकी स्पष्ट रूप से सोचने की क्षमता को क्षीण कर सकती है।",
+          "gujaratiPronunciation": "લેક ઓફ સ્લીપ કેન ઇમ્પેર યોર એબિલિટી ટુ થિંક ક્લિયરલી.",
+          "hindiPronunciation": "लैक ऑफ स्लीप कैन इम्पेयर योर एबिलिटी टू थिंक क्लियरली।"
+        }
+      ]
+    },
+    {
+      "word": "Devastate",
+      "gujaratiPronunciation": "ડેવસ્ટેટ",
+      "hindiPronunciation": "डेवास्टेट",
+      "gujaratiMeaning": "તબાહ કરવું",
+      "hindiMeaning": "तबाह करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Devastate",
+          "gujaratiMeaning": "તબાહ કરવું",
+          "hindiMeaning": "तबाह करना"
+        },
+        "V2 (Past)": {
+          "word": "Devastated",
+          "gujaratiMeaning": "તબાહ કર્યું",
+          "hindiMeaning": "तबाह किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Devastated",
+          "gujaratiMeaning": "તબાહ થયેલું",
+          "hindiMeaning": "तबाह हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Devastating",
+          "gujaratiPronunciation": "ડેવસ્ટેટિંગ",
+          "hindiPronunciation": "डेवास्टेटिंग",
+          "gujaratiMeaning": "તબાહ કરી રહ્યું",
+          "hindiMeaning": "तबाह कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Ruin",
+          "gujaratiMeaning": "બરબાદ કરવું",
+          "hindiMeaning": "बर्बाद करना"
+        },
+        {
+          "word": "Destroy",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Build",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Create",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Demonstrate",
+          "gujaratiPronunciation": "ડેમોન્સ્ટ્રેટ",
+          "hindiPronunciation": "डेमोंस्ट्रेट",
+          "gujaratiMeaning": "પ્રદર્શન કરવું",
+          "hindiMeaning": "प्रदर्शन करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The city was devastated by the earthquake.",
+          "gujaratiTranslation": "ભૂકંપથી શહેર તબાહ થઈ ગયું હતું.",
+          "hindiTranslation": "भूकंप से शहर तबाह हो गया था।",
+          "gujaratiPronunciation": "ધ સિટી વોઝ ડેવસ્ટેટેડ બાય ધ અર્થક્વેક.",
+          "hindiPronunciation": "द सिटी वॉज़ डेवास्टेटेड बाय द अर्थक्वेक।"
+        }
+      ]
+    },
+    {
+      "word": "Incinerate",
+      "gujaratiPronunciation": "ઇન્સિનરેટ",
+      "hindiPronunciation": "इंसिनरेट",
+      "gujaratiMeaning": "બાળીને ભસ્મ કરવું",
+      "hindiMeaning": "जलाकर भस्म करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Incinerate",
+          "gujaratiMeaning": "ભસ્મ કરવું",
+          "hindiMeaning": "भस्म करना"
+        },
+        "V2 (Past)": {
+          "word": "Incinerated",
+          "gujaratiMeaning": "ભસ્મ કર્યું",
+          "hindiMeaning": "भस्म किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Incinerated",
+          "gujaratiMeaning": "ભસ્મ થયેલું",
+          "hindiMeaning": "भस्म हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Incinerating",
+          "gujaratiPronunciation": "ઇન્સિનરેટિંગ",
+          "hindiPronunciation": "इंसिनरेटिंग",
+          "gujaratiMeaning": "ભસ્મ કરી રહ્યું",
+          "hindiMeaning": "भस्म कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Burn",
+          "gujaratiMeaning": "બાળવું",
+          "hindiMeaning": "जलाना"
+        },
+        {
+          "word": "Cremate",
+          "gujaratiMeaning": "અગ્નિસંસ્કાર કરવો",
+          "hindiMeaning": "दाह संस्कार करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Extinguish",
+          "gujaratiMeaning": "ઓલવવું",
+          "hindiMeaning": "बुझाना"
+        },
+        {
+          "word": "Cool",
+          "gujaratiMeaning": "ઠંડુ કરવું",
+          "hindiMeaning": "ठंडा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Incarcerate",
+          "gujaratiPronunciation": "ઇન્કાર્સરેટ",
+          "hindiPronunciation": "इन्कार्सरेट",
+          "gujaratiMeaning": "કેદ કરવું",
+          "hindiMeaning": "कैद करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "All the waste is incinerated in a special furnace.",
+          "gujaratiTranslation": "બધો કચરો એક ખાસ ભઠ્ઠીમાં બાળીને ભસ્મ કરવામાં આવે છે.",
+          "hindiTranslation": "सारा कचरा एक विशेष भट्टी में जलाकर भस्म कर दिया जाता है।",
+          "gujaratiPronunciation": "ઓલ ધ વેસ્ટ ઇઝ ઇન્સિનરેટેડ ઇન અ સ્પેશિયલ ફર્નેસ.",
+          "hindiPronunciation": "ऑल द वेस्ट इज़ इंसिनरेटेड इन अ स्पेशल फर्नेस।"
+        }
+      ]
+    }
+  ]
+}

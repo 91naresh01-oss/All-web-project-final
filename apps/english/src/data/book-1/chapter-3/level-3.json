@@ -1,0 +1,47 @@
+
+{
+    "id": "level-3",
+    "title": "Colors 3",
+    "words": [
+        {
+            "word": "Gray",
+            "icon": "🩶",
+            "gujaratiPronunciation": "ગ્રે",
+            "hindiPronunciation": "ग्रे",
+            "gujaratiMeaning": "રાખોડી",
+            "hindiMeaning": "धूसर"
+        },
+        {
+            "word": "Golden",
+            "icon": "🌟",
+            "gujaratiPronunciation": "ગોલ્ડન",
+            "hindiPronunciation": "गोल्डन",
+            "gujaratiMeaning": "સોનેરી",
+            "hindiMeaning": "सुनहरा"
+        },
+        {
+            "word": "Silver",
+            "icon": "💿",
+            "gujaratiPronunciation": "સિલ્વર",
+            "hindiPronunciation": "सिल्वर",
+            "gujaratiMeaning": "રૂપેરી",
+            "hindiMeaning": "चांदी जैसा"
+        },
+        {
+            "word": "Violet",
+            "icon": "💜",
+            "gujaratiPronunciation": "વાયોલેટ",
+            "hindiPronunciation": "वायोलेट",
+            "gujaratiMeaning": "જાંબુડિયો",
+            "hindiMeaning": "बैंगनी"
+        },
+        {
+            "word": "Cream",
+            "icon": "🍦",
+            "gujaratiPronunciation": "ક્રીમ",
+            "hindiPronunciation": "क्रीम",
+            "gujaratiMeaning": "મલાઈ જેવો રંગ",
+            "hindiMeaning": "क्रीम रंग"
+        }
+    ]
+}

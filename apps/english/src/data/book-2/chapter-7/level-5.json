@@ -1,0 +1,77 @@
+
+{
+  "id": "level-5",
+  "title": "Professions 5",
+  "words": [
+    {
+      "word": "Entrepreneur",
+      "gujaratiPronunciation": "આન્ત્રપ્રિન્યોર",
+      "hindiPronunciation": "आन्त्रप्रेन्योर",
+      "gujaratiMeaning": "ઉદ્યોગસાહસિક",
+      "hindiMeaning": "उद्यमी",
+      "exampleSentences": [
+        {
+          "sentence": "An entrepreneur starts their own business.",
+          "gujaratiTranslation": "એક ઉદ્યોગસાહસિક પોતાનો વ્યવસાય શરૂ કરે છે.",
+          "hindiTranslation": "एक उद्यमी अपना खुद का व्यवसाय शुरू करता है।"
+        }
+      ]
+    },
+    {
+      "word": "Astronaut",
+      "gujaratiPronunciation": "એસ્ટ્રોનૉટ",
+      "hindiPronunciation": "एस्ट्रोनॉट",
+      "gujaratiMeaning": "અવકાશયાત્રી",
+      "hindiMeaning": "अंतरिक्ष यात्री",
+      "exampleSentences": [
+        {
+          "sentence": "An astronaut travels to space.",
+          "gujaratiTranslation": "એક અવકાશયાત્રી અવકાશમાં પ્રવાસ કરે છે.",
+          "hindiTranslation": "एक अंतरिक्ष यात्री अंतरिक्ष में यात्रा करता है।"
+        }
+      ]
+    },
+    {
+      "word": "Philosopher",
+      "gujaratiPronunciation": "ફિલોસોફર",
+      "hindiPronunciation": "फिलॉसॉफर",
+      "gujaratiMeaning": "તત્વજ્ઞાની",
+      "hindiMeaning": "दार्शनिक",
+      "exampleSentences": [
+        {
+          "sentence": "A philosopher thinks about deep questions.",
+          "gujaratiTranslation": "એક તત્વજ્ઞાની ગહન પ્રશ્નો વિશે વિચારે છે.",
+          "hindiTranslation": "एक दार्शनिक गहरे सवालों के बारे में सोचता है।"
+        }
+      ]
+    },
+    {
+      "word": "Historian",
+      "gujaratiPronunciation": "હિસ્ટોરિયન",
+      "hindiPronunciation": "हिस्टोरियन",
+      "gujaratiMeaning": "ઇતિહાસકાર",
+      "hindiMeaning": "इतिहासकार",
+      "exampleSentences": [
+        {
+          "sentence": "A historian studies the past.",
+          "gujaratiTranslation": "એક ઇતિહાસકાર ભૂતકાળનો અભ્યાસ કરે છે.",
+          "hindiTranslation": "एक इतिहासकार अतीत का अध्ययन करता है।"
+        }
+      ]
+    },
+    {
+      "word": "Economist",
+      "gujaratiPronunciation": "ઇકોનોમિસ્ટ",
+      "hindiPronunciation": "इकोनॉमिस्ट",
+      "gujaratiMeaning": "અર્થશાસ્ત્રી",
+      "hindiMeaning": "अर्थशास्त्री",
+      "exampleSentences": [
+        {
+          "sentence": "An economist analyzes the economy.",
+          "gujaratiTranslation": "એક અર્થશાસ્ત્રી અર્થતંત્રનું વિશ્લેષણ કરે છે.",
+          "hindiTranslation": "एक अर्थशास्त्री अर्थव्यवस्था का विश्लेषण करता है।"
+        }
+      ]
+    }
+  ]
+}

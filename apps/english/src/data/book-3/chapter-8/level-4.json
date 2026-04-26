@@ -1,0 +1,172 @@
+{
+  "id": "level-4",
+  "title": "Level 4: Strategic Moves",
+  "words": [
+    {
+      "word": "Repel",
+      "gujaratiPronunciation": "રિપેલ",
+      "hindiPronunciation": "रिपेल",
+      "gujaratiMeaning": "પાછું હટાવવું, અપાકર્ષણ કરવું",
+      "hindiMeaning": "पीछे हटाना, विकर्षित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Repel", "gujaratiPronunciation": "રિપેલ", "hindiPronunciation": "रिपेल", "gujaratiMeaning": "પાછું હટાવવું", "hindiMeaning": "पीछे हटाना" },
+        "V2 (Past)": { "word": "Repelled", "gujaratiPronunciation": "રિપેલ્ડ", "hindiPronunciation": "रिपेल्ड", "gujaratiMeaning": "પાછું હટાવ્યું", "hindiMeaning": "पीछे हटाया" },
+        "V3 (Past Participle)": { "word": "Repelled", "gujaratiPronunciation": "રિપેલ્ડ", "hindiPronunciation": "रिपेल्ड", "gujaratiMeaning": "પાછું હટાવેલું", "hindiMeaning": "विकर्षित" },
+        "V4 (Present Participle)": { "word": "Repelling", "gujaratiPronunciation": "રિપેલિંગ", "hindiPronunciation": "रिपेलिंग", "gujaratiMeaning": "પાછું હટાવી રહ્યું છે", "hindiMeaning": "पीछे हटा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Drive back", "gujaratiPronunciation": "ડ્રાઇવ બેક", "hindiPronunciation": "ड्राइव बैक", "gujaratiMeaning": "પાછું હટાવવું", "hindiMeaning": "पीछे धकेलना" },
+        { "word": "Repulse", "gujaratiPronunciation": "રિપલ્સ", "hindiPronunciation": "रिपल्स", "gujaratiMeaning": "પાછું હટાવવું", "hindiMeaning": "खदेड़ना" }
+      ],
+      "antonyms": [
+        { "word": "Attract", "gujaratiPronunciation": "એટ્રેક્ટ", "hindiPronunciation": "अट्रैक्ट", "gujaratiMeaning": "આકર્ષવું", "hindiMeaning": "आकर्षित करना" },
+        { "word": "Lure", "gujaratiPronunciation": "લ્યોર", "hindiPronunciation": "ल्योर", "gujaratiMeaning": "લલચાવવું", "hindiMeaning": "लुभाना" }
+      ],
+      "confusingWords": [
+        { "word": "Repeal", "gujaratiPronunciation": "રિપિલ", "hindiPronunciation": "रिपील", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The army managed to repel the attack.",
+          "gujaratiTranslation": "સેના હુમલાને પાછો હટાવવામાં સફળ રહી.",
+          "hindiTranslation": "सेना हमले को पीछे हटाने में कामयाब रही।",
+          "gujaratiPronunciation": "ધ આર્મી મેનેજ્ડ ટુ રિપેલ ધ એટેક.",
+          "hindiPronunciation": "द आर्मी मैनेज्ड टू रिपेल द अटैक।"
+        }
+      ]
+    },
+    {
+      "word": "Fortify",
+      "gujaratiPronunciation": "ફોર્ટિફાય",
+      "hindiPronunciation": "फोर्टिफाई",
+      "gujaratiMeaning": "મજબૂત કરવું, કિલ્લેબંધી કરવી",
+      "hindiMeaning": "मजबूत करना, किलेबंदी करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Fortify", "gujaratiPronunciation": "ફોર્ટિફાય", "hindiPronunciation": "फोर्टिफाई", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "मजबूत करना" },
+        "V2 (Past)": { "word": "Fortified", "gujaratiPronunciation": "ફોર્ટિફાઇડ", "hindiPronunciation": "फोर्टिफाइड", "gujaratiMeaning": "મજબૂત કર્યું", "hindiMeaning": "मजबूत किया" },
+        "V3 (Past Participle)": { "word": "Fortified", "gujaratiPronunciation": "ફોર્ટિફાઇડ", "hindiPronunciation": "फोर्टिफाइड", "gujaratiMeaning": "મજબૂત કરેલું", "hindiMeaning": "मजबूत" },
+        "V4 (Present Participle)": { "word": "Fortifying", "gujaratiPronunciation": "ફોર્ટિફાઇંગ", "hindiPronunciation": "फोर्टिफाइंग", "gujaratiMeaning": "મજબૂત કરી રહ્યું છે", "hindiMeaning": "मजबूत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Strengthen", "gujaratiPronunciation": "સ્ટ્રેન્થન", "hindiPronunciation": "स्ट्रेंग्थेन", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "मजबूत करना" },
+        { "word": "Reinforce", "gujaratiPronunciation": "રિઇન્ફોર્સ", "hindiPronunciation": "रीइन्फोर्स", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "सुदृढ़ करना" }
+      ],
+      "antonyms": [
+        { "word": "Weaken", "gujaratiPronunciation": "વીકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमजोर करना" },
+        { "word": "Undermine", "gujaratiPronunciation": "અન્ડરમાઇન", "hindiPronunciation": "अंडरमाइन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमजोर करना" }
+      ],
+      "confusingWords": [
+        { "word": "Falsify", "gujaratiPronunciation": "ફોલ્સિફાય", "hindiPronunciation": "फॉल्सिफाई", "gujaratiMeaning": "ખોટું સાબિત કરવું", "hindiMeaning": "झूठा साबित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They will fortify the castle walls.",
+          "gujaratiTranslation": "તેઓ કિલ્લાની દીવાલોને મજબૂત કરશે.",
+          "hindiTranslation": "वे महल की दीवारों को मजबूत करेंगे।",
+          "gujaratiPronunciation": "ધે વિલ ફોર્ટિફાય ધ કાંસલ વોલ્સ.",
+          "hindiPronunciation": "दे विल फोर्टिफाई द कासल वॉल्स।"
+        }
+      ]
+    },
+    {
+      "word": "Neutralize",
+      "gujaratiPronunciation": "ન્યુટ્રલાઇઝ",
+      "hindiPronunciation": "न्यूट्रलाइज़",
+      "gujaratiMeaning": "નિષ્ક્રિય કરવું, બેઅસર કરવું",
+      "hindiMeaning": "निष्क्रिय करना, बेअसर करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Neutralize", "gujaratiPronunciation": "ન્યુટ્રલાઇઝ", "hindiPronunciation": "न्यूट्रलाइज़", "gujaratiMeaning": "નિષ્ક્રિય કરવું", "hindiMeaning": "निष्क्रिय करना" },
+        "V2 (Past)": { "word": "Neutralized", "gujaratiPronunciation": "ન્યુટ્રલાઇઝ્ડ", "hindiPronunciation": "न्यूट्रलाइज्ड", "gujaratiMeaning": "નિષ્ક્રિય કર્યું", "hindiMeaning": "निष्क्रिय किया" },
+        "V3 (Past Participle)": { "word": "Neutralized", "gujaratiPronunciation": "ન્યુટ્રલાઇઝ્ડ", "hindiPronunciation": "न्यूट्रलाइज्ड", "gujaratiMeaning": "નિષ્ક્રિય કરેલું", "hindiMeaning": "निष्क्रिय" },
+        "V4 (Present Participle)": { "word": "Neutralizing", "gujaratiPronunciation": "ન્યુટ્રલાઇઝિંગ", "hindiPronunciation": "न्यूट्रलाइजिंग", "gujaratiMeaning": "નિષ્ક્રિય કરી રહ્યું છે", "hindiMeaning": "निष्क्रिय कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Counteract", "gujaratiPronunciation": "કાઉન્ટરએક્ટ", "hindiPronunciation": "काउंटरैक्ट", "gujaratiMeaning": "પ્રતિરોધ કરવો", "hindiMeaning": "प्रतिकार करना" },
+        { "word": "Cancel out", "gujaratiPronunciation": "કેન્સલ આઉટ", "hindiPronunciation": "कैंसल आउट", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "रद्द करना" }
+      ],
+      "antonyms": [
+        { "word": "Activate", "gujaratiPronunciation": "એક્ટિવેટ", "hindiPronunciation": "एक्टिवेट", "gujaratiMeaning": "સક્રિય કરવું", "hindiMeaning": "सक्रिय करना" },
+        { "word": "Strengthen", "gujaratiPronunciation": "સ્ટ્રેન્થન", "hindiPronunciation": "स्ट्रेंग्थेन", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "मजबूत करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The chemical will neutralize the acid.",
+          "gujaratiTranslation": "આ કેમિકલ એસિડને નિષ્ક્રિય કરશે.",
+          "hindiTranslation": "यह रसायन एसिड को निष्क्रिय कर देगा।",
+          "gujaratiPronunciation": "ધ કેમિકલ વિલ ન્યુટ્રલાઇઝ ધ એસિડ.",
+          "hindiPronunciation": "द केमिकल विल न्यूट्रलाइज़ द एसिड।"
+        }
+      ]
+    },
+    {
+      "word": "Challenge",
+      "gujaratiPronunciation": "ચેલેન્જ",
+      "hindiPronunciation": "चैलेंज",
+      "gujaratiMeaning": "પડકારવું",
+      "hindiMeaning": "चुनौती देना",
+      "partOfSpeech": "Verb, Noun",
+      "verbForms": {
+        "V1 (Base)": { "word": "Challenge", "gujaratiPronunciation": "ચેલેન્જ", "hindiPronunciation": "चैलेंज", "gujaratiMeaning": "પડકારવું", "hindiMeaning": "चुनौती देना" },
+        "V2 (Past)": { "word": "Challenged", "gujaratiPronunciation": "ચેલેન્જ્ડ", "hindiPronunciation": "चैलेंज्ड", "gujaratiMeaning": "પડકાર્યું", "hindiMeaning": "चुनौती दी" },
+        "V3 (Past Participle)": { "word": "Challenged", "gujaratiPronunciation": "ચેલેન્જ્ડ", "hindiPronunciation": "चैलेंज्ड", "gujaratiMeaning": "પડકારેલું", "hindiMeaning": "चुनौतीपूर्ण" },
+        "V4 (Present Participle)": { "word": "Challenging", "gujaratiPronunciation": "ચેલેન્જિંગ", "hindiPronunciation": "चैलेंजिंग", "gujaratiMeaning": "પડકારી રહ્યું છે", "hindiMeaning": "चुनौती दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Dare", "gujaratiPronunciation": "ડેર", "hindiPronunciation": "डेयर", "gujaratiMeaning": "હિંમત કરવી", "hindiMeaning": "हिम्मत करना" },
+        { "word": "Confront", "gujaratiPronunciation": "કન્ફ્રન્ટ", "hindiPronunciation": "कंफ्रंट", "gujaratiMeaning": "સામનો કરવો", "hindiMeaning": "सामना करना" }
+      ],
+      "antonyms": [
+        { "word": "Accept", "gujaratiPronunciation": "એક્સેપ્ટ", "hindiPronunciation": "एक्सेप्ट", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" },
+        { "word": "Agree", "gujaratiPronunciation": "એગ્રી", "hindiPronunciation": "एग्री", "gujaratiMeaning": "સંમત થવું", "hindiMeaning": "सहमत होना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "I challenge you to a game of chess.",
+          "gujaratiTranslation": "હું તમને ચેસની રમતમાં પડકારું છું.",
+          "hindiTranslation": "मैं तुम्हें शतरंज के खेल के लिए चुनौती देता हूँ।",
+          "gujaratiPronunciation": "આઇ ચેલેન્જ યુ ટુ અ ગેમ ઓફ ચેસ.",
+          "hindiPronunciation": "आई चैलेंज यू टू अ गेम ऑफ चेस।"
+        }
+      ]
+    },
+    {
+      "word": "Prevail",
+      "gujaratiPronunciation": "પ્રિવેલ",
+      "hindiPronunciation": "प्रिवेल",
+      "gujaratiMeaning": "જીતવું, પ્રભુત્વ મેળવવું",
+      "hindiMeaning": "जीतना, प्रबल होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Prevail", "gujaratiPronunciation": "પ્રિવેલ", "hindiPronunciation": "प्रिवेल", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+        "V2 (Past)": { "word": "Prevailed", "gujaratiPronunciation": "પ્રિવેલ્ડ", "hindiPronunciation": "प्रिवेल्ड", "gujaratiMeaning": "જીત્યું", "hindiMeaning": "जीता" },
+        "V3 (Past Participle)": { "word": "Prevailed", "gujaratiPronunciation": "પ્રિવેલ્ડ", "hindiPronunciation": "प्रिवेल्ड", "gujaratiMeaning": "જીતેલું", "hindiMeaning": "प्रबल" },
+        "V4 (Present Participle)": { "word": "Prevailing", "gujaratiPronunciation": "પ્રિવેલિંગ", "hindiPronunciation": "प्रिवेलिंग", "gujaratiMeaning": "જીતી રહ્યું છે", "hindiMeaning": "जीत रहा है" }
+      },
+      "synonyms": [
+        { "word": "Triumph", "gujaratiPronunciation": "ટ્રાયમ્ફ", "hindiPronunciation": "ट्रायंफ", "gujaratiMeaning": "વિજય મેળવવો", "hindiMeaning": "विजय प्राप्त करना" },
+        { "word": "Succeed", "gujaratiPronunciation": "સક્સીડ", "hindiPronunciation": "सक्सीड", "gujaratiMeaning": "સફળ થવું", "hindiMeaning": "सफल होना" }
+      ],
+      "antonyms": [
+        { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज़", "gujaratiMeaning": "હારવું", "hindiMeaning": "हारना" },
+        { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ જવું", "hindiMeaning": "असफल होना" }
+      ],
+      "confusingWords": [
+        { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "પ્રગટ કરવું", "hindiMeaning": "प्रकट करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Justice will prevail in the end.",
+          "gujaratiTranslation": "અંતમાં ન્યાયની જીત થશે.",
+          "hindiTranslation": "अंत में न्याय की जीत होगी।",
+          "gujaratiPronunciation": "જસ્ટિસ વિલ પ્રિવેલ ઇન ધ એન્ડ.",
+          "hindiPronunciation": "जस्टिस विल प्रिवेल इन द एंड।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1246 @@
+{
+    "id": "active-passive-voice-gu",
+    "title": "Active-Passive Voice (કર્તરિ-કર્મણિ પ્રયોગ)",
+    "content": [
+        {
+            "type": "section",
+            "title": "📚 Active Voice vs Passive Voice શું છે?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "અંગ્રેજીમાં વાક્યમાં <b>કર્તા</b> (Subject) <b>ક્રિયા</b> (Verb) કરે છે અને <b>કર્મ</b> (Object) પર અસર થાય છે. આ ક્રિયા બે રીતે દર્શાવી શકાય છે:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Active vs Passive Voice",
+                        "headers": [
+                            "Voice",
+                            "વ્યાખ્યા",
+                            "ઉદાહરણ"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Active Voice</b><br>(કર્તરિ પ્રયોગ)",
+                                "જ્યારે <b>કર્તા</b> (Subject) ક્રિયા કરે છે",
+                                "<b>She</b> writes a letter.<br>(તેણી પત્ર લખે છે.)"
+                            ],
+                            [
+                                "<b>Passive Voice</b><br>(કર્મણિ પ્રયોગ)",
+                                "જ્યારે <b>કર્મ</b> (Object) પર ક્રિયા થાય છે",
+                                "A letter is written <b>by her</b>.<br>(પત્ર તેણી દ્વારા લખાય છે.)"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>યાદ રાખો:</b> Passive Voice માં <b>Object</b> (કર્મ) વાક્યની શરૂઆતમાં આવે છે અને <b>Subject</b> (કર્તા) 'by' પછી આવે છે (અથવા છોડી દેવાય છે)."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "🔄 Subject → Object Pronoun Conversion",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "Active Voice માં <b>Subject</b> હોય તે Passive Voice માં <b>Object</b> (by પછી) તરીકે બદલાય છે:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Pronoun Conversion Table",
+                        "headers": [
+                            "Subject (કર્તા)",
+                            "Object (by + ...)",
+                            "ઉદાહરણ"
+                        ],
+                        "rows": [
+                            [
+                                "<b>I</b>",
+                                "by <b>me</b>",
+                                "I write → is written <b>by me</b>"
+                            ],
+                            [
+                                "<b>We</b>",
+                                "by <b>us</b>",
+                                "We play → is played <b>by us</b>"
+                            ],
+                            [
+                                "<b>You</b>",
+                                "by <b>you</b>",
+                                "You teach → is taught <b>by you</b>"
+                            ],
+                            [
+                                "<b>He</b>",
+                                "by <b>him</b>",
+                                "He reads → is read <b>by him</b>"
+                            ],
+                            [
+                                "<b>She</b>",
+                                "by <b>her</b>",
+                                "She sings → is sung <b>by her</b>"
+                            ],
+                            [
+                                "<b>It</b>",
+                                "by <b>it</b>",
+                                "It bites → is bitten <b>by it</b>"
+                            ],
+                            [
+                                "<b>They</b>",
+                                "by <b>them</b>",
+                                "They help → is helped <b>by them</b>"
+                            ],
+                            [
+                                "<b>Who</b>",
+                                "by <b>whom</b>",
+                                "Who did this? → By <b>whom</b> was this done?"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📏 Passive Voice બનાવવાનો Basic Formula",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🎯 Basic Structure",
+                        "headers": [
+                            "",
+                            "Formula"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Active Voice</b>",
+                                "Subject + Verb + Object"
+                            ],
+                            [
+                                "<b>Passive Voice</b>",
+                                "Object + Helping Verb + V3 + by + Subject"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>મહત્વપૂર્ણ:</b> Passive Voice માં હંમેશા <b>V3 (Past Participle / ભૂતકૃદંત)</b> વપરાય છે."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Simple Present Tense (સાદો વર્તમાનકાળ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Simple Present Tense",
+                        "headers": [
+                            "",
+                            "Active Voice",
+                            "Passive Voice"
+                        ],
+                        "rows": [
+                            [
+                                "<span style='color: green; font-size: 1.5em; font-weight: bold;'>+</span>",
+                                "<b>Subject + V1 (s/es) + Object + O.W.</b>",
+                                "<b>Object + am/is/are + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She writes a letter.</span><br>(તેણી પત્ર લખે છે.)",
+                                "<span class='english-example'>A letter is written by her.</span><br>(તેણી દ્વારા પત્ર લખાય છે.)"
+                            ],
+                            [
+                                "<span style='color: red; font-size: 1.5em; font-weight: bold;'>-</span>",
+                                "<b>Subject + do/does + not + V1 + Object + O.W.</b>",
+                                "<b>Object + am/is/are + not + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She does not write a letter.</span><br>(તેણી પત્ર લખતી નથી.)",
+                                "<span class='english-example'>A letter is not written by her.</span><br>(તેણી દ્વારા પત્ર લખાતો નથી.)"
+                            ],
+                            [
+                                "<span style='color: blue; font-size: 1.5em; font-weight: bold;'>?</span>",
+                                "<b>Do/Does + Subject + V1 + Object + O.W.?</b>",
+                                "<b>Am/Is/Are + Object + V3 + by + Subject + O.W.?</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>Does she write a letter?</span><br>(શું તેણી પત્ર લખે છે?)",
+                                "<span class='english-example'>Is a letter written by her?</span><br>(શું તેણી દ્વારા પત્ર લખાય છે?)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Simple Past Tense (સાદો ભૂતકાળ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Simple Past Tense",
+                        "headers": [
+                            "",
+                            "Active Voice",
+                            "Passive Voice"
+                        ],
+                        "rows": [
+                            [
+                                "<span style='color: green; font-size: 1.5em; font-weight: bold;'>+</span>",
+                                "<b>Subject + V2 + Object + O.W.</b>",
+                                "<b>Object + was/were + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She wrote a letter.</span><br>(તેણીએ પત્ર લખ્યો.)",
+                                "<span class='english-example'>A letter was written by her.</span><br>(તેણી દ્વારા પત્ર લખાયો હતો.)"
+                            ],
+                            [
+                                "<span style='color: red; font-size: 1.5em; font-weight: bold;'>-</span>",
+                                "<b>Subject + did + not + V1 + Object + O.W.</b>",
+                                "<b>Object + was/were + not + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She did not write a letter.</span><br>(તેણીએ પત્ર લખ્યો ન હતો.)",
+                                "<span class='english-example'>A letter was not written by her.</span><br>(તેણી દ્વારા પત્ર લખાયો ન હતો.)"
+                            ],
+                            [
+                                "<span style='color: blue; font-size: 1.5em; font-weight: bold;'>?</span>",
+                                "<b>Did + Subject + V1 + Object + O.W.?</b>",
+                                "<b>Was/Were + Object + V3 + by + Subject + O.W.?</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>Did she write a letter?</span><br>(શું તેણીએ પત્ર લખ્યો હતો?)",
+                                "<span class='english-example'>Was a letter written by her?</span><br>(શું તેણી દ્વારા પત્ર લખાયો હતો?)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Simple Future Tense (સાદો ભવિષ્યકાળ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Simple Future Tense",
+                        "headers": [
+                            "",
+                            "Active Voice",
+                            "Passive Voice"
+                        ],
+                        "rows": [
+                            [
+                                "<span style='color: green; font-size: 1.5em; font-weight: bold;'>+</span>",
+                                "<b>Subject + will/shall + V1 + Object + O.W.</b>",
+                                "<b>Object + will/shall + be + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She will write a letter.</span><br>(તેણી પત્ર લખશે.)",
+                                "<span class='english-example'>A letter will be written by her.</span><br>(તેણી દ્વારા પત્ર લખાશે.)"
+                            ],
+                            [
+                                "<span style='color: red; font-size: 1.5em; font-weight: bold;'>-</span>",
+                                "<b>Subject + will/shall + not + V1 + Object + O.W.</b>",
+                                "<b>Object + will/shall + not + be + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She will not write a letter.</span><br>(તેણી પત્ર લખશે નહીં.)",
+                                "<span class='english-example'>A letter will not be written by her.</span><br>(તેણી દ્વારા પત્ર લખાશે નહીં.)"
+                            ],
+                            [
+                                "<span style='color: blue; font-size: 1.5em; font-weight: bold;'>?</span>",
+                                "<b>Will/Shall + Subject + V1 + Object + O.W.?</b>",
+                                "<b>Will/Shall + Object + be + V3 + by + Subject + O.W.?</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>Will she write a letter?</span><br>(શું તેણી પત્ર લખશે?)",
+                                "<span class='english-example'>Will a letter be written by her?</span><br>(શું તેણી દ્વારા પત્ર લખાશે?)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Present Continuous Tense (ચાલુ વર્તમાનકાળ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Present Continuous Tense",
+                        "headers": [
+                            "",
+                            "Active Voice",
+                            "Passive Voice"
+                        ],
+                        "rows": [
+                            [
+                                "<span style='color: green; font-size: 1.5em; font-weight: bold;'>+</span>",
+                                "<b>Subject + am/is/are + V1-ing + Object + O.W.</b>",
+                                "<b>Object + am/is/are + being + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She is writing a letter.</span><br>(તેણી પત્ર લખી રહી છે.)",
+                                "<span class='english-example'>A letter is being written by her.</span><br>(તેણી દ્વારા પત્ર લખાઈ રહ્યો છે.)"
+                            ],
+                            [
+                                "<span style='color: red; font-size: 1.5em; font-weight: bold;'>-</span>",
+                                "<b>Subject + am/is/are + not + V1-ing + Object + O.W.</b>",
+                                "<b>Object + am/is/are + not + being + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She is not writing a letter.</span><br>(તેણી પત્ર લખી રહી નથી.)",
+                                "<span class='english-example'>A letter is not being written by her.</span><br>(તેણી દ્વારા પત્ર લખાઈ રહ્યો નથી.)"
+                            ],
+                            [
+                                "<span style='color: blue; font-size: 1.5em; font-weight: bold;'>?</span>",
+                                "<b>Am/Is/Are + Subject + V1-ing + Object + O.W.?</b>",
+                                "<b>Am/Is/Are + Object + being + V3 + by + Subject + O.W.?</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>Is she writing a letter?</span><br>(શું તેણી પત્ર લખી રહી છે?)",
+                                "<span class='english-example'>Is a letter being written by her?</span><br>(શું તેણી દ્વારા પત્ર લખાઈ રહ્યો છે?)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Past Continuous Tense (ચાલુ ભૂતકાળ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Past Continuous Tense",
+                        "headers": [
+                            "",
+                            "Active Voice",
+                            "Passive Voice"
+                        ],
+                        "rows": [
+                            [
+                                "<span style='color: green; font-size: 1.5em; font-weight: bold;'>+</span>",
+                                "<b>Subject + was/were + V1-ing + Object + O.W.</b>",
+                                "<b>Object + was/were + being + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She was writing a letter.</span><br>(તેણી પત્ર લખી રહી હતી.)",
+                                "<span class='english-example'>A letter was being written by her.</span><br>(તેણી દ્વારા પત્ર લખાઈ રહ્યો હતો.)"
+                            ],
+                            [
+                                "<span style='color: red; font-size: 1.5em; font-weight: bold;'>-</span>",
+                                "<b>Subject + was/were + not + V1-ing + Object + O.W.</b>",
+                                "<b>Object + was/were + not + being + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She was not writing a letter.</span><br>(તેણી પત્ર લખી રહી ન હતી.)",
+                                "<span class='english-example'>A letter was not being written by her.</span><br>(તેણી દ્વારા પત્ર લખાઈ રહ્યો ન હતો.)"
+                            ],
+                            [
+                                "<span style='color: blue; font-size: 1.5em; font-weight: bold;'>?</span>",
+                                "<b>Was/Were + Subject + V1-ing + Object + O.W.?</b>",
+                                "<b>Was/Were + Object + being + V3 + by + Subject + O.W.?</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>Was she writing a letter?</span><br>(શું તેણી પત્ર લખી રહી હતી?)",
+                                "<span class='english-example'>Was a letter being written by her?</span><br>(શું તેણી દ્વારા પત્ર લખાઈ રહ્યો હતો?)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Future Continuous Tense (ચાલુ ભવિષ્યકાળ)",
+            "content": [
+                {
+                    "type": "note",
+                    "content": "Future Continuous Tense (ચાલુ ભવિષ્યકાળ) અને Perfect Continuous Tenses (ચાલુ પૂર્ણ કાળ) નું Passive Voice માં રૂપાંતર સામાન્ય રીતે થતું નથી."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Present Perfect Tense (પૂર્ણ વર્તમાનકાળ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Present Perfect Tense",
+                        "headers": [
+                            "",
+                            "Active Voice",
+                            "Passive Voice"
+                        ],
+                        "rows": [
+                            [
+                                "<span style='color: green; font-size: 1.5em; font-weight: bold;'>+</span>",
+                                "<b>Subject + have/has + V3 + Object + O.W.</b>",
+                                "<b>Object + have/has + been + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She has written a letter.</span><br>(તેણીએ પત્ર લખ્યો છે.)",
+                                "<span class='english-example'>A letter has been written by her.</span><br>(તેણી દ્વારા પત્ર લખાયો છે.)"
+                            ],
+                            [
+                                "<span style='color: red; font-size: 1.5em; font-weight: bold;'>-</span>",
+                                "<b>Subject + have/has + not + V3 + Object + O.W.</b>",
+                                "<b>Object + have/has + not + been + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She has not written a letter.</span><br>(તેણીએ પત્ર લખ્યો નથી.)",
+                                "<span class='english-example'>A letter has not been written by her.</span><br>(તેણી દ્વારા પત્ર લખાયો નથી.)"
+                            ],
+                            [
+                                "<span style='color: blue; font-size: 1.5em; font-weight: bold;'>?</span>",
+                                "<b>Have/Has + Subject + V3 + Object + O.W.?</b>",
+                                "<b>Have/Has + Object + been + V3 + by + Subject + O.W.?</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>Has she written a letter?</span><br>(શું તેણીએ પત્ર લખ્યો છે?)",
+                                "<span class='english-example'>Has a letter been written by her?</span><br>(શું તેણી દ્વારા પત્ર લખાયો છે?)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Past Perfect Tense (પૂર્ણ ભૂતકાળ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Past Perfect Tense",
+                        "headers": [
+                            "",
+                            "Active Voice",
+                            "Passive Voice"
+                        ],
+                        "rows": [
+                            [
+                                "<span style='color: green; font-size: 1.5em; font-weight: bold;'>+</span>",
+                                "<b>Subject + had + V3 + Object + O.W.</b>",
+                                "<b>Object + had + been + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She had written a letter.</span><br>(તેણીએ પત્ર લખ્યો હતો.)",
+                                "<span class='english-example'>A letter had been written by her.</span><br>(તેણી દ્વારા પત્ર લખાઈ ચૂક્યો હતો.)"
+                            ],
+                            [
+                                "<span style='color: red; font-size: 1.5em; font-weight: bold;'>-</span>",
+                                "<b>Subject + had + not + V3 + Object + O.W.</b>",
+                                "<b>Object + had + not + been + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She had not written a letter.</span><br>(તેણીએ પત્ર લખ્યો ન હતો.)",
+                                "<span class='english-example'>A letter had not been written by her.</span><br>(તેણી દ્વારા પત્ર લખાયો ન હતો.)"
+                            ],
+                            [
+                                "<span style='color: blue; font-size: 1.5em; font-weight: bold;'>?</span>",
+                                "<b>Had + Subject + V3 + Object + O.W.?</b>",
+                                "<b>Had + Object + been + V3 + by + Subject + O.W.?</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>Had she written a letter?</span><br>(શું તેણીએ પત્ર લખ્યો હતો?)",
+                                "<span class='english-example'>Had a letter been written by her?</span><br>(શું તેણી દ્વારા પત્ર લખાઈ ચૂક્યો હતો?)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Future Perfect Tense (પૂર્ણ ભવિષ્યકાળ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Future Perfect Tense",
+                        "headers": [
+                            "",
+                            "Active Voice",
+                            "Passive Voice"
+                        ],
+                        "rows": [
+                            [
+                                "<span style='color: green; font-size: 1.5em; font-weight: bold;'>+</span>",
+                                "<b>Subject + will/shall + have + V3 + Object + O.W.</b>",
+                                "<b>Object + will/shall + have + been + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She will have written a letter.</span><br>(તેણીએ પત્ર લખી લીધો હશે.)",
+                                "<span class='english-example'>A letter will have been written by her.</span><br>(તેણી દ્વારા પત્ર લખાઈ ગયો હશે.)"
+                            ],
+                            [
+                                "<span style='color: red; font-size: 1.5em; font-weight: bold;'>-</span>",
+                                "<b>Subject + will/shall + not + have + V3 + Object + O.W.</b>",
+                                "<b>Object + will/shall + not + have + been + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She will not have written a letter.</span><br>(તેણીએ પત્ર લખ્યો નહીં હોય.)",
+                                "<span class='english-example'>A letter will not have been written by her.</span><br>(તેણી દ્વારા પત્ર લખાયો નહીં હોય.)"
+                            ],
+                            [
+                                "<span style='color: blue; font-size: 1.5em; font-weight: bold;'>?</span>",
+                                "<b>Will/Shall + Subject + have + V3 + Object + O.W.?</b>",
+                                "<b>Will/Shall + Object + have + been + V3 + by + Subject + O.W.?</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>Will she have written a letter?</span><br>(શું તેણીએ પત્ર લખી લીધો હશે?)",
+                                "<span class='english-example'>Will a letter have been written by her?</span><br>(શું તેણી દ્વારા પત્ર લખાઈ ગયો હશે?)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Modals",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Modals (can, could, should, must, may, might)",
+                        "headers": [
+                            "",
+                            "Active Voice",
+                            "Passive Voice"
+                        ],
+                        "rows": [
+                            [
+                                "<span style='color: green; font-size: 1.5em; font-weight: bold;'>+</span>",
+                                "<b>Subject + Modal + V1 + Object + O.W.</b>",
+                                "<b>Object + Modal + be + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She can write a letter.</span><br>(તેણી પત્ર લખી શકે છે.)",
+                                "<span class='english-example'>A letter can be written by her.</span><br>(તેણી દ્વારા પત્ર લખી શકાય છે.)"
+                            ],
+                            [
+                                "<span style='color: red; font-size: 1.5em; font-weight: bold;'>-</span>",
+                                "<b>Subject + Modal + not + V1 + Object + O.W.</b>",
+                                "<b>Object + Modal + not + be + V3 + by + Subject + O.W.</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>She cannot write a letter.</span><br>(તેણી પત્ર લખી શકતી નથી.)",
+                                "<span class='english-example'>A letter cannot be written by her.</span><br>(તેણી દ્વારા પત્ર લખી શકાતો નથી.)"
+                            ],
+                            [
+                                "<span style='color: blue; font-size: 1.5em; font-weight: bold;'>?</span>",
+                                "<b>Modal + Subject + V1 + Object + O.W.?</b>",
+                                "<b>Modal + Object + be + V3 + by + Subject + O.W.?</b>"
+                            ],
+                            [
+                                "",
+                                "<span class='english-example'>Can she write a letter?</span><br>(શું તેણી પત્ર લખી શકે છે?)",
+                                "<span class='english-example'>Can a letter be written by her?</span><br>(શું તેણી દ્વારા પત્ર લખી શકાય છે?)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Interrogative Passive (પ્રશ્નવાચક Passive)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "કર્મ જાણવા પૂછાયેલા પ્રશ્નોનું <b>Passive Voice</b> કર્મ જાણવા સામાન્ય રીતે <b>whom</b> કે <b>what</b> થી પ્રશ્ન પૂછાય છે. આ ઉપરાંત <b>How many + નામ, Howmuch + નામ, Which + નામ, Whose + નામ</b>થી પણ પ્રશ્ન પૂછાયેલો હોય છે."
+                },
+                {
+                    "type": "note",
+                    "content": "<b>મુદ્દા ધ્યાનમાં રાખો:</b><br>1. જો પ્રશ્ન <b>whom</b>થી પૂછાયો હોય તો Passive વાક્યની શરૂઆતમાં <b>who</b> મૂકો. અન્ય કોઈ સર્વનામથી પ્રશ્ન પૂછાયો હોય તો તે જ સર્વનામ Passive વાક્યની શરૂઆતમાં મૂકો.<br>2. ત્યાર પછી તે સર્વનામને અનુરૂપ જે તે કાળનું સહાયકારી ક્રિયાપદ મૂકો. દા.ત., is, am, are, was, were, has, have, can, may વગેરે.<br>3. ત્યારબાદ Passive ક્રિયાપદ તરીકે ભૂતકૃદંત, be ભૂતકૃદંત, been ભૂતકૃદંત, being ભૂતકૃદંત મૂકો.<br>4. પછી <b>by</b> સાથે કર્તાને વિભક્તિના રૂપમાં મૂકો. દા.ત., I હોય તો by me, I હોય તો I, her હોય તો she મૂકી પછી Passive ક્રિયાપદ ભૂતકૃદંત મૂકો. પછી by સાથે અસલ કર્તાને મૂકો. દા.ત., કર્તા we હોય તો by us કર્તા he હોય તો by him મૂકો. છેલ્લે અન્ય શબ્દો મૂકો."
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> Which song <u>is</u> she <u>singing</u> now?<br><b>Passive:</b> Which song <u>is being sung</u> by her now?",
+                        "<b>Active:</b> Whose book <u>have</u> you <u>read</u> recently?<br><b>Passive:</b> Whose book <u>has been read</u> by you recently?",
+                        "<b>Active:</b> How much milk <u>will</u> she <u>buy</u> tomorrow?<br><b>Passive:</b> How much milk <u>will be bought</u> by her tomorrow?",
+                        "<b>Active:</b> Whom <u>did</u> you <u>give</u> your book yesterday? (દ્વિકર્મક વાક્ય)<br><b>Passive:</b> Who <u>was given</u> your book by you yesterday?<br><b>Passive:</b> To whom was your book given yesterday by you?",
+                        "<b>Active:</b> What <u>did</u> you <u>give</u> him yesterday?<br><b>Passive:</b> What <u>was given</u> to him by you yesterday?"
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": "કર્મ જાણવા માટેના આવા વાક્યોમાં A.V. માં સ.ક્રિ. + કર્તા + મુ.ક્રિ. એક સાથે (સે.ગ.) જોવા મળશે. વાક્ય 1 માં A.V. માં is she singing માં વચ્ચે she છે જે P.V. માં is being sung થાય છે."
+                },
+                {
+                    "type": "note",
+                    "content": "કર્તા, કર્મ સિવાય વાક્યમાં અન્ય શબ્દોમાં આવતી માહિતી મેળવવા <b>Where, why, when</b> સિવાય પણ <b>at what time, How, howlong</b> જેવા પ્રશ્નાર્થવાળાથી પ્રશ્નો પૂછી શકાય છે."
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> When <u>had</u> she <u>purchased</u> new dress?<br><b>Passive:</b> When <u>had</u> new dress <u>been purchased</u> by her?",
+                        "<b>Active:</b> Why <u>are</u> you <u>punishing</u> him?<br><b>Passive:</b> Why <u>is</u> he <u>being punished</u> by you?",
+                        "<b>Active:</b> Where <u>have</u> you <u>put</u> my hat?<br><b>Passive:</b> Where <u>has</u> my hat <u>been put</u> by you?",
+                        "<b>Active:</b> With whom <u>did</u> you <u>visit</u> the zoo yesterday?<br><b>Passive:</b> With whom <u>was</u> the zoo <u>visited</u> by you yesterday?"
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": "સૌપ્રથમ જે તે પ્રશ્નાર્થ વાચક સર્વનામને વાક્યની શરૂઆતમાં મૂકો. પછી કર્મ પ્રમાણે એકવચન કે બહુવચન, જે તે કાળનું સહાયકારી ક્રિયાપદ મૂકો. દા.ત., is, am, are, was, were, have, has વગેરે પછી કર્મને મૂકો. જો સર્વનામ હોય તો તેને કર્મ વિભક્તિમાં મૂકો. દા.ત., કર્તા we હોય તો by us કર્તા he હોય તો by him મૂકો. છેલ્લે અન્ય શબ્દો મૂકો."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Imperative Sentences (આજ્ઞાર્થ વાક્યો)",
+            "content": [
+                {
+                    "type": "heading",
+                    "content": "Sentences without object (કર્મ વગરના વાક્યો)"
+                },
+                {
+                    "type": "paragraph",
+                    "content": "આવાં વાક્યોનું Passive Voice કરતી વખતે <b>You are ordered, requested, advised, warned, suggested</b>નો ઉપયોગ કરી પછી <b>to</b> મુકવાનું અને <b>to</b> પછી ક્રિયાપદનું <b>V1 મૂળરૂપ</b> વાપરવાનું આવે છે."
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> Stop talking.<br><b>Passive:</b> You <u>are ordered</u> to stop talking.",
+                        "<b>Active:</b> Please sit down.<br><b>Passive:</b> You <u>are requested</u> to sit down.",
+                        "<b>Active:</b> Don't talk, please.<br><b>Passive:</b> You <u>are requested</u> not to talk.",
+                        "<b>Active:</b> Work hard.<br><b>Passive:</b> You <u>are advised</u> to work hard."
+                    ]
+                },
+                {
+                    "type": "note",
+                    "content": "<b>નોંધ:</b> કર્મ વગરના Active આજ્ઞાર્થ વાક્યોનું Passive કરતી વખતે <b>You are + જરૂર મુજબનું ભૂતકૃદંત (V³)</b> વાપરવામાં આવે છે."
+                },
+                {
+                    "type": "heading",
+                    "content": "Sentences with objects (કર્મવાળાં આજ્ઞાર્થ વાક્યો)"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> <u>Turn off</u> the lights.<br><b>Passive:</b> Let the lights <u>be turned off</u>.",
+                        "<b>Active:</b> <u>Do</u> the work now.<br><b>Passive:</b> Let the work <u>be done</u> now.",
+                        "<b>Active:</b> <u>Help</u> the poor.<br><b>Passive:</b> Let the poor <u>be helped</u>.",
+                        "<b>Active:</b> <u>Don't cut</u> the trees.<br><b>Passive:</b> Let the trees <u>not be cut</u>.",
+                        "<b>Active:</b> We <u>should</u> obey the traffic rules.<br><b>Passive:</b> The traffic rules <u>should be obeyed</u> by us."
+                    ]
+                },
+                {
+                    "type": "note",
+                    "content": "<b>નોંધ:</b> કર્મવાળાં આજ્ઞાર્થ વાક્યોનું Passive સામાન્ય રીતે <b>Let + કર્મ + be + V³</b> ના વાક્ય રચના મુજબ થાય છે. પ્રસંગોપાત કર્મ + <b>should + be + V³</b> પણ વપરાય છે."
+                },
+                {
+                    "type": "paragraph",
+                    "content": "We <u>thought</u> that the meeting was canceled. (Active)<br>It <u>was thought</u> that the meeting was canceled. (Passive)<br>The meeting <u>was thought</u> to be canceled. (Passive)"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Causal Verbs - Let (પ્રેરક ક્રિયાપદ)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>Let + કર્મ + be + V³</b> ની વાક્ય રચના મુજબ થાય છે. પ્રસંગોપાત કર્મ + <b>should + be + V³</b> પણ વપરાય છે."
+                },
+                {
+                    "type": "heading",
+                    "content": "Let થી શરૂ થતાં વાક્યો"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> Let me check your report.<br><b>Passive:</b> Let your report <u>be checked</u> by me.",
+                        "<b>Active:</b> Let them <u>play</u> a new game.<br><b>Passive:</b> Let a new game <u>be played</u> by them.",
+                        "<b>Active:</b> Let's <u>start</u> the meeting.<br><b>Passive:</b> Let the meeting <u>be started</u>.",
+                        "<b>Active:</b> Let her <u>finish</u> the drawing.<br><b>Passive:</b> Let the drawing <u>be finished</u> by her."
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Causal Verbs - Get (પ્રેરક ક્રિયાપદ)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>Get</b> (વિનંતીથી કામ કરાવવા માટે વપરાય છે.)"
+                },
+                {
+                    "type": "note",
+                    "content": "<b>વાક્ય રચના</b><br><b>Active:</b> પ્રેરક કર્તા + get નું રૂપ + કર્તા + <b>to મૂળરૂપ</b> + કર્મ + અન્ય શબ્દો.<br><b>Passive:</b> પ્રેરક કર્તા + get નું રૂપ + કર્મ + <u>ભૂતકૃદંત</u> + by + કર્તા + અન્ય શબ્દો."
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> I got the secretary <u>to send</u> my email yesterday.<br><b>Passive:</b> I got my email <u>sent</u> by the secretary yesterday.",
+                        "<b>Active:</b> The manager gets the staff <u>to sign</u> the documents.<br><b>Passive:</b> The manager gets the documents <u>signed</u> by the staff."
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Causal Verbs - Have (પ્રેરક ક્રિયાપદ)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>Have</b> (નાણાં ચૂકવીને કામ કરાવવા વપરાય છે.)"
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Active:</b> પ્રેરક કર્તા + have નું રૂપ + કર્તા + <b>મૂળરૂપ</b> + કર્મ + અન્ય શબ્દો.<br><b>Passive:</b> પ્રેરક કર્તા + have નું રૂપ + કર્મ + <u>ભૂતકૃદંત</u> + by + કર્તા + અન્ય શબ્દો."
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> I had the assistant <u>check</u> my schedule.<br><b>Passive:</b> I had my schedule <u>checked</u> by the assistant."
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "To Infinitive",
+            "content": [
+                {
+                    "type": "note",
+                    "content": "<b>Active</b> વાક્યમાં <b>to મૂળરૂપ (V¹)</b> વપરાય છે.<br><b>Passive</b> વાક્યમાં <b>to be + ભૂતકૃદંત (V³)</b> વપરાય છે."
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> I want the engineer <u>to repair</u> this machine.<br><b>Passive:</b> I want this machine <u>to be repaired</u> by the engineer.",
+                        "<b>Active:</b> She <u>wanted</u> me to complete the report.<br><b>Passive:</b> She wanted the report <u>to be completed</u> by me.",
+                        "<b>Active:</b> He likes the students <u>to study</u> hard.<br><b>Passive:</b> He likes hard study <u>to be done</u> by the students.",
+                        "<b>Active:</b> The sum is too difficult <u>to solve</u>.<br><b>Passive:</b> The sum is too difficult <u>to be solved</u>.",
+                        "<b>Active:</b> Do you want the mechanic <u>to check</u> your car?<br><b>Passive:</b> Do you want your car <u>to be checked</u> by the mechanic?"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "To be to / Have to વાળાં વાક્યો",
+            "content": [
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> I am <u>to buy</u> a new house next month.<br><b>Passive:</b> A new house is <u>to be bought</u> by me next month.",
+                        "<b>Active:</b> We were <u>to attend</u> the ceremony.<br><b>Passive:</b> The ceremony was <u>to be attended</u> by us.",
+                        "<b>Active:</b> My sister has <u>to deliver</u> a speech.<br><b>Passive:</b> A speech has <u>to be delivered</u> by my sister.",
+                        "<b>Active:</b> They had <u>to finish</u> the painting.<br><b>Passive:</b> The painting had <u>to be finished</u> by them.",
+                        "<b>Active:</b> The needy <u>had to help</u>.<br><b>Passive:</b> The needy had <u>to be helped</u> by us.<br>We had <u>to help</u> the needy. (Active)"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Need / Require / Want + ing વાળાં વાક્યો",
+            "content": [
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> Your phone needs <u>charging</u>.<br><b>Passive:</b> Your phone needs <u>to be charged</u>.",
+                        "<b>Active:</b> My bike requires <u>servicing</u>.<br><b>Passive:</b> My bike requires <u>to be serviced</u>.",
+                        "<b>Active:</b> The plants want <u>watering</u>.<br><b>Passive:</b> The plants want <u>to be watered</u>."
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "It...for...to વાળાં વાક્યો",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>It</b> થી શરૂ થતાં વાક્યો (આવા વાક્યોનું Passive voice કરતી વખતે <b>for</b> ઉમેરવું પડે છે.)"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> It is impossible <u>to finish</u> this task today.<br><b>Passive:</b> It is impossible for this task <u>to be finished</u> today.",
+                        "<b>Active:</b> It is time <u>to start</u> the show.<br><b>Passive:</b> It is time for the show <u>to be started</u>."
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "They say / believe / hope / think વાળાં વાક્યો",
+            "content": [
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> They <u>believe</u> that the politician is honest.<br><b>Passive:</b> It <u>is believed</u> that the politician is honest.<br><b>Passive:</b> The politician <u>is believed</u> to be honest.",
+                        "<b>Active:</b> I <u>hope</u> he will succeed in the competition.<br><b>Passive:</b> It <u>is hoped</u> that he will succeed in the competition.<br><b>Passive:</b> He <u>is hoped</u> to succeed in the competition."
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "🚫 ક્યારે Passive Voice ન થઈ શકે?",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "નીચેના Tenses નું Passive Voice <b>સામાન્ય રીતે થતું નથી</b>:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "❌ No Passive Voice",
+                        "headers": [
+                            "Tense",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Future Continuous</b>",
+                                "She will be writing a letter. (No Passive)"
+                            ],
+                            [
+                                "<b>Present Perfect Continuous</b>",
+                                "She has been writing a letter. (No Passive)"
+                            ],
+                            [
+                                "<b>Past Perfect Continuous</b>",
+                                "She had been writing a letter. (No Passive)"
+                            ],
+                            [
+                                "<b>Future Perfect Continuous</b>",
+                                "She will have been writing. (No Passive)"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Intransitive Verbs (અકર્મક ક્રિયાપદ)</b> નું Passive Voice થતું નથી કારણ કે તેમાં કર્મ હોતું નથી.<br>દા.ત., go, come, sit, stand, sleep, die, laugh, cry વગેરે.<br>❌ He went to school. → Passive ન થાય."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "⚠️ Confusion Points (ગૂંચવણભર્યા મુદ્દા)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 by vs with Confusion",
+                        "headers": [
+                            "Preposition",
+                            "ક્યારે વપરાય",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "<b>by</b>",
+                                "જ્યારે <b>વ્યક્તિ/જીવ</b> ક્રિયા કરે",
+                                "The letter was written <b>by her</b>."
+                            ],
+                            [
+                                "<b>with</b>",
+                                "જ્યારે <b>સાધન/વસ્તુ</b> વડે ક્રિયા થાય",
+                                "The letter was written <b>with a pen</b>."
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "<b>Active:</b> She cut the apple <b>with a knife</b>.<br><b>Passive:</b> The apple was cut <b>with a knife</b> by her.",
+                        "<b>Active:</b> The police arrested the thief.<br><b>Passive:</b> The thief was arrested <b>by the police</b>."
+                    ]
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔴 Preposition Variations",
+                        "headers": [
+                            "Verb",
+                            "Preposition in Passive",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "know (ઓળખવું)",
+                                "<b>to</b>",
+                                "He is known <b>to</b> me."
+                            ],
+                            [
+                                "surprise (આશ્ચર્ય)",
+                                "<b>at</b>",
+                                "I was surprised <b>at</b> the news."
+                            ],
+                            [
+                                "please (ખુશ)",
+                                "<b>with</b>",
+                                "She was pleased <b>with</b> the gift."
+                            ],
+                            [
+                                "interest (રસ)",
+                                "<b>in</b>",
+                                "They are interested <b>in</b> music."
+                            ],
+                            [
+                                "tire (થાક)",
+                                "<b>of</b>",
+                                "He is tired <b>of</b> waiting."
+                            ],
+                            [
+                                "fill (ભરવું)",
+                                "<b>with</b>",
+                                "The box was filled <b>with</b> toys."
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "❌ Common Mistakes (સામાન્ય ભૂલો)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🚫 Avoid These Mistakes",
+                        "headers": [
+                            "❌ ખોટું",
+                            "✅ સાચું",
+                            "સમજૂતી"
+                        ],
+                        "rows": [
+                            [
+                                "The letter was wrote by her.",
+                                "The letter was <b>written</b> by her.",
+                                "V3 (Past Participle) વપરાય"
+                            ],
+                            [
+                                "A letter is write by me.",
+                                "A letter is <b>written</b> by me.",
+                                "V3 જરૂરી છે, V1 નહીં"
+                            ],
+                            [
+                                "The book was given by I.",
+                                "The book was given by <b>me</b>.",
+                                "Subject → Object Pronoun"
+                            ],
+                            [
+                                "She is being help by us.",
+                                "She is being <b>helped</b> by us.",
+                                "Continuous માં being + V3"
+                            ],
+                            [
+                                "The work has been did.",
+                                "The work has been <b>done</b>.",
+                                "V3 (done) વપરાય, did નહીં"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📋 All Topics Summary (સંપૂર્ણ સારાંશ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 Tense-wise Passive Voice Structure",
+                        "headers": [
+                            "Tense",
+                            "Active → Passive",
+                            "Short Explanation"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Simple Present</b>",
+                                "V1 → am/is/are + V3",
+                                "She writes → is written<br>હું/તું/તે + V3"
+                            ],
+                            [
+                                "<b>Simple Past</b>",
+                                "V2 → was/were + V3",
+                                "She wrote → was written<br>હતું/હતા + V3"
+                            ],
+                            [
+                                "<b>Simple Future</b>",
+                                "will + V1 → will be + V3",
+                                "She will write → will be written"
+                            ],
+                            [
+                                "<b>Present Continuous</b>",
+                                "is/am/are + V-ing → is/am/are + being + V3",
+                                "is writing → is being written"
+                            ],
+                            [
+                                "<b>Past Continuous</b>",
+                                "was/were + V-ing → was/were + being + V3",
+                                "was writing → was being written"
+                            ],
+                            [
+                                "<b>Present Perfect</b>",
+                                "has/have + V3 → has/have + been + V3",
+                                "has written → has been written"
+                            ],
+                            [
+                                "<b>Past Perfect</b>",
+                                "had + V3 → had + been + V3",
+                                "had written → had been written"
+                            ],
+                            [
+                                "<b>Future Perfect</b>",
+                                "will have + V3 → will have + been + V3",
+                                "will have written → will have been written"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🎯 Modal Verbs Passive",
+                        "headers": [
+                            "Modal",
+                            "Passive Structure",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "<b>can</b>",
+                                "can + be + V3",
+                                "can write → can be written"
+                            ],
+                            [
+                                "<b>could</b>",
+                                "could + be + V3",
+                                "could write → could be written"
+                            ],
+                            [
+                                "<b>may</b>",
+                                "may + be + V3",
+                                "may write → may be written"
+                            ],
+                            [
+                                "<b>might</b>",
+                                "might + be + V3",
+                                "might write → might be written"
+                            ],
+                            [
+                                "<b>should</b>",
+                                "should + be + V3",
+                                "should write → should be written"
+                            ],
+                            [
+                                "<b>must</b>",
+                                "must + be + V3",
+                                "must write → must be written"
+                            ],
+                            [
+                                "<b>have to</b>",
+                                "have to + be + V3",
+                                "have to write → have to be written"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📝 Special Structures",
+                        "headers": [
+                            "Structure",
+                            "Passive Formula",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Imperative</b>",
+                                "Let + Object + be + V3",
+                                "Close the door → Let the door be closed"
+                            ],
+                            [
+                                "<b>Let + Have</b>",
+                                "Let + Object + be + V3 + by...",
+                                "Let him do it → Let it be done by him"
+                            ],
+                            [
+                                "<b>Get + Have</b>",
+                                "Get/Have + Object + V3",
+                                "Get him to repair → Get it repaired"
+                            ],
+                            [
+                                "<b>Infinitive (to)</b>",
+                                "to + be + V3",
+                                "to write → to be written"
+                            ],
+                            [
+                                "<b>Need/Require/Want</b>",
+                                "need + to be + V3",
+                                "needs repairing → needs to be repaired"
+                            ],
+                            [
+                                "<b>Believe/Say/Think</b>",
+                                "It is + V3 + that...",
+                                "They believe → It is believed that..."
+                            ],
+                            [
+                                "<b>Interrogative</b>",
+                                "Helping V + Object + V3 + by...?",
+                                "Did she write? → Was it written by her?"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 Key Rules (મહત્વના નિયમો)",
+                        "headers": [
+                            "Rule",
+                            "Explanation"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Always use V3</b>",
+                                "Passive માં હંમેશા Past Participle (V3) વપરાય"
+                            ],
+                            [
+                                "<b>Subject → Object Pronoun</b>",
+                                "I→me, We→us, He→him, She→her, They→them, Who→whom"
+                            ],
+                            [
+                                "<b>by = Person</b>",
+                                "વ્યક્તિ/જીવ માટે 'by' વપરાય"
+                            ],
+                            [
+                                "<b>with = Instrument</b>",
+                                "સાધન/વસ્તુ માટે 'with' વપરાય"
+                            ],
+                            [
+                                "<b>No Passive for Intransitive</b>",
+                                "go, come, sit, sleep, die, laugh ← Passive ન થાય"
+                            ],
+                            [
+                                "<b>No Passive for Continuous Perfect</b>",
+                                "Present/Past/Future Perfect Continuous ← Passive ન થાય"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "summary_table": {
+        "title": "Tense-wise Active to Passive Voice Summary",
+        "headers": [
+            "Tense",
+            "Active Voice Helper",
+            "Passive Voice Helper"
+        ],
+        "rows": [
+            [
+                "Simple Present<br><span style='color:#666;font-size:12px'>સાદો વર્તમાન કાળ</span>",
+                "V1 / V1 (s, es) / do / does<br><span style='color:#059669;font-size:12px'>She writes a letter.</span>",
+                "am / is / are + V3<br><span style='color:#059669;font-size:12px'>A letter is written by her.</span>"
+            ],
+            [
+                "Simple Past<br><span style='color:#666;font-size:12px'>સાદો ભૂતકાળ</span>",
+                "V2 / did<br><span style='color:#059669;font-size:12px'>She wrote a letter.</span>",
+                "was / were + V3<br><span style='color:#059669;font-size:12px'>A letter was written by her.</span>"
+            ],
+            [
+                "Simple Future<br><span style='color:#666;font-size:12px'>સાદો ભવિષ્યકાળ</span>",
+                "will / shall + V1<br><span style='color:#059669;font-size:12px'>She will write a letter.</span>",
+                "will / shall + be + V3<br><span style='color:#059669;font-size:12px'>A letter will be written by her.</span>"
+            ],
+            [
+                "Present Continuous<br><span style='color:#666;font-size:12px'>ચાલુ વર્તમાન કાળ</span>",
+                "am / is / are + V1-ing<br><span style='color:#059669;font-size:12px'>She is writing a letter.</span>",
+                "am / is / are + being + V3<br><span style='color:#059669;font-size:12px'>A letter is being written by her.</span>"
+            ],
+            [
+                "Past Continuous<br><span style='color:#666;font-size:12px'>ચાલુ ભૂતકાળ</span>",
+                "was / were + V1-ing<br><span style='color:#059669;font-size:12px'>She was writing a letter.</span>",
+                "was / were + being + V3<br><span style='color:#059669;font-size:12px'>A letter was being written by her.</span>"
+            ],
+            [
+                "Future Continuous<br><span style='color:#666;font-size:12px'>ચાલુ ભવિષ્યકાળ</span>",
+                "will / shall + be + V1-ing<br><span style='color:#059669;font-size:12px'>She will be writing a letter.</span>",
+                "<b>No Passive</b>"
+            ],
+            [
+                "Present Perfect<br><span style='color:#666;font-size:12px'>પૂર્ણ વર્તમાન કાળ</span>",
+                "have / has + V3<br><span style='color:#059669;font-size:12px'>She has written a letter.</span>",
+                "have / has + been + V3<br><span style='color:#059669;font-size:12px'>A letter has been written by her.</span>"
+            ],
+            [
+                "Past Perfect<br><span style='color:#666;font-size:12px'>પૂર્ણ ભૂતકાળ</span>",
+                "had + V3<br><span style='color:#059669;font-size:12px'>She had written a letter.</span>",
+                "had + been + V3<br><span style='color:#059669;font-size:12px'>A letter had been written by her.</span>"
+            ],
+            [
+                "Future Perfect<br><span style='color:#666;font-size:12px'>પૂર્ણ ભવિષ્યકાળ</span>",
+                "will / shall + have + V3<br><span style='color:#059669;font-size:12px'>She will have written a letter.</span>",
+                "will / shall + have + been + V3<br><span style='color:#059669;font-size:12px'>A letter will have been written by her.</span>"
+            ],
+            [
+                "Perfect Continuous (All)<br><span style='color:#666;font-size:12px'>પૂર્ણ ચાલુ કાળ</span>",
+                "have / has / had / will have + been + V1-ing<br><span style='color:#059669;font-size:12px'>She has been writing a letter.</span>",
+                "<b>No Passive</b>"
+            ],
+            [
+                "Modals<br><span style='color:#666;font-size:12px'>સહાયક ક્રિયાપદ</span>",
+                "can, could, should, etc. + V1<br><span style='color:#059669;font-size:12px'>She can write a letter.</span>",
+                "can, could, should, etc. + be + V3<br><span style='color:#059669;font-size:12px'>A letter can be written by her.</span>"
+            ]
+        ]
+    }
+}

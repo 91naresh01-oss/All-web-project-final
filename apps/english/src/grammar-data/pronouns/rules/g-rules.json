@@ -1,0 +1,413 @@
+{
+  "id": "pronouns-gu",
+  "title": "Pronouns (સર્વનામ)",
+  "description": "નામના બદલે વપરાતા શબ્દને <b>Pronoun (સર્વનામ)</b> કહેવાય છે. જ્યારે આપણે કોઈ વ્યક્તિ કે વસ્તુનું નામ વારંવાર લેવા ન માંગતા હોઈએ ત્યારે તેનો ઉપયોગ થાય છે.",
+  "content": [
+    {
+      "type": "note",
+      "content": "<b>સરળ વ્યાખ્યા:</b> Pronoun is a word used in place of a Noun.<br>દા.ત., 'Ram is a good boy. <b>He</b> goes to school.' - અહીં 'He' એ Pronoun છે જે 'Ram' ની જગ્યાએ વપરાયું છે."
+    },
+    {
+      "type": "section",
+      "title": "1️⃣ Interrogative Pronouns (પ્રશ્નાર્થ સર્વનામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "પ્રશ્ન પૂછવા માટે વપરાતા સર્વનામો."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "Interrogative Pronouns",
+            "headers": [
+              "સર્વનામ",
+              "ગુજરાતી અર્થ",
+              "ઉપયોગ (Usage)",
+              "ઉદાહરણ"
+            ],
+            "rows": [
+              [
+                "<b>Who</b>",
+                "કોણ?",
+                "કર્તા (Subject) જાણવા માટે (વ્યક્તિ માટે)",
+                "Who is calling you?<br><span style='color:#666'>તમને કોણ બોલાવે છે?</span>"
+              ],
+              [
+                "<b>Whom</b>",
+                "કોને?",
+                "કર્મ (Object) જાણવા માટે",
+                "Whom did you meet?<br><span style='color:#666'>તમે કોને મળ્યા?</span>"
+              ],
+              [
+                "<b>Whose</b>",
+                "કોનું?",
+                "માલિકી (Possession) જાણવા માટે",
+                "Whose car is this?<br><span style='color:#666'>આ કોની કાર છે?</span>"
+              ],
+              [
+                "<b>Which</b>",
+                "કયું?",
+                "પસંદગી માટે (વસ્તુ/પ્રાણી/વ્યક્તિ)",
+                "Which is your favorite color?<br><span style='color:#666'>તમારો મનપસંદ રંગ કયો છે?</span>"
+              ],
+              [
+                "<b>What</b>",
+                "શું?",
+                "વસ્તુ, વ્યવસાય કે ક્રિયા જાણવા",
+                "What is your father?<br><span style='color:#666'>તમારા પિતાજી શું કરે છે?</span>"
+              ],
+              [
+                "<b>Where</b>",
+                "ક્યાં?",
+                "સ્થળ (Place) જાણવા",
+                "Where do you live?<br><span style='color:#666'>તમે ક્યાં રહો છો?</span>"
+              ],
+              [
+                "<b>When</b>",
+                "ક્યારે?",
+                "સમય (Time) જાણવા",
+                "When will you come?<br><span style='color:#666'>તમે ક્યારે આવશો?</span>"
+              ],
+              [
+                "<b>Why</b>",
+                "શા માટે?",
+                "કારણ (Reason) જાણવા",
+                "Why are you late?<br><span style='color:#666'>તમે મોડા કેમ છો?</span>"
+              ],
+              [
+                "<b>How</b>",
+                "કેવી રીતે?",
+                "રીત (Manner) કે ખબરઅંતર જાણવા",
+                "How do you go to school?<br><span style='color:#666'>તમે સ્કૂલ કેવી રીતે જાઓ છો?</span>"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "ખાસ યાદ રાખો (How Family)",
+            "headers": [
+              "Word",
+              "ગુજરાતી",
+              "ઉપયોગ",
+              "Example"
+            ],
+            "rows": [
+              [
+                "<b>How much</b>",
+                "કેટલું?",
+                "જથ્થો જાણવા (Uncountable)",
+                "How much water do you need?<br><span style='color:#666'>તમારે કેટલું પાણી જોઈએ?</span>"
+              ],
+              [
+                "<b>How many</b>",
+                "કેટલા?",
+                "સંખ્યા જાણવા (Countable)",
+                "How many students are there?<br><span style='color:#666'>ત્યાં કેટલા વિદ્યાર્થીઓ છે?</span>"
+              ],
+              [
+                "<b>How far</b>",
+                "કેટલું દૂર?",
+                "અંતર (Distance) જાણવા",
+                "How far is the station?<br><span style='color:#666'>સ્ટેશન કેટલું દૂર છે?</span>"
+              ],
+              [
+                "<b>How long</b>",
+                "કેટલો સમય?",
+                "સમયગાળો (Duration) જાણવા",
+                "How long will you stay?<br><span style='color:#666'>તમે કેટલા સમય રહેશો?</span>"
+              ],
+              [
+                "<b>How often</b>",
+                "કેટલી વાર?",
+                "Frequency જાણવા",
+                "How often do you exercise?<br><span style='color:#666'>તમે કેટલી વાર કસરત કરો છો?</span>"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "2️⃣ Relative Pronouns (સંબંધક સર્વનામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "આ સર્વનામો બે વાક્યોને જોડે છે અને આગળના નામ સાથે સંબંધ દર્શાવે છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Who (કે જે):</b> વ્યક્તિ માટે વપરાય (કર્તા સ્થાને).<br><span style='color:#059669'>The man <b>who</b> is standing there is my uncle.</span><br><span style='color:#666'>જે માણસ ત્યાં ઉભો છે તે મારો કાકા છે.</span>",
+            "<b>Whom (કે જેને):</b> વ્યક્તિ માટે વપરાય (કર્મ સ્થાને).<br><span style='color:#059669'>The boy <b>whom</b> you helped is clever.</span><br><span style='color:#666'>જે છોકરાને તમે મદદ કરી તે હોશિયાર છે.</span>",
+            "<b>Whose (કે જેનું):</b> માલિકી દર્શાવવા.<br><span style='color:#059669'>The girl <b>whose</b> bag was lost is crying.</span><br><span style='color:#666'>જે છોકરીની બેગ ખોવાઈ ગઈ તે રડી રહી છે.</span>",
+            "<b>Which (કે જે):</b> નિર્જીવ વસ્તુ કે પ્રાણીઓ માટે.<br><span style='color:#059669'>The dog <b>which</b> bit me was mad.</span><br><span style='color:#666'>જે કૂતરાએ મને કરડ્યો તે ગાંડો હતો.</span>",
+            "<b>That (કે જે):</b> સજીવ અને નિર્જીવ બંને માટે.<br><span style='color:#059669'>This is the best book <b>that</b> I have ever read.</span><br><span style='color:#666'>આ સૌથી સારું પુસ્તક છે જે મેં ક્યારેય વાંચ્યું છે.</span>"
+          ]
+        },
+        {
+          "type": "note",
+          "content": "<b>Preposition ના નિયમો:</b><br>• <b>Whom સાથે:</b> By whom (કોના દ્વારા), With whom (કોની સાથે), For whom (કોના માટે).<br>• <b>Which સાથે:</b> In which (જેમાં), On which (જેના પર), From which (જેમાંથી).<br>• <b>નોંધ:</b> Who અને That ની આગળ સામાન્ય રીતે Preposition લખાતું નથી."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "3️⃣ Indefinite Pronouns (અનિશ્ચિત સર્વનામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જ્યારે કોઈ ચોક્કસ વ્યક્તિ કે વસ્તુની વાત ન હોય ત્યારે વપરાય."
+        },
+        {
+          "type": "heading",
+          "content": "A. Countable (ગણી શકાય તેવા નામ સાથે)"
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Many:</b> ઘણા (હકાર/નકાર વાક્યોમાં).<br><span style='color:#059669'>Many students passed the exam.</span><br><span style='color:#666'>ઘણા વિદ્યાર્થીઓ પરીક્ષા પાસ થયા.</span>",
+            "<b>A few:</b> થોડાક (હકાર અર્થ - Positive).<br><span style='color:#059669'>I have a few friends here.</span><br><span style='color:#666'>મારે અહીં થોડા મિત્રો છે.</span>",
+            "<b>Few:</b> ભાગ્યે જ કોઈ / નહિવત (નકાર અર્થ).<br><span style='color:#059669'>Few people came to the meeting.</span><br><span style='color:#666'>મીટિંગમાં ભાગ્યે જ કોઈ આવ્યું.</span>",
+            "<b>The few:</b> થોડું પણ બધું જ (ચોક્કસ જથ્થો).<br><span style='color:#059669'>The few books I have are all old.</span><br><span style='color:#666'>મારી પાસે જે થોડાં પુસ્તકો છે તે બધાં જૂનાં છે.</span>"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "B. Uncountable (ગણી ન શકાય તેવા જથ્થા સાથે)"
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Much:</b> ઘણું (જથ્થો દર્શાવવા).<br><span style='color:#059669'>I don't have much time.</span><br><span style='color:#666'>મારી પાસે ઘણો સમય નથી.</span>",
+            "<b>A little:</b> થોડુંક (હકાર અર્થ).<br><span style='color:#059669'>I have a little money.</span><br><span style='color:#666'>મારી પાસે થોડા પૈસા છે.</span>",
+            "<b>Little:</b> નહિવત / સાવ ઓછું (નકાર અર્થ).<br><span style='color:#059669'>There is little hope of success.</span><br><span style='color:#666'>સફળતાની ભાગ્યે જ આશા છે.</span>",
+            "<b>The little:</b> થોડું પણ જે છે તે બધું જ.<br><span style='color:#059669'>The little water we had was finished.</span><br><span style='color:#666'>અમારી પાસે જે થોડું પાણી હતું તે ખતમ થઈ ગયું.</span>"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "C. General Words"
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Some (થોડું/કેટલાક):</b> હકાર વાક્યોમાં.<br><span style='color:#059669'>I have some money.</span> <span style='color:#666'>(મારી પાસે થોડા પૈસા છે.)</span>",
+            "<b>Any (કોઈપણ):</b> નકાર અને પ્રશ્નાર્થ વાક્યોમાં.<br><span style='color:#059669'>Do you have any pen?</span> <span style='color:#666'>(તમારી પાસે કોઈ પેન છે?)</span>",
+            "<b>Someone / Somebody:</b> કોઈક વ્યક્તિ.<br><span style='color:#059669'>Someone is at the door.</span> <span style='color:#666'>(દરવાજે કોઈક છે.)</span>",
+            "<b>No one / Nobody:</b> કોઈ નહીં.<br><span style='color:#059669'>Nobody came to help.</span> <span style='color:#666'>(કોઈ મદદ કરવા ન આવ્યું.)</span>",
+            "<b>Something / Nothing:</b> કંઈક / કશું નહીં.<br><span style='color:#059669'>I want something to eat.</span> <span style='color:#666'>(મારે કંઈક ખાવું છે.)</span>",
+            "<b>All:</b> બધા/બધું.<br><span style='color:#059669'>All students are present.</span> <span style='color:#666'>(બધા વિદ્યાર્થીઓ હાજર છે.)</span>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "4️⃣ Distributive Pronouns (વિભાજક સર્વનામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જથ્થામાંથી દરેકને અલગ પાડીને દર્શાવવા માટે વપરાય."
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Each:</b> દરેક (બે કે વધુ માંથી દરેક એક). આની સાથે ક્રિયાપદ હંમેશા એકવચન આવે.<br><span style='color:#059669'>Each of the students was given a prize.</span><br><span style='color:#666'>દરેક વિદ્યાર્થીને ઇનામ આપવામાં આવ્યું.</span>",
+            "<b>Either:</b> બે માંથી એક (હકાર).<br><span style='color:#059669'>You can take either road.</span><br><span style='color:#666'>તમે બે માંથી કોઈ પણ રસ્તો લઈ શકો.</span>",
+            "<b>Neither:</b> બે માંથી એકેય નહીં (નકાર).<br><span style='color:#059669'>Neither of the keys opens the door.</span><br><span style='color:#666'>બે માંથી કોઈ પણ ચાવી દરવાજો ખોલતી નથી.</span>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "5️⃣ Reciprocal Pronouns (પારસ્પરિક સર્વનામ)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "પરસ્પર સંબંધ દર્શાવવા માટે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Each other:</b> માત્ર <b>બે</b> વ્યક્તિ કે વસ્તુ વચ્ચે.<br><span style='color:#059669'>Romeo and Juliet loved each other.</span><br><span style='color:#666'>રોમિયો અને જુલિયેટ એકબીજાને પ્રેમ કરતા હતા.</span>",
+            "<b>One another:</b> <b>બે કરતા વધારે</b> વ્યક્તિઓ વચ્ચે.<br><span style='color:#059669'>The villagers helped one another.</span><br><span style='color:#666'>ગામના લોકોએ એકબીજાને મદદ કરી.</span>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "6️⃣ Special Rules (ખાસ નિયમો)",
+      "content": [
+        {
+          "type": "list",
+          "content": [
+            "<b>The same ... as:</b> 'એ જ... કે જે'. (સરખાપણું દર્શાવવા).<br><span style='color:#059669'>This is the same pen as mine.</span><br><span style='color:#666'>આ એ જ પેન છે જે મારી છે.</span>",
+            "<b>Such ... as:</b> 'એવું... કે જે'.<br><span style='color:#059669'>Avoid such friends as are lazy.</span><br><span style='color:#666'>એવા મિત્રોથી દૂર રહો જે આળસુ હોય.</span>",
+            "<b>One ... the other:</b> બે હોય ત્યારે એક માટે One અને બીજા માટે The other.<br><span style='color:#059669'>I have two pens. One is red, the other is blue.</span><br><span style='color:#666'>મારી પાસે બે પેન છે. એક લાલ છે, બીજી વાદળી છે.</span>",
+            "<b>Some ... the others:</b> ઘણા બધા હોય ત્યારે.<br><span style='color:#059669'>Some students passed, the others failed.</span><br><span style='color:#666'>કેટલાક વિદ્યાર્થીઓ પાસ થયા, બાકીના નાપાસ થયા.</span>"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🌟 Personal Pronouns (પુરુષવાચક સર્વનામ) - મહત્વનું કોષ્ટક",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "Personal Pronouns Complete Chart",
+            "headers": [
+              "Person",
+              "Subjective (કર્તા)",
+              "Objective (કર્મ)",
+              "Possessive Adj.",
+              "Possessive Pro.",
+              "Reflexive (સ્વવાચક)"
+            ],
+            "rows": [
+              [
+                "<b>1st (Singular)</b><br><span style='color:#666;font-size:12px'>પહેલો પુરુષ (એકવચન)</span>",
+                "<b>I</b> (હું)",
+                "Me (મને)",
+                "My (મારો)",
+                "Mine (મારું)",
+                "Myself (મારી જાતે)"
+              ],
+              [
+                "<b>1st (Plural)</b><br><span style='color:#666;font-size:12px'>પહેલો પુરુષ (બહુવચન)</span>",
+                "<b>We</b> (અમે)",
+                "Us (અમને)",
+                "Our (અમારો)",
+                "Ours (અમારું)",
+                "Ourselves (અમારી જાતે)"
+              ],
+              [
+                "<b>2nd</b><br><span style='color:#666;font-size:12px'>બીજો પુરુષ</span>",
+                "<b>You</b> (તમે/તું)",
+                "You (તમને)",
+                "Your (તમારો)",
+                "Yours (તમારું)",
+                "Yourself (તમારી જાતે)"
+              ],
+              [
+                "<b>3rd (Male)</b><br><span style='color:#666;font-size:12px'>ત્રીજો પુરુષ (પુરુષ)</span>",
+                "<b>He</b> (તે)",
+                "Him (તેને)",
+                "His (તેનો)",
+                "His (તેનું)",
+                "Himself (તેની જાતે)"
+              ],
+              [
+                "<b>3rd (Female)</b><br><span style='color:#666;font-size:12px'>ત્રીજો પુરુષ (સ્ત્રી)</span>",
+                "<b>She</b> (તેણી)",
+                "Her (તેણીને)",
+                "Her (તેણીનો)",
+                "Hers (તેણીનું)",
+                "Herself (તેણીની જાતે)"
+              ],
+              [
+                "<b>3rd (Thing)</b><br><span style='color:#666;font-size:12px'>ત્રીજો પુરુષ (વસ્તુ)</span>",
+                "<b>It</b> (તે)",
+                "It (તેને)",
+                "Its (તેનો)",
+                "—",
+                "Itself (તેની જાતે)"
+              ],
+              [
+                "<b>3rd (Plural)</b><br><span style='color:#666;font-size:12px'>ત્રીજો પુરુષ (બહુવચન)</span>",
+                "<b>They</b> (તેઓ)",
+                "Them (તેમને)",
+                "Their (તેમનો)",
+                "Theirs (તેમનું)",
+                "Themselves (તેમની જાતે)"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "💡 Common Mistakes & Confusions (ધ્યાન રાખો)",
+      "content": [
+        {
+          "type": "list",
+          "content": [
+            "<b>Who vs Whom:</b><br>• ખાલી જગ્યા પછી ક્રિયાપદ (verb) હોય તો <b>Who</b> આવે.<br><span style='color:#059669'>✓ Who is coming?</span> <span style='color:#666'>(કોણ આવે છે?)</span><br>• ખાલી જગ્યા પછી કર્તા (subject) હોય તો <b>Whom</b> આવે.<br><span style='color:#059669'>✓ Whom did you meet?</span> <span style='color:#666'>(તમે કોને મળ્યા?)</span>",
+            "<b>Few vs Little:</b><br>• સંખ્યા ગણી શકાય (Countable) તો <b>Few</b> આવે.<br><span style='color:#059669'>✓ I have few friends.</span> <span style='color:#666'>(મારે ભાગ્યે જ મિત્રો છે.)</span><br>• જથ્થો હોય (Uncountable) તો <b>Little</b> આવે.<br><span style='color:#059669'>✓ I have little time.</span> <span style='color:#666'>(મારી પાસે ઓછો સમય છે.)</span>",
+            "<b>Myself નો ખોટો ઉપયોગ:</b><br><span style='color:#dc2626'>❌ ખોટું: \"Myself is Raj.\"</span><br><span style='color:#059669'>✓ સાચું: \"I am Raj.\" / \"My name is Raj.\"</span>",
+            "<b>Its vs It's:</b><br>• <b>Its</b> = તેનો/તેની (Possessive) - <span style='color:#059669'>The dog wagged its tail.</span><br>• <b>It's</b> = It is અથવા It has (Contraction) - <span style='color:#059669'>It's raining.</span>",
+            "<b>Their vs There vs They're:</b><br>• <b>Their</b> = તેમનો/તેમની (Possessive) - <span style='color:#059669'>Their house is big.</span><br>• <b>There</b> = ત્યાં (Place) - <span style='color:#059669'>The book is there.</span><br>• <b>They're</b> = They are - <span style='color:#059669'>They're coming.</span>",
+            "<b>Your vs You're:</b><br>• <b>Your</b> = તમારો/તમારી (Possessive) - <span style='color:#059669'>Your bag is nice.</span><br>• <b>You're</b> = You are - <span style='color:#059669'>You're a good student.</span>",
+            "<b>Each other vs One another:</b><br>• <b>Each other</b> = માત્ર <b>2</b> વ્યક્તિ/વસ્તુ માટે.<br><span style='color:#059669'>✓ Ram and Sita love each other.</span><br>• <b>One another</b> = <b>2 થી વધુ</b> માટે.<br><span style='color:#059669'>✓ The students helped one another.</span>",
+            "<b>Some vs Any:</b><br>• <b>Some</b> = હકાર વાક્ય (Affirmative) - <span style='color:#059669'>I have some money.</span><br>• <b>Any</b> = નકાર/પ્રશ્ન વાક્ય - <span style='color:#059669'>Do you have any pen?</span><br>• <b>Exception:</b> Request/Offer માં Some વાપરો - <span style='color:#059669'>Would you like some tea?</span>",
+            "<b>Either vs Neither:</b><br>• <b>Either</b> = બે માંથી એક (હકાર) - <span style='color:#059669'>Either road leads to the city.</span><br>• <b>Neither</b> = બે માંથી એકેય નહીં (નકાર) - <span style='color:#059669'>Neither answer is correct.</span>",
+            "<b>Who vs Which vs That:</b><br>• <b>Who</b> = વ્યક્તિ માટે - <span style='color:#059669'>The man who came is my father.</span><br>• <b>Which</b> = વસ્તુ/પ્રાણી માટે - <span style='color:#059669'>The book which I bought is good.</span><br>• <b>That</b> = બંને માટે (Superlative/All/None પછી) - <span style='color:#059669'>This is the best that I have.</span>",
+            "<b>Whose vs Who's:</b><br>• <b>Whose</b> = કોનું (Possessive) - <span style='color:#059669'>Whose book is this?</span><br>• <b>Who's</b> = Who is / Who has - <span style='color:#059669'>Who's at the door?</span>",
+            "<b>Me vs I (Compound Subject):</b><br><span style='color:#dc2626'>❌ ખોટું: \"Me and Ram went to market.\"</span><br><span style='color:#059669'>✓ સાચું: \"Ram and I went to market.\"</span><br><span style='color:#666'>Tip: I પહેલાં બીજાનું નામ લખો.</span>",
+            "<b>Him/Her vs He/She (After Than/As):</b><br><span style='color:#059669'>✓ She is taller than he (is).</span><br><span style='color:#059669'>✓ I run as fast as she (does).</span><br><span style='color:#666'>Tip: Than/As પછી subject form (He, She, I) વાપરો.</span>"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary_table": {
+    "title": "Quick Summary (રિવિઝન)",
+    "headers": [
+      "Pronoun Type",
+      "ગુજરાતી નામ",
+      "ઉપયોગ",
+      "ઉદાહરણ"
+    ],
+    "rows": [
+      [
+        "<b>Interrogative</b>",
+        "પ્રશ્નાર્થ સર્વનામ",
+        "પ્રશ્ન પૂછવા",
+        "Who, What, Why, Where"
+      ],
+      [
+        "<b>Relative</b>",
+        "સંબંધક સર્વનામ",
+        "સંબંધ જોડવા",
+        "Who, Which, That, Whose"
+      ],
+      [
+        "<b>Indefinite</b>",
+        "અનિશ્ચિત સર્વનામ",
+        "અનિશ્ચિત સંખ્યા",
+        "Some, Many, Few, Any"
+      ],
+      [
+        "<b>Distributive</b>",
+        "વિભાજક સર્વનામ",
+        "વહેંચણી કરવા",
+        "Each, Either, Neither"
+      ],
+      [
+        "<b>Reciprocal</b>",
+        "પારસ્પરિક સર્વનામ",
+        "પરસ્પર સંબંધ",
+        "Each other, One another"
+      ],
+      [
+        "<b>Personal</b>",
+        "પુરુષવાચક સર્વનામ",
+        "વ્યક્તિ દર્શાવવા",
+        "I, You, He, She, They"
+      ],
+      [
+        "<b>Reflexive</b>",
+        "નિજવાચક સર્વનામ",
+        "પોતાની જાત પર",
+        "Myself, Yourself, Himself"
+      ]
+    ]
+  }
+}

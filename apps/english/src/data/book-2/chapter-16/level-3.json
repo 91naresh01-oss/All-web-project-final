@@ -1,0 +1,76 @@
+{
+  "id": "level-3",
+  "title": "Opposites 1",
+  "words": [
+    {
+      "word": "Big",
+      "gujaratiPronunciation": "બિગ",
+      "hindiPronunciation": "बिग",
+      "gujaratiMeaning": "મોટું",
+      "hindiMeaning": "बड़ा",
+      "exampleSentences": [
+        {
+          "sentence": "An elephant is a big animal.",
+          "gujaratiTranslation": "હાથી એક મોટું પ્રાણી છે.",
+          "hindiTranslation": "हाथी एक बड़ा जानवर है।"
+        }
+      ]
+    },
+    {
+      "word": "Small",
+      "gujaratiPronunciation": "સ્મોલ",
+      "hindiPronunciation": "स्मॉल",
+      "gujaratiMeaning": "નાનું",
+      "hindiMeaning": "छोटा",
+      "exampleSentences": [
+        {
+          "sentence": "An ant is a small insect.",
+          "gujaratiTranslation": "કીડી એક નાનું જંતુ છે.",
+          "hindiTranslation": "चींटी एक छोटा कीड़ा है।"
+        }
+      ]
+    },
+    {
+      "word": "Tall",
+      "gujaratiPronunciation": "ટોલ",
+      "hindiPronunciation": "टॉल",
+      "gujaratiMeaning": "ઊંચું",
+      "hindiMeaning": "लंबा",
+      "exampleSentences": [
+        {
+          "sentence": "A giraffe is a tall animal.",
+          "gujaratiTranslation": "জিરાફ એક ઊંચું પ્રાણી છે.",
+          "hindiTranslation": "जिराफ़ एक लंबा जानवर है।"
+        }
+      ]
+    },
+    {
+      "word": "Short",
+      "gujaratiPronunciation": "શોર્ટ",
+      "hindiPronunciation": "शॉर्ट",
+      "gujaratiMeaning": "ટૂંકું/નીચું",
+      "hindiMeaning": "छोटा/नाटा",
+      "exampleSentences": [
+        {
+          "sentence": "He is short in height.",
+          "gujaratiTranslation": "તેની ઊંચાઈ ઓછી છે.",
+          "hindiTranslation": "उसका قد छोटा है।"
+        }
+      ]
+    },
+    {
+      "word": "Fat",
+      "gujaratiPronunciation": "ફેટ",
+      "hindiPronunciation": "फैट",
+      "gujaratiMeaning": "જાડું",
+      "hindiMeaning": "मोटा",
+      "exampleSentences": [
+        {
+          "sentence": "The cat is very fat.",
+          "gujaratiTranslation": "બિલાડી ખૂબ જાડી છે.",
+          "hindiTranslation": "बिल्ली बहुत मोटी है।"
+        }
+      ]
+    }
+  ]
+}

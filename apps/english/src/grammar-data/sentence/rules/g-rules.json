@@ -1,0 +1,398 @@
+{
+    "id": "sentence-gu",
+    "title": "Sentence (વાક્ય)",
+    "content": [
+        {
+            "type": "section",
+            "title": "📚 What is a Sentence? (વાક્ય શું છે?)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>શબ્દોનો એવો સમૂહ જે પૂરેપૂરો અર્થ સ્પષ્ટ કરે તેને વાક્ય (Sentence) કહે છે.</b><br>A group of words that makes a complete sense is called a sentence."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 Parts of a Sentence",
+                        "headers": ["Part", "ગુજરાતીમાં", "Definition", "Example"],
+                        "rows": [
+                            ["<b>Subject</b>", "કર્તા", "Who/What does the action (ક્રિયા કોણ કરે છે)", "<b>Ram</b> plays cricket."],
+                            ["<b>Predicate</b>", "વિધેય", "What is said about the Subject (કર્તા વિશે શું કહેવાય છે)", "Ram <b>plays cricket</b>."],
+                            ["<b>Object</b>", "કર્મ", "Receives the action (ક્રિયા કોના પર થાય છે)", "Ram plays <b>cricket</b>."],
+                            ["<b>Verb</b>", "ક્રિયાપદ", "Action word (ક્રિયા દર્શાવે છે)", "Ram <b>plays</b> cricket."]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Remember:</b> દરેક complete sentence માં <b>Subject + Verb</b> હોવું ફરજિયાત છે!<br>Example: <b>She</b> (Subject) <b>sings</b> (Verb)."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📋 Types of Sentences - Based on Function (કાર્ય મુજબ)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "વાક્યના <b>કાર્ય (Function)</b> મુજબ <b>4 પ્રકાર</b> છે:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 4 Types Overview",
+                        "headers": ["#", "Type", "ગુજરાતીમાં", "Function", "Ends with"],
+                        "rows": [
+                            ["1", "<b>Assertive/Declarative</b>", "વિધાન વાક્ય", "Statement (માહિતી આપે)", "Full Stop (.)"],
+                            ["2", "<b>Interrogative</b>", "પ્રશ્નાર્થ વાક્ય", "Question (પ્રશ્ન પૂછે)", "Question Mark (?)"],
+                            ["3", "<b>Imperative</b>", "આજ્ઞાર્થ વાક્ય", "Order/Request (આજ્ઞા/વિનંતી)", "Full Stop (.) / (!)"],
+                            ["4", "<b>Exclamatory</b>", "ઉદ્ગાર વાક્ય", "Emotion (લાગણી)", "Exclamation Mark (!)"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "1️⃣ Assertive Sentence (વિધાન વાક્ય)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જે વાક્યમાં <b>સીધું વિધાન</b> (statement) કે <b>માહિતી</b> આપવામાં આવે તેને <b>Assertive/Declarative Sentence</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Assertive Sentence",
+                        "headers": ["Type", "Structure", "Examples"],
+                        "rows": [
+                            ["<b>Affirmative (+)</b>", "Subject + Verb + Object", "She <b>writes</b> a letter.<br>The sun <b>rises</b> in the east."],
+                            ["<b>Negative (-)</b>", "Subject + do/does/did + not + V1<br>Subject + is/am/are + not", "She <b>does not write</b> a letter.<br>He <b>is not</b> coming."]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Assertive sentence ના અંતે હંમેશા <b>Full Stop (.)</b> આવે છે."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2️⃣ Interrogative Sentence (પ્રશ્નાર્થ વાક્ય)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જે વાક્યમાં <b>પ્રશ્ન</b> પૂછવામાં આવે તેને <b>Interrogative Sentence</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Interrogative Sentence",
+                        "headers": ["Type", "Structure", "Examples"],
+                        "rows": [
+                            ["<b>Yes/No Question</b>", "Helping Verb + Subject + V1 + ?", "<b>Do</b> you like coffee?<br><b>Is</b> he coming?"],
+                            ["<b>WH-Question</b>", "WH-word + Helping V + Subject + V1 + ?", "<b>Where</b> do you live?<br><b>What</b> is your name?"],
+                            ["<b>Choice Question</b>", "...or... + ?", "Tea <b>or</b> coffee?"],
+                            ["<b>Tag Question</b>", "Statement + tag (,) + ?", "You are happy, <b>aren't you</b>?"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 WH-Words",
+                        "headers": ["WH-Word", "Asks about", "Example"],
+                        "rows": [
+                            ["<b>What</b>", "Thing/Action", "<b>What</b> is this?"],
+                            ["<b>Who</b>", "Person (Subject)", "<b>Who</b> did this?"],
+                            ["<b>Whom</b>", "Person (Object)", "<b>Whom</b> did you meet?"],
+                            ["<b>Which</b>", "Choice", "<b>Which</b> book is yours?"],
+                            ["<b>Where</b>", "Place", "<b>Where</b> do you live?"],
+                            ["<b>When</b>", "Time", "<b>When</b> will you come?"],
+                            ["<b>Why</b>", "Reason", "<b>Why</b> are you late?"],
+                            ["<b>How</b>", "Manner/Degree", "<b>How</b> are you?"]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Interrogative sentence ના અંતે હંમેશા <b>Question Mark (?)</b> આવે છે."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3️⃣ Imperative Sentence (આજ્ઞાર્થ વાક્ય)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જે વાક્ય <b>આજ્ઞા, વિનંતી, સલાહ, સૂચન</b> કે <b>મનાઈ</b> દર્શાવે તેને <b>Imperative Sentence</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Imperative Sentence",
+                        "headers": ["Type", "Structure", "Examples"],
+                        "rows": [
+                            ["<b>Order/Command</b>", "V1 + Object", "<b>Close</b> the door.<br><b>Sit</b> down."],
+                            ["<b>Request</b>", "Please + V1 + Object", "<b>Please help</b> me.<br><b>Kindly wait</b> here."],
+                            ["<b>Advice</b>", "V1 + Object / Let + ...", "<b>Take</b> care of your health.<br><b>Let</b> him go."],
+                            ["<b>Prohibition</b>", "Don't + V1 + Object<br>Never + V1", "<b>Don't smoke</b> here.<br><b>Never tell</b> lies."],
+                            ["<b>Suggestion</b>", "Let's + V1", "<b>Let's go</b> for a walk.<br><b>Let's play</b> cricket."]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Imperative sentence માં <b>Subject (You) Hidden/Silent</b> હોય છે!<br>(You) <b>Open</b> the door. → Open the door."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4️⃣ Exclamatory Sentence (ઉદ્ગાર વાક્ય)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જે વાક્ય <b>અચાનક ઉદ્ભવતી તીવ્ર લાગણીઓ</b> (આનંદ, દુઃખ, આશ્ચર્ય, ડર) વ્યક્ત કરે તેને <b>Exclamatory Sentence</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Types of Exclamatory Sentence",
+                        "headers": ["Emotion", "Structure", "Examples"],
+                        "rows": [
+                            ["<b>Joy (આનંદ)</b>", "Hurrah! / What joy!", "<b>Hurrah!</b> We won the match!"],
+                            ["<b>Sorrow (દુઃખ)</b>", "Alas! / How sad!", "<b>Alas!</b> He is no more."],
+                            ["<b>Surprise (આશ્ચર્ય)</b>", "What! / How! / Oh!", "<b>What!</b> You don't know this?"],
+                            ["<b>Appreciation (પ્રશંસા)</b>", "What a...! / How...!", "<b>What a beautiful</b> flower!"],
+                            ["<b>Anger (ગુસ્સો)</b>", "What nonsense!", "<b>What nonsense!</b> Get out!"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 What vs How",
+                        "headers": ["Word", "Used with", "Example"],
+                        "rows": [
+                            ["<b>What</b>", "Noun (a + Adj + Noun)", "<b>What</b> a beautiful girl!"],
+                            ["<b>How</b>", "Adjective/Adverb alone", "<b>How</b> beautiful she is!"]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Pro Tip:</b> Exclamatory sentence ના અંતે હંમેશા <b>Exclamation Mark (!)</b> આવે છે."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📋 Types of Sentences - Based on Structure (રચના મુજબ)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "વાક્યની <b>રચના (Structure)</b> મુજબ <b>3 પ્રકાર</b> છે:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 3 Structure Types",
+                        "headers": ["Type", "Definition", "Example"],
+                        "rows": [
+                            ["<b>Simple Sentence</b>", "One Subject + One Predicate<br>(1 Independent Clause)", "She <b>sings</b> a song."],
+                            ["<b>Compound Sentence</b>", "2+ Independent Clauses joined by<br>FANBOYS (and, but, or)", "She sings <b>and</b> he dances."],
+                            ["<b>Complex Sentence</b>", "1 Independent + 1+ Dependent Clause<br>(if, when, because, although)", "<b>If</b> you work hard, you will pass."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📝 Simple Sentence",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જે વાક્યમાં <b>એક જ Subject</b> અને <b>એક જ Predicate</b> હોય તેને <b>Simple Sentence</b> કહે છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Simple Sentence Examples",
+                        "headers": ["Subject", "Predicate", "Full Sentence"],
+                        "rows": [
+                            ["<b>Ram</b>", "plays cricket.", "Ram plays cricket."],
+                            ["<b>The sun</b>", "rises in the east.", "The sun rises in the east."],
+                            ["<b>She</b>", "is a doctor.", "She is a doctor."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📝 Compound Sentence",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જ્યારે <b>2 કે વધુ Independent Clauses</b> ને <b>Coordinating Conjunction (FANBOYS)</b> થી જોડવામાં આવે ત્યારે <b>Compound Sentence</b> બને છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Compound Sentence with FANBOYS",
+                        "headers": ["Conjunction", "Example"],
+                        "rows": [
+                            ["<b>and</b>", "I studied hard <b>and</b> I passed the exam."],
+                            ["<b>but</b>", "He is poor <b>but</b> he is honest."],
+                            ["<b>or</b>", "Work hard <b>or</b> you will fail."],
+                            ["<b>so</b>", "It was raining <b>so</b> I took an umbrella."],
+                            ["<b>yet</b>", "He tried hard <b>yet</b> he failed."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📝 Complex Sentence",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "જ્યારે <b>1 Independent Clause</b> + <b>1 (કે વધુ) Dependent Clause</b> હોય ત્યારે <b>Complex Sentence</b> બને છે."
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Complex Sentence Connectors",
+                        "headers": ["Connector", "Usage", "Example"],
+                        "rows": [
+                            ["<b>if</b>", "Condition (શરત)", "<b>If</b> you work hard, you will pass."],
+                            ["<b>when</b>", "Time (સમય)", "<b>When</b> I reached, he had left."],
+                            ["<b>because</b>", "Reason (કારણ)", "I stayed home <b>because</b> it was raining."],
+                            ["<b>although/though</b>", "Contrast (વિરોધ)", "<b>Although</b> he is poor, he is honest."],
+                            ["<b>unless</b>", "Negative condition", "<b>Unless</b> you work hard, you won't pass."],
+                            ["<b>that</b>", "Noun clause", "I know <b>that</b> he is honest."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "🔄 Sentence Transformation",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "વાક્યોને એક પ્રકારથી બીજા પ્રકારમાં <b>Transform</b> કરી શકાય છે:"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "📋 Transformation Examples",
+                        "headers": ["From", "To", "Example"],
+                        "rows": [
+                            ["<b>Assertive (+)</b>", "<b>Assertive (-)</b>", "He is honest. → He is <b>not dishonest</b>."],
+                            ["<b>Assertive</b>", "<b>Interrogative</b>", "You are happy. → <b>Are you not</b> happy?"],
+                            ["<b>Assertive</b>", "<b>Exclamatory</b>", "She is very beautiful. → <b>How beautiful</b> she is!"],
+                            ["<b>Imperative</b>", "<b>Assertive</b>", "Open the door. → <b>You should</b> open the door."],
+                            ["<b>Exclamatory</b>", "<b>Assertive</b>", "What a beautiful flower! → It is <b>a very beautiful</b> flower."]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "⚠️ Confusion Points (ગૂંચવણભર્યા મુદ્દા)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔴 Common Confusions",
+                        "headers": ["Confusion", "Clarification", "Examples"],
+                        "rows": [
+                            ["<b>Assertive vs Exclamatory</b>", "Assertive = calm statement<br>Exclamatory = strong emotion", "She is beautiful. (Assertive)<br><b>How beautiful</b> she is! (Exclamatory)"],
+                            ["<b>Imperative vs Assertive</b>", "Imperative = No visible Subject<br>Assertive = Subject present", "(You) <b>Close</b> the door. (Imperative)<br><b>You</b> should close the door. (Assertive)"],
+                            ["<b>What vs How in Exclamatory</b>", "What + a/an + Adj + Noun<br>How + Adj/Adv alone", "<b>What a</b> great player!<br><b>How</b> great he is!"],
+                            ["<b>Simple vs Compound</b>", "Simple = 1 clause<br>Compound = 2+ clauses with FANBOYS", "He is poor <b>but</b> honest. (Simple - 1 subject)<br>He is poor <b>but</b> he is honest. (Compound)"],
+                            ["<b>Interrogative-Request</b>", "Form = Question<br>Function = Request", "<b>Can you</b> help me? (Looks interrogative but is a request)"],
+                            ["<b>Negative Question</b>", "Don't/Doesn't/Didn't start", "<b>Don't</b> you know him?<br><b>Isn't</b> it beautiful?"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "❌ Common Mistakes (સામાન્ય ભૂલો)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🚫 Avoid These Mistakes",
+                        "headers": ["❌ ખોટું", "✅ સાચું", "Rule"],
+                        "rows": [
+                            ["Where you live?", "<b>Where do you</b> live?", "WH-question માં Helping V જરૂરી"],
+                            ["He don't know.", "He <b>doesn't</b> know.", "He/She/It સાથે doesn't"],
+                            ["What beautiful flower!", "What <b>a</b> beautiful flower!", "What પછી a/an જરૂરી"],
+                            ["Please to help me.", "Please <b>help</b> me.", "Please પછી to ન આવે"],
+                            ["I and Ram went.", "<b>Ram and I</b> went.", "I સૌથી છેલ્લે આવે"]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "📋 All Topics Summary (સંપૂર્ણ સારાંશ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 4 Types by Function",
+                        "headers": ["Type", "Function", "Ends with", "Example"],
+                        "rows": [
+                            ["<b>Assertive</b>", "Statement (માહિતી)", ".", "She sings a song."],
+                            ["<b>Interrogative</b>", "Question (પ્રશ્ન)", "?", "Do you like coffee?"],
+                            ["<b>Imperative</b>", "Order/Request (આજ્ઞા)", ". / !", "Please help me."],
+                            ["<b>Exclamatory</b>", "Emotion (લાગણી)", "!", "What a beautiful flower!"]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔄 3 Types by Structure",
+                        "headers": ["Type", "Clauses", "Connector", "Example"],
+                        "rows": [
+                            ["<b>Simple</b>", "1 Independent", "-", "She sings a song."],
+                            ["<b>Compound</b>", "2+ Independent", "FANBOYS", "She sings and he dances."],
+                            ["<b>Complex</b>", "1 Independent + 1+ Dependent", "if, when, because", "If you work hard, you will pass."]
+                        ]
+                    }
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "🔑 Key Rules",
+                        "headers": ["Rule", "Remember"],
+                        "rows": [
+                            ["Every sentence needs", "Subject + Verb"],
+                            ["Assertive ends with", "Full Stop (.)"],
+                            ["Interrogative ends with", "Question Mark (?)"],
+                            ["Exclamatory ends with", "Exclamation Mark (!)"],
+                            ["Imperative Subject", "Hidden (You)"],
+                            ["What + a/an + Adj + Noun", "Exclamatory pattern"],
+                            ["How + Adj/Adv", "Exclamatory pattern"],
+                            ["FANBOYS", "For, And, Nor, But, Or, Yet, So"]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

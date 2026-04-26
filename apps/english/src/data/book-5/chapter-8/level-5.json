@@ -1,0 +1,416 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Corrode",
+      "gujaratiPronunciation": "કોરોડ",
+      "hindiPronunciation": "कोरोड",
+      "gujaratiMeaning": "કાટ લાગવો",
+      "hindiMeaning": "जंग लगना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Corrode",
+          "gujaratiPronunciation": "કોરોડ",
+          "hindiPronunciation": "कोरोड",
+          "gujaratiMeaning": "કાટ લાગવો",
+          "hindiMeaning": "जंग लगना"
+        },
+        "V2": {
+          "word": "Corroded",
+          "gujaratiPronunciation": "કોરોડેડ",
+          "hindiPronunciation": "कोरोडेड",
+          "gujaratiMeaning": "કાટ લાગ્યો",
+          "hindiMeaning": "जंग लगा"
+        },
+        "V3": {
+          "word": "Corroded",
+          "gujaratiPronunciation": "કોરોડેડ",
+          "hindiPronunciation": "कोरोडेड",
+          "gujaratiMeaning": "કાટ લાગેલો",
+          "hindiMeaning": "जंग लग चुका"
+        },
+        "V4": {
+          "word": "Corroding",
+          "gujaratiPronunciation": "કોરોડિંગ",
+          "hindiPronunciation": "कोरोडिंग",
+          "gujaratiMeaning": "કાટ લાગી રહ્યો છે",
+          "hindiMeaning": "जंग लग रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rust",
+          "gujaratiPronunciation": "રસ્ટ",
+          "hindiPronunciation": "रस्ट",
+          "gujaratiMeaning": "કાટ",
+          "hindiMeaning": "जंग"
+        },
+        {
+          "word": "Erode",
+          "gujaratiPronunciation": "ઇરોડ",
+          "hindiPronunciation": "इरोड",
+          "gujaratiMeaning": "ઘસાઈ જવું",
+          "hindiMeaning": "घिस जाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Protect",
+          "gujaratiPronunciation": "પ્રોટેક્ટ",
+          "hindiPronunciation": "प्रोटेक्ट",
+          "gujaratiMeaning": "રક્ષણ કરવું",
+          "hindiMeaning": "रक्षा करना"
+        },
+        {
+          "word": "Fortify",
+          "gujaratiPronunciation": "ફોર્ટિફાય",
+          "hindiPronunciation": "फोर्टिफाई",
+          "gujaratiMeaning": "મજબૂત કરવું",
+          "hindiMeaning": "मजबूत करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Acid rain can corrode buildings and statues.",
+          "gujaratiPronunciation": "એસિડ રેન કેન કોરોડ બિલ્ડિંગ્સ એન્ડ સ્ટેચ્યુસ.",
+          "hindiPronunciation": "एसिड रेन कैन कोरोड बिल्डिंग्स एंड स्टैच्यूज।",
+          "gujaratiTranslation": "એસિડનો વરસાદ ઇમારતો અને મૂર્તિઓને કાટ લગાડી શકે છે.",
+          "hindiTranslation": "अम्लीय वर्षा इमारतों और मूर्तियों को नष्ट कर सकती है।"
+        }
+      ]
+    },
+    {
+      "word": "Aerate",
+      "gujaratiPronunciation": "એરેટ",
+      "hindiPronunciation": "एरेट",
+      "gujaratiMeaning": "હવા દાખલ કરવી",
+      "hindiMeaning": "हवा भरना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Aerate",
+          "gujaratiPronunciation": "એરેટ",
+          "hindiPronunciation": "एरेट",
+          "gujaratiMeaning": "હવા દાખલ કરવી",
+          "hindiMeaning": "हवा भरना"
+        },
+        "V2": {
+          "word": "Aerated",
+          "gujaratiPronunciation": "એરેટેડ",
+          "hindiPronunciation": "एरेटेड",
+          "gujaratiMeaning": "હવા દાખલ કરી",
+          "hindiMeaning": "हवा भरी"
+        },
+        "V3": {
+          "word": "Aerated",
+          "gujaratiPronunciation": "એરેટેડ",
+          "hindiPronunciation": "एरेटेड",
+          "gujaratiMeaning": "હવા દાખલ કરેલી",
+          "hindiMeaning": "हवा भर चुका"
+        },
+        "V4": {
+          "word": "Aerating",
+          "gujaratiPronunciation": "એરેટિંગ",
+          "hindiPronunciation": "एरेटिंग",
+          "gujaratiMeaning": "હવા દાખલ કરી રહ્યું છે",
+          "hindiMeaning": "हवा भर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Oxygenate",
+          "gujaratiPronunciation": "ઓક્સિજનેટ",
+          "hindiPronunciation": "ऑक्सीजनेट",
+          "gujaratiMeaning": "ઓક્સિજન આપવો",
+          "hindiMeaning": "ऑक्सीजन देना"
+        },
+        {
+          "word": "Ventilate",
+          "gujaratiPronunciation": "વેન્ટિલેટ",
+          "hindiPronunciation": "वेंटिलेट",
+          "gujaratiMeaning": "હવાની અવરજવર કરવી",
+          "hindiMeaning": "हवादार बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Deaerate",
+          "gujaratiPronunciation": "ડિએરેટ",
+          "hindiPronunciation": "डीएरेट",
+          "gujaratiMeaning": "હવા કાઢવી",
+          "hindiMeaning": "हवा निकालना"
+        },
+        {
+          "word": "Suffocate",
+          "gujaratiPronunciation": "સફોકેટ",
+          "hindiPronunciation": "सफोकेट",
+          "gujaratiMeaning": "ગૂંગળાવવું",
+          "hindiMeaning": "दम घोंटना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "You need to aerate the soil in your garden.",
+          "gujaratiPronunciation": "યુ નીડ ટુ એરેટ ધ સોઇલ ઇન યોર ગાર્ડન.",
+          "hindiPronunciation": "यू नीड टू एरेट द सॉइल इन योर गार्डन।",
+          "gujaratiTranslation": "તમારે તમારા બગીચાની જમીનમાં હવા દાખલ કરવાની જરૂર છે.",
+          "hindiTranslation": "आपको अपने बगीचे की मिट्टी में हवा भरनी होगी।"
+        }
+      ]
+    },
+    {
+      "word": "Swell",
+      "gujaratiPronunciation": "સ્વેલ",
+      "hindiPronunciation": "स्वेल",
+      "gujaratiMeaning": "સૂજી જવું",
+      "hindiMeaning": "सूजना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Swell",
+          "gujaratiPronunciation": "સ્વેલ",
+          "hindiPronunciation": "स्वेल",
+          "gujaratiMeaning": "સૂજી જવું",
+          "hindiMeaning": "सूजना"
+        },
+        "V2": {
+          "word": "Swelled",
+          "gujaratiPronunciation": "સ્વેલ્ડ",
+          "hindiPronunciation": "स्वेल्ड",
+          "gujaratiMeaning": "સૂજી ગયું",
+          "hindiMeaning": "सूज गया"
+        },
+        "V3": {
+          "word": "Swollen/Swelled",
+          "gujaratiPronunciation": "સ્વોલન/સ્વેલ્ડ",
+          "hindiPronunciation": "स्वोलेन/स्वेल्ड",
+          "gujaratiMeaning": "સૂજેલું",
+          "hindiMeaning": "सूज चुका"
+        },
+        "V4": {
+          "word": "Swelling",
+          "gujaratiPronunciation": "સ્વેલિંગ",
+          "hindiPronunciation": "स्वेलिंग",
+          "gujaratiMeaning": "સૂજી રહ્યું છે",
+          "hindiMeaning": "सूज रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Inflate",
+          "gujaratiPronunciation": "ઇન્ફ્લેટ",
+          "hindiPronunciation": "इन्फ्लेट",
+          "gujaratiMeaning": "ફૂલવું",
+          "hindiMeaning": "फूलना"
+        },
+        {
+          "word": "Expand",
+          "gujaratiPronunciation": "એક્સપાન્ડ",
+          "hindiPronunciation": "एक्सपैंड",
+          "gujaratiMeaning": "વિસ્તરવું",
+          "hindiMeaning": "विस्तार होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Shrink",
+          "gujaratiPronunciation": "શ્રિંક",
+          "hindiPronunciation": "श्रिंक",
+          "gujaratiMeaning": "સંકોચાવું",
+          "hindiMeaning": "सिकुड़ना"
+        },
+        {
+          "word": "Decrease",
+          "gujaratiPronunciation": "ડિક્રીઝ",
+          "hindiPronunciation": "डिक्रीज़",
+          "gujaratiMeaning": "ઘટવું",
+          "hindiMeaning": "कम होना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "My ankle started to swell after the injury.",
+          "gujaratiPronunciation": "માય એન્કલ સ્ટાર્ટેડ ટુ સ્વેલ આફ્ટર ધ ઇન્જરી.",
+          "hindiPronunciation": "माई एंकल स्टार्टेड टू स्वेल आफ्टर द इंजरी।",
+          "gujaratiTranslation": "ઈજા પછી મારી ઘૂંટી સૂજી જવા લાગી.",
+          "hindiTranslation": "चोट के बाद मेरी टखने में सूजन आने लगी।"
+        }
+      ]
+    },
+    {
+      "word": "Volatilize",
+      "gujaratiPronunciation": "વોલેટલાઇઝ",
+      "hindiPronunciation": "वॉलेटाइलाइज़",
+      "gujaratiMeaning": "બાષ્પીભવન થવું",
+      "hindiMeaning": "वाष्पीकृत होना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Volatilize",
+          "gujaratiPronunciation": "વોલેટલાઇઝ",
+          "hindiPronunciation": "वॉलेटाइलाइज़",
+          "gujaratiMeaning": "બાષ્પીભવન થવું",
+          "hindiMeaning": "वाष्पीकृत होना"
+        },
+        "V2": {
+          "word": "Volatilized",
+          "gujaratiPronunciation": "વોલેટલાઇઝ્ડ",
+          "hindiPronunciation": "वॉलेटाइलाइज़्ड",
+          "gujaratiMeaning": "બાષ્પીભવન થયું",
+          "hindiMeaning": "वाष्पीकृत हुआ"
+        },
+        "V3": {
+          "word": "Volatilized",
+          "gujaratiPronunciation": "વોલેટલાઇઝ્ડ",
+          "hindiPronunciation": "वॉलेटाइलाइज़्ड",
+          "gujaratiMeaning": "બાષ્પીભવન થયેલું",
+          "hindiMeaning": "वाष्पीकृत हो चुका"
+        },
+        "V4": {
+          "word": "Volatilizing",
+          "gujaratiPronunciation": "વોલેટલાઇઝિંગ",
+          "hindiPronunciation": "वॉलेटाइलाइज़िंग",
+          "gujaratiMeaning": "બાષ્પીભવન થઈ રહ્યું છે",
+          "hindiMeaning": "वाष्पीकृत हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Evaporate",
+          "gujaratiPronunciation": "ઇવેપોરેટ",
+          "hindiPronunciation": "इवैपोरेट",
+          "gujaratiMeaning": "બાષ્પીભવન થવું",
+          "hindiMeaning": "वाष्पीकृत होना"
+        },
+        {
+          "word": "Vaporize",
+          "gujaratiPronunciation": "વેપરાઇઝ",
+          "hindiPronunciation": "वेपराइज़",
+          "gujaratiMeaning": "વરાળ બનવું",
+          "hindiMeaning": "भाप बनना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Solidify",
+          "gujaratiPronunciation": "સોલિડીફાય",
+          "hindiPronunciation": "सॉलिडिफाई",
+          "gujaratiMeaning": "ઘન બનવું",
+          "hindiMeaning": "ठोस बनना"
+        },
+        {
+          "word": "Condense",
+          "gujaratiPronunciation": "કન્ડેન્સ",
+          "hindiPronunciation": "कंडेंस",
+          "gujaratiMeaning": "ઘટ્ટ થવું",
+          "hindiMeaning": "संघनित होना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The chemical will volatilize if left open.",
+          "gujaratiPronunciation": "ધ કેમિકલ વિલ વોલેટલાઇઝ ઇફ લેફ્ટ ઓપન.",
+          "hindiPronunciation": "द केमिकल विल वॉलेटाइलाइज़ इफ लेफ्ट ओपन।",
+          "gujaratiTranslation": "જો ખુલ્લું રાખવામાં આવે તો રસાયણ બાષ્પીભવન થઈ જશે.",
+          "hindiTranslation": "खुला छोड़ने पर रसायन वाष्पीकृत हो जाएगा।"
+        }
+      ]
+    },
+    {
+      "word": "Wither",
+      "gujaratiPronunciation": "વિથર",
+      "hindiPronunciation": "विदर",
+      "gujaratiMeaning": "કરમાવું",
+      "hindiMeaning": "मुरझाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Wither",
+          "gujaratiPronunciation": "વિથર",
+          "hindiPronunciation": "विदर",
+          "gujaratiMeaning": "કરમાવું",
+          "hindiMeaning": "मुरझाना"
+        },
+        "V2": {
+          "word": "Withered",
+          "gujaratiPronunciation": "વિથર્ડ",
+          "hindiPronunciation": "विदर्ड",
+          "gujaratiMeaning": "કરમાયું",
+          "hindiMeaning": "मुरझाया"
+        },
+        "V3": {
+          "word": "Withered",
+          "gujaratiPronunciation": "વિથર્ડ",
+          "hindiPronunciation": "विदर्ड",
+          "gujaratiMeaning": "કરમાયેલું",
+          "hindiMeaning": "मुरझा चुका"
+        },
+        "V4": {
+          "word": "Withering",
+          "gujaratiPronunciation": "વિથરિંગ",
+          "hindiPronunciation": "विदरिंग",
+          "gujaratiMeaning": "કરમાઈ રહ્યું છે",
+          "hindiMeaning": "मुरझा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Dry up",
+          "gujaratiPronunciation": "ડ્રાય અપ",
+          "hindiPronunciation": "ड्राई अप",
+          "gujaratiMeaning": "સૂકાઈ જવું",
+          "hindiMeaning": "सूख जाना"
+        },
+        {
+          "word": "Shrivel",
+          "gujaratiPronunciation": "શ્રિવલ",
+          "hindiPronunciation": "श्रिवल",
+          "gujaratiMeaning": "ચીમળાઈ જવું",
+          "hindiMeaning": "सिकुड़ जाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Bloom",
+          "gujaratiPronunciation": "બ્લૂમ",
+          "hindiPronunciation": "ब्लूम",
+          "gujaratiMeaning": "ખીલવું",
+          "hindiMeaning": "खिलना"
+        },
+        {
+          "word": "Thrive",
+          "gujaratiPronunciation": "થ્રાઇવ",
+          "hindiPronunciation": "थ्राइव",
+          "gujaratiMeaning": "વિકસવું",
+          "hindiMeaning": "फलना-फूलना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Whether",
+          "gujaratiPronunciation": "વેધર",
+          "hindiPronunciation": "वेदर",
+          "gujaratiMeaning": "કે શું",
+          "hindiMeaning": "कि क्या",
+          "difference": "Wither એ કરમાવું છે, જ્યારે Whether એ વિકલ્પ સૂચવે છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The flowers will wither without water.",
+          "gujaratiPronunciation": "ધ ફ્લાવર્સ વિલ વિથર વિધાઉટ વોટર.",
+          "hindiPronunciation": "द फ्लावर्स विल विदर विदाउट वॉटर।",
+          "gujaratiTranslation": "પાણી વિના ફૂલો કરમાઈ જશે.",
+          "hindiTranslation": "बिना पानी के फूल मुरझा जाएंगे।"
+        }
+      ]
+    }
+  ]
+}

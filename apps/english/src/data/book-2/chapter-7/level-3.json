@@ -1,0 +1,77 @@
+
+{
+  "id": "level-3",
+  "title": "Professions 3",
+  "words": [
+    {
+      "word": "Engineer",
+      "gujaratiPronunciation": "એન્જિનિયર",
+      "hindiPronunciation": "इंजीनियर",
+      "gujaratiMeaning": "ઈજનેર",
+      "hindiMeaning": "इंजीनियर",
+      "exampleSentences": [
+        {
+          "sentence": "An engineer designs bridges and buildings.",
+          "gujaratiTranslation": "એક ઈજનેર પુલ અને ઇમારતોની ડિઝાઇન કરે છે.",
+          "hindiTranslation": "एक इंजीनियर पुलों और इमारतों को डिजाइन करता है।"
+        }
+      ]
+    },
+    {
+      "word": "Lawyer",
+      "gujaratiPronunciation": "લોયર",
+      "hindiPronunciation": "लॉयर",
+      "gujaratiMeaning": "વકીલ",
+      "hindiMeaning": "वकील",
+      "exampleSentences": [
+        {
+          "sentence": "The lawyer is arguing in the court.",
+          "gujaratiTranslation": "વકીલ કોર્ટમાં દલીલ કરી રહ્યા છે.",
+          "hindiTranslation": "वकील अदालत में बहस कर रहा है।"
+        }
+      ]
+    },
+    {
+      "word": "Scientist",
+      "gujaratiPronunciation": "સાયન્ટિસ્ટ",
+      "hindiPronunciation": "साइंटिस्ट",
+      "gujaratiMeaning": "વૈજ્ઞાનિક",
+      "hindiMeaning": "वैज्ञानिक",
+      "exampleSentences": [
+        {
+          "sentence": "A scientist does research in a lab.",
+          "gujaratiTranslation": "એક વૈજ્ઞાનિક લેબમાં સંશોધન કરે છે.",
+          "hindiTranslation": "एक वैज्ञानिक प्रयोगशाला में शोध करता है।"
+        }
+      ]
+    },
+    {
+      "word": "Actor",
+      "gujaratiPronunciation": "એક્ટર",
+      "hindiPronunciation": "एक्टर",
+      "gujaratiMeaning": "અભિનેતા",
+      "hindiMeaning": "अभिनेता",
+      "exampleSentences": [
+        {
+          "sentence": "He is a famous actor in Bollywood.",
+          "gujaratiTranslation": "તે બોલિવૂડમાં એક પ્રખ્યાત અભિનેતા છે.",
+          "hindiTranslation": "वह बॉलीवुड में एक प्रसिद्ध अभिनेता है।"
+        }
+      ]
+    },
+    {
+      "word": "Artist",
+      "gujaratiPronunciation": "આર્ટિસ્ટ",
+      "hindiPronunciation": "आर्टिस्ट",
+      "gujaratiMeaning": "કલાકાર",
+      "hindiMeaning": "कलाकार",
+      "exampleSentences": [
+        {
+          "sentence": "The artist is painting a beautiful picture.",
+          "gujaratiTranslation": "કલાકાર એક સુંદર ચિત્ર દોરી રહ્યો છે.",
+          "hindiTranslation": "कलाकार एक सुंदर तस्वीर बना रहा है।"
+        }
+      ]
+    }
+  ]
+}

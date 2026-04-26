@@ -1,0 +1,47 @@
+
+{
+    "id": "level-3",
+    "title": "Birds 3",
+    "words": [
+        {
+            "word": "Swan",
+            "icon": "🦢",
+            "gujaratiPronunciation": "સ્વાન",
+            "hindiPronunciation": "स्वान",
+            "gujaratiMeaning": "હંસ",
+            "hindiMeaning": "हंस"
+        },
+        {
+            "word": "Kingfisher",
+            "icon": "🐦",
+            "gujaratiPronunciation": "કિંગફિશર",
+            "hindiPronunciation": "किंगफिशर",
+            "gujaratiMeaning": "કલકલિયો",
+            "hindiMeaning": "किंगफिशर"
+        },
+        {
+            "word": "Flamingo",
+            "icon": "🦩",
+            "gujaratiPronunciation": "ફ્લેમિંગો",
+            "hindiPronunciation": "फ्लेमिंगो",
+            "gujaratiMeaning": "સુરખાબ",
+            "hindiMeaning": "राजहंस"
+        },
+        {
+            "word": "Robin",
+            "icon": "🐦",
+            "gujaratiPronunciation": "રોબિન",
+            "hindiPronunciation": "रॉबिन",
+            "gujaratiMeaning": "રોબિન",
+            "hindiMeaning": "रॉबिन"
+        },
+        {
+            "word": "Hummingbird",
+            "icon": "🐦",
+            "gujaratiPronunciation": "હમિંગબર્ડ",
+            "hindiPronunciation": "हमिंगबर्ड",
+            "gujaratiMeaning": "હમિંગબર્ડ",
+            "hindiMeaning": "हमिंगबर्ड"
+        }
+    ]
+}

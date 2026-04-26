@@ -1,0 +1,177 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Deliberate",
+      "gujaratiPronunciation": "ડેલિબરેટ",
+      "hindiPronunciation": "डेलिबरेट",
+      "gujaratiMeaning": "વિચારપૂર્વક કરવું, ચર્ચા કરવી",
+      "hindiMeaning": "विचार-विमर्श करना, जानबूझकर",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Deliberate", "gujaratiPronunciation": "ડેલિબરેટ", "hindiPronunciation": "डेलिबरेट", "gujaratiMeaning": "વિચાર કરવો", "hindiMeaning": "विचार करना" },
+        "V2 (Past)": { "word": "Deliberated", "gujaratiPronunciation": "ડેલિબરેટેડ", "hindiPronunciation": "डेलिबरेटेड", "gujaratiMeaning": "વિચાર કર્યો", "hindiMeaning": "विचार किया" },
+        "V3 (Past Participle)": { "word": "Deliberated", "gujaratiPronunciation": "ડેલિબરેટેડ", "hindiPronunciation": "डेलिबरेटेड", "gujaratiMeaning": "વિચાર કરેલો", "hindiMeaning": "विचार किया हुआ" },
+        "V4 (Present Participle)": { "word": "Deliberating", "gujaratiPronunciation": "ડેલિબરેટિંગ", "hindiPronunciation": "डेलिबरेटिंग", "gujaratiMeaning": "વિચાર કરતા", "hindiMeaning": "विचार करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Consider", "gujaratiPronunciation": "કન્સિડર", "hindiPronunciation": "कंसीडर", "gujaratiMeaning": "વિચારણા કરવી", "hindiMeaning": "विचार करना" },
+        { "word": "Ponder", "gujaratiPronunciation": "પોન્ડર", "hindiPronunciation": "पॉन्डर", "gujaratiMeaning": "મનન કરવું", "hindiMeaning": "मनन करना" }
+      ],
+      "antonyms": [
+        { "word": "Improvise", "gujaratiPronunciation": "ઇમ્પ્રુવાઇઝ", "hindiPronunciation": "इम्प्रोवाइज", "gujaratiMeaning": "તરત જ કરવું", "hindiMeaning": "तुरंत करना" },
+        { "word": "Rush", "gujaratiPronunciation": "રશ", "hindiPronunciation": "रश", "gujaratiMeaning": "ઉતાવળ કરવી", "hindiMeaning": "जल्दबाजी करना" }
+      ],
+      "confusingWords": [
+        { "word": "Celebrate", "gujaratiPronunciation": "સેલિબ્રેટ", "hindiPronunciation": "सेलिब्रेट", "gujaratiMeaning": "ઉજવણી કરવી", "hindiMeaning": "जश्न मनाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The jury will deliberate on the case.",
+          "gujaratiTranslation": "જ્યુરી આ કેસ પર વિચાર-વિમર્શ કરશે.",
+          "hindiTranslation": "जूरी इस मामले पर विचार-विमर्श करेगी।",
+          "gujaratiPronunciation": "ધ જ્યુરી વિલ ડેલિબરેટ ઓન ધ કેસ.",
+          "hindiPronunciation": "द ज्यूरी विल डेलिबरेट ऑन द केस।"
+        }
+      ]
+    },
+    {
+      "word": "Proclaim",
+      "gujaratiPronunciation": "પ્રોક્લેમ",
+      "hindiPronunciation": "प्रोक्लेम",
+      "gujaratiMeaning": "જાહેર કરવું",
+      "hindiMeaning": "घोषणा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Proclaim", "gujaratiPronunciation": "પ્રોક્લેમ", "hindiPronunciation": "प्रोक्लेम", "gujaratiMeaning": "જાહેર કરવું", "hindiMeaning": "घोषणा करना" },
+        "V2 (Past)": { "word": "Proclaimed", "gujaratiPronunciation": "પ્રોક્લેમ્ડ", "hindiPronunciation": "प्रोक्लेम्ड", "gujaratiMeaning": "જાહેર કર્યું", "hindiMeaning": "घोषणा की" },
+        "V3 (Past Participle)": { "word": "Proclaimed", "gujaratiPronunciation": "પ્રોક્લેમ્ડ", "hindiPronunciation": "प्रोक्लेम्ड", "gujaratiMeaning": "જાહેર કરેલું", "hindiMeaning": "घोषणा की हुई" },
+        "V4 (Present Participle)": { "word": "Proclaiming", "gujaratiPronunciation": "પ્રોક્લેમિંગ", "hindiPronunciation": "प्रोक्लेमिंग", "gujaratiMeaning": "જાહેર કરતા", "hindiMeaning": "घोषणा करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Announce", "gujaratiPronunciation": "અનાઉન્સ", "hindiPronunciation": "अनाउंस", "gujaratiMeaning": "જાહેરાત કરવી", "hindiMeaning": "घोषणा करना" },
+        { "word": "Declare", "gujaratiPronunciation": "ડિક્લેર", "hindiPronunciation": "डिक्लेयर", "gujaratiMeaning": "જાહેર કરવું", "hindiMeaning": "घोषित करना" }
+      ],
+      "antonyms": [
+        { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" },
+        { "word": "Deny", "gujaratiPronunciation": "ડિનાય", "hindiPronunciation": "डिनाई", "gujaratiMeaning": "ઇનકાર કરવો", "hindiMeaning": "इनकार करना" }
+      ],
+      "confusingWords": [
+        { "word": "Reclaim", "gujaratiPronunciation": "રિક્લેમ", "hindiPronunciation": "रिक्लेम", "gujaratiMeaning": "પાછો દાવો કરવો", "hindiMeaning": "वापस दावा करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They proclaimed him king.",
+          "gujaratiTranslation": "તેઓએ તેને રાજા જાહેર કર્યો.",
+          "hindiTranslation": "उन्होंने उसे राजा घोषित कर दिया।",
+          "gujaratiPronunciation": "ધે પ્રોક્લેમ્ડ હિમ કિંગ.",
+          "hindiPronunciation": "दे प्रोक्लेम्ड हिम किंग।"
+        }
+      ]
+    },
+    {
+      "word": "Jot",
+      "gujaratiPronunciation": "જોટ",
+      "hindiPronunciation": "जॉट",
+      "gujaratiMeaning": "ટૂંકમાં લખવું",
+      "hindiMeaning": "संक्षेप में लिखना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Jot", "gujaratiPronunciation": "જોટ", "hindiPronunciation": "जॉट", "gujaratiMeaning": "ટૂંકમાં લખવું", "hindiMeaning": "संक्षेप में लिखना" },
+        "V2 (Past)": { "word": "Jotted", "gujaratiPronunciation": "જોટેડ", "hindiPronunciation": "जॉटेड", "gujaratiMeaning": "ટૂંકમાં લખ્યું", "hindiMeaning": "संक्षेप में लिखा" },
+        "V3 (Past Participle)": { "word": "Jotted", "gujaratiPronunciation": "જોટેડ", "hindiPronunciation": "जॉटेड", "gujaratiMeaning": "ટૂંકમાં લખેલું", "hindiMeaning": "संक्षेप में लिखा हुआ" },
+        "V4 (Present Participle)": { "word": "Jotting", "gujaratiPronunciation": "જોટિંગ", "hindiPronunciation": "जॉटिंग", "gujaratiMeaning": "ટૂંકમાં લખતા", "hindiMeaning": "संक्षेप में लिखते हुए" }
+      },
+      "synonyms": [
+        { "word": "Note down", "gujaratiPronunciation": "નોટ ડાઉન", "hindiPronunciation": "नोट डाउन", "gujaratiMeaning": "નોંધવું", "hindiMeaning": "नोट करना" },
+        { "word": "Scribble", "gujaratiPronunciation": "સ્ક્રિબલ", "hindiPronunciation": "स्क्रिबल", "gujaratiMeaning": "આડુંઅવળું લખવું", "hindiMeaning": "घसीटना" }
+      ],
+      "antonyms": [
+        { "word": "Elaborate", "gujaratiPronunciation": "ઇલેબોરેટ", "hindiPronunciation": "इलैबोरेट", "gujaratiMeaning": "વિસ્તારપૂર્વક લખવું", "hindiMeaning": "विस्तार से लिखना" },
+        { "word": "Erase", "gujaratiPronunciation": "ઇરેઝ", "hindiPronunciation": "इरेज़", "gujaratiMeaning": "ભૂંસી નાખવું", "hindiMeaning": "मिटाना" }
+      ],
+      "confusingWords": [
+        { "word": "Jet", "gujaratiPronunciation": "જેટ", "hindiPronunciation": "जेट", "gujaratiMeaning": "વિમાન", "hindiMeaning": "विमान" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "I'll jot down the address for you.",
+          "gujaratiTranslation": "હું તમારા માટે સરનામું ટૂંકમાં લખી લઈશ.",
+          "hindiTranslation": "मैं तुम्हारे लिए पता लिख लेता हूँ।",
+          "gujaratiPronunciation": "આઇ'લ જોટ ડાઉન ધ એડ્રેસ ફોર યુ.",
+          "hindiPronunciation": "आई'ल जॉट डाउन द एड्रेस फॉर यू।"
+        }
+      ]
+    },
+    {
+      "word": "Contest",
+      "gujaratiPronunciation": "કન્ટેસ્ટ",
+      "hindiPronunciation": "कंटेस्ट",
+      "gujaratiMeaning": "વિરોધ કરવો, સ્પર્ધા કરવી",
+      "hindiMeaning": "विरोध करना, प्रतियोगिता करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Contest", "gujaratiPronunciation": "કન્ટેસ્ટ", "hindiPronunciation": "कंटेस्ट", "gujaratiMeaning": "વિરોધ કરવો", "hindiMeaning": "विरोध करना" },
+        "V2 (Past)": { "word": "Contested", "gujaratiPronunciation": "કન્ટેસ્ટેડ", "hindiPronunciation": "कंटेस्टेड", "gujaratiMeaning": "વિરોધ કર્યો", "hindiMeaning": "विरोध किया" },
+        "V3 (Past Participle)": { "word": "Contested", "gujaratiPronunciation": "કન્ટેસ્ટેડ", "hindiPronunciation": "कंटेस्टेड", "gujaratiMeaning": "વિરોધ કરેલો", "hindiMeaning": "विरोध किया हुआ" },
+        "V4 (Present Participle)": { "word": "Contesting", "gujaratiPronunciation": "કન્ટેસ્ટિંગ", "hindiPronunciation": "कंटेस्टिंग", "gujaratiMeaning": "વિરોધ કરતા", "hindiMeaning": "विरोध करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Challenge", "gujaratiPronunciation": "ચેલેન્જ", "hindiPronunciation": "चैलेंज", "gujaratiMeaning": "પડકારવું", "hindiMeaning": "चुनौती देना" },
+        { "word": "Dispute", "gujaratiPronunciation": "ડિસ્પ્યુટ", "hindiPronunciation": "डिस्प्यूट", "gujaratiMeaning": "વિવાદ કરવો", "hindiMeaning": "विवाद करना" }
+      ],
+      "antonyms": [
+        { "word": "Accept", "gujaratiPronunciation": "એક્સેપ્ટ", "hindiPronunciation": "एक्सेप्ट", "gujaratiMeaning": "સ્વીકારવું", "hindiMeaning": "स्वीकार करना" },
+        { "word": "Agree", "gujaratiPronunciation": "એગ્રી", "hindiPronunciation": "एग्री", "gujaratiMeaning": "સંમત થવું", "hindiMeaning": "सहमत होना" }
+      ],
+      "confusingWords": [
+        { "word": "Content", "gujaratiPronunciation": "કન્ટેન્ટ", "hindiPronunciation": "कंटेंट", "gujaratiMeaning": "વિષયવસ્તુ, સંતુષ્ટ", "hindiMeaning": "विषय-वस्तु, संतुष्ट" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She plans to contest the decision.",
+          "gujaratiTranslation": "તેણી આ નિર્ણયનો વિરોધ કરવાની યોજના ધરાવે છે.",
+          "hindiTranslation": "वह इस फैसले का विरोध करने की योजना बना रही है।",
+          "gujaratiPronunciation": "શી પ્લાન્સ ટુ કન્ટેસ્ટ ધ ડિસિઝન.",
+          "hindiPronunciation": "शी प्लांस टू कंटेस्ट द डिसीजन।"
+        }
+      ]
+    },
+    {
+      "word": "Coax",
+      "gujaratiPronunciation": "કોક્સ",
+      "hindiPronunciation": "कोक्स",
+      "gujaratiMeaning": "પટાવવું, સમજાવીને મનાવવું",
+      "hindiMeaning": "फुसलाना, मनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Coax", "gujaratiPronunciation": "કોક્સ", "hindiPronunciation": "कोक्स", "gujaratiMeaning": "પટાવવું", "hindiMeaning": "फुसलाना" },
+        "V2 (Past)": { "word": "Coaxed", "gujaratiPronunciation": "કોક્સ્ડ", "hindiPronunciation": "कोक्स्ड", "gujaratiMeaning": "પટાવ્યું", "hindiMeaning": "फुसलाया" },
+        "V3 (Past Participle)": { "word": "Coaxed", "gujaratiPronunciation": "કોક્સ્ડ", "hindiPronunciation": "कोक्स्ड", "gujaratiMeaning": "પટાવેલું", "hindiMeaning": "फुसलाया हुआ" },
+        "V4 (Present Participle)": { "word": "Coaxing", "gujaratiPronunciation": "કોક્સિંગ", "hindiPronunciation": "कोक्सिंग", "gujaratiMeaning": "પટાવતા", "hindiMeaning": "फुसलाते हुए" }
+      },
+      "synonyms": [
+        { "word": "Persuade", "gujaratiPronunciation": "પર્સ્યુએડ", "hindiPronunciation": "पर्स्यूएड", "gujaratiMeaning": "મનાવવું", "hindiMeaning": "मनाना" },
+        { "word": "Cajole", "gujaratiPronunciation": "કજોલ", "hindiPronunciation": "कैजोल", "gujaratiMeaning": "ખુશામત કરવી", "hindiMeaning": "खुशामद करना" }
+      ],
+      "antonyms": [
+        { "word": "Force", "gujaratiPronunciation": "ફોર્સ", "hindiPronunciation": "फोर्स", "gujaratiMeaning": "દબાણ કરવું", "hindiMeaning": "दबाव डालना" },
+        { "word": "Bully", "gujaratiPronunciation": "બુલી", "hindiPronunciation": "बुली", "gujaratiMeaning": "ધમકાવવું", "hindiMeaning": "धमकाना" }
+      ],
+      "confusingWords": [
+        { "word": "Cokes", "gujaratiPronunciation": "કોક્સ", "hindiPronunciation": "कोक्स", "gujaratiMeaning": "કોક (પીણું) નું બહુવચન", "hindiMeaning": "कोक (पेय) का बहुवचन" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He coaxed the cat out from under the car.",
+          "gujaratiTranslation": "તેણે બિલાડીને કાર નીચેથી સમજાવીને બહાર કાઢી.",
+          "hindiTranslation": "उसने बिल्ली को कार के नीचे से फुसलाकर बाहर निकाला।",
+          "gujaratiPronunciation": "હી કોક્સ્ડ ધ કેટ આઉટ ફ્રોમ અંડર ધ કાર.",
+          "hindiPronunciation": "ही कोक्स्ड द कैट आउट फ्रॉम अंडर द कार।"
+        }
+      ]
+    }
+  ]
+}

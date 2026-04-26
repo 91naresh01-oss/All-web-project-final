@@ -1,0 +1,47 @@
+
+{
+    "id": "level-7",
+    "title": "Comparison & Advanced Symbols",
+    "words": [
+        {
+            "word": "Greater than",
+            "icon": ">",
+            "gujaratiPronunciation": "ગ્રેટર ધેન",
+            "hindiPronunciation": "ग्रेटर दैन",
+            "gujaratiMeaning": "ના કરતાં મોટું",
+            "hindiMeaning": "से बड़ा"
+        },
+        {
+            "word": "Less than",
+            "icon": "<",
+            "gujaratiPronunciation": "લેસ ધેન",
+            "hindiPronunciation": "लेस दैन",
+            "gujaratiMeaning": "ના કરતાં નાનું",
+            "hindiMeaning": "से छोटा"
+        },
+        {
+            "word": "Percentage",
+            "icon": "%",
+            "gujaratiPronunciation": "પર્સેન્ટેજ",
+            "hindiPronunciation": "परसेंटेज",
+            "gujaratiMeaning": "ટકા",
+            "hindiMeaning": "प्रतिशत"
+        },
+        {
+            "word": "Decimal",
+            "icon": ".",
+            "gujaratiPronunciation": "ડેસિમલ",
+            "hindiPronunciation": "डेसिमल",
+            "gujaratiMeaning": "દશાંશ",
+            "hindiMeaning": "दशमलव"
+        },
+        {
+            "word": "Fraction",
+            "icon": "½",
+            "gujaratiPronunciation": "ફ્રેક્શન",
+            "hindiPronunciation": "फ्रैक्शन",
+            "gujaratiMeaning": "અપૂર્ણાંક",
+            "hindiMeaning": "भिन्न"
+        }
+    ]
+}

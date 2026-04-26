@@ -1,0 +1,491 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Speak",
+      "gujaratiPronunciation": "સ્પીક",
+      "hindiPronunciation": "स्पीक",
+      "gujaratiMeaning": "બોલવું",
+      "hindiMeaning": "बोलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Speak",
+          "gujaratiPronunciation": "સ્પીક",
+          "hindiPronunciation": "स्पीक",
+          "gujaratiMeaning": "બોલવું",
+          "hindiMeaning": "बोलना"
+        },
+        "V2 (Past)": {
+          "word": "Spoke",
+          "gujaratiPronunciation": "સ્પોક",
+          "hindiPronunciation": "स्पोक",
+          "gujaratiMeaning": "બોલ્યા",
+          "hindiMeaning": "बोला"
+        },
+        "V3 (Past Participle)": {
+          "word": "Spoken",
+          "gujaratiPronunciation": "સ્પોકન",
+          "hindiPronunciation": "स्पोकन",
+          "gujaratiMeaning": "બોલેલું",
+          "hindiMeaning": "बोला हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Speaking",
+          "gujaratiPronunciation": "સ્પીકિંગ",
+          "hindiPronunciation": "स्पीकिंग",
+          "gujaratiMeaning": "બોલી રહ્યું છે",
+          "hindiMeaning": "बोल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Talk",
+          "gujaratiPronunciation": "ટૉક",
+          "hindiPronunciation": "टॉक",
+          "gujaratiMeaning": "વાત કરવી",
+          "hindiMeaning": "बात करना"
+        },
+        {
+          "word": "Utter",
+          "gujaratiPronunciation": "અટર",
+          "hindiPronunciation": "अटर",
+          "gujaratiMeaning": "ઉચ્ચારવું",
+          "hindiMeaning": "उच्चारण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Listen",
+          "gujaratiPronunciation": "લિસન",
+          "hindiPronunciation": "लिसन",
+          "gujaratiMeaning": "સાંભળવું",
+          "hindiMeaning": "सुनना"
+        },
+        {
+          "word": "Mumble",
+          "gujaratiPronunciation": "મમ્બલ",
+          "hindiPronunciation": "मम्बल",
+          "gujaratiMeaning": "ગણગણવું",
+          "hindiMeaning": "बुदबुदाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Speech",
+          "gujaratiPronunciation": "સ્પીચ",
+          "hindiPronunciation": "स्पीच",
+          "gujaratiMeaning": "ભાષણ (સંજ્ઞા)",
+          "hindiMeaning": "भाषण (संज्ञा)",
+          "difference": "Speak એ ક્રિયા છે, જ્યારે Speech એ ભાષણ છે."
+        },
+        {
+          "word": "Spark",
+          "gujaratiPronunciation": "સ્પાર્ક",
+          "hindiPronunciation": "स्पार्क",
+          "gujaratiMeaning": "તણખો",
+          "hindiMeaning": "चिंगारी",
+          "difference": "બંને શબ્દોનો ઉચ્ચાર થોડો અલગ છે અને અર્થ સંપૂર્ણપણે અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She speaks three languages fluently.",
+          "gujaratiPronunciation": "શી સ્પીક્સ થ્રી લેંગ્વેજિસ ફ્લુઅન્ટલી.",
+          "hindiPronunciation": "शी स्पीक्स थ्री लैंग्वेजेज फ्लुएंटी।",
+          "gujaratiTranslation": "તે ત્રણ ભાષાઓ અસ્ખલિત રીતે બોલે છે.",
+          "hindiTranslation": "वह तीन भाषाएँ धाराप्रवाह बोलती है।"
+        }
+      ]
+    },
+    {
+      "word": "Shout",
+      "gujaratiPronunciation": "શાઉટ",
+      "hindiPronunciation": "शाउट",
+      "gujaratiMeaning": "બૂમ પાડવી",
+      "hindiMeaning": "चिल्लाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Shout",
+          "gujaratiPronunciation": "શાઉટ",
+          "hindiPronunciation": "शाउट",
+          "gujaratiMeaning": "બૂમ પાડવી",
+          "hindiMeaning": "चिल्लाना"
+        },
+        "V2 (Past)": {
+          "word": "Shouted",
+          "gujaratiPronunciation": "શાઉટેડ",
+          "hindiPronunciation": "शाउटेड",
+          "gujaratiMeaning": "બૂમ પાડી",
+          "hindiMeaning": "चिल्लाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Shouted",
+          "gujaratiPronunciation": "શાઉટેડ",
+          "hindiPronunciation": "शाउटेड",
+          "gujaratiMeaning": "બૂમ પાડેલી",
+          "hindiMeaning": "चिल्लाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Shouting",
+          "gujaratiPronunciation": "શાઉટિંગ",
+          "hindiPronunciation": "शाउटिंग",
+          "gujaratiMeaning": "બૂમ પાડી રહ્યું છે",
+          "hindiMeaning": "चिल्ला रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Yell",
+          "gujaratiPronunciation": "યેલ",
+          "hindiPronunciation": "येल",
+          "gujaratiMeaning": "ચીસ પાડવી",
+          "hindiMeaning": "चीखना"
+        },
+        {
+          "word": "Cry",
+          "gujaratiPronunciation": "ક્રાય",
+          "hindiPronunciation": "क्राई",
+          "gujaratiMeaning": "રડવું/બૂમ પાડવી",
+          "hindiMeaning": "रोना/चिल्लाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Whisper",
+          "gujaratiPronunciation": "વ્હિસ્પર",
+          "hindiPronunciation": "व्हिस्पर",
+          "gujaratiMeaning": "ધીમેથી કહેવું",
+          "hindiMeaning": "फुसफुसाना"
+        },
+        {
+          "word": "Mutter",
+          "gujaratiPronunciation": "મટર",
+          "hindiPronunciation": "मटर",
+          "gujaratiMeaning": "બડબડવું",
+          "hindiMeaning": "बड़बड़ाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Shut",
+          "gujaratiPronunciation": "શટ",
+          "hindiPronunciation": "शट",
+          "gujaratiMeaning": "બંધ કરવું",
+          "hindiMeaning": "बंद करना",
+          "difference": "Shout એટલે બૂમ પાડવી, જ્યારે Shut એટલે બંધ કરવું."
+        },
+        {
+          "word": "Spout",
+          "gujaratiPronunciation": "સ્પાઉટ",
+          "hindiPronunciation": "स्पाउट",
+          "gujaratiMeaning": "નાળચું/ધારા",
+          "hindiMeaning": "टोंटी/धारा",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He had to shout to make himself heard.",
+          "gujaratiPronunciation": "હી હેડ ટુ શાઉટ ટુ મેક હિમસેલ્ફ હર્ડ.",
+          "hindiPronunciation": "ही हैड टू शाउट टू मेक हिमसेल्फ हर्ड।",
+          "gujaratiTranslation": "તેને પોતાનો અવાજ સંભળાવવા માટે બૂમ પાડવી પડી.",
+          "hindiTranslation": "उसे अपनी बात सुनाने के लिए चिल्लाना पड़ा।"
+        }
+      ]
+    },
+    {
+      "word": "Listen",
+      "gujaratiPronunciation": "લિસન",
+      "hindiPronunciation": "लिसन",
+      "gujaratiMeaning": "સાંભળવું",
+      "hindiMeaning": "सुनना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Listen",
+          "gujaratiPronunciation": "લિસન",
+          "hindiPronunciation": "लिसन",
+          "gujaratiMeaning": "સાંભળવું",
+          "hindiMeaning": "सुनना"
+        },
+        "V2 (Past)": {
+          "word": "Listened",
+          "gujaratiPronunciation": "લિસન્ડ",
+          "hindiPronunciation": "लिसंड",
+          "gujaratiMeaning": "સાંભળ્યું",
+          "hindiMeaning": "सुना"
+        },
+        "V3 (Past Participle)": {
+          "word": "Listened",
+          "gujaratiPronunciation": "લિસન્ડ",
+          "hindiPronunciation": "लिसंड",
+          "gujaratiMeaning": "સાંભળેલું",
+          "hindiMeaning": "सुना हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Listening",
+          "gujaratiPronunciation": "લિસનિંગ",
+          "hindiPronunciation": "लिसनिंग",
+          "gujaratiMeaning": "સાંભળી રહ્યું છે",
+          "hindiMeaning": "सुन रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Hear",
+          "gujaratiPronunciation": "હિયર",
+          "hindiPronunciation": "हियर",
+          "gujaratiMeaning": "કાન પર પડવું",
+          "hindiMeaning": "सुनना"
+        },
+        {
+          "word": "Attend",
+          "gujaratiPronunciation": "અટેન્ડ",
+          "hindiPronunciation": "अटेंड",
+          "gujaratiMeaning": "ધ્યાન આપવું",
+          "hindiMeaning": "ध्यान देना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "अनदेखा करना"
+        },
+        {
+          "word": "Speak",
+          "gujaratiPronunciation": "સ્પીક",
+          "hindiPronunciation": "स्पीक",
+          "gujaratiMeaning": "બોલવું",
+          "hindiMeaning": "बोलना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Hear",
+          "gujaratiPronunciation": "હિયર",
+          "hindiPronunciation": "हियर",
+          "gujaratiMeaning": "અવાજ સંભળાવો",
+          "hindiMeaning": "आवाज़ सुनाई देना",
+          "difference": "Listen એટલે ધ્યાનથી સાંભળવું, જ્યારે Hear એટલે માત્ર અવાજ કાન પર પડવો."
+        },
+        {
+          "word": "Lessen",
+          "gujaratiPronunciation": "લેસન",
+          "hindiPronunciation": "लेसन",
+          "gujaratiMeaning": "ઘટાડવું",
+          "hindiMeaning": "कम करना",
+          "difference": "Listen અને Lessen ના ઉચ્ચાર સમાન લાગે છે પણ અર્થ અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Listen carefully to my instructions.",
+          "gujaratiPronunciation": "લિસન કેરફુલી ટુ માય ઇન્સ્ટ્રક્શન્સ.",
+          "hindiPronunciation": "लिसन केयरफुली टू माय इंस्ट्रक्शंस।",
+          "gujaratiTranslation": "મારી સૂચનાઓ ધ્યાનથી સાંભળો.",
+          "hindiTranslation": "मेरे निर्देशों को ध्यान से सुनो।"
+        }
+      ]
+    },
+    {
+      "word": "Whisper",
+      "gujaratiPronunciation": "વ્હિસ્પર",
+      "hindiPronunciation": "व्हिस्पर",
+      "gujaratiMeaning": "ધીમેથી કહેવું",
+      "hindiMeaning": "फुसफुसाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Whisper",
+          "gujaratiPronunciation": "વ્હિસ્પર",
+          "hindiPronunciation": "व्हिस्पर",
+          "gujaratiMeaning": "ધીમેથી કહેવું",
+          "hindiMeaning": "फुसफुसाना"
+        },
+        "V2 (Past)": {
+          "word": "Whispered",
+          "gujaratiPronunciation": "વ્હિસ્પર્ડ",
+          "hindiPronunciation": "व्हिस्पर्ड",
+          "gujaratiMeaning": "ધીમેથી કહ્યું",
+          "hindiMeaning": "फुसफुसाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Whispered",
+          "gujaratiPronunciation": "વ્હિસ્પર્ડ",
+          "hindiPronunciation": "व्हिस्पर्ड",
+          "gujaratiMeaning": "ધીમેથી કહેલું",
+          "hindiMeaning": "फुसफुसाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Whispering",
+          "gujaratiPronunciation": "વ્હિસ્પરિંગ",
+          "hindiPronunciation": "व्हिस्परिंग",
+          "gujaratiMeaning": "ધીમેથી કહી રહ્યું છે",
+          "hindiMeaning": "फुसफुसा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Murmur",
+          "gujaratiPronunciation": "મર્મર",
+          "hindiPronunciation": "मर्मर",
+          "gujaratiMeaning": "ગણગણવું",
+          "hindiMeaning": "गुनगुनाना"
+        },
+        {
+          "word": "Mutter",
+          "gujaratiPronunciation": "મટર",
+          "hindiPronunciation": "मटर",
+          "gujaratiMeaning": "બડબડવું",
+          "hindiMeaning": "बड़बड़ाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Shout",
+          "gujaratiPronunciation": "શાઉટ",
+          "hindiPronunciation": "शाउट",
+          "gujaratiMeaning": "બૂમ પાડવી",
+          "hindiMeaning": "चिल्लाना"
+        },
+        {
+          "word": "Yell",
+          "gujaratiPronunciation": "યેલ",
+          "hindiPronunciation": "येल",
+          "gujaratiMeaning": "ચીસ પાડવી",
+          "hindiMeaning": "चीखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Wiper",
+          "gujaratiPronunciation": "વાઇપર",
+          "hindiPronunciation": "वाइपर",
+          "gujaratiMeaning": "સાફ કરવાનું સાધન",
+          "hindiMeaning": "पोंछा",
+          "difference": "Whisper એટલે ધીમેથી બોલવું, Wiper એટલે સાફ કરવાનું સાધન. ઉચ્ચાર અને અર્થ અલગ છે."
+        },
+        {
+          "word": "Whistle",
+          "gujaratiPronunciation": "વ્હિસલ",
+          "hindiPronunciation": "व्हिसल",
+          "gujaratiMeaning": "સિસોટી મારવી",
+          "hindiMeaning": "सीटी बजाना",
+          "difference": "બંને અવાજ સાથે સંબંધિત છે, પણ Whisper માં શબ્દો હોય છે, Whistle માં સૂર હોય છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She leaned over and whispered something in his ear.",
+          "gujaratiPronunciation": "શી લીન્ડ ઓવર એન્ડ વ્હિસ્પર્ડ સમથિંગ ઇન હિઝ ઇયર.",
+          "hindiPronunciation": "शी लीन्ड ओवर एंड व्हिस्पर्ड समथिंग इन हिज इयर।",
+          "gujaratiTranslation": "તેણીએ ઝૂકીને તેના કાનમાં કંઈક ધીમેથી કહ્યું.",
+          "hindiTranslation": "उसने झुककर उसके कान में कुछ फुसफुसाया।"
+        }
+      ]
+    },
+    {
+      "word": "Hum",
+      "gujaratiPronunciation": "હમ",
+      "hindiPronunciation": "हम",
+      "gujaratiMeaning": "ગણગણવું",
+      "hindiMeaning": "गुनगुनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Hum",
+          "gujaratiPronunciation": "હમ",
+          "hindiPronunciation": "हम",
+          "gujaratiMeaning": "ગણગણવું",
+          "hindiMeaning": "गुनगुनाना"
+        },
+        "V2 (Past)": {
+          "word": "Hummed",
+          "gujaratiPronunciation": "હમ્ડ",
+          "hindiPronunciation": "हम्ड",
+          "gujaratiMeaning": "ગણગણ્યું",
+          "hindiMeaning": "गुनगुनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Hummed",
+          "gujaratiPronunciation": "હમ્ડ",
+          "hindiPronunciation": "हम्ड",
+          "gujaratiMeaning": "ગણગણેલું",
+          "hindiMeaning": "गुनगुनाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Humming",
+          "gujaratiPronunciation": "હમિંગ",
+          "hindiPronunciation": "हमिंग",
+          "gujaratiMeaning": "ગણગણી રહ્યું છે",
+          "hindiMeaning": "गुनगुना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Drone",
+          "gujaratiPronunciation": "ડ્રોન",
+          "hindiPronunciation": "ड्रोन",
+          "gujaratiMeaning": "એકધારું ગણગણવું",
+          "hindiMeaning": "एकस्वर में गुनगुनाना"
+        },
+        {
+          "word": "Croon",
+          "gujaratiPronunciation": "ક્રૂન",
+          "hindiPronunciation": "क्रून",
+          "gujaratiMeaning": "ધીમા અવાજે ગાવું",
+          "hindiMeaning": "धीमे स्वर में गाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Silence",
+          "gujaratiPronunciation": "સાઈલન્સ",
+          "hindiPronunciation": "साइलेंस",
+          "gujaratiMeaning": "શાંતિ",
+          "hindiMeaning": "शांति"
+        },
+        {
+          "word": "Yell",
+          "gujaratiPronunciation": "યેલ",
+          "hindiPronunciation": "येल",
+          "gujaratiMeaning": "ચીસ પાડવી",
+          "hindiMeaning": "चीखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Gum",
+          "gujaratiPronunciation": "ગમ",
+          "hindiPronunciation": "गम",
+          "gujaratiMeaning": "ગુંદર/ચ્યુઇંગ ગમ",
+          "hindiMeaning": "गोंद/च्युइंग गम",
+          "difference": "Hum એટલે ગણગણવું, જ્યારે Gum એટલે ગુંદર."
+        },
+        {
+          "word": "Ham",
+          "gujaratiPronunciation": "હેમ",
+          "hindiPronunciation": "हैम",
+          "gujaratiMeaning": "ડુક્કરનું માંસ",
+          "hindiMeaning": "सूअर का मांस",
+          "difference": "બંનેના ઉચ્ચાર અને અર્થ તદ્દન અલગ છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He was humming a tune to himself.",
+          "gujaratiPronunciation": "હી વોઝ હમિંગ અ ટ્યુન ટુ હિમસેલ્ફ.",
+          "hindiPronunciation": "ही वॉज हमिंग अ ट्यून टू हिमसेल्फ।",
+          "gujaratiTranslation": "તે મનમાં એક ધૂન ગણગણી રહ્યો હતો.",
+          "hindiTranslation": "वह अपने आप में एक धुन गुनगुना रहा था।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Analyze",
+      "gujaratiPronunciation": "એનલાઇઝ",
+      "hindiPronunciation": "एनालाइज़",
+      "gujaratiMeaning": "વિશ્લેષણ કરવું",
+      "hindiMeaning": "विश्लेषण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Analyze", "gujaratiPronunciation": "એનલાઇઝ", "hindiPronunciation": "एनालाइज़", "gujaratiMeaning": "વિશ્લેષણ કરવું", "hindiMeaning": "विश्लेषण करना" },
+        "V2 (Past Simple)": { "word": "Analyzed", "gujaratiPronunciation": "એનલાઇઝ્ડ", "hindiPronunciation": "एनालाइज़्ड", "gujaratiMeaning": "વિશ્લેષણ કર્યું", "hindiMeaning": "विश्लेषण किया" },
+        "V3 (Past Participle)": { "word": "Analyzed", "gujaratiPronunciation": "એનલાઇઝ્ડ", "hindiPronunciation": "एनालाइज़्ड", "gujaratiMeaning": "વિશ્લેષણ કરેલ", "hindiMeaning": "विश्लेषण किया हुआ" },
+        "V4 (Present Participle)": { "word": "Analyzing", "gujaratiPronunciation": "એનલાઇઝિંગ", "hindiPronunciation": "एनालाइज़िंग", "gujaratiMeaning": "વિશ્લેષણ કરી રહ્યું છે", "hindiMeaning": "विश्लेषण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एग्जामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जाँचना" },
+        { "word": "Scrutinize", "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ", "hindiPronunciation": "स्क्रूटिनाइज़", "gujaratiMeaning": "સૂક્ષ્મતાથી તપાસવું", "hindiMeaning": "बारीकी से जांचना" }
+      ],
+      "antonyms": [
+        { "word": "Synthesize", "gujaratiPronunciation": "સિન્થેસાઇઝ", "hindiPronunciation": "सिंथेसाइज़", "gujaratiMeaning": "સંશ્લેષણ કરવું", "hindiMeaning": "संश्लेषण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Annals", "gujaratiPronunciation": "એનલ્સ", "hindiPronunciation": "एनल्स", "gujaratiMeaning": "ઇતિહાસ", "hindiMeaning": "इतिहास" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The researchers will analyze the collected data.",
+          "gujaratiTranslation": "સંશોધકો એકત્રિત ડેટાનું વિશ્લેષણ કરશે.",
+          "hindiTranslation": "शोधकर्ता एकत्रित डेटा का विश्लेषण करेंगे।",
+          "gujaratiPronunciation": "ધ રિસર્ચર્સ વિલ એનલાઇઝ ધ કલેક્ટેડ ડેટા.",
+          "hindiPronunciation": "द रिसर्चर्स विल एनालाइज़ द कलेक्टेड डेटा।"
+        }
+      ]
+    },
+    {
+      "word": "Calibrate",
+      "gujaratiPronunciation": "કેલિબ્રેટ",
+      "hindiPronunciation": "कैलिब्रेट",
+      "gujaratiMeaning": "માપાંકન કરવું",
+      "hindiMeaning": "मापांकन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Calibrate", "gujaratiPronunciation": "કેલિબ્રેટ", "hindiPronunciation": "कैलिब्रेट", "gujaratiMeaning": "માપાંકન કરવું", "hindiMeaning": "मापांकन करना" },
+        "V2 (Past Simple)": { "word": "Calibrated", "gujaratiPronunciation": "કેલિબ્રેટેડ", "hindiPronunciation": "कैलिब्रेटेड", "gujaratiMeaning": "માપાંકન કર્યું", "hindiMeaning": "मापांकन किया" },
+        "V3 (Past Participle)": { "word": "Calibrated", "gujaratiPronunciation": "કેલિબ્રેટેડ", "hindiPronunciation": "कैलिब्रेटेड", "gujaratiMeaning": "માપાંકન કરેલ", "hindiMeaning": "मापांकित" },
+        "V4 (Present Participle)": { "word": "Calibrating", "gujaratiPronunciation": "કેલિબ્રેટિંગ", "hindiPronunciation": "कैलिब्रेटिंग", "gujaratiMeaning": "માપાંકન કરી રહ્યું છે", "hindiMeaning": "मापांकन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Adjust", "gujaratiPronunciation": "એડજસ્ટ", "hindiPronunciation": "एडजस्ट", "gujaratiMeaning": "ગોઠવવું", "hindiMeaning": "समायोजित करना" },
+        { "word": "Tune", "gujaratiPronunciation": "ટ્યુન", "hindiPronunciation": "ट्यून", "gujaratiMeaning": "સુમેળ કરવું", "hindiMeaning": "ठीक करना" }
+      ],
+      "antonyms": [
+        { "word": "Deregulate", "gujaratiPronunciation": "ડિરેગ્યુલેટ", "hindiPronunciation": "डिरगुलेट", "gujaratiMeaning": "નિયંત્રણમુક્ત કરવું", "hindiMeaning": "अनियमित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Celebrate", "gujaratiPronunciation": "સેલિબ્રેટ", "hindiPronunciation": "सेलिब्रेट", "gujaratiMeaning": "ઉજવણી કરવી", "hindiMeaning": "जश्न मनाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You must calibrate the instrument before use.",
+          "gujaratiTranslation": "ઉપયોગ કરતા પહેલા તમારે સાધનનું માપાંકન કરવું જ જોઈએ.",
+          "hindiTranslation": "उपयोग करने से पहले आपको उपकरण को कैलिब्रेट करना होगा।",
+          "gujaratiPronunciation": "યુ મસ્ટ કેલિબ્રેટ ધ ઇન્સ્ટ્રુમેન્ટ બિફોર યુઝ.",
+          "hindiPronunciation": "यू मस्ट कैलिब्रेट द इंस्ट्रूमेंट बिफोर यूज़।"
+        }
+      ]
+    },
+    {
+      "word": "Isolate",
+      "gujaratiPronunciation": "આઇસોલેટ",
+      "hindiPronunciation": "आइसोलेट",
+      "gujaratiMeaning": "અલગ કરવું",
+      "hindiMeaning": "अलग करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Isolate", "gujaratiPronunciation": "આઇસોલેટ", "hindiPronunciation": "आइसोलेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" },
+        "V2 (Past Simple)": { "word": "Isolated", "gujaratiPronunciation": "આઇસોલેટેડ", "hindiPronunciation": "आइसोलेटेड", "gujaratiMeaning": "અલગ કર્યું", "hindiMeaning": "अलग किया" },
+        "V3 (Past Participle)": { "word": "Isolated", "gujaratiPronunciation": "આઇસોલેટેડ", "hindiPronunciation": "आइसोलेटेड", "gujaratiMeaning": "અલગ કરેલ", "hindiMeaning": "अलग किया हुआ" },
+        "V4 (Present Participle)": { "word": "Isolating", "gujaratiPronunciation": "આઇસોલેટિંગ", "hindiPronunciation": "आइसोलेटिंग", "gujaratiMeaning": "અલગ કરી રહ્યું છે", "hindiMeaning": "अलग कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग کرنا" },
+        { "word": "Segregate", "gujaratiPronunciation": "સેગ્રીગેટ", "hindiPronunciation": "सेग्रीगेट", "gujaratiMeaning": "જુદું પાડવું", "hindiMeaning": "अलग करना" }
+      ],
+      "antonyms": [
+        { "word": "Combine", "gujaratiPronunciation": "કમ્બાઇન", "hindiPronunciation": "कंबाइन", "gujaratiMeaning": "જોડવું", "hindiMeaning": "जोड़ना" }
+      ],
+      "confusingWords": [
+        { "word": "Oscillate", "gujaratiPronunciation": "ઓસિલેટ", "hindiPronunciation": "ऑसिलेट", "gujaratiMeaning": "ડોલવું", "hindiMeaning": "हिलना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Scientists isolate the virus for further study.",
+          "gujaratiTranslation": "વૈજ્ઞાનિકો વધુ અભ્યાસ માટે વાયરસને અલગ કરે છે.",
+          "hindiTranslation": "वैज्ञानिक आगे के अध्ययन के लिए वायरस को अलग करते हैं।",
+          "gujaratiPronunciation": "સાયન્ટિસ્ટ્સ આઇસોલેટ ધ વાયરસ ફોર ફર્ધર સ્ટડી.",
+          "hindiPronunciation": "साइंटिस्ट्स आइसोलेट द वायरस फॉर फर्दर स्टडी।"
+        }
+      ]
+    },
+    {
+      "word": "Document",
+      "gujaratiPronunciation": "ડોક્યુમેન્ટ",
+      "hindiPronunciation": "डॉक्यूमेंट",
+      "gujaratiMeaning": "દસ્તાવેજીકરણ કરવું",
+      "hindiMeaning": "दस्तावेजीकरण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Document", "gujaratiPronunciation": "ડોક્યુમેન્ટ", "hindiPronunciation": "डॉक्यूमेंट", "gujaratiMeaning": "દસ્તાવેજીકરણ કરવું", "hindiMeaning": "दस्तावेजीकरण करना" },
+        "V2 (Past Simple)": { "word": "Documented", "gujaratiPronunciation": "ડોક્યુમેન્ટેડ", "hindiPronunciation": "डॉक्यूमेंटेड", "gujaratiMeaning": "દસ્તાવેજીકરણ કર્યું", "hindiMeaning": "दस्तावेजीकरण किया" },
+        "V3 (Past Participle)": { "word": "Documented", "gujaratiPronunciation": "ડોક્યુમેન્ટેડ", "hindiPronunciation": "डॉक्यूमेंटेड", "gujaratiMeaning": "દસ્તાવેજીકરણ કરેલ", "hindiMeaning": "प्रलेखित" },
+        "V4 (Present Participle)": { "word": "Documenting", "gujaratiPronunciation": "ડોક્યુમેન્ટિંગ", "hindiPronunciation": "डॉक्यूमेंटिंग", "gujaratiMeaning": "દસ્તાવેજીકરણ કરી રહ્યું છે", "hindiMeaning": "दस्तावेजीकरण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Record", "gujaratiPronunciation": "રેકોર્ડ", "hindiPronunciation": "रिकॉर्ड", "gujaratiMeaning": "નોંધવું", "hindiMeaning": "दर्ज करना" },
+        { "word": "Register", "gujaratiPronunciation": "રજિસ્ટર", "hindiPronunciation": "रजिस्टर", "gujaratiMeaning": "નોંધણી કરવી", "hindiMeaning": "पंजीकृत करना" }
+      ],
+      "antonyms": [
+        { "word": "Delete", "gujaratiPronunciation": "ડિલીટ", "hindiPronunciation": "डिलीट", "gujaratiMeaning": "ભૂંસી નાખવું", "hindiMeaning": "मिटाना" }
+      ],
+      "confusingWords": [
+        { "word": "Dormant", "gujaratiPronunciation": "ડોર્મન્ટ", "hindiPronunciation": "डॉर्मेंट", "gujaratiMeaning": "નિષ્ક્રિય", "hindiMeaning": "निष्क्रिय" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It's important to document all your findings.",
+          "gujaratiTranslation": "તમારા બધા તારણોનું દસ્તાવેજીકરણ કરવું મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "अपने सभी निष्कर्षों का दस्तावेजीकरण करना महत्वपूर्ण है।",
+          "gujaratiPronunciation": "ઇટ્સ ઇમ્પોર્ટન્ટ ટુ ડોક્યુમેન્ટ ઓલ યોર ફાઇન્ડિંગ્સ.",
+          "hindiPronunciation": "इट्स इम्पोर्टेंट टू डॉक्यूमेंट ऑल योर फाइंडिंग्स।"
+        }
+      ]
+    },
+    {
+      "word": "Validate",
+      "gujaratiPronunciation": "વેલિડેટ",
+      "hindiPronunciation": "वैलिडेट",
+      "gujaratiMeaning": "માન્ય કરવું",
+      "hindiMeaning": "मान्य करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Validate", "gujaratiPronunciation": "વેલિડેટ", "hindiPronunciation": "वैलिडेट", "gujaratiMeaning": "માન્ય કરવું", "hindiMeaning": "मान्य करना" },
+        "V2 (Past Simple)": { "word": "Validated", "gujaratiPronunciation": "વેલિડેટેડ", "hindiPronunciation": "वैलिडेटेड", "gujaratiMeaning": "માન્ય કર્યું", "hindiMeaning": "मान्य किया" },
+        "V3 (Past Participle)": { "word": "Validated", "gujaratiPronunciation": "વેલિડેટેડ", "hindiPronunciation": "वैलिडेटेड", "gujaratiMeaning": "માન્ય કરેલ", "hindiMeaning": "मान्य किया हुआ" },
+        "V4 (Present Participle)": { "word": "Validating", "gujaratiPronunciation": "વેલિડેટિંગ", "hindiPronunciation": "वैलिडेटिंग", "gujaratiMeaning": "માન્ય કરી રહ્યું છે", "hindiMeaning": "मान्य कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" },
+        { "word": "Verify", "gujaratiPronunciation": "વેરિફાય", "hindiPronunciation": "वेरीफाई", "gujaratiMeaning": "ચકાસણી કરવી", "hindiMeaning": "सत्यापित करना" }
+      ],
+      "antonyms": [
+        { "word": "Invalidate", "gujaratiPronunciation": "ઇનવેલિડેટ", "hindiPronunciation": "इनवैलिडेट", "gujaratiMeaning": "અમાન્ય કરવું", "hindiMeaning": "अमान्य करना" }
+      ],
+      "confusingWords": [
+        { "word": "Volatile", "gujaratiPronunciation": "વોલેટાઇલ", "hindiPronunciation": "वोलेटाइल", "gujaratiMeaning": "અસ્થિર", "hindiMeaning": "अस्थिर" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "An external expert was asked to validate the results.",
+          "gujaratiTranslation": "પરિણામોને માન્ય કરવા માટે બાહ્ય નિષ્ણાતને કહેવામાં આવ્યું હતું.",
+          "hindiTranslation": "परिणामों को मान्य करने के लिए एक बाहरी विशेषज्ञ से कहा गया था।",
+          "gujaratiPronunciation": "એન એક્સટર્નલ એક્સપર્ટ વોઝ આસ્ક્ડ ટુ વેલિડેટ ધ રિઝલ્ટ્સ.",
+          "hindiPronunciation": "एन एक्सटर्नल एक्सपर्ट वाज़ आस्क्ड टू वैलिडेट द रिजल्ट्स।"
+        }
+      ]
+    }
+  ]
+}

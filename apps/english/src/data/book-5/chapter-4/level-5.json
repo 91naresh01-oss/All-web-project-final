@@ -1,0 +1,324 @@
+{
+  "id": "level-5",
+  "title": "Level 5: Comm. & Digital",
+  "words": [
+    {
+      "word": "Render",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "રેન્ડર",
+      "hindiPronunciation": "रेंडर",
+      "gujaratiMeaning": "પ્રસ્તુત કરવું, બનાવવું (ખાસ કરીને ગ્રાફિક્સ)",
+      "hindiMeaning": "प्रस्तुत करना, बनाना (विशेषकर ग्राफिक्स)",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Render",
+          "gujaratiPronunciation": "રેન્ડર",
+          "hindiPronunciation": "रेंडर",
+          "gujaratiMeaning": "પ્રસ્તુત કરવું",
+          "hindiMeaning": "प्रस्तुत करना"
+        },
+        "v2 (Past)": {
+          "word": "Rendered",
+          "gujaratiPronunciation": "રેન્ડર્ડ",
+          "hindiPronunciation": "रेंडर्ड",
+          "gujaratiMeaning": "પ્રસ્તુત કર્યું",
+          "hindiMeaning": "प्रस्तुत किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Rendered",
+          "gujaratiPronunciation": "રેન્ડર્ડ",
+          "hindiPronunciation": "रेंडर्ड",
+          "gujaratiMeaning": "પ્રસ્તુત કરેલું",
+          "hindiMeaning": "प्रस्तुत किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Rendering",
+          "gujaratiPronunciation": "રેન્ડરિંગ",
+          "hindiPronunciation": "रेंडरिंग",
+          "gujaratiMeaning": "પ્રસ્તુત કરી રહ્યું છે",
+          "hindiMeaning": "प्रस्तुत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Create",
+          "gujaratiPronunciation": "ક્રિએટ",
+          "hindiPronunciation": "क्रिएट",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Display",
+          "gujaratiPronunciation": "ડિસ્પ્લે",
+          "hindiPronunciation": "डिस्प्ले",
+          "gujaratiMeaning": "પ્રદર્શિત કરવું",
+          "hindiMeaning": "प्रदर्शित करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The 3D model took a long time to render.",
+          "gujaratiTranslation": "3D મોડેલને રેન્ડર થવામાં ઘણો સમય લાગ્યો.",
+          "hindiTranslation": "3D मॉडल को रेंडर होने में बहुत समय लगा।"
+        }
+      ]
+    },
+    {
+      "word": "Pixelate",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "પિક્સલેટ",
+      "hindiPronunciation": "पिक्सलेट",
+      "gujaratiMeaning": "ચિત્રનું પિક્સલમાં વિભાજિત થવું",
+      "hindiMeaning": "चित्र का पिक्सल में विभाजित होना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Pixelate",
+          "gujaratiPronunciation": "પિક્સલેટ",
+          "hindiPronunciation": "पिक्सलेट",
+          "gujaratiMeaning": "પિક્સલેટ થવું",
+          "hindiMeaning": "पिक्सलेट होना"
+        },
+        "v2 (Past)": {
+          "word": "Pixelated",
+          "gujaratiPronunciation": "પિક્સલેટેડ",
+          "hindiPronunciation": "पिक्सलेटेड",
+          "gujaratiMeaning": "પિક્સલેટ થયું",
+          "hindiMeaning": "पिक्सलेट हुआ"
+        },
+        "v3 (Past Participle)": {
+          "word": "Pixelated",
+          "gujaratiPronunciation": "પિક્સલેટેડ",
+          "hindiPronunciation": "पिक्सलेटेड",
+          "gujaratiMeaning": "પિક્સલેટ થયેલું",
+          "hindiMeaning": "पिक्सलेट हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Pixelating",
+          "gujaratiPronunciation": "પિક્સલેટિંગ",
+          "hindiPronunciation": "पिक्सलेटिंग",
+          "gujaratiMeaning": "પિક્સલેટ થઈ રહ્યું છે",
+          "hindiMeaning": "पिक्सलेट हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Blur",
+          "gujaratiPronunciation": "બ્લર",
+          "hindiPronunciation": "ब्लर",
+          "gujaratiMeaning": "ઝાંખું થવું",
+          "hindiMeaning": "धुंधला होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Sharpen",
+          "gujaratiPronunciation": "શાર્પન",
+          "hindiPronunciation": "शार्पन",
+          "gujaratiMeaning": "તીક્ષ્ણ કરવું",
+          "hindiMeaning": "तेज करना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "When you zoom in too much, the image starts to pixelate.",
+          "gujaratiTranslation": "જ્યારે તમે ખૂબ ઝૂમ કરો છો, ત્યારે છબી પિક્સલેટ થવા લાગે છે.",
+          "hindiTranslation": "जब आप बहुत अधिक ज़ूम करते हैं, तो छवि पिक्सलेट होने लगती है।"
+        }
+      ]
+    },
+    {
+      "word": "Buffer",
+      "partOfSpeech": "verb/noun",
+      "gujaratiPronunciation": "બફર",
+      "hindiPronunciation": "बफर",
+      "gujaratiMeaning": "ડેટાનો અસ્થાયી સંગ્રહ કરવો",
+      "hindiMeaning": "डेटा का अस्थायी भंडारण करना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Buffer",
+          "gujaratiPronunciation": "બફર",
+          "hindiPronunciation": "बफर",
+          "gujaratiMeaning": "બફર કરવું",
+          "hindiMeaning": "बफर करना"
+        },
+        "v2 (Past)": {
+          "word": "Buffered",
+          "gujaratiPronunciation": "બફર્ડ",
+          "hindiPronunciation": "बफर्ड",
+          "gujaratiMeaning": "બફર કર્યું",
+          "hindiMeaning": "बफर किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Buffered",
+          "gujaratiPronunciation": "બફર્ડ",
+          "hindiPronunciation": "बफर्ड",
+          "gujaratiMeaning": "બફર કરેલું",
+          "hindiMeaning": "बफर किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Buffering",
+          "gujaratiPronunciation": "બફરિંગ",
+          "hindiPronunciation": "बफरिंग",
+          "gujaratiMeaning": "બફર કરી રહ્યું છે",
+          "hindiMeaning": "बफर कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Cache",
+          "gujaratiPronunciation": "કેશ",
+          "hindiPronunciation": "कैश",
+          "gujaratiMeaning": "કેશ કરવું",
+          "hindiMeaning": "कैश करना"
+        },
+        {
+          "word": "Store",
+          "gujaratiPronunciation": "સ્ટોર",
+          "hindiPronunciation": "स्टोर",
+          "gujaratiMeaning": "સંગ્રહ કરવો",
+          "hindiMeaning": "भंडारण करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The video stopped to buffer due to a slow internet connection.",
+          "gujaratiTranslation": "ધીમા ઇન્ટરનેટ કનેક્શનને કારણે વિડિઓ બફર કરવા માટે અટકી ગયો.",
+          "hindiTranslation": "धीमे इंटरनेट कनेक्शन के कारण वीडियो बफर करने के लिए रुक गया।"
+        }
+      ]
+    },
+    {
+      "word": "Interact",
+      "partOfSpeech": "verb",
+      "gujaratiPronunciation": "ઇન્ટરેક્ટ",
+      "hindiPronunciation": "इंटरेक्ट",
+      "gujaratiMeaning": "પરસ્પર ક્રિયા કરવી",
+      "hindiMeaning": "परस्पर क्रिया करना, बातचीत करना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Interact",
+          "gujaratiPronunciation": "ઇન્ટરેક્ટ",
+          "hindiPronunciation": "इंटरेक्ट",
+          "gujaratiMeaning": "પરસ્પર ક્રિયા કરવી",
+          "hindiMeaning": "बातचीत करना"
+        },
+        "v2 (Past)": {
+          "word": "Interacted",
+          "gujaratiPronunciation": "ઇન્ટરેક્ટેડ",
+          "hindiPronunciation": "इंटरेक्टेड",
+          "gujaratiMeaning": "પરસ્પર ક્રિયા કરી",
+          "hindiMeaning": "बातचीत की"
+        },
+        "v3 (Past Participle)": {
+          "word": "Interacted",
+          "gujaratiPronunciation": "ઇન્ટરેક્ટેડ",
+          "hindiPronunciation": "इंटरेक्टेड",
+          "gujaratiMeaning": "પરસ્પર ક્રિયા કરેલી",
+          "hindiMeaning": "बातचीत की हुई"
+        },
+        "v4 (Present Participle)": {
+          "word": "Interacting",
+          "gujaratiPronunciation": "ઇન્ટરેક્ટિંગ",
+          "hindiPronunciation": "इंटरेक्टिंग",
+          "gujaratiMeaning": "પરસ્પર ક્રિયા કરી રહ્યું છે",
+          "hindiMeaning": "बातचीत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Communicate",
+          "gujaratiPronunciation": "કમ્યુનિકેટ",
+          "hindiPronunciation": "कम्युनिकेट",
+          "gujaratiMeaning": "વાતચીત કરવી",
+          "hindiMeaning": "संवाद करना"
+        },
+        {
+          "word": "Engage",
+          "gujaratiPronunciation": "એન્ગેજ",
+          "hindiPronunciation": "एंगेज",
+          "gujaratiMeaning": "જોડાવું",
+          "hindiMeaning": "जुड़ना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The website allows users to interact with the content.",
+          "gujaratiTranslation": "આ વેબસાઇટ વપરાશકર્તાઓને કન્ટેન્ટ સાથે ઇન્ટરેક્ટ કરવાની મંજૂરી આપે છે.",
+          "hindiTranslation": "यह वेबसाइट उपयोगकर्ताओं को सामग्री के साथ इंटरैक्ट करने की अनुमति देती है।"
+        }
+      ]
+    },
+    {
+      "word": "Ping",
+      "partOfSpeech": "verb/noun",
+      "gujaratiPronunciation": "પિંગ",
+      "hindiPronunciation": "पिंग",
+      "gujaratiMeaning": "નેટવર્ક કનેક્શન તપાસવા માટે સિગ્નલ મોકલવો",
+      "hindiMeaning": "नेटवर्क कनेक्शन की जांच के लिए सिग्नल भेजना",
+      "verbForms": {
+        "v1 (Base)": {
+          "word": "Ping",
+          "gujaratiPronunciation": "પિંગ",
+          "hindiPronunciation": "पिंग",
+          "gujaratiMeaning": "પિંગ કરવું",
+          "hindiMeaning": "पिंग करना"
+        },
+        "v2 (Past)": {
+          "word": "Pinged",
+          "gujaratiPronunciation": "પિંગ્ડ",
+          "hindiPronunciation": "पिंग किया",
+          "gujaratiMeaning": "પિંગ કર્યું",
+          "hindiMeaning": "पिंग किया"
+        },
+        "v3 (Past Participle)": {
+          "word": "Pinged",
+          "gujaratiPronunciation": "પિંગ્ડ",
+          "hindiPronunciation": "पिंग किया",
+          "gujaratiMeaning": "પિંગ કરેલું",
+          "hindiMeaning": "पिंग किया हुआ"
+        },
+        "v4 (Present Participle)": {
+          "word": "Pinging",
+          "gujaratiPronunciation": "પિંગિંગ",
+          "hindiPronunciation": "पिंगिंग",
+          "gujaratiMeaning": "પિંગ કરી રહ્યું છે",
+          "hindiMeaning": "पिंग कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Signal",
+          "gujaratiPronunciation": "સિગ્નલ",
+          "hindiPronunciation": "सिग्नल",
+          "gujaratiMeaning": "સંકેત",
+          "hindiMeaning": "संकेत"
+        },
+        {
+          "word": "Contact",
+          "gujaratiPronunciation": "કોન્ટેક્ટ",
+          "hindiPronunciation": "कांटेक्ट",
+          "gujaratiMeaning": "સંપર્ક કરવો",
+          "hindiMeaning": "संपर्क करना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Can you ping the server to see if it's online?",
+          "gujaratiTranslation": "શું તમે સર્વરને પિંગ કરીને જોઈ શકો છો કે તે ઓનલાઈન છે?",
+          "hindiTranslation": "क्या आप सर्वर को पिंग करके देख सकते हैं कि यह ऑनलाइन है या नहीं?"
+        }
+      ]
+    }
+  ]
+}
+
+    

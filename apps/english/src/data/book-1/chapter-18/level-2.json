@@ -1,0 +1,11 @@
+{
+    "id": "level-2",
+    "title": "Public & Goods Transport",
+    "words": [
+        { "word": "Plane", "icon": "✈️", "gujaratiMeaning": "વિમાન", "hindiMeaning": "विमान", "gujaratiPronunciation": "પ્લેન", "hindiPronunciation": "प्लेन" },
+        { "word": "Taxi", "icon": "🚕", "gujaratiMeaning": "ટેક્સી", "hindiMeaning": "टैक्सी", "gujaratiPronunciation": "ટેક્સી", "hindiPronunciation": "टैक्सी" },
+        { "word": "Truck", "icon": "🚚", "gujaratiMeaning": "ટ્રક", "hindiMeaning": "ट्रक", "gujaratiPronunciation": "ટ્રક", "hindiPronunciation": "ट्रक" },
+        { "word": "Jeep", "icon": "🚙", "gujaratiMeaning": "જીપ", "hindiMeaning": "जीप", "gujaratiPronunciation": "જીપ", "hindiPronunciation": "जीप" },
+        { "word": "Van", "icon": "🚐", "gujaratiMeaning": "વાન", "hindiMeaning": "वैन", "gujaratiPronunciation": "વાન", "hindiPronunciation": "वैन" }
+    ]
+}

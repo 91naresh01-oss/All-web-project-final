@@ -1,0 +1,148 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Sustain",
+      "gujaratiPronunciation": "સસ્ટેન",
+      "hindiPronunciation": "सस्टेन",
+      "gujaratiMeaning": "ટકી રહેવું",
+      "hindiMeaning": "बनाए रखना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Sustain", "gujaratiPronunciation": "સસ્ટેન", "hindiPronunciation": "सस्टेन", "gujaratiMeaning": "ટકી રહેવું", "hindiMeaning": "बनाए रखना" },
+        "V2 (Past)": { "word": "Sustained", "gujaratiPronunciation": "સસ્ટેન્ડ", "hindiPronunciation": "सस्टेंड", "gujaratiMeaning": "ટકી રહ્યું", "hindiMeaning": "बनाए रखा" },
+        "V3 (Past Participle)": { "word": "Sustained", "gujaratiPronunciation": "સસ્ટેન્ડ", "hindiPronunciation": "सस्टेंड", "gujaratiMeaning": "ટકી રહેલું", "hindiMeaning": "बनाए रखा हुआ" },
+        "V4 (Present Participle)": { "word": "Sustaining", "gujaratiPronunciation": "સસ્ટેનિંગ", "hindiPronunciation": "सस्टेनिंग", "gujaratiMeaning": "ટકી રહ્યું છે", "hindiMeaning": "बनाए रख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Maintain", "gujaratiPronunciation": "મેઇન્ટેન", "hindiPronunciation": "मेंटेन", "gujaratiMeaning": "જાળવી રાખવું", "hindiMeaning": "बनाए रखना" },
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "આધાર આપવો", "hindiMeaning": "सहारा देना" }
+      ],
+      "antonyms": [
+        { "word": "Abandon", "gujaratiPronunciation": "અબૅન્ડન", "hindiPronunciation": "अबैंडन", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "छोड़ देना" },
+        { "word": "Halt", "gujaratiPronunciation": "હોલ્ટ", "hindiPronunciation": "हॉल्ट", "gujaratiMeaning": "અટકાવવું", "hindiMeaning": "रोकना" }
+      ],
+      "confusingWords": [
+        { "word": "Stain", "gujaratiPronunciation": "સ્ટેઇન", "hindiPronunciation": "स्टेन", "gujaratiMeaning": "ડાઘ", "hindiMeaning": "धब्बा" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Sustainable farming practices help to sustain the environment.", "gujaratiPronunciation": "સસ્ટેનેબલ ફાર્મિંગ પ્રેક્ટિસિસ હેલ્પ ટુ સસ્ટેન ધ એન્વાયર્નમેન્ટ.", "hindiPronunciation": "सस्टेनेबल फार्मिंग प्रैक्टिसेस हेल्प टू सस्टेन द एनवायरनमेंट।", "gujaratiTranslation": "ટકાઉ ખેતી પદ્ધતિઓ પર્યાવરણને ટકાવી રાખવામાં મદદ કરે છે.", "hindiTranslation": "टिकाऊ कृषि पद्धतियाँ पर्यावरण को बनाए रखने में मदद करती हैं।" }
+      ]
+    },
+    {
+      "word": "Abide",
+      "gujaratiPronunciation": "અબાઇડ",
+      "hindiPronunciation": "अबाईड",
+      "gujaratiMeaning": "પાલન કરવું",
+      "hindiMeaning": "पालन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Abide", "gujaratiPronunciation": "અબાઇડ", "hindiPronunciation": "अबाईड", "gujaratiMeaning": "પાલન કરવું", "hindiMeaning": "पालन करना" },
+        "V2 (Past)": { "word": "Abode/Abided", "gujaratiPronunciation": "અબોડ/અબાઇડેડ", "hindiPronunciation": "अबॉड/अबाईडेड", "gujaratiMeaning": "પાલન કર્યું", "hindiMeaning": "पालन किया" },
+        "V3 (Past Participle)": { "word": "Abode/Abided", "gujaratiPronunciation": "અબોડ/અબાઇડેડ", "hindiPronunciation": "अबॉड/अबाईडेड", "gujaratiMeaning": "પાલન કરેલું", "hindiMeaning": "पालन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Abiding", "gujaratiPronunciation": "અબાઇડિંગ", "hindiPronunciation": "अबाईडिंग", "gujaratiMeaning": "પાલન કરી રહ્યું છે", "hindiMeaning": "पालन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Obey", "gujaratiPronunciation": "ઓબે", "hindiPronunciation": "ओबे", "gujaratiMeaning": "આજ્ઞાનું પાલન કરવું", "hindiMeaning": "आज्ञा का पालन करना" },
+        { "word": "Follow", "gujaratiPronunciation": "ફોલો", "hindiPronunciation": "फॉलो", "gujaratiMeaning": "અનુસરવું", "hindiMeaning": "अनुसरण करना" }
+      ],
+      "antonyms": [
+        { "word": "Violate", "gujaratiPronunciation": "વાયોલેટ", "hindiPronunciation": "वायोलेट", "gujaratiMeaning": "ભંગ કરવો", "hindiMeaning": "उल्लंघन करना" },
+        { "word": "Disobey", "gujaratiPronunciation": "ડિસઓબે", "hindiPronunciation": "डिसओबे", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अवज्ञा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Aboard", "gujaratiPronunciation": "અબોર્ડ", "hindiPronunciation": "अबॉर्ड", "gujaratiMeaning": "વહાણ પર", "hindiMeaning": "जहाज पर" }
+      ],
+      "exampleSentences": [
+        { "sentence": "You must abide by the rules of the farm.", "gujaratiPronunciation": "યુ મસ્ટ અબાઇડ બાય ધ રૂલ્સ ઓફ ધ ફાર્મ.", "hindiPronunciation": "यू मस्ट अबाईड बाय द रूल्स ऑफ द फार्म।", "gujaratiTranslation": "તમારે ખેતરના નિયમોનું પાલન કરવું જ જોઈએ.", "hindiTranslation": "आपको खेत के नियमों का पालन करना होगा।" }
+      ]
+    },
+    {
+      "word": "Cull",
+      "gujaratiPronunciation": "કલ",
+      "hindiPronunciation": "कल",
+      "gujaratiMeaning": "પસંદ કરીને કાઢી નાખવું",
+      "hindiMeaning": "चुनकर निकालना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Cull", "gujaratiPronunciation": "કલ", "hindiPronunciation": "कल", "gujaratiMeaning": "પસંદ કરીને કાઢી નાખવું", "hindiMeaning": "चुनकर निकालना" },
+        "V2 (Past)": { "word": "Culled", "gujaratiPronunciation": "કલ્ડ", "hindiPronunciation": "कल्ल्ड", "gujaratiMeaning": "કાઢી નાખ્યું", "hindiMeaning": "निकाल दिया" },
+        "V3 (Past Participle)": { "word": "Culled", "gujaratiPronunciation": "કલ્ડ", "hindiPronunciation": "कल्ल्ड", "gujaratiMeaning": "કાઢી નાખેલું", "hindiMeaning": "निकाल दिया हुआ" },
+        "V4 (Present Participle)": { "word": "Culling", "gujaratiPronunciation": "કલિંગ", "hindiPronunciation": "कलिंग", "gujaratiMeaning": "કાઢી રહ્યું છે", "hindiMeaning": "निकाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Select", "gujaratiPronunciation": "સિલેક્ટ", "hindiPronunciation": "सिलेक्ट", "gujaratiMeaning": "પસંદ કરવું", "hindiMeaning": "चुनना" },
+        { "word": "Remove", "gujaratiPronunciation": "રિમૂવ", "hindiPronunciation": "रिमूव", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" }
+      ],
+      "antonyms": [
+        { "word": "Keep", "gujaratiPronunciation": "કીપ", "hindiPronunciation": "कीप", "gujaratiMeaning": "રાખવું", "hindiMeaning": "रखना" },
+        { "word": "Include", "gujaratiPronunciation": "ઇન્ક્લુડ", "hindiPronunciation": "इन्क्लूड", "gujaratiMeaning": "સમાવેશ કરવો", "hindiMeaning": "शामिल करना" }
+      ],
+      "confusingWords": [
+        { "word": "Call", "gujaratiPronunciation": "કોલ", "hindiPronunciation": "कॉल", "gujaratiMeaning": "બોલાવવું", "hindiMeaning": "बुलाना" },
+        { "word": "Skull", "gujaratiPronunciation": "સ્કલ", "hindiPronunciation": "स्कल", "gujaratiMeaning": "ખોપરી", "hindiMeaning": "खोपड़ी" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The farmer had to cull the weaker plants to ensure a good harvest.", "gujaratiPronunciation": "ધ ફાર્મર હેડ ટુ કલ ધ વીકર પ્લાન્ટ્સ ટુ એન્શ્યોર અ ગુડ હાર્વેસ્ટ.", "hindiPronunciation": "द फार्मर हैड टू कल द वीकर प्लांट्स टू एन्श्योर अ गुड हार्वेस्ट।", "gujaratiTranslation": "સારી લણણી સુનિશ્ચિત કરવા માટે ખેડૂતને નબળા છોડને કાઢી નાખવા પડ્યા.", "hindiTranslation": "अच्छी फसल सुनिश्चित करने के लिए किसान को कमजोर पौधों को निकालना पड़ा।" }
+      ]
+    },
+    {
+      "word": "Nourish",
+      "gujaratiPronunciation": "નરિશ",
+      "hindiPronunciation": "नरिश",
+      "gujaratiMeaning": "પોષણ આપવું",
+      "hindiMeaning": "पोषण देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Nourish", "gujaratiPronunciation": "નરિશ", "hindiPronunciation": "नरिश", "gujaratiMeaning": "પોષણ આપવું", "hindiMeaning": "पोषण देना" },
+        "V2 (Past)": { "word": "Nourished", "gujaratiPronunciation": "નરિશ્ડ", "hindiPronunciation": "नरिश्ड", "gujaratiMeaning": "પોષણ આપ્યું", "hindiMeaning": "पोषण दिया" },
+        "V3 (Past Participle)": { "word": "Nourished", "gujaratiPronunciation": "નરિશ્ડ", "hindiPronunciation": "नरिश्ड", "gujaratiMeaning": "પોષણ આપેલું", "hindiMeaning": "पोषित" },
+        "V4 (Present Participle)": { "word": "Nourishing", "gujaratiPronunciation": "નરિશિંગ", "hindiPronunciation": "नरिशिंग", "gujaratiMeaning": "પોષણ આપી રહ્યું છે", "hindiMeaning": "पोषण दे रहा है" }
+      },
+      "synonyms": [
+        { "word": "Feed", "gujaratiPronunciation": "ફીડ", "hindiPronunciation": "फीड", "gujaratiMeaning": "ખવડાવવું", "hindiMeaning": "खिलाना" },
+        { "word": "Sustain", "gujaratiPronunciation": "સસ્ટેન", "hindiPronunciation": "सस्टेन", "gujaratiMeaning": "ટકી રહેવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "antonyms": [
+        { "word": "Starve", "gujaratiPronunciation": "સ્ટાર્વ", "hindiPronunciation": "स्टार्व", "gujaratiMeaning": "ભૂખે મરવું", "hindiMeaning": "भूखा मारना" },
+        { "word": "Deprive", "gujaratiPronunciation": "ડિપ્રાઇવ", "hindiPronunciation": "डिप्राईव", "gujaratiMeaning": "વંચિત કરવું", "hindiMeaning": "वंचित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Norris", "gujaratiPronunciation": "નોરિસ", "hindiPronunciation": "नॉरिस", "gujaratiMeaning": "એક નામ", "hindiMeaning": "एक नाम" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Compost helps to nourish the soil.", "gujaratiPronunciation": "કમ્પોસ્ટ હેલ્પ્સ ટુ નરિશ ધ સોઇલ.", "hindiPronunciation": "कम्पोस्ट हेल्प्स टू नरिश द सॉइल।", "gujaratiTranslation": "ખાતર જમીનને પોષણ આપવામાં મદદ કરે છે.", "hindiTranslation": "खाद मिट्टी को पोषण देने में मदद करती है।" }
+      ]
+    },
+    {
+      "word": "Husband",
+      "gujaratiPronunciation": "હસબન્ડ",
+      "hindiPronunciation": "हसबैंड",
+      "gujaratiMeaning": "કાળજીપૂર્વક સંચાલન કરવું",
+      "hindiMeaning": "सावधानी से प्रबंधन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Husband", "gujaratiPronunciation": "હસબન્ડ", "hindiPronunciation": "हसबैंड", "gujaratiMeaning": "કાળજીપૂર્વક સંચાલન કરવું", "hindiMeaning": "सावधानी से प्रबंधन करना" },
+        "V2 (Past)": { "word": "Husbanded", "gujaratiPronunciation": "હસબન્ડેડ", "hindiPronunciation": "हसबैंडेड", "gujaratiMeaning": "સંચાલન કર્યું", "hindiMeaning": "प्रबंधन किया" },
+        "V3 (Past Participle)": { "word": "Husbanded", "gujaratiPronunciation": "હસબન્ડેડ", "hindiPronunciation": "हसबैंडेड", "gujaratiMeaning": "સંચાલન કરેલું", "hindiMeaning": "प्रबंधित" },
+        "V4 (Present Participle)": { "word": "Husbanding", "gujaratiPronunciation": "હસબન્ડિંગ", "hindiPronunciation": "हसबैंडिंग", "gujaratiMeaning": "સંચાલન કરી રહ્યું છે", "hindiMeaning": "प्रबंधन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Conserve", "gujaratiPronunciation": "કન્ઝર્વ", "hindiPronunciation": "कंजर्व", "gujaratiMeaning": "સંરક્ષણ કરવું", "hindiMeaning": "संरक्षण करना" },
+        { "word": "Manage", "gujaratiPronunciation": "મેનેજ", "hindiPronunciation": "मैनेज", "gujaratiMeaning": "સંચાલન કરવું", "hindiMeaning": "प्रबंधन करना" }
+      ],
+      "antonyms": [
+        { "word": "Waste", "gujaratiPronunciation": "વેસ્ટ", "hindiPronunciation": "वेस्ट", "gujaratiMeaning": "બગાડ કરવો", "hindiMeaning": "बर्बाद करना" },
+        { "word": "Squander", "gujaratiPronunciation": "સ્કવોન્ડર", "hindiPronunciation": "स्क्वांडर", "gujaratiMeaning": "ઉડાવી દેવું", "hindiMeaning": "गंवाना" }
+      ],
+      "confusingWords": [
+        { "word": "Husband (noun)", "gujaratiPronunciation": "હસબન્ડ", "hindiPronunciation": "हसबैंड", "gujaratiMeaning": "પતિ", "hindiMeaning": "पति" }
+      ],
+      "exampleSentences": [
+        { "sentence": "A good farmer must husband their resources carefully.", "gujaratiPronunciation": "અ ગુડ ફાર્મર મસ્ટ હસબન્ડ ધેર રિસોર્સિસ કેરફુલી.", "hindiPronunciation": "अ गुड फार्मर मस्ट हसबैंड देयर रिसोर्सेज केयरफुली।", "gujaratiTranslation": "એક સારા ખેડૂતે તેમના સંસાધનોનું કાળજીપૂર્વક સંચાલન કરવું જોઈએ.", "hindiTranslation": "एक अच्छे किसान को अपने संसाधनों का सावधानीपूर्वक प्रबंधन करना चाहिए।" }
+      ]
+    }
+  ]
+}
+    

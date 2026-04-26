@@ -1,0 +1,151 @@
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Strategize",
+      "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝ",
+      "hindiPronunciation": "स्ट्रेटेबाइज",
+      "gujaratiMeaning": "વ્યૂહરચના બનાવવી",
+      "hindiMeaning": "रणनीति बनाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Strategize", "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝ", "hindiPronunciation": "स्ट्रेटेबाइज", "gujaratiMeaning": "વ્યૂહરચના બનાવવી", "hindiMeaning": "रणनीति बनाना" },
+        "V2 (Past)": { "word": "Strategized", "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝ્ડ", "hindiPronunciation": "स्ट्रेटेबाइज़्ड", "gujaratiMeaning": "વ્યૂહરચના બનાવી", "hindiMeaning": "रणनीति बनाई" },
+        "V3 (Past Participle)": { "word": "Strategized", "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝ્ડ", "hindiPronunciation": "स्ट्रेटेबाइज़्ड", "gujaratiMeaning": "વ્યૂહરચના બનાવેલી", "hindiMeaning": "रणनीति बनाई हुई" },
+        "V4 (Present Participle)": { "word": "Strategizing", "gujaratiPronunciation": "સ્ટ્રેટેજાઇઝિંગ", "hindiPronunciation": "स्ट्रेटेबाइजिंग", "gujaratiMeaning": "વ્યૂહરચના બનાવી રહ્યું છે", "hindiMeaning": "रणनीति बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Plan", "gujaratiPronunciation": "પ્લાન", "hindiPronunciation": "प्लान", "gujaratiMeaning": "યોજના બનાવવી", "hindiMeaning": "योजना बनाना" },
+        { "word": "Maneuver", "gujaratiPronunciation": "મેનુવર", "hindiPronunciation": "मैनुवर", "gujaratiMeaning": "દાવપેચ કરવો", "hindiMeaning": "पैंतरेबाज़ी करना" }
+      ],
+      "antonyms": [
+        { "word": "React", "gujaratiPronunciation": "રિએક્ટ", "hindiPronunciation": "रिएक्ट", "gujaratiMeaning": "પ્રતિક્રિયા આપવી", "hindiMeaning": "प्रतिक्रिया देना" },
+        { "word": "Improvise", "gujaratiPronunciation": "ઇમ્પ્રોવાઇઝ", "hindiPronunciation": "इम्प्रोवाइज", "gujaratiMeaning": "તાત્કાલિક ગોઠવણ કરવી", "hindiMeaning": "तत्काल व्यवस्था करना" }
+      ],
+      "confusingWords": [
+        { "word": "Tragedize", "gujaratiPronunciation": "ટ્રેજેડાઇઝ", "hindiPronunciation": "ट्रैजेडाइज", "gujaratiMeaning": "દુઃખદ બનાવવું", "hindiMeaning": "दुखद बनाना" },
+        { "word": "Sanitize", "gujaratiPronunciation": "સેનિટાઇઝ", "hindiPronunciation": "सैनिटाइज", "gujaratiMeaning": "સ્વચ્છ કરવું", "hindiMeaning": "स्वच्छ करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The general needed time to strategize before the battle.", "gujaratiPronunciation": "ધ જનરલ નીડેડ ટાઈમ ટુ સ્ટ્રેટેજાઈઝ બિફોર ધ બેટલ.", "hindiPronunciation": "द जनरल नीडेड टाइम टू स्ट्रेटेबाइज बिफोर द बैटल।", "gujaratiTranslation": "જનરલને યુદ્ધ પહેલાં વ્યૂહરચના બનાવવા માટે સમયની જરૂર હતી.", "hindiTranslation": "जनरल को युद्ध से पहले रणनीति बनाने के लिए समय चाहिए था।" }
+      ]
+    },
+    {
+      "word": "Patrol",
+      "gujaratiPronunciation": "પેટ્રોલ",
+      "hindiPronunciation": "पेट्रोल",
+      "gujaratiMeaning": "ગશ્ત કરવી",
+      "hindiMeaning": "गश्त करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Patrol", "gujaratiPronunciation": "પેટ્રોલ", "hindiPronunciation": "पेट्रोल", "gujaratiMeaning": "ગશ્ત કરવી", "hindiMeaning": "गश्त करना" },
+        "V2 (Past)": { "word": "Patrolled", "gujaratiPronunciation": "પેટ્રોલ્ડ", "hindiPronunciation": "पेट्रोल्ड", "gujaratiMeaning": "ગશ્ત કરી", "hindiMeaning": "गश्त की" },
+        "V3 (Past Participle)": { "word": "Patrolled", "gujaratiPronunciation": "પેટ્રોલ્ડ", "hindiPronunciation": "पेट्रोल्ड", "gujaratiMeaning": "ગશ્ત કરેલી", "hindiMeaning": "गश्त की हुई" },
+        "V4 (Present Participle)": { "word": "Patrolling", "gujaratiPronunciation": "પેટ્રોલિંગ", "hindiPronunciation": "पेट्रोलिंग", "gujaratiMeaning": "ગશ્ત કરી રહ્યું છે", "hindiMeaning": "गश्त कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Guard", "gujaratiPronunciation": "ગાર્ડ", "hindiPronunciation": "गार्ड", "gujaratiMeaning": "પહેરો ભરવો", "hindiMeaning": "पहरा देना" },
+        { "word": "Monitor", "gujaratiPronunciation": "મોનિટર", "hindiPronunciation": "मॉनिटर", "gujaratiMeaning": "નિરીક્ષણ કરવું", "hindiMeaning": "निगरानी करना" }
+      ],
+      "antonyms": [
+        { "word": "Neglect", "gujaratiPronunciation": "નેગ્લેક્ટ", "hindiPronunciation": "नेग्लेक्ट", "gujaratiMeaning": "ઉપેક્ષા કરવી", "hindiMeaning": "उपेक्षा करना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "नज़रअंदाज़ करना" }
+      ],
+      "confusingWords": [
+        { "word": "Petrol", "gujaratiPronunciation": "પેટ્રોલ", "hindiPronunciation": "पेट्रोल", "gujaratiMeaning": "બળતણ", "hindiMeaning": "ईंधन" },
+        { "word": "Portal", "gujaratiPronunciation": "પોર્ટલ", "hindiPronunciation": "पोर्टल", "gujaratiMeaning": "પ્રવેશદ્વાર", "hindiMeaning": "प्रवेशद्वार" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The soldiers patrol the border day and night.", "gujaratiPronunciation": "ધ સોલ્જર્સ પેટ્રોલ ધ બોર્ડર ડે એન્ડ નાઈટ.", "hindiPronunciation": "द सोल्जर्स पेट्रोल द बॉर्डर डे एंड नाइट।", "gujaratiTranslation": "સૈનિકો દિવસ-રાત સરહદ પર ગશ્ત કરે છે.", "hindiTranslation": "सैनिक दिन-रात सीमा पर गश्त करते हैं।" }
+      ]
+    },
+    {
+      "word": "Coordinate",
+      "gujaratiPronunciation": "કોઓર્ડિનેટ",
+      "hindiPronunciation": "कोऑर्डिनेट",
+      "gujaratiMeaning": "સમન્વય કરવો",
+      "hindiMeaning": "समन्वय करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Coordinate", "gujaratiPronunciation": "કોઓર્ડિનેટ", "hindiPronunciation": "कोऑर्डिनेट", "gujaratiMeaning": "સમન્વય કરવો", "hindiMeaning": "समन्वय करना" },
+        "V2 (Past)": { "word": "Coordinated", "gujaratiPronunciation": "કોઓર્ડિનેટેડ", "hindiPronunciation": "कोऑर्डिनेटेड", "gujaratiMeaning": "સમન્વય કર્યો", "hindiMeaning": "समन्वय किया" },
+        "V3 (Past Participle)": { "word": "Coordinated", "gujaratiPronunciation": "કોઓર્ડિનેટેડ", "hindiPronunciation": "कोऑर्डिनेटेड", "gujaratiMeaning": "સમન્વય કરેલો", "hindiMeaning": "समन्वय किया हुआ" },
+        "V4 (Present Participle)": { "word": "Coordinating", "gujaratiPronunciation": "કોઓર્ડિનેટિંગ", "hindiPronunciation": "कोऑर्डिनेटिंग", "gujaratiMeaning": "સમન્વય કરી રહ્યું છે", "hindiMeaning": "समन्वय कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Organize", "gujaratiPronunciation": "ઓર્ગેનાઇઝ", "hindiPronunciation": "ऑर्गेनाइज", "gujaratiMeaning": "આયોજન કરવું", "hindiMeaning": "आयोजित करना" },
+        { "word": "Synchronize", "gujaratiPronunciation": "સિંક્રોનાઇઝ", "hindiPronunciation": "सिंक्रोनाइज", "gujaratiMeaning": "તાલમેલ બેસાડવો", "hindiMeaning": "तालमेल बिठाना" }
+      ],
+      "antonyms": [
+        { "word": "Disorganize", "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ", "hindiPronunciation": "डिसऑर्गेनाइज", "gujaratiMeaning": "અવ્યવસ્થિત કરવું", "hindiMeaning": "अस्त-व्यस्त करना" },
+        { "word": "Conflict", "gujaratiPronunciation": "કોન્ફ્લિક્ટ", "hindiPronunciation": "कॉनफ्लिक्ट", "gujaratiMeaning": "સંઘર્ષ કરવો", "hindiMeaning": "संघर्ष करना" }
+      ],
+      "confusingWords": [
+        { "word": "Subordinate", "gujaratiPronunciation": "સબોર્ડિનેટ", "hindiPronunciation": "सबऑर्डिनेट", "gujaratiMeaning": "ગૌણ", "hindiMeaning": "अधीनस्थ" },
+        { "word": "Chord", "gujaratiPronunciation": "કોર્ડ", "hindiPronunciation": "कॉर्ड", "gujaratiMeaning": "જીવા (સંગીત)", "hindiMeaning": "तार (संगीत)" }
+      ],
+      "exampleSentences": [
+        { "sentence": "They must coordinate their efforts to succeed.", "gujaratiPronunciation": "ધે મસ્ટ કોઓર્ડિનેટ ધેર એફર્ટ્સ ટુ સક્સીડ.", "hindiPronunciation": "दे मस्ट कोऑर्डिनेट देयर एफर्ट्स टू सक्सीड।", "gujaratiTranslation": "સફળ થવા માટે તેઓએ તેમના પ્રયત્નોમાં સમન્વય કરવો જ જોઈએ.", "hindiTranslation": "सफल होने के लिए उन्हें अपने प्रयासों का समन्वय करना होगा।" }
+      ]
+    },
+    {
+      "word": "Mobilize",
+      "gujaratiPronunciation": "મોબિલાઇઝ",
+      "hindiPronunciation": "मोबिलाइज",
+      "gujaratiMeaning": "એકત્રિત કરવું",
+      "hindiMeaning": "जुटाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Mobilize", "gujaratiPronunciation": "મોબિલાઇઝ", "hindiPronunciation": "मोबिलाइज", "gujaratiMeaning": "એકત્રિત કરવું", "hindiMeaning": "जुटाना" },
+        "V2 (Past)": { "word": "Mobilized", "gujaratiPronunciation": "મોબિલાઇઝ્ડ", "hindiPronunciation": "मोबिलाइज्ड", "gujaratiMeaning": "એકત્રિત કર્યું", "hindiMeaning": "जुटाया" },
+        "V3 (Past Participle)": { "word": "Mobilized", "gujaratiPronunciation": "મોબિલાઇઝ્ડ", "hindiPronunciation": "मोबिलाइज्ड", "gujaratiMeaning": "એકત્રિત કરેલું", "hindiMeaning": "जुटाया हुआ" },
+        "V4 (Present Participle)": { "word": "Mobilizing", "gujaratiPronunciation": "મોબિલાઇઝિંગ", "hindiPronunciation": "मोबिलाइजिंग", "gujaratiMeaning": "એકત્રિત કરી રહ્યું છે", "hindiMeaning": "जुटा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Assemble", "gujaratiPronunciation": "એસેમ્બલ", "hindiPronunciation": "असेंबल", "gujaratiMeaning": "ભેગા કરવું", "hindiMeaning": "इकट्ठा करना" },
+        { "word": "Rally", "gujaratiPronunciation": "રેલી", "hindiPronunciation": "रैली", "gujaratiMeaning": "એકત્ર કરવું", "hindiMeaning": "एकजुट करना" }
+      ],
+      "antonyms": [
+        { "word": "Disband", "gujaratiPronunciation": "ડિસબેન્ડ", "hindiPronunciation": "डिसबैंड", "gujaratiMeaning": "વિખેરી નાખવું", "hindiMeaning": "भंग करना" },
+        { "word": "Demobilize", "gujaratiPronunciation": "ડિમોબિલાઇઝ", "hindiPronunciation": "डिमोबिलाइज", "gujaratiMeaning": "વિખેરી નાખવું", "hindiMeaning": "सेना भंग करना" }
+      ],
+      "confusingWords": [
+        { "word": "Mobile", "gujaratiPronunciation": "મોબાઇલ", "hindiPronunciation": "मोबाइल", "gujaratiMeaning": "ગતિશીલ", "hindiMeaning": "चल" },
+        { "word": "Nobility", "gujaratiPronunciation": "નોબિલિટી", "hindiPronunciation": "नोबिलिटी", "gujaratiMeaning": "ઉમરાવવર્ગ", "hindiMeaning": "कुलीनता" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The government decided to mobilize its troops.", "gujaratiPronunciation": "ધ ગવર્નમેન્ટ ડિસાઈડેડ ટુ મોબિલાઈઝ ઈટ્સ ટ્રુપ્સ.", "hindiPronunciation": "द गवर्नमेंट डिसाइडेड टू मोबिलाइज इट्स ट्रूप्स।", "gujaratiTranslation": "સરકારે તેની સેનાને એકત્રિત કરવાનો નિર્ણય કર્યો.", "hindiTranslation": "सरकार ने अपने सैनिकों को जुटाने का फैसला किया।" }
+      ]
+    },
+    {
+      "word": "Fortify",
+      "gujaratiPronunciation": "ફોર્ટિફાય",
+      "hindiPronunciation": "फोर्टिफाई",
+      "gujaratiMeaning": "મજબૂત કરવું",
+      "hindiMeaning": "मजबूत करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Fortify", "gujaratiPronunciation": "ફોર્ટિફાય", "hindiPronunciation": "फोर्टिफाई", "gujaratiMeaning": "મજબૂત કરવું", "hindiMeaning": "मजबूत करना" },
+        "V2 (Past)": { "word": "Fortified", "gujaratiPronunciation": "ફોર્ટિફાઇડ", "hindiPronunciation": "फोर्टिफाइड", "gujaratiMeaning": "મજબૂત કર્યું", "hindiMeaning": "मजबूत किया" },
+        "V3 (Past Participle)": { "word": "Fortified", "gujaratiPronunciation": "ફોર્ટિફાઇડ", "hindiPronunciation": "फोर्टिफाइड", "gujaratiMeaning": "મજબૂત કરેલું", "hindiMeaning": "मजबूत किया हुआ" },
+        "V4 (Present Participle)": { "word": "Fortifying", "gujaratiPronunciation": "ફોર્ટિફાઇંગ", "hindiPronunciation": "फोर्टिफाइंग", "gujaratiMeaning": "મજબૂત કરી રહ્યું છે", "hindiMeaning": "मजबूत कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Strengthen", "gujaratiPronunciation": "સ્ટ્રેન્થન", "hindiPronunciation": "स्ट्रेंग्थेन", "gujaratiMeaning": "મજબૂત બનાવવું", "hindiMeaning": "मजबूत बनाना" },
+        { "word": "Reinforce", "gujaratiPronunciation": "રિઇન્ફોર્સ", "hindiPronunciation": "रीइन्फोर्स", "gujaratiMeaning": "વધુ મજબૂત કરવું", "hindiMeaning": "और मजबूत करना" }
+      ],
+      "antonyms": [
+        { "word": "Weaken", "gujaratiPronunciation": "વિકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमजोर करना" },
+        { "word": "Undermine", "gujaratiPronunciation": "અંડરમાઇન", "hindiPronunciation": "अंडरमाइन", "gujaratiMeaning": "ક્ષીણ કરવું", "hindiMeaning": "कमजोर करना" }
+      ],
+      "confusingWords": [
+        { "word": "Mortify", "gujaratiPronunciation": "મોર્ટિફાય", "hindiPronunciation": "मॉर्टिफाई", "gujaratiMeaning": "અપમાનિત કરવું", "hindiMeaning": "अपमानित करना" },
+        { "word": "Certify", "gujaratiPronunciation": "સર્ટિફાય", "hindiPronunciation": "सर्टिफाई", "gujaratiMeaning": "પ્રમાણિત કરવું", "hindiMeaning": "प्रमाणित करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "They fortified the city against attack.", "gujaratiPronunciation": "ધે ફોર્ટિફાઈડ ધ સિટી અગેઈન્સ્ટ અટેક.", "hindiPronunciation": "दे फोर्टिफाइड द सिटी अगेंस्ट अटैक।", "gujaratiTranslation": "તેઓએ હુમલા સામે શહેરને મજબૂત બનાવ્યું.", "hindiTranslation": "उन्होंने हमले के खिलाफ शहर को मजबूत किया।" }
+      ]
+    }
+  ]
+}

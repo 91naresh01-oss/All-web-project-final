@@ -1,0 +1,77 @@
+
+{
+  "id": "level-1",
+  "title": "Weather 1",
+  "words": [
+    {
+      "word": "Sunny",
+      "gujaratiPronunciation": "સની",
+      "hindiPronunciation": "सनी",
+      "gujaratiMeaning": "તડકાવાળું",
+      "hindiMeaning": "धूपदार",
+      "exampleSentences": [
+        {
+          "sentence": "It is a sunny day.",
+          "gujaratiTranslation": "આજે તડકાવાળો દિવસ છે.",
+          "hindiTranslation": "आज धूप वाला दिन है।"
+        }
+      ]
+    },
+    {
+      "word": "Rainy",
+      "gujaratiPronunciation": "રેની",
+      "hindiPronunciation": "रेनी",
+      "gujaratiMeaning": "વરસાદી",
+      "hindiMeaning": "बरसाती",
+      "exampleSentences": [
+        {
+          "sentence": "I don't like rainy days.",
+          "gujaratiTranslation": "મને વરસાદી દિવસો ગમતા નથી.",
+          "hindiTranslation": "मुझे बरसाती दिन पसंद नहीं हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Cloudy",
+      "gujaratiPronunciation": "ક્લાઉડી",
+      "hindiPronunciation": "क्लाउडी",
+      "gujaratiMeaning": "વાદળછાયું",
+      "hindiMeaning": "बादल वाला",
+      "exampleSentences": [
+        {
+          "sentence": "The sky is cloudy.",
+          "gujaratiTranslation": "આકાશ વાદળછાયું છે.",
+          "hindiTranslation": "आसमान में बादल छाए हुए हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Snowy",
+      "gujaratiPronunciation": "સ્નોવી",
+      "hindiPronunciation": "स्नोवी",
+      "gujaratiMeaning": "બરફીલો",
+      "hindiMeaning": "बर्फीला",
+      "exampleSentences": [
+        {
+          "sentence": "It is a snowy morning.",
+          "gujaratiTranslation": "આ એક બરફીલી સવાર છે.",
+          "hindiTranslation": "यह एक बर्फीली सुबह है।"
+        }
+      ]
+    },
+    {
+      "word": "Windy",
+      "gujaratiPronunciation": "વિન્ડી",
+      "hindiPronunciation": "विंडी",
+      "gujaratiMeaning": "પવનવાળું",
+      "hindiMeaning": "हवादार",
+      "exampleSentences": [
+        {
+          "sentence": "It is very windy today.",
+          "gujaratiTranslation": "આજે ખૂબ પવન છે.",
+          "hindiTranslation": "आज बहुत हवा चल रही है।"
+        }
+      ]
+    }
+  ]
+}

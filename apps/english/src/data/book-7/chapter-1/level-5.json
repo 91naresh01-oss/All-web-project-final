@@ -1,0 +1,141 @@
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Repel",
+            "gujaratiPronunciation": "રિપેલ",
+            "gujaratiMeaning": "પાછું હટાવવું, અપાકર્ષણ કરવું",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Repel", "gujaratiPronunciation": "રિપેલ", "gujaratiMeaning": "પાછું હટાવવું" },
+                "V2 (Past)": { "word": "Repelled", "gujaratiPronunciation": "રિપેલ્ડ", "gujaratiMeaning": "પાછું હટાવ્યું" },
+                "V3 (Past Participle)": { "word": "Repelled", "gujaratiPronunciation": "રિપેલ્ડ", "gujaratiMeaning": "પાછું હટાવેલું" },
+                "V4 (Present Participle)": { "word": "Repelling", "gujaratiPronunciation": "રિપેલિંગ", "gujaratiMeaning": "પાછું હટાવી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Resist", "gujaratiPronunciation": "રેઝિસ્ટ", "gujaratiMeaning": "પ્રતિકાર કરવો" },
+                { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "gujaratiMeaning": "અસ્વીકાર કરવો" }
+            ],
+            "antonyms": [
+                { "word": "Attract", "gujaratiPronunciation": "એટ્રેક્ટ", "gujaratiMeaning": "આકર્ષવું" },
+                { "word": "Welcome", "gujaratiPronunciation": "વેલકમ", "gujaratiMeaning": "સ્વાગત કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Reply", "gujaratiPronunciation": "રિપ્લાય", "gujaratiMeaning": "જવાબ આપવો" },
+                { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "gujaratiMeaning": "પ્રગટ કરવું" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The insect spray is designed to repel mosquitoes.", "gujaratiPronunciation": "ધ ઇન્સેક્ટ સ્પ્રે ઇઝ ડિઝાઇન ટુ રિપેલ મોસ્કિટોઝ", "gujaratiTranslation": "જંતુનાશક સ્પ્રે મચ્છરોને દૂર ભગાડવા માટે બનાવવામાં આવ્યો છે." }
+            ]
+        },
+        {
+            "word": "Fortify",
+            "gujaratiPronunciation": "ફોર્ટિફાય",
+            "gujaratiMeaning": "મજબૂત બનાવવું, કિલ્લેબંધી કરવી",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Fortify", "gujaratiPronunciation": "ફોર્ટિફાય", "gujaratiMeaning": "મજબૂત બનાવવું" },
+                "V2 (Past)": { "word": "Fortified", "gujaratiPronunciation": "ફોર્ટિફાઇડ", "gujaratiMeaning": "મજબૂત બનાવ્યું" },
+                "V3 (Past Participle)": { "word": "Fortified", "gujaratiPronunciation": "ફોર્ટિફાઇડ", "gujaratiMeaning": "મજબૂત બનાવેલું" },
+                "V4 (Present Participle)": { "word": "Fortifying", "gujaratiPronunciation": "ફોર્ટિફાઇંગ", "gujaratiMeaning": "મજબૂત બનાવી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Strengthen", "gujaratiPronunciation": "સ્ટ્રેન્થન", "gujaratiMeaning": "મજબૂત કરવું" },
+                { "word": "Reinforce", "gujaratiPronunciation": "રિઇન્ફોર્સ", "gujaratiMeaning": "બળવત્તર કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Weaken", "gujaratiPronunciation": "વીકન", "gujaratiMeaning": "નબળું પાડવું" },
+                { "word": "Undermine", "gujaratiPronunciation": "અન્ડરમાઇન", "gujaratiMeaning": "ક્ષીણ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Notify", "gujaratiPronunciation": "નોટિફાય", "gujaratiMeaning": "જાણ કરવી" },
+                { "word": "Horrify", "gujaratiPronunciation": "હોરિફાય", "gujaratiMeaning": "ભયભીત કરવું" }
+            ],
+            "exampleSentences": [
+                { "sentence": "They decided to fortify the castle walls.", "gujaratiPronunciation": "ધે ડિસાઇડેડ ટુ ફોર્ટિફાય ધ કાસ્ટલ વોલ્સ", "gujaratiTranslation": "તેમણે કિલ્લાની દીવાલોને મજબૂત બનાવવાનું નક્કી કર્યું." }
+            ]
+        },
+        {
+            "word": "Anticipate",
+            "gujaratiPronunciation": "એન્ટિસિપેટ",
+            "gujaratiMeaning": "અપેક્ષા રાખવી, પૂર્વધારણા કરવી",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Anticipate", "gujaratiPronunciation": "એન્ટિસિપેટ", "gujaratiMeaning": "અપેક્ષા રાખવી" },
+                "V2 (Past)": { "word": "Anticipated", "gujaratiPronunciation": "એન્ટિસિપેટેડ", "gujaratiMeaning": "અપેક્ષા રાખી" },
+                "V3 (Past Participle)": { "word": "Anticipated", "gujaratiPronunciation": "એન્ટિસિપેટેડ", "gujaratiMeaning": "અપેક્ષા રાખેલી" },
+                "V4 (Present Participle)": { "word": "Anticipating", "gujaratiPronunciation": "એન્ટિસિપેટિંગ", "gujaratiMeaning": "અપેક્ષા રાખી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Expect", "gujaratiPronunciation": "એક્સપેક્ટ", "gujaratiMeaning": "આશા રાખવી" },
+                { "word": "Predict", "gujaratiPronunciation": "પ્રેડિક્ટ", "gujaratiMeaning": "ભવિષ્યવાણી કરવી" }
+            ],
+            "antonyms": [
+                { "word": "Doubt", "gujaratiPronunciation": "ડાઉટ", "gujaratiMeaning": "શંકા કરવી" },
+                { "word": "Be surprised", "gujaratiPronunciation": "બી સરપ્રાઇઝ્ડ", "gujaratiMeaning": "આશ્ચર્યચકિત થવું" }
+            ],
+            "confusingWords": [
+                { "word": "Participate", "gujaratiPronunciation": "પાર્ટિસિપેટ", "gujaratiMeaning": "ભાગ લેવો" },
+                { "word": "Antique", "gujaratiPronunciation": "એન્ટીક", "gujaratiMeaning": "પ્રાચીન" }
+            ],
+            "exampleSentences": [
+                { "sentence": "We anticipate a large crowd at the event.", "gujaratiPronunciation": "વી એન્ટિસિપેટ અ લાર્જ ક્રાઉડ એટ ધ ઇવેન્ટ", "gujaratiTranslation": "અમે કાર્યક્રમમાં મોટી ભીડની અપેક્ષા રાખીએ છીએ." }
+            ]
+        },
+        {
+            "word": "Neutralize",
+            "gujaratiPronunciation": "ન્યુટ્રલાઇઝ",
+            "gujaratiMeaning": "નિષ્ક્રિય કરવું, તટસ્થ કરવું",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Neutralize", "gujaratiPronunciation": "ન્યુટ્રલાઇઝ", "gujaratiMeaning": "નિષ્ક્રિય કરવું" },
+                "V2 (Past)": { "word": "Neutralized", "gujaratiPronunciation": "ન્યુટ્રલાઇઝ્ડ", "gujaratiMeaning": "નિષ્ક્રિય કર્યું" },
+                "V3 (Past Participle)": { "word": "Neutralized", "gujaratiPronunciation": "ન્યુટ્રલાઇઝ્ડ", "gujaratiMeaning": "નિષ્ક્રિય કરેલું" },
+                "V4 (Present Participle)": { "word": "Neutralizing", "gujaratiPronunciation": "ન્યુટ્રલાઇઝિંગ", "gujaratiMeaning": "નિષ્ક્રિય કરી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Counteract", "gujaratiPronunciation": "કાઉન્ટરએક્ટ", "gujaratiMeaning": "પ્રતિક્રિયા કરવી" },
+                { "word": "Disable", "gujaratiPronunciation": "ડિસેબલ", "gujaratiMeaning": "અક્ષમ કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Activate", "gujaratiPronunciation": "એક્ટિવેટ", "gujaratiMeaning": "સક્રિય કરવું" },
+                { "word": "Enhance", "gujaratiPronunciation": "એન્હાન્સ", "gujaratiMeaning": "વધારવું" }
+            ],
+            "confusingWords": [
+                { "word": "Naturalize", "gujaratiPronunciation": "નેચરલાઇઝ", "gujaratiMeaning": "નાગરિકતા આપવી" },
+                { "word": "Neutral", "gujaratiPronunciation": "ન્યુટ્રલ", "gujaratiMeaning": "તટસ્થ" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The agent's mission was to neutralize the threat.", "gujaratiPronunciation": "ધ એજન્ટ્સ મિશન વોઝ ટુ ન્યુટ્રલાઇઝ ધ થ્રેટ", "gujaratiTranslation": "એજન્ટનું મિશન ખતરાને નિષ્ક્રિય કરવાનું હતું." }
+            ]
+        },
+        {
+            "word": "Conceal",
+            "gujaratiPronunciation": "કન્સીલ",
+            "gujaratiMeaning": "છુપાવવું, સંતાડવું",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "gujaratiMeaning": "છુપાવવું" },
+                "V2 (Past)": { "word": "Concealed", "gujaratiPronunciation": "કન્સીલ્ડ", "gujaratiMeaning": "છુપાવ્યું" },
+                "V3 (Past Participle)": { "word": "Concealed", "gujaratiPronunciation": "કન્સીલ્ડ", "gujaratiMeaning": "છુપાવેલું" },
+                "V4 (Present Participle)": { "word": "Concealing", "gujaratiPronunciation": "કન્સીલિંગ", "gujaratiMeaning": "છુપાવી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Hide", "gujaratiPronunciation": "હાઇડ", "gujaratiMeaning": "સંતાડવું" },
+                { "word": "Disguise", "gujaratiPronunciation": "ડિસ્ગાઇઝ", "gujaratiMeaning": "વેશપલટો કરવો" }
+            ],
+            "antonyms": [
+                { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "gujaratiMeaning": "પ્રગટ કરવું" },
+                { "word": "Expose", "gujaratiPronunciation": "એક્સપોઝ", "gujaratiMeaning": "ખુલ્લું પાડવું" }
+            ],
+            "confusingWords": [
+                { "word": "Cancel", "gujaratiPronunciation": "કેન્સલ", "gujaratiMeaning": "રદ કરવું" },
+                { "word": "Council", "gujaratiPronunciation": "કાઉન્સિલ", "gujaratiMeaning": "પરિષદ" }
+            ],
+            "exampleSentences": [
+                { "sentence": "He tried to conceal the evidence from the police.", "gujaratiPronunciation": "હી ટ્રાઇડ ટુ કન્સીલ ધ એવિડન્સ ફ્રોમ ધ પોલીસ", "gujaratiTranslation": "તેણે પોલીસથી પુરાવા છુપાવવાનો પ્રયાસ કર્યો." }
+            ]
+        }
+    ]
+}

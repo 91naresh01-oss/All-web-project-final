@@ -1,0 +1,47 @@
+
+{
+    "id": "level-5",
+    "title": "Advanced Shapes",
+    "words": [
+        {
+            "word": "Prism",
+            "icon": "💎",
+            "gujaratiPronunciation": "પ્રિઝમ",
+            "hindiPronunciation": "प्रिज्म",
+            "gujaratiMeaning": "પ્રિઝમ",
+            "hindiMeaning": "प्रिज्म"
+        },
+        {
+            "word": "Parallelogram",
+            "icon": "▱",
+            "gujaratiPronunciation": "પેરેલલોગ્રામ",
+            "hindiPronunciation": "पैरेललोग्राम",
+            "gujaratiMeaning": "સમાંતરબાજુ ચતુષ્કોણ",
+            "hindiMeaning": "समांतर चतुर्भुज"
+        },
+        {
+            "word": "Quadrilateral",
+            "icon": " चतुर्भुज",
+            "gujaratiPronunciation": "ક્વાડ્રિલેટરલ",
+            "hindiPronunciation": "क्वाड्रिलेटरल",
+            "gujaratiMeaning": "ચતુષ્કોણ",
+            "hindiMeaning": "चतुर्भुज"
+        },
+        {
+            "word": "Trapezium",
+            "icon": "⏢",
+            "gujaratiPronunciation": "ટ્રેપેઝિયમ",
+            "hindiPronunciation": "ट्रेपेजियम",
+            "gujaratiMeaning": "સમલંબ ચતુષ્કોણ",
+            "hindiMeaning": "समलंब"
+        },
+        {
+            "word": "Polygon",
+            "icon": "✨",
+            "gujaratiPronunciation": "પોલિગોન",
+            "hindiPronunciation": "पॉलीगॉन",
+            "gujaratiMeaning": "બહુકોણ",
+            "hindiMeaning": "बहुभुज"
+        }
+    ]
+}

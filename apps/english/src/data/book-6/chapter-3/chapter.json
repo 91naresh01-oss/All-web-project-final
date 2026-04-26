@@ -1,0 +1,14 @@
+
+{
+  "id": "chapter-3",
+  "title": "Hiding & Reveal 🤫",
+  "gujaratiTitle": "છુપાવવું અને પ્રગટ કરવું 🤫",
+  "hindiTitle": "छिपाना और प्रकट करना 🤫",
+  "levels": [
+    { "id": "level-1" },
+    { "id": "level-2" },
+    { "id": "level-3" },
+    { "id": "level-4" },
+    { "id": "level-5" }
+  ]
+}

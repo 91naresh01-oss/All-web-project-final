@@ -1,0 +1,11 @@
+{
+    "id": "level-3",
+    "title": "Playtime 2",
+    "words": [
+        { "word": "Sit", "icon": "🧘", "gujaratiMeaning": "બેસવું", "hindiMeaning": "बैठना", "gujaratiPronunciation": "સિટ", "hindiPronunciation": "सिट" },
+        { "word": "Stand", "icon": "🧍", "gujaratiMeaning": "ઊભા રહેવું", "hindiMeaning": "खड़े होना", "gujaratiPronunciation": "સ્ટેન્ડ", "hindiPronunciation": "स्टैंड" },
+        { "word": "Draw", "icon": "🎨", "gujaratiMeaning": "દોરવું", "hindiMeaning": "चित्र बनाना", "gujaratiPronunciation": "ડ્રો", "hindiPronunciation": "ड्रॉ" },
+        { "word": "Paint", "icon": "🖌️", "gujaratiMeaning": "રંગવું", "hindiMeaning": "रंगना", "gujaratiPronunciation": "પેઇન્ટ", "hindiPronunciation": "पेंट" },
+        { "word": "Play", "icon": "▶️", "gujaratiMeaning": "રમવું", "hindiMeaning": "खेलना", "gujaratiPronunciation": "પ્લે", "hindiPronunciation": "प्ले" }
+    ]
+}

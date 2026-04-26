@@ -1,0 +1,151 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Siege",
+      "gujaratiPronunciation": "સીજ",
+      "hindiPronunciation": "सीज",
+      "gujaratiMeaning": "ઘેરો ઘાલવો",
+      "hindiMeaning": "घेराबंदी करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Siege", "gujaratiPronunciation": "સીજ", "hindiPronunciation": "सीज", "gujaratiMeaning": "ઘેરો ઘાલવો", "hindiMeaning": "घेराबंदी करना" },
+        "V2 (Past)": { "word": "Sieged", "gujaratiPronunciation": "સીજ્ડ", "hindiPronunciation": "सीज़्ड", "gujaratiMeaning": "ઘેરો ઘાલ્યો", "hindiMeaning": "घेराबंदी की" },
+        "V3 (Past Participle)": { "word": "Sieged", "gujaratiPronunciation": "સીજ્ડ", "hindiPronunciation": "सीज़्ड", "gujaratiMeaning": "ઘેરો ઘાલેલો", "hindiMeaning": "घेराबंदी किया हुआ" },
+        "V4 (Present Participle)": { "word": "Sieging", "gujaratiPronunciation": "સીજિંગ", "hindiPronunciation": "सीजिंग", "gujaratiMeaning": "ઘેરો ઘાલી રહ્યું છે", "hindiMeaning": "घेराबंदी कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Besiege", "gujaratiPronunciation": "બિસીજ", "hindiPronunciation": "बिसीज", "gujaratiMeaning": "ઘેરી લેવું", "hindiMeaning": "घेर लेना" },
+        { "word": "Blockade", "gujaratiPronunciation": "બ્લોકેડ", "hindiPronunciation": "ब्लॉकेड", "gujaratiMeaning": "નાકાબંધી", "hindiMeaning": "नाकाबंदी" }
+      ],
+      "antonyms": [
+        { "word": "Relieve", "gujaratiPronunciation": "રિલીવ", "hindiPronunciation": "रिलीव", "gujaratiMeaning": "રાહત આપવી", "hindiMeaning": "राहत देना" },
+        { "word": "Liberate", "gujaratiPronunciation": "લિબરેટ", "hindiPronunciation": "लिबरेट", "gujaratiMeaning": "મુક્ત કરવું", "hindiMeaning": "मुक्त करना" }
+      ],
+      "confusingWords": [
+        { "word": "Cease", "gujaratiPronunciation": "સીઝ", "hindiPronunciation": "सीज", "gujaratiMeaning": "બંધ કરવું", "hindiMeaning": "बंद करना" },
+        { "word": "Seize", "gujaratiPronunciation": "સીઝ", "hindiPronunciation": "सीज", "gujaratiMeaning": "જપ્ત કરવું", "hindiMeaning": "ज़ब्त करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The army prepared to siege the enemy fortress.", "gujaratiPronunciation": "ધ આર્મી પ્રિપેર્ડ ટુ સીજ ધ એનિમી ફોર્ટ્રેસ.", "hindiPronunciation": "द आर्मी प्रिपेयर्ड टू सीज द एनिमी फोर्ट्रेस।", "gujaratiTranslation": "સેના દુશ્મનના કિલ્લાને ઘેરો ઘાલવા માટે તૈયાર હતી.", "hindiTranslation": "सेना दुश्मन के किले की घेराबंदी करने के लिए तैयार थी।" }
+      ]
+    },
+    {
+      "word": "Decimate",
+      "gujaratiPronunciation": "ડેસિમેટ",
+      "hindiPronunciation": "डेसिमेट",
+      "gujaratiMeaning": "મોટા ભાગનો નાશ કરવો",
+      "hindiMeaning": "बड़ी संख्या में नष्ट करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Decimate", "gujaratiPronunciation": "ડેસિમેટ", "hindiPronunciation": "डेसिमेट", "gujaratiMeaning": "મોટા ભાગનો નાશ કરવો", "hindiMeaning": "बड़ी संख्या में नष्ट करना" },
+        "V2 (Past)": { "word": "Decimated", "gujaratiPronunciation": "ડેસિમેટેડ", "hindiPronunciation": "डेसिमेटेड", "gujaratiMeaning": "નાશ કર્યો", "hindiMeaning": "नष्ट कर दिया" },
+        "V3 (Past Participle)": { "word": "Decimated", "gujaratiPronunciation": "ડેસિમેટેડ", "hindiPronunciation": "डेसिमेटेड", "gujaratiMeaning": "નાશ કરેલો", "hindiMeaning": "नष्ट किया हुआ" },
+        "V4 (Present Participle)": { "word": "Decimating", "gujaratiPronunciation": "ડેસિમેટિંગ", "hindiPronunciation": "डेसिमेटिंग", "gujaratiMeaning": "નાશ કરી રહ્યું છે", "hindiMeaning": "नष्ट कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Annihilate", "gujaratiPronunciation": "એનિહિલેટ", "hindiPronunciation": "एनिहिलेट", "gujaratiMeaning": "સર્વનાશ કરવો", "hindiMeaning": "सर्वनाश करना" },
+        { "word": "Wipe out", "gujaratiPronunciation": "વાઇપ આઉટ", "hindiPronunciation": "वाइप आउट", "gujaratiMeaning": "સફાયો કરવો", "hindiMeaning": "सफाया करना" }
+      ],
+      "antonyms": [
+        { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" },
+        { "word": "Build", "gujaratiPronunciation": "બિલ્ડ", "hindiPronunciation": "बिल्ड", "gujaratiMeaning": "નિર્માણ કરવું", "hindiMeaning": "निर्माण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Decimal", "gujaratiPronunciation": "ડેસિમલ", "hindiPronunciation": "डेसिमल", "gujaratiMeaning": "દશાંશ", "hindiMeaning": "दशमलव" },
+        { "word": "Estimate", "gujaratiPronunciation": "એસ્ટિમેટ", "hindiPronunciation": "एस्टीमेट", "gujaratiMeaning": "અંદાજ", "hindiMeaning": "अनुमान" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The plague decimated the population of the city.", "gujaratiPronunciation": "ધ પ્લેગ ડેસિમેટેડ ધ પોપ્યુલેશન ઓફ ધ સિટી.", "hindiPronunciation": "द प्लेग डेसिमेटेड द पॉपुलेशन ऑफ द सिटी।", "gujaratiTranslation": "પ્લેગે શહેરની વસ્તીનો મોટો ભાગનો નાશ કર્યો.", "hindiTranslation": "प्लेग ने शहर की आबादी को नष्ट कर दिया।" }
+      ]
+    },
+    {
+      "word": "Outmaneuver",
+      "gujaratiPronunciation": "આઉટમેનુવર",
+      "hindiPronunciation": "आउटमैनुवर",
+      "gujaratiMeaning": "દાવપેચમાં હરાવવું",
+      "hindiMeaning": "पैंतरेबाज़ी में हराना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Outmaneuver", "gujaratiPronunciation": "આઉટમેનુવર", "hindiPronunciation": "आउटमैनुवर", "gujaratiMeaning": "દાવપેચમાં હરાવવું", "hindiMeaning": "पैंतरेबाज़ी में हराना" },
+        "V2 (Past)": { "word": "Outmaneuvered", "gujaratiPronunciation": "આઉટમેનુવર્ડ", "hindiPronunciation": "आउटमैनुवर्ड", "gujaratiMeaning": "દાવપેચમાં હરાવ્યું", "hindiMeaning": "पैंतरेबाज़ी में हराया" },
+        "V3 (Past Participle)": { "word": "Outmaneuvered", "gujaratiPronunciation": "આઉટમેનુવર્ડ", "hindiPronunciation": "आउटमैनुवर्ड", "gujaratiMeaning": "દાવપેચમાં હરાવેલું", "hindiMeaning": "पैंतरेबाज़ी में हराया हुआ" },
+        "V4 (Present Participle)": { "word": "Outmaneuvering", "gujaratiPronunciation": "આઉટમેનુવરિંગ", "hindiPronunciation": "आउटमैनुवरिंग", "gujaratiMeaning": "દાવપેચમાં હરાવી રહ્યું છે", "hindiMeaning": "पैंतरेबाज़ी में हरा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Outwit", "gujaratiPronunciation": "આઉટવિટ", "hindiPronunciation": "आउटविट", "gujaratiMeaning": "બુદ્ધિથી હરાવવું", "hindiMeaning": "बुद्धि से हराना" },
+        { "word": "Outsmart", "gujaratiPronunciation": "આઉટસ્માર્ટ", "hindiPronunciation": "आउटस्मार्ट", "gujaratiMeaning": "ચાલાકીથી હરાવવું", "hindiMeaning": "चालाकी से हराना" }
+      ],
+      "antonyms": [
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" },
+        { "word": "Yield", "gujaratiPronunciation": "યીલ્ડ", "hindiPronunciation": "यील्ड", "gujaratiMeaning": "હાર માનવી", "hindiMeaning": "हार मानना" }
+      ],
+      "confusingWords": [
+        { "word": "Maneuver", "gujaratiPronunciation": "મેનુવર", "hindiPronunciation": "मैनुवर", "gujaratiMeaning": "દાવપેચ", "hindiMeaning": "पैंतरा" },
+        { "word": "Manure", "gujaratiPronunciation": "મેન્યોર", "hindiPronunciation": "मैन्योर", "gujaratiMeaning": "ખાતર", "hindiMeaning": "खाद" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The smaller army managed to outmaneuver the larger one.", "gujaratiPronunciation": "ધ સ્મોલર આર્મી મેનેજ્ડ ટુ આઉટમેનુવર ધ લાર્જર વન.", "hindiPronunciation": "द स्मॉलर आर्मी मैनेज्ड टू आउटमैनुवर द लार्जर वन।", "gujaratiTranslation": "નાની સેના મોટી સેનાને દાવપેચમાં હરાવવામાં સફળ રહી.", "hindiTranslation": "छोटी सेना बड़ी सेना को पैंतरेबाज़ी में हराने में कामयाब रही।" }
+      ]
+    },
+    {
+      "word": "Deploy",
+      "gujaratiPronunciation": "ડિપ્લોય",
+      "hindiPronunciation": "डिप्लॉय",
+      "gujaratiMeaning": "તૈનાત કરવું",
+      "hindiMeaning": "तैनात करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Deploy", "gujaratiPronunciation": "ડિપ્લોય", "hindiPronunciation": "डिप्लॉय", "gujaratiMeaning": "તૈનાત કરવું", "hindiMeaning": "तैनात करना" },
+        "V2 (Past)": { "word": "Deployed", "gujaratiPronunciation": "ડિપ્લોઇડ", "hindiPronunciation": "डिप्लॉयड", "gujaratiMeaning": "તૈનાત કર્યું", "hindiMeaning": "तैनात किया" },
+        "V3 (Past Participle)": { "word": "Deployed", "gujaratiPronunciation": "ડિપ્લોઇડ", "hindiPronunciation": "डिप्लॉयड", "gujaratiMeaning": "તૈનાત કરેલું", "hindiMeaning": "तैनात किया हुआ" },
+        "V4 (Present Participle)": { "word": "Deploying", "gujaratiPronunciation": "ડિપ્લોઇંગ", "hindiPronunciation": "डिप्लॉइंग", "gujaratiMeaning": "તૈનાત કરી રહ્યું છે", "hindiMeaning": "तैनात कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Position", "gujaratiPronunciation": "પોઝિશન", "hindiPronunciation": "पोजीशन", "gujaratiMeaning": "સ્થિતિમાં મૂકવું", "hindiMeaning": "तैनात करना" },
+        { "word": "Station", "gujaratiPronunciation": "સ્ટેશન", "hindiPronunciation": "स्टेशन", "gujaratiMeaning": "નિયુક્ત કરવું", "hindiMeaning": "तैनात करना" }
+      ],
+      "antonyms": [
+        { "word": "Withdraw", "gujaratiPronunciation": "વિથડ્રો", "hindiPronunciation": "विथड्रॉ", "gujaratiMeaning": "પાછું ખેંચવું", "hindiMeaning": "वापस लेना" },
+        { "word": "Recall", "gujaratiPronunciation": "રિકોલ", "hindiPronunciation": "रिकॉल", "gujaratiMeaning": "પાછું બોલાવવું", "hindiMeaning": "वापस बुलाना" }
+      ],
+      "confusingWords": [
+        { "word": "Employ", "gujaratiPronunciation": "એમ્પ્લોય", "hindiPronunciation": "एम्प्लॉय", "gujaratiMeaning": "નોકરીએ રાખવું", "hindiMeaning": "नौकरी पर रखना" },
+        { "word": "Decoy", "gujaratiPronunciation": "ડિકોય", "hindiPronunciation": "डिकॉय", "gujaratiMeaning": "બનાવટી શિકાર", "hindiMeaning": "चारा" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The troops were deployed to the conflict zone.", "gujaratiPronunciation": "ધ ટ્રુપ્સ વર ડિપ્લોઈડ ટુ ધ કોન્ફ્લિક્ટ ઝોન.", "hindiPronunciation": "द ट्रूप्स वर डिप्लॉयड टू द कनफ्लिक्ट जोन।", "gujaratiTranslation": "સૈનિકોને સંઘર્ષ ક્ષેત્રમાં તૈનાત કરવામાં આવ્યા હતા.", "hindiTranslation": "सैनिकों को संघर्ष क्षेत्र में तैनात किया गया था।" }
+      ]
+    },
+    {
+      "word": "Reconnoiter",
+      "gujaratiPronunciation": "રેકનોઇટર",
+      "hindiPronunciation": "रेकोनाइटर",
+      "gujaratiMeaning": "જાસૂસી કરવી",
+      "hindiMeaning": "टोह लेना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Reconnoiter", "gujaratiPronunciation": "રેકનોઇટર", "hindiPronunciation": "रेकोनाइटर", "gujaratiMeaning": "જાસૂસી કરવી", "hindiMeaning": "टोह लेना" },
+        "V2 (Past)": { "word": "Reconnoitered", "gujaratiPronunciation": "રેકનોઇટર્ડ", "hindiPronunciation": "रेकोनाइटर्ड", "gujaratiMeaning": "જાસૂસી કરી", "hindiMeaning": "टोह ली" },
+        "V3 (Past Participle)": { "word": "Reconnoitered", "gujaratiPronunciation": "રેકનોઇટર્ડ", "hindiPronunciation": "रेकोनाइटर्ड", "gujaratiMeaning": "જાસૂસી કરેલી", "hindiMeaning": "टोह ली हुई" },
+        "V4 (Present Participle)": { "word": "Reconnoitering", "gujaratiPronunciation": "રેકનોઇટરિંગ", "hindiPronunciation": "रेकोनाइटरिंग", "gujaratiMeaning": "જાસૂસી કરી રહ્યું છે", "hindiMeaning": "टोह ले रहा है" }
+      },
+      "synonyms": [
+        { "word": "Scout", "gujaratiPronunciation": "સ્કાઉટ", "hindiPronunciation": "स्काउट", "gujaratiMeaning": "જાસૂસી કરવી", "hindiMeaning": "खोज-खबर लेना" },
+        { "word": "Survey", "gujaratiPronunciation": "સર્વે", "hindiPronunciation": "सर्वे", "gujaratiMeaning": "સર્વેક્ષણ કરવું", "hindiMeaning": "सर्वेक्षण करना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "नज़रअंदाज़ करना" },
+        { "word": "Overlook", "gujaratiPronunciation": "ઓવરલૂક", "hindiPronunciation": "ओवरलुक", "gujaratiMeaning": "ધ્યાન ન આપવું", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Rejoinder", "gujaratiPronunciation": "રિજોઇન્ડર", "hindiPronunciation": "रिजॉइंडर", "gujaratiMeaning": "વળતો જવાબ", "hindiMeaning": "प्रत्युत्तर" },
+        { "word": "Recollect", "gujaratiPronunciation": "રિકલેક્ટ", "hindiPronunciation": "रिकलेक्ट", "gujaratiMeaning": "યાદ કરવું", "hindiMeaning": "याद करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The spies were sent to reconnoiter the enemy's position.", "gujaratiPronunciation": "ધ સ્પાઈસ વર સેન્ટ ટુ રેકનોઈટર ધ એનિમીઝ પોઝિશન.", "hindiPronunciation": "द स्पाइज वर सेंट टू रेकोनाइटर द एनिमीज पोजीशन।", "gujaratiTranslation": "જાસૂસોને દુશ્મનની સ્થિતિની જાસૂસી કરવા માટે મોકલવામાં આવ્યા હતા.", "hindiTranslation": "जासूसों को दुश्मन की स्थिति की टोह लेने के लिए भेजा गया था।" }
+      ]
+    }
+  ]
+}

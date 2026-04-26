@@ -1,0 +1,47 @@
+
+{
+    "id": "level-4",
+    "title": "Body Parts 4",
+    "words": [
+        {
+            "word": "Knee",
+            "icon": "🦵",
+            "gujaratiPronunciation": "ની",
+            "hindiPronunciation": "नी",
+            "gujaratiMeaning": "ઘૂંટણ",
+            "hindiMeaning": "घुटना"
+        },
+        {
+            "word": "Elbow",
+            "icon": "💪",
+            "gujaratiPronunciation": "એલ્બો",
+            "hindiPronunciation": "एल्बो",
+            "gujaratiMeaning": "કોણી",
+            "hindiMeaning": "कोहनी"
+        },
+        {
+            "word": "Chest",
+            "icon": "🎽",
+            "gujaratiPronunciation": "ચેસ્ટ",
+            "hindiPronunciation": "चेस्ट",
+            "gujaratiMeaning": "છાતી",
+            "hindiMeaning": "छाती"
+        },
+        {
+            "word": "Back",
+            "icon": "🚶",
+            "gujaratiPronunciation": "બેક",
+            "hindiPronunciation": "बैक",
+            "gujaratiMeaning": "પીઠ",
+            "hindiMeaning": "पीठ"
+        },
+        {
+            "word": "Stomach",
+            "icon": "🤰",
+            "gujaratiPronunciation": "સ્ટમક",
+            "hindiPronunciation": "स्टमक",
+            "gujaratiMeaning": "પેટ",
+            "hindiMeaning": "पेट"
+        }
+    ]
+}

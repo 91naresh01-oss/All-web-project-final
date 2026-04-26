@@ -1,0 +1,47 @@
+
+{
+  "id": "level-4",
+  "title": "Household 4",
+  "words": [
+    {
+      "word": "Pillow",
+      "icon": "🛌",
+      "gujaratiPronunciation": "પીલો",
+      "hindiPronunciation": "पिलो",
+      "gujaratiMeaning": "ઓશીકું",
+      "hindiMeaning": "तकिया"
+    },
+    {
+      "word": "Blanket",
+      "icon": " कंबल",
+      "gujaratiPronunciation": "બ્લેન્કેટ",
+      "hindiPronunciation": "ब्लैंकेट",
+      "gujaratiMeaning": "ધાબળો",
+      "hindiMeaning": "कंबल"
+    },
+    {
+      "word": "Window",
+      "icon": "🪟",
+      "gujaratiPronunciation": "વિન્ડો",
+      "hindiPronunciation": "विंडो",
+      "gujaratiMeaning": "બારી",
+      "hindiMeaning": "खिड़की"
+    },
+    {
+      "word": "Shelf",
+      "icon": "📚",
+      "gujaratiPronunciation": "શેલ્ફ",
+      "hindiPronunciation": "शेल्फ",
+      "gujaratiMeaning": "છાજલી",
+      "hindiMeaning": "शेल्फ"
+    },
+    {
+      "word": "Radio",
+      "icon": "📻",
+      "gujaratiPronunciation": "રેડિયો",
+      "hindiPronunciation": "रेडियो",
+      "gujaratiMeaning": "રેડિયો",
+      "hindiMeaning": "रेडियो"
+    }
+  ]
+}

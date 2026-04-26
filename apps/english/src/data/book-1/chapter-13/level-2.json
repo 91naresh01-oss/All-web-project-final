@@ -1,0 +1,11 @@
+{
+    "id": "level-2",
+    "title": "Flowers 2",
+    "words": [
+        { "word": "Tulip", "icon": "🌷", "gujaratiPronunciation": "ટ્યૂલિપ", "hindiPronunciation": "ट्यूलिप", "gujaratiMeaning": "ટ્યૂલિપ", "hindiMeaning": "ट्यूलिप" },
+        { "word": "Lotus", "icon": "🪷", "gujaratiPronunciation": "લોટસ", "hindiPronunciation": "लोटस", "gujaratiMeaning": "કમળ", "hindiMeaning": "कमल" },
+        { "word": "Hibiscus", "icon": "🌺", "gujaratiPronunciation": "હિબિસ્કસ", "hindiPronunciation": "हिबिस्कस", "gujaratiMeaning": "જાસૂદ", "hindiMeaning": "गुड़हल" },
+        { "word": "Daisy", "icon": "🏵️", "gujaratiPronunciation": "ડેઇઝી", "hindiPronunciation": "डेज़ी", "gujaratiMeaning": "ડેઇઝી (સૂર્યમુખી)", "hindiMeaning": "गुलबहार" },
+        { "word": "Orchid", "icon": "💜", "gujaratiPronunciation": "ઓર્કિડ", "hindiPronunciation": "ऑर्किड", "gujaratiMeaning": "ઓર્કિડ", "hindiMeaning": "ऑर्किड" }
+    ]
+}

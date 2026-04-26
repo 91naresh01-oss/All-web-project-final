@@ -1,0 +1,428 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4: Inscribe | Rehearse | Catalogue | Retrieve | Reconstruct",
+  "words": [
+    {
+      "word": "Inscribe",
+      "gujaratiPronunciation": "ઇન્સ્ક્રાઇબ",
+      "hindiPronunciation": "इन्स्क्राइब",
+      "gujaratiMeaning": "કોતરવું",
+      "hindiMeaning": "अंकित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Inscribe",
+          "gujaratiPronunciation": "ઇન્સ્ક્રાઇબ",
+          "hindiPronunciation": "इन्स्क्राइब",
+          "gujaratiMeaning": "કોતરવું",
+          "hindiMeaning": "अंकित करना"
+        },
+        "V2": {
+          "word": "Inscribed",
+          "gujaratiPronunciation": "ઇન્સ્ક્રાઇબ્ડ",
+          "hindiPronunciation": "इन्स्क्राइब्ड",
+          "gujaratiMeaning": "કોતર્યું",
+          "hindiMeaning": "अंकित किया"
+        },
+        "V3": {
+          "word": "Inscribed",
+          "gujaratiPronunciation": "ઇન્સ્ક્રાઇબ્ડ",
+          "hindiPronunciation": "इन्स्क्राइब्ड",
+          "gujaratiMeaning": "કોતરેલું",
+          "hindiMeaning": "अंकित"
+        },
+        "V4": {
+          "word": "Inscribing",
+          "gujaratiPronunciation": "ઇન્સ્ક્રાઇબિંગ",
+          "hindiPronunciation": "इन्स्क्राइबिंग",
+          "gujaratiMeaning": "કોતરી રહ્યું છે",
+          "hindiMeaning": "अंकित कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Engrave",
+          "gujaratiPronunciation": "એન્ગ્રેવ",
+          "hindiPronunciation": "एन्ग्रेव",
+          "gujaratiMeaning": "કોતરકામ કરવું",
+          "hindiMeaning": "नक्काशी करना"
+        },
+        {
+          "word": "Carve",
+          "gujaratiPronunciation": "કાર્વ",
+          "hindiPronunciation": "कार्व",
+          "gujaratiMeaning": "કોતરવું",
+          "hindiMeaning": "तराशना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Erase",
+          "gujaratiPronunciation": "ઇરેઝ",
+          "hindiPronunciation": "इरेज़",
+          "gujaratiMeaning": "ભૂંસી નાખવું",
+          "hindiMeaning": "मिटाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Describe",
+          "gujaratiPronunciation": "ડિસ્ક્રાઇબ",
+          "hindiPronunciation": "डिस्क्राइब",
+          "gujaratiMeaning": "વર્ણન કરવું",
+          "hindiMeaning": "वर्णन करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They will inscribe your name on the trophy.",
+          "gujaratiTranslation": "તેઓ ટ્રોફી પર તમારું નામ કોતરશે.",
+          "hindiTranslation": "वे ट्रॉफी पर आपका नाम अंकित करेंगे।",
+          "gujaratiPronunciation": "ધે વિલ ઇન્સ્ક્રાઇબ યોર નેમ ઓન ધ ટ્રોફી.",
+          "hindiPronunciation": "दे विल इन्स्क्राइब योर नेम ऑन द ट्रॉफी।"
+        }
+      ]
+    },
+    {
+      "word": "Rehearse",
+      "gujaratiPronunciation": "રિહર્સ",
+      "hindiPronunciation": "रिहर्स",
+      "gujaratiMeaning": "પૂર્વ અભ્યાસ કરવો",
+      "hindiMeaning": "अभ्यास करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Rehearse",
+          "gujaratiPronunciation": "રિહર્સ",
+          "hindiPronunciation": "रिहर्स",
+          "gujaratiMeaning": "પૂર્વ અભ્યાસ કરવો",
+          "hindiMeaning": "अभ्यास करना"
+        },
+        "V2": {
+          "word": "Rehearsed",
+          "gujaratiPronunciation": "રિહર્સ્ડ",
+          "hindiPronunciation": "रिहर्स्ड",
+          "gujaratiMeaning": "પૂર્વ અભ્યાસ કર્યો",
+          "hindiMeaning": "अभ्यास किया"
+        },
+        "V3": {
+          "word": "Rehearsed",
+          "gujaratiPronunciation": "રિહર્સ્ડ",
+          "hindiPronunciation": "रिहर्स्ड",
+          "gujaratiMeaning": "પૂર્વ અભ્યાસ કરેલો",
+          "hindiMeaning": "अभ्यास किया हुआ"
+        },
+        "V4": {
+          "word": "Rehearsing",
+          "gujaratiPronunciation": "રિહર્સિંગ",
+          "hindiPronunciation": "रिहर्सिंग",
+          "gujaratiMeaning": "પૂર્વ અભ્યાસ કરી રહ્યું છે",
+          "hindiMeaning": "अभ्यास कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Practice",
+          "gujaratiPronunciation": "પ્રેક્ટિસ",
+          "hindiPronunciation": "प्रैक्टिस",
+          "gujaratiMeaning": "અભ્યાસ કરવો",
+          "hindiMeaning": "अभ्यास करना"
+        },
+        {
+          "word": "Prepare",
+          "gujaratiPronunciation": "પ્રિપેર",
+          "hindiPronunciation": "प्रिपेयर",
+          "gujaratiMeaning": "તૈયારી કરવી",
+          "hindiMeaning": "तैयारी करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Improvise",
+          "gujaratiPronunciation": "ઇમ્પ્રોવાઇઝ",
+          "hindiPronunciation": "इम्प्रोवाइज़",
+          "gujaratiMeaning": "તાત્કાલિક રચના કરવી",
+          "hindiMeaning": "तत्काल रचना करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Reverse",
+          "gujaratiPronunciation": "રિવર્સ",
+          "hindiPronunciation": "रिवर्स",
+          "gujaratiMeaning": "ઉલટું",
+          "hindiMeaning": "उल्टा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The actors need to rehearse the scene again.",
+          "gujaratiTranslation": "અભિનેતાઓએ દ્રશ્યનો ફરીથી પૂર્વ અભ્યાસ કરવાની જરૂર છે.",
+          "hindiTranslation": "अभिनेताओं को दृश्य का फिर से अभ्यास करने की आवश्यकता है।",
+          "gujaratiPronunciation": "ધ એક્ટર્સ નીડ ટુ રિહર્સ ધ સીન અગેન.",
+          "hindiPronunciation": "द एक्टर्स नीड टू रिहर्स द सीन अगेन।"
+        }
+      ]
+    },
+    {
+      "word": "Catalogue",
+      "gujaratiPronunciation": "કેટલોગ",
+      "hindiPronunciation": "कैटलॉग",
+      "gujaratiMeaning": "સૂચિ બનાવવી",
+      "hindiMeaning": "सूची बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Catalogue",
+          "gujaratiPronunciation": "કેટલોગ",
+          "hindiPronunciation": "कैटलॉग",
+          "gujaratiMeaning": "સૂચિ બનાવવી",
+          "hindiMeaning": "सूची बनाना"
+        },
+        "V2": {
+          "word": "Catalogued",
+          "gujaratiPronunciation": "કેટલોગ્ડ",
+          "hindiPronunciation": "कैटलॉग्ड",
+          "gujaratiMeaning": "સૂચિ બનાવી",
+          "hindiMeaning": "सूची बनाई"
+        },
+        "V3": {
+          "word": "Catalogued",
+          "gujaratiPronunciation": "કેટલોગ્ડ",
+          "hindiPronunciation": "कैटलॉग्ड",
+          "gujaratiMeaning": "સૂચિ બનાવેલી",
+          "hindiMeaning": "सूचीबद्ध"
+        },
+        "V4": {
+          "word": "Cataloguing",
+          "gujaratiPronunciation": "કેટલોગિંગ",
+          "hindiPronunciation": "कैटलॉगिंग",
+          "gujaratiMeaning": "સૂચિ બનાવી રહ્યું છે",
+          "hindiMeaning": "सूची बना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "List",
+          "gujaratiPronunciation": "લિસ્ટ",
+          "hindiPronunciation": "लिस्ट",
+          "gujaratiMeaning": "યાદી બનાવવી",
+          "hindiMeaning": "सूची बनाना"
+        },
+        {
+          "word": "Index",
+          "gujaratiPronunciation": "ઇન્ડેક્સ",
+          "hindiPronunciation": "इंडेक्स",
+          "gujaratiMeaning": "અનુક્રમણિકા બનાવવી",
+          "hindiMeaning": "अनुक्रमणिका बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Disorganize",
+          "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ",
+          "hindiPronunciation": "डिसऑर्गनाइज़",
+          "gujaratiMeaning": "અવ્યવસ્થિત કરવું",
+          "hindiMeaning": "अस्त-व्यस्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Cattle",
+          "gujaratiPronunciation": "કેટલ",
+          "hindiPronunciation": "कैटल",
+          "gujaratiMeaning": "ઢોર",
+          "hindiMeaning": "मवेशी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The librarian will catalogue the new books.",
+          "gujaratiTranslation": "ગ્રંથપાલ નવા પુસ્તકોની સૂચિ બનાવશે.",
+          "hindiTranslation": "पुस्तकालयाध्यक्ष नई पुस्तकों की सूची बनाएगा।",
+          "gujaratiPronunciation": "ધ લાઇબ્રેરિયન વિલ કેટલોગ ધ ન્યુ બુક્સ.",
+          "hindiPronunciation": "द लाइब्रेरियन विल कैटलॉग द न्यू बुक्स।"
+        }
+      ]
+    },
+    {
+      "word": "Retrieve",
+      "gujaratiPronunciation": "રિટ્રીવ",
+      "hindiPronunciation": "रिट्रीव",
+      "gujaratiMeaning": "પાછું મેળવવું",
+      "hindiMeaning": "पुनः प्राप्त करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Retrieve",
+          "gujaratiPronunciation": "રિટ્રીવ",
+          "hindiPronunciation": "रिट्रीव",
+          "gujaratiMeaning": "પાછું મેળવવું",
+          "hindiMeaning": "पुनः प्राप्त करना"
+        },
+        "V2": {
+          "word": "Retrieved",
+          "gujaratiPronunciation": "રિટ્રીવ્ડ",
+          "hindiPronunciation": "रिट्रीव्ड",
+          "gujaratiMeaning": "પાછું મેળવ્યું",
+          "hindiMeaning": "पुनः प्राप्त किया"
+        },
+        "V3": {
+          "word": "Retrieved",
+          "gujaratiPronunciation": "રિટ્રીવ્ડ",
+          "hindiPronunciation": "रिट्रीव्ड",
+          "gujaratiMeaning": "પાછું મેળવેલું",
+          "hindiMeaning": "पुनः प्राप्त किया हुआ"
+        },
+        "V4": {
+          "word": "Retrieving",
+          "gujaratiPronunciation": "રિટ્રીવિંગ",
+          "hindiPronunciation": "रिट्रीविंग",
+          "gujaratiMeaning": "પાછું મેળવી રહ્યું છે",
+          "hindiMeaning": "पुनः प्राप्त कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Recover",
+          "gujaratiPronunciation": "રિકવર",
+          "hindiPronunciation": "रिकवर",
+          "gujaratiMeaning": "ફરીથી પ્રાપ્ત કરવું",
+          "hindiMeaning": "पुनः प्राप्त करना"
+        },
+        {
+          "word": "Get back",
+          "gujaratiPronunciation": "ગેટ બેક",
+          "hindiPronunciation": "गेट बैक",
+          "gujaratiMeaning": "પાછું મેળવવું",
+          "hindiMeaning": "वापस पाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Lose",
+          "gujaratiPronunciation": "લૂઝ",
+          "hindiPronunciation": "लूज़",
+          "gujaratiMeaning": "ગુમાવવું",
+          "hindiMeaning": "खोना"
+        },
+        {
+          "word": "Abandon",
+          "gujaratiPronunciation": "અબૅન્ડન",
+          "hindiPronunciation": "अबैंडन",
+          "gujaratiMeaning": "ત્યાગ કરવો",
+          "hindiMeaning": "त्याग देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Retire",
+          "gujaratiPronunciation": "રિટાયર",
+          "hindiPronunciation": "रिटायर",
+          "gujaratiMeaning": "નિવૃત્ત થવું",
+          "hindiMeaning": "सेवानिवृत्त होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The police managed to retrieve the stolen goods.",
+          "gujaratiTranslation": "પોલીસ ચોરાયેલો માલ પાછો મેળવવામાં સફળ રહી.",
+          "hindiTranslation": "पुलिस चोरी का माल बरामद करने में सफल रही।",
+          "gujaratiPronunciation": "ધ પોલીસ મેનેજ્ડ ટુ રિટ્રીવ ધ સ્ટોલન ગુડ્સ.",
+          "hindiPronunciation": "द पुलिस मैनेज्ड टू रिट्रीव द स्टोलन गुड्स।"
+        }
+      ]
+    },
+    {
+      "word": "Reconstruct",
+      "gujaratiPronunciation": "રિકન્સ્ટ્રક્ટ",
+      "hindiPronunciation": "रिकंस्ट्रक्ट",
+      "gujaratiMeaning": "પુનર્નિર્માણ કરવું",
+      "hindiMeaning": "पुनर्निर्माण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Reconstruct",
+          "gujaratiPronunciation": "રિકન્સ્ટ્રક્ટ",
+          "hindiPronunciation": "रिकंस्ट्रक्ट",
+          "gujaratiMeaning": "પુનર્નિર્માણ કરવું",
+          "hindiMeaning": "पुनर्निर्माण करना"
+        },
+        "V2": {
+          "word": "Reconstructed",
+          "gujaratiPronunciation": "રિકન્સ્ટ્રક્ટેડ",
+          "hindiPronunciation": "रिकंस्ट्रक्टेड",
+          "gujaratiMeaning": "પુનર્નિર્માણ કર્યું",
+          "hindiMeaning": "पुनर्निर्माण किया"
+        },
+        "V3": {
+          "word": "Reconstructed",
+          "gujaratiPronunciation": "રિકન્સ્ટ્રક્ટેડ",
+          "hindiPronunciation": "रिकंस्ट्रक्टेड",
+          "gujaratiMeaning": "પુનર્નિર્માણ કરેલું",
+          "hindiMeaning": "पुनर्निर्मित"
+        },
+        "V4": {
+          "word": "Reconstructing",
+          "gujaratiPronunciation": "રિકન્સ્ટ્રક્ટિંગ",
+          "hindiPronunciation": "रिकंस्ट्रक्टिंग",
+          "gujaratiMeaning": "પુનર્નિર્માણ કરી રહ્યું છે",
+          "hindiMeaning": "पुनर्निर्माण कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rebuild",
+          "gujaratiPronunciation": "રીબિલ્ડ",
+          "hindiPronunciation": "रिबिल्ड",
+          "gujaratiMeaning": "ફરીથી બનાવવું",
+          "hindiMeaning": "फिर से बनाना"
+        },
+        {
+          "word": "Remake",
+          "gujaratiPronunciation": "રીમેક",
+          "hindiPronunciation": "रीमेक",
+          "gujaratiMeaning": "ફરીથી બનાવવું",
+          "hindiMeaning": "फिर से बनाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Demolish",
+          "gujaratiPronunciation": "ડિમોલિશ",
+          "hindiPronunciation": "डिमोलिश",
+          "gujaratiMeaning": "તોડી પાડવું",
+          "hindiMeaning": "ध्वस्त करना"
+        },
+        {
+          "word": "Destroy",
+          "gujaratiPronunciation": "ડિસ્ટ્રોય",
+          "hindiPronunciation": "डिस्ट्रॉय",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Restructure",
+          "gujaratiPronunciation": "રિસ્ટ્રક્ચર",
+          "hindiPronunciation": "रिस्ट्रक्चर",
+          "gujaratiMeaning": "પુનર્ગઠન કરવું",
+          "hindiMeaning": "पुनर्गठन करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They are trying to reconstruct the events of that night.",
+          "gujaratiTranslation": "તેઓ તે રાત્રિની ઘટનાઓનું પુનર્નિર્માણ કરવાનો પ્રયાસ કરી રહ્યા છે.",
+          "hindiTranslation": "वे उस रात की घटनाओं का पुनर्निर्माण करने की कोशिश कर रहे हैं।",
+          "gujaratiPronunciation": "ધે આર ટ્રાઇંગ ટુ રિકન્સ્ટ્રક્ટ ધ ઇવેન્ટ્સ ઓફ ધેટ નાઇટ.",
+          "hindiPronunciation": "दे आर ट्राइंग टू रिकंस्ट्रक्ट द इवेंट्स ऑफ़ दैट नाइट।"
+        }
+      ]
+    }
+  ]
+}
+
+    

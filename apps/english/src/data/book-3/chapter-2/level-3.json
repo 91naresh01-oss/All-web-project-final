@@ -1,0 +1,446 @@
+{
+  "id": "level-3",
+  "title": "Movement Verbs 3",
+  "words": [
+    {
+      "word": "Revolve",
+      "gujaratiPronunciation": "રિવૉલ્વ",
+      "hindiPronunciation": "रिवॉल्व",
+      "gujaratiMeaning": "પરિભ્રમણ કરવું",
+      "hindiMeaning": "घूमना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Revolve",
+          "gujaratiPronunciation": "રિવૉલ્વ",
+          "hindiPronunciation": "रिवॉल्व",
+          "gujaratiMeaning": "પરિભ્રમણ કરવું",
+          "hindiMeaning": "घूमना"
+        },
+        "V2": {
+          "word": "Revolved",
+          "gujaratiPronunciation": "રિવૉલ્વ્ડ",
+          "hindiPronunciation": "रिवॉल्व्ड",
+          "gujaratiMeaning": "પરિભ્રમણ કર્યું",
+          "hindiMeaning": "घूमा"
+        },
+        "V3": {
+          "word": "Revolved",
+          "gujaratiPronunciation": "રિવૉલ્વ્ડ",
+          "hindiPronunciation": "रिवॉल्व्ड",
+          "gujaratiMeaning": "પરિભ્રમણ કરેલું",
+          "hindiMeaning": "घूम चुका"
+        },
+        "V4": {
+          "word": "Revolving",
+          "gujaratiPronunciation": "રિવૉલ્વિંગ",
+          "hindiPronunciation": "रिवॉल्विंग",
+          "gujaratiMeaning": "પરિભ્રમણ કરી રહ્યો છે",
+          "hindiMeaning": "घूम रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Rotate",
+          "gujaratiPronunciation": "રોટેટ",
+          "hindiPronunciation": "रोटेट",
+          "gujaratiMeaning": "ફરવું",
+          "hindiMeaning": "घूमना"
+        },
+        {
+          "word": "Spin",
+          "gujaratiPronunciation": "સ્પિન",
+          "hindiPronunciation": "स्पिन",
+          "gujaratiMeaning": "ગોળ ફરવું",
+          "hindiMeaning": "चक्कर लगाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Stop",
+          "gujaratiPronunciation": "સ્ટૉપ",
+          "hindiPronunciation": "स्टॉप",
+          "gujaratiMeaning": "રોકાવું",
+          "hindiMeaning": "रुकना"
+        },
+        {
+          "word": "Stay",
+          "gujaratiPronunciation": "સ્ટે",
+          "hindiPronunciation": "स्टे",
+          "gujaratiMeaning": "રહેવું",
+          "hindiMeaning": "रहना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Resolve",
+          "gujaratiPronunciation": "રિઝૉલ્વ",
+          "hindiPronunciation": "रिज़ॉल्व",
+          "gujaratiMeaning": "ઉકેલવું",
+          "hindiMeaning": "हल करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The Earth revolves around the Sun.",
+          "gujaratiTranslation": "પૃથ્વી સૂર્યની આસપાસ પરિભ્રમણ કરે છે.",
+          "hindiTranslation": "पृथ्वी सूर्य के चारों ओर घूमती है।",
+          "gujaratiPronunciation": "ધી અર્થ રિવૉલ્વ્સ અરાઉન્ડ ધ સન.",
+          "hindiPronunciation": "द अर्थ रिवॉल्व्स अराउंड द सन।"
+        }
+      ]
+    },
+    {
+      "word": "Tumble",
+      "gujaratiPronunciation": "ટમ્બલ",
+      "hindiPronunciation": "टम्बल",
+      "gujaratiMeaning": "ગબડી પડવું",
+      "hindiMeaning": "लुढ़कना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Tumble",
+          "gujaratiPronunciation": "ટમ્બલ",
+          "hindiPronunciation": "टम्बल",
+          "gujaratiMeaning": "ગબડવું",
+          "hindiMeaning": "लुढ़कना"
+        },
+        "V2": {
+          "word": "Tumbled",
+          "gujaratiPronunciation": "ટમ્બલ્ડ",
+          "hindiPronunciation": "टम्बल्ड",
+          "gujaratiMeaning": "ગબડ્યો",
+          "hindiMeaning": "लुढ़का"
+        },
+        "V3": {
+          "word": "Tumbled",
+          "gujaratiPronunciation": "ટમ્બલ્ડ",
+          "hindiPronunciation": "टम्बल्ड",
+          "gujaratiMeaning": "ગબડેલો",
+          "hindiMeaning": "लुढ़क चुका"
+        },
+        "V4": {
+          "word": "Tumbling",
+          "gujaratiPronunciation": "ટમ્બલિંગ",
+          "hindiPronunciation": "टम्बलिंग",
+          "gujaratiMeaning": "ગબડી રહ્યો છે",
+          "hindiMeaning": "लुढ़क रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Fall",
+          "gujaratiPronunciation": "ફૉલ",
+          "hindiPronunciation": "फॉल",
+          "gujaratiMeaning": "પડવું",
+          "hindiMeaning": "गिरना"
+        },
+        {
+          "word": "Trip",
+          "gujaratiPronunciation": "ટ્રિપ",
+          "hindiPronunciation": "ट्रिप",
+          "gujaratiMeaning": "ઠોકર ખાવી",
+          "hindiMeaning": "ठोकर खाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Rise",
+          "gujaratiPronunciation": "રાઇઝ",
+          "hindiPronunciation": "राइज़",
+          "gujaratiMeaning": "ઊભા થવું",
+          "hindiMeaning": "उठना"
+        },
+        {
+          "word": "Stabilize",
+          "gujaratiPronunciation": "સ્ટેબિલાઇઝ",
+          "hindiPronunciation": "स्टेबलाइज़",
+          "gujaratiMeaning": "સ્થિર થવું",
+          "hindiMeaning": "स्थिर होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Rumble",
+          "gujaratiPronunciation": "રમ્બલ",
+          "hindiPronunciation": "रम्बल",
+          "gujaratiMeaning": "ગડગડાટ",
+          "hindiMeaning": "गड़गड़ाहट"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The books tumbled off the shelf.",
+          "gujaratiTranslation": "પુસ્તકો છાજલી પરથી ગબડી પડ્યા.",
+          "hindiTranslation": "किताबें शेल्फ से लुढ़क गईं।",
+          "gujaratiPronunciation": "ધ બુક્સ ટમ્બલ્ડ ઓફ ધ શેલ્ફ.",
+          "hindiPronunciation": "द बुक्स टम्बल्ड ऑफ द शेल्फ।"
+        }
+      ]
+    },
+    {
+      "word": "Heave",
+      "gujaratiPronunciation": "હીવ",
+      "hindiPronunciation": "हीव",
+      "gujaratiMeaning": "જોર લગાવીને ઊંચકવું",
+      "hindiMeaning": "जोर लगाकर उठाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Heave",
+          "gujaratiPronunciation": "હીવ",
+          "hindiPronunciation": "हीव",
+          "gujaratiMeaning": "ઊંચકવું",
+          "hindiMeaning": "उठाना"
+        },
+        "V2": {
+          "word": "Hove/Heaved",
+          "gujaratiPronunciation": "હોવ/હીવ્ડ",
+          "hindiPronunciation": "होव/हीव्ड",
+          "gujaratiMeaning": "ઊંચક્યું",
+          "hindiMeaning": "उठाया"
+        },
+        "V3": {
+          "word": "Hove/Heaved",
+          "gujaratiPronunciation": "હોવ/હીવ્ડ",
+          "hindiPronunciation": "होव/हीव्ड",
+          "gujaratiMeaning": "ઊંચકેલું",
+          "hindiMeaning": "उठा चुका"
+        },
+        "V4": {
+          "word": "Heaving",
+          "gujaratiPronunciation": "હીવિંગ",
+          "hindiPronunciation": "हीविंग",
+          "gujaratiMeaning": "ઊંચકી રહ્યો છે",
+          "hindiMeaning": "उठा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Haul",
+          "gujaratiPronunciation": "હૉલ",
+          "hindiPronunciation": "हॉल",
+          "gujaratiMeaning": "ખેંચવું",
+          "hindiMeaning": "खींचना"
+        },
+        {
+          "word": "Lift",
+          "gujaratiPronunciation": "લિફ્ટ",
+          "hindiPronunciation": "लिफ्ट",
+          "gujaratiMeaning": "ઊંચકવું",
+          "hindiMeaning": "उठाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Drop",
+          "gujaratiPronunciation": "ડ્રૉપ",
+          "hindiPronunciation": "ड्रॉप",
+          "gujaratiMeaning": "મૂકી દેવું",
+          "hindiMeaning": "गिरा देना"
+        },
+        {
+          "word": "Set down",
+          "gujaratiPronunciation": "સેટ ડાઉન",
+          "hindiPronunciation": "सेट डाउन",
+          "gujaratiMeaning": "નીચે મૂકવું",
+          "hindiMeaning": "नीचे रखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Heaven",
+          "gujaratiPronunciation": "હેવન",
+          "hindiPronunciation": "हेवन",
+          "gujaratiMeaning": "સ્વર્ગ",
+          "hindiMeaning": "स्वर्ग"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They heaved the heavy box into the truck.",
+          "gujaratiTranslation": "તેઓએ ભારે બોક્સને ટ્રકમાં જોર લગાવીને ચડાવ્યું.",
+          "hindiTranslation": "उन्होंने भारी बक्से को जोर लगाकर ट्रक में चढ़ाया।",
+          "gujaratiPronunciation": "ધે હીવ્ડ ધ હેવી બૉક્સ ઇનટુ ધ ટ્રક.",
+          "hindiPronunciation": "दे हीव्ड द हैवी बॉक्स इनटू द ट्रक।"
+        }
+      ]
+    },
+    {
+      "word": "Whack",
+      "gujaratiPronunciation": "વૅક",
+      "hindiPronunciation": "वैक",
+      "gujaratiMeaning": "ફટકો મારવો",
+      "hindiMeaning": "ज़ोर से मारना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Whack",
+          "gujaratiPronunciation": "વૅક",
+          "hindiPronunciation": "वैक",
+          "gujaratiMeaning": "ફટકો મારવો",
+          "hindiMeaning": "मारना"
+        },
+        "V2": {
+          "word": "Whacked",
+          "gujaratiPronunciation": "વૅક્ડ",
+          "hindiPronunciation": "वैक्ड",
+          "gujaratiMeaning": "ફટકો માર્યો",
+          "hindiMeaning": "मारा"
+        },
+        "V3": {
+          "word": "Whacked",
+          "gujaratiPronunciation": "વૅક્ડ",
+          "hindiPronunciation": "वैक्ड",
+          "gujaratiMeaning": "ફટકો મારેલો",
+          "hindiMeaning": "मार चुका"
+        },
+        "V4": {
+          "word": "Whacking",
+          "gujaratiPronunciation": "વૅકિંગ",
+          "hindiPronunciation": "वैकिंग",
+          "gujaratiMeaning": "ફટકો મારી રહ્યો છે",
+          "hindiMeaning": "मार रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Hit",
+          "gujaratiPronunciation": "હિટ",
+          "hindiPronunciation": "हिट",
+          "gujaratiMeaning": "મારવું",
+          "hindiMeaning": "मारना"
+        },
+        {
+          "word": "Strike",
+          "gujaratiPronunciation": "સ્ટ્રાઇક",
+          "hindiPronunciation": "स्ट्राइक",
+          "gujaratiMeaning": "પ્રહાર કરવો",
+          "hindiMeaning": "प्रहार करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Pat",
+          "gujaratiPronunciation": "પેટ",
+          "hindiPronunciation": "पैट",
+          "gujaratiMeaning": "થપથપાવવું",
+          "hindiMeaning": "थपथपाना"
+        },
+        {
+          "word": "Touch",
+          "gujaratiPronunciation": "ટચ",
+          "hindiPronunciation": "टच",
+          "gujaratiMeaning": "સ્પર્શ કરવો",
+          "hindiMeaning": "छूना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Weak",
+          "gujaratiPronunciation": "વીક",
+          "hindiPronunciation": "वीक",
+          "gujaratiMeaning": "નબળું",
+          "hindiMeaning": "कमज़ोर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He whacked the ball with the bat.",
+          "gujaratiTranslation": "તેણે બેટ વડે બોલને ફટકો માર્યો.",
+          "hindiTranslation": "उसने बल्ले से गेंद को ज़ोर से मारा।",
+          "gujaratiPronunciation": "હી વૅક્ડ ધ બૉલ વિથ ધ બેટ.",
+          "hindiPronunciation": "ही वैक्ड द बॉल विद द बैट।"
+        }
+      ]
+    },
+    {
+      "word": "Propel",
+      "gujaratiPronunciation": "પ્રોપેલ",
+      "hindiPronunciation": "प्रोपेल",
+      "gujaratiMeaning": "આગળ ધકેલવું",
+      "hindiMeaning": "आगे धकेलना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Propel",
+          "gujaratiPronunciation": "પ્રોપેલ",
+          "hindiPronunciation": "प्रोपेल",
+          "gujaratiMeaning": "આગળ ધકેલવું",
+          "hindiMeaning": "आगे धकेलना"
+        },
+        "V2": {
+          "word": "Propelled",
+          "gujaratiPronunciation": "પ્રોપેલ્ડ",
+          "hindiPronunciation": "प्रोपैल्ड",
+          "gujaratiMeaning": "આગળ ધકેલ્યું",
+          "hindiMeaning": "आगे धकेला"
+        },
+        "V3": {
+          "word": "Propelled",
+          "gujaratiPronunciation": "પ્રોપેલ્ડ",
+          "hindiPronunciation": "प्रोपैल्ड",
+          "gujaratiMeaning": "આગળ ધકેલેલું",
+          "hindiMeaning": "आगे धकेल चुका"
+        },
+        "V4": {
+          "word": "Propelling",
+          "gujaratiPronunciation": "પ્રોપેલિંગ",
+          "hindiPronunciation": "प्रोपेलिंग",
+          "gujaratiMeaning": "આગળ ધકેલી રહ્યો છે",
+          "hindiMeaning": "आगे धकेल रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Push",
+          "gujaratiPronunciation": "પુશ",
+          "hindiPronunciation": "पुश",
+          "gujaratiMeaning": "ધક્કો મારવો",
+          "hindiMeaning": "धक्का देना"
+        },
+        {
+          "word": "Drive",
+          "gujaratiPronunciation": "ડ્રાઇવ",
+          "hindiPronunciation": "ड्राइव",
+          "gujaratiMeaning": "ચલાવવું",
+          "hindiMeaning": "चलाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Pull",
+          "gujaratiPronunciation": "પુલ",
+          "hindiPronunciation": "पुल",
+          "gujaratiMeaning": "ખેંચવું",
+          "hindiMeaning": "खींचना"
+        },
+        {
+          "word": "Hold back",
+          "gujaratiPronunciation": "હોલ્ડ બેક",
+          "hindiPronunciation": "होल्ड बैक",
+          "gujaratiMeaning": "રોકી રાખવું",
+          "hindiMeaning": "रोक कर रखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Proper",
+          "gujaratiPronunciation": "પ્રોપર",
+          "hindiPronunciation": "प्रॉपर",
+          "gujaratiMeaning": "યોગ્ય",
+          "hindiMeaning": "उचित"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The engine propels the boat.",
+          "gujaratiTranslation": "એન્જિન બોટને આગળ ધકેલે છે.",
+          "hindiTranslation": "इंजन नाव को आगे धकेलता है।",
+          "gujaratiPronunciation": "ધી એન્જિન પ્રોપેલ્સ ધ બોટ.",
+          "hindiPronunciation": "द इंजन प्रोपेल्स द बोट।"
+        }
+      ]
+    }
+  ]
+}

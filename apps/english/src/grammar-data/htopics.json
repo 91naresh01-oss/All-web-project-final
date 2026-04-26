@@ -1,0 +1,226 @@
+[
+  {
+    "id": "active-passive-voice",
+    "folder": "active-passive-voice",
+    "title": "Active-Passive Voice (कर्तृवाच्य-कर्मवाच्य)",
+    "label": "Active-Passive Voice - कर्तृवाच्य-कर्मवाच्य",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "adjectives",
+    "folder": "adjectives",
+    "title": "Adjectives (विशेषण)",
+    "label": "Adjectives - विशेषण",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "adverbs",
+    "folder": "adverbs",
+    "title": "Adverbs (क्रियाविशेषण)",
+    "label": "Adverbs - क्रियाविशेषण",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "animals",
+    "folder": "animals",
+    "title": "Animals (जानवर)",
+    "label": "Animals - जानवर",
+    "lang": "hi",
+    "totalTests": 20
+  },
+  {
+    "id": "articles",
+    "folder": "articles",
+    "title": "Articles (आर्टिकल्स)",
+    "label": "Articles - आर्टिकल्स",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "auxiliary-verbs",
+    "folder": "auxiliary-verbs",
+    "title": "Auxiliary Verbs (सहायक क्रियाएँ)",
+    "label": "Auxiliary Verbs - सहायक क्रियाएँ",
+    "lang": "hi",
+    "totalTests": 20
+  },
+  {
+    "id": "causal-verbs",
+    "folder": "causal-verbs",
+    "title": "Causal Verbs (प्रेरक क्रियापद)",
+    "label": "Causal Verbs - प्रेरक क्रियापद",
+    "lang": "hi",
+    "totalTests": 10
+  },
+  {
+    "id": "conjunctions",
+    "folder": "conjunctions",
+    "title": "Conjunctions (समुच्चयबोधक)",
+    "label": "Conjunctions - समुच्चयबोधक",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "degree-of-comparison",
+    "folder": "degree-of-comparison",
+    "title": "Degree of Comparison (तुलना की अवस्थाएँ)",
+    "label": "Degree of Comparison - तुलना की अवस्थाएँ",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "direct-indirect-speech",
+    "folder": "direct-indirect-speech",
+    "title": "Direct-Indirect Speech (प्रत्यक्ष-अप्रत्यक्ष)",
+    "label": "Direct-Indirect Speech - प्रत्यक्ष-अप्रत्यक्ष",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "future-tense",
+    "folder": "future-tense",
+    "title": "Future Tense (भविष्य काल)",
+    "label": "Future Tense - भविष्य काल",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "gender",
+    "folder": "gender",
+    "title": "Gender (लिंग)",
+    "label": "Gender - लिंग",
+    "lang": "hi",
+    "totalTests": 20
+  },
+  {
+    "id": "non-finite-verbs",
+    "folder": "non-finite-verbs",
+    "title": "Non-Finite Verbs",
+    "label": "Non-Finite Verbs",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "part-of-speech",
+    "folder": "part-of-speech",
+    "title": "Part of Speech (शब्द भेद)",
+    "label": "Part of Speech - शब्द भेद",
+    "lang": "hi",
+    "totalTests": 20
+  },
+  {
+    "id": "participles",
+    "folder": "participles",
+    "title": "Participles (कृदंत)",
+    "label": "Participles - कृदंत",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "past-tense",
+    "folder": "past-tense",
+    "title": "Past Tense (भूतकाल)",
+    "label": "Past Tense - भूतकाल",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "personal-pronouns",
+    "folder": "personal-pronouns",
+    "title": "Personal Pronouns (पुरुषवाચक सर्वनाम)",
+    "label": "Personal Pronouns - पुरुषवाचक सर्वनाम",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "prepositions",
+    "folder": "prepositions",
+    "title": "Prepositions (संबंधसूचक अव्यय)",
+    "label": "Prepositions - संबंधसूचक अव्यय",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "present-tense",
+    "folder": "present-tense",
+    "title": "Present Tense (वर्तमान काल)",
+    "label": "Present Tense - वर्तमान काल",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "pronouns",
+    "folder": "pronouns",
+    "title": "Pronouns (सर्वनाम)",
+    "label": "Pronouns - सर्वनाम",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "question-tags",
+    "folder": "question-tags",
+    "title": "Question Tags (प्रश्न टैग्स)",
+    "label": "Question Tags - प्रश्न टैग्स",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "sentence-h",
+    "folder": "sentence",
+    "title": "Sentence (वाक्य)",
+    "label": "Sentence - वाक्य",
+    "lang": "hi",
+    "totalTests": 50
+  },
+  {
+    "id": "singular-plural",
+    "folder": "singular-plural",
+    "title": "Singular-Plural (एकवचन-बहुवचन)",
+    "label": "Singular-Plural - एकवचन-बहुवचन",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "subject-verb-agreement",
+    "folder": "subject-verb-agreement",
+    "title": "Subject-Verb Agreement",
+    "label": "Subject-Verb Agreement",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "types-of-noun",
+    "folder": "types-of-noun",
+    "title": "Types of Noun (संज्ञा के प्रकार)",
+    "label": "Types of Noun - संज्ञा के प्रकार",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "verb-h",
+    "folder": "verb",
+    "title": "Verb (क्रिया)",
+    "label": "Verb - क्रिया",
+    "lang": "hi",
+    "totalTests": 5
+  },
+  {
+    "id": "word-formation",
+    "folder": "word-formation",
+    "title": "Word Formation (शब्द रचना)",
+    "label": "Word Formation - शब्द रचना",
+    "lang": "hi",
+    "totalTests": 30
+  },
+  {
+    "id": "all-tenses",
+    "folder": "all-tenses",
+    "title": "All Tenses (सभी काल)",
+    "label": "All Tenses - सभी काल के मिश्रित प्रश्न",
+    "lang": "hi",
+    "totalTests": 30
+  }
+]

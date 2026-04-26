@@ -1,0 +1,133 @@
+import React from 'react';
+import {
+    TheoryCard,
+    GradientCard,
+    TheoryHeading,
+    TheorySubHeading,
+    TheoryText,
+    HighlightBox,
+    TheoryList,
+    TheoryListItem,
+    TheoryGrid,
+    TheoryTable,
+    TheoryTableHeader,
+    TheoryTableRow
+} from '../../../components/TheoryComponents';
+
+export const chapter20Theory = [
+    {
+        title: "૧. જંકચર (સીમાસંધિ)",
+        content: (
+            <div className="modern-theory-wrapper">
+                <GradientCard heading="૧. જંકચર (સીમાસંધિ)" theme="teal" icon="🔄">
+                    <div style={{ marginTop: '15px' }}>
+                        <TheorySubHeading glass>વ્યાખ્યા</TheorySubHeading>
+                        <TheoryText>
+                            વાક્યના જ્યારે બે શબ્દો વચ્ચે જગ્યા રાખવાથી કે ન રાખવાથી વાક્યનો કે શબ્દનો અર્થ બદલાતો હોય છે, જેને <strong>‘જંકચર’</strong> કહેવાય છે. તેને <strong>'સીમાસંધિ'</strong> પણ કહેવાય છે.
+                        </TheoryText>
+
+                        <TheorySubHeading glass>ઉદાહરણો (સીમાસંધિનો પ્રભાવ)</TheorySubHeading>
+                        <TheoryTable>
+                            <TheoryTableHeader theme="orange" headers={['ક્રમ', 'વાક્ય ૧ (સામાન્ય)', 'વાક્ય ૨ (જંકચર સાથે)']} />
+                            {[
+                                ['૧', 'પોપટલાલ મરચૂ ખાય છે.', 'પોપટ લાલ મરચુ ખાય છે.'],
+                                ['૨', 'આ મણિ લાલ છે.', 'આ મણિલાલ છે.'],
+                                ['૩', 'સરકાર સરસ ચાલે છે.', 'સર, કાર સરસ ચાલે છે.'],
+                                ['૪', 'માલતી જીવડા ખાય છે.', 'માલતીજી વડા ખાય છે.'],
+                                ['૫', 'ગંગાજળ લઈ આવ્યા તે.', 'ગંગા, જળ લઇ આવ્યા તે.'],
+                                ['૬', 'ફરી યાદ કરું?', 'હું ફરિયાદ કરું?'],
+                                ['૭', 'આભાર શાનો?', 'આ ભાર શાનો?'],
+                                ['૮', 'તમે નકશામાં જોયું.', 'તમે ન કશામાં જોયું.'],
+                                ['૯', 'આ પાઘડી ઉતારો તો સારું.', 'આ પા ઘડી ઉતારો તો સારું.']
+                            ].map((row, index) => (
+                                <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                            ))}
+                        </TheoryTable>
+                    </div>
+                </GradientCard>
+            </div>
+        )
+    },
+    {
+        title: "૨. સ્વરભાર",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryCard>
+                    <TheoryHeading color="#0ea5e9">૨. સ્વરભાર</TheoryHeading>
+                    <TheorySubHeading>વ્યાખ્યા</TheorySubHeading>
+                    <TheoryText>
+                        વાક્યના કોઇ શબ્દ પર ભાર મૂકીને જુદા જુદા ભાવ સાથે ઉચ્ચારવામાં આવે ત્યારે તેને <strong>સ્વરભાર</strong> કહેવાય છે.
+                    </TheoryText>
+
+                    <HighlightBox type="info" title="ઉદાહરણ સમજૂતી">
+                        એક જ વાક્યને અલગ અલગ રીતે બોલવાથી તેનો અર્થ અને ભાવ કેવી રીતે બદલાય છે તે નીચે મુજબ છે:
+                    </HighlightBox>
+
+                    <TheoryTable>
+                        <TheoryTableHeader theme="orange" headers={['ક્રમ', 'વાક્ય', 'ભાવ / અર્થ']} />
+                        {[
+                            ['૧', 'બહેન મંદિર પાછળ છે.', '(‘બહેન ક્યાં છે’ નો જવાબ)'],
+                            ['૨', 'બહેન, મંદિર પાછળ છે.', '(બહેનને સંબોધન કર્યું છે.)'],
+                            ['૩', 'બહેન મંદિર પાછળ છે!', '(નવાઈ વ્યક્ત કરી છે.)'],
+                            ['૪', 'બહેન મંદિર પાછળ છે?', '(પૃચ્છા કરવામાં આવી છે.)'],
+                            ['૫', 'બહેન, મંદિર પાછળ છે?', '(બહેનને પ્રશ્ન કર્યો છે.)']
+                        ].map((row, index) => (
+                            <TheoryTableRow key={index} cells={row} isEven={index % 2 !== 0} />
+                        ))}
+                    </TheoryTable>
+                </TheoryCard>
+            </div>
+        )
+    },
+    {
+        title: "૩. કાકુ અને પ્લુતિ",
+        content: (
+            <div className="modern-theory-wrapper">
+                <TheoryGrid minWidth="300px">
+                    <TheoryCard>
+                        <TheoryHeading color="#d946ef">૩. કાકુ (Sarcasm/Tone)</TheoryHeading>
+                        <TheoryText>
+                            <strong>કાકુ</strong> એટલે કટાક્ષમાં કહેવું તે. બોલનારને જ્યારે વ્યંગમાં કંઈ કહેવું હોય ત્યારે કાકુપ્રયોગ કરે છે. આપણે મોટાભાગે કોઇ વાત કટાક્ષથી સમજાવતા હોઇએ છીએ કે 'વ્યાજસ્તુતિ' અલંકાર વાપરીએ છીએ, તે કાકુ છે.
+                        </TheoryText>
+                        <TheorySubHeading>ઉદાહરણો:</TheorySubHeading>
+                        <TheoryList color="#d946ef">
+                            <TheoryListItem>ગામની બજારમાં તો ચારે બાજુ ગટરગંગા જોઇ લો ને!</TheoryListItem>
+                            <TheoryListItem>ધન્ય છે તમારી જનેતાને! આવા પથરા પડ્યા.</TheoryListItem>
+                            <TheoryListItem>ગુરુદેવ ઉન્માદ અને અત્યાચારના અરિ હતા.</TheoryListItem>
+                            <TheoryListItem>અમારા દેશ ખુશામતના કટ્ટર વેરી છે.</TheoryListItem>
+                        </TheoryList>
+                    </TheoryCard>
+
+                    <TheoryCard>
+                        <TheoryHeading color="#f59e0b">૪. પ્લુતિ (Prolonged Vowel)</TheoryHeading>
+                        <TheoryText>
+                            શબ્દના અમુક અંશને લંબાવીને ઉચ્ચારવામાં આવે ત્યારે કેટલીક વખત જુદી અર્થચ્છાયા નીપજે છે. આવા લંબાવીને ઉચ્ચારાયેલા સ્વરના ત્રણ માત્રા સુધીના લાંબા ઉચ્ચારણને <strong>“પ્લુતિ”</strong> કહેવાય છે.
+                        </TheoryText>
+
+                        <div style={{ marginTop: '15px' }}>
+                            <TheorySubHeading glass>સામાન્ય vs પ્લુતિ</TheorySubHeading>
+                            <TheoryList>
+                                <TheoryListItem>
+                                    <strong>સામાન્ય:</strong> એ કામ તમે કર્યું? (જાણવાના અર્થમાં)<br />
+                                    <strong>પ્લુતિ:</strong> એ...કામ તમે કર્યું? (નવાઈ સાથે)
+                                </TheoryListItem>
+                                <TheoryListItem>
+                                    <strong>સામાન્ય:</strong> તમે ખરા રમતવીર!<br />
+                                    <strong>પ્લુતિ:</strong> ઊગતો બાવળ કૂદી ગયા. (અહીં કટાક્ષનો સૂર છે)
+                                </TheoryListItem>
+                            </TheoryList>
+
+                            <TheorySubHeading glass>સરખામણી</TheorySubHeading>
+                            <TheoryList>
+                                <TheoryListItem>સારું (એકદમ બરાબર) <strong>vs</strong> સા...રું (એકદમ બરાબર નહીં).</TheoryListItem>
+                                <TheoryListItem>શું થયું? (માત્ર જાણવા) <strong>vs</strong> શું થયું? (વધારે ઉત્સાહથી).</TheoryListItem>
+                                <TheoryListItem>ઠીક છે (બરાબર છે) <strong>vs</strong> ઠી...ક છે (સાવ બરાબર નથી).</TheoryListItem>
+                                <TheoryListItem>એમ? (શંકા) <strong>vs</strong> એ...મ? (વધારે શંકા).</TheoryListItem>
+                            </TheoryList>
+                        </div>
+                    </TheoryCard>
+                </TheoryGrid>
+            </div>
+        )
+    }
+];

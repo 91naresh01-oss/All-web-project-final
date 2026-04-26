@@ -1,0 +1,76 @@
+{
+  "id": "level-5",
+  "title": "Digital Actions 5",
+  "words": [
+    {
+      "word": "Login",
+      "gujaratiPronunciation": "લૉગિન",
+      "hindiPronunciation": "लॉगिन",
+      "gujaratiMeaning": "લૉગિન કરવું",
+      "hindiMeaning": "लॉग इन करना",
+      "exampleSentences": [
+        {
+          "sentence": "You need to login to access your account.",
+          "gujaratiTranslation": "તમારું ખાતું ઍક્સેસ કરવા માટે તમારે લૉગિન કરવું પડશે.",
+          "hindiTranslation": "आपको अपने खाते तक पहुँचने के लिए लॉग इन करना होगा।"
+        }
+      ]
+    },
+    {
+      "word": "Share",
+      "gujaratiPronunciation": "શેર",
+      "hindiPronunciation": "शेयर",
+      "gujaratiMeaning": "શેર કરવું",
+      "hindiMeaning": "साझा करना",
+      "exampleSentences": [
+        {
+          "sentence": "You can share this post with your friends.",
+          "gujaratiTranslation": "તમે આ પોસ્ટ તમારા મિત્રો સાથે શેર કરી શકો છો.",
+          "hindiTranslation": "आप इस पोस्ट को अपने दोस्तों کے ساتھ साझा कर सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Update",
+      "gujaratiPronunciation": "અપડેટ",
+      "hindiPronunciation": "अपडेट",
+      "gujaratiMeaning": "અપડેટ કરવું",
+      "hindiMeaning": "अपडेट करना",
+      "exampleSentences": [
+        {
+          "sentence": "Please update your software.",
+          "gujaratiTranslation": "કૃપા કરીને તમારું સોફ્ટવેર અપડેટ કરો.",
+          "hindiTranslation": "कृपया अपना सॉफ्टवेयर अपडेट करें।"
+        }
+      ]
+    },
+    {
+      "word": "Create",
+      "gujaratiPronunciation": "ક્રિએટ",
+      "hindiPronunciation": "क्रिएट",
+      "gujaratiMeaning": "બનાવવું",
+      "hindiMeaning": "बनाना",
+      "exampleSentences": [
+        {
+          "sentence": "You can create a new folder here.",
+          "gujaratiTranslation": "તમે અહીં એક નવું ફોલ્ડર બનાવી શકો છો.",
+          "hindiTranslation": "आप یہاں एक नया फ़ोल्डर बना सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Program",
+      "gujaratiPronunciation": "પ્રોગ્રામ",
+      "hindiPronunciation": "प्रोग्राम",
+      "gujaratiMeaning": "પ્રોગ્રામ કરવો",
+      "hindiMeaning": "प्रोग्राम करना",
+      "exampleSentences": [
+        {
+          "sentence": "She knows how to program a computer.",
+          "gujaratiTranslation": "તેણી કમ્પ્યુટર પ્રોગ્રામ કેવી રીતે કરવો તે જાણે છે.",
+          "hindiTranslation": "वह जानती है कि कंप्यूटर को कैसे प्रोग्राम किया जाए।"
+        }
+      ]
+    }
+  ]
+}

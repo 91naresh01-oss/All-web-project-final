@@ -1,0 +1,63 @@
+
+{
+    "id": "level-6",
+    "title": "Animals 6",
+    "words": [
+        {
+            "word": "Buffalo",
+            "icon": "🐃",
+            "gujaratiPronunciation": "બફેલો",
+            "hindiPronunciation": "बफैलो",
+            "gujaratiMeaning": "ભેંસ",
+            "hindiMeaning": "भैंस"
+        },
+        {
+            "word": "Crocodile",
+            "icon": "🐊",
+            "gujaratiPronunciation": "ક્રોકોડાઇલ",
+            "hindiPronunciation": "क्रोकोडाइल",
+            "gujaratiMeaning": "મગર",
+            "hindiMeaning": "मगरमच्छ"
+        },
+        {
+            "word": "Hippopotamus",
+            "icon": "🦛",
+            "gujaratiPronunciation": "હિપ્પોપોટેમસ",
+            "hindiPronunciation": "हिप्पोपोटेमस",
+            "gujaratiMeaning": "હિપ્પોપોટેમસ",
+            "hindiMeaning": "दरियाई घोड़ा"
+        },
+        {
+            "word": "Rhinoceros",
+            "icon": "🦏",
+            "gujaratiPronunciation": "રાઇનોસર્સ",
+            "hindiPronunciation": "राइनोसर्स",
+            "gujaratiMeaning": "ગેંડો",
+            "hindiMeaning": "गेंडा"
+        },
+        {
+            "word": "Whale",
+            "icon": "🐋",
+            "gujaratiPronunciation": "વ્હેલ",
+            "hindiPronunciation": " व्हेल",
+            "gujaratiMeaning": "વ્હેલ",
+            "hindiMeaning": "व्हेल"
+        },
+        {
+            "word": "Shark",
+            "icon": "🦈",
+            "gujaratiPronunciation": "શાર્ક",
+            "hindiPronunciation": "शार्क",
+            "gujaratiMeaning": "શાર્ક",
+            "hindiMeaning": "शार्क"
+        },
+        {
+            "word": "Penguin",
+            "icon": "🐧",
+            "gujaratiPronunciation": "પેંગ્વિન",
+            "hindiPronunciation": "पेंगुइन",
+            "gujaratiMeaning": "પેંગ્વિન",
+            "hindiMeaning": "पेंगुइन"
+        }
+    ]
+}

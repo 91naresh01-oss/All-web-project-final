@@ -1,0 +1,1201 @@
+{
+  "id": "prepositions-gu",
+  "title": "Prepositions (નામયોગી અવ્યય)",
+  "description": "Preposition (નામયોગી અવ્યય) એ એવો શબ્દ છે જે વાક્યમાં Noun (નામ) અથવા Pronoun (સર્વનામ) ની પહેલાં વપરાય છે. તે સમય (Time), સ્થળ (Place), દિશા (Direction) કે અન્ય સંબંધો દર્શાવવા માટે ઉપયોગી છે. Pre (પહેલાં) + Position (સ્થાન) = જે નામની પહેલાં આવે છે તે.",
+  "content": [
+    {
+      "type": "section",
+      "title": "📚 What is Preposition? (Preposition શું છે?)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>Pre</b> (પહેલાં) + <b>Position</b> (સ્થાન) = <b>Preposition</b> = જે નામ/સર્વનામની પહેલાં આવે છે તે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Simple Prepositions:</b> એક શબ્દના બનેલા Prepositions. દા.ત., in, on, at, by, for, from, of, off, out, through, till, to, up, with.",
+            "<b>Compound Prepositions:</b> બે કે તેથી વધુ શબ્દોના જોડાણથી બનેલા Prepositions. દા.ત., into, within, without, beside, between, among.",
+            "<b>Phrasal Prepositions:</b> શબ્દસમૂહ તરીકે વપરાતા Prepositions. દા.ત., according to, in front of, on behalf of, because of, in spite of."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🕒 Prepositions of Time (સમય દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "સમય દર્શાવવા માટે મુખ્યત્વે <b>At, On, In</b> નો ઉપયોગ થાય છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "⏰ Time Prepositions",
+            "headers": [
+              "Preposition",
+              "ક્યારે વપરાય?",
+              "Example",
+              "ગુજરાતી અર્થ"
+            ],
+            "rows": [
+              [
+                "<b>At</b>",
+                "ચોક્કસ સમય (Clock time), તહેવારો",
+                "I wake up <b>at</b> 6 AM.",
+                "હું સવારે 6 વાગ્યે ઉઠું છું."
+              ],
+              [
+                "<b>On</b>",
+                "વાર (Days), તારીખો (Dates)",
+                "Let's meet <b>on</b> Sunday.",
+                "ચાલો રવિવારે મળીએ."
+              ],
+              [
+                "<b>In</b>",
+                "મહિના, વર્ષ, ઋતુ, સવાર/સાંજ",
+                "He was born <b>in</b> 1990.",
+                "તેમનો જન્મ 1990માં થયો."
+              ],
+              [
+                "<b>Since</b>",
+                "ચોક્કસ સમયથી શરૂ (Point of time)",
+                "I have been waiting <b>since</b> morning.",
+                "હું સવારથી રાહ જોઈ રહ્યો છું."
+              ],
+              [
+                "<b>For</b>",
+                "સમયગાળા માટે (Duration)",
+                "We talked <b>for</b> 2 hours.",
+                "અમે 2 કલાક વાત કરી."
+              ],
+              [
+                "<b>During</b>",
+                "સમયગાળા 'દરમિયાન'",
+                "They visited many places <b>during</b> vacation.",
+                "તેઓ વેકેશન દરમિયાન ઘણી જગ્યાએ ફર્યા."
+              ],
+              [
+                "<b>By</b>",
+                "સમય 'સુધીમાં' પૂરું થવું",
+                "I will finish <b>by</b> 5 PM.",
+                "હું 5 વાગ્યા સુધીમાં પૂરું કરીશ."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>યાદ રાખો:</b><br>• <b>In</b> the morning, <b>In</b> the evening<br>• પરંતુ, <b>At</b> night, <b>At</b> noon"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🏠 Prepositions of Place (સ્થળ દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "વસ્તુ ક્યાં પડી છે કે વ્યક્તિ ક્યાં છે તે બતાવવા માટે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📍 Place Prepositions",
+            "headers": [
+              "Preposition",
+              "ક્યારે વપરાય?",
+              "Example",
+              "ગુજરાતી અર્થ"
+            ],
+            "rows": [
+              [
+                "<b>In</b>",
+                "બંધ જગ્યાની અંદર",
+                "The pen is <b>in</b> the box.",
+                "પેન બોક્સની <b>અંદર</b> છે."
+              ],
+              [
+                "<b>On</b>",
+                "સપાટીને અડીને ઉપર",
+                "The book is <b>on</b> the table.",
+                "પુસ્તક ટેબલ <b>પર</b> છે."
+              ],
+              [
+                "<b>At</b>",
+                "ચોક્કસ બિંદુ કે સ્થળ માટે",
+                "Someone is <b>at</b> the door.",
+                "કોઈક દરવાજા <b>પાસે</b> છે."
+              ],
+              [
+                "<b>Under</b>",
+                "કોઈ વસ્તુની નીચે",
+                "The cat is <b>under</b> the chair.",
+                "બિલાડી ખુરશીની <b>નીચે</b> છે."
+              ],
+              [
+                "<b>Over</b>",
+                "વસ્તુ ઉપર (અડ્યા વગર)",
+                "The fan is <b>over</b> my head.",
+                "પંખો મારા માથા <b>ઉપર</b> છે."
+              ],
+              [
+                "<b>Above</b>",
+                "લેવલમાં ઉપર",
+                "The sky is <b>above</b> us.",
+                "આકાશ આપણી <b>ઉપર</b> છે."
+              ],
+              [
+                "<b>Below</b>",
+                "લેવલમાં નીચે",
+                "His marks are <b>below</b> average.",
+                "તેના માર્ક્સ સરેરાશથી <b>નીચે</b> છે."
+              ],
+              [
+                "<b>Near</b>",
+                "નજીક",
+                "My school is <b>near</b> my house.",
+                "મારી શાળા ઘરની <b>નજીક</b> છે."
+              ],
+              [
+                "<b>Between</b>",
+                "બે વસ્તુ/વ્યક્તિની વચ્ચે",
+                "Put it <b>between</b> two books.",
+                "બે પુસ્તકોની <b>વચ્ચે</b> મૂકો."
+              ],
+              [
+                "<b>Among</b>",
+                "બેથી વધારેની વચ્ચે",
+                "He is popular <b>among</b> students.",
+                "તે વિદ્યાર્થીઓ <b>વચ્ચે</b> લોકપ્રિય છે."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🚀 Prepositions of Movement/Direction (દિશા/ગતિ દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "જ્યારે કોઈ વસ્તુ ગતિમાં હોય ત્યારે આ Preposition વપરાય છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "➡️ Direction/Movement",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "<b>To</b>",
+                "તરફ/સુધી",
+                "Go <b>to</b> school.",
+                "સ્કૂલે જાઓ. (ગતિ બતાવે છે)"
+              ],
+              [
+                "<b>Into</b>",
+                "બહારથી અંદર ગતિ",
+                "He jumped <b>into</b> the river.",
+                "તેણે નદીમાં કૂદકો માર્યો."
+              ],
+              [
+                "<b>Onto</b>",
+                "ઉપર તરફ ગતિ",
+                "The cat jumped <b>onto</b> the table.",
+                "બિલાડી ટેબલ ઉપર કૂદી."
+              ],
+              [
+                "<b>Over</b>",
+                "ઉપરથી (અડ્યા વગર)",
+                "The bird flew <b>over</b> the tree.",
+                "પક્ષી ઝાડની ઉપરથી ઉડ્યું."
+              ],
+              [
+                "<b>Through</b>",
+                "માંથી પસાર થવું",
+                "The train went <b>through</b> the tunnel.",
+                "ટ્રેન ટનલમાંથી પસાર થઈ."
+              ],
+              [
+                "<b>Across</b>",
+                "આરપાર/સામે પાર",
+                "He swam <b>across</b> the river.",
+                "તે નદી પાર કરીને તર્યો."
+              ],
+              [
+                "<b>Towards</b>",
+                "ની દિશામાં",
+                "She is walking <b>towards</b> me.",
+                "તે મારા તરફ ચાલી રહી છે."
+              ],
+              [
+                "<b>From</b>",
+                "થી (શરૂઆત)",
+                "He came <b>from</b> Delhi.",
+                "તે દિલ્હીથી આવ્યો."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🎭 Prepositions of Manner (રીત/ઢબ દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "કોઈ કાર્ય <b>કઈ રીતે</b> થયું તે બતાવવા માટે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🎯 Manner Prepositions",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>By</b>",
+                "દ્વારા / કરીને",
+                "He learned it <b>by</b> practice.",
+                "તેણે પ્રેક્ટિસ <b>દ્વારા</b> શીખ્યું."
+              ],
+              [
+                "<b>With</b>",
+                "સાથે / વડે",
+                "She writes <b>with</b> a pen.",
+                "તે પેન <b>વડે</b> લખે છે."
+              ],
+              [
+                "<b>Without</b>",
+                "વગર / વિના",
+                "He left <b>without</b> saying goodbye.",
+                "તે ગુડબાય <b>કહ્યા વગર</b> ગયો."
+              ],
+              [
+                "<b>Like</b>",
+                "ની જેમ / માફક",
+                "She sings <b>like</b> a nightingale.",
+                "તે બુલબુલ <b>ની જેમ</b> ગાય છે."
+              ],
+              [
+                "<b>In</b>",
+                "માં / થી",
+                "He spoke <b>in</b> a loud voice.",
+                "તે મોટા અવાજ<b>માં</b> બોલ્યો."
+              ],
+              [
+                "<b>On</b>",
+                "પર / ઉપર",
+                "He is <b>on</b> foot.",
+                "તે પગ<b>પાળો</b> છે."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "💡 Prepositions of Cause/Reason (કારણ દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "કોઈ કાર્ય <b>શા માટે</b> થયું તે (કારણ) બતાવવા માટે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "❓ Cause/Reason Prepositions",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>Because of</b>",
+                "ના કારણે",
+                "He failed <b>because of</b> laziness.",
+                "આળસ <b>ના કારણે</b> તે નાપાસ થયો."
+              ],
+              [
+                "<b>Due to</b>",
+                "ને લીધે",
+                "Match cancelled <b>due to</b> rain.",
+                "વરસાદ <b>ને લીધે</b> મેચ રદ."
+              ],
+              [
+                "<b>Owing to</b>",
+                "ના કારણે",
+                "<b>Owing to</b> illness, he was absent.",
+                "બીમારી <b>ના કારણે</b> તે ગેરહાજર હતો."
+              ],
+              [
+                "<b>On account of</b>",
+                "ના કારણે",
+                "He resigned <b>on account of</b> health.",
+                "સ્વાસ્થ્ય <b>ના કારણે</b> તેણે રાજીનામું આપ્યું."
+              ],
+              [
+                "<b>For</b>",
+                "માટે / ના કારણે",
+                "He was punished <b>for</b> cheating.",
+                "છેતરપિંડી <b>માટે</b> તેને સજા થઈ."
+              ],
+              [
+                "<b>From</b>",
+                "થી / ના કારણે",
+                "He is suffering <b>from</b> fever.",
+                "તે તાવ <b>થી</b> પીડાઈ રહ્યો છે."
+              ],
+              [
+                "<b>Of</b>",
+                "થી / ના",
+                "He died <b>of</b> cancer.",
+                "તે કેન્સર <b>થી</b> મરી ગયો."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>Note:</b> Because of / Due to / Owing to / On account of = બધા 'ના કારણે' માટે વપરાય છે."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🎯 Prepositions of Purpose (હેતુ/ઉદ્દેશ્ય દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "કોઈ કાર્ય <b>શા હેતુ માટે</b> થયું તે બતાવવા માટે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🎯 Purpose Prepositions",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>For</b>",
+                "માટે",
+                "This gift is <b>for</b> you.",
+                "આ ભેટ તમારા <b>માટે</b> છે."
+              ],
+              [
+                "<b>To</b>",
+                "માટે / તે હેતુથી",
+                "I came here <b>to</b> help you.",
+                "હું તમને મદદ કરવા <b>માટે</b> આવ્યો."
+              ],
+              [
+                "<b>In order to</b>",
+                "એ માટે કે",
+                "He works hard <b>in order to</b> succeed.",
+                "સફળ થવા <b>માટે</b> તે મહેનત કરે છે."
+              ],
+              [
+                "<b>So as to</b>",
+                "જેથી / એ માટે",
+                "He ran fast <b>so as to</b> catch the bus.",
+                "બસ પકડવા <b>માટે</b> તે ઝડપથી દોડ્યો."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔐 Prepositions of Possession (માલિકી/સંબંધ દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>માલિકી</b> કે <b>સંબંધ</b> દર્શાવવા માટે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🏠 Possession Prepositions",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>Of</b>",
+                "નો/ની/નું/ના",
+                "The leg <b>of</b> the table is broken.",
+                "ટેબલ<b>નો</b> પગ તૂટ્યો છે."
+              ],
+              [
+                "<b>With</b>",
+                "વાળો/વાળી",
+                "A girl <b>with</b> blue eyes.",
+                "વાદળી આંખો<b>વાળી</b> છોકરી."
+              ],
+              [
+                "<b>To</b>",
+                "ને / નાં",
+                "The key <b>to</b> success is hard work.",
+                "સફળતા<b>ની</b> ચાવી મહેનત છે."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🌱 Prepositions of Source/Origin (મૂળ/ઉદગમ દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "કોઈ વસ્તુ કે વ્યક્તિ <b>ક્યાંથી</b> આવી તે બતાવવા માટે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🌍 Source/Origin Prepositions",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>From</b>",
+                "થી / માંથી",
+                "He comes <b>from</b> India.",
+                "તે ભારત<b>થી</b> આવે છે."
+              ],
+              [
+                "<b>Out of</b>",
+                "માંથી (બહાર)",
+                "He took money <b>out of</b> pocket.",
+                "તેણે ખિસ્સા<b>માંથી</b> પૈસા કાઢ્યા."
+              ],
+              [
+                "<b>Of</b>",
+                "નો/ની",
+                "He is a man <b>of</b> Ahmedabad.",
+                "તે અમદાવાદ<b>નો</b> માણસ છે."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "📊 Prepositions of Measure/Rate (માપ/દર દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>માપ, દર, ભાવ</b> વગેરે દર્શાવવા માટે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📏 Measure/Rate Prepositions",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>By</b>",
+                "પ્રમાણે / અનુસાર",
+                "Eggs are sold <b>by</b> the dozen.",
+                "ઈંડા ડઝન<b>ના</b> હિસાબે વેચાય છે."
+              ],
+              [
+                "<b>At</b>",
+                "ના ભાવે",
+                "Mangoes are selling <b>at</b> ₹100 a kg.",
+                "કેરી ₹100 <b>પ્રતિ</b> કિલો વેચાય છે."
+              ],
+              [
+                "<b>For</b>",
+                "માટે / ના બદલામાં",
+                "I bought it <b>for</b> ₹500.",
+                "મેં તે ₹500<b>માં</b> ખરીદ્યું."
+              ],
+              [
+                "<b>Per</b>",
+                "દીઠ / દરેક",
+                "The speed limit is 60 km <b>per</b> hour.",
+                "મર્યાદા 60 કિમી <b>પ્રતિ</b> કલાક છે."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔄 Prepositions of Contrast (વિરોધ/તુલના દર્શાવતા)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>વિરોધ, તુલના, છતાં</b> વગેરે દર્શાવવા માટે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "⚖️ Contrast Prepositions",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>In spite of</b>",
+                "હોવા છતાં",
+                "<b>In spite of</b> rain, he came.",
+                "વરસાદ <b>હોવા છતાં</b> તે આવ્યો."
+              ],
+              [
+                "<b>Despite</b>",
+                "છતાં",
+                "<b>Despite</b> his efforts, he failed.",
+                "પ્રયત્નો <b>છતાં</b> તે નાપાસ થયો."
+              ],
+              [
+                "<b>Against</b>",
+                "વિરુદ્ધ",
+                "He voted <b>against</b> the plan.",
+                "તેણે પ્લાન <b>વિરુદ્ધ</b> મત આપ્યો."
+              ],
+              [
+                "<b>Unlike</b>",
+                "થી વિપરીત",
+                "<b>Unlike</b> his brother, he is honest.",
+                "ભાઈ<b>થી વિપરીત</b>, તે પ્રામાણિક છે."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🚌 Prepositions of Transport (વાહન માટે)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "<b>Rule:</b> જો વાહનની અંદર ઊભા રહી શકો કે ચાલી શકો, તો <b>ON</b> વપરાય. જો વાંકા વળીને બેસવું પડે, તો <b>IN</b> વપરાય. મુસાફરીની રીત બતાવવા <b>BY</b> વપરાય (a/an/the ન લાગે)."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🚗 Transport Prepositions",
+            "headers": [
+              "વાહન",
+              "Preposition",
+              "Example",
+              "કારણ"
+            ],
+            "rows": [
+              [
+                "Bus, Train, Plane, Ship",
+                "<b>On</b>",
+                "I am <b>on</b> the bus.",
+                "અંદર ચાલી શકાય છે."
+              ],
+              [
+                "Car, Taxi, Auto",
+                "<b>In</b>",
+                "She is <b>in</b> the car.",
+                "બેસીને જવાય છે."
+              ],
+              [
+                "Bicycle, Bike, Horse",
+                "<b>On</b>",
+                "He is <b>on</b> the bike.",
+                "સપાટી ઉપર બેસો છો."
+              ],
+              [
+                "Mode of Travel",
+                "<b>By</b>",
+                "I go <b>by</b> car.",
+                "રીત બતાવે (by bus, by train)"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "⚠️ Confusing Pairs (ગૂંચવણભર્યા શબ્દો)",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Beside vs Besides",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>Beside</b>",
+                "ની બાજુમાં (next to)",
+                "Sit <b>beside</b> me.",
+                "મારી <b>બાજુમાં</b> બેસો."
+              ],
+              [
+                "<b>Besides</b>",
+                "ઉપરાંત / સિવાય (in addition)",
+                "<b>Besides</b> English, I know Hindi.",
+                "અંગ્રેજી <b>ઉપરાંત</b> મને હિન્દી આવડે."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Between vs Among",
+            "headers": [
+              "Preposition",
+              "ક્યારે?",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>Between</b>",
+                "માત્ર 2 વ્યક્તિ/વસ્તુ માટે",
+                "Distribute <b>between</b> Ram and Shyam.",
+                "રામ અને શ્યામની <b>વચ્ચે</b>."
+              ],
+              [
+                "<b>Among</b>",
+                "2 કરતા વધારે માટે",
+                "Distribute <b>among</b> the students.",
+                "વિદ્યાર્થીઓની <b>વચ્ચે</b> (ઘણા)."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 By vs With",
+            "headers": [
+              "Preposition",
+              "ક્યારે?",
+              "Example",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "<b>By</b>",
+                "કરનાર વ્યક્તિ (Doer/Agent)",
+                "The snake was killed <b>by</b> him.",
+                "સાપ તેના <b>દ્વારા</b> મરાયો."
+              ],
+              [
+                "<b>With</b>",
+                "સાધન (Instrument/Tool)",
+                "He killed it <b>with</b> a stick.",
+                "લાકડી <b>વડે</b> મારી."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 On time vs In time",
+            "headers": [
+              "Preposition",
+              "અર્થ",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>On time</b>",
+                "બરાબર નક્કી સમયે",
+                "The train left <b>on time</b> (at 9:00).",
+                "ટ્રેન <b>સમયસર</b> ઉપડી."
+              ],
+              [
+                "<b>In time</b>",
+                "સમય પૂરો થાય પહેલાં",
+                "Reach the station <b>in time</b>.",
+                "<b>સમય પહેલાં</b> પહોંચો."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Since vs From",
+            "headers": [
+              "Preposition",
+              "ક્યારે?",
+              "Example",
+              "ગુજરાતી"
+            ],
+            "rows": [
+              [
+                "<b>Since</b>",
+                "ભૂતકાળના ચોક્કસ સમયથી (Present Perfect સાથે)",
+                "I have been here <b>since</b> 2010.",
+                "હું 2010 <b>થી</b> અહીં છું."
+              ],
+              [
+                "<b>From</b>",
+                "કોઈ પણ કાળમાં શરૂઆત",
+                "Class starts <b>from</b> Monday.",
+                "ક્લાસ સોમવાર<b>થી</b> શરૂ થશે."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 In vs Into",
+            "headers": [
+              "Preposition",
+              "ક્યારે?",
+              "Example",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "<b>In</b>",
+                "પહેલેથી અંદર હોય",
+                "She is <b>in</b> the room.",
+                "તે રૂમ <b>અંદર</b> છે."
+              ],
+              [
+                "<b>Into</b>",
+                "ગતિ કરીને અંદર જાય",
+                "She walked <b>into</b> the room.",
+                "તે રૂમ <b>અંદર</b> ગઈ."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Over vs Above",
+            "headers": [
+              "Preposition",
+              "ક્યારે?",
+              "Example",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "<b>Over</b>",
+                "બરાબર ઉપર (Vertical)/ઢાંકે",
+                "Put blanket <b>over</b> the baby.",
+                "ઢાંકવા માટે."
+              ],
+              [
+                "<b>Above</b>",
+                "લેવલમાં ઉપર (Higher level)",
+                "Kite flew <b>above</b> the building.",
+                "બિલ્ડીંગ કરતા ઊંચે."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "🔄 Under vs Below",
+            "headers": [
+              "Preposition",
+              "ક્યારે?",
+              "Example",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "<b>Under</b>",
+                "નીચે (ઢંકાયેલું/અડકેલું)",
+                "The cat is <b>under</b> the table.",
+                "ટેબલ નીચે (અડેલું)."
+              ],
+              [
+                "<b>Below</b>",
+                "લેવલમાં નીચે",
+                "Sign <b>below</b> the line.",
+                "લીટીની નીચે સહી."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔒 Fixed Prepositions (નિશ્ચિત Prepositions)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "અમુક શબ્દો સાથે અમુક જ Preposition આવે છે. આમાં કોઈ નિયમ નથી, <b>યાદ રાખવું</b> પડે છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📌 Common Fixed Prepositions",
+            "headers": [
+              "Expression",
+              "અર્થ",
+              "Example"
+            ],
+            "rows": [
+              [
+                "Afraid <b>of</b>",
+                "નાથી ડરવું",
+                "I am afraid <b>of</b> dogs."
+              ],
+              [
+                "Good <b>at</b>",
+                "માં હોશિયાર (Good in ❌)",
+                "She is good <b>at</b> Math."
+              ],
+              [
+                "Listen <b>to</b>",
+                "સાંભળવું",
+                "Please listen <b>to</b> me."
+              ],
+              [
+                "Married <b>to</b>",
+                "સાથે પરણવું (Married with ❌)",
+                "He is married <b>to</b> a doctor."
+              ],
+              [
+                "Wait <b>for</b>",
+                "રાહ જોવી",
+                "Wait <b>for</b> me."
+              ],
+              [
+                "Depend <b>on</b>",
+                "આધાર રાખવો",
+                "It depends <b>on</b> you."
+              ],
+              [
+                "Die <b>of</b>",
+                "રોગથી મરવું",
+                "He died <b>of</b> cancer."
+              ],
+              [
+                "Prefer ... <b>to</b>",
+                "ના કરતા ગમવું (than ❌)",
+                "I prefer tea <b>to</b> coffee."
+              ],
+              [
+                "Interested <b>in</b>",
+                "માં રસ હોવો",
+                "I am interested <b>in</b> music."
+              ],
+              [
+                "Angry <b>with</b> (person)",
+                "વ્યક્તિ પર ગુસ્સો",
+                "I am angry <b>with</b> him."
+              ],
+              [
+                "Angry <b>at</b> (thing)",
+                "વસ્તુ પર ગુસ્સો",
+                "I am angry <b>at</b> his behavior."
+              ],
+              [
+                "Agree <b>with</b> (person)",
+                "વ્યક્તિ સાથે સહમત",
+                "I agree <b>with</b> you."
+              ],
+              [
+                "Agree <b>to</b> (plan)",
+                "પ્રસ્તાવ સાથે સહમત",
+                "I agree <b>to</b> your plan."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "🔧 Made of vs Made from",
+      "content": [
+        {
+          "type": "table",
+          "content": {
+            "title": "🏭 Material Prepositions",
+            "headers": [
+              "Preposition",
+              "ક્યારે?",
+              "Example",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "Made <b>of</b>",
+                "ભૌતિક ફેરફાર (મૂળ વસ્તુ દેખાય)",
+                "Chair is made <b>of</b> wood.",
+                "લાકડું <b>દેખાય</b> છે."
+              ],
+              [
+                "Made <b>from</b>",
+                "રાસાયણિક ફેરફાર (મૂળ ન દેખાય)",
+                "Cheese is made <b>from</b> milk.",
+                "દૂધ <b>દેખાતું નથી</b>."
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "❌ No Preposition Required (જ્યાં Preposition ન વપરાય)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "અમુક ક્રિયાપદો પછી Preposition વાપરવું એ <b>ગંભીર ભૂલ</b> ગણાય છે."
+        },
+        {
+          "type": "list",
+          "content": [
+            "<b>Discuss:</b> Let's discuss the topic. (Discuss <span style='color:red'>about</span> ❌)",
+            "<b>Enter:</b> He entered the room. (Enter <span style='color:red'>into</span> ❌ - સિવાય કે કોઈ ડીલ/સંધિમાં enter)",
+            "<b>Order:</b> I ordered a pizza. (Ordered <span style='color:red'>for</span> ❌)",
+            "<b>Request:</b> She requested help. (Requested <span style='color:red'>for</span> ❌)",
+            "<b>Reach:</b> We reached home. (Reached <span style='color:red'>at</span> ❌)",
+            "<b>Marry:</b> He married her. (Married <span style='color:red'>with</span> ❌)",
+            "<b>Attack:</b> The army attacked the fort. (Attacked <span style='color:red'>on</span> ❌)",
+            "<b>Resemble:</b> He resembles his father. (Resembles <span style='color:red'>with</span> ❌)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "💡 Quick List (ઝડપી યાદી)",
+      "content": [
+        {
+          "type": "list",
+          "content": [
+            "<b>By:</b> દ્વારા / સુધીમાં (I will finish <b>by</b> 5 PM).",
+            "<b>With:</b> સાથે (Come <b>with</b> me).",
+            "<b>Without:</b> વગર (Tea <b>without</b> sugar).",
+            "<b>Of:</b> નો/ની/નું/ના (Cup <b>of</b> tea).",
+            "<b>About:</b> ના વિશે (Tell me <b>about</b> yourself).",
+            "<b>Behind:</b> પાછળ (The sun is <b>behind</b> the clouds).",
+            "<b>In front of:</b> ની સામે (Park <b>in front of</b> the gate).",
+            "<b>Beside:</b> બાજુમાં (Sit <b>beside</b> me).",
+            "<b>Along:</b> સાથે/બાજુએ (Walk <b>along</b> the river).",
+            "<b>Against:</b> વિરૂદ્ધ/ટેકવીને (He stood <b>against</b> the wall)."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "� Phrasal Prepositions (શબ્દસમૂહ Prepositions)",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": "Phrasal Prepositions એ <b>બે કે તેથી વધુ શબ્દોનો સમૂહ</b> છે જે <b>એક Preposition તરીકે</b> કામ કરે છે."
+        },
+        {
+          "type": "table",
+          "content": {
+            "title": "📚 Common Phrasal Prepositions",
+            "headers": [
+              "Phrasal Preposition",
+              "ગુજરાતી અર્થ",
+              "Example",
+              "સમજૂતી"
+            ],
+            "rows": [
+              [
+                "<b>According to</b>",
+                "ના મત પ્રમાણે / અનુસાર",
+                "<b>According to</b> the report, sales increased.",
+                "રિપોર્ટ <b>અનુસાર</b> વેચાણ વધ્યું."
+              ],
+              [
+                "<b>Because of</b>",
+                "ના કારણે",
+                "School was closed <b>because of</b> rain.",
+                "વરસાદ <b>ના કારણે</b> શાળા બંધ હતી."
+              ],
+              [
+                "<b>In front of</b>",
+                "ની સામે / આગળ",
+                "He is standing <b>in front of</b> the gate.",
+                "તે ગેટ <b>ની સામે</b> ઊભો છે."
+              ],
+              [
+                "<b>In spite of</b>",
+                "છતાં / હોવા છતાં",
+                "<b>In spite of</b> rain, he came.",
+                "વરસાદ <b>હોવા છતાં</b> તે આવ્યો."
+              ],
+              [
+                "<b>Instead of</b>",
+                "ની જગ્યાએ / ને બદલે",
+                "Use honey <b>instead of</b> sugar.",
+                "ખાંડ <b>ની જગ્યાએ</b> મધ વાપરો."
+              ],
+              [
+                "<b>In addition to</b>",
+                "ઉપરાંત / સાથે સાથે",
+                "<b>In addition to</b> English, learn Hindi.",
+                "અંગ્રેજી <b>ઉપરાંત</b> હિન્દી શીખો."
+              ],
+              [
+                "<b>On behalf of</b>",
+                "ના વતી / ના તરફથી",
+                "I spoke <b>on behalf of</b> the team.",
+                "મેં ટીમ <b>ના વતી</b> બોલ્યો."
+              ],
+              [
+                "<b>In case of</b>",
+                "ની સ્થિતિમાં / ની ઘટનામાં",
+                "<b>In case of</b> fire, use stairs.",
+                "આગ <b>ની ઘટનામાં</b> સીડી વાપરો."
+              ],
+              [
+                "<b>In favor of</b>",
+                "ની તરફેણમાં",
+                "He voted <b>in favor of</b> the plan.",
+                "તેણે પ્લાન <b>ની તરફેણમાં</b> મત આપ્યો."
+              ],
+              [
+                "<b>In charge of</b>",
+                "નો હવાલો / જવાબદાર",
+                "He is <b>in charge of</b> the project.",
+                "તે પ્રોજેક્ટ <b>નો હવાલો</b> છે."
+              ],
+              [
+                "<b>On account of</b>",
+                "ના કારણે",
+                "Match cancelled <b>on account of</b> rain.",
+                "વરસાદ <b>ના કારણે</b> મેચ રદ થઈ."
+              ],
+              [
+                "<b>With regard to</b>",
+                "ના સંદર્ભમાં / ના વિશે",
+                "<b>With regard to</b> your query...",
+                "તમારા પ્રશ્ન <b>ના સંદર્ભમાં</b>..."
+              ],
+              [
+                "<b>In the middle of</b>",
+                "વચ્ચે / મધ્યમાં",
+                "He woke up <b>in the middle of</b> night.",
+                "તે રાત્રે <b>મધ્યમાં</b> જાગ્યો."
+              ],
+              [
+                "<b>At the end of</b>",
+                "ના અંતે",
+                "We met <b>at the end of</b> the road.",
+                "અમે રસ્તા <b>ના અંતે</b> મળ્યા."
+              ],
+              [
+                "<b>By means of</b>",
+                "ના માધ્યમથી / દ્વારા",
+                "He escaped <b>by means of</b> a ladder.",
+                "તે સીડી <b>દ્વારા</b> ભાગ્યો."
+              ],
+              [
+                "<b>In place of</b>",
+                "ની જગ્યાએ",
+                "She attended <b>in place of</b> her father.",
+                "તે પિતા <b>ની જગ્યાએ</b> હાજર થઈ."
+              ],
+              [
+                "<b>In search of</b>",
+                "ની શોધમાં",
+                "They went <b>in search of</b> water.",
+                "તેઓ પાણી <b>ની શોધમાં</b> ગયા."
+              ],
+              [
+                "<b>In terms of</b>",
+                "ની દ્રષ્ટિએ / ના સંદર્ભમાં",
+                "<b>In terms of</b> quality, it's best.",
+                "ગુણવત્તા <b>ની દ્રષ્ટિએ</b> તે શ્રેષ્ઠ છે."
+              ],
+              [
+                "<b>For the sake of</b>",
+                "ના ખાતર / ની ખાતર",
+                "He did it <b>for the sake of</b> his family.",
+                "તેણે પરિવાર <b>ની ખાતર</b> કર્યું."
+              ],
+              [
+                "<b>In order to</b>",
+                "માટે / તેથી",
+                "He works hard <b>in order to</b> succeed.",
+                "સફળ થવા <b>માટે</b> તે મહેનત કરે છે."
+              ]
+            ]
+          }
+        },
+        {
+          "type": "note",
+          "content": "<b>યાદ રાખો:</b><br>• <b>Because of</b> vs <b>On account of</b> = બંને 'ના કારણે' માટે વપરાય<br>• <b>Instead of</b> vs <b>In place of</b> = બંને 'ની જગ્યાએ' માટે વપરાય<br>• <b>In spite of</b> = 'છતાં' (Despite સાથે સરખો અર્થ)"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "�📝 Summary (સારાંશ)",
+      "content": [
+        {
+          "type": "list",
+          "content": [
+            "<b>સમય માટે:</b> At (ચોક્કસ સમય), On (દિવસ), In (લાંબો સમય/મહિના/વર્ષ).",
+            "<b>સ્થળ માટે:</b> At (પોઈન્ટ), On (સપાટી), In (અંદર).",
+            "<b>ગતિ માટે:</b> To (તરફ), Into (અંદર તરફ ગતિ), Through (માંથી).",
+            "<b>વાહન:</b> On (Bus/Train/Plane), In (Car/Taxi), By (Mode of travel).",
+            "<b>Confusing:</b> Beside (બાજુ) vs Besides (ઉપરાંત), Since (Perfect) vs For (Duration).",
+            "<b>Fixed:</b> Good at, Afraid of, Listen to, Married to, Wait for.",
+            "<b>No Preposition:</b> Discuss, Enter, Order, Reach, Request, Marry."
+          ]
+        }
+      ]
+    }
+  ]
+}

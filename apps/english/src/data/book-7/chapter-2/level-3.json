@@ -1,0 +1,372 @@
+
+{
+    "id": "level-3",
+    "title": "Level 3",
+    "words": [
+        {
+            "word": "Aggregate",
+            "gujaratiPronunciation": "એગ્રિગેટ",
+            "hindiPronunciation": "एग्रीगेट",
+            "gujaratiMeaning": "એકત્ર કરવું",
+            "hindiMeaning": "एकत्र करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Aggregate",
+                    "pronunciation": "એગ્રિગેટ",
+                    "meaning": "એકત્ર કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Aggregated",
+                    "pronunciation": "એગ્રિગેટેડ",
+                    "meaning": "એકત્ર કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Aggregated",
+                    "pronunciation": "એગ્રિગેટેડ",
+                    "meaning": "એકત્ર કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Aggregating",
+                    "pronunciation": "એગ્રિગેટિંગ",
+                    "meaning": "એકત્ર કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Combine",
+                    "pronunciation": "કમ્બાઇન",
+                    "meaning": "જોડવું"
+                },
+                {
+                    "word": "Gather",
+                    "pronunciation": "ગેધર",
+                    "meaning": "ભેગું કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Separate",
+                    "pronunciation": "સેપરેટ",
+                    "meaning": "અલગ કરવું"
+                },
+                {
+                    "word": "Break down",
+                    "pronunciation": "બ્રેક ડાઉન",
+                    "meaning": "વિભાજિત કરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Aggravate",
+                    "pronunciation": "એગ્રાવેટ",
+                    "meaning": "વધુ ખરાબ કરવું"
+                },
+                {
+                    "word": "Delegate",
+                    "pronunciation": "ડેલિગેટ",
+                    "meaning": "સોંપવું"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The system will aggregate data from multiple sources to create a comprehensive profile.",
+                    "gujaratiTranslation": "આ સિસ્ટમ વ્યાપક પ્રોફાઇલ બનાવવા માટે બહુવિધ સ્રોતોમાંથી ડેટા એકત્ર કરશે.",
+                    "hindiTranslation": "सिस्टम एक व्यापक प्रोफ़ाइल बनाने के लिए कई स्रोतों से डेटा एकत्र करेगा।"
+                }
+            ]
+        },
+        {
+            "word": "Encrypt",
+            "gujaratiPronunciation": "એન્ક્રિપ્ટ",
+            "hindiPronunciation": "एन्क्रिप्ट",
+            "gujaratiMeaning": "ગુપ્ત લિપિમાં બદલવું",
+            "hindiMeaning": "एन्क्रिप्ट करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Encrypt",
+                    "pronunciation": "એન્ક્રિપ્ટ",
+                    "meaning": "ગુપ્ત લિપિમાં બદલવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Encrypted",
+                    "pronunciation": "એન્ક્રિપ્ટેડ",
+                    "meaning": "ગુપ્ત લિપિમાં બદલ્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Encrypted",
+                    "pronunciation": "એન્ક્રિપ્ટેડ",
+                    "meaning": "ગુપ્ત લિપિમાં બદલેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Encrypting",
+                    "pronunciation": "એન્ક્રિપ્ટિંગ",
+                    "meaning": "ગુપ્ત લિપિમાં બદલી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Encode",
+                    "pronunciation": "એન્કોડ",
+                    "meaning": "સંકેતમાં ફેરવવું"
+                },
+                {
+                    "word": "Cipher",
+                    "pronunciation": "સાઇફર",
+                    "meaning": "ગુપ્ત લિપિમાં લખવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Decrypt",
+                    "pronunciation": "ડિક્રિપ્ટ",
+                    "meaning": "ગુપ્ત લિપિ ઉકેલવી"
+                },
+                {
+                    "word": "Decode",
+                    "pronunciation": "ડિકોડ",
+                    "meaning": "સંકેત ઉકેલવો"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Erupt",
+                    "pronunciation": "ઇરપ્ટ",
+                    "meaning": "ફાટી નીકળવું"
+                },
+                {
+                    "word": "Script",
+                    "pronunciation": "સ્ક્રિપ્ટ",
+                    "meaning": "લિપિ"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "All sensitive user data must be encrypted before being stored.",
+                    "gujaratiTranslation": "બધા સંવેદનશીલ વપરાશકર્તા ડેટાને સંગ્રહિત કરતા પહેલા એન્ક્રિપ્ટ કરવો આવશ્યક છે.",
+                    "hindiTranslation": "सभी संवेदनशील उपयोगकर्ता डेटा को संग्रहीत करने से पहले एन्क्रिप्ट किया जाना चाहिए।"
+                }
+            ]
+        },
+        {
+            "word": "Decipher",
+            "gujaratiPronunciation": "ડિસાઇફર",
+            "hindiPronunciation": "डेसिफर",
+            "gujaratiMeaning": "ઉકેલવું",
+            "hindiMeaning": "गूढ़लिपि पढ़ना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Decipher",
+                    "pronunciation": "ડિસાઇફર",
+                    "meaning": "ઉકેલવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Deciphered",
+                    "pronunciation": "ડિસાઇફર્ડ",
+                    "meaning": "ઉકેલ્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Deciphered",
+                    "pronunciation": "ડિસાઇફર્ડ",
+                    "meaning": "ઉકેલેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Deciphering",
+                    "pronunciation": "ડિસાઇફરિંગ",
+                    "meaning": "ઉકેલી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Decode",
+                    "pronunciation": "ડિકોડ",
+                    "meaning": "સંકેત ઉકેલવો"
+                },
+                {
+                    "word": "Interpret",
+                    "pronunciation": "ઇન્ટરપ્રિટ",
+                    "meaning": "અર્થઘટન કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Encrypt",
+                    "pronunciation": "એન્ક્રિપ્ટ",
+                    "meaning": "ગુપ્ત લિપિમાં બદલવું"
+                },
+                {
+                    "word": "Encode",
+                    "pronunciation": "એન્કોડ",
+                    "meaning": "સંકેતમાં ફેરવવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Decide",
+                    "pronunciation": "ડિસાઇડ",
+                    "meaning": "નક્કી કરવું"
+                },
+                {
+                    "word": "Cipher",
+                    "pronunciation": "સાઇફર",
+                    "meaning": "ગુપ્ત લિપિ"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "It was difficult to decipher the ancient script on the stone tablet.",
+                    "gujaratiTranslation": "પથ્થરની તકતી પરની પ્રાચીન લિપિને ઉકેલવી મુશ્કેલ હતી.",
+                    "hindiTranslation": "पत्थर की पटिया पर प्राचीन लिपि को पढ़ना मुश्किल था।"
+                }
+            ]
+        },
+        {
+            "word": "Disseminate",
+            "gujaratiPronunciation": "ડિસેમિનેટ",
+            "hindiPronunciation": "डिसेमिनेट",
+            "gujaratiMeaning": "પ્રસાર કરવો",
+            "hindiMeaning": "प्रसार करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Disseminate",
+                    "pronunciation": "ડિસેમિનેટ",
+                    "meaning": "પ્રસાર કરવો"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Disseminated",
+                    "pronunciation": "ડિસેમિનેટેડ",
+                    "meaning": "પ્રસાર કર્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Disseminated",
+                    "pronunciation": "ડિસેમિનેટેડ",
+                    "meaning": "પ્રસાર કરેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Disseminating",
+                    "pronunciation": "ડિસેમિનેટિંગ",
+                    "meaning": "પ્રસાર કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Spread",
+                    "pronunciation": "સ્પ્રેડ",
+                    "meaning": "ફેલાવવું"
+                },
+                {
+                    "word": "Distribute",
+                    "pronunciation": "ડિસ્ટ્રિબ્યુટ",
+                    "meaning": "વહેંચવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Collect",
+                    "pronunciation": "કલેક્ટ",
+                    "meaning": "એકત્ર કરવું"
+                },
+                {
+                    "word": "Conceal",
+                    "pronunciation": "કન્સીલ",
+                    "meaning": "છુપાવવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Discriminate",
+                    "pronunciation": "ડિસ્ક્રિમિનેટ",
+                    "meaning": "ભેદભાવ કરવો"
+                },
+                {
+                    "word": "Decimate",
+                    "pronunciation": "ડેસિમેટ",
+                    "meaning": "નાશ કરવો"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The organization's goal is to disseminate information about public health.",
+                    "gujaratiTranslation": "સંસ્થાનો ધ્યેય જાહેર આરોગ્ય વિશે માહિતીનો પ્રસાર કરવાનો છે.",
+                    "hindiTranslation": "संगठन का लक्ष्य सार्वजनिक स्वास्थ्य के बारे में जानकारी का प्रसार करना है।"
+                }
+            ]
+        },
+        {
+            "word": "Correlate",
+            "gujaratiPronunciation": "કોરિલેટ",
+            "hindiPronunciation": "कोरिलेट",
+            "gujaratiMeaning": "સહસંબંધ સ્થાપિત કરવો",
+            "hindiMeaning": "सहसंबंध स्थापित करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Correlate",
+                    "pronunciation": "કોરિલેટ",
+                    "meaning": "સહસંબંધ સ્થાપિત કરવો"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Correlated",
+                    "pronunciation": "કોરિલેટેડ",
+                    "meaning": "સહસંબંધ સ્થાપિત કર્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Correlated",
+                    "pronunciation": "કોરિલેટેડ",
+                    "meaning": "સહસંબંધ સ્થાપિત કરેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Correlating",
+                    "pronunciation": "કોરિલેટિંગ",
+                    "meaning": "સહસંબંધ સ્થાપિત કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Connect",
+                    "pronunciation": "કનેક્ટ",
+                    "meaning": "જોડવું"
+                },
+                {
+                    "word": "Associate",
+                    "pronunciation": "એસોસિએટ",
+                    "meaning": "સાંકળવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Disconnect",
+                    "pronunciation": "ડિસ્કનેક્ટ",
+                    "meaning": "વિચ્છેદ કરવો"
+                },
+                {
+                    "word": "Separate",
+                    "pronunciation": "સેપરેટ",
+                    "meaning": "અલગ કરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Cooperate",
+                    "pronunciation": "કોઓપરેટ",
+                    "meaning": "સહકાર કરવો"
+                },
+                {
+                    "word": "Correct",
+                    "pronunciation": "કરેક્ટ",
+                    "meaning": "સાચું"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The study attempts to correlate lack of sleep with poor academic performance.",
+                    "gujaratiTranslation": "આ અભ્યાસ ઊંઘના અભાવને નબળા શૈક્ષણિક પ્રદર્શન સાથે સહસંબંધિત કરવાનો પ્રયાસ કરે છે.",
+                    "hindiTranslation": "यह अध्ययन नींद की कमी को खराब शैक्षणिक प्रदर्शन से सहसंबंधित करने का प्रयास करता है।"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,370 @@
+@import "tailwindcss";
+
+/* ===== Tailwind v4 Theme Configuration ===== */
+@theme {
+  /* Colors */
+  --color-primary: #6c5ce7;
+  --color-primary-light: #a29bfe;
+  --color-primary-glow: rgba(108, 92, 231, 0.3);
+  --color-secondary: #e17055;
+
+  --color-text-primary: #2d3436;
+  --color-text-secondary: #636e72;
+  --color-text-light: #b2bec3;
+  --color-text-white: #ffffff;
+
+  --color-glass-bg: #f8f9fa;
+  --color-glass-hover: rgba(255, 255, 255, 0.75);
+  --color-glass-border: rgba(255, 255, 255, 0.6);
+
+  --color-bg-1: #e0e5ec;
+  --color-bg-2: #f5f7fa;
+  --color-bg-3: #dfe9f3;
+
+  /* Card accent colors */
+  --color-accent-blue: #6366f1;
+  --color-accent-purple: #8b5cf6;
+  --color-accent-green: #10b981;
+  --color-accent-orange: #f59e0b;
+  --color-accent-red: #e11d48;
+  --color-accent-teal: #14b8a6;
+  --color-accent-cyan: #0ea5e9;
+
+  /* Answer/Example tones */
+  --color-answer-bg: #059669;
+  --color-example-bg: #f0f4ff;
+  --color-tip-bg: #fefce8;
+
+  /* Fonts */
+  --font-main: 'Outfit', sans-serif;
+  --font-body: 'Poppins', sans-serif;
+  --font-gujarati: 'Noto Sans Gujarati', sans-serif;
+
+  /* Border Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --radius-2xl: 22px;
+
+  /* Shadows */
+  --shadow-glass: 0 8px 32px rgba(31, 38, 135, 0.12);
+  --shadow-glass-hover: 0 12px 40px rgba(31, 38, 135, 0.2);
+  --shadow-card: 0 10px 30px rgba(0, 0, 0, 0.05);
+  --shadow-accent: 0 4px 15px rgba(108, 92, 231, 0.3);
+
+  /* Font Sizes — Standardized (50+ different sizes → 10 standard) */
+  --font-size-xs: 0.88rem;
+  --font-size-sm: 0.98rem;
+  --font-size-base: 1.08rem;
+  --font-size-md: 1.15rem;
+  --font-size-lg: 1.15rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.35rem;
+  --font-size-3xl: 1.6rem;
+  --font-size-4xl: 2.2rem;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 12px;
+  --spacing-lg: 16px;
+  --spacing-xl: 20px;
+  --spacing-2xl: 24px;
+  --spacing-3xl: 30px;
+}
+
+/* Fonts are now handled inside Next.js layout.js using next/font */
+/* ===== CSS Variables ===== */
+:root {
+  --bg-gradient-1: #e2e8f0;
+  --bg-gradient-2: #f8fafc;
+  --bg-gradient-3: #e2e8f0;
+  --accent-primary: #6c5ce7;
+  --accent-secondary: #a29bfe;
+  --accent-glow: rgba(108, 92, 231, 0.3);
+  --glass-bg: rgba(255, 255, 255, 0.6);
+  --glass-bg-hover: rgba(255, 255, 255, 0.85);
+  --glass-border: rgba(255, 255, 255, 0.7);
+  --glass-shadow: 0 8px 32px rgba(31, 38, 135, 0.08);
+  --glass-shadow-hover: 0 16px 48px rgba(31, 38, 135, 0.15);
+  --text-primary: #1e293b;
+  --text-secondary: #475569;
+  --text-light: #94a3b8;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+  --font-main: 'Outfit', sans-serif;
+  --font-body: 'Poppins', sans-serif;
+  --font-gujarati: 'Noto Sans Gujarati', sans-serif;
+  --transition-smooth: none;
+  --transition-bounce: none;
+
+  /* === Responsive Typography (Desktop Base) === */
+  --fs-hero: 2.2rem;
+  --fs-page-title: 1.4rem;
+  --fs-section-title: 1.35rem;
+  --fs-card-title: 1.05rem;
+  --fs-start-title: 1.45rem;
+  --fs-body: 1.1rem;
+  --fs-body-lg: 1.2rem;
+  --fs-small: 1.05rem;
+  --fs-xs: 0.94rem;
+  --fs-btn: 1.05rem;
+  --fs-theory-title: 1.25rem;
+  --fs-theory-text: 1.05rem;
+}
+
+/* ===== Reset (Tailwind Preflight handles *, ::before, ::after) ===== */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ===== Subscript & Superscript Global Formatting ===== */
+sub,
+sup {
+  font-size: 0.75em;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.9em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+body {
+  font-family: var(--font-gujarati), var(--font-body), sans-serif;
+  color: var(--text-primary);
+  min-height: 100vh;
+  background: radial-gradient(circle at 0% 0%, var(--aura-blue) 0%, transparent 65%),
+    radial-gradient(circle at 100% 100%, var(--aura-pink) 0%, transparent 65%),
+    var(--aura-bg);
+  overflow-x: hidden;
+  position: relative;
+}
+
+/* ===== Animated Background Blobs — Removed for Aura Theme ===== */
+/* body::before, body::after removed to keep the background clean and consistent with home page */
+
+
+/* Pseudo-elements removed for Aura theme */
+
+
+
+
+
+
+
+
+/* .main-container removed — not in use, pages use Tailwind classes */
+
+
+
+
+
+.btn {
+  font-size: 0.85rem;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+
+
+
+
+/* ===== Theory Page ===== */
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Center everything */
+  gap: 12px;
+  margin-bottom: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.chapters-header-container {
+  max-width: 950px;
+  /* Match the grid width */
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 4px;
+}
+
+.custom-back-btn {
+  width: 33px;
+  height: 33px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.25) 0%, rgba(255, 255, 255, 0) 50%),
+    linear-gradient(135deg, #ee1d23 0%, #b3191f 100%);
+  border: none;
+  border-bottom: 3px solid #800000;
+  border-radius: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: white !important;
+  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.4),
+    0 4px 10px rgba(0, 0, 0, 0.35);
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  text-decoration: none;
+  z-index: 100;
+}
+
+.custom-back-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.45);
+  background: linear-gradient(135deg, #ff5e6c 0%, #ff8093 100%);
+}
+
+.custom-back-btn:active {
+  transform: translateY(2px);
+  border-bottom-width: 1px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.theory-desktop-back-btn {
+  display: none !important;
+}
+
+@media (min-width: 1024px) {
+  .theory-desktop-back-btn {
+    display: flex !important;
+  }
+}
+
+/* ===== Theory Header Action Buttons ===== */
+.btn-pdf {
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.2s ease,
+    filter 0.2s ease;
+}
+
+.btn-pdf:hover {
+  transform: translateY(-3px) scale(1.04);
+  box-shadow: 0 8px 22px rgba(6, 182, 212, 0.55), inset 0 1px 0 rgba(255, 255, 255, 0.30) !important;
+  filter: brightness(1.08);
+}
+
+.btn-pdf:active {
+  transform: translateY(0px) scale(0.97);
+  box-shadow: 0 2px 8px rgba(6, 182, 212, 0.30) !important;
+  filter: brightness(0.96);
+}
+
+.btn-test {
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.2s ease,
+    filter 0.2s ease;
+}
+
+.btn-test:hover {
+  transform: translateY(-3px) scale(1.04);
+  box-shadow: 0 8px 22px rgba(245, 158, 11, 0.60), inset 0 1px 0 rgba(255, 255, 255, 0.30) !important;
+  filter: brightness(1.08);
+}
+
+.btn-test:active {
+  transform: translateY(0px) scale(0.97);
+  box-shadow: 0 2px 8px rgba(245, 158, 11, 0.30) !important;
+  filter: brightness(0.96);
+}
+
+.page-title {
+  font-family: var(--font-main);
+  font-size: 1.2rem;
+  font-weight: 700;
+  flex: 1;
+  text-align: center !important;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  line-height: 1.3;
+}
+
+
+
+
+/* ===== √ (Radical Symbol) — Bold via unicode-range @font-face ===== */
+/* This forces √ and ∛ to render in bold automatically */
+@font-face {
+  font-family: 'RadicalBold';
+  src: local('Georgia Bold'), local('Times New Roman Bold');
+  font-weight: 900;
+  unicode-range: U+221A, U+221B;
+}
+
+/* ===== Aura Glassmorphism Theme Variables ===== */
+:root {
+  --aura-bg: #ffffff;
+  --aura-blue: #76aeee;
+  --aura-pink: #e88ebf;
+  --aura-glass: rgba(255, 255, 255, 0.02);
+  --aura-glass-border: rgba(255, 255, 255, 0.9);
+  --aura-text-dark: #1e2532;
+  --aura-btn-bg: #212936;
+}
+
+/* ===== Home Page — Full Viewport Layout ===== */
+.home-fullscreen {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  height: 100dvh; /* dynamic viewport height for mobile browsers */
+  overflow: hidden;
+}
+
+.home-center-area {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 16px;
+}
+
+/* Hide global footer when home page is active */
+#app-root.home-active > div:last-child {
+  display: none;
+}
+
+/* Also make layout not add min-h-screen when home is active */
+#app-root.home-active {
+  min-height: unset;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+/* Animations */
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes titleSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

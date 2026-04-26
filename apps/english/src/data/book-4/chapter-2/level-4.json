@@ -1,0 +1,172 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Ascertain",
+      "gujaratiPronunciation": "એસર્ટેન",
+      "hindiPronunciation": "एसर्टेन",
+      "gujaratiMeaning": "ખાતરી કરવી",
+      "hindiMeaning": "पता लगाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Ascertain", "gujaratiPronunciation": "એસર્ટેન", "hindiPronunciation": "एसर्टेन", "gujaratiMeaning": "ખાતરી કરવી", "hindiMeaning": "पता लगाना" },
+        "V2 (Past Simple)": { "word": "Ascertained", "gujaratiPronunciation": "એસર્ટેન્ડ", "hindiPronunciation": "एसर्टेंड", "gujaratiMeaning": "ખાતરી કરી", "hindiMeaning": "पता लगाया" },
+        "V3 (Past Participle)": { "word": "Ascertained", "gujaratiPronunciation": "એસર્ટેન્ડ", "hindiPronunciation": "एसर्टेंड", "gujaratiMeaning": "ખાતરી કરેલ", "hindiMeaning": "सुनिश्चित" },
+        "V4 (Present Participle)": { "word": "Ascertaining", "gujaratiPronunciation": "એસર્ટેનિંગ", "hindiPronunciation": "एसर्टेनिंग", "gujaratiMeaning": "ખાતરી કરી રહ્યું છે", "hindiMeaning": "पता लगा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Determine", "gujaratiPronunciation": "ડિટર્માઇન", "hindiPronunciation": "डिटरमाइन", "gujaratiMeaning": "નક્કી કરવું", "hindiMeaning": "निर्धारित करना" },
+        { "word": "Verify", "gujaratiPronunciation": "વેરિફાય", "hindiPronunciation": "वेरीफाई", "gujaratiMeaning": "ચકાસવું", "hindiMeaning": "सत्यापित करना" }
+      ],
+      "antonyms": [
+        { "word": "Doubt", "gujaratiPronunciation": "ડાઉટ", "hindiPronunciation": "डाउट", "gujaratiMeaning": "શંકા કરવી", "hindiMeaning": "संदेह करना" }
+      ],
+      "confusingWords": [
+        { "word": "Certain", "gujaratiPronunciation": "સર્ટન", "hindiPronunciation": "सर्टेन", "gujaratiMeaning": "ચોક્કસ", "hindiMeaning": "निश्चित" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The police are trying to ascertain the cause of the fire.",
+          "gujaratiTranslation": "પોલીસ આગનું કારણ જાણવાનો પ્રયાસ કરી રહી છે.",
+          "hindiTranslation": "पुलिस आग का कारण पता लगाने की कोशिश कर रही है।",
+          "gujaratiPronunciation": "ધ પોલીસ આર ટ્રાયિંગ ટુ એસર્ટેન ધ કોઝ ઓફ ધ ફાયર.",
+          "hindiPronunciation": "द पुलिस आर ट्राइंग टू एसर्टेन द कॉज़ ऑफ़ द फायर।"
+        }
+      ]
+    },
+    {
+      "word": "Refute",
+      "gujaratiPronunciation": "રિફ્યુટ",
+      "hindiPronunciation": "रिफ्यूट",
+      "gujaratiMeaning": "ખંડન કરવું",
+      "hindiMeaning": "खंडन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Refute", "gujaratiPronunciation": "રિફ્યુટ", "hindiPronunciation": "रिफ्यूट", "gujaratiMeaning": "ખંડન કરવું", "hindiMeaning": "खंडन करना" },
+        "V2 (Past Simple)": { "word": "Refuted", "gujaratiPronunciation": "રિફ્યુટેડ", "hindiPronunciation": "रिफ्यूटेड", "gujaratiMeaning": "ખંડન કર્યું", "hindiMeaning": "खंडन किया" },
+        "V3 (Past Participle)": { "word": "Refuted", "gujaratiPronunciation": "રિફ્યુટેડ", "hindiPronunciation": "रिफ्यूटेड", "gujaratiMeaning": "ખંડન કરેલ", "hindiMeaning": "खंडित" },
+        "V4 (Present Participle)": { "word": "Refuting", "gujaratiPronunciation": "રિફ્યુટિંગ", "hindiPronunciation": "रिफ्यूटिंग", "gujaratiMeaning": "ખંડન કરી રહ્યું છે", "hindiMeaning": "खंडन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Disprove", "gujaratiPronunciation": "ડિસપ્રૂવ", "hindiPronunciation": "डिसप्रूव", "gujaratiMeaning": "ખોટું સાબિત કરવું", "hindiMeaning": "झूठा साबित करना" },
+        { "word": "Rebut", "gujaratiPronunciation": "રિબટ", "hindiPronunciation": "रिबट", "gujaratiMeaning": "રદિયો આપવો", "hindiMeaning": "खंडन करना" }
+      ],
+      "antonyms": [
+        { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" }
+      ],
+      "confusingWords": [
+        { "word": "Refuse", "gujaratiPronunciation": "રિફ્યુઝ", "hindiPronunciation": "रिफ्यूज", "gujaratiMeaning": "ના પાડવી", "hindiMeaning": "इनकार करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The lawyer will refute the prosecutor's claims.",
+          "gujaratiTranslation": "વકીલ ફરિયાદીના દાવાઓનું ખંડન કરશે.",
+          "hindiTranslation": "वकील अभियोजक के दावों का खंडन करेंगे।",
+          "gujaratiPronunciation": "ધ લોયર વિલ રિફ્યુટ ધ પ્રોસિક્યુટર્સ ક્લેમ્સ.",
+          "hindiPronunciation": "द लॉयर विल रिफ्यूट द प्रॉसिक्यूटर्स क्लेम्स।"
+        }
+      ]
+    },
+    {
+      "word": "Simulate",
+      "gujaratiPronunciation": "સિમ્યુલેટ",
+      "hindiPronunciation": "सिम्युलेट",
+      "gujaratiMeaning": "અનુકરણ કરવું",
+      "hindiMeaning": "अनुकरण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Simulate", "gujaratiPronunciation": "સિમ્યુલેટ", "hindiPronunciation": "सिम्युलेट", "gujaratiMeaning": "અનુકરણ કરવું", "hindiMeaning": "अनुकरण करना" },
+        "V2 (Past Simple)": { "word": "Simulated", "gujaratiPronunciation": "સિમ્યુલેટેડ", "hindiPronunciation": "सिम्युलेटेड", "gujaratiMeaning": "અનુકરણ કર્યું", "hindiMeaning": "अनुकरण किया" },
+        "V3 (Past Participle)": { "word": "Simulated", "gujaratiPronunciation": "સિમ્યુલેટેડ", "hindiPronunciation": "सिम्युलेटेड", "gujaratiMeaning": "અનુકરણ કરેલ", "hindiMeaning": "अनुकरणीय" },
+        "V4 (Present Participle)": { "word": "Simulating", "gujaratiPronunciation": "સિમ્યુલેટિંગ", "hindiPronunciation": "सिम्युलेटिंग", "gujaratiMeaning": "અનુકરણ કરી રહ્યું છે", "hindiMeaning": "अनुकरण कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Imitate", "gujaratiPronunciation": "ઇમિટેટ", "hindiPronunciation": "इमिटेट", "gujaratiMeaning": "નકલ કરવી", "hindiMeaning": "नकल करना" },
+        { "word": "Replicate", "gujaratiPronunciation": "રેપ્લિકેટ", "hindiPronunciation": "रेप्लिकेट", "gujaratiMeaning": "પ્રતિકૃતિ બનાવવી", "hindiMeaning": "प्रतिकृति बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Experience", "gujaratiPronunciation": "એક્સપિરિયન્સ", "hindiPronunciation": "एक्सपीरियंस", "gujaratiMeaning": "અનુભવ કરવો", "hindiMeaning": "अनुभव करना" }
+      ],
+      "confusingWords": [
+        { "word": "Stimulate", "gujaratiPronunciation": "સ્ટિમ્યુલેટ", "hindiPronunciation": "स्टिम्युलेट", "gujaratiMeaning": "ઉત્તેજિત કરવું", "hindiMeaning": "उत्तेजित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Pilots use simulators to simulate flight conditions.",
+          "gujaratiTranslation": "પાઇલોટ્સ ફ્લાઇટની પરિસ્થિતિઓનું અનુકરણ કરવા માટે સિમ્યુલેટરનો ઉપયોગ કરે છે.",
+          "hindiTranslation": "पायलट उड़ान की स्थितियों का अनुकरण करने के लिए सिमुलेटर का उपयोग करते हैं।",
+          "gujaratiPronunciation": "પાઇલોટ્સ યુઝ સિમ્યુલેટર્સ ટુ સિમ્યુલેટ ફ્લાઇટ કન્ડિશન્સ.",
+          "hindiPronunciation": "पायलट्स यूज़ सिमुलेटर्स टू सिम्युलेट फ्लाइट कंडीशंस।"
+        }
+      ]
+    },
+    {
+      "word": "Formulate",
+      "gujaratiPronunciation": "ફોર્મ્યુલેટ",
+      "hindiPronunciation": "फॉर्म्युलेट",
+      "gujaratiMeaning": "રચના કરવી",
+      "hindiMeaning": "तैयार करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Formulate", "gujaratiPronunciation": "ફોર્મ્યુલેટ", "hindiPronunciation": "फॉर्म्युलेट", "gujaratiMeaning": "રચના કરવી", "hindiMeaning": "तैयार करना" },
+        "V2 (Past Simple)": { "word": "Formulated", "gujaratiPronunciation": "ફોર્મ્યુલેટેડ", "hindiPronunciation": "फॉर्म्युलेटेड", "gujaratiMeaning": "રચના કરી", "hindiMeaning": "तैयार किया" },
+        "V3 (Past Participle)": { "word": "Formulated", "gujaratiPronunciation": "ફોર્મ્યુલેટેડ", "hindiPronunciation": "फॉर्म्युलेटेड", "gujaratiMeaning": "રચના કરેલ", "hindiMeaning": "सूत्रित" },
+        "V4 (Present Participle)": { "word": "Formulating", "gujaratiPronunciation": "ફોર્મ્યુલેટિંગ", "hindiPronunciation": "फॉर्म्युलेटिंग", "gujaratiMeaning": "રચના કરી રહ્યું છે", "hindiMeaning": "तैयार कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Devise", "gujaratiPronunciation": "ડિવાઇઝ", "hindiPronunciation": "डिवाइस", "gujaratiMeaning": "યોજવું", "hindiMeaning": "तैयार करना" },
+        { "word": "Develop", "gujaratiPronunciation": "ડેવલપ", "hindiPronunciation": "डेवलप", "gujaratiMeaning": "વિકસાવવું", "hindiMeaning": "विकसित करना" }
+      ],
+      "antonyms": [
+        { "word": "Dismantle", "gujaratiPronunciation": "ડિસમેન્ટલ", "hindiPronunciation": "डिसमेंटल", "gujaratiMeaning": "વિખેરી નાખવું", "hindiMeaning": "विघटित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Formula", "gujaratiPronunciation": "ફોર્મ્યુલા", "hindiPronunciation": "फॉर्मूला", "gujaratiMeaning": "સૂત્ર", "hindiMeaning": "सूत्र" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The team needs to formulate a new strategy.",
+          "gujaratiTranslation": "ટીમે નવી વ્યૂહરચના બનાવવાની જરૂર છે.",
+          "hindiTranslation": "टीम को एक नई रणनीति तैयार करने की जरूरत है।",
+          "gujaratiPronunciation": "ધ ટીમ નીડ્સ ટુ ફોર્મ્યુલેટ અ ન્યૂ સ્ટ્રેટેજી.",
+          "hindiPronunciation": "द टीम नीड्स टू फॉर्म्युलेट अ न्यू स्ट्रेटेजी।"
+        }
+      ]
+    },
+    {
+      "word": "Theorize",
+      "gujaratiPronunciation": "થિયરાઇઝ",
+      "hindiPronunciation": "थियोराइज़",
+      "gujaratiMeaning": "સિદ્ધાંત બનાવવો",
+      "hindiMeaning": "सिद्धांत बनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Theorize", "gujaratiPronunciation": "થિયરાઇઝ", "hindiPronunciation": "थियोराइज़", "gujaratiMeaning": "સિદ્ધાંત બનાવવો", "hindiMeaning": "सिद्धांत बनाना" },
+        "V2 (Past Simple)": { "word": "Theorized", "gujaratiPronunciation": "થિયરાઇઝ્ડ", "hindiPronunciation": "थियोराइज़्ड", "gujaratiMeaning": "સિદ્ધાંત બનાવ્યો", "hindiMeaning": "सिद्धांत बनाया" },
+        "V3 (Past Participle)": { "word": "Theorized", "gujaratiPronunciation": "થિયરાઇઝ્ડ", "hindiPronunciation": "थियोराइज़्ड", "gujaratiMeaning": "સિદ્ધાંત બનાવેલ", "hindiMeaning": "सैद्धांतिक" },
+        "V4 (Present Participle)": { "word": "Theorizing", "gujaratiPronunciation": "થિયરાઇઝિંગ", "hindiPronunciation": "थियोराइजिंग", "gujaratiMeaning": "સિદ્ધાંત બનાવી રહ્યું છે", "hindiMeaning": "सिद्धांत बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Hypothesize", "gujaratiPronunciation": "હાઇપોથિસાઇઝ", "hindiPronunciation": "हाइपोथेसाइज़", "gujaratiMeaning": "પૂર્વધારણા કરવી", "hindiMeaning": "परिकल्पना करना" },
+        { "word": "Speculate", "gujaratiPronunciation": "સ્પેક્યુલેટ", "hindiPronunciation": "स्पेक्युलेट", "gujaratiMeaning": "અટકળ કરવી", "hindiMeaning": "अटकलें लगाना" }
+      ],
+      "antonyms": [
+        { "word": "Prove", "gujaratiPronunciation": "પ્રૂવ", "hindiPronunciation": "प्रूव", "gujaratiMeaning": "સાબિત કરવું", "hindiMeaning": "साबित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Terrorize", "gujaratiPronunciation": "ટેરરાઇઝ", "hindiPronunciation": "टेरराइज़", "gujaratiMeaning": "ડરાવવું", "hindiMeaning": "आतंकित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He likes to theorize about the origins of the universe.",
+          "gujaratiTranslation": "તેને બ્રહ્માંડની ઉત્પત્તિ વિશે સિદ્ધાંત બનાવવો ગમે છે.",
+          "hindiTranslation": "उन्हें ब्रह्मांड की उत्पत्ति के बारे में सिद्धांत बनाना पसंद है।",
+          "gujaratiPronunciation": "હી લાઇક્સ ટુ થિયરાઇઝ અબાઉટ ધ ઓરિજિન્સ ઓફ ધ યુનિવર્સ.",
+          "hindiPronunciation": "ही लाइक्स टू थियोराइज़ अबाउट द ओरिजिन्स ऑफ़ द यूनिवर्स।"
+        }
+      ]
+    }
+  ]
+}

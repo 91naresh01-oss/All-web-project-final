@@ -1,0 +1,439 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Illuminate",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "પ્રકાશિત કરવું",
+      "hindiMeaning": "प्रकाशित करना",
+      "gujaratiPronunciation": "ઇલ્યુમિનેટ",
+      "hindiPronunciation": "इल्यूमिनेट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Illuminate",
+          "gujaratiPronunciation": "ઇલ્યુમિનેટ",
+          "hindiPronunciation": "इल्यूमिनेट",
+          "gujaratiMeaning": "પ્રકાશિત કરવું",
+          "hindiMeaning": "प्रकाशित करना"
+        },
+        "V2 (Past)": {
+          "word": "Illuminated",
+          "gujaratiPronunciation": "ઇલ્યુમિનેટેડ",
+          "hindiPronunciation": "इल्यूमिनेटेड",
+          "gujaratiMeaning": "પ્રકાશિત કર્યું",
+          "hindiMeaning": "प्रकाशित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Illuminated",
+          "gujaratiPronunciation": "ઇલ્યુમિનેટેડ",
+          "hindiPronunciation": "इल्यूमिनेटेड",
+          "gujaratiMeaning": "પ્રકાશિત કરેલું",
+          "hindiMeaning": "प्रकाशित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Illuminating",
+          "gujaratiPronunciation": "ઇલ્યુમિનેટિંગ",
+          "hindiPronunciation": "इल्यूमिनेटिंग",
+          "gujaratiMeaning": "પ્રકાશિત કરી રહ્યું",
+          "hindiMeaning": "प्रकाशित कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Enlighten",
+          "gujaratiPronunciation": "એનલાઇટન",
+          "hindiPronunciation": "एनलाइटन",
+          "gujaratiMeaning": "જ્ઞાન આપવું",
+          "hindiMeaning": "ज्ञान देना"
+        },
+        {
+          "word": "Clarify",
+          "gujaratiPronunciation": "ક્લેરિફાય",
+          "hindiPronunciation": "क्लैरिफाई",
+          "gujaratiMeaning": "સ્પષ્ટ કરવું",
+          "hindiMeaning": "स्पष्ट करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Obscure",
+          "gujaratiPronunciation": "ઓબ્સ્ક્યોર",
+          "hindiPronunciation": "ऑब्स्क्योर",
+          "gujaratiMeaning": "અસ્પષ્ટ કરવું",
+          "hindiMeaning": "अस्पष्ट करना"
+        },
+        {
+          "word": "Confuse",
+          "gujaratiPronunciation": "કન્ફ્યુઝ",
+          "hindiPronunciation": "कन्फ्यूज़",
+          "gujaratiMeaning": "ગૂંચવવું",
+          "hindiMeaning": "उलझाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Eliminate",
+          "gujaratiPronunciation": "એલિમિનેટ",
+          "hindiPronunciation": "एलिमिनेट",
+          "gujaratiMeaning": "દૂર કરવું",
+          "hindiMeaning": "हटाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The lecture helped to illuminate the complex scientific theory.",
+          "gujaratiPronunciation": "ધ લેક્ચર હેલ્પ્ડ ટુ ઇલ્યુમિનેટ ધ કોમ્પ્લેક્સ સાયન્ટિફિક થિયરી.",
+          "hindiPronunciation": "द लेक्चर हेल्प्ड टू इल्यूमिनेट द कॉम्प्लेक्स साइंटिफिक थ्योरी।",
+          "gujaratiTranslation": "આ વ્યાખ્યાને જટિલ વૈજ્ઞાનિક સિદ્ધાંતને પ્રકાશિત કરવામાં મદદ કરી.",
+          "hindiTranslation": "व्याख्यान ने जटिल वैज्ञानिक सिद्धांत को स्पष्ट करने में मदद की।"
+        }
+      ]
+    },
+    {
+      "word": "Certify",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "પ્રમાણિત કરવું",
+      "hindiMeaning": "प्रमाणित करना",
+      "gujaratiPronunciation": "સર્ટિફાય",
+      "hindiPronunciation": "सर्टिफाई",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Certify",
+          "gujaratiPronunciation": "સર્ટિફાય",
+          "hindiPronunciation": "सर्टिफाई",
+          "gujaratiMeaning": "પ્રમાણિત કરવું",
+          "hindiMeaning": "प्रमाणित करना"
+        },
+        "V2 (Past)": {
+          "word": "Certified",
+          "gujaratiPronunciation": "સર્ટિફાઇડ",
+          "hindiPronunciation": "सर्टिफाइड",
+          "gujaratiMeaning": "પ્રમાણિત કર્યું",
+          "hindiMeaning": "प्रमाणित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Certified",
+          "gujaratiPronunciation": "સર્ટિફાઇડ",
+          "hindiPronunciation": "सर्टिफाइड",
+          "gujaratiMeaning": "પ્રમાણિત કરેલું",
+          "hindiMeaning": "प्रमाणित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Certifying",
+          "gujaratiPronunciation": "સર્ટિફાયિંગ",
+          "hindiPronunciation": "सर्टिफाईिंग",
+          "gujaratiMeaning": "પ્રમાણિત કરી રહ્યું",
+          "hindiMeaning": "प्रमाणित कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Verify",
+          "gujaratiPronunciation": "વેરિફાય",
+          "hindiPronunciation": "वेरीफाई",
+          "gujaratiMeaning": "ચકાસવું",
+          "hindiMeaning": "सत्यापित करना"
+        },
+        {
+          "word": "Confirm",
+          "gujaratiPronunciation": "કન્ફર્મ",
+          "hindiPronunciation": "कन्फर्म",
+          "gujaratiMeaning": "પુષ્ટિ કરવી",
+          "hindiMeaning": "पुष्टि करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Deny",
+          "gujaratiPronunciation": "ડિનાય",
+          "hindiPronunciation": "डिनाई",
+          "gujaratiMeaning": "નકારવું",
+          "hindiMeaning": "अस्वीकार करना"
+        },
+        {
+          "word": "Invalidate",
+          "gujaratiPronunciation": "ઇનવેલિડેટ",
+          "hindiPronunciation": "इनवैलिडेट",
+          "gujaratiMeaning": "અમાન્ય કરવું",
+          "hindiMeaning": "अमान्य करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Rectify",
+          "gujaratiPronunciation": "રેક્ટિફાય",
+          "hindiPronunciation": "रेक्टिफाई",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "सुधारना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "This document certifies that you have completed the course.",
+          "gujaratiPronunciation": "ધિસ ડોક્યુમેન્ટ સર્ટિફાઇઝ ધેટ યુ હેવ કમ્પ્લીટેડ ધ કોર્સ.",
+          "hindiPronunciation": "दिस डॉक्यूमेंट सर्टिफाइज़ दैट यू हैव कम्प्लीटेड द कोर्स।",
+          "gujaratiTranslation": "આ દસ્તાવેજ પ્રમાણિત કરે છે કે તમે કોર્સ પૂર્ણ કર્યો છે.",
+          "hindiTranslation": "यह दस्तावेज़ प्रमाणित करता है कि आपने पाठ्यक्रम पूरा कर लिया है।"
+        }
+      ]
+    },
+    {
+      "word": "Inculcate",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "મનમાં ઠસાવવું",
+      "hindiMeaning": "मन में बिठाना",
+      "gujaratiPronunciation": "ઇનકલકેટ",
+      "hindiPronunciation": "इंकल्केट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Inculcate",
+          "gujaratiPronunciation": "ઇનકલકેટ",
+          "hindiPronunciation": "इंकल्केट",
+          "gujaratiMeaning": "મનમાં ઠસાવવું",
+          "hindiMeaning": "मन में बिठाना"
+        },
+        "V2 (Past)": {
+          "word": "Inculcated",
+          "gujaratiPronunciation": "ઇનકલકેટેડ",
+          "hindiPronunciation": "इंकल्केटेड",
+          "gujaratiMeaning": "મનમાં ઠસાવ્યું",
+          "hindiMeaning": "मन में बिठाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Inculcated",
+          "gujaratiPronunciation": "ઇનકલકેટેડ",
+          "hindiPronunciation": "इंकल्केटेड",
+          "gujaratiMeaning": "મનમાં ઠસાવેલું",
+          "hindiMeaning": "मन में बिठाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Inculcating",
+          "gujaratiPronunciation": "ઇનકલકેટિંગ",
+          "hindiPronunciation": "इंकल्केटिंग",
+          "gujaratiMeaning": "મનમાં ઠસાવી રહ્યું",
+          "hindiMeaning": "मन में बिठा रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Instill",
+          "gujaratiPronunciation": "ઇન્સ્ટિલ",
+          "hindiPronunciation": "इंस्टिल",
+          "gujaratiMeaning": "ઉતારવું",
+          "hindiMeaning": "मन में बैठाना"
+        },
+        {
+          "word": "Implant",
+          "gujaratiPronunciation": "ઇમ્પ્લાન્ટ",
+          "hindiPronunciation": "इम्प्लांट",
+          "gujaratiMeaning": "રોપવું",
+          "hindiMeaning": "रोपना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Eradicate",
+          "gujaratiPronunciation": "ઇરેડિકેટ",
+          "hindiPronunciation": "इरेडिकेट",
+          "gujaratiMeaning": "નાબૂદ કરવું",
+          "hindiMeaning": "उन्मूलन करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Calculate",
+          "gujaratiPronunciation": "કેલ્ક્યુલેટ",
+          "hindiPronunciation": "कैल्कुलेट",
+          "gujaratiMeaning": "ગણતરી કરવી",
+          "hindiMeaning": "गणना करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Parents try to inculcate good values in their children.",
+          "gujaratiPronunciation": "પેરેન્ટ્સ ટ્રાય ટુ ઇનકલકેટ ગુડ વેલ્યુઝ ઇન ધેર ચિલ્ડ્રન.",
+          "hindiPronunciation": "पेरेंट्स ट्राई टू इंकल्केट गुड वैल्यूज़ इन देयर चिल्ड्रन।",
+          "gujaratiTranslation": "માતાપિતા તેમના બાળકોમાં સારા સંસ્કારો ઠસાવવાનો પ્રયાસ કરે છે.",
+          "hindiTranslation": "माता-पिता अपने बच्चों में अच्छे संस्कार डालने की कोशिश करते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Disseminate",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "ફેલાવો કરવો",
+      "hindiMeaning": "प्रसार करना",
+      "gujaratiPronunciation": "ડિસેમિનેટ",
+      "hindiPronunciation": "डिसेमिनेट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Disseminate",
+          "gujaratiPronunciation": "ડિસેમિનેટ",
+          "hindiPronunciation": "डिसेमिनेट",
+          "gujaratiMeaning": "ફેલાવો કરવો",
+          "hindiMeaning": "प्रसार करना"
+        },
+        "V2 (Past)": {
+          "word": "Disseminated",
+          "gujaratiPronunciation": "ડિસેમિનેટેડ",
+          "hindiPronunciation": "डिसेमिनेटेड",
+          "gujaratiMeaning": "ફેલાવો કર્યો",
+          "hindiMeaning": "प्रसार किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Disseminated",
+          "gujaratiPronunciation": "ડિસેમિનેટેડ",
+          "hindiPronunciation": "डिसेमिनेटेड",
+          "gujaratiMeaning": "ફેલાવો કરેલો",
+          "hindiMeaning": "प्रसार किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Disseminating",
+          "gujaratiPronunciation": "ડિસેમિનેટિંગ",
+          "hindiPronunciation": "डिसेमिनेटिंग",
+          "gujaratiMeaning": "ફેલાવો કરી રહ્યું",
+          "hindiMeaning": "प्रसार कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Spread",
+          "gujaratiPronunciation": "સ્પ્રેડ",
+          "hindiPronunciation": "स्प्रेड",
+          "gujaratiMeaning": "ફેલાવવું",
+          "hindiMeaning": "फैलाना"
+        },
+        {
+          "word": "Distribute",
+          "gujaratiPronunciation": "ડિસ્ટ્રિબ્યુટ",
+          "hindiPronunciation": "डिस्ट्रीब्यूट",
+          "gujaratiMeaning": "વિતરણ કરવું",
+          "hindiMeaning": "वितरित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Conceal",
+          "gujaratiPronunciation": "કન્સીલ",
+          "hindiPronunciation": "कंसील",
+          "gujaratiMeaning": "છુપાવવું",
+          "hindiMeaning": "छिपाना"
+        },
+        {
+          "word": "Suppress",
+          "gujaratiPronunciation": "સપ્રેસ",
+          "hindiPronunciation": "सप्रेस",
+          "gujaratiMeaning": "દબાવી દેવું",
+          "hindiMeaning": "दबाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Dissipate",
+          "gujaratiPronunciation": "ડિસિપેટ",
+          "hindiPronunciation": "डिसिपेट",
+          "gujaratiMeaning": "વેડફી નાખવું",
+          "hindiMeaning": "नष्ट करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The organization's goal is to disseminate information about climate change.",
+          "gujaratiPronunciation": "ધ ઓર્ગેનાઇઝેશન્સ ગોલ ઇઝ ટુ ડિસેમિનેટ ઇન્ફર્મેશન અબાઉટ ક્લાઇમેટ ચેન્જ.",
+          "hindiPronunciation": "द ऑर्गनाइज़ेशन्स गोल इज़ टू डिसेमिनेट इन्फॉर्मेशन अबाउट क्लाइमेट चेंज।",
+          "gujaratiTranslation": "સંસ્થાનો ધ્યેય આબોહવા પરિવર્તન વિશે માહિતીનો ફેલાવો કરવાનો છે.",
+          "hindiTranslation": "संगठन का लक्ष्य जलवायु परिवर्तन के बारे में जानकारी का प्रसार करना है।"
+        }
+      ]
+    },
+    {
+      "word": "Elucidate",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "સ્પષ્ટ કરવું",
+      "hindiMeaning": "स्पष्ट करना",
+      "gujaratiPronunciation": "ઇલ્યુસિડેટ",
+      "hindiPronunciation": "एल्यूसिडेट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Elucidate",
+          "gujaratiPronunciation": "ઇલ્યુસિડેટ",
+          "hindiPronunciation": "एल्यूसिडेट",
+          "gujaratiMeaning": "સ્પષ્ટ કરવું",
+          "hindiMeaning": "स्पष्ट करना"
+        },
+        "V2 (Past)": {
+          "word": "Elucidated",
+          "gujaratiPronunciation": "ઇલ્યુસિડેટેડ",
+          "hindiPronunciation": "एल्यूसिडेटेड",
+          "gujaratiMeaning": "સ્પષ્ટ કર્યું",
+          "hindiMeaning": "स्पष्ट किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Elucidated",
+          "gujaratiPronunciation": "ઇલ્યુસિડેટેડ",
+          "hindiPronunciation": "एल्यूसिडेटेड",
+          "gujaratiMeaning": "સ્પષ્ટ કરેલું",
+          "hindiMeaning": "स्पष्ट किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Elucidating",
+          "gujaratiPronunciation": "ઇલ્યુસિડેટિંગ",
+          "hindiPronunciation": "एल्यूसिडेटिंग",
+          "gujaratiMeaning": "સ્પષ્ટ કરી રહ્યું",
+          "hindiMeaning": "स्पष्ट कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Explain",
+          "gujaratiPronunciation": "એક્સપ્લેન",
+          "hindiPronunciation": "एक्सप्लेन",
+          "gujaratiMeaning": "સમજાવવું",
+          "hindiMeaning": "समझाना"
+        },
+        {
+          "word": "Clarify",
+          "gujaratiPronunciation": "ક્લેરિફાય",
+          "hindiPronunciation": "क्लैरिफाई",
+          "gujaratiMeaning": "સ્પષ્ટતા કરવી",
+          "hindiMeaning": "स्पष्ट करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Obscure",
+          "gujaratiPronunciation": "ઓબ્સ્ક્યોર",
+          "hindiPronunciation": "ऑब्स्क्योर",
+          "gujaratiMeaning": "અસ્પષ્ટ કરવું",
+          "hindiMeaning": "अस्पष्ट करना"
+        },
+        {
+          "word": "Confuse",
+          "gujaratiPronunciation": "કન્ફ્યુઝ",
+          "hindiPronunciation": "कन्फ्यूज़",
+          "gujaratiMeaning": "ગૂંચવવું",
+          "hindiMeaning": "उलझाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Eliminate",
+          "gujaratiPronunciation": "એલિમિનેટ",
+          "hindiPronunciation": "एलिमिनेट",
+          "gujaratiMeaning": "દૂર કરવું",
+          "hindiMeaning": "हटाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The professor used a diagram to elucidate the complex process.",
+          "gujaratiPronunciation": "ધ પ્રોફેસર યુઝ્ડ અ ડાયાગ્રામ ટુ ઇલ્યુસિડેટ ધ કોમ્પ્લેક્સ પ્રોસેસ.",
+          "hindiPronunciation": "द प्रोफेसर यूज़्ड अ डायग्राम टू एल्यूसिडेट द कॉम्प्लेक्स प्रोसेस।",
+          "gujaratiTranslation": "પ્રોફેસરે જટિલ પ્રક્રિયાને સ્પષ્ટ કરવા માટે એક આકૃતિનો ઉપયોગ કર્યો.",
+          "hindiTranslation": "प्रोफेसर ने जटिल प्रक्रिया को स्पष्ट करने के लिए एक आरेख का उपयोग किया।"
+        }
+      ]
+    }
+  ]
+}

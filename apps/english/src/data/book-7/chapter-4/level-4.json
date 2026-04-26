@@ -1,0 +1,172 @@
+
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Delineate",
+            "gujaratiPronunciation": "ડિલિનિએટ",
+            "hindiPronunciation": "डिलिनिएट",
+            "gujaratiMeaning": "રૂપરેખા આપવી, સ્પષ્ટ રીતે વર્ણન કરવું",
+            "hindiMeaning": "रूपरेखा बनाना, स्पष्ट रूप से वर्णन करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Delineate", "pronunciation": "ડિલિનિએટ", "meaning": "રૂપરેખા આપવી" },
+                "v2": { "word": "Delineated", "pronunciation": "ડિલિનિએટેડ", "meaning": "રૂપરેખા આપી" },
+                "v3": { "word": "Delineated", "pronunciation": "ડિલિનિએટેડ", "meaning": "રૂપરેખા આપેલી" },
+                "v4": { "word": "Delineating", "pronunciation": "ડિલિનિએટિંગ", "meaning": "રૂપરેખા આપી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Describe", "pronunciation": "ડિસ્ક્રાઇબ", "meaning": "વર્ણન કરવું" },
+                { "word": "Outline", "pronunciation": "આઉટલાઇન", "meaning": "રૂપરેખા" }
+            ],
+            "antonyms": [
+                { "word": "Confuse", "pronunciation": "કન્ફ્યુઝ", "meaning": "ગૂંચવવું" },
+                { "word": "Obscure", "pronunciation": "ઓબ્સ્ક્યોર", "meaning": "અસ્પષ્ટ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Decline", "pronunciation": "ડિક્લાઇન", "meaning": "અસ્વીકાર કરવો" },
+                { "word": "Delegate", "pronunciation": "ડેલિગેટ", "meaning": "પ્રતિનિધિ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The new policy clearly delineates the responsibilities of each team member.",
+                    "gujaratiTranslation": "નવી નીતિ દરેક ટીમના સભ્યની જવાબદારીઓને સ્પષ્ટપણે વર્ણવે છે.",
+                    "hindiTranslation": "नई नीति प्रत्येक टीम के सदस्य की जिम्मेदारियों को स्पष्ट रूप से चित्रित करती है।"
+                }
+            ]
+        },
+        {
+            "word": "Connect",
+            "gujaratiPronunciation": "કનેક્ટ",
+            "hindiPronunciation": "कनेक्ट",
+            "gujaratiMeaning": "જોડવું, સંબંધ સ્થાપિત કરવો",
+            "hindiMeaning": "जोड़ना, संबंध स्थापित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Connect", "pronunciation": "કનેક્ટ", "meaning": "જોડવું" },
+                "v2": { "word": "Connected", "pronunciation": "કનેક્ટેડ", "meaning": "જોડ્યું" },
+                "v3": { "word": "Connected", "pronunciation": "કનેક્ટેડ", "meaning": "જોડાયેલ" },
+                "v4": { "word": "Connecting", "pronunciation": "કનેક્ટિંગ", "meaning": "જોડી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Link", "pronunciation": "લિંક", "meaning": "જોડવું" },
+                { "word": "Join", "pronunciation": "જોઇન", "meaning": "ભેગા થવું" }
+            ],
+            "antonyms": [
+                { "word": "Disconnect", "pronunciation": "ડિસ્કનેક્ટ", "meaning": "જોડાણ તોડવું" },
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "અલગ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Conduct", "pronunciation": "કન્ડક્ટ", "meaning": "આચરણ કરવું" },
+                { "word": "Contact", "pronunciation": "કોન્ટેક્ટ", "meaning": "સંપર્ક" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "I need to connect my laptop to the Wi-Fi.",
+                    "gujaratiTranslation": "મારે મારા લેપટોપને વાઇ-ફાઇ સાથે જોડવાની જરૂર છે.",
+                    "hindiTranslation": "मुझे अपने लैपटॉप को वाई-फाई से कनेक्ट करना होगा।"
+                }
+            ]
+        },
+        {
+            "word": "Align",
+            "gujaratiPronunciation": "અલાઇન",
+            "hindiPronunciation": "अलाइन",
+            "gujaratiMeaning": "એક સીધી રેખામાં ગોઠવવું, સંરેખિત કરવું",
+            "hindiMeaning": "एक सीध में लाना, संरेखित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Align", "pronunciation": "અલાઇન", "meaning": "સંરેખિત કરવું" },
+                "v2": { "word": "Aligned", "pronunciation": "અલાઇન્ડ", "meaning": "સંરેખિત કર્યું" },
+                "v3": { "word": "Aligned", "pronunciation": "અલાઇન્ડ", "meaning": "સંરેખિત" },
+                "v4": { "word": "Aligning", "pronunciation": "અલાઇનિંગ", "meaning": "સંરેખિત કરી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Line up", "pronunciation": "લાઇન અપ", "meaning": "લાઇનમાં ગોઠવવું" },
+                { "word": "Arrange", "pronunciation": "એરેન્જ", "meaning": "ગોઠવવું" }
+            ],
+            "antonyms": [
+                { "word": "Misalign", "pronunciation": "મિસઅલાઇન", "meaning": "ખોટી રીતે ગોઠવવું" },
+                { "word": "Scatter", "pronunciation": "સ્કેટર", "meaning": "વિખેરી નાખવું" }
+            ],
+            "confusingWords": [
+                { "word": "Aline", "pronunciation": "એલીન", "meaning": "એક સ્ત્રીનું નામ" },
+                { "word": "Alien", "pronunciation": "એલિયન", "meaning": "પરગ્રહવાસી" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Make sure to align the text to the center of the page.",
+                    "gujaratiTranslation": "ખાતરી કરો કે ટેક્સ્ટને પૃષ્ઠની મધ્યમાં સંરેખિત કરો.",
+                    "hindiTranslation": "सुनिश्चित करें कि टेक्स्ट को पृष्ठ के केंद्र में संरेखित करें।"
+                }
+            ]
+        },
+        {
+            "word": "Interlace",
+            "gujaratiPronunciation": "ઇન્ટરલેસ",
+            "hindiPronunciation": "इंटरलेस",
+            "gujaratiMeaning": "એકબીજા સાથે ગૂંથવું",
+            "hindiMeaning": "एक दूसरे से गूंथना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Interlace", "pronunciation": "ઇન્ટરલેસ", "meaning": "ગૂંથવું" },
+                "v2": { "word": "Interlaced", "pronunciation": "ઇન્ટરલેસ્ડ", "meaning": "ગૂંથેલું" },
+                "v3": { "word": "Interlaced", "pronunciation": "ઇન્ટરલેસ્ડ", "meaning": "ગૂંથેલું" },
+                "v4": { "word": "Interlacing", "pronunciation": "ઇન્ટરલેસિંગ", "meaning": "ગૂંથી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Intertwine", "pronunciation": "ઇન્ટરટ્વાઇન", "meaning": "એકબીજા સાથે વણાવું" },
+                { "word": "Weave", "pronunciation": "વીવ", "meaning": "વણવું" }
+            ],
+            "antonyms": [
+                { "word": "Unravel", "pronunciation": "અનરેવલ", "meaning": "ઉકેલવું" },
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "અલગ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Interface", "pronunciation": "ઇન્ટરફેસ", "meaning": "જોડાણ" },
+                { "word": "Enter less", "pronunciation": "એન્ટર લેસ", "meaning": "ઓછું દાખલ કરો" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She sat with her fingers interlaced on her lap.",
+                    "gujaratiTranslation": "તેણી તેની આંગળીઓને ખોળામાં ગૂંથીને બેઠી હતી.",
+                    "hindiTranslation": "वह अपनी उंगलियों को अपनी गोद में गूंथकर बैठी थी।"
+                }
+            ]
+        },
+        {
+            "word": "Tangle",
+            "gujaratiPronunciation": "ટેંગલ",
+            "hindiPronunciation": "टैंगल",
+            "gujaratiMeaning": "ગૂંચવવું, ફસાવવું",
+            "hindiMeaning": "उलझाना, फँसाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Tangle", "pronunciation": "ટેંગલ", "meaning": "ગૂંચવવું" },
+                "v2": { "word": "Tangled", "pronunciation": "ટેંગલ્ડ", "meaning": "ગૂંચવાયું" },
+                "v3": { "word": "Tangled", "pronunciation": "ટેંગલ્ડ", "meaning": "ગૂંચવાયેલું" },
+                "v4": { "word": "Tangling", "pronunciation": "ટેંગલિંગ", "meaning": "ગૂંચવી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Entangle", "pronunciation": "એન્ટેંગલ", "meaning": "ફસાવવું" },
+                { "word": "Knot", "pronunciation": "નોટ", "meaning": "ગાંઠ વાળવી" }
+            ],
+            "antonyms": [
+                { "word": "Untangle", "pronunciation": "અનટેંગલ", "meaning": "ઉકેલવું" },
+                { "word": "Unravel", "pronunciation": "અનરેવલ", "meaning": "ઉકેલવું" }
+            ],
+            "confusingWords": [
+                { "word": "Tingle", "pronunciation": "ટિંગલ", "meaning": "ઝણઝણાટ થવો" },
+                { "word": "Tango", "pronunciation": "ટેંગો", "meaning": "એક નૃત્ય પ્રકાર" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "My headphone wires always tangle in my pocket.",
+                    "gujaratiTranslation": "મારા હેડફોનના વાયર હંમેશા મારા ખિસ્સામાં ગૂંચવાઈ જાય છે.",
+                    "hindiTranslation": "मेरे हेडफोन के तार हमेशा मेरी जेब में उलझ जाते हैं।"
+                }
+            ]
+        }
+    ]
+}

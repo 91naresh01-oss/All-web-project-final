@@ -1,0 +1,145 @@
+
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Envision",
+            "gujaratiPronunciation": "એન્વિઝન",
+            "hindiPronunciation": "एन्विज़न",
+            "gujaratiMeaning": "કલ્પના કરવી, મનમાં ચિત્ર બનાવવું",
+            "hindiMeaning": "कल्पना करना, मन में चित्र बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Envision", "gujaratiPronunciation": "એન્વિઝન", "hindiPronunciation": "एन्विज़न", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" },
+                "V2 (Past)": { "word": "Envisioned", "gujaratiPronunciation": "એન્વિઝન્ડ", "hindiPronunciation": "एन्विज़ंड", "gujaratiMeaning": "કલ્પના કરી", "hindiMeaning": "कल्पना की" },
+                "V3 (Past Participle)": { "word": "Envisioned", "gujaratiPronunciation": "એન્વિઝન્ડ", "hindiPronunciation": "एन्विज़ंड", "gujaratiMeaning": "કલ્પના કરેલી", "hindiMeaning": "कल्पना की हुई" },
+                "V4 (Present Participle)": { "word": "Envisioning", "gujaratiPronunciation": "એન્વિઝનિંગ", "hindiPronunciation": "एन्विज़निंग", "gujaratiMeaning": "કલ્પના કરી રહ્યું છે", "hindiMeaning": "कल्पना कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Imagine", "gujaratiPronunciation": "ઇમેજિન", "hindiPronunciation": "इमैजिन", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" },
+                { "word": "Visualize", "gujaratiPronunciation": "વિઝ્યુલાઇઝ", "hindiPronunciation": "विज़ुअलाइज़", "gujaratiMeaning": "માનસિક ચિત્ર બનાવવું", "hindiMeaning": "मानसिक चित्र बनाना" }
+            ],
+            "antonyms": [
+                { "word": "Be blind to", "gujaratiPronunciation": "બી બ્લાઇન્ડ ટુ", "hindiPronunciation": "बी ब्लाइंड टू", "gujaratiMeaning": "અજાણ હોવું", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Division", "gujaratiPronunciation": "ડિવિઝન", "hindiPronunciation": "डिवीज़न", "gujaratiMeaning": "વિભાગ", "hindiMeaning": "विभाग" }
+            ],
+            "exampleSentences": [
+                { "sentence": "She envisioned a world without poverty.", "gujaratiTranslation": "તેણીએ ગરીબી વિનાની દુનિયાની કલ્પના કરી.", "hindiTranslation": "उसने गरीबी के बिना एक दुनिया की कल्पना की।", "gujaratiPronunciation": "શી એન્વિઝન્ડ અ વર્લ્ડ વિધાઉટ પોવર્ટી.", "hindiPronunciation": "शी एन्विज़ंड अ वर्ल्ड विदाउट पॉवर्टी।" }
+            ]
+        },
+        {
+            "word": "Emerge",
+            "gujaratiPronunciation": "ઇમર્જ",
+            "hindiPronunciation": "इमर्ज",
+            "gujaratiMeaning": "બહાર આવવું, ઉભરી આવવું",
+            "hindiMeaning": "बाहर आना, उभरना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Emerge", "gujaratiPronunciation": "ઇમર્જ", "hindiPronunciation": "इमर्ज", "gujaratiMeaning": "બહાર આવવું", "hindiMeaning": "बाहर आना" },
+                "V2 (Past)": { "word": "Emerged", "gujaratiPronunciation": "ઇમર્જ્ડ", "hindiPronunciation": "इमर्ज्ड", "gujaratiMeaning": "બહાર આવ્યું", "hindiMeaning": "बाहर आया" },
+                "V3 (Past Participle)": { "word": "Emerged", "gujaratiPronunciation": "ઇમર્જ્ડ", "hindiPronunciation": "इमर्ज्ड", "gujaratiMeaning": "બહાર આવેલું", "hindiMeaning": "बाहर आया हुआ" },
+                "V4 (Present Participle)": { "word": "Emerging", "gujaratiPronunciation": "ઇમર્જિંગ", "hindiPronunciation": "इमर्जिंग", "gujaratiMeaning": "બહાર આવી રહ્યું છે", "hindiMeaning": "बाहर आ रहा है" }
+            },
+            "synonyms": [
+                { "word": "Appear", "gujaratiPronunciation": "અપિયર", "hindiPronunciation": "अपियर", "gujaratiMeaning": "દેખાવું", "hindiMeaning": "दिखाई देना" },
+                { "word": "Surface", "gujaratiPronunciation": "સરફેસ", "hindiPronunciation": "सरफेस", "gujaratiMeaning": "સપાટી પર આવવું", "hindiMeaning": "सतह पर आना" }
+            ],
+            "antonyms": [
+                { "word": "Disappear", "gujaratiPronunciation": "ડિસઅપિયર", "hindiPronunciation": "डिसअपीयर", "gujaratiMeaning": "ગાયબ થવું", "hindiMeaning": "गायब होना" },
+                { "word": "Submerge", "gujaratiPronunciation": "સબમર્જ", "hindiPronunciation": "सबमर्ज", "gujaratiMeaning": "ડૂબી જવું", "hindiMeaning": "डूब जाना" }
+            ],
+            "confusingWords": [
+                { "word": "Merge", "gujaratiPronunciation": "મર્જ", "hindiPronunciation": "मर्ज", "gujaratiMeaning": "ભેળવવું", "hindiMeaning": "विलय करना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The sun emerged from behind the clouds.", "gujaratiTranslation": "સૂર્ય વાદળો પાછળથી બહાર આવ્યો.", "hindiTranslation": "सूरज बादलों के पीछे से निकला।", "gujaratiPronunciation": "ધ સન ઇમર્જ્ડ ફ્રોમ બિહાઇન્ડ ધ ક્લાઉડ્સ.", "hindiPronunciation": "द सन इमर्ज्ड फ्रॉम बिहाइंड द क्लाउड्स।" }
+            ]
+        },
+        {
+            "word": "Prevail",
+            "gujaratiPronunciation": "પ્રિવેલ",
+            "hindiPronunciation": "प्रिवेल",
+            "gujaratiMeaning": "જીતવું, પ્રચલિત હોવું",
+            "hindiMeaning": "जीतना, प्रचलित होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Prevail", "gujaratiPronunciation": "પ્રિવેલ", "hindiPronunciation": "प्रिवेल", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+                "V2 (Past)": { "word": "Prevailed", "gujaratiPronunciation": "પ્રિવેલ્ડ", "hindiPronunciation": "प्रिवेल्ड", "gujaratiMeaning": "જીત્યું", "hindiMeaning": "जीता" },
+                "V3 (Past Participle)": { "word": "Prevailed", "gujaratiPronunciation": "પ્રિવેલ્ડ", "hindiPronunciation": "प्रिवेल्ड", "gujaratiMeaning": "જીતેલું", "hindiMeaning": "जीता हुआ" },
+                "V4 (Present Participle)": { "word": "Prevailing", "gujaratiPronunciation": "પ્રિવેલિંગ", "hindiPronunciation": "प्रिवेलिंग", "gujaratiMeaning": "જીતી રહ્યું છે", "hindiMeaning": "जीत रहा है" }
+            },
+            "synonyms": [
+                { "word": "Triumph", "gujaratiPronunciation": "ટ્રાયમ્ફ", "hindiPronunciation": "ट्रायंफ", "gujaratiMeaning": "વિજય મેળવવો", "hindiMeaning": "विजय प्राप्त करना" },
+                { "word": "Dominate", "gujaratiPronunciation": "ડોમિનેટ", "hindiPronunciation": "डामिनेट", "gujaratiMeaning": "વર્ચસ્વ જમાવવું", "hindiMeaning": "हावी होना" }
+            ],
+            "antonyms": [
+                { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज़", "gujaratiMeaning": "હારવું", "hindiMeaning": "हारना" },
+                { "word": "Fail", "gujaratiPronunciation": "ફેલ", "hindiPronunciation": "फेल", "gujaratiMeaning": "નિષ્ફળ જવું", "hindiMeaning": "विफल होना" }
+            ],
+            "confusingWords": [
+                { "word": "Reveal", "gujaratiPronunciation": "રિવિલ", "hindiPronunciation": "रिवील", "gujaratiMeaning": "જાહેર કરવું", "hindiMeaning": "प्रकट करना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Justice will prevail in the end.", "gujaratiTranslation": "અંતે ન્યાયનો વિજય થશે.", "hindiTranslation": "अंत में न्याय की जीत होगी।", "gujaratiPronunciation": "જસ્ટિસ વિલ પ્રિવેલ ઇન ધ એન્ડ.", "hindiPronunciation": "जस्टिस विल प्रिवेल इन द एंड।" }
+            ]
+        },
+        {
+            "word": "Ascend",
+            "gujaratiPronunciation": "અસેન્ડ",
+            "hindiPronunciation": "एसेंड",
+            "gujaratiMeaning": "ઉપર ચઢવું",
+            "hindiMeaning": "ऊपर चढ़ना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Ascend", "gujaratiPronunciation": "અસેન્ડ", "hindiPronunciation": "एसेंड", "gujaratiMeaning": "ચઢવું", "hindiMeaning": "चढ़ना" },
+                "V2 (Past)": { "word": "Ascended", "gujaratiPronunciation": "અસેન્ડેડ", "hindiPronunciation": "एसेंडेड", "gujaratiMeaning": "ચઢ્યું", "hindiMeaning": "चढ़ा" },
+                "V3 (Past Participle)": { "word": "Ascended", "gujaratiPronunciation": "અસેન્ડેડ", "hindiPronunciation": "एसेंडेड", "gujaratiMeaning": "ચઢેલું", "hindiMeaning": "चढ़ा हुआ" },
+                "V4 (Present Participle)": { "word": "Ascending", "gujaratiPronunciation": "અસેન્ડિંગ", "hindiPronunciation": "एसेंडिंग", "gujaratiMeaning": "ચઢી રહ્યું છે", "hindiMeaning": "चढ़ रहा है" }
+            },
+            "synonyms": [
+                { "word": "Climb", "gujaratiPronunciation": "ક્લાઇમ્બ", "hindiPronunciation": "क्लाइंब", "gujaratiMeaning": "ચઢાણ કરવું", "hindiMeaning": "चढ़ना" },
+                { "word": "Rise", "gujaratiPronunciation": "રાઇઝ", "hindiPronunciation": "राइज़", "gujaratiMeaning": "ઉપર ઉઠવું", "hindiMeaning": "ऊपर उठना" }
+            ],
+            "antonyms": [
+                { "word": "Descend", "gujaratiPronunciation": "ડિસેન્ડ", "hindiPronunciation": "डिसेंड", "gujaratiMeaning": "નીચે ઉતરવું", "hindiMeaning": "नीचे उतरना" },
+                { "word": "Fall", "gujaratiPronunciation": "ફોલ", "hindiPronunciation": "फॉल", "gujaratiMeaning": "પડવું", "hindiMeaning": "गिरना" }
+            ],
+            "confusingWords": [
+                { "word": "Assent", "gujaratiPronunciation": "અસેન્ટ", "hindiPronunciation": "एसेंट", "gujaratiMeaning": "સંમતિ", "hindiMeaning": "सहमति" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The balloon began to ascend into the sky.", "gujaratiTranslation": "ફુગ્ગો આકાશમાં ઉપર ચઢવા લાગ્યો.", "hindiTranslation": "गुब्बारा आकाश में ऊपर चढ़ने लगा।", "gujaratiPronunciation": "ધ બલૂન બિગેન ટુ અસેન્ડ ઇન્ટુ ધ સ્કાય.", "hindiPronunciation": "द बलून बिगैन टू एसेंड इनटू द स्काई।" }
+            ]
+        },
+        {
+            "word": "Subsume",
+            "gujaratiPronunciation": "સબ્સ્યુમ",
+            "hindiPronunciation": "सब्स्यूम",
+            "gujaratiMeaning": "સમાવેશ કરવો",
+            "hindiMeaning": "शामिल करना, समाहित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Subsume", "gujaratiPronunciation": "સબ્સ્યુમ", "hindiPronunciation": "सब्स्यूम", "gujaratiMeaning": "સમાવેશ કરવો", "hindiMeaning": "शामिल करना" },
+                "V2 (Past)": { "word": "Subsumed", "gujaratiPronunciation": "સબ્સ્યુમ્ડ", "hindiPronunciation": "सब्स्यूम्ड", "gujaratiMeaning": "સમાવેશ કર્યો", "hindiMeaning": "शामिल किया" },
+                "V3 (Past Participle)": { "word": "Subsumed", "gujaratiPronunciation": "સબ્સ્યુમ્ડ", "hindiPronunciation": "सब्स्यूम्ड", "gujaratiMeaning": "સમાવેશ કરેલો", "hindiMeaning": "शामिल किया हुआ" },
+                "V4 (Present Participle)": { "word": "Subsuming", "gujaratiPronunciation": "સબ્સ્યુમિંગ", "hindiPronunciation": "सब्स्यूमिंग", "gujaratiMeaning": "સમાવેશ કરી રહ્યું છે", "hindiMeaning": "शामिल कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Include", "gujaratiPronunciation": "ઇન્ક્લુડ", "hindiPronunciation": "इन्क्लूड", "gujaratiMeaning": "સમાવવું", "hindiMeaning": "शामिल करना" },
+                { "word": "Incorporate", "gujaratiPronunciation": "ઇનકોર્પોરેટ", "hindiPronunciation": "इनकॉर्पोरेट", "gujaratiMeaning": "સંકલિત કરવું", "hindiMeaning": "शामिल करना" }
+            ],
+            "antonyms": [
+                { "word": "Exclude", "gujaratiPronunciation": "એક્સક્લુડ", "hindiPronunciation": "एक्सक्लूड", "gujaratiMeaning": "બાકાત રાખવું", "hindiMeaning": "बाहर रखना" }
+            ],
+            "confusingWords": [
+                { "word": "Assume", "gujaratiPronunciation": "એઝ્યુમ", "hindiPronunciation": "एज़्यूम", "gujaratiMeaning": "માની લેવું", "hindiMeaning": "मान लेना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "All these different ideas can be subsumed under one main theory.", "gujaratiTranslation": "આ બધા જુદા જુદા વિચારોને એક મુખ્ય સિદ્ધાંત હેઠળ સમાવી શકાય છે.", "hindiTranslation": "इन सभी विभिन्न विचारों को एक मुख्य सिद्धांत के तहत समाहित किया जा सकता है।", "gujaratiPronunciation": "ઓલ ધીસ ડિફરન્ટ આઈડિયાઝ કેન બી સબ્સ્યુમ્ડ અન્ડર વન મેઇન થિયરી.", "hindiPronunciation": "ऑल दीज़ डिफरेंट आइडियाज़ कैन बी सब्स्यूम्ड अंडर वन मेन थ्योरी।" }
+            ]
+        }
+    ]
+}

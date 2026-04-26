@@ -1,0 +1,11 @@
+{
+    "id": "level-1",
+    "title": "Spices 1",
+    "words": [
+        { "word": "Turmeric", "icon": "🌿", "gujaratiPronunciation": "ટર્મરિક", "hindiPronunciation": "टर्मरिक", "gujaratiMeaning": "હળદર", "hindiMeaning": "हल्दी" },
+        { "word": "Cumin", "icon": "🌿", "gujaratiPronunciation": "ક્યુમિન", "hindiPronunciation": "क्यूमिन", "gujaratiMeaning": "જીરું", "hindiMeaning": "जीरा" },
+        { "word": "Coriander", "icon": "🌿", "gujaratiPronunciation": "કોરિએન્ડર", "hindiPronunciation": "कोरिएंडर", "gujaratiMeaning": "ધાણા", "hindiMeaning": "धनिया" },
+        { "word": "Red Chili", "icon": "🌶️", "gujaratiPronunciation": "રેડ ચિલી", "hindiPronunciation": "रेड चिली", "gujaratiMeaning": "લાલ મરચું", "hindiMeaning": "लाल मिर्च" },
+        { "word": "Mustard", "icon": "🌿", "gujaratiPronunciation": "મસ્ટર્ડ", "hindiPronunciation": "मस्टर्ड", "gujaratiMeaning": "રાઈ", "hindiMeaning": "सरसों" }
+    ]
+}

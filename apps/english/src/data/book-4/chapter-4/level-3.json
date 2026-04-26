@@ -1,0 +1,446 @@
+{
+  "id": "level-3",
+  "title": "Level 3",
+  "words": [
+    {
+      "word": "Erect",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "ઊભું કરવું",
+      "hindiMeaning": "खड़ा करना",
+      "gujaratiPronunciation": "ઇરેક્ટ",
+      "hindiPronunciation": "इरेक्ट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Erect",
+          "gujaratiPronunciation": "ઇરેક્ટ",
+          "hindiPronunciation": "इरेक्ट",
+          "gujaratiMeaning": "ઊભું કરવું",
+          "hindiMeaning": "खड़ा करना"
+        },
+        "V2 (Past)": {
+          "word": "Erected",
+          "gujaratiPronunciation": "ઇરેક્ટેડ",
+          "hindiPronunciation": "इरेक्टेड",
+          "gujaratiMeaning": "ઊભું કર્યું",
+          "hindiMeaning": "खड़ा किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Erected",
+          "gujaratiPronunciation": "ઇરેક્ટેડ",
+          "hindiPronunciation": "इरेक्टेड",
+          "gujaratiMeaning": "ઊભું કરેલું",
+          "hindiMeaning": "खड़ा किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Erecting",
+          "gujaratiPronunciation": "ઇરેક્ટિંગ",
+          "hindiPronunciation": "इरेक्टिंग",
+          "gujaratiMeaning": "ઊભું કરી રહ્યું",
+          "hindiMeaning": "खड़ा कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Build",
+          "gujaratiPronunciation": "બિલ્ડ",
+          "hindiPronunciation": "बिल्ड",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "निर्माण करना"
+        },
+        {
+          "word": "Raise",
+          "gujaratiPronunciation": "રેઇઝ",
+          "hindiPronunciation": "रेज़",
+          "gujaratiMeaning": "ઉઠાવવું",
+          "hindiMeaning": "उठाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Demolish",
+          "gujaratiPronunciation": "ડિમોલિશ",
+          "hindiPronunciation": "डिमोलिश",
+          "gujaratiMeaning": "તોડી પાડવું",
+          "hindiMeaning": "ध्वस्त करना"
+        },
+        {
+          "word": "Dismantle",
+          "gujaratiPronunciation": "ડિસમેન્ટલ",
+          "hindiPronunciation": "डिसमेंटल",
+          "gujaratiMeaning": "વિખૂટું પાડવું",
+          "hindiMeaning": "तोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Eject",
+          "gujaratiPronunciation": "ઇજેક્ટ",
+          "hindiPronunciation": "इजेक्ट",
+          "gujaratiMeaning": "બહાર કાઢવું",
+          "hindiMeaning": "बाहर निकालना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A new monument was erected in the city square.",
+          "gujaratiPronunciation": "અ ન્યૂ મોન્યુમેન્ટ વૉઝ ઇરેક્ટેડ ઇન ધ સિટી સ્ક્વેર.",
+          "hindiPronunciation": "अ न्यू मॉन्यूमेंट वॉज़ इरेक्टेड इन द सिटी स्क्वायर।",
+          "gujaratiTranslation": "શહેરના ચોકમાં એક નવું સ્મારક ઊભું કરવામાં આવ્યું.",
+          "hindiTranslation": "शहर के चौराहे पर एक नया स्मारक बनाया गया था।"
+        }
+      ]
+    },
+    {
+      "word": "Demolish",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "તોડી પાડવું",
+      "hindiMeaning": "ध्वस्त करना",
+      "gujaratiPronunciation": "ડિમોલિશ",
+      "hindiPronunciation": "डिमोलिश",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Demolish",
+          "gujaratiPronunciation": "ડિમોલિશ",
+          "hindiPronunciation": "डिमोलिश",
+          "gujaratiMeaning": "તોડી પાડવું",
+          "hindiMeaning": "ध्वस्त करना"
+        },
+        "V2 (Past)": {
+          "word": "Demolished",
+          "gujaratiPronunciation": "ડિમોલિશ્ડ",
+          "hindiPronunciation": "डिमोलिश्ड",
+          "gujaratiMeaning": "તોડી પાડ્યું",
+          "hindiMeaning": "ध्वस्त किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Demolished",
+          "gujaratiPronunciation": "ડિમોલિશ્ડ",
+          "hindiPronunciation": "डिमोलिश्ड",
+          "gujaratiMeaning": "તોડી પાડેલું",
+          "hindiMeaning": "ध्वस्त किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Demolishing",
+          "gujaratiPronunciation": "ડિમોલિશિંગ",
+          "hindiPronunciation": "डिमोलिशिंग",
+          "gujaratiMeaning": "તોડી પાડી રહ્યું",
+          "hindiMeaning": "ध्वस्त कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Destroy",
+          "gujaratiPronunciation": "ડિસ્ટ્રોય",
+          "hindiPronunciation": "डिस्ट्रॉय",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        },
+        {
+          "word": "Raze",
+          "gujaratiPronunciation": "રેઝ",
+          "hindiPronunciation": "रेज़",
+          "gujaratiMeaning": "જમીનદોસ્ત કરવું",
+          "hindiMeaning": "ज़मींदोज़ करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Build",
+          "gujaratiPronunciation": "બિલ્ડ",
+          "hindiPronunciation": "बिल्ड",
+          "gujaratiMeaning": "બાંધવું",
+          "hindiMeaning": "निर्माण करना"
+        },
+        {
+          "word": "Construct",
+          "gujaratiPronunciation": "કન્સ્ટ્રક્ટ",
+          "hindiPronunciation": "कंस्ट्रक्ट",
+          "gujaratiMeaning": "રચના કરવી",
+          "hindiMeaning": "रचना करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Polish",
+          "gujaratiPronunciation": "પોલિશ",
+          "hindiPronunciation": "पॉलिश",
+          "gujaratiMeaning": "ચમકાવવું",
+          "hindiMeaning": "चमकाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The old factory is scheduled to be demolished next month.",
+          "gujaratiPronunciation": "ધ ઓલ્ડ ફેક્ટરી ઇઝ શેડ્યૂલ્ડ ટુ બી ડિમોલિશ્ડ નેક્સ્ટ મન્થ.",
+          "hindiPronunciation": "द ओल्ड फैक्ट्री इज़ शेड्यूलड टू बी डिमोलिश्ड नेक्स्ट मंथ।",
+          "gujaratiTranslation": "આવતા મહિને જૂની ફેક્ટરી તોડી પાડવામાં આવનાર છે.",
+          "hindiTranslation": "अगले महीने पुरानी फैक्ट्री को ध्वस्त किया जाना है।"
+        }
+      ]
+    },
+    {
+      "word": "Grout",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "તિરાડ ભરવી",
+      "hindiMeaning": "दरार भरना",
+      "gujaratiPronunciation": "ગ્રાઉટ",
+      "hindiPronunciation": "ग्राउट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Grout",
+          "gujaratiPronunciation": "ગ્રાઉટ",
+          "hindiPronunciation": "ग्राउट",
+          "gujaratiMeaning": "તિરાડ ભરવી",
+          "hindiMeaning": "दरार भरना"
+        },
+        "V2 (Past)": {
+          "word": "Grouted",
+          "gujaratiPronunciation": "ગ્રાઉટેડ",
+          "hindiPronunciation": "ग्राउटेड",
+          "gujaratiMeaning": "તિરાડ ભરી",
+          "hindiMeaning": "दरार भरी"
+        },
+        "V3 (Past Participle)": {
+          "word": "Grouted",
+          "gujaratiPronunciation": "ગ્રાઉટેડ",
+          "hindiPronunciation": "ग्राउटेड",
+          "gujaratiMeaning": "તિરાડ ભરેલી",
+          "hindiMeaning": "दरार भरी हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Grouting",
+          "gujaratiPronunciation": "ગ્રાઉટિંગ",
+          "hindiPronunciation": "ग्राउटिंग",
+          "gujaratiMeaning": "તિરાડ ભરી રહ્યું",
+          "hindiMeaning": "दरार भर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Fill",
+          "gujaratiPronunciation": "ફિલ",
+          "hindiPronunciation": "फिल",
+          "gujaratiMeaning": "ભરવું",
+          "hindiMeaning": "भरना"
+        },
+        {
+          "word": "Seal",
+          "gujaratiPronunciation": "સીલ",
+          "hindiPronunciation": "सील",
+          "gujaratiMeaning": "બંધ કરવું",
+          "hindiMeaning": "सील करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Dig",
+          "gujaratiPronunciation": "ડિગ",
+          "hindiPronunciation": "डिग",
+          "gujaratiMeaning": "ખોદવું",
+          "hindiMeaning": "खोदना"
+        },
+        {
+          "word": "Empty",
+          "gujaratiPronunciation": "એમ્પ્ટી",
+          "hindiPronunciation": "एम्प्टी",
+          "gujaratiMeaning": "ખાલી કરવું",
+          "hindiMeaning": "खाली करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sprout",
+          "gujaratiPronunciation": "સ્પ્રાઉટ",
+          "hindiPronunciation": "स्प्राउट",
+          "gujaratiMeaning": "અંકુર ફૂટવો",
+          "hindiMeaning": "अंकुरित होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He needs to grout the tiles in the bathroom.",
+          "gujaratiPronunciation": "હી નીડ્સ ટુ ગ્રાઉટ ધ ટાઇલ્સ ઇન ધ બાથરૂમ.",
+          "hindiPronunciation": "ही नीड्स टू ग्राउट द टाइल्स इन द बाथरूम।",
+          "gujaratiTranslation": "તેને બાથરૂમમાં ટાઇલ્સ વચ્ચેની તિરાડો ભરવાની જરૂર છે.",
+          "hindiTranslation": "उसे बाथरूम में टाइलों के बीच दरारें भरनी हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Overhaul",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "સંપૂર્ણ સમારકામ કરવું",
+      "hindiMeaning": "पूरी तरह से मरम्मत करना",
+      "gujaratiPronunciation": "ઓવરહોલ",
+      "hindiPronunciation": "ओवरहॉल",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Overhaul",
+          "gujaratiPronunciation": "ઓવરહોલ",
+          "hindiPronunciation": "ओवरहॉल",
+          "gujaratiMeaning": "સંપૂર્ણ સમારકામ કરવું",
+          "hindiMeaning": "पूरी तरह से मरम्मत करना"
+        },
+        "V2 (Past)": {
+          "word": "Overhauled",
+          "gujaratiPronunciation": "ઓવરહોલ્ડ",
+          "hindiPronunciation": "ओवरहॉल्ड",
+          "gujaratiMeaning": "સંપૂર્ણ સમારકામ કર્યું",
+          "hindiMeaning": "पूरी तरह से मरम्मत की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Overhauled",
+          "gujaratiPronunciation": "ઓવરહોલ્ડ",
+          "hindiPronunciation": "ओवरहॉल्ड",
+          "gujaratiMeaning": "સંપૂર્ણ સમારકામ કરેલું",
+          "hindiMeaning": "पूरी तरह से मरम्मत किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Overhauling",
+          "gujaratiPronunciation": "ઓવરહોલિંગ",
+          "hindiPronunciation": "ओवरहॉलिंग",
+          "gujaratiMeaning": "સંપૂર્ણ સમારકામ કરી રહ્યું",
+          "hindiMeaning": "पूरी तरह से मरम्मत कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Revamp",
+          "gujaratiPronunciation": "રિવેમ્પ",
+          "hindiPronunciation": "रिवैंप",
+          "gujaratiMeaning": "નવીનીકરણ કરવું",
+          "hindiMeaning": "नया रूप देना"
+        },
+        {
+          "word": "Renovate",
+          "gujaratiPronunciation": "રેનોવેટ",
+          "hindiPronunciation": "रेनोवेट",
+          "gujaratiMeaning": "જીર્ણોદ્ધાર કરવો",
+          "hindiMeaning": "नवीनीकरण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Damage",
+          "gujaratiPronunciation": "ડેમેજ",
+          "hindiPronunciation": "डैमेज",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "क्षति पहुँचाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Overhead",
+          "gujaratiPronunciation": "ઓવરહેડ",
+          "hindiPronunciation": "ओवरहेड",
+          "gujaratiMeaning": "માથા ઉપરનું",
+          "hindiMeaning": "सिर के ऊपर"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The engine needs a complete overhaul.",
+          "gujaratiPronunciation": "ધ એન્જિન નીડ્સ અ કમ્પ્લીટ ઓવરહોલ.",
+          "hindiPronunciation": "द इंजन नीड्स अ कंप्लीट ओवरहॉल।",
+          "gujaratiTranslation": "એન્જિનને સંપૂર્ણ સમારકામની જરૂર છે.",
+          "hindiTranslation": "इंजन को पूरी तरह से मरम्मत की जरूरत है।"
+        }
+      ]
+    },
+    {
+      "word": "Insulate",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "અવાહક બનાવવું",
+      "hindiMeaning": "अवरोधक बनाना",
+      "gujaratiPronunciation": "ઇન્સ્યુલેટ",
+      "hindiPronunciation": "इंसुलेट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Insulate",
+          "gujaratiPronunciation": "ઇન્સ્યુલેટ",
+          "hindiPronunciation": "इंसुलेट",
+          "gujaratiMeaning": "અવાહક બનાવવું",
+          "hindiMeaning": "अवरोधक बनाना"
+        },
+        "V2 (Past)": {
+          "word": "Insulated",
+          "gujaratiPronunciation": "ઇન્સ્યુલેટેડ",
+          "hindiPronunciation": "इंसुलेटेड",
+          "gujaratiMeaning": "અવાહક બનાવ્યું",
+          "hindiMeaning": "अवरोधक बनाया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Insulated",
+          "gujaratiPronunciation": "ઇન્સ્યુલેટેડ",
+          "hindiPronunciation": "इंसुलेटेड",
+          "gujaratiMeaning": "અવાહક બનાવેલું",
+          "hindiMeaning": "अवरोधक बनाया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Insulating",
+          "gujaratiPronunciation": "ઇન્સ્યુલેટિંગ",
+          "hindiPronunciation": "इंसुलेटिंग",
+          "gujaratiMeaning": "અવાહક બનાવી રહ્યું",
+          "hindiMeaning": "अवरोधक बना रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Protect",
+          "gujaratiPronunciation": "પ્રોટેક્ટ",
+          "hindiPronunciation": "प्रोटेक्ट",
+          "gujaratiMeaning": "રક્ષણ કરવું",
+          "hindiMeaning": "रक्षा करना"
+        },
+        {
+          "word": "Isolate",
+          "gujaratiPronunciation": "આઇસોલેટ",
+          "hindiPronunciation": "आइसोलेट",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Expose",
+          "gujaratiPronunciation": "એક્સપોઝ",
+          "hindiPronunciation": "एक्सपोज़",
+          "gujaratiMeaning": "ખુલ્લું પાડવું",
+          "hindiMeaning": "खुला करना"
+        },
+        {
+          "word": "Connect",
+          "gujaratiPronunciation": "કનેક્ટ",
+          "hindiPronunciation": "कनेक्ट",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Insult",
+          "gujaratiPronunciation": "ઇન્સલ્ટ",
+          "hindiPronunciation": "इंसल्ट",
+          "gujaratiMeaning": "અપમાન કરવું",
+          "hindiMeaning": "अपमान करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You should insulate your house to save energy.",
+          "gujaratiPronunciation": "યુ શુડ ઇન્સ્યુલેટ યોર હાઉસ ટુ સેવ એનર્જી.",
+          "hindiPronunciation": "यू शुड इंसुलेट योर हाउस टू सेव एनर्जी।",
+          "gujaratiTranslation": "ઉર્જા બચાવવા માટે તમારે તમારા ઘરને અવાહક બનાવવું જોઈએ.",
+          "hindiTranslation": "ऊर्जा बचाने के लिए आपको अपने घर को इंसुलेट करना चाहिए।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+
+{
+  "id": "level-1",
+  "title": "Nature 1",
+  "words": [
+    {
+      "word": "Sun",
+      "icon": "☀️",
+      "gujaratiPronunciation": "સન",
+      "hindiPronunciation": "सन",
+      "gujaratiMeaning": "સૂર્ય",
+      "hindiMeaning": "सूरज"
+    },
+    {
+      "word": "Moon",
+      "icon": "🌙",
+      "gujaratiPronunciation": "મૂન",
+      "hindiPronunciation": "मून",
+      "gujaratiMeaning": "ચંદ્ર",
+      "hindiMeaning": "चाँद"
+    },
+    {
+      "word": "Star",
+      "icon": "⭐",
+      "gujaratiPronunciation": "સ્ટાર",
+      "hindiPronunciation": "स्टार",
+      "gujaratiMeaning": "તારો",
+      "hindiMeaning": "तारा"
+    },
+    {
+      "word": "Rain",
+      "icon": "🌧️",
+      "gujaratiPronunciation": "રેન",
+      "hindiPronunciation": "रेन",
+      "gujaratiMeaning": "વરસાદ",
+      "hindiMeaning": "बारिश"
+    },
+    {
+      "word": "Wind",
+      "icon": "💨",
+      "gujaratiPronunciation": "વિન્ડ",
+      "hindiPronunciation": "विंड",
+      "gujaratiMeaning": "પવન",
+      "hindiMeaning": "हवा"
+    }
+  ]
+}

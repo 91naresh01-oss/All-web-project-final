@@ -1,0 +1,187 @@
+
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Look",
+      "partOfSpeech": "verb",
+      "pronunciation": "લૂક",
+      "gujaratiMeaning": "જોવું",
+      "hindiMeaning": "देखना",
+      "gujaratiPronunciation": "લૂક",
+      "hindiPronunciation": "लूक",
+      "verbForms": {
+        "v1": { "word": "Look", "pronunciation": "લૂક", "gujaratiMeaning": "જોવું", "hindiMeaning": "देखना" },
+        "v2": { "word": "Looked", "pronunciation": "લૂકડ", "gujaratiMeaning": "જોયું", "hindiMeaning": "देखा" },
+        "v3": { "word": "Looked", "pronunciation": "લૂકડ", "gujaratiMeaning": "જોયેલું", "hindiMeaning": "देखा हुआ" },
+        "v4": { "word": "Looking", "pronunciation": "લૂકિંગ", "gujaratiMeaning": "જોઈ રહ્યું છે", "hindiMeaning": "देख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Gaze", "pronunciation": "ગેઝ", "gujaratiMeaning": "તાકીને જોવું", "hindiMeaning": "टकटकी लगाकर देखना" },
+        { "word": "See", "pronunciation": "સી", "gujaratiMeaning": "જોવું", "hindiMeaning": "देखना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "pronunciation": "ઇગ્નોર", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "नजरअंदाज करना" },
+        { "word": "Overlook", "pronunciation": "ઓવરલૂક", "gujaratiMeaning": "ધ્યાન ન આપવું", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Luck", "pronunciation": "લક", "gujaratiMeaning": "નસીબ", "hindiMeaning": "भाग्य" },
+        { "word": "Lock", "pronunciation": "લોક", "gujaratiMeaning": "તાળું", "hindiMeaning": "ताला" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Look at the beautiful sunset.",
+          "gujaratiTranslation": "સુંદર સૂર્યાસ્ત જુઓ.",
+          "hindiTranslation": "सुंदर सूर्यास्त को देखो।",
+          "gujaratiPronunciation": "લૂક એટ ધ બ્યુટિફુલ સનસેટ.",
+          "hindiPronunciation": "लुक ऐट द ब्यूटीफुल सनसेट।"
+        }
+      ]
+    },
+    {
+      "word": "Wear",
+      "partOfSpeech": "verb",
+      "pronunciation": "વેઅર",
+      "gujaratiMeaning": "પહેરવું",
+      "hindiMeaning": "पहनना",
+      "gujaratiPronunciation": "વેઅર",
+      "hindiPronunciation": "वेयर",
+      "verbForms": {
+        "v1": { "word": "Wear", "pronunciation": "વેઅર", "gujaratiMeaning": "પહેરવું", "hindiMeaning": "पहनना" },
+        "v2": { "word": "Wore", "pronunciation": "વોર", "gujaratiMeaning": "પહેર્યું", "hindiMeaning": "पहना" },
+        "v3": { "word": "Worn", "pronunciation": "વોર્ન", "gujaratiMeaning": "પહેરેલું", "hindiMeaning": "पहना हुआ" },
+        "v4": { "word": "Wearing", "pronunciation": "વેઅરિંગ", "gujaratiMeaning": "પહેરી રહ્યું છે", "hindiMeaning": "पहन रहा है" }
+      },
+      "synonyms": [
+        { "word": "Don", "pronunciation": "ડૉન", "gujaratiMeaning": "પહેરવું", "hindiMeaning": "पहनना" },
+        { "word": "Put on", "pronunciation": "પુટ ઓન", "gujaratiMeaning": "પહેરવું", "hindiMeaning": "पहनना" }
+      ],
+      "antonyms": [
+        { "word": "Remove", "pronunciation": "રિમૂવ", "gujaratiMeaning": "કાઢવું", "hindiMeaning": "हटाना" },
+        { "word": "Take off", "pronunciation": "ટેક ઓફ", "gujaratiMeaning": "ઉતારવું", "hindiMeaning": "उतारना" }
+      ],
+      "confusingWords": [
+        { "word": "Where", "pronunciation": "વ્હેર", "gujaratiMeaning": "ક્યાં", "hindiMeaning": "कहाँ" },
+        { "word": "Ware", "pronunciation": "વેર", "gujaratiMeaning": "માલ-સામાન", "hindiMeaning": "माल-सामान" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She decided to wear a red dress to the party.",
+          "gujaratiTranslation": "તેણીએ પાર્ટીમાં લાલ ડ્રેસ પહેરવાનું નક્કી કર્યું.",
+          "hindiTranslation": "उसने पार्टी में लाल ड्रेस पहनने का फैसला किया।",
+          "gujaratiPronunciation": "શી ડિસાઇડેડ ટુ વેઅર અ રેડ ડ્રેસ ટુ ધ પાર્ટી.",
+          "hindiPronunciation": "शी डिसाइडेड टू वेयर अ रेड ड्रेस टू द पार्टी।"
+        }
+      ]
+    },
+    {
+      "word": "Decorate",
+      "partOfSpeech": "verb",
+      "pronunciation": "ડેકોરેટ",
+      "gujaratiMeaning": "શણગારવું",
+      "hindiMeaning": "सजाना",
+      "gujaratiPronunciation": "ડેકોરેટ",
+      "hindiPronunciation": "डेकोरेट",
+      "verbForms": {
+        "v1": { "word": "Decorate", "pronunciation": "ડેકોરેટ", "gujaratiMeaning": "શણગારવું", "hindiMeaning": "सजाना" },
+        "v2": { "word": "Decorated", "pronunciation": "ડેકોરેટેડ", "gujaratiMeaning": "શણગાર્યું", "hindiMeaning": "सजाया" },
+        "v3": { "word": "Decorated", "pronunciation": "ડેકોરેટેડ", "gujaratiMeaning": "શણગારેલું", "hindiMeaning": "सजाया हुआ" },
+        "v4": { "word": "Decorating", "pronunciation": "ડેકોરેટિંગ", "gujaratiMeaning": "શણગારી રહ્યું છે", "hindiMeaning": "सजा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Adorn", "pronunciation": "અડોર્ન", "gujaratiMeaning": "સુશોભિત કરવું", "hindiMeaning": "सुशोभित करना" },
+        { "word": "Beautify", "pronunciation": "બ્યુટિફાય", "gujaratiMeaning": "સુંદર બનાવવું", "hindiMeaning": "सुंदर बनाना" }
+      ],
+      "antonyms": [
+        { "word": "Disfigure", "pronunciation": "ડિસફિગર", "gujaratiMeaning": "બદસૂરત બનાવવું", "hindiMeaning": "विकृत करना" },
+        { "word": "Strip", "pronunciation": "સ્ટ્રીપ", "gujaratiMeaning": "ઉતારી લેવું", "hindiMeaning": "उतार लेना" }
+      ],
+      "confusingWords": [
+        { "word": "Decrease", "pronunciation": "ડિક્રીઝ", "gujaratiMeaning": "ઘટાડો", "hindiMeaning": "कमी" },
+        { "word": "Dedicate", "pronunciation": "ડેડિકેટ", "gujaratiMeaning": "સમર્પિત કરવું", "hindiMeaning": "समर्पित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to decorate the room for the birthday party.",
+          "gujaratiTranslation": "આપણે જન્મદિવસની પાર્ટી માટે રૂમને શણગારવાની જરૂર છે.",
+          "hindiTranslation": "हमें जन्मदिन की पार्टी के लिए कमरा सजाना है।",
+          "gujaratiPronunciation": "વી નીડ ટુ ડેકોરેટ ધ રૂમ ફોર ધ બર્થડે પાર્ટી.",
+          "hindiPronunciation": "वी नीड टू डेकोरेट द रूम फॉर द बर्थडे पार्टी।"
+        }
+      ]
+    },
+    {
+      "word": "Garnish",
+      "partOfSpeech": "verb",
+      "pronunciation": "ગાર્નિશ",
+      "gujaratiMeaning": "સજાવટ કરવી (ખાસ કરીને વાનગીની)",
+      "hindiMeaning": "सजाना (विशेषकर पकवान को)",
+      "gujaratiPronunciation": "ગાર્નિશ",
+      "hindiPronunciation": "गार्निश",
+      "verbForms": {
+        "v1": { "word": "Garnish", "pronunciation": "ગાર્નિશ", "gujaratiMeaning": "સજાવટ કરવી", "hindiMeaning": "सजाना" },
+        "v2": { "word": "Garnished", "pronunciation": "ગાર્નિશ્ડ", "gujaratiMeaning": "સજાવ્યું", "hindiMeaning": "सजाया" },
+        "v3": { "word": "Garnished", "pronunciation": "ગાર્નિશ્ડ", "gujaratiMeaning": "સજાવેલું", "hindiMeaning": "सजाया हुआ" },
+        "v4": { "word": "Garnishing", "pronunciation": "ગાર્નિશિંગ", "gujaratiMeaning": "સજાવી રહ્યું છે", "hindiMeaning": "सजा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Embellish", "pronunciation": "એમ્બેલિશ", "gujaratiMeaning": "શણગારવું", "hindiMeaning": "अलंकृत करना" },
+        { "word": "Adorn", "pronunciation": "અડોર્ન", "gujaratiMeaning": "સુશોભિત કરવું", "hindiMeaning": "सुशोभित करना" }
+      ],
+      "antonyms": [
+        { "word": "Plain", "pronunciation": "પ્લેન", "gujaratiMeaning": "સાદું", "hindiMeaning": "सादा" },
+        { "word": "Simplify", "pronunciation": "સિમ્પ્લિફાય", "gujaratiMeaning": "સરળ બનાવવું", "hindiMeaning": "सरल बनाना" }
+      ],
+      "confusingWords": [
+        { "word": "Vanish", "pronunciation": "વેનિશ", "gujaratiMeaning": "ગાયબ થવું", "hindiMeaning": "गायब हो जाना" },
+        { "word": "Tarnish", "pronunciation": "ટાર્નિશ", "gujaratiMeaning": "કાળું પડવું", "hindiMeaning": "धूमिल करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Garnish the soup with fresh cilantro before serving.",
+          "gujaratiTranslation": "પીરસતા પહેલા સૂપને તાજા કોથમીરથી સજાવો.",
+          "hindiTranslation": "परोसने से पहले सूप को ताज़े हरे धनिये से सजाएँ।",
+          "gujaratiPronunciation": "ગાર્નિશ ધ સૂપ વિથ ફ્રેશ સિલાન્ટ્રો બિફોર સર્વિંગ.",
+          "hindiPronunciation": "गार्निश द सूप विद फ्रेश सिलेंट्रो बिफोर सर्विंग।"
+        }
+      ]
+    },
+    {
+      "word": "Beautify",
+      "partOfSpeech": "verb",
+      "pronunciation": "બ્યુટિફાય",
+      "gujaratiMeaning": "સુંદર બનાવવું",
+      "hindiMeaning": "सुंदर बनाना",
+      "gujaratiPronunciation": "બ્યુટિફાય",
+      "hindiPronunciation": "ब्यूटीफाई",
+      "verbForms": {
+        "v1": { "word": "Beautify", "pronunciation": "બ્યુટિફાય", "gujaratiMeaning": "સુંદર બનાવવું", "hindiMeaning": "सुंदर बनाना" },
+        "v2": { "word": "Beautified", "pronunciation": "બ્યુટિફાઇડ", "gujaratiMeaning": "સુંદર બનાવ્યું", "hindiMeaning": "सुंदर बनाया" },
+        "v3": { "word": "Beautified", "pronunciation": "બ્યુટિફાઇડ", "gujaratiMeaning": "સુંદર બનાવેલું", "hindiMeaning": "सुंदर बनाया हुआ" },
+        "v4": { "word": "Beautifying", "pronunciation": "બ્યુટિફાઇંગ", "gujaratiMeaning": "સુંદર બનાવી રહ્યું છે", "hindiMeaning": "सुंदर बना रहा है" }
+      },
+      "synonyms": [
+        { "word": "Enhance", "pronunciation": "એન્હાન્સ", "gujaratiMeaning": "વધારવું", "hindiMeaning": "बढ़ाना" },
+        { "word": "Adorn", "pronunciation": "અડોર્ન", "gujaratiMeaning": "સુશોભિત કરવું", "hindiMeaning": "सुशोभित करना" }
+      ],
+      "antonyms": [
+        { "word": "Spoil", "pronunciation": "સ્પોઇલ", "gujaratiMeaning": "બગાડવું", "hindiMeaning": "बिगाड़ना" },
+        { "word": "Mar", "pronunciation": "માર", "gujaratiMeaning": "ખરાબ કરવું", "hindiMeaning": "खराब करना" }
+      ],
+      "confusingWords": [
+        { "word": "Beatify", "pronunciation": "બીટિફાય", "gujaratiMeaning": "પરમ સુખી બનાવવું", "hindiMeaning": "परम सुखी बनाना" },
+        { "word": "Rectify", "pronunciation": "રેક્ટિફાય", "gujaratiMeaning": "સુધારવું", "hindiMeaning": "सुधारना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They planted flowers to beautify the garden.",
+          "gujaratiTranslation": "તેઓએ બગીચાને સુંદર બનાવવા માટે ફૂલો વાવ્યા.",
+          "hindiTranslation": "उन्होंने बगीचे को सुंदर बनाने के लिए फूल लगाए।",
+          "gujaratiPronunciation": "ધે પ્લાન્ટેડ ફ્લાવર્સ ટુ બ્યુટિફાય ધ ગાર્ડન.",
+          "hindiPronunciation": "दे प्लांटेड फ्लावर्स टू ब्यूटीफाई द गार्डन।"
+        }
+      ]
+    }
+  ]
+}

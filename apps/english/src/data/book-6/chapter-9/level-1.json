@@ -1,0 +1,149 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Sow",
+      "gujaratiPronunciation": "સો",
+      "hindiPronunciation": "सो",
+      "gujaratiMeaning": "વાવવું",
+      "hindiMeaning": "बोना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Sow", "gujaratiPronunciation": "સો", "hindiPronunciation": "सो", "gujaratiMeaning": "વાવવું", "hindiMeaning": "बोना" },
+        "V2 (Past)": { "word": "Sowed", "gujaratiPronunciation": "સોડ", "hindiPronunciation": "सोड", "gujaratiMeaning": "વાવ્યું", "hindiMeaning": "बोया" },
+        "V3 (Past Participle)": { "word": "Sown/Sowed", "gujaratiPronunciation": "સોન/સોડ", "hindiPronunciation": "सोन/सोड", "gujaratiMeaning": "વાવેલું", "hindiMeaning": "बोया हुआ" },
+        "V4 (Present Participle)": { "word": "Sowing", "gujaratiPronunciation": "સોઇંગ", "hindiPronunciation": "सोइंग", "gujaratiMeaning": "વાવી રહ્યું છે", "hindiMeaning": "बो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Plant", "gujaratiPronunciation": "પ્લાન્ટ", "hindiPronunciation": "प्लांट", "gujaratiMeaning": "રોપવું", "hindiMeaning": "लगाना" },
+        { "word": "Seed", "gujaratiPronunciation": "સીડ", "hindiPronunciation": "सीड", "gujaratiMeaning": "બીજ વાવવું", "hindiMeaning": "बीज बोना" }
+      ],
+      "antonyms": [
+        { "word": "Reap", "gujaratiPronunciation": "રીપ", "hindiPronunciation": "रीप", "gujaratiMeaning": "લણવું", "hindiMeaning": "काटना" },
+        { "word": "Harvest", "gujaratiPronunciation": "હાર્વેસ્ટ", "hindiPronunciation": "हार्वेस्ट", "gujaratiMeaning": "ફસલ લણવી", "hindiMeaning": "फसल काटना" }
+      ],
+      "confusingWords": [
+        { "word": "Sew", "gujaratiPronunciation": "સ્યુ", "hindiPronunciation": "स्यू", "gujaratiMeaning": "સીવવું", "hindiMeaning": "सिलना" },
+        { "word": "So", "gujaratiPronunciation": "સો", "hindiPronunciation": "सो", "gujaratiMeaning": "તેથી", "hindiMeaning": "इसलिए" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The farmer will sow the seeds in the spring.", "gujaratiPronunciation": "ધ ફાર્મર વિલ સો ધ સીડ્સ ઇન ધ સ્પ્રિંગ.", "hindiPronunciation": "द फार्मर विल सो द सीड्स इन द स्प्रिंग।", "gujaratiTranslation": "ખેડૂત વસંતમાં બીજ વાવશે.", "hindiTranslation": "किसान वसंत में बीज बोएगा।" }
+      ]
+    },
+    {
+      "word": "Reap",
+      "gujaratiPronunciation": "રીપ",
+      "hindiPronunciation": "रीप",
+      "gujaratiMeaning": "લણવું",
+      "hindiMeaning": "काटना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Reap", "gujaratiPronunciation": "રીપ", "hindiPronunciation": "रीप", "gujaratiMeaning": "લણવું", "hindiMeaning": "काटना" },
+        "V2 (Past)": { "word": "Reaped", "gujaratiPronunciation": "રીપ્ડ", "hindiPronunciation": "रीप्ड", "gujaratiMeaning": "લણ્યું", "hindiMeaning": "काटा" },
+        "V3 (Past Participle)": { "word": "Reaped", "gujaratiPronunciation": "રીપ્ડ", "hindiPronunciation": "रीप्ड", "gujaratiMeaning": "લણેલું", "hindiMeaning": "काटा हुआ" },
+        "V4 (Present Participle)": { "word": "Reaping", "gujaratiPronunciation": "રીપિંગ", "hindiPronunciation": "रीपिंग", "gujaratiMeaning": "લણી રહ્યું છે", "hindiMeaning": "काट रहा है" }
+      },
+      "synonyms": [
+        { "word": "Harvest", "gujaratiPronunciation": "હાર્વેસ્ટ", "hindiPronunciation": "हार्वेस्ट", "gujaratiMeaning": "ફસલ લણવી", "hindiMeaning": "फसल काटना" },
+        { "word": "Gather", "gujaratiPronunciation": "ગેધર", "hindiPronunciation": "गैदर", "gujaratiMeaning": "એકઠું કરવું", "hindiMeaning": "इकट्ठा करना" }
+      ],
+      "antonyms": [
+        { "word": "Sow", "gujaratiPronunciation": "સો", "hindiPronunciation": "सो", "gujaratiMeaning": "વાવવું", "hindiMeaning": "बोना" },
+        { "word": "Plant", "gujaratiPronunciation": "પ્લાન્ટ", "hindiPronunciation": "प्लांट", "gujaratiMeaning": "રોપવું", "hindiMeaning": "लगाना" }
+      ],
+      "confusingWords": [
+        { "word": "Rip", "gujaratiPronunciation": "રિપ", "hindiPronunciation": "रिप", "gujaratiMeaning": "ફાડવું", "hindiMeaning": "फाड़ना" },
+        { "word": "Reaper", "gujaratiPronunciation": "રીપર", "hindiPronunciation": "रीपर", "gujaratiMeaning": "લણનાર મશીન", "hindiMeaning": "फसल काटने की मशीन" }
+      ],
+      "exampleSentences": [
+        { "sentence": "You reap what you sow.", "gujaratiPronunciation": "યુ રીપ વોટ યુ સો.", "hindiPronunciation": "यू रीप व्हाट यू सो।", "gujaratiTranslation": "તમે જેવું વાવો તેવું લણો.", "hindiTranslation": "जैसा बोओगे वैसा काटोगे।" }
+      ]
+    },
+    {
+      "word": "Plough",
+      "gujaratiPronunciation": "પ્લાઉ",
+      "hindiPronunciation": "प्लाऊ",
+      "gujaratiMeaning": "ખેડવું",
+      "hindiMeaning": "जोतना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Plough", "gujaratiPronunciation": "પ્લાઉ", "hindiPronunciation": "प्लाऊ", "gujaratiMeaning": "ખેડવું", "hindiMeaning": "जोतना" },
+        "V2 (Past)": { "word": "Ploughed", "gujaratiPronunciation": "પ્લાઉડ", "hindiPronunciation": "प्लाउड", "gujaratiMeaning": "ખેડ્યું", "hindiMeaning": "जोता" },
+        "V3 (Past Participle)": { "word": "Ploughed", "gujaratiPronunciation": "પ્લાઉડ", "hindiPronunciation": "प्लाउड", "gujaratiMeaning": "ખેડેલું", "hindiMeaning": "जोता हुआ" },
+        "V4 (Present Participle)": { "word": "Ploughing", "gujaratiPronunciation": "પ્લાઉઇંગ", "hindiPronunciation": "प्लाउइंग", "gujaratiMeaning": "ખેડી રહ્યું છે", "hindiMeaning": "जोत रहा है" }
+      },
+      "synonyms": [
+        { "word": "Till", "gujaratiPronunciation": "ટિલ", "hindiPronunciation": "टिल", "gujaratiMeaning": "ખેડાણ કરવું", "hindiMeaning": "जुताई करना" },
+        { "word": "Cultivate", "gujaratiPronunciation": "કલ્ટિવેટ", "hindiPronunciation": "कल्टिवेट", "gujaratiMeaning": "ખેતી કરવી", "hindiMeaning": "खेती करना" }
+      ],
+      "antonyms": [
+        { "word": "Sow", "gujaratiPronunciation": "સો", "hindiPronunciation": "सो", "gujaratiMeaning": "વાવવું", "hindiMeaning": "बोना" },
+        { "word": "Plant", "gujaratiPronunciation": "પ્લાન્ટ", "hindiPronunciation": "प्लांट", "gujaratiMeaning": "રોપવું", "hindiMeaning": "लगाना" }
+      ],
+      "confusingWords": [
+        { "word": "Plow", "gujaratiPronunciation": "પ્લો", "hindiPronunciation": "प्लो", "gujaratiMeaning": "ખેડવું (અમેરિકન અંગ્રેજી)", "hindiMeaning": "जोतना (अमेरिकी अंग्रेजी)" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Before planting, you must plough the field.", "gujaratiPronunciation": "બિફોર પ્લાન્ટિંગ, યુ મસ્ટ પ્લાઉ ધ ફિલ્ડ.", "hindiPronunciation": "बिफोर प्लांटिंग, यू मस्ट प्लाऊ द फील्ड।", "gujaratiTranslation": "વાવણી કરતા પહેલાં, તમારે ખેતર ખેડવું જ જોઈએ.", "hindiTranslation": "बुवाई से पहले, आपको खेत जोतना होगा।" }
+      ]
+    },
+    {
+      "word": "Harvest",
+      "gujaratiPronunciation": "હાર્વેસ્ટ",
+      "hindiPronunciation": "हार्वेस्ट",
+      "gujaratiMeaning": "ફસલ લણવી",
+      "hindiMeaning": "फसल काटना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Harvest", "gujaratiPronunciation": "હાર્વેસ્ટ", "hindiPronunciation": "हार्वेस्ट", "gujaratiMeaning": "ફસલ લણવી", "hindiMeaning": "फसल काटना" },
+        "V2 (Past)": { "word": "Harvested", "gujaratiPronunciation": "હાર્વેસ્ટેડ", "hindiPronunciation": "हार्वेस्टेड", "gujaratiMeaning": "ફસલ લણી", "hindiMeaning": "फसल काटी" },
+        "V3 (Past Participle)": { "word": "Harvested", "gujaratiPronunciation": "હાર્વેસ્ટેડ", "hindiPronunciation": "हार्वेस्टेड", "gujaratiMeaning": "લણેલી ફસલ", "hindiMeaning": "काटी हुई फसल" },
+        "V4 (Present Participle)": { "word": "Harvesting", "gujaratiPronunciation": "હાર્વેસ્ટિંગ", "hindiPronunciation": "हार्वेस्टिंग", "gujaratiMeaning": "ફસલ લણી રહ્યું છે", "hindiMeaning": "फसल काट रहा है" }
+      },
+      "synonyms": [
+        { "word": "Reap", "gujaratiPronunciation": "રીપ", "hindiPronunciation": "रीप", "gujaratiMeaning": "લણવું", "hindiMeaning": "काटना" },
+        { "word": "Gather", "gujaratiPronunciation": "ગેધર", "hindiPronunciation": "गैदर", "gujaratiMeaning": "એકઠું કરવું", "hindiMeaning": "इकट्ठा करना" }
+      ],
+      "antonyms": [
+        { "word": "Plant", "gujaratiPronunciation": "પ્લાન્ટ", "hindiPronunciation": "प्लांट", "gujaratiMeaning": "રોપવું", "hindiMeaning": "लगाना" },
+        { "word": "Sow", "gujaratiPronunciation": "સો", "hindiPronunciation": "सो", "gujaratiMeaning": "વાવવું", "hindiMeaning": "बोना" }
+      ],
+      "confusingWords": [
+        { "word": "Hardest", "gujaratiPronunciation": "હાર્ડેસ્ટ", "hindiPronunciation": "हार्डेस्ट", "gujaratiMeaning": "સૌથી મુશ્કેલ", "hindiMeaning": "सबसे कठिन" }
+      ],
+      "exampleSentences": [
+        { "sentence": "It's time to harvest the corn.", "gujaratiPronunciation": "ઇટ્સ ટાઇમ ટુ હાર્વેસ્ટ ધ કોર્ન.", "hindiPronunciation": "इट्स टाइम टू हार्वेस्ट द कॉर्न।", "gujaratiTranslation": "મકાઈ લણવાનો સમય થઈ ગયો છે.", "hindiTranslation": "मक्का काटने का समय हो गया है।" }
+      ]
+    },
+    {
+      "word": "Irrigate",
+      "gujaratiPronunciation": "ઇરિગેટ",
+      "hindiPronunciation": "इरिगेट",
+      "gujaratiMeaning": "સિંચાઈ કરવી",
+      "hindiMeaning": "सिंचाई करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": { "word": "Irrigate", "gujaratiPronunciation": "ઇરિગેટ", "hindiPronunciation": "इरिगेट", "gujaratiMeaning": "સિંચાઈ કરવી", "hindiMeaning": "सिंचाई करना" },
+        "V2 (Past)": { "word": "Irrigated", "gujaratiPronunciation": "ઇરિગેટેડ", "hindiPronunciation": "इरिगेटेड", "gujaratiMeaning": "સિંચાઈ કરી", "hindiMeaning": "सिंचाई की" },
+        "V3 (Past Participle)": { "word": "Irrigated", "gujaratiPronunciation": "ઇરિગેટેડ", "hindiPronunciation": "इरिगेटेड", "gujaratiMeaning": "સિંચાઈ કરેલું", "hindiMeaning": "सिंचाई किया हुआ" },
+        "V4 (Present Participle)": { "word": "Irrigating", "gujaratiPronunciation": "ઇરિગેટિંગ", "hindiPronunciation": "इरिगेटिंग", "gujaratiMeaning": "સિંચાઈ કરી રહ્યું છે", "hindiMeaning": "सिंचाई कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Water", "gujaratiPronunciation": "વોટર", "hindiPronunciation": "वॉटर", "gujaratiMeaning": "પાણી પાવું", "hindiMeaning": "पानी देना" },
+        { "word": "Moisten", "gujaratiPronunciation": "મોઇસ્ટન", "hindiPronunciation": "मॉइस्टन", "gujaratiMeaning": "ભીનું કરવું", "hindiMeaning": "गीला करना" }
+      ],
+      "antonyms": [
+        { "word": "Dehydrate", "gujaratiPronunciation": "ડિહાઇડ્રેટ", "hindiPronunciation": "डिहाइड्रेट", "gujaratiMeaning": "સૂકવી નાખવું", "hindiMeaning": "सुखाना" },
+        { "word": "Drain", "gujaratiPronunciation": "ડ્રેઇન", "hindiPronunciation": "ड्रेन", "gujaratiMeaning": "પાણી નિતારવું", "hindiMeaning": "पानी निकालना" }
+      ],
+      "confusingWords": [
+        { "word": "Irritate", "gujaratiPronunciation": "ઇરિટેટ", "hindiPronunciation": "इरिटेट", "gujaratiMeaning": "ચિડાવવું", "hindiMeaning": "चिढ़ाना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "Farmers irrigate their fields to grow healthy crops.", "gujaratiPronunciation": "ફાર્મર્સ ઇરિગેટ ધેર ફિલ્ડ્સ ટુ ગ્રો હેલ્ધી ક્રોપ્સ.", "hindiPronunciation": "फार्मर्स इरिगेट देयर फील्ड्स टू ग्रो हेल्दी क्रॉप्स।", "gujaratiTranslation": "ખેડૂતો તંદુરસ્ત પાક ઉગાડવા માટે તેમના ખેતરોમાં સિંચાઈ કરે છે.", "hindiTranslation": "किसान स्वस्थ फसलें उगाने के लिए अपने खेतों की सिंचाई करते हैं।" }
+      ]
+    }
+  ]
+}
+    

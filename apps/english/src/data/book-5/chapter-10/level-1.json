@@ -1,0 +1,146 @@
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Think",
+            "gujaratiPronunciation": "થિંક",
+            "hindiPronunciation": "थिंक",
+            "gujaratiMeaning": "વિચારવું",
+            "hindiMeaning": "सोचना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Think", "gujaratiPronunciation": "થિંક", "hindiPronunciation": "थिंक", "gujaratiMeaning": "વિચારવું", "hindiMeaning": "सोचना" },
+                "v2": { "word": "Thought", "gujaratiPronunciation": "થોટ", "hindiPronunciation": "थॉट", "gujaratiMeaning": "વિચાર્યું", "hindiMeaning": "सोचा" },
+                "v3": { "word": "Thought", "gujaratiPronunciation": "થોટ", "hindiPronunciation": "थॉट", "gujaratiMeaning": "વિચારેલું", "hindiMeaning": "सोचा हुआ" },
+                "v4": { "word": "Thinking", "gujaratiPronunciation": "થિંકિંગ", "hindiPronunciation": "थिंकिंग", "gujaratiMeaning": "વિચારી રહ્યું છે", "hindiMeaning": "सोच रहा है" }
+            },
+            "synonyms": [
+                { "word": "Consider", "gujaratiPronunciation": "કન્સિડર", "hindiPronunciation": "कंसीडर", "gujaratiMeaning": "ધ્યાનમાં લેવું", "hindiMeaning": "विचार करना" },
+                { "word": "Ponder", "gujaratiPronunciation": "પોન્ડર", "hindiPronunciation": "पॉन्डर", "gujaratiMeaning": "મનન કરવું", "hindiMeaning": "मनन करना" }
+            ],
+            "antonyms": [
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+                { "word": "Dismiss", "gujaratiPronunciation": "ડિસ્મિસ", "hindiPronunciation": "डिस्मिस", "gujaratiMeaning": "રદ કરવું", "hindiMeaning": "खारिज करना" }
+            ],
+            "confusingWords": [
+                { "word": "Sink", "gujaratiPronunciation": "સિંક", "hindiPronunciation": "सिंक", "gujaratiMeaning": "ડૂબવું", "hindiMeaning": "डूबना", "difference": "Think એ માનસિક ક્રિયા છે, જ્યારે Sink એ ભૌતિક ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "I need to think about my future.", "gujaratiPronunciation": "આઈ નીડ ટુ થિંક અબાઉટ માય ફ્યુચર.", "hindiPronunciation": "आई नीड टू थिंक अबाउट माय फ्यूचर।", "gujaratiTranslation": "મારે મારા ભવિષ્ય વિશે વિચારવાની જરૂર છે.", "hindiTranslation": "मुझे अपने भविष्य के बारे में सोचने की ज़रूरत है।" }
+            ]
+        },
+        {
+            "word": "Solve",
+            "gujaratiPronunciation": "સોલ્વ",
+            "hindiPronunciation": "सॉल्व",
+            "gujaratiMeaning": "ઉકેલવું",
+            "hindiMeaning": "हल करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Solve", "gujaratiPronunciation": "સોલ્વ", "hindiPronunciation": "सॉल्व", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "हल करना" },
+                "v2": { "word": "Solved", "gujaratiPronunciation": "સોલ્વ્ડ", "hindiPronunciation": "सॉल्व्ड", "gujaratiMeaning": "ઉકેલ્યું", "hindiMeaning": "हल किया" },
+                "v3": { "word": "Solved", "gujaratiPronunciation": "સોલ્વ્ડ", "hindiPronunciation": "सॉल्व्ड", "gujaratiMeaning": "ઉકેલેલું", "hindiMeaning": "हल किया हुआ" },
+                "v4": { "word": "Solving", "gujaratiPronunciation": "સોલ્વિંગ", "hindiPronunciation": "सॉल्विंग", "gujaratiMeaning": "ઉકેલી રહ્યું છે", "hindiMeaning": "हल कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Resolve", "gujaratiPronunciation": "રિઝોલ્વ", "hindiPronunciation": "रिज़ॉल्व", "gujaratiMeaning": "નિરાકરણ કરવું", "hindiMeaning": "समाधान करना" },
+                { "word": "Figure out", "gujaratiPronunciation": "ફિગર આઉટ", "hindiPronunciation": "फिगर आउट", "gujaratiMeaning": "શોધી કાઢવું", "hindiMeaning": "पता लगाना" }
+            ],
+            "antonyms": [
+                { "word": "Complicate", "gujaratiPronunciation": "કોમ્પ્લિકેટ", "hindiPronunciation": "कॉम्प्लिकेट", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" },
+                { "word": "Create", "gujaratiPronunciation": "ક્રિએટ", "hindiPronunciation": "क्रिएट", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" }
+            ],
+            "confusingWords": [
+                { "word": "Salve", "gujaratiPronunciation": "સાવ", "hindiPronunciation": "साव", "gujaratiMeaning": "મલમ", "hindiMeaning": "मरहम", "difference": "Solve એ સમસ્યાનો ઉકેલ લાવવાની ક્રિયા છે, જ્યારે Salve એ ઘા પર લગાવવાનો મલમ છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "He can solve any math problem.", "gujaratiPronunciation": "હી કેન સોલ્વ એની મેથ પ્રોબ્લેમ.", "hindiPronunciation": "ही कैन सॉल्व एनी मैथ प्रॉब्लम।", "gujaratiTranslation": "તે ગણિતની કોઈપણ સમસ્યા હલ કરી શકે છે.", "hindiTranslation": "वह गणित की कोई भी समस्या हल कर सकता है।" }
+            ]
+        },
+        {
+            "word": "Guess",
+            "gujaratiPronunciation": "ગેસ",
+            "hindiPronunciation": "गेस",
+            "gujaratiMeaning": "અનુમાન કરવું",
+            "hindiMeaning": "अनुमान लगाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Guess", "gujaratiPronunciation": "ગેસ", "hindiPronunciation": "गेस", "gujaratiMeaning": "અનુમાન કરવું", "hindiMeaning": "अनुमान लगाना" },
+                "v2": { "word": "Guessed", "gujaratiPronunciation": "ગેસ્ડ", "hindiPronunciation": "गेस्ड", "gujaratiMeaning": "અનુમાન કર્યું", "hindiMeaning": "अनुमान लगाया" },
+                "v3": { "word": "Guessed", "gujaratiPronunciation": "ગેસ્ડ", "hindiPronunciation": "गेस्ड", "gujaratiMeaning": "અનુમાન કરેલું", "hindiMeaning": "अनुमान लगाया हुआ" },
+                "v4": { "word": "Guessing", "gujaratiPronunciation": "ગેસિંગ", "hindiPronunciation": "गेसिंग", "gujaratiMeaning": "અનુમાન કરી રહ્યું છે", "hindiMeaning": "अनुमान लगा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Estimate", "gujaratiPronunciation": "એસ્ટિમેટ", "hindiPronunciation": "एस्टीमेट", "gujaratiMeaning": "અંદાજ કાઢવો", "hindiMeaning": "अनुमान लगाना" },
+                { "word": "Suppose", "gujaratiPronunciation": "સપોઝ", "hindiPronunciation": "सपोज़", "gujaratiMeaning": "ધારવું", "hindiMeaning": "मान लेना" }
+            ],
+            "antonyms": [
+                { "word": "Know", "gujaratiPronunciation": "નો", "hindiPronunciation": "नो", "gujaratiMeaning": "જાણવું", "hindiMeaning": "जानना" },
+                { "word": "Calculate", "gujaratiPronunciation": "કેલ્ક્યુલેટ", "hindiPronunciation": "कैल्कुलेट", "gujaratiMeaning": "ગણતરી કરવી", "hindiMeaning": "गणना करना" }
+            ],
+            "confusingWords": [
+                { "word": "Guest", "gujaratiPronunciation": "ગેસ્ટ", "hindiPronunciation": "गेस्ट", "gujaratiMeaning": "મહેમાન", "hindiMeaning": "मेहमान", "difference": "Guess એ અનુમાન કરવાની ક્રિયા છે, જ્યારે Guest એ મહેમાન છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "Can you guess my age?", "gujaratiPronunciation": "કેન યુ ગેસ માય એજ?", "hindiPronunciation": "कैन यू गेस माय एज?", "gujaratiTranslation": "શું તમે મારી ઉંમરનું અનુમાન કરી શકો છો?", "hindiTranslation": "क्या आप मेरी उम्र का अनुमान लगा सकते हैं?" }
+            ]
+        },
+        {
+            "word": "Know",
+            "gujaratiPronunciation": "નો",
+            "hindiPronunciation": "नो",
+            "gujaratiMeaning": "જાણવું",
+            "hindiMeaning": "जानना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Know", "gujaratiPronunciation": "નો", "hindiPronunciation": "नो", "gujaratiMeaning": "જાણવું", "hindiMeaning": "जानना" },
+                "v2": { "word": "Knew", "gujaratiPronunciation": "ન્યુ", "hindiPronunciation": "न्यू", "gujaratiMeaning": "જાણ્યું", "hindiMeaning": "जाना" },
+                "v3": { "word": "Known", "gujaratiPronunciation": "નોન", "hindiPronunciation": "नोन", "gujaratiMeaning": "જાણીતું", "hindiMeaning": "जाना हुआ" },
+                "v4": { "word": "Knowing", "gujaratiPronunciation": "નોઇંગ", "hindiPronunciation": "नोइंग", "gujaratiMeaning": "જાણી રહ્યું છે", "hindiMeaning": "जान रहा है" }
+            },
+            "synonyms": [
+                { "word": "Understand", "gujaratiPronunciation": "અંડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+                { "word": "Recognize", "gujaratiPronunciation": "રેકગ્નાઇઝ", "hindiPronunciation": "रेकग्नाइज़", "gujaratiMeaning": "ઓળખવું", "hindiMeaning": "पहचानना" }
+            ],
+            "antonyms": [
+                { "word": "Doubt", "gujaratiPronunciation": "ડાઉટ", "hindiPronunciation": "डाउट", "gujaratiMeaning": "શંકા કરવી", "hindiMeaning": "संदेह करना" },
+                { "word": "Wonder", "gujaratiPronunciation": "વન્ડર", "hindiPronunciation": "वंडर", "gujaratiMeaning": "આશ્ચર્ય થવું", "hindiMeaning": "आश्चर्य करना" }
+            ],
+            "confusingWords": [
+                { "word": "Now", "gujaratiPronunciation": "નાઉ", "hindiPronunciation": "नाउ", "gujaratiMeaning": "હવે", "hindiMeaning": "अब", "difference": "Know એ જાણવાની ક્રિયા છે, જ્યારે Now એ સમયનો ઉલ્લેખ કરે છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "I know the answer.", "gujaratiPronunciation": "આઈ નો ધ આન્સર.", "hindiPronunciation": "आई नो द आंसर।", "gujaratiTranslation": "મને જવાબ ખબર છે.", "hindiTranslation": "मुझे जवाब पता है।" }
+            ]
+        },
+        {
+            "word": "Assume",
+            "gujaratiPronunciation": "અસ્યુમ",
+            "hindiPronunciation": "अज्यूम",
+            "gujaratiMeaning": "માની લેવું",
+            "hindiMeaning": "मान लेना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Assume", "gujaratiPronunciation": "અસ્યુમ", "hindiPronunciation": "अज्यूम", "gujaratiMeaning": "માની લેવું", "hindiMeaning": "मान लेना" },
+                "v2": { "word": "Assumed", "gujaratiPronunciation": "અસ્યુમ્ડ", "hindiPronunciation": "अज्यूम्ड", "gujaratiMeaning": "માની લીધું", "hindiMeaning": "मान लिया" },
+                "v3": { "word": "Assumed", "gujaratiPronunciation": "અસ્યુમ્ડ", "hindiPronunciation": "अज्यूम्ड", "gujaratiMeaning": "માની લીધેલું", "hindiMeaning": "मान लिया हुआ" },
+                "v4": { "word": "Assuming", "gujaratiPronunciation": "અસ્યુમિંગ", "hindiPronunciation": "अज्यूमिंग", "gujaratiMeaning": "માની રહ્યું છે", "hindiMeaning": "मान रहा है" }
+            },
+            "synonyms": [
+                { "word": "Presume", "gujaratiPronunciation": "પ્રિઝ્યુમ", "hindiPronunciation": "प्रिज्यूम", "gujaratiMeaning": "ધારણા કરવી", "hindiMeaning": "अनुमान करना" },
+                { "word": "Suppose", "gujaratiPronunciation": "સપોઝ", "hindiPronunciation": "सपोज़", "gujaratiMeaning": "ધારવું", "hindiMeaning": "मान लेना" }
+            ],
+            "antonyms": [
+                { "word": "Prove", "gujaratiPronunciation": "પ્રુવ", "hindiPronunciation": "प्रूव", "gujaratiMeaning": "સાબિત કરવું", "hindiMeaning": "साबित करना" },
+                { "word": "Know", "gujaratiPronunciation": "નો", "hindiPronunciation": "नो", "gujaratiMeaning": "જાણવું", "hindiMeaning": "जानना" }
+            ],
+            "confusingWords": [
+                { "word": "Resume", "gujaratiPronunciation": "રિઝ્યુમ", "hindiPronunciation": "रिज़्यूम", "gujaratiMeaning": "ફરી શરૂ કરવું / બાયોડેટા", "hindiMeaning": "फिर से शुरू करना / बायोडाटा", "difference": "Assume એ માની લેવાની ક્રિયા છે, જ્યારે Resume એ કોઈ કાર્ય ફરી શરૂ કરવું અથવા નોકરી માટેનો બાયોડેટા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "I assume you are coming to the party.", "gujaratiPronunciation": "આઈ અસ્યુમ યુ આર કમિંગ ટુ ધ પાર્ટી.", "hindiPronunciation": "आई अज्यूम यू आर कमिंग टू द पार्टी।", "gujaratiTranslation": "હું માની લઉં છું કે તમે પાર્ટીમાં આવી રહ્યા છો.", "hindiTranslation": "मैं मान लेता हूं कि आप पार्टी में आ रहे हैं।" }
+            ]
+        }
+    ]
+}

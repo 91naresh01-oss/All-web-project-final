@@ -1,0 +1,1016 @@
+{
+    "id": "verb-hi",
+    "title": "Verb (क्रिया/क्रियापद)",
+    "description": "Definition, Forms of Verbs (V1, V2, V3), Confusing Verbs and Special Adjective Forms.",
+    "content": [
+        {
+            "type": "section",
+            "title": "Introduction to Verb (परिचय)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "A **Verb** is a word used to describe an action, state, or occurrence. It is the most important part of a sentence.<br/>जो शब्द किसी कार्य, स्थिति या घटना को दर्शाता है, उसे **क्रिया (Verb)** कहते हैं।"
+                },
+                {
+                    "type": "list",
+                    "content": [
+                        "**Action Verbs:** Run (दौड़ना), Play (खेलना), Eat (खाना), Write (लिखना)",
+                        "**State Verbs:** Is, Am, Are, Was, Were, Have, Has"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Forms of Verbs (क्रिया के रूप)",
+            "content": [
+                {
+                    "type": "note",
+                    "content": "There are three main forms of verbs:<br/>1. **Base Form (V1)** - मूल रूप<br/>2. **Past Form (V2)** - भूतकाल<br/>3. **Past Participle (V3)** - भूतकालिक कृदंत"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "List of Irregular Verbs",
+                        "headers": [
+                            "Infinitive (V1)",
+                            "Hindi Meaning",
+                            "Simple Past (V2)",
+                            "Past Participle (V3)"
+                        ],
+                        "rows": [
+                            [
+                                "arise",
+                                "उठना, प्रकट होना",
+                                "arose",
+                                "arisen"
+                            ],
+                            [
+                                "awake",
+                                "जागना",
+                                "awoke",
+                                "awoken"
+                            ],
+                            [
+                                "be",
+                                "होना",
+                                "was, were",
+                                "been"
+                            ],
+                            [
+                                "bear",
+                                "सहन करना, जन्म देना",
+                                "bore",
+                                "born / borne"
+                            ],
+                            [
+                                "beat",
+                                "पीटना, हराना",
+                                "beat",
+                                "beaten"
+                            ],
+                            [
+                                "become",
+                                "बनना",
+                                "became",
+                                "become"
+                            ],
+                            [
+                                "begin",
+                                "शुरू करना",
+                                "began",
+                                "begun"
+                            ],
+                            [
+                                "bend",
+                                "मोड़ना, झुकना",
+                                "bent",
+                                "bent"
+                            ],
+                            [
+                                "bet",
+                                "शर्त लगाना",
+                                "bet",
+                                "bet"
+                            ],
+                            [
+                                "bind",
+                                "बांधना",
+                                "bound",
+                                "bound"
+                            ],
+                            [
+                                "bite",
+                                "काटना (दांत से)",
+                                "bit",
+                                "bitten"
+                            ],
+                            [
+                                "bleed",
+                                "खून बहना",
+                                "bled",
+                                "bled"
+                            ],
+                            [
+                                "blow",
+                                "फूँक मारना, बहना",
+                                "blew",
+                                "blown"
+                            ],
+                            [
+                                "break",
+                                "तोड़ना",
+                                "broke",
+                                "broken"
+                            ],
+                            [
+                                "bring",
+                                "लाना",
+                                "brought",
+                                "brought"
+                            ],
+                            [
+                                "broadcast",
+                                "प्रसारित करना",
+                                "broadcast",
+                                "broadcast"
+                            ],
+                            [
+                                "build",
+                                "बांधना, बनाना",
+                                "built",
+                                "built"
+                            ],
+                            [
+                                "burn",
+                                "जलना, जलाना",
+                                "burnt / burned",
+                                "burnt / burned"
+                            ],
+                            [
+                                "burst",
+                                "फटना, फूट पड़ना",
+                                "burst",
+                                "burst"
+                            ],
+                            [
+                                "buy",
+                                "खरीदना",
+                                "bought",
+                                "bought"
+                            ],
+                            [
+                                "catch",
+                                "पकड़ना",
+                                "caught",
+                                "caught"
+                            ],
+                            [
+                                "choose",
+                                "चुनना",
+                                "chose",
+                                "chosen"
+                            ],
+                            [
+                                "come",
+                                "आना",
+                                "came",
+                                "come"
+                            ],
+                            [
+                                "cost",
+                                "कीमत होना",
+                                "cost",
+                                "cost"
+                            ],
+                            [
+                                "cut",
+                                "काटना",
+                                "cut",
+                                "cut"
+                            ],
+                            [
+                                "deal",
+                                "व्यवहार करना",
+                                "dealt",
+                                "dealt"
+                            ],
+                            [
+                                "dig",
+                                "खोदना",
+                                "dug",
+                                "dug"
+                            ],
+                            [
+                                "do",
+                                "करना",
+                                "did",
+                                "done"
+                            ],
+                            [
+                                "draw",
+                                "चित्र बनाना, खींचना",
+                                "drew",
+                                "drawn"
+                            ],
+                            [
+                                "dream",
+                                "सपना देखना",
+                                "dreamt / dreamed",
+                                "dreamt / dreamed"
+                            ],
+                            [
+                                "drink",
+                                "पीना",
+                                "drank",
+                                "drunk"
+                            ],
+                            [
+                                "drive",
+                                "चलाना (वाहन)",
+                                "drove",
+                                "driven"
+                            ],
+                            [
+                                "eat",
+                                "खाना",
+                                "ate",
+                                "eaten"
+                            ],
+                            [
+                                "fall",
+                                "गिरना",
+                                "fell",
+                                "fallen"
+                            ],
+                            [
+                                "feed",
+                                "खिलाना",
+                                "fed",
+                                "fed"
+                            ],
+                            [
+                                "feel",
+                                "महसूस करना",
+                                "felt",
+                                "felt"
+                            ],
+                            [
+                                "fight",
+                                "लड़ना",
+                                "fought",
+                                "fought"
+                            ],
+                            [
+                                "find",
+                                "ढूँढना, पाना",
+                                "found",
+                                "found"
+                            ],
+                            [
+                                "fly",
+                                "उड़ना",
+                                "flew",
+                                "flown"
+                            ],
+                            [
+                                "forbid",
+                                "मना करना",
+                                "forbade",
+                                "forbidden"
+                            ],
+                            [
+                                "forget",
+                                "भूलना",
+                                "forgot",
+                                "forgotten"
+                            ],
+                            [
+                                "forgive",
+                                "माफ करना",
+                                "forgave",
+                                "forgiven"
+                            ],
+                            [
+                                "freeze",
+                                "जमना",
+                                "froze",
+                                "frozen"
+                            ],
+                            [
+                                "get",
+                                "पाना, होना",
+                                "got",
+                                "got"
+                            ],
+                            [
+                                "give",
+                                "देना",
+                                "gave",
+                                "given"
+                            ],
+                            [
+                                "go",
+                                "जाना",
+                                "went",
+                                "gone"
+                            ],
+                            [
+                                "grow",
+                                "उगना, बढ़ना",
+                                "grew",
+                                "grown"
+                            ],
+                            [
+                                "hang",
+                                "लटकाना (वस्तु)",
+                                "hung",
+                                "hung"
+                            ],
+                            [
+                                "have",
+                                "पास होना",
+                                "had",
+                                "had"
+                            ],
+                            [
+                                "hear",
+                                "सुनना",
+                                "heard",
+                                "heard"
+                            ],
+                            [
+                                "hide",
+                                "छिपाना",
+                                "hid",
+                                "hidden"
+                            ],
+                            [
+                                "hit",
+                                "मारना",
+                                "hit",
+                                "hit"
+                            ],
+                            [
+                                "hold",
+                                "पकड़ना",
+                                "held",
+                                "held"
+                            ],
+                            [
+                                "hurt",
+                                "चोट पहुँचाना",
+                                "hurt",
+                                "hurt"
+                            ],
+                            [
+                                "keep",
+                                "रखना",
+                                "kept",
+                                "kept"
+                            ],
+                            [
+                                "kneel",
+                                "घुटने टेकना",
+                                "knelt",
+                                "knelt"
+                            ],
+                            [
+                                "know",
+                                "जानना",
+                                "knew",
+                                "known"
+                            ],
+                            [
+                                "lay",
+                                "रखना / अंडे देना",
+                                "laid",
+                                "laid"
+                            ],
+                            [
+                                "lead",
+                                "नेतृत्व करना",
+                                "led",
+                                "led"
+                            ],
+                            [
+                                "lean",
+                                "झुकना, सहारा लेना",
+                                "leant / leaned",
+                                "leant / leaned"
+                            ],
+                            [
+                                "learn",
+                                "सीखना",
+                                "learnt / learned",
+                                "learnt / learned"
+                            ],
+                            [
+                                "leave",
+                                "छोड़ना",
+                                "left",
+                                "left"
+                            ],
+                            [
+                                "lend",
+                                "उधार देना",
+                                "lent",
+                                "lent"
+                            ],
+                            [
+                                "let",
+                                "करने देना / आज्ञा देना",
+                                "let",
+                                "let"
+                            ],
+                            [
+                                "lie",
+                                "झूठ बोलना",
+                                "lied",
+                                "lied"
+                            ],
+                            [
+                                "lie",
+                                "लेटना",
+                                "lay",
+                                "lain"
+                            ],
+                            [
+                                "light",
+                                "प्रकाशित करना",
+                                "lit / lighted",
+                                "lit / lighted"
+                            ],
+                            [
+                                "lose",
+                                "खोना",
+                                "lost",
+                                "lost"
+                            ],
+                            [
+                                "make",
+                                "बताना",
+                                "made",
+                                "made"
+                            ],
+                            [
+                                "mean",
+                                "मतलब होना",
+                                "meant",
+                                "meant"
+                            ],
+                            [
+                                "meet",
+                                "मिलना",
+                                "met",
+                                "met"
+                            ],
+                            [
+                                "pay",
+                                "चुकाना",
+                                "paid",
+                                "paid"
+                            ],
+                            [
+                                "put",
+                                "रखना",
+                                "put",
+                                "put"
+                            ],
+                            [
+                                "quit",
+                                "छोड़ना",
+                                "quit / quitted",
+                                "quit / quitted"
+                            ],
+                            [
+                                "read",
+                                "पढ़ना",
+                                "read",
+                                "read"
+                            ],
+                            [
+                                "ride",
+                                "सवारी करना",
+                                "rode",
+                                "ridden"
+                            ],
+                            [
+                                "ring",
+                                "बजना, बजाना",
+                                "rang",
+                                "rung"
+                            ],
+                            [
+                                "rise",
+                                "उगना, उठना",
+                                "rose",
+                                "risen"
+                            ],
+                            [
+                                "run",
+                                "दौड़ना",
+                                "ran",
+                                "run"
+                            ],
+                            [
+                                "say",
+                                "कहना",
+                                "said",
+                                "said"
+                            ],
+                            [
+                                "see",
+                                "देखना",
+                                "saw",
+                                "seen"
+                            ],
+                            [
+                                "sell",
+                                "बेचना",
+                                "sold",
+                                "sold"
+                            ],
+                            [
+                                "send",
+                                "भेजना",
+                                "sent",
+                                "sent"
+                            ],
+                            [
+                                "set",
+                                "अस्त होना, सेट करना",
+                                "set",
+                                "set"
+                            ],
+                            [
+                                "shake",
+                                "हिलाना",
+                                "shook",
+                                "shaken"
+                            ],
+                            [
+                                "shine",
+                                "चमकना",
+                                "shone",
+                                "shone"
+                            ],
+                            [
+                                "shoot",
+                                "गोली मारना",
+                                "shot",
+                                "shot"
+                            ],
+                            [
+                                "show",
+                                "दिखाना",
+                                "showed",
+                                "shown"
+                            ],
+                            [
+                                "shrink",
+                                "सिकुड़ना",
+                                "shrank / shrunk",
+                                "shrunk"
+                            ],
+                            [
+                                "shut",
+                                "बंद करना",
+                                "shut",
+                                "shut"
+                            ],
+                            [
+                                "sing",
+                                "गाना",
+                                "sang",
+                                "sung"
+                            ],
+                            [
+                                "sink",
+                                "डूबना",
+                                "sank",
+                                "sunk"
+                            ],
+                            [
+                                "sit",
+                                "बैठना",
+                                "sat",
+                                "sat"
+                            ],
+                            [
+                                "sleep",
+                                "सोना",
+                                "slept",
+                                "slept"
+                            ],
+                            [
+                                "slide",
+                                "फिसलना",
+                                "slid",
+                                "slid"
+                            ],
+                            [
+                                "smell",
+                                "सूंघना",
+                                "smelt / smelled",
+                                "smelt / smelled"
+                            ],
+                            [
+                                "speak",
+                                "बोलना",
+                                "spoke",
+                                "spoken"
+                            ],
+                            [
+                                "speed",
+                                "गति बढ़ाना",
+                                "sped",
+                                "sped"
+                            ],
+                            [
+                                "spell",
+                                "वर्तनी करना",
+                                "spelt / spelled",
+                                "spelt / spelled"
+                            ],
+                            [
+                                "spend",
+                                "खर्च करना, बिताना",
+                                "spent",
+                                "spent"
+                            ],
+                            [
+                                "spill",
+                                "छलकाना",
+                                "spilt / spilled",
+                                "spilt / spilled"
+                            ],
+                            [
+                                "spin",
+                                "घूमना / कातना",
+                                "spun / span",
+                                "spun"
+                            ],
+                            [
+                                "spit",
+                                "थूकना",
+                                "spat / spit",
+                                "spat / spit"
+                            ],
+                            [
+                                "split",
+                                "विभाजित करना / फाड़ना",
+                                "split",
+                                "split"
+                            ],
+                            [
+                                "spoil",
+                                "बिगाड़ना",
+                                "spoilt / spoiled",
+                                "spoilt / spoiled"
+                            ],
+                            [
+                                "spread",
+                                "फैलाना",
+                                "spread",
+                                "spread"
+                            ],
+                            [
+                                "stand",
+                                "खड़े होना",
+                                "stood",
+                                "stood"
+                            ],
+                            [
+                                "steal",
+                                "चुराना",
+                                "stole",
+                                "stolen"
+                            ],
+                            [
+                                "stick",
+                                "चिपकाना",
+                                "stuck",
+                                "stuck"
+                            ],
+                            [
+                                "sting",
+                                "डंक मारना",
+                                "stung",
+                                "stung"
+                            ],
+                            [
+                                "strike",
+                                "प्रहार करना",
+                                "struck",
+                                "struck"
+                            ],
+                            [
+                                "swear",
+                                "कसम खाना",
+                                "swore",
+                                "sworn"
+                            ],
+                            [
+                                "sweep",
+                                "झाड़ू लगाना",
+                                "swept",
+                                "swept"
+                            ],
+                            [
+                                "swim",
+                                "तैरना",
+                                "swam",
+                                "swum"
+                            ],
+                            [
+                                "swing",
+                                "झूलना",
+                                "swung",
+                                "swung"
+                            ],
+                            [
+                                "take",
+                                "लेना",
+                                "took",
+                                "taken"
+                            ],
+                            [
+                                "teach",
+                                "सिखाना",
+                                "taught",
+                                "taught"
+                            ],
+                            [
+                                "tear",
+                                "फाड़ना",
+                                "tore",
+                                "torn"
+                            ],
+                            [
+                                "tell",
+                                "बताना",
+                                "told",
+                                "told"
+                            ],
+                            [
+                                "think",
+                                "सोचना",
+                                "thought",
+                                "thought"
+                            ],
+                            [
+                                "throw",
+                                "फेंकना",
+                                "threw",
+                                "thrown"
+                            ],
+                            [
+                                "understand",
+                                "समझना",
+                                "understood",
+                                "understood"
+                            ],
+                            [
+                                "wake",
+                                "जागना",
+                                "woke",
+                                "woken"
+                            ],
+                            [
+                                "wear",
+                                "पहनना",
+                                "wore",
+                                "worn"
+                            ],
+                            [
+                                "win",
+                                "जीतना",
+                                "won",
+                                "won"
+                            ],
+                            [
+                                "wind",
+                                "लपेटना / चाबी भरना",
+                                "wound",
+                                "wound"
+                            ],
+                            [
+                                "write",
+                                "लिखना",
+                                "wrote",
+                                "written"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Verbs with Special Adjective Forms (विशेषण के रूप में)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Past vs Adjective Forms",
+                        "headers": [
+                            "V1 (Mool Rup)",
+                            "V2 (Bhootkal)",
+                            "V3 (Bhootkrudant)",
+                            "V3 as Adjective"
+                        ],
+                        "rows": [
+                            [
+                                "Bind (बांधना)",
+                                "bound",
+                                "bound",
+                                "bounden"
+                            ],
+                            [
+                                "Drink (पीना)",
+                                "drank",
+                                "drunk",
+                                "drunken"
+                            ],
+                            [
+                                "Get (पाना)",
+                                "got",
+                                "got",
+                                "gotten"
+                            ],
+                            [
+                                "Shrink (सिकुड़ना)",
+                                "shrank",
+                                "shrunk",
+                                "shrunken"
+                            ],
+                            [
+                                "Sink (डूबना)",
+                                "sank",
+                                "sunk",
+                                "sunken"
+                            ],
+                            [
+                                "Strike (मारना)",
+                                "struck",
+                                "struck",
+                                "stricken"
+                            ],
+                            [
+                                "Cleave (चीरना)",
+                                "cleft / clove",
+                                "cleft",
+                                "cloven"
+                            ],
+                            [
+                                "Engrave (नक्काशी करना)",
+                                "engraved",
+                                "engraved",
+                                "engraven"
+                            ],
+                            [
+                                "Melt (पिघलना)",
+                                "melted",
+                                "melted",
+                                "molten"
+                            ],
+                            [
+                                "Seethe (उबलना)",
+                                "seethed",
+                                "seethed",
+                                "sodden"
+                            ],
+                            [
+                                "Shear (कतरना)",
+                                "sheared",
+                                "sheared",
+                                "shorn"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "list",
+                    "title": "Examples of Difference",
+                    "content": [
+                        "A sheep has **sunk** just now. (Verb - डूब गया)",
+                        "It was a **sunken** ship. (Adjective - डूबा हुआ)",
+                        "He has **drunk** much. (Verb - पी ली है)",
+                        "He was a much **drunken** man. (Adjective - पियक्कड़)"
+                    ]
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Note:</b> For 'Learn', both **learnt** and **learned** are V2/V3 forms. However, 'learned' is also used as an Adjective (e.g., A learned man - विद्वान), while 'learnt' is not."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Confusing Verbs (भ्रमित करने वाली क्रियाएँ)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Commonly Confused Pairs",
+                        "headers": [
+                            "V1 (Mool Rup)",
+                            "V2 (Bhootkal)",
+                            "V3 (Bhootkrudant)"
+                        ],
+                        "rows": [
+                            [
+                                "Lie (झूठ बोलना)",
+                                "lied",
+                                "lied"
+                            ],
+                            [
+                                "Lie (लेटना)",
+                                "lay",
+                                "lain"
+                            ],
+                            [
+                                "Lay (रखना / अंडे देना)",
+                                "laid",
+                                "laid"
+                            ],
+                            [
+                                "Rise (उगना / उठना)",
+                                "rose",
+                                "risen"
+                            ],
+                            [
+                                "Raise (उठाना / खड़ा करना)",
+                                "raised",
+                                "raised"
+                            ],
+                            [
+                                "Find (ढूँढना)",
+                                "found",
+                                "found"
+                            ],
+                            [
+                                "Found (स्थापना करना)",
+                                "founded",
+                                "founded"
+                            ],
+                            [
+                                "Hang (लटकाना - वस्तु)",
+                                "hung",
+                                "hung"
+                            ],
+                            [
+                                "Hang (फाँसी देना)",
+                                "hanged",
+                                "hanged"
+                            ],
+                            [
+                                "Bear (सहन करना)",
+                                "bore",
+                                "borne"
+                            ],
+                            [
+                                "Bear (जन्म देना)",
+                                "bore",
+                                "born"
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Note:</b> Born vs Borne:<br/>- **Born** का प्रयोग जन्म के लिए होता है (Passive voice). Ex: I was born in India.<br/>- **Borne** का प्रयोग सहन करने या ले जाने के लिए होता है. Ex: He has borne the pain."
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "Invent vs Discover",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "headers": [
+                            "Word",
+                            "Meaning",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "**Invent**",
+                                "नई वस्तु बनाना (आविष्कार)",
+                                "Graham Bell **invented** the telephone."
+                            ],
+                            [
+                                "**Discover**",
+                                "मौजूद वस्तु ढूँढना (खोज)",
+                                "Columbus **discovered** America."
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

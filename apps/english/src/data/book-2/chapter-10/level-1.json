@@ -1,0 +1,76 @@
+{
+  "id": "level-1",
+  "title": "Events and Fun 1",
+  "words": [
+    {
+      "word": "Toy",
+      "gujaratiPronunciation": "ટોય",
+      "hindiPronunciation": "टॉय",
+      "gujaratiMeaning": "રમકડું",
+      "hindiMeaning": "खिलौना",
+      "exampleSentences": [
+        {
+          "sentence": "The child is playing with a toy.",
+          "gujaratiTranslation": "બાળક રમકડાથી રમી રહ્યું છે.",
+          "hindiTranslation": "बच्चा एक खिलौने से खेल रहा है।"
+        }
+      ]
+    },
+    {
+      "word": "Game",
+      "gujaratiPronunciation": "ગેમ",
+      "hindiPronunciation": "गेम",
+      "gujaratiMeaning": "રમત",
+      "hindiMeaning": "खेल",
+      "exampleSentences": [
+        {
+          "sentence": "Cricket is a popular game.",
+          "gujaratiTranslation": "ક્રિકેટ એક લોકપ્રિય રમત છે.",
+          "hindiTranslation": "क्रिकेट एक लोकप्रिय खेल है।"
+        }
+      ]
+    },
+    {
+      "word": "Dance",
+      "gujaratiPronunciation": "ડાન્સ",
+      "hindiPronunciation": "डांस",
+      "gujaratiMeaning": "નૃત્ય",
+      "hindiMeaning": "नृत्य",
+      "exampleSentences": [
+        {
+          "sentence": "She loves to dance.",
+          "gujaratiTranslation": "તેણીને નૃત્ય કરવું ગમે છે.",
+          "hindiTranslation": "उसे नाचना पसंद है।"
+        }
+      ]
+    },
+    {
+      "word": "Song",
+      "gujaratiPronunciation": "સોંગ",
+      "hindiPronunciation": "सॉन्ग",
+      "gujaratiMeaning": "ગીત",
+      "hindiMeaning": "गाना",
+      "exampleSentences": [
+        {
+          "sentence": "He is listening to a song.",
+          "gujaratiTranslation": "તે એક ગીત સાંભળી રહ્યો છે.",
+          "hindiTranslation": "वह एक गाना सुन रहा है।"
+        }
+      ]
+    },
+    {
+      "word": "Party",
+      "gujaratiPronunciation": "પાર્ટી",
+      "hindiPronunciation": "पार्टी",
+      "gujaratiMeaning": "પાર્ટી",
+      "hindiMeaning": "पार्टी",
+      "exampleSentences": [
+        {
+          "sentence": "We are going to a birthday party.",
+          "gujaratiTranslation": "અમે જન્મદિવસની પાર્ટીમાં જઈ રહ્યા છીએ.",
+          "hindiTranslation": "हम एक जन्मदिन की पार्टी में जा रहे हैं।"
+        }
+      ]
+    }
+  ]
+}

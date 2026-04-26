@@ -1,0 +1,11 @@
+{
+    "id": "level-3",
+    "title": "In-Laws & More",
+    "words": [
+        { "word": "Father-in-law", "icon": "👨‍🦳", "gujaratiMeaning": "સસરા", "hindiMeaning": "ससुर", "gujaratiPronunciation": "ફાધર-ઇન-લૉ", "hindiPronunciation": "फादर-इन-लॉ" },
+        { "word": "Mother-in-law", "icon": "👩‍🦳", "gujaratiMeaning": "સાસુ", "hindiMeaning": "सास", "gujaratiPronunciation": "મધર-ઇન-લૉ", "hindiPronunciation": "मदर-इन-लॉ" },
+        { "word": "Nephew", "icon": "👦", "gujaratiMeaning": "ભત્રીજો/ભાણજો", "hindiMeaning": "भतीजा/भांजा", "gujaratiPronunciation": "નેફ્યુ", "hindiPronunciation": "नेफ्यू" },
+        { "word": "Niece", "icon": "👧", "gujaratiMeaning": "ભત્રીજી/ભાણજી", "hindiMeaning": "भतीजी/भांजी", "gujaratiPronunciation": "નીસ", "hindiPronunciation": "नीस" },
+        { "word": "Relative", "icon": "👨‍👩‍👧‍👦", "gujaratiMeaning": "સંબંધી", "hindiMeaning": "रिश्तेदार", "gujaratiPronunciation": "રિલેટિવ", "hindiPronunciation": "रिलेटिव" }
+    ]
+}

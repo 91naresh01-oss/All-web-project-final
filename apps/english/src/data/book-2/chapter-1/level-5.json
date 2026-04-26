@@ -1,0 +1,76 @@
+{
+  "id": "level-5",
+  "title": "Time Concepts",
+  "words": [
+    {
+      "word": "Month",
+      "gujaratiPronunciation": "મંથ",
+      "hindiPronunciation": "मंथ",
+      "gujaratiMeaning": "મહિનો",
+      "hindiMeaning": "महीना",
+      "exampleSentences": [
+        {
+          "sentence": "There are twelve months in a year.",
+          "gujaratiTranslation": "એક વર્ષમાં બાર મહિના હોય છે.",
+          "hindiTranslation": "एक साल में बारह महीने होते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Year",
+      "gujaratiPronunciation": "યર",
+      "hindiPronunciation": "ईयर",
+      "gujaratiMeaning": "વર્ષ",
+      "hindiMeaning": "साल",
+      "exampleSentences": [
+        {
+          "sentence": "This year has been great.",
+          "gujaratiTranslation": "આ વર્ષ ખૂબ સરસ રહ્યું છે.",
+          "hindiTranslation": "यह साल बहुत अच्छा रहा है।"
+        }
+      ]
+    },
+    {
+      "word": "Morning",
+      "gujaratiPronunciation": "મોર્નિંગ",
+      "hindiPronunciation": "मॉर्निंग",
+      "gujaratiMeaning": "સવાર",
+      "hindiMeaning": "सुबह",
+      "exampleSentences": [
+        {
+          "sentence": "I wake up early in the morning.",
+          "gujaratiTranslation": "હું સવારે વહેલો ઉઠું છું.",
+          "hindiTranslation": "मैं सुबह जल्दी उठता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Evening",
+      "gujaratiPronunciation": "ઇવનિંગ",
+      "hindiPronunciation": "इवनिंग",
+      "gujaratiMeaning": "સાંજ",
+      "hindiMeaning": "शाम",
+      "exampleSentences": [
+        {
+          "sentence": "We will meet in the evening.",
+          "gujaratiTranslation": "આપણે સાંજે મળીશું.",
+          "hindiTranslation": "हम शाम को मिलेंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Night",
+      "gujaratiPronunciation": "નાઇટ",
+      "hindiPronunciation": "नाइट",
+      "gujaratiMeaning": "રાત્રિ",
+      "hindiMeaning": "रात",
+      "exampleSentences": [
+        {
+          "sentence": "The stars shine at night.",
+          "gujaratiTranslation": "રાત્રે તારાઓ ચમકે છે.",
+          "hindiTranslation": "रात में तारे चमकते हैं।"
+        }
+      ]
+    }
+  ]
+}

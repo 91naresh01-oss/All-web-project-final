@@ -1,0 +1,76 @@
+{
+  "id": "level-4",
+  "title": "Reflexive Pronouns",
+  "words": [
+    {
+      "word": "Myself",
+      "gujaratiPronunciation": "માયસેલ્ફ",
+      "hindiPronunciation": "मायसेल्फ",
+      "gujaratiMeaning": "મારી જાતે",
+      "hindiMeaning": "मैं खुद",
+      "exampleSentences": [
+        {
+          "sentence": "I did it myself.",
+          "gujaratiTranslation": "મેં તે મારી જાતે કર્યું.",
+          "hindiTranslation": "मैंने यह खुद किया।"
+        }
+      ]
+    },
+    {
+      "word": "Yourself",
+      "gujaratiPronunciation": "યોરસેલ્ફ",
+      "hindiPronunciation": " योरसेल्फ",
+      "gujaratiMeaning": "તમારી જાતે",
+      "hindiMeaning": "तुम खुद",
+      "exampleSentences": [
+        {
+          "sentence": "Do it yourself.",
+          "gujaratiTranslation": "તે તમારી જાતે કરો.",
+          "hindiTranslation": "इसे खुद करो।"
+        }
+      ]
+    },
+    {
+      "word": "Himself",
+      "gujaratiPronunciation": "હિમસેલ્ફ",
+      "hindiPronunciation": "हिमसेल्फ",
+      "gujaratiMeaning": "તેની જાતે",
+      "hindiMeaning": "वह खुद",
+      "exampleSentences": [
+        {
+          "sentence": "He cooked himself.",
+          "gujaratiTranslation": "તેણે તેની જાતે રસોઈ બનાવી.",
+          "hindiTranslation": "उसने खुद खाना बनाया।"
+        }
+      ]
+    },
+    {
+      "word": "Herself",
+      "gujaratiPronunciation": "હરસેલ્ફ",
+      "hindiPronunciation": "हरसेल्फ",
+      "gujaratiMeaning": "તેણીની જાતે",
+      "hindiMeaning": "वह खुद",
+      "exampleSentences": [
+        {
+          "sentence": "She drove the car herself.",
+          "gujaratiTranslation": "તેણીએ તેની જાતે કાર ચલાવી.",
+          "hindiTranslation": "उसने खुद कार चलाई।"
+        }
+      ]
+    },
+    {
+      "word": "Itself",
+      "gujaratiPronunciation": "ઇટસેલ્ફ",
+      "hindiPronunciation": "इटसेल्फ",
+      "gujaratiMeaning": "તેની મેળે",
+      "hindiMeaning": "अपने आप",
+      "exampleSentences": [
+        {
+          "sentence": "The machine started by itself.",
+          "gujaratiTranslation": "મશીન તેની મેળે શરૂ થયું.",
+          "hindiTranslation": "मशीन अपने आप चालू हो गई।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+
+{
+    "id": "level-2",
+    "title": "Insects 2",
+    "words": [
+        {
+            "word": "Mosquito",
+            "icon": "🦟",
+            "gujaratiPronunciation": "મસ્કિટો",
+            "hindiPronunciation": "मस्कीटो",
+            "gujaratiMeaning": "મચ્છર",
+            "hindiMeaning": "मच्छर"
+        },
+        {
+            "word": "Grasshopper",
+            "icon": "🦗",
+            "gujaratiPronunciation": "ગ્રાસહોપર",
+            "hindiPronunciation": "ग्रासहॉपर",
+            "gujaratiMeaning": "તીડ",
+            "hindiMeaning": "टिड्डा"
+        },
+        {
+            "word": "Ladybug",
+            "icon": "🐞",
+            "gujaratiPronunciation": "લેડીબગ",
+            "hindiPronunciation": "लेडीबग",
+            "gujaratiMeaning": "લાલ જીવાત",
+            "hindiMeaning": "गुबरैला"
+        },
+        {
+            "word": "Moth",
+            "icon": "🦋",
+            "gujaratiPronunciation": "મોથ",
+            "hindiPronunciation": "मॉथ",
+            "gujaratiMeaning": "ફૂદું",
+            "hindiMeaning": "पतंगा"
+        },
+        {
+            "word": "Dragonfly",
+            "icon": "🐉",
+            "gujaratiPronunciation": "ડ્રેગનફ્લાય",
+            "hindiPronunciation": "ड्रैगनफ्लाई",
+            "gujaratiMeaning": "ડ્રેગનફ્લાય",
+            "hindiMeaning": "व्याध पतंग"
+        }
+    ]
+}

@@ -1,0 +1,443 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Count",
+      "gujaratiPronunciation": "કાઉન્ટ",
+      "hindiPronunciation": "काउंट",
+      "gujaratiMeaning": "ગણતરી કરવી",
+      "hindiMeaning": "गिनती करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Count",
+          "gujaratiPronunciation": "કાઉન્ટ",
+          "hindiPronunciation": "काउंट",
+          "gujaratiMeaning": "ગણતરી કરવી",
+          "hindiMeaning": "गिनती करना"
+        },
+        "V2 (Past)": {
+          "word": "Counted",
+          "gujaratiPronunciation": "કાઉન્ટેડ",
+          "hindiPronunciation": "काउंटेड",
+          "gujaratiMeaning": "ગણતરી કરી",
+          "hindiMeaning": "गिनती की"
+        },
+        "V3 (Past Participle)": {
+          "word": "Counted",
+          "gujaratiPronunciation": "કાઉન્ટેડ",
+          "hindiPronunciation": "काउंटेड",
+          "gujaratiMeaning": "ગણતરી કરેલ",
+          "hindiMeaning": "गिना हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Counting",
+          "gujaratiPronunciation": "કાઉન્ટિંગ",
+          "hindiPronunciation": "काउंटिंग",
+          "gujaratiMeaning": "ગણતરી કરી રહ્યું છે",
+          "hindiMeaning": "गिनती कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Tally",
+          "gujaratiPronunciation": "ટેલી",
+          "hindiPronunciation": "टैली",
+          "gujaratiMeaning": "મેળવવું",
+          "hindiMeaning": "मिलान करना"
+        },
+        {
+          "word": "Calculate",
+          "gujaratiPronunciation": "કેલ્ક્યુલેટ",
+          "hindiPronunciation": "कैलकुलेट",
+          "gujaratiMeaning": "ગણતરી કરવી",
+          "hindiMeaning": "गणना کرنا"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Guess",
+          "gujaratiPronunciation": "ગેસ",
+          "hindiPronunciation": "गेस",
+          "gujaratiMeaning": "અનુમાન લગાવવું",
+          "hindiMeaning": "अनुमान लगाना"
+        },
+        {
+          "word": "Estimate",
+          "gujaratiPronunciation": "એસ્ટિમેટ",
+          "hindiPronunciation": "एस्टीमेट",
+          "gujaratiMeaning": "અંદાજ કાઢવો",
+          "hindiMeaning": "अनुमान लगाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Count",
+          "gujaratiPronunciation": "કાઉન્ટ",
+          "hindiPronunciation": "काउंट",
+          "gujaratiMeaning": "ગણતરી કરવી",
+          "hindiMeaning": "गिनती करना",
+          "difference": "Count એટલે ગણવું, જ્યારે Discount એટલે વળતર."
+        },
+        {
+          "word": "Discount",
+          "gujaratiPronunciation": "ડિસ્કાઉન્ટ",
+          "hindiPronunciation": "डिस्काउंट",
+          "gujaratiMeaning": "વળતર",
+          "hindiMeaning": "छूट",
+          "difference": "Count એટલે ગણવું, જ્યારે Discount એટલે વળતર."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She started to count the stars in the sky.",
+          "gujaratiPronunciation": "શી સ્ટાર્ટેડ ટુ કાઉન્ટ ધ સ્ટાર્સ ઇન ધ સ્કાય.",
+          "hindiPronunciation": "शी स्टार्टेड टू काउंट द स्टार्स इन द स्काई।",
+          "gujaratiTranslation": "તેણીએ આકાશમાં તારાઓની ગણતરી કરવાનું શરૂ કર્યું.",
+          "hindiTranslation": "उसने आकाश में तारों की गिनती शुरू कर दी।"
+        }
+      ]
+    },
+    {
+      "word": "Weigh",
+      "gujaratiPronunciation": "વે",
+      "hindiPronunciation": "वे",
+      "gujaratiMeaning": "વજન કરવું",
+      "hindiMeaning": "वजन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Weigh",
+          "gujaratiPronunciation": "વે",
+          "hindiPronunciation": "वे",
+          "gujaratiMeaning": "વજન કરવું",
+          "hindiMeaning": "वजन करना"
+        },
+        "V2 (Past)": {
+          "word": "Weighed",
+          "gujaratiPronunciation": "વેડ",
+          "hindiPronunciation": "वेड",
+          "gujaratiMeaning": "વજન કર્યું",
+          "hindiMeaning": "वजन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Weighed",
+          "gujaratiPronunciation": "વેડ",
+          "hindiPronunciation": "वेड",
+          "gujaratiMeaning": "વજન કરેલ",
+          "hindiMeaning": "वजन किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Weighing",
+          "gujaratiPronunciation": "વેઇંગ",
+          "hindiPronunciation": "वेइंग",
+          "gujaratiMeaning": "વજન કરી રહ્યું છે",
+          "hindiMeaning": "वजन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Measure",
+          "gujaratiPronunciation": "મેઝર",
+          "hindiPronunciation": "मेज़र",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        },
+        {
+          "word": "Assess",
+          "gujaratiPronunciation": "અસેસ",
+          "hindiPronunciation": "असेस",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "आकलन करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Unbalance",
+          "gujaratiPronunciation": "અનબેલેન્સ",
+          "hindiPronunciation": "अनबैलेंस",
+          "gujaratiMeaning": "અસંતુલિત કરવું",
+          "hindiMeaning": "असंतुलित کرنا"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Weigh",
+          "gujaratiPronunciation": "વે",
+          "hindiPronunciation": "वे",
+          "gujaratiMeaning": "વજન કરવું",
+          "hindiMeaning": "वजन करना",
+          "difference": "Weigh એટલે વજન કરવું, જ્યારે Way એટલે રસ્તો."
+        },
+        {
+          "word": "Way",
+          "gujaratiPronunciation": "વે",
+          "hindiPronunciation": "वे",
+          "gujaratiMeaning": "રસ્તો",
+          "hindiMeaning": "रास्ता",
+          "difference": "Weigh એટલે વજન કરવું, જ્યારે Way એટલે રસ્તો."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You should weigh the pros and cons before making a decision.",
+          "gujaratiPronunciation": "યુ શુડ વે ધ પ્રોઝ એન્ડ કોન્સ બિફોર મેકિંગ અ ડિસિઝન.",
+          "hindiPronunciation": "यू शुड वे द प्रोज़ एंड कॉन्स बिफोर मेकिंग अ डिसीजन।",
+          "gujaratiTranslation": "નિર્ણય લેતા પહેલા તમારે ફાયદા અને ગેરફાયદાનું વજન કરવું જોઈએ.",
+          "hindiTranslation": "निर्णय लेने से पहले आपको फायदे और नुकसान का आकलन करना चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Fill",
+      "gujaratiPronunciation": "ફિલ",
+      "hindiPronunciation": "फिल",
+      "gujaratiMeaning": "ભરવું",
+      "hindiMeaning": "भरना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Fill",
+          "gujaratiPronunciation": "ફિલ",
+          "hindiPronunciation": "फिल",
+          "gujaratiMeaning": "ભરવું",
+          "hindiMeaning": "भरना"
+        },
+        "V2 (Past)": {
+          "word": "Filled",
+          "gujaratiPronunciation": "ફિલ્ડ",
+          "hindiPronunciation": "फिल्ड",
+          "gujaratiMeaning": "ભર્યું",
+          "hindiMeaning": "भरा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Filled",
+          "gujaratiPronunciation": "ફિલ્ડ",
+          "hindiPronunciation": "फिल्ड",
+          "gujaratiMeaning": "ભરેલું",
+          "hindiMeaning": "भरा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Filling",
+          "gujaratiPronunciation": "ફિલિંગ",
+          "hindiPronunciation": "फिलिंग",
+          "gujaratiMeaning": "ભરી રહ્યું છે",
+          "hindiMeaning": "भर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Load",
+          "gujaratiPronunciation": "લોડ",
+          "hindiPronunciation": "लोड",
+          "gujaratiMeaning": "ભરવું",
+          "hindiMeaning": " भरना"
+        },
+        {
+          "word": "Pack",
+          "gujaratiPronunciation": "પેક",
+          "hindiPronunciation": "पैक",
+          "gujaratiMeaning": "ભરવું",
+          "hindiMeaning": "भरना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Empty",
+          "gujaratiPronunciation": "એમ્પ્ટી",
+          "hindiPronunciation": "एम्प्टी",
+          "gujaratiMeaning": "ખાલી કરવું",
+          "hindiMeaning": "खाली करना"
+        },
+        {
+          "word": "Drain",
+          "gujaratiPronunciation": "ડ્રેઇન",
+          "hindiPronunciation": "ड्रेन",
+          "gujaratiMeaning": "ખાલી કરવું",
+          "hindiMeaning": "खाली کرنا"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Fill",
+          "gujaratiPronunciation": "ફિલ",
+          "hindiPronunciation": "फिल",
+          "gujaratiMeaning": "ભરવું",
+          "hindiMeaning": "भरना",
+          "difference": "Fill એટલે ભરવું, જ્યારે Feel એટલે અનુભવવું."
+        },
+        {
+          "word": "Feel",
+          "gujaratiPronunciation": "ફીલ",
+          "hindiPronunciation": "फील",
+          "gujaratiMeaning": "અનુભવવું",
+          "hindiMeaning": "महसूस करना",
+          "difference": "Fill એટલે ભરવું, જ્યારે Feel એટલે અનુભવવું."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Please fill this bottle with water.",
+          "gujaratiPronunciation": "પ્લીઝ ફિલ ધીસ બોટલ વિથ વોટર.",
+          "hindiPronunciation": "प्लीज फिल दिस बॉटल विद वॉटर।",
+          "gujaratiTranslation": "કૃપા કરીને આ બોટલ પાણીથી ભરો.",
+          "hindiTranslation": "कृपया इस बोतल को पानी से भर दें।"
+        }
+      ]
+    },
+    {
+      "word": "Empty",
+      "gujaratiPronunciation": "એમ્પ્ટી",
+      "hindiPronunciation": "एम्प्टी",
+      "gujaratiMeaning": "ખાલી કરવું",
+      "hindiMeaning": "खाली करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Empty",
+          "gujaratiPronunciation": "એમ્પ્ટી",
+          "hindiPronunciation": "एम्प्टी",
+          "gujaratiMeaning": "ખાલી કરવું",
+          "hindiMeaning": "खाली करना"
+        },
+        "V2 (Past)": {
+          "word": "Emptied",
+          "gujaratiPronunciation": "એમ્પ્ટીડ",
+          "hindiPronunciation": "एम्प्टीड",
+          "gujaratiMeaning": "ખાલી કર્યું",
+          "hindiMeaning": "खाली किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Emptied",
+          "gujaratiPronunciation": "એમ્પ્ટીડ",
+          "hindiPronunciation": "एम्प्टीड",
+          "gujaratiMeaning": "ખાલી કરેલું",
+          "hindiMeaning": "खाली किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Emptying",
+          "gujaratiPronunciation": "એમ્પ્ટીઇંગ",
+          "hindiPronunciation": "एम्प्टीइंग",
+          "gujaratiMeaning": "ખાલી કરી રહ્યું છે",
+          "hindiMeaning": "खाली कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Drain",
+          "gujaratiPronunciation": "ડ્રેઇન",
+          "hindiPronunciation": "ड्रेन",
+          "gujaratiMeaning": "ખાલી કરવું",
+          "hindiMeaning": "खाली करना"
+        },
+        {
+          "word": "Unload",
+          "gujaratiPronunciation": "અનલોડ",
+          "hindiPronunciation": "अनलोड",
+          "gujaratiMeaning": "ખાલી કરવું",
+          "hindiMeaning": "खाली करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Fill",
+          "gujaratiPronunciation": "ફિલ",
+          "hindiPronunciation": "फिल",
+          "gujaratiMeaning": "ભરવું",
+          "hindiMeaning": "भरना"
+        },
+        {
+          "word": "Load",
+          "gujaratiPronunciation": "લોડ",
+          "hindiPronunciation": "लोड",
+          "gujaratiMeaning": "ભરવું",
+          "hindiMeaning": "भरना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "He had to empty his pockets at security.",
+          "gujaratiPronunciation": "હી હેડ ટુ એમ્પ્ટી હિઝ પોકેટ્સ એટ સિક્યુરિટી.",
+          "hindiPronunciation": "ही हैड टू एम्प्टी हिज पॉकेट्स एट सिक्योरिटी।",
+          "gujaratiTranslation": "તેને સુરક્ષા તપાસમાં તેના ખિસ્સા ખાલી કરવા પડ્યા.",
+          "hindiTranslation": "उसे सुरक्षा जांच में अपनी जेबें खाली करनी पड़ीं।"
+        }
+      ]
+    },
+    {
+      "word": "Measure",
+      "gujaratiPronunciation": "મેઝર",
+      "hindiPronunciation": "मेज़र",
+      "gujaratiMeaning": "માપવું",
+      "hindiMeaning": "मापना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Measure",
+          "gujaratiPronunciation": "મેઝર",
+          "hindiPronunciation": "मेज़र",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        },
+        "V2 (Past)": {
+          "word": "Measured",
+          "gujaratiPronunciation": "મેઝર્ડ",
+          "hindiPronunciation": "मेज़र्ड",
+          "gujaratiMeaning": "માપ્યું",
+          "hindiMeaning": "मापा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Measured",
+          "gujaratiPronunciation": "મેઝર્ડ",
+          "hindiPronunciation": "मेज़र्ड",
+          "gujaratiMeaning": "માપેલું",
+          "hindiMeaning": "मापा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Measuring",
+          "gujaratiPronunciation": "મેઝરિંગ",
+          "hindiPronunciation": "मेज़रिंग",
+          "gujaratiMeaning": "માપી રહ્યું છે",
+          "hindiMeaning": "माप रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Gauge",
+          "gujaratiPronunciation": "ગેજ",
+          "hindiPronunciation": "गेज",
+          "gujaratiMeaning": "માપવું",
+          "hindiMeaning": "मापना"
+        },
+        {
+          "word": "Quantify",
+          "gujaratiPronunciation": "ક્વોન્ટિફાય",
+          "hindiPronunciation": "क्वांटिफाई",
+          "gujaratiMeaning": "માત્રા નક્કી કરવી",
+          "hindiMeaning": "मात्रा निर्धारित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Guess",
+          "gujaratiPronunciation": "ગેસ",
+          "hindiPronunciation": "गेस",
+          "gujaratiMeaning": "અનુમાન લગાવવું",
+          "hindiMeaning": "अनुमान लगाना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "We need to measure the room to see if the sofa will fit.",
+          "gujaratiPronunciation": "વી નીડ ટુ મેઝર ધ રૂમ ટુ સી ઇફ ધ સોફા વિલ ફિટ.",
+          "hindiPronunciation": "वी नीड टू मेज़र द रूम टू सी इफ द सोफा विल फिट।",
+          "gujaratiTranslation": "સોફા ફિટ થશે કે નહીં તે જોવા માટે અમારે રૂમનું માપ લેવાની જરૂર છે.",
+          "hindiTranslation": "हमें कमरे को मापने की ज़रूरत है ताकि यह देखा जा सके कि सोफा फिट होगा या नहीं।"
+        }
+      ]
+    }
+  ]
+}

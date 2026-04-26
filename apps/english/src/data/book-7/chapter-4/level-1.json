@@ -1,0 +1,172 @@
+
+{
+    "id": "level-1",
+    "title": "Level 1",
+    "words": [
+        {
+            "word": "Link",
+            "gujaratiPronunciation": "લિંક",
+            "hindiPronunciation": "लिंक",
+            "gujaratiMeaning": "જોડવું, સંબંધ સ્થાપિત કરવો",
+            "hindiMeaning": "जोड़ना, संबंध स्थापित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Link", "pronunciation": "લિંક", "meaning": "જોડવું" },
+                "v2": { "word": "Linked", "pronunciation": "લિંક્ડ", "meaning": "જોડ્યું" },
+                "v3": { "word": "Linked", "pronunciation": "લિંક્ડ", "meaning": "જોડેલું" },
+                "v4": { "word": "Linking", "pronunciation": "લિંકિંગ", "meaning": "જોડી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Connect", "pronunciation": "કનેક્ટ", "meaning": "જોડવું" },
+                { "word": "Join", "pronunciation": "જોઇન", "meaning": "ભેગા થવું" }
+            ],
+            "antonyms": [
+                { "word": "Sever", "pronunciation": "સેવર", "meaning": "કાપી નાખવું" },
+                { "word": "Detach", "pronunciation": "ડિટેચ", "meaning": "અલગ કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Lynx", "pronunciation": "લિંક્સ", "meaning": "એક જંગલી બિલાડી" },
+                { "word": "Lank", "pronunciation": "લૅન્ક", "meaning": "પાતળું અને લાંબુ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The evidence will link the suspect to the crime.",
+                    "gujaratiTranslation": "આ પુરાવો શંકાસ્પદને ગુના સાથે જોડશે.",
+                    "hindiTranslation": "यह सबूत संदिग्ध को अपराध से जोड़ेगा।"
+                }
+            ]
+        },
+        {
+            "word": "Relate",
+            "gujaratiPronunciation": "રિલેટ",
+            "hindiPronunciation": "रिलेट",
+            "gujaratiMeaning": "સંબંધિત હોવું, સંબંધ જોડવો",
+            "hindiMeaning": "संबंधित होना, संबंध जोड़ना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Relate", "pronunciation": "રિલેટ", "meaning": "સંબંધ જોડવો" },
+                "v2": { "word": "Related", "pronunciation": "રિલેટેડ", "meaning": "સંબંધ જોડ્યો" },
+                "v3": { "word": "Related", "pronunciation": "રિલેટેડ", "meaning": "સંબંધિત" },
+                "v4": { "word": "Relating", "pronunciation": "રિલેટિંગ", "meaning": "સંબંધ જોડી રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Associate", "pronunciation": "એસોસિએટ", "meaning": "સંકળાવું" },
+                { "word": "Connect", "pronunciation": "કનેક્ટ", "meaning": "જોડવું" }
+            ],
+            "antonyms": [
+                { "word": "Dissociate", "pronunciation": "ડિસોસિએટ", "meaning": "અલગ કરવું" },
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "વિભાજીત કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Relegate", "pronunciation": "રેલિગેટ", "meaning": "પદભ્રષ્ટ કરવું" },
+                { "word": "Relay", "pronunciation": "રિલે", "meaning": "ટપ્પાદૌડ" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "I find it hard to relate to his political views.",
+                    "gujaratiTranslation": "મને તેમના રાજકીય મંતવ્યો સાથે સંબંધ જોડવો મુશ્કેલ લાગે છે.",
+                    "hindiTranslation": "मुझे उनके राजनीतिक विचारों से सहमत होना मुश्किल लगता है।"
+                }
+            ]
+        },
+        {
+            "word": "Join",
+            "gujaratiPronunciation": "જોઇન",
+            "hindiPronunciation": "जॉइन",
+            "gujaratiMeaning": "ભેગા થવું, જોડાવું",
+            "hindiMeaning": "शामिल होना, जुड़ना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Join", "pronunciation": "જોઇન", "meaning": "જોડાવું" },
+                "v2": { "word": "Joined", "pronunciation": "જોઇન્ડ", "meaning": "જોડાયા" },
+                "v3": { "word": "Joined", "pronunciation": "જોઇન્ડ", "meaning": "જોડાયેલ" },
+                "v4": { "word": "Joining", "pronunciation": "જોઇનિંગ", "meaning": "જોડાઈ રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Unite", "pronunciation": "યુનાઇટ", "meaning": "એક થવું" },
+                { "word": "Combine", "pronunciation": "કમ્બાઇન", "meaning": "ભેગું કરવું" }
+            ],
+            "antonyms": [
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "અલગ થવું" },
+                { "word": "Divide", "pronunciation": "ડિવાઇડ", "meaning": "વિભાજન કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Joint", "pronunciation": "જોઇન્ટ", "meaning": "સાંધો" },
+                { "word": "Jot", "pronunciation": "જોટ", "meaning": "ટૂંકમાં નોંધવું" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Would you like to join us for dinner?",
+                    "gujaratiTranslation": "શું તમે રાત્રિભોજન માટે અમારી સાથે જોડાવા માંગો છો?",
+                    "hindiTranslation": "क्या आप रात के खाने के लिए हमारे साथ शामिल होना चाहेंगे?"
+                }
+            ]
+        },
+        {
+            "word": "Match",
+            "gujaratiPronunciation": "મૅચ",
+            "hindiPronunciation": "मैच",
+            "gujaratiMeaning": "મેળ ખાવો, સરખું હોવું",
+            "hindiMeaning": "मेल खाना, बराबर होना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Match", "pronunciation": "મૅચ", "meaning": "મેળ ખાવો" },
+                "v2": { "word": "Matched", "pronunciation": "મૅચ્ડ", "meaning": "મેળ ખાધો" },
+                "v3": { "word": "Matched", "pronunciation": "મૅચ્ડ", "meaning": "મેળ ખાધેલ" },
+                "v4": { "word": "Matching", "pronunciation": "મૅચિંગ", "meaning": "મેળ ખાઈ રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Correspond", "pronunciation": "કોરસ્પોન્ડ", "meaning": "અનુરૂપ હોવું" },
+                { "word": "Fit", "pronunciation": "ફિટ", "meaning": "બંધબેસતું હોવું" }
+            ],
+            "antonyms": [
+                { "word": "Mismatch", "pronunciation": "મિસમૅચ", "meaning": "મેળ ન ખાવો" },
+                { "word": "Clash", "pronunciation": "ક્લેશ", "meaning": "ટકરાવ થવો" }
+            ],
+            "confusingWords": [
+                { "word": "Mash", "pronunciation": "મૅશ", "meaning": "કચડવું" },
+                { "word": "Much", "pronunciation": "મચ", "meaning": "ઘણું" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The curtains match the color of the walls.",
+                    "gujaratiTranslation": "પડદા દિવાલોના રંગ સાથે મેળ ખાય છે.",
+                    "hindiTranslation": "पर्दे दीवारों के रंग से मेल खाते हैं।"
+                }
+            ]
+        },
+        {
+            "word": "Associate",
+            "gujaratiPronunciation": "એસોસિએટ",
+            "hindiPronunciation": "एसोसिएट",
+            "gujaratiMeaning": "સંકળાવું, જોડવું",
+            "hindiMeaning": "संबद्ध करना, जोड़ना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Associate", "pronunciation": "એસોસિએટ", "meaning": "સંકળાવું" },
+                "v2": { "word": "Associated", "pronunciation": "એસોસિએટેડ", "meaning": "સંકળાયેલું" },
+                "v3": { "word": "Associated", "pronunciation": "એસોસિએટેડ", "meaning": "સંકળાયેલું" },
+                "v4": { "word": "Associating", "pronunciation": "એસોસિએટિંગ", "meaning": "સંકળાઈ રહ્યું છે" }
+            },
+            "synonyms": [
+                { "word": "Link", "pronunciation": "લિંક", "meaning": "જોડવું" },
+                { "word": "Connect", "pronunciation": "કનેક્ટ", "meaning": "સંબંધ જોડવો" }
+            ],
+            "antonyms": [
+                { "word": "Dissociate", "pronunciation": "ડિસોસિએટ", "meaning": "અલગ કરવું" },
+                { "word": "Separate", "pronunciation": "સેપરેટ", "meaning": "વિભાજીત કરવું" }
+            ],
+            "confusingWords": [
+                { "word": "Assassinate", "pronunciation": "એસાસિનેટ", "meaning": "હત્યા કરવી" },
+                { "word": "Associate (noun)", "pronunciation": "એસોસિએટ (નાઉન)", "meaning": "સહયોગી" }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "He is closely associated with the new political party.",
+                    "gujaratiTranslation": "તે નવા રાજકીય પક્ષ સાથે ગાઢ રીતે સંકળાયેલા છે.",
+                    "hindiTranslation": "वह नई राजनीतिक पार्टी से निकटता से जुड़े हुए हैं।"
+                }
+            ]
+        }
+    ]
+}

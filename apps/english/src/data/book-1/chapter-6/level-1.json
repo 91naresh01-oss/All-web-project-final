@@ -1,0 +1,47 @@
+
+{
+    "id": "level-1",
+    "title": "Birds 1",
+    "words": [
+        {
+            "word": "Crow",
+            "icon": "🐦",
+            "gujaratiPronunciation": "ક્રો",
+            "hindiPronunciation": "क्रो",
+            "gujaratiMeaning": "કાગડો",
+            "hindiMeaning": "कौआ"
+        },
+        {
+            "word": "Pigeon",
+            "icon": "🕊️",
+            "gujaratiPronunciation": "પિજન",
+            "hindiPronunciation": "पिजन",
+            "gujaratiMeaning": "કબૂતર",
+            "hindiMeaning": "कबूतर"
+        },
+        {
+            "word": "Sparrow",
+            "icon": "🐦",
+            "gujaratiPronunciation": "સ્પેરો",
+            "hindiPronunciation": "स्पैरो",
+            "gujaratiMeaning": "ચકલી",
+            "hindiMeaning": "गौरैया"
+        },
+        {
+            "word": "Parrot",
+            "icon": "🦜",
+            "gujaratiPronunciation": "પેરટ",
+            "hindiPronunciation": "पैरट",
+            "gujaratiMeaning": "પોપટ",
+            "hindiMeaning": "तोता"
+        },
+        {
+            "word": "Duck",
+            "icon": "🦆",
+            "gujaratiPronunciation": "ડક",
+            "hindiPronunciation": "डक",
+            "gujaratiMeaning": "બતક",
+            "hindiMeaning": "बत्तख"
+        }
+    ]
+}

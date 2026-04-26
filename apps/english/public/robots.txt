@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://englishwordslearn.work/sitemap.xml

@@ -1,0 +1,250 @@
+{
+    "id": "auxiliary-verbs-h",
+    "title": "Auxiliary Verbs (सहायक क्रियाएँ)",
+    "description": "Auxiliary Verbs (सहायक क्रियाएँ) वे क्रियाएँ हैं जो मुख्य क्रिया (Main Verb) को काल (Tense), भाव (Mood) और वाक्य का प्रकार बनाने में मदद करती हैं।",
+    "content": [
+        {
+            "type": "heading",
+            "content": "Auxiliary Verbs के प्रकार"
+        },
+        {
+            "type": "list",
+            "content": [
+                "<b>Primary Auxiliaries:</b> Be, Have, Do (जो मुख्य क्रिया के रूप में भी उपयोग होती हैं).",
+                "<b>Modal Auxiliaries:</b> Can, Could, May, Might, Shall, Should, Must, आदि (जो केवल भाव दर्शाने के लिए उपयोग होती हैं)."
+            ]
+        },
+        {
+            "type": "section",
+            "title": "1. Primary Auxiliaries (Be, Have, Do)",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "ये क्रियाएँ काल (Tenses), प्रश्नवाचक वाक्य और नकार वाक्य बनाने में मदद करती हैं।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Uses & Examples",
+                        "headers": [
+                            "Verb Forms",
+                            "Use",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "<b>To Be</b><br>(am, is, are, was, were)",
+                                "Continuous Tense & Passive Voice",
+                                "She <b>is</b> writing.<br>The car <b>was</b> sold."
+                            ],
+                            [
+                                "<b>To Have</b><br>(has, have, had)",
+                                "Perfect Tenses",
+                                "I <b>have</b> finished my work.<br>He <b>had</b> gone."
+                            ],
+                            [
+                                "<b>To Do</b><br>(do, does, did)",
+                                "Questions & Negatives (Simple Tense)",
+                                "<b>Do</b> you play?<br>She <b>does not</b> know."
+                            ]
+                        ]
+                    }
+                },
+                {
+                    "type": "note",
+                    "content": "<b>To be + Infinitive:</b> पूर्व नियोजित योजना के लिए।<br>Example: I <b>am to go</b> to Mumbai tomorrow. (मुझे कल मुंबई जाना है।)"
+                },
+                {
+                    "type": "note",
+                    "content": "<b>Have to + V1:</b> अनिवार्यता (Compulsion) दर्शाने के लिए।<br>Example: I <b>have to finish</b> this today. (मुझे यह आज खत्म करना है।)"
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "2. Can vs Could",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>Can:</b> शक्ति, सामर्थ्य (वर्तमान), अनुमति।<br><b>Could:</b> शक्ति (भूतकाल), विनम्र निवेदन, संभावना।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Comparison",
+                        "headers": [
+                            "Usage",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Ability (Present)",
+                                "I <b>can</b> lift this box."
+                            ],
+                            [
+                                "Ability (Past)",
+                                "I <b>could</b> run fast when I was young."
+                            ],
+                            [
+                                "Polite Request",
+                                "<b>Could</b> you please help me? (Can से अधिक विनम्र)"
+                            ],
+                            [
+                                "Past Possibility (Could have + V3)",
+                                "He <b>could have won</b> the match (but he didn't)."
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "3. May vs Might",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>May:</b> अधिक संभावना, अनुमति, शुभकामना।<br><b>Might:</b> कम संभावना, May का भूतकाल।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Comparison",
+                        "headers": [
+                            "Usage",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Permission",
+                                "<b>May</b> I come in, Sir?"
+                            ],
+                            [
+                                "Possibility (Strong)",
+                                "It <b>may</b> rain today. (बादल हैं)"
+                            ],
+                            [
+                                "Possibility (Weak)",
+                                "It <b>might</b> rain today. (आसमान साफ है)"
+                            ],
+                            [
+                                "Wish / Prayer",
+                                "<b>May</b> God bless you!"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "4. Will vs Would",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>Will:</b> भविष्यकाल, निश्चय, वादा।<br><b>Would:</b> भूतकाल की आदत, निवेदन, पसंद।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Uses",
+                        "headers": [
+                            "Usage",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Future / Promise",
+                                "I <b>will</b> help you."
+                            ],
+                            [
+                                "Past Habit",
+                                "He <b>would</b> sit here for hours."
+                            ],
+                            [
+                                "Polite Offer/Request",
+                                "<b>Would</b> you like some tea?"
+                            ],
+                            [
+                                "Preference (Would rather)",
+                                "I <b>would rather</b> die than beg. (मैं भीख मांगने की बजाय मरना पसंद करूँगा।)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "5. Should, Ought to & Must",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": "<b>Should:</b> सलाह, कर्तव्य।<br><b>Ought to:</b> नैतिक कर्तव्य।<br><b>Must:</b> अनिवार्यता, मजबूरी।"
+                },
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Differences",
+                        "headers": [
+                            "Usage",
+                            "Example"
+                        ],
+                        "rows": [
+                            [
+                                "Advice / Duty (Should)",
+                                "You <b>should</b> work hard."
+                            ],
+                            [
+                                "Moral Duty (Ought to)",
+                                "We <b>ought to</b> respect elders."
+                            ],
+                            [
+                                "Compulsion (Must)",
+                                "You <b>must</b> follow the rules."
+                            ],
+                            [
+                                "Purpose (Lest... Should)",
+                                "Work hard <b>lest</b> you <b>should</b> fail. (कहीं ऐसा न हो कि तुम फेल हो जाओ।)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "section",
+            "title": "6. Special Auxiliaries (Need, Dare, Used to)",
+            "content": [
+                {
+                    "type": "table",
+                    "content": {
+                        "title": "Rules",
+                        "headers": [
+                            "Verb",
+                            "Usage & Example"
+                        ],
+                        "rows": [
+                            [
+                                "<b>Need</b> (आवश्यकता होना)",
+                                "Active: He <b>needs</b> to go.<br>Negative (Modal): He <b>need not</b> go."
+                            ],
+                            [
+                                "<b>Dare</b> (हिम्मत होना)",
+                                "How <b>dare</b> you speak like this?<br>He <b>dare not</b> oppose me."
+                            ],
+                            [
+                                "<b>Used to</b> (भूतकाल की आदत)",
+                                "I <b>used to</b> play cricket in childhood."
+                            ],
+                            [
+                                "<b>Had better</b> (सलाह)",
+                                "You <b>had better</b> consult a doctor. (तुम्हारे लिए डॉक्टर को दिखाना बेहतर होगा।)"
+                            ]
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

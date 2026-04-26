@@ -1,0 +1,76 @@
+{
+  "id": "level-6",
+  "title": "Time of Day",
+  "words": [
+    {
+      "word": "Morning",
+      "gujaratiPronunciation": "મોર્નિંગ",
+      "hindiPronunciation": "मॉर्निंग",
+      "gujaratiMeaning": "સવાર",
+      "hindiMeaning": "सुबह",
+      "exampleSentences": [
+        {
+          "sentence": "Good morning! Did you sleep well?",
+          "gujaratiTranslation": "સુપ્રભાત! તમે સારી રીતે સૂઈ ગયા?",
+          "hindiTranslation": "सुप्रभात! क्या आप अच्छे से सोये?"
+        }
+      ]
+    },
+    {
+      "word": "Afternoon",
+      "gujaratiPronunciation": "આફ્ટરનૂન",
+      "hindiPronunciation": "आफ्टरनून",
+      "gujaratiMeaning": "બપોર",
+      "hindiMeaning": "दोपहर",
+      "exampleSentences": [
+        {
+          "sentence": "We will have lunch in the afternoon.",
+          "gujaratiTranslation": "આપણે બપોરે ભોજન કરીશું.",
+          "hindiTranslation": "हम दोपहर में भोजन करेंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Evening",
+      "gujaratiPronunciation": "ઇવનિંગ",
+      "hindiPronunciation": "इवनिंग",
+      "gujaratiMeaning": "સાંજ",
+      "hindiMeaning": "शाम",
+      "exampleSentences": [
+        {
+          "sentence": "Let's go for a walk in the evening.",
+          "gujaratiTranslation": "ચાલો સાંજે ફરવા જઈએ.",
+          "hindiTranslation": "चलो शाम को टहलने चलें।"
+        }
+      ]
+    },
+    {
+      "word": "Night",
+      "gujaratiPronunciation": "નાઇટ",
+      "hindiPronunciation": "नाइट",
+      "gujaratiMeaning": "રાત્રિ",
+      "hindiMeaning": "रात",
+      "exampleSentences": [
+        {
+          "sentence": "It is very dark at night.",
+          "gujaratiTranslation": "રાત્રે ખૂબ અંધારું હોય છે.",
+          "hindiTranslation": "रात में बहुत अंधेरा होता है।"
+        }
+      ]
+    },
+    {
+      "word": "Midnight",
+      "gujaratiPronunciation": "મિડનાઇટ",
+      "hindiPronunciation": "मिडनाइट",
+      "gujaratiMeaning": "મધ્યરાત્રિ",
+      "hindiMeaning": "आधी रात",
+      "exampleSentences": [
+        {
+          "sentence": "The clock struck midnight.",
+          "gujaratiTranslation": "ઘડિયાળમાં મધ્યરાત્રિના બાર વાગ્યા.",
+          "hindiTranslation": "घड़ी में आधी रात के बारह बजे।"
+        }
+      ]
+    }
+  ]
+}

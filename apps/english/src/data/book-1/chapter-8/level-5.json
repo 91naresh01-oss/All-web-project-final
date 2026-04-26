@@ -1,0 +1,47 @@
+
+{
+  "id": "level-5",
+  "title": "Vegetables 5",
+  "words": [
+    {
+      "word": "Celery",
+      "icon": "🌱",
+      "gujaratiPronunciation": "સેલરી",
+      "hindiPronunciation": "सेलेरी",
+      "gujaratiMeaning": "સેલરી",
+      "hindiMeaning": "अजवाइन"
+    },
+    {
+      "word": "Asparagus",
+      "icon": "🌿",
+      "gujaratiPronunciation": "એસ્પરેગસ",
+      "hindiPronunciation": "एस्पेरेगस",
+      "gujaratiMeaning": "શતાવરી",
+      "hindiMeaning": "शतावरी"
+    },
+    {
+      "word": "Beetroot",
+      "icon": "🧅",
+      "gujaratiPronunciation": "બીટરૂટ",
+      "hindiPronunciation": "चुकंदर",
+      "gujaratiMeaning": "બીટ",
+      "hindiMeaning": "चुकंदर"
+    },
+    {
+      "word": "Capsicum",
+      "icon": "🫑",
+      "gujaratiPronunciation": "કેપ્સિકમ",
+      "hindiPronunciation": "कैप्सिकम",
+      "gujaratiMeaning": "કેપ્સિકમ (શિમલા મરચું)",
+      "hindiMeaning": "शिमला मिर्च"
+    },
+    {
+      "word": "Peas",
+      "icon": "🫛",
+      "gujaratiPronunciation": "પીઝ",
+      "hindiPronunciation": "पीज़",
+      "gujaratiMeaning": "વટાણા",
+      "hindiMeaning": "मटर"
+    }
+  ]
+}

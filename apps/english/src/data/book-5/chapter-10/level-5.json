@@ -1,0 +1,146 @@
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Conceive",
+            "gujaratiPronunciation": "કન્સીવ",
+            "hindiPronunciation": "कंसीव",
+            "gujaratiMeaning": "કલ્પના કરવી / ગર્ભધારણ કરવું",
+            "hindiMeaning": "कल्पना करना / गर्भ धारण करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Conceive", "gujaratiPronunciation": "કન્સીવ", "hindiPronunciation": "कंसीव", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" },
+                "v2": { "word": "Conceived", "gujaratiPronunciation": "કન્સીવ્ડ", "hindiPronunciation": "कंसीव्ड", "gujaratiMeaning": "કલ્પના કરી", "hindiMeaning": "कल्पना की" },
+                "v3": { "word": "Conceived", "gujaratiPronunciation": "કન્સીવ્ડ", "hindiPronunciation": "कंसीव्ड", "gujaratiMeaning": "કલ્પના કરેલી", "hindiMeaning": "कल्पना की हुई" },
+                "v4": { "word": "Conceiving", "gujaratiPronunciation": "કન્સીવિંગ", "hindiPronunciation": "कंसीविंग", "gujaratiMeaning": "કલ્પના કરી રહ્યું છે", "hindiMeaning": "कल्पना कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Imagine", "gujaratiPronunciation": "ઇમેજિન", "hindiPronunciation": "इमेजिन", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना" },
+                { "word": "Formulate", "gujaratiPronunciation": "ફોર્મ્યુલેટ", "hindiPronunciation": "फॉर्म्युलेट", "gujaratiMeaning": "રચના કરવી", "hindiMeaning": "तैयार करना" }
+            ],
+            "antonyms": [
+                { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Deceive", "gujaratiPronunciation": "ડિસીવ", "hindiPronunciation": "डिसीव", "gujaratiMeaning": "છેતરવું", "hindiMeaning": "धोखा देना", "difference": "Conceive એ કોઈ વિચાર કે યોજના બનાવવાની ક્રિયા છે, જ્યારે Deceive એ કોઈને છેતરવાની ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "It is hard to conceive of a world without technology.", "gujaratiPronunciation": "ઇટ ઇઝ હાર્ડ ટુ કન્સીવ ઓફ અ વર્લ્ડ વિધાઉટ ટેકનોલોજી.", "hindiPronunciation": "इट इज़ हार्ड टू कंसीव ऑफ अ वर्ल्ड विदाउट टेक्नोलॉजी।", "gujaratiTranslation": "ટેકનોલોજી વિનાની દુનિયાની કલ્પના કરવી મુશ્કેલ છે.", "hindiTranslation": "प्रौद्योगिकी के बिना दुनिया की कल्पना करना मुश्किल है।" }
+            ]
+        },
+        {
+            "word": "Scrutinize",
+            "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ",
+            "hindiPronunciation": "स्क्रूटिनाइज़",
+            "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસવું",
+            "hindiMeaning": "बारीकी से जांचना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Scrutinize", "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ", "hindiPronunciation": "स्क्रूटिनाइज़", "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસવું", "hindiMeaning": "बारीकी से जांचना" },
+                "v2": { "word": "Scrutinized", "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ્ડ", "hindiPronunciation": "स्क्रूटिनाइज़्ड", "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસ્યું", "hindiMeaning": "बारीकी से जांचा" },
+                "v3": { "word": "Scrutinized", "gujaratiPronunciation": "સ્ક્રુટિનાઇઝ્ડ", "hindiPronunciation": "स्क्रूटिनाइज़्ड", "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસેલું", "hindiMeaning": "बारीकी से जांचा हुआ" },
+                "v4": { "word": "Scrutinizing", "gujaratiPronunciation": "સ્ક્રુટિનાઇઝિંગ", "hindiPronunciation": "स्क्रूटिनाइज़िंग", "gujaratiMeaning": "સૂક્ષ્મ રીતે તપાસી રહ્યું છે", "hindiMeaning": "बारीकी से जांच रहा है" }
+            },
+            "synonyms": [
+                { "word": "Examine", "gujaratiPronunciation": "એક્ઝામિન", "hindiPronunciation": "एग्ज़ामिन", "gujaratiMeaning": "તપાસવું", "hindiMeaning": "जांचना" },
+                { "word": "Inspect", "gujaratiPronunciation": "ઇન્સ્પેક્ટ", "hindiPronunciation": "इंस्पेक्ट", "gujaratiMeaning": "નિરીક્ષણ કરવું", "hindiMeaning": "निरीक्षण करना" }
+            ],
+            "antonyms": [
+                { "word": "Glance", "gujaratiPronunciation": "ગ્લાન્સ", "hindiPronunciation": "ग्लान्स", "gujaratiMeaning": "નજર નાખવી", "hindiMeaning": "नज़र डालना" },
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Sanitize", "gujaratiPronunciation": "સેનિટાઇઝ", "hindiPronunciation": "सैनिटाइज़", "gujaratiMeaning": "જંતુમુક્ત કરવું", "hindiMeaning": "कीटाणुरहित करना", "difference": "Scrutinize એ કાળજીપૂર્વક તપાસવાની ક્રિયા છે, જ્યારે Sanitize એ સ્વચ્છ કરવાની ક્રિયા છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "The lawyer will scrutinize every detail of the contract.", "gujaratiPronunciation": "ધ લોયર વિલ સ્ક્રુટિનાઇઝ એવરી ડિટેલ ઓફ ધ કોન્ટ્રેક્ટ.", "hindiPronunciation": "द लॉयर विल स्क्रूटिनाइज़ एवरी डिटेल ऑफ द कॉन्ट्रैक्ट।", "gujaratiTranslation": "વકીલ કરારની દરેક વિગતની સૂક્ષ્મ રીતે તપાસ કરશે.", "hindiTranslation": "वकील अनुबंध के हर विवरण की बारीकी से जांच करेगा।" }
+            ]
+        },
+        {
+            "word": "Conclude",
+            "gujaratiPronunciation": "કન્ક્લુડ",
+            "hindiPronunciation": "कनक्लूड",
+            "gujaratiMeaning": "નિષ્કર્ષ કાઢવો / સમાપ્ત કરવું",
+            "hindiMeaning": "निष्कर्ष निकालना / समाप्त करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Conclude", "gujaratiPronunciation": "કન્ક્લુડ", "hindiPronunciation": "कनक्लूड", "gujaratiMeaning": "સમાપ્ત કરવું", "hindiMeaning": "समाप्त करना" },
+                "v2": { "word": "Concluded", "gujaratiPronunciation": "કન્ક્લુડેડ", "hindiPronunciation": "कनक्लूडेड", "gujaratiMeaning": "સમાપ્ત કર્યું", "hindiMeaning": "समाप्त किया" },
+                "v3": { "word": "Concluded", "gujaratiPronunciation": "કન્ક્લુડેડ", "hindiPronunciation": "कनक्लूडेड", "gujaratiMeaning": "સમાપ્ત કરેલું", "hindiMeaning": "समाप्त किया हुआ" },
+                "v4": { "word": "Concluding", "gujaratiPronunciation": "કન્ક્લુડિંગ", "hindiPronunciation": "कनक्लूडिंग", "gujaratiMeaning": "સમાપ્ત કરી રહ્યું છે", "hindiMeaning": "समाप्त कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Finish", "gujaratiPronunciation": "ફિનિશ", "hindiPronunciation": "फिनिश", "gujaratiMeaning": "પૂરું કરવું", "hindiMeaning": "पूरा करना" },
+                { "word": "Infer", "gujaratiPronunciation": "ઇન્ફર", "hindiPronunciation": "इन्फर", "gujaratiMeaning": "તારણ કાઢવું", "hindiMeaning": "निष्कर्ष निकालना" }
+            ],
+            "antonyms": [
+                { "word": "Begin", "gujaratiPronunciation": "બિગિન", "hindiPronunciation": "बिगिन", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" },
+                { "word": "Start", "gujaratiPronunciation": "સ્ટાર્ટ", "hindiPronunciation": "स्टार्ट", "gujaratiMeaning": "શરૂ કરવું", "hindiMeaning": "शुरू करना" }
+            ],
+            "confusingWords": [
+                { "word": "Include", "gujaratiPronunciation": "ઇન્ક્લુડ", "hindiPronunciation": "इन्क्लूड", "gujaratiMeaning": "સમાવેશ કરવો", "hindiMeaning": "शामिल करना", "difference": "Conclude એટલે અંત લાવવો, જ્યારે Include એટલે કોઈ વસ્તુનો સમાવેશ કરવો." }
+            ],
+            "exampleSentences": [
+                { "sentence": "The report concludes that the project was a success.", "gujaratiPronunciation": "ધ રિપોર્ટ કન્ક્લુડ્સ ધેટ ધ પ્રોજેક્ટ વોઝ અ સક્સેસ.", "hindiPronunciation": "द रिपोर्ट कनक्लूड्स दैट द प्रोजेक्ट वॉज़ अ सक्सेस।", "gujaratiTranslation": "અહેવાલ નિષ્કર્ષ કાઢે છે કે પ્રોજેક્ટ સફળ રહ્યો.", "hindiTranslation": "रिपोर्ट यह निष्कर्ष निकालती है कि परियोजना सफल रही।" }
+            ]
+        },
+        {
+            "word": "Define",
+            "gujaratiPronunciation": "ડિફાઇન",
+            "hindiPronunciation": "डिफाइन",
+            "gujaratiMeaning": "વ્યાખ્યાયિત કરવું",
+            "hindiMeaning": "परिभाषित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Define", "gujaratiPronunciation": "ડિફાઇન", "hindiPronunciation": "डिफाइन", "gujaratiMeaning": "વ્યાખ્યાયિત કરવું", "hindiMeaning": "परिभाषित करना" },
+                "v2": { "word": "Defined", "gujaratiPronunciation": "ડિફાઇન્ડ", "hindiPronunciation": "डिफाइंड", "gujaratiMeaning": "વ્યાખ્યાયિત કર્યું", "hindiMeaning": "परिभाषित किया" },
+                "v3": { "word": "Defined", "gujaratiPronunciation": "ડિફાઇન્ડ", "hindiPronunciation": "डिफाइंड", "gujaratiMeaning": "વ્યાખ્યાયિત કરેલું", "hindiMeaning": "परिभाषित किया हुआ" },
+                "v4": { "word": "Defining", "gujaratiPronunciation": "ડિફાઇનિંગ", "hindiPronunciation": "डिफाइनिंग", "gujaratiMeaning": "વ્યાખ્યાયિત કરી રહ્યું છે", "hindiMeaning": "परिभाषित कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Explain", "gujaratiPronunciation": "એક્સપ્લેન", "hindiPronunciation": "एक्सप्लेन", "gujaratiMeaning": "સમજાવવું", "hindiMeaning": "समझाना" },
+                { "word": "Describe", "gujaratiPronunciation": "ડિસ્ક્રાઇબ", "hindiPronunciation": "डिस्क्राइब", "gujaratiMeaning": "વર્ણન કરવું", "hindiMeaning": "वर्णन करना" }
+            ],
+            "antonyms": [
+                { "word": "Confuse", "gujaratiPronunciation": "કન્ફ્યુઝ", "hindiPronunciation": "कन्फ्यूज़", "gujaratiMeaning": "ગૂંચવવું", "hindiMeaning": "उलझाना" },
+                { "word": "Obscure", "gujaratiPronunciation": "ઓબ્સ્ક્યોર", "hindiPronunciation": "ऑब्स्क्योर", "gujaratiMeaning": "અસ્પષ્ટ કરવું", "hindiMeaning": "अस्पष्ट करना" }
+            ],
+            "confusingWords": [
+                { "word": "Refine", "gujaratiPronunciation": "રિફાઇન", "hindiPronunciation": "रिफाइन", "gujaratiMeaning": "શુદ્ધ કરવું", "hindiMeaning": "परिष्कृत करना", "difference": "Define એ કોઈ વસ્તુનો અર્થ સ્પષ્ટ કરવો છે, જ્યારે Refine એ કોઈ વસ્તુને વધુ સારી કે શુદ્ધ બનાવવી છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "Can you define the word 'logic'?", "gujaratiPronunciation": "કેન યુ ડિફાઇન ધ વર્ડ 'લોજિક'?", "hindiPronunciation": "कैन यू डिफाइन द वर्ड 'लॉजिक'?", "gujaratiTranslation": "શું તમે 'લોજિક' શબ્દને વ્યાખ્યાયિત કરી શકો છો?", "hindiTranslation": "क्या आप 'लॉजिक' शब्द को परिभाषित कर सकते हैं?" }
+            ]
+        },
+        {
+            "word": "Validate",
+            "gujaratiPronunciation": "વેલિડેટ",
+            "hindiPronunciation": "वैलिडेट",
+            "gujaratiMeaning": "માન્ય કરવું",
+            "hindiMeaning": "मान्य करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "v1": { "word": "Validate", "gujaratiPronunciation": "વેલિડેટ", "hindiPronunciation": "वैलिडेट", "gujaratiMeaning": "માન્ય કરવું", "hindiMeaning": "मान्य करना" },
+                "v2": { "word": "Validated", "gujaratiPronunciation": "વેલિડેટેડ", "hindiPronunciation": "वैलिडेटेड", "gujaratiMeaning": "માન્ય કર્યું", "hindiMeaning": "मान्य किया" },
+                "v3": { "word": "Validated", "gujaratiPronunciation": "વેલિડેટેડ", "hindiPronunciation": "वैलिडेटेड", "gujaratiMeaning": "માન્ય કરેલું", "hindiMeaning": "मान्य किया हुआ" },
+                "v4": { "word": "Validating", "gujaratiPronunciation": "વેલિડેટિંગ", "hindiPronunciation": "वैलिडेटिंग", "gujaratiMeaning": "માન્ય કરી રહ્યું છે", "hindiMeaning": "मान्य कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" },
+                { "word": "Approve", "gujaratiPronunciation": "અપ્રુવ", "hindiPronunciation": "अप्रूव", "gujaratiMeaning": "મંજૂર કરવું", "hindiMeaning": "मंजूर करना" }
+            ],
+            "antonyms": [
+                { "word": "Invalidate", "gujaratiPronunciation": "ઇનવેલિડેટ", "hindiPronunciation": "इनवैलिडेट", "gujaratiMeaning": "અમાન્ય કરવું", "hindiMeaning": "अमान्य करना" },
+                { "word": "Reject", "gujaratiPronunciation": "રિજેક્ટ", "hindiPronunciation": "रिजेक्ट", "gujaratiMeaning": "નકારવું", "hindiMeaning": "अस्वीकार करना" }
+            ],
+            "confusingWords": [
+                { "word": "Invalidate", "gujaratiPronunciation": "ઇનવેલિડેટ", "hindiPronunciation": "इनवैलिडेट", "gujaratiMeaning": "અમાન્ય કરવું", "hindiMeaning": "अमान्य करना", "difference": "Validate અને Invalidate એકબીજાના વિરોધી શબ્દો છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "You must validate your ticket before boarding the train.", "gujaratiPronunciation": "યુ મસ્ટ વેલિડેટ યોર ટિકિટ બિફોર બોર્ડિંગ ધ ટ્રેન.", "hindiPronunciation": "यू मस्ट वैलिडेट योर टिकट बिफोर बोर्डिंग द ट्रेन।", "gujaratiTranslation": "ટ્રેનમાં ચઢતા પહેલા તમારે તમારી ટિકિટ માન્ય કરાવવી જ પડશે.", "hindiTranslation": "ट्रेन में चढ़ने से पहले आपको अपना टिकट मान्य कराना होगा।" }
+            ]
+        }
+    ]
+}

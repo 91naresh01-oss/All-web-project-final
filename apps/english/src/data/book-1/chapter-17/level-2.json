@@ -1,0 +1,11 @@
+{
+    "id": "level-2",
+    "title": "Playtime 1",
+    "words": [
+        { "word": "Ball", "icon": "⚽", "gujaratiMeaning": "દડો", "hindiMeaning": "गेंद", "gujaratiPronunciation": "બૉલ", "hindiPronunciation": "बॉल" },
+        { "word": "Toy", "icon": "🧸", "gujaratiMeaning": "રમકડું", "hindiMeaning": "खिलौना", "gujaratiPronunciation": "ટૉય", "hindiPronunciation": "टॉय" },
+        { "word": "Game", "icon": "🎮", "gujaratiMeaning": "રમત", "hindiMeaning": "खेल", "gujaratiPronunciation": "ગેમ", "hindiPronunciation": "गेम" },
+        { "word": "Jump", "icon": "🤸", "gujaratiMeaning": "કૂદવું", "hindiMeaning": "कूदना", "gujaratiPronunciation": "જમ્પ", "hindiPronunciation": "जंप" },
+        { "word": "Run", "icon": "🏃", "gujaratiMeaning": "દોડવું", "hindiMeaning": "दौड़ना", "gujaratiPronunciation": "રન", "hindiPronunciation": "रन" }
+    ]
+}

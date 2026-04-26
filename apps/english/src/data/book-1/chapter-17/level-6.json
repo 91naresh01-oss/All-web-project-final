@@ -1,0 +1,11 @@
+{
+    "id": "level-6",
+    "title": "Creative Actions",
+    "words": [
+        { "word": "Compete", "icon": "⚔️", "gujaratiMeaning": "સ્પર્ધા કરવી", "hindiMeaning": "प्रतिस्पर्धा करना", "gujaratiPronunciation": "કમ્પીટ", "hindiPronunciation": "कम्पीट" },
+        { "word": "Celebrate", "icon": "🥳", "gujaratiMeaning": "ઉજવણી કરવી", "hindiMeaning": "जश्न मनाना", "gujaratiPronunciation": "સેલિબ્રેટ", "hindiPronunciation": "सेलिब्रेट" },
+        { "word": "Explore", "icon": "🧭", "gujaratiMeaning": "અન્વેષણ કરવું", "hindiMeaning": "खोजना", "gujaratiPronunciation": "એક્સપ્લોર", "hindiPronunciation": "एक्सप्लोर" },
+        { "word": "Imagine", "icon": "🤔", "gujaratiMeaning": "કલ્પના કરવી", "hindiMeaning": "कल्पना करना", "gujaratiPronunciation": "ઇમેજિન", "hindiPronunciation": "इमेजिन" },
+        { "word": "Perform", "icon": "🎤", "gujaratiMeaning": "પ્રદર્શન કરવું", "hindiMeaning": "प्रदर्शन करना", "gujaratiPronunciation": "પરફોર્મ", "hindiPronunciation": "परफॉर्म" }
+    ]
+}

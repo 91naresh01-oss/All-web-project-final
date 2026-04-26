@@ -1,0 +1,77 @@
+
+{
+  "id": "level-5",
+  "title": "Sports Concepts",
+  "words": [
+    {
+      "word": "Score",
+      "gujaratiPronunciation": "સ્કોર",
+      "hindiPronunciation": "स्कोर",
+      "gujaratiMeaning": "ગુણ/રન",
+      "hindiMeaning": "अंक/रन",
+      "exampleSentences": [
+        {
+          "sentence": "What is the final score?",
+          "gujaratiTranslation": "અંતિમ સ્કોર શું છે?",
+          "hindiTranslation": "अंतिम स्कोर क्या है?"
+        }
+      ]
+    },
+    {
+      "word": "Win",
+      "gujaratiPronunciation": "વિન",
+      "hindiPronunciation": "विन",
+      "gujaratiMeaning": "જીતવું",
+      "hindiMeaning": "जीतना",
+      "exampleSentences": [
+        {
+          "sentence": "Everyone wants to win the game.",
+          "gujaratiTranslation": "દરેક જણ રમત જીતવા માંગે છે.",
+          "hindiTranslation": "हर कोई खेल जीतना चाहता है।"
+        }
+      ]
+    },
+    {
+      "word": "Lose",
+      "gujaratiPronunciation": "લૂઝ",
+      "hindiPronunciation": "लूज़",
+      "gujaratiMeaning": "હારવું",
+      "hindiMeaning": "हारना",
+      "exampleSentences": [
+        {
+          "sentence": "It's okay to lose sometimes.",
+          "gujaratiTranslation": "ક્યારેક હારવું પણ ઠીક છે.",
+          "hindiTranslation": "कभी-कभी हारना भी ठीक है।"
+        }
+      ]
+    },
+    {
+      "word": "Compete",
+      "gujaratiPronunciation": "કમ્પીટ",
+      "hindiPronunciation": "कम्पीट",
+      "gujaratiMeaning": "સ્પર્ધા કરવી",
+      "hindiMeaning": "प्रतिस्पर्धा करना",
+      "exampleSentences": [
+        {
+          "sentence": "Athletes from all over the world compete in the Olympics.",
+          "gujaratiTranslation": "વિશ્વભરના એથ્લેટ્સ ઓલિમ્પિક્સમાં સ્પર્ધા કરે છે.",
+          "hindiTranslation": "दुनिया भर के एथलीट ओलंपिक में प्रतिस्पर्धा करते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Play",
+      "gujaratiPronunciation": "પ્લે",
+      "hindiPronunciation": "प्ले",
+      "gujaratiMeaning": "રમવું",
+      "hindiMeaning": "खेलना",
+      "exampleSentences": [
+        {
+          "sentence": "Children love to play in the park.",
+          "gujaratiTranslation": "બાળકોને પાર્કમાં રમવું ગમે છે.",
+          "hindiTranslation": "बच्चों को पार्क में खेलना पसंद है।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+
+{
+  "id": "level-4",
+  "title": "Weather Phenomena 1",
+  "words": [
+    {
+      "word": "Thunder",
+      "gujaratiPronunciation": "થંડર",
+      "hindiPronunciation": "थंडर",
+      "gujaratiMeaning": "ગર્જના",
+      "hindiMeaning": "गरज",
+      "exampleSentences": [
+        {
+          "sentence": "I heard the sound of thunder.",
+          "gujaratiTranslation": "મેં ગર્જનાનો અવાજ સાંભળ્યો.",
+          "hindiTranslation": "मैंने गरज की आवाज सुनी।"
+        }
+      ]
+    },
+    {
+      "word": "Lightning",
+      "gujaratiPronunciation": "લાઈટનિંગ",
+      "hindiPronunciation": "लाइटनिंग",
+      "gujaratiMeaning": "વીજળી",
+      "hindiMeaning": "बिजली",
+      "exampleSentences": [
+        {
+          "sentence": "A flash of lightning lit up the sky.",
+          "gujaratiTranslation": "વીજળીના ચમકારાથી આકાશ પ્રકાશિત થયું.",
+          "hindiTranslation": "बिजली की चमक से आसमान रोशन हो गया।"
+        }
+      ]
+    },
+    {
+      "word": "Rainbow",
+      "gujaratiPronunciation": "રેઈન્બો",
+      "hindiPronunciation": "रेनबो",
+      "gujaratiMeaning": "મેઘધનુષ્ય",
+      "hindiMeaning": "इंद्रधनुष",
+      "exampleSentences": [
+        {
+          "sentence": "We saw a beautiful rainbow after the rain.",
+          "gujaratiTranslation": "વરસાદ પછી અમે એક સુંદર મેઘધનુષ્ય જોયું.",
+          "hindiTranslation": "बारिश के बाद हमने एक सुंदर इंद्रधनुष देखा।"
+        }
+      ]
+    },
+    {
+      "word": "Fog",
+      "gujaratiPronunciation": "ફોગ",
+      "hindiPronunciation": "फॉग",
+      "gujaratiMeaning": "ધુમ્મસ",
+      "hindiMeaning": "कोहरा",
+      "exampleSentences": [
+        {
+          "sentence": "The road was covered in thick fog.",
+          "gujaratiTranslation": "રસ્તો ગાઢ ધુમ્મસથી ઢંકાયેલો હતો.",
+          "hindiTranslation": "सड़क घने कोहरे से ढकी हुई थी।"
+        }
+      ]
+    },
+    {
+      "word": "Hail",
+      "gujaratiPronunciation": "હેલ",
+      "hindiPronunciation": "हेल",
+      "gujaratiMeaning": "કરા",
+      "hindiMeaning": "ओले",
+      "exampleSentences": [
+        {
+          "sentence": "Hailstones were falling from the sky.",
+          "gujaratiTranslation": "આકાશમાંથી કરા પડી રહ્યા હતા.",
+          "hindiTranslation": "आसमान से ओले गिर रहे थे।"
+        }
+      ]
+    }
+  ]
+}

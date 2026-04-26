@@ -1,0 +1,361 @@
+{
+  "id": "level-1",
+  "title": "Level 1",
+  "words": [
+    {
+      "word": "Judge",
+      "gujaratiPronunciation": "જજ",
+      "hindiPronunciation": "जज",
+      "gujaratiMeaning": "ન્યાય કરવો",
+      "hindiMeaning": "न्याय करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Judge",
+          "gujaratiMeaning": "ન્યાય કરવો",
+          "hindiMeaning": "न्याय करना"
+        },
+        "V2 (Past)": {
+          "word": "Judged",
+          "gujaratiMeaning": "ન્યાય કર્યો",
+          "hindiMeaning": "न्याय किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Judged",
+          "gujaratiMeaning": "ન્યાય કરેલો",
+          "hindiMeaning": "न्याय किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Judging",
+          "gujaratiPronunciation": "જજિંગ",
+          "hindiPronunciation": "जजिंग",
+          "gujaratiMeaning": "ન્યાય કરી રહ્યું",
+          "hindiMeaning": "न्याय कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Evaluate",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "मूल्यांकन करना"
+        },
+        {
+          "word": "Assess",
+          "gujaratiMeaning": "આકારણી કરવી",
+          "hindiMeaning": "आकलन करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Ignore",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नज़रअंदाज़ करना"
+        },
+        {
+          "word": "Misjudge",
+          "gujaratiMeaning": "ખોટો ન્યાય કરવો",
+          "hindiMeaning": "गलत न्याय करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Fudge",
+          "gujaratiPronunciation": "ફજ",
+          "hindiPronunciation": "फज",
+          "gujaratiMeaning": "ગોટાળો",
+          "hindiMeaning": "गड़बड़"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The judge will deliver the verdict tomorrow.",
+          "gujaratiTranslation": "ન્યાયાધીશ આવતીકાલે ચુકાદો આપશે.",
+          "hindiTranslation": "न्यायाधीश कल फैसला सुनाएंगे।",
+          "gujaratiPronunciation": "ધ જજ વિલ ડિલિવર ધ વર્ડિક્ટ ટુમોરો.",
+          "hindiPronunciation": "द जज विल डिलिवर द वर्डिक्ट टुमॉरो।"
+        }
+      ]
+    },
+    {
+      "word": "Sue",
+      "gujaratiPronunciation": "સૂ",
+      "hindiPronunciation": "सू",
+      "gujaratiMeaning": "દાવો માંડવો",
+      "hindiMeaning": "मुकदमा करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Sue",
+          "gujaratiMeaning": "દાવો માંડવો",
+          "hindiMeaning": "मुकदमा करना"
+        },
+        "V2 (Past)": {
+          "word": "Sued",
+          "gujaratiMeaning": "દાવો માંડ્યો",
+          "hindiMeaning": "मुकदमा किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Sued",
+          "gujaratiMeaning": "દાવો માંડેલો",
+          "hindiMeaning": "मुकदमा किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Suing",
+          "gujaratiPronunciation": "સૂિંગ",
+          "hindiPronunciation": "सूिंग",
+          "gujaratiMeaning": "દાવો માંડી રહ્યું",
+          "hindiMeaning": "मुकदमा कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Prosecute",
+          "gujaratiMeaning": "અભિયોગ ચલાવવો",
+          "hindiMeaning": "अभियोग चलाना"
+        },
+        {
+          "word": "Litigate",
+          "gujaratiMeaning": "મુકદ્દમો લડવો",
+          "hindiMeaning": "मुकदमा लड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Forgive",
+          "gujaratiMeaning": "માફ કરવું",
+          "hindiMeaning": "माफ करना"
+        },
+        {
+          "word": "Settle",
+          "gujaratiMeaning": "સમાધાન કરવું",
+          "hindiMeaning": "समझौता करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sew",
+          "gujaratiMeaning": "સીવવું",
+          "hindiMeaning": "सिलना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She decided to sue the company for damages.",
+          "gujaratiTranslation": "તેણીએ નુકસાન માટે કંપની પર દાવો માંડવાનું નક્કી કર્યું.",
+          "hindiTranslation": "उसने हर्जाने के लिए कंपनी पर मुकदमा करने का फैसला किया।",
+          "gujaratiPronunciation": "શી ડિસાઇડેડ ટુ સૂ ધ કંપની ફોર ડેમેજીસ.",
+          "hindiPronunciation": "शी डिसाइडेड टू सू द कंपनी फॉर डैमेजेज़।"
+        }
+      ]
+    },
+    {
+      "word": "Arrest",
+      "gujaratiPronunciation": "અરેસ્ટ",
+      "hindiPronunciation": "अरेस्ट",
+      "gujaratiMeaning": "ધરપકડ કરવી",
+      "hindiMeaning": "गिरफ्तार करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Arrest",
+          "gujaratiMeaning": "ધરપકડ કરવી",
+          "hindiMeaning": "गिरफ्तार करना"
+        },
+        "V2 (Past)": {
+          "word": "Arrested",
+          "gujaratiMeaning": "ધરપકડ કરી",
+          "hindiMeaning": "गिरफ्तार किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Arrested",
+          "gujaratiMeaning": "ધરપકડ કરેલી",
+          "hindiMeaning": "गिरफ्तार किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Arresting",
+          "gujaratiPronunciation": "અરેસ્ટિંગ",
+          "hindiPronunciation": "अरेस्टिंग",
+          "gujaratiMeaning": "ધરપકડ કરી રહ્યું",
+          "hindiMeaning": "गिरफ्तार कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Detain",
+          "gujaratiMeaning": "અટકાયત કરવી",
+          "hindiMeaning": "हिरासत में लेना"
+        },
+        {
+          "word": "Apprehend",
+          "gujaratiMeaning": "પકડવું",
+          "hindiMeaning": "पकड़ना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Release",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ देना"
+        },
+        {
+          "word": "Free",
+          "gujaratiMeaning": "મુક્ત કરવું",
+          "hindiMeaning": "आज़ाद करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "A rest",
+          "gujaratiMeaning": "એક આરામ",
+          "hindiMeaning": "एक आराम"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The police arrested the suspect last night.",
+          "gujaratiTranslation": "પોલીસે ગઈકાલે રાત્રે શંકાસ્પદની ધરપકડ કરી.",
+          "hindiTranslation": "पुलिस ने कल रात संदिग्ध को गिरफ्तार कर लिया।",
+          "gujaratiPronunciation": "ધ પોલીસ અરેસ્ટેડ ધ સસ્પેક્ટ લાસ્ટ નાઇટ.",
+          "hindiPronunciation": "द पुलिस अरेस्टेड द सस्पेक्ट लास्ट नाइट।"
+        }
+      ]
+    },
+    {
+      "word": "Obey",
+      "gujaratiPronunciation": "ઓબે",
+      "hindiPronunciation": "ओबे",
+      "gujaratiMeaning": "આજ્ઞાનું પાલન કરવું",
+      "hindiMeaning": "आज्ञा का पालन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Obey",
+          "gujaratiMeaning": "પાલન કરવું",
+          "hindiMeaning": "पालन करना"
+        },
+        "V2 (Past)": {
+          "word": "Obeyed",
+          "gujaratiMeaning": "પાલન કર્યું",
+          "hindiMeaning": "पालन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Obeyed",
+          "gujaratiMeaning": "પાલન કરેલું",
+          "hindiMeaning": "पालन किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Obeying",
+          "gujaratiPronunciation": "ઓબેિંગ",
+          "hindiPronunciation": "ओबेिंग",
+          "gujaratiMeaning": "પાલન કરી રહ્યું",
+          "hindiMeaning": "पालन कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Comply",
+          "gujaratiMeaning": "પાલન કરવું",
+          "hindiMeaning": "पालन करना"
+        },
+        {
+          "word": "Follow",
+          "gujaratiMeaning": "અનુસરવું",
+          "hindiMeaning": "अनुसरण करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Disobey",
+          "gujaratiMeaning": "અવજ્ઞા કરવી",
+          "hindiMeaning": "अवज्ञा करना"
+        },
+        {
+          "word": "Defy",
+          "gujaratiMeaning": "ઉલ્લંઘન કરવું",
+          "hindiMeaning": "उल्लंघन करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Abbey",
+          "gujaratiPronunciation": "એબી",
+          "hindiPronunciation": "एबी",
+          "gujaratiMeaning": "મઠ",
+          "hindiMeaning": "मठ"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You must obey the law.",
+          "gujaratiTranslation": "તમારે કાયદાનું પાલન કરવું જ જોઈએ.",
+          "hindiTranslation": "आपको कानून का पालन करना होगा।",
+          "gujaratiPronunciation": "યુ મસ્ટ ઓબે ધ લો.",
+          "hindiPronunciation": "यू मस्ट ओबे द लॉ।"
+        }
+      ]
+    },
+    {
+      "word": "Witness",
+      "gujaratiPronunciation": "વિટનેસ",
+      "hindiPronunciation": "विटनेस",
+      "gujaratiMeaning": "સાક્ષી બનવું",
+      "hindiMeaning": "गवाह बनना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Witness",
+          "gujaratiMeaning": "સાક્ષી બનવું",
+          "hindiMeaning": "गवाह बनना"
+        },
+        "V2 (Past)": {
+          "word": "Witnessed",
+          "gujaratiMeaning": "સાક્ષી બન્યા",
+          "hindiMeaning": "गवाह बने"
+        },
+        "V3 (Past Participle)": {
+          "word": "Witnessed",
+          "gujaratiMeaning": "સાક્ષી બનેલા",
+          "hindiMeaning": "गवाह बने हुए"
+        },
+        "V4 (Present Participle)": {
+          "word": "Witnessing",
+          "gujaratiPronunciation": "વિટનેસિંગ",
+          "hindiPronunciation": "विटनेसिंग",
+          "gujaratiMeaning": "સાક્ષી બની રહ્યું",
+          "hindiMeaning": "गवाह बन रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Observe",
+          "gujaratiMeaning": "નિરીક્ષણ કરવું",
+          "hindiMeaning": "देखना"
+        },
+        {
+          "word": "See",
+          "gujaratiMeaning": "જોવું",
+          "hindiMeaning": "देखना"
+        }
+      ],
+      "antonyms": [],
+      "confusingWords": [
+        {
+          "word": "Whiteness",
+          "gujaratiPronunciation": "વ્હાઇટનેસ",
+          "hindiPronunciation": "व्हाइटनेस",
+          "gujaratiMeaning": "સફેદપણું",
+          "hindiMeaning": "सफेदी"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He witnessed the accident on his way home.",
+          "gujaratiTranslation": "તેણે ઘરે જતા સમયે અકસ્માત જોયો.",
+          "hindiTranslation": "उसने घर जाते समय दुर्घटना देखी।",
+          "gujaratiPronunciation": "હી વિટનેસ્ડ ધ એક્સિડન્ટ ઓન હિસ વે હોમ.",
+          "hindiPronunciation": "ही विटनेस्ड द एक्सीडेंट ऑन हिज़ वे होम।"
+        }
+      ]
+    }
+  ]
+}

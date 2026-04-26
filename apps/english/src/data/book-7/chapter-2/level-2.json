@@ -1,0 +1,372 @@
+
+{
+    "id": "level-2",
+    "title": "Level 2",
+    "words": [
+        {
+            "word": "Compile",
+            "gujaratiPronunciation": "કમ્પાઇલ",
+            "hindiPronunciation": "कंपाइल",
+            "gujaratiMeaning": "સંકલન કરવું",
+            "hindiMeaning": "संकलित करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Compile",
+                    "pronunciation": "કમ્પાઇલ",
+                    "meaning": "સંકલન કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Compiled",
+                    "pronunciation": "કમ્પાઇલ્ડ",
+                    "meaning": "સંકલન કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Compiled",
+                    "pronunciation": "કમ્પાઇલ્ડ",
+                    "meaning": "સંકલન કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Compiling",
+                    "pronunciation": "કમ્પાઇલિંગ",
+                    "meaning": "સંકલન કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Gather",
+                    "pronunciation": "ગેધર",
+                    "meaning": "ભેગું કરવું"
+                },
+                {
+                    "word": "Collect",
+                    "pronunciation": "કલેક્ટ",
+                    "meaning": "એકત્ર કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Disperse",
+                    "pronunciation": "ડિસ્પર્સ",
+                    "meaning": "વિખેરવું"
+                },
+                {
+                    "word": "Separate",
+                    "pronunciation": "સેપરેટ",
+                    "meaning": "અલગ કરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Comply",
+                    "pronunciation": "કમ્પ્લાય",
+                    "meaning": "પાલન કરવું"
+                },
+                {
+                    "word": "Complete",
+                    "pronunciation": "કમ્પ્લીટ",
+                    "meaning": "પૂર્ણ કરવું"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The researcher will compile the data into a single report.",
+                    "gujaratiTranslation": "સંશોધક ડેટાને એક જ રિપોર્ટમાં સંકલિત કરશે.",
+                    "hindiTranslation": "शोधकर्ता डेटा को एक ही रिपोर्ट में संकलित करेगा।"
+                }
+            ]
+        },
+        {
+            "word": "Validate",
+            "gujaratiPronunciation": "વેલિડેટ",
+            "hindiPronunciation": "वैलिडेट",
+            "gujaratiMeaning": "માન્ય કરવું",
+            "hindiMeaning": "मान्य करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Validate",
+                    "pronunciation": "વેલિડેટ",
+                    "meaning": "માન્ય કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Validated",
+                    "pronunciation": "વેલિડેટેડ",
+                    "meaning": "માન્ય કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Validated",
+                    "pronunciation": "વેલિડેટેડ",
+                    "meaning": "માન્ય કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Validating",
+                    "pronunciation": "વેલિડેટિંગ",
+                    "meaning": "માન્ય કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Confirm",
+                    "pronunciation": "કન્ફર્મ",
+                    "meaning": "પુષ્ટિ કરવી"
+                },
+                {
+                    "word": "Verify",
+                    "pronunciation": "વેરિફાય",
+                    "meaning": "ચકાસણી કરવી"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Invalidate",
+                    "pronunciation": "ઇનવેલિડેટ",
+                    "meaning": "અમાન્ય કરવું"
+                },
+                {
+                    "word": "Disprove",
+                    "pronunciation": "ડિસપ્રૂવ",
+                    "meaning": "ખોટું સાબિત કરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Vacate",
+                    "pronunciation": "વેકેટ",
+                    "meaning": "ખાલી કરવું"
+                },
+                {
+                    "word": "Violate",
+                    "pronunciation": "વાયોલેટ",
+                    "meaning": "ઉલ્લંઘન કરવું"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "You must validate your email address to activate the account.",
+                    "gujaratiTranslation": "ખાતું સક્રિય કરવા માટે તમારે તમારા ઇમેઇલ સરનામાને માન્ય કરવું આવશ્યક છે.",
+                    "hindiTranslation": "खाता सक्रिय करने के लिए आपको अपना ईमेल पता मान्य करना होगा।"
+                }
+            ]
+        },
+        {
+            "word": "Cross-reference",
+            "gujaratiPronunciation": "ક્રોસ-રેફરન્સ",
+            "hindiPronunciation": "क्रॉस-रेफरेंस",
+            "gujaratiMeaning": "પારસ્પરિક સંદર્ભ તપાસવો",
+            "hindiMeaning": "पारस्परिक संदर्भ जांचना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Cross-reference",
+                    "pronunciation": "ક્રોસ-રેફરન્સ",
+                    "meaning": "પારસ્પરિક સંદર્ભ તપાસવો"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Cross-referenced",
+                    "pronunciation": "ક્રોસ-રેફરન્સ્ડ",
+                    "meaning": "પારસ્પરિક સંદર્ભ તપાસ્યો"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Cross-referenced",
+                    "pronunciation": "ક્રોસ-રેફરન્સ્ડ",
+                    "meaning": "પારસ્પરિક સંદર્ભ તપાસેલો"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Cross-referencing",
+                    "pronunciation": "ક્રોસ-રેફરન્સિંગ",
+                    "meaning": "પારસ્પરિક સંદર્ભ તપાસી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Compare",
+                    "pronunciation": "કમ્પેર",
+                    "meaning": "સરખામણી કરવી"
+                },
+                {
+                    "word": "Correlate",
+                    "pronunciation": "કોરિલેટ",
+                    "meaning": "સહસંબંધ સ્થાપિત કરવો"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Isolate",
+                    "pronunciation": "આઇસોલેટ",
+                    "meaning": "અલગ કરવું"
+                },
+                {
+                    "word": "Ignore",
+                    "pronunciation": "ઇગ્નોર",
+                    "meaning": "અવગણવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Crossroads",
+                    "pronunciation": "ક્રોસરોડ્સ",
+                    "meaning": "ચોક"
+                },
+                {
+                    "word": "Reference",
+                    "pronunciation": "રેફરન્સ",
+                    "meaning": "સંદર્ભ"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "I need to cross-reference these sales figures with our inventory records.",
+                    "gujaratiTranslation": "મારે આ વેચાણના આંકડાઓને અમારા ઇન્વેન્ટરી રેકોર્ડ્સ સાથે પારસ્પરિક સંદર્ભમાં તપાસવાની જરૂર છે.",
+                    "hindiTranslation": "मुझे इन बिक्री के आँकड़ों को हमारे इन्वेंट्री रिकॉर्ड के साथ क्रॉस-रेफरेंस करने की आवश्यकता है।"
+                }
+            ]
+        },
+        {
+            "word": "Interpret",
+            "gujaratiPronunciation": "ઇન્ટરપ્રિટ",
+            "hindiPronunciation": "इंटरप्रेट",
+            "gujaratiMeaning": "અર્થઘટન કરવું",
+            "hindiMeaning": "व्याख्या करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Interpret",
+                    "pronunciation": "ઇન્ટરપ્રિટ",
+                    "meaning": "અર્થઘટન કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Interpreted",
+                    "pronunciation": "ઇન્ટરપ્રિટેડ",
+                    "meaning": "અર્થઘટન કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Interpreted",
+                    "pronunciation": "ઇન્ટરપ્રિટેડ",
+                    "meaning": "અર્થઘટન કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Interpreting",
+                    "pronunciation": "ઇન્ટરપ્રિટિંગ",
+                    "meaning": "અર્થઘટન કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Explain",
+                    "pronunciation": "એક્સપ્લેન",
+                    "meaning": "સમજાવવું"
+                },
+                {
+                    "word": "Understand",
+                    "pronunciation": "અન્ડરસ્ટેન્ડ",
+                    "meaning": "સમજવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Misinterpret",
+                    "pronunciation": "મિસઇન્ટરપ્રિટ",
+                    "meaning": "ખોટું અર્થઘટન કરવું"
+                },
+                {
+                    "word": "Confuse",
+                    "pronunciation": "કન્ફ્યુઝ",
+                    "meaning": "ગૂંચવવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Interrupt",
+                    "pronunciation": "ઇન્ટરપ્ટ",
+                    "meaning": "વિક્ષેપ કરવો"
+                },
+                {
+                    "word": "Pretend",
+                    "pronunciation": "પ્રિટેન્ડ",
+                    "meaning": "ઢોંગ કરવો"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The analyst's job is to interpret complex data for the team.",
+                    "gujaratiTranslation": "વિશ્લેષકનું કામ ટીમ માટે જટિલ ડેટાનું અર્થઘટન કરવાનું છે.",
+                    "hindiTranslation": "विश्लेषक का काम टीम के लिए जटिल डेटा की व्याख्या करना है।"
+                }
+            ]
+        },
+        {
+            "word": "Distill",
+            "gujaratiPronunciation": "ડિસ્ટિલ",
+            "hindiPronunciation": "डिस्टिल",
+            "gujaratiMeaning": "નિસ્યંદન કરવું",
+            "hindiMeaning": "आसवन करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Base)": {
+                    "word": "Distill",
+                    "pronunciation": "ડિસ્ટિલ",
+                    "meaning": "નિસ્યંદન કરવું"
+                },
+                "V2 (Past Simple)": {
+                    "word": "Distilled",
+                    "pronunciation": "ડિસ્ટિલ્ડ",
+                    "meaning": "નિસ્યંદન કર્યું"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Distilled",
+                    "pronunciation": "ડિસ્ટિલ્ડ",
+                    "meaning": "નિસ્યંદન કરેલું"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Distilling",
+                    "pronunciation": "ડિસ્ટિલિંગ",
+                    "meaning": "નિસ્યંદન કરી રહ્યું છે"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Extract",
+                    "pronunciation": "એક્સટ્રેક્ટ",
+                    "meaning": "અર્ક કાઢવો"
+                },
+                {
+                    "word": "Purify",
+                    "pronunciation": "પ્યુરિફાય",
+                    "meaning": "શુદ્ધ કરવું"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Contaminate",
+                    "pronunciation": "કન્ટેમિનેટ",
+                    "meaning": "દૂષિત કરવું"
+                },
+                {
+                    "word": "Dilute",
+                    "pronunciation": "ડાઇલ્યુટ",
+                    "meaning": "પાતળું કરવું"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Distant",
+                    "pronunciation": "ડિસ્ટન્ટ",
+                    "meaning": "દૂરનું"
+                },
+                {
+                    "word": "Still",
+                    "pronunciation": "સ્ટિલ",
+                    "meaning": "હજી પણ"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She managed to distill the complex report into a single-page summary.",
+                    "gujaratiTranslation": "તેણી જટિલ રિપોર્ટને એક પાનાના સારાંશમાં નિસ્યંદિત કરવામાં સફળ રહી.",
+                    "hindiTranslation": "वह जटिल रिपोर्ट को एक-पृष्ठ के सारांश में आसवित करने में कामयाब रही।"
+                }
+            ]
+        }
+    ]
+}

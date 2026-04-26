@@ -1,0 +1,11 @@
+{
+    "id": "level-3",
+    "title": "Winter & Night Wear",
+    "words": [
+        { "word": "Sweater", "icon": "🧶", "gujaratiMeaning": "સ્વેટર", "hindiMeaning": "स्वेटर", "gujaratiPronunciation": "સ્વેટર", "hindiPronunciation": "स्वेटर" },
+        { "word": "Scarf", "icon": "🧣", "gujaratiMeaning": "સ્કાર્ફ", "hindiMeaning": " दुपट्टा", "gujaratiPronunciation": "સ્કાર્ફ", "hindiPronunciation": "स्कार्फ" },
+        { "word": "Gloves", "icon": "🧤", "gujaratiMeaning": "હાથમોજાં", "hindiMeaning": "दस्ताने", "gujaratiPronunciation": "ગ્લવ્ઝ", "hindiPronunciation": "ग्लव्स" },
+        { "word": "Belt", "icon": "🎀", "gujaratiMeaning": "પટ્ટો", "hindiMeaning": "बेल्ट", "gujaratiPronunciation": "બેલ્ટ", "hindiPronunciation": "बेल्ट" },
+        { "word": "Pajamas", "icon": "🛏️", "gujaratiMeaning": "પાયજામા", "hindiMeaning": "पायजामा", "gujaratiPronunciation": "પાયજામા", "hindiPronunciation": "पायजामा" }
+    ]
+}

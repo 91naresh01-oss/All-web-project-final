@@ -1,0 +1,47 @@
+
+{
+    "id": "level-5",
+    "title": "Colors 5",
+    "words": [
+        {
+            "word": "Turquoise",
+            "icon": "💠",
+            "gujaratiPronunciation": "ટરકોઇઝ",
+            "hindiPronunciation": "टरकॉइज़",
+            "gujaratiMeaning": "ફીરોજી",
+            "hindiMeaning": "फिरोजी"
+        },
+        {
+            "word": "Magenta",
+            "icon": "🌺",
+            "gujaratiPronunciation": "મજેન્ટા",
+            "hindiPronunciation": "मजेंटा",
+            "gujaratiMeaning": "ઘેરો ગુલાબી",
+            "hindiMeaning": "गहरा गुलाबी"
+        },
+        {
+            "word": "Cyan",
+            "icon": "💧",
+            "gujaratiPronunciation": "સાયન",
+            "hindiPronunciation": "स्यान",
+            "gujaratiMeaning": "મોરપીંછ",
+            "hindiMeaning": "मोरपंखी"
+        },
+        {
+            "word": "Lavender",
+            "icon": "🌿",
+            "gujaratiPronunciation": "લવેન્ડર",
+            "hindiPronunciation": "लैवेंडर",
+            "gujaratiMeaning": "આછો જાંબલી",
+            "hindiMeaning": "हल्का बैंगनी"
+        },
+        {
+            "word": "Crimson",
+            "icon": "❤️",
+            "gujaratiPronunciation": "ક્રિમસન",
+            "hindiPronunciation": "क्रिमसन",
+            "gujaratiMeaning": "ઘેરો લાલ",
+            "hindiMeaning": "गहरा लाल"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+
+{
+  "id": "level-4",
+  "title": "Geography 1",
+  "words": [
+    {
+      "word": "Hill",
+      "icon": "⛰️",
+      "gujaratiPronunciation": "હિલ",
+      "hindiPronunciation": "हिल",
+      "gujaratiMeaning": "પહાડી",
+      "hindiMeaning": "पहाड़ी"
+    },
+    {
+      "word": "Valley",
+      "icon": "🏞️",
+      "gujaratiPronunciation": "વેલી",
+      "hindiPronunciation": "वैली",
+      "gujaratiMeaning": "ખીણ",
+      "hindiMeaning": "घाटी"
+    },
+    {
+      "word": "Lake",
+      "icon": "🏞️",
+      "gujaratiPronunciation": "લેક",
+      "hindiPronunciation": "लेक",
+      "gujaratiMeaning": "સરોવર",
+      "hindiMeaning": "झील"
+    },
+    {
+      "word": "Sand",
+      "icon": "🏖️",
+      "gujaratiPronunciation": "સેન્ડ",
+      "hindiPronunciation": "सैंड",
+      "gujaratiMeaning": "રેતી",
+      "hindiMeaning": "रेत"
+    },
+    {
+      "word": "Cave",
+      "icon": "🕳️",
+      "gujaratiPronunciation": "કેવ",
+      "hindiPronunciation": "केव",
+      "gujaratiMeaning": "ગુફા",
+      "hindiMeaning": "गुफा"
+    }
+  ]
+}

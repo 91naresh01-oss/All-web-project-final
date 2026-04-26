@@ -1,0 +1,77 @@
+
+{
+  "id": "level-1",
+  "title": "Professions 1",
+  "words": [
+    {
+      "word": "Doctor",
+      "gujaratiPronunciation": "ડૉક્ટર",
+      "hindiPronunciation": "डॉक्टर",
+      "gujaratiMeaning": "ડૉક્ટર",
+      "hindiMeaning": "चिकित्सक",
+      "exampleSentences": [
+        {
+          "sentence": "The doctor is treating the patient.",
+          "gujaratiTranslation": "ડૉક્ટર દર્દીની સારવાર કરી રહ્યા છે.",
+          "hindiTranslation": "डॉक्टर मरीज का इलाज कर रहे हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Teacher",
+      "gujaratiPronunciation": "ટીચર",
+      "hindiPronunciation": "टीचर",
+      "gujaratiMeaning": "શિક્ષક",
+      "hindiMeaning": "शिक्षक",
+      "exampleSentences": [
+        {
+          "sentence": "A teacher teaches students in school.",
+          "gujaratiTranslation": "શિક્ષક શાળામાં વિદ્યાર્થીઓને ભણાવે છે.",
+          "hindiTranslation": "शिक्षक स्कूल में छात्रों को पढ़ाते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Farmer",
+      "gujaratiPronunciation": "ફાર્મર",
+      "hindiPronunciation": "फार्मर",
+      "gujaratiMeaning": "ખેડૂત",
+      "hindiMeaning": "किसान",
+      "exampleSentences": [
+        {
+          "sentence": "The farmer grows crops in the field.",
+          "gujaratiTranslation": "ખેડૂત ખેતરમાં પાક ઉગાડે છે.",
+          "hindiTranslation": "किसान खेत में फसल उगाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Driver",
+      "gujaratiPronunciation": "ડ્રાઈવર",
+      "hindiPronunciation": "ड्राइवर",
+      "gujaratiMeaning": "ડ્રાઈવર",
+      "hindiMeaning": "चालक",
+      "exampleSentences": [
+        {
+          "sentence": "The bus driver drives carefully.",
+          "gujaratiTranslation": "બસ ડ્રાઈવર કાળજીપૂર્વક ચલાવે છે.",
+          "hindiTranslation": "बस चालक सावधानी से चलाता है।"
+        }
+      ]
+    },
+    {
+      "word": "Nurse",
+      "gujaratiPronunciation": "નર્સ",
+      "hindiPronunciation": "नर्स",
+      "gujaratiMeaning": "નર્સ",
+      "hindiMeaning": "नर्स",
+      "exampleSentences": [
+        {
+          "sentence": "The nurse helps the doctor.",
+          "gujaratiTranslation": "નર્સ ડૉક્ટરને મદદ કરે છે.",
+          "hindiTranslation": "नर्स डॉक्टर की मदद करती है।"
+        }
+      ]
+    }
+  ]
+}

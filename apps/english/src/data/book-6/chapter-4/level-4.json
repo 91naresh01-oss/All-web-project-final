@@ -1,0 +1,481 @@
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Standardize",
+      "gujaratiPronunciation": "સ્ટાન્ડર્ડાઇઝ",
+      "hindiPronunciation": "स्टैंडर्डाइज़",
+      "gujaratiMeaning": "માનકીકરણ કરવું",
+      "hindiMeaning": "मानकीकरण करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Standardize",
+          "gujaratiPronunciation": "સ્ટાન્ડર્ડાઇઝ",
+          "hindiPronunciation": "स्टैंडर्डाइज़",
+          "gujaratiMeaning": "માનકીકરણ કરવું",
+          "hindiMeaning": "मानकीकरण करना"
+        },
+        "V2 (Past)": {
+          "word": "Standardized",
+          "gujaratiPronunciation": "સ્ટાન્ડર્ડાઇઝ્ડ",
+          "hindiPronunciation": "स्टैंडर्डाइज़्ड",
+          "gujaratiMeaning": "માનકીકરણ કર્યું",
+          "hindiMeaning": "मानकीकरण किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Standardized",
+          "gujaratiPronunciation": "સ્ટાન્ડર્ડાઇઝ્ડ",
+          "hindiPronunciation": "स्टैंडर्डाइज़्ड",
+          "gujaratiMeaning": "માનકીકરણ કરેલું",
+          "hindiMeaning": "मानकीकृत"
+        },
+        "V4 (Present Participle)": {
+          "word": "Standardizing",
+          "gujaratiPronunciation": "સ્ટાન્ડર્ડાઇઝિંગ",
+          "hindiPronunciation": "स्टैंडर्डाइज़िंग",
+          "gujaratiMeaning": "માનકીકરણ કરી રહ્યું છે",
+          "hindiMeaning": "मानकीकरण कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Normalize",
+          "gujaratiPronunciation": "નોર્મલાઇઝ",
+          "hindiPronunciation": "नॉर्मलाइज़",
+          "gujaratiMeaning": "સામાન્ય કરવું",
+          "hindiMeaning": "सामान्य बनाना"
+        },
+        {
+          "word": "Systematize",
+          "gujaratiPronunciation": "સિસ્ટેમેટાઇઝ",
+          "hindiPronunciation": "सिस्टमेटाइज़",
+          "gujaratiMeaning": "વ્યવસ્થિત કરવું",
+          "hindiMeaning": "व्यवस्थित करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Vary",
+          "gujaratiPronunciation": "વેરી",
+          "hindiPronunciation": "वैरी",
+          "gujaratiMeaning": "બદલવું",
+          "hindiMeaning": "बदलना"
+        },
+        {
+          "word": "Disorganize",
+          "gujaratiPronunciation": "ડિસઓર્ગેનાઇઝ",
+          "hindiPronunciation": "डिसऑर्गेनाइज़",
+          "gujaratiMeaning": "અસ્તવ્યસ્ત કરવું",
+          "hindiMeaning": "अस्त-व्यस्त करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Standard",
+          "gujaratiPronunciation": "સ્ટાન્ડર્ડ",
+          "hindiPronunciation": "स्टैंडर्ड",
+          "gujaratiMeaning": "ધોરણ, માપદંડ",
+          "hindiMeaning": "मानक, स्तर"
+        },
+        {
+          "word": "Stand",
+          "gujaratiPronunciation": "સ્ટેન્ડ",
+          "hindiPronunciation": "स्टैंड",
+          "gujaratiMeaning": "ઊભા રહેવું",
+          "hindiMeaning": "खड़ा होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The company decided to standardize its procedures to improve efficiency.",
+          "gujaratiPronunciation": "ધ કંપની ડિસાઇડેડ ટુ સ્ટાન્ડર્ડાઇઝ ઇટ્સ પ્રોસિજર્સ ટુ ઇમ્પ્રૂવ એફિશિયન્સી.",
+          "hindiPronunciation": "द कंपनी डिसाइडेड टू स्टैंडर्डाइज़ इट्स प्रोसीजर्स टू इम्प्रूव एफिशिएंसी।",
+          "gujaratiMeaning": "કાર્યક્ષમતા સુધારવા માટે કંપનીએ તેની પ્રક્રિયાઓનું માનકીકરણ કરવાનું નક્કી કર્યું.",
+          "hindiMeaning": "कंपनी ने दक्षता में सुधार के लिए अपनी प्रक्रियाओं का मानकीकरण करने का निर्णय लिया।"
+        }
+      ]
+    },
+    {
+      "word": "Evaluate",
+      "gujaratiPronunciation": "ઇવેલ્યુએટ",
+      "hindiPronunciation": "इवैल्यूएट",
+      "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+      "hindiMeaning": "मूल्यांकन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Evaluate",
+          "gujaratiPronunciation": "ઇવેલ્યુએટ",
+          "hindiPronunciation": "इवैल्यूएट",
+          "gujaratiMeaning": "મૂલ્યાંકન કરવું",
+          "hindiMeaning": "मूल्यांकन करना"
+        },
+        "V2 (Past)": {
+          "word": "Evaluated",
+          "gujaratiPronunciation": "ઇવેલ્યુએટેડ",
+          "hindiPronunciation": "इवैल्यूएटेड",
+          "gujaratiMeaning": "મૂલ્યાંકન કર્યું",
+          "hindiMeaning": "मूल्यांकन किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Evaluated",
+          "gujaratiPronunciation": "ઇવેલ્યુએટેડ",
+          "hindiPronunciation": "इवैल्यूएटेड",
+          "gujaratiMeaning": "મૂલ્યાંકન કરેલું",
+          "hindiMeaning": "मूल्यांकित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Evaluating",
+          "gujaratiPronunciation": "ઇવેલ્યુએટિંગ",
+          "hindiPronunciation": "इवैल्यूएटिंग",
+          "gujaratiMeaning": "મૂલ્યાંકન કરી રહ્યું છે",
+          "hindiMeaning": "मूल्यांकन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Assess",
+          "gujaratiPronunciation": "અસેસ",
+          "hindiPronunciation": "असेस",
+          "gujaratiMeaning": "આકારણી કરવી",
+          "hindiMeaning": "आकलन करना"
+        },
+        {
+          "word": "Appraise",
+          "gujaratiPronunciation": "અપ્રેઇઝ",
+          "hindiPronunciation": "अप्रेज़",
+          "gujaratiMeaning": "કિંમત આંકવી",
+          "hindiMeaning": "मूल्य आँकना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Neglect",
+          "gujaratiPronunciation": "નેગ્લેક્ટ",
+          "hindiPronunciation": "नेग्लेक्ट",
+          "gujaratiMeaning": "ઉપેક્ષા કરવી",
+          "hindiMeaning": "उपेक्षा करना"
+        },
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણના કરવી",
+          "hindiMeaning": "अनदेखा करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Value",
+          "gujaratiPronunciation": "વેલ્યુ",
+          "hindiPronunciation": "वैल्यू",
+          "gujaratiMeaning": "મૂલ્ય, કિંમત",
+          "hindiMeaning": "मूल्य, कीमत"
+        },
+        {
+          "word": "Evacuate",
+          "gujaratiPronunciation": "ઇવેક્યુએટ",
+          "hindiPronunciation": "इवैक्यूएट",
+          "gujaratiMeaning": "ખાલી કરાવવું",
+          "hindiMeaning": "खाली कराना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The teacher will evaluate your performance based on the test results.",
+          "gujaratiPronunciation": "ધ ટીચર વિલ ઇવેલ્યુએટ યોર પરફોર્મન્સ બેઝ્ડ ઓન ધ ટેસ્ટ રિઝલ્ટ્સ.",
+          "hindiPronunciation": "द टीचर विल इवैल्यूएट योर परफॉर्मेंस बेस्ड ऑन द टेस्ट रिजल्ट्स।",
+          "gujaratiMeaning": "શિક્ષક પરીક્ષાના પરિણામોના આધારે તમારા પ્રદર્શનનું મૂલ્યાંકન કરશે.",
+          "hindiMeaning": "शिक्षक परीक्षा परिणामों के आधार पर आपके प्रदर्शन का मूल्यांकन करेंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Exceed",
+      "gujaratiPronunciation": "એક્સીડ",
+      "hindiPronunciation": "एक्सीड",
+      "gujaratiMeaning": "વધી જવું",
+      "hindiMeaning": "अधिक होना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Exceed",
+          "gujaratiPronunciation": "એક્સીડ",
+          "hindiPronunciation": "एक्सीड",
+          "gujaratiMeaning": "વધી જવું",
+          "hindiMeaning": "अधिक होना"
+        },
+        "V2 (Past)": {
+          "word": "Exceeded",
+          "gujaratiPronunciation": "એક્સીડેડ",
+          "hindiPronunciation": "एक्सीडेड",
+          "gujaratiMeaning": "વધી ગયું",
+          "hindiMeaning": "अधिक हो गया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Exceeded",
+          "gujaratiPronunciation": "એક્સીડેડ",
+          "hindiPronunciation": "एक्सीडेड",
+          "gujaratiMeaning": "વધી ગયેલું",
+          "hindiMeaning": "अतिरिक्त"
+        },
+        "V4 (Present Participle)": {
+          "word": "Exceeding",
+          "gujaratiPronunciation": "એક્સીડિંગ",
+          "hindiPronunciation": "एक्सीडिंग",
+          "gujaratiMeaning": "વધી રહ્યું છે",
+          "hindiMeaning": "अधिक हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Surpass",
+          "gujaratiPronunciation": "સરપાસ",
+          "hindiPronunciation": "सरपास",
+          "gujaratiMeaning": "આગળ નીકળી જવું",
+          "hindiMeaning": "आगे निकल जाना"
+        },
+        {
+          "word": "Outdo",
+          "gujaratiPronunciation": "આઉટડુ",
+          "hindiPronunciation": "आउटडू",
+          "gujaratiMeaning": "શ્રેષ્ઠ સાબિત થવું",
+          "hindiMeaning": "श्रेष्ठ साबित होना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Fall short",
+          "gujaratiPronunciation": "ફોલ શોર્ટ",
+          "hindiPronunciation": "फॉल शॉर्ट",
+          "gujaratiMeaning": "ઓછું પડવું",
+          "hindiMeaning": "कम पड़ना"
+        },
+        {
+          "word": "Be less than",
+          "gujaratiPronunciation": "બી લેસ ધેન",
+          "hindiPronunciation": "बी लेस दैन",
+          "gujaratiMeaning": "થી ઓછું હોવું",
+          "hindiMeaning": "से कम होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Accede",
+          "gujaratiPronunciation": "એક્સીડ",
+          "hindiPronunciation": "एक्सीड",
+          "gujaratiMeaning": "સંમત થવું",
+          "hindiMeaning": "सहमत होना"
+        },
+        {
+          "word": "Succeed",
+          "gujaratiPronunciation": "સક્સીડ",
+          "hindiPronunciation": "सक्सीड",
+          "gujaratiMeaning": "સફળ થવું",
+          "hindiMeaning": "सफल होना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The cost of the project should not exceed the budget.",
+          "gujaratiPronunciation": "ધ કોસ્ટ ઓફ ધ પ્રોજેક્ટ શુડ નોટ એક્સીડ ધ બજેટ.",
+          "hindiPronunciation": "द कॉस्ट ऑफ द प्रोजेक्ट शुड नॉट एक्सीड द बजट।",
+          "gujaratiMeaning": "પ્રોજેક્ટનો ખર્ચ બજેટથી વધવો જોઈએ નહીં.",
+          "hindiMeaning": "परियोजना की लागत बजट से अधिक नहीं होनी चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Suffice",
+      "gujaratiPronunciation": "સફાઇસ",
+      "hindiPronunciation": "सफ़ाइस",
+      "gujaratiMeaning": "પૂરતું હોવું",
+      "hindiMeaning": "पर्याप्त होना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Suffice",
+          "gujaratiPronunciation": "સફાઇસ",
+          "hindiPronunciation": "सफ़ाइस",
+          "gujaratiMeaning": "પૂરતું હોવું",
+          "hindiMeaning": "पर्याप्त होना"
+        },
+        "V2 (Past)": {
+          "word": "Sufficed",
+          "gujaratiPronunciation": "સફાઇસ્ડ",
+          "hindiPronunciation": "सफ़ाइस्ड",
+          "gujaratiMeaning": "પૂરતું હતું",
+          "hindiMeaning": "पर्याप्त था"
+        },
+        "V3 (Past Participle)": {
+          "word": "Sufficed",
+          "gujaratiPronunciation": "સફાઇસ્ડ",
+          "hindiPronunciation": "सफ़ाइस्ड",
+          "gujaratiMeaning": "પૂરતું થયેલું",
+          "hindiMeaning": "पर्याप्त हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Sufficing",
+          "gujaratiPronunciation": "સફાઇસિંગ",
+          "hindiPronunciation": "सफ़ाइसिंग",
+          "gujaratiMeaning": "પૂરતું થઈ રહ્યું છે",
+          "hindiMeaning": "पर्याप्त हो रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Be enough",
+          "gujaratiPronunciation": "બી ઇનફ",
+          "hindiPronunciation": "बी इनफ",
+          "gujaratiMeaning": "પૂરતું હોવું",
+          "hindiMeaning": "काफी होना"
+        },
+        {
+          "word": "Serve",
+          "gujaratiPronunciation": "સર્વ",
+          "hindiPronunciation": "सर्व",
+          "gujaratiMeaning": "કામ કરવું",
+          "hindiMeaning": "काम करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Be insufficient",
+          "gujaratiPronunciation": "બી ઇનસફિશિયન્ટ",
+          "hindiPronunciation": "बी इनसफिशिएंट",
+          "gujaratiMeaning": "અપૂરતું હોવું",
+          "hindiMeaning": "अपर्याप्त होना"
+        },
+        {
+          "word": "Lack",
+          "gujaratiPronunciation": "લેક",
+          "hindiPronunciation": "लैक",
+          "gujaratiMeaning": "અછત હોવી",
+          "hindiMeaning": "कमी होना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Sacrifice",
+          "gujaratiPronunciation": "સેક્રિફાઇસ",
+          "hindiPronunciation": "सैक्रिफाइस",
+          "gujaratiMeaning": "બલિદાન આપવું",
+          "hindiMeaning": "बलिदान देना"
+        },
+        {
+          "word": "Surface",
+          "gujaratiPronunciation": "સરફેસ",
+          "hindiPronunciation": "सरफेस",
+          "gujaratiMeaning": "સપાટી",
+          "hindiMeaning": "सतह"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A few examples will suffice to illustrate the point.",
+          "gujaratiPronunciation": "અ ફ્યુ એક્ઝામ્પલ્સ વિલ સફાઇસ ટુ ઇલસ્ટ્રેટ ધ પોઇન્ટ.",
+          "hindiPronunciation": "अ फ्यू एक्ज़ाम्पल्स विल सफ़ाइस टू इलस्ट्रेट द पॉइंट।",
+          "gujaratiMeaning": "મુદ્દાને સમજાવવા માટે થોડા ઉદાહરણો પૂરતા રહેશે.",
+          "hindiMeaning": "बात को स्पष्ट करने के लिए कुछ उदाहरण पर्याप्त होंगे।"
+        }
+      ]
+    },
+    {
+      "word": "Aggregate",
+      "gujaratiPronunciation": "એગ્રિગેટ",
+      "hindiPronunciation": "एग्रीगेट",
+      "gujaratiMeaning": "એકત્ર કરવું, કુલ",
+      "hindiMeaning": "एकत्र करना, कुल",
+      "partOfSpeech": "verb/noun",
+      "verbForms": {
+        "V1 (Present)": {
+          "word": "Aggregate",
+          "gujaratiPronunciation": "એગ્રિગેટ",
+          "hindiPronunciation": "एग्रीगेट",
+          "gujaratiMeaning": "એકત્ર કરવું",
+          "hindiMeaning": "एकत्र करना"
+        },
+        "V2 (Past)": {
+          "word": "Aggregated",
+          "gujaratiPronunciation": "એગ્રિગેટેડ",
+          "hindiPronunciation": "एग्रीगेटेड",
+          "gujaratiMeaning": "એકત્ર કર્યું",
+          "hindiMeaning": "एकत्र किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Aggregated",
+          "gujaratiPronunciation": "એગ્રિગેટેડ",
+          "hindiPronunciation": "एग्रीगेटेड",
+          "gujaratiMeaning": "એકત્ર કરેલું",
+          "hindiMeaning": "एकत्रित"
+        },
+        "V4 (Present Participle)": {
+          "word": "Aggregating",
+          "gujaratiPronunciation": "એગ્રિગેટિંગ",
+          "hindiPronunciation": "एग्रीगेटिंग",
+          "gujaratiMeaning": "એકત્ર કરી રહ્યું છે",
+          "hindiMeaning": "एकत्र कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Combine",
+          "gujaratiPronunciation": "કમ્બાઇન",
+          "hindiPronunciation": "कंबाइन",
+          "gujaratiMeaning": "જોડવું",
+          "hindiMeaning": "जोड़ना"
+        },
+        {
+          "word": "Total",
+          "gujaratiPronunciation": "ટોટલ",
+          "hindiPronunciation": "टोटल",
+          "gujaratiMeaning": "સરવાળો",
+          "hindiMeaning": "कुल"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Separate",
+          "gujaratiPronunciation": "સેપરેટ",
+          "hindiPronunciation": "सेपरेट",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        },
+        {
+          "word": "Disperse",
+          "gujaratiPronunciation": "ડિસ્પર્સ",
+          "hindiPronunciation": "डिस्पर्स",
+          "gujaratiMeaning": "વિખેરવું",
+          "hindiMeaning": "बिखेरना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Aggravate",
+          "gujaratiPronunciation": "એગ્રેવેટ",
+          "hindiPronunciation": "एग्रवेट",
+          "gujaratiMeaning": "વધુ ખરાબ કરવું",
+          "hindiMeaning": "और बिगाड़ना"
+        },
+        {
+          "word": "Irrigate",
+          "gujaratiPronunciation": "ઇરિગેટ",
+          "hindiPronunciation": "इरिगेट",
+          "gujaratiMeaning": "સિંચાઈ કરવી",
+          "hindiMeaning": "सिंचाई करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The team will aggregate the data from all the surveys.",
+          "gujaratiPronunciation": "ધ ટીમ વિલ એગ્રિગેટ ધ ડેટા ફ્રોમ ઓલ ધ સર્વેઝ.",
+          "hindiPronunciation": "द टीम विल एग्रीगेट द डेटा फ्रॉम ऑल द सर्वेज।",
+          "gujaratiMeaning": "ટીમ તમામ સર્વેક્ષણોમાંથી ડેટા એકત્ર કરશે.",
+          "hindiMeaning": "टीम सभी सर्वेक्षणों से डेटा एकत्र करेगी।"
+        }
+      ]
+    }
+  ]
+}

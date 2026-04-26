@@ -1,0 +1,491 @@
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Dominate",
+            "gujaratiPronunciation": "ડોમિનેટ",
+            "hindiPronunciation": "डominट",
+            "gujaratiMeaning": "પ્રભુત્વ જમાવવું, વર્ચસ્વ રાખવું",
+            "hindiMeaning": "हावी होना, प्रभुत्व रखना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Dominate",
+                    "gujaratiPronunciation": "ડોમિનેટ",
+                    "hindiPronunciation": "डominट",
+                    "gujaratiMeaning": "પ્રભુત્વ જમાવવું",
+                    "hindiMeaning": "हावी ہونا"
+                },
+                "V2 (Past)": {
+                    "word": "Dominated",
+                    "gujaratiPronunciation": "ડોमिनेટેડ",
+                    "hindiPronunciation": "डominटेड",
+                    "gujaratiMeaning": "પ્રભુत्व જમાવ્યું",
+                    "hindiMeaning": "हावी हुआ"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Dominated",
+                    "gujaratiPronunciation": "ડોમિનેટેડ",
+                    "hindiPronunciation": "डominटेड",
+                    "gujaratiMeaning": "પ્રભુत्व જમાવેલું",
+                    "hindiMeaning": "हावी हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Dominating",
+                    "gujaratiPronunciation": "ડોमिनेटિંગ",
+                    "hindiPronunciation": "डominटिंग",
+                    "gujaratiMeaning": "પ્રભુત્વ જમાવી રહ્યું છે",
+                    "hindiMeaning": "हावी हो रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Control",
+                    "gujaratiPronunciation": "કંટ્રોલ",
+                    "hindiPronunciation": "कंटrol",
+                    "gujaratiMeaning": "નિયંત્રણ કરવું",
+                    "hindiMeaning": "नियंत्रण करना"
+                },
+                {
+                    "word": "Rule",
+                    "gujaratiPronunciation": "રૂલ",
+                    "hindiPronunciation": "रूल",
+                    "gujaratiMeaning": "શાસન કરવું",
+                    "hindiMeaning": "शासन करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Surrender",
+                    "gujaratiPronunciation": "સરેન્ડર",
+                    "hindiPronunciation": "सरेंडर",
+                    "gujaratiMeaning": "આત્મસમર્પણ કરવું",
+                    "hindiMeaning": "आत्मसमर्पण करना"
+                },
+                {
+                    "word": "Follow",
+                    "gujaratiPronunciation": "ફોલો",
+                    "hindiPronunciation": "फॉलो",
+                    "gujaratiMeaning": "અનુસરવું",
+                    "hindiMeaning": "अनुसरण करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Dominate",
+                    "gujaratiPronunciation": "ડોમિનેટ",
+                    "hindiPronunciation": "डominट",
+                    "gujaratiMeaning": "પ્રભુત્વ જમાવવું",
+                    "hindiMeaning": "हावी होना",
+                    "difference": "Dominate એટલે કોઈ વ્યક્તિ અથવા પરિસ્થિતિ પર સંપૂર્ણ નિયંત્રણ હોવું."
+                },
+                {
+                    "word": "Donate",
+                    "gujaratiPronunciation": "ડોનેટ",
+                    "hindiPronunciation": "डोनेट",
+                    "gujaratiMeaning": "દાન કરવું",
+                    "hindiMeaning": "दान करना",
+                    "difference": "Donate એટલે પૈસા અથવા વસ્તુઓનું દાન કરવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The strong team is expected to dominate the championship.",
+                    "gujaratiPronunciation": "ધ સ્ટ્રોંગ ટીમ ઇઝ એક્સપેક્ટેડ ટુ ડોમિનેટ ધ ચેમ્પિયનશિપ.",
+                    "hindiPronunciation": "द स्ट्रॉन्ग टीम इज़ एक्सपेक्टेड टू डominट द चैंपियनशिप।",
+                    "gujaratiTranslation": "મજબૂત ટીમ ચેમ્પિયનશિપમાં પ્રભુत्व જમાવશે તેવી અપેક્ષા છે.",
+                    "hindiTranslation": "मજબूत टीम سے چیمپیئن شپ پر حاوی होने की उम्मीद ہے۔"
+                }
+            ]
+        },
+        {
+            "word": "Empower",
+            "gujaratiPronunciation": "એમ્પાવર",
+            "hindiPronunciation": "एंपower",
+            "gujaratiMeaning": "સશક્ત કરવું, અધિકાર આપવો",
+            "hindiMeaning": "सशક્ત کرنا, अधिकार देना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Empower",
+                    "gujaratiPronunciation": "એમ્પાવર",
+                    "hindiPronunciation": "एंपower",
+                    "gujaratiMeaning": "સશક્ત કરવું",
+                    "hindiMeaning": "सशક્ત کرنا"
+                },
+                "V2 (Past)": {
+                    "word": "Empowered",
+                    "gujaratiPronunciation": "એમ્પાવર્ડ",
+                    "hindiPronunciation": "एंपowerd",
+                    "gujaratiMeaning": "સશક્ત કર્યું",
+                    "hindiMeaning": "सशક્ત किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Empowered",
+                    "gujaratiPronunciation": "એમ્પાવર્ડ",
+                    "hindiPronunciation": "एंपowerd",
+                    "gujaratiMeaning": "સશક્ત કરેલું",
+                    "hindiMeaning": "सशક્ત किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Empowering",
+                    "gujaratiPronunciation": "એમ્પાવરिंग",
+                    "hindiPronunciation": "एंपowering",
+                    "gujaratiMeaning": "સશક્ત કરી રહ્યું છે",
+                    "hindiMeaning": "सशક્ત कर रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Authorize",
+                    "gujaratiPronunciation": "ઓથોરાઇઝ",
+                    "hindiPronunciation": "ऑथराइज",
+                    "gujaratiMeaning": "અધિકार આપવો",
+                    "hindiMeaning": "अधिकृत करना"
+                },
+                {
+                    "word": "Enable",
+                    "gujaratiPronunciation": "એનેબલ",
+                    "hindiPronunciation": "एनेबल",
+                    "gujaratiMeaning": "સક્ષમ બનાવવું",
+                    "hindiMeaning": "सक्षम बनाना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Disempower",
+                    "gujaratiPronunciation": "ડિસએમ્પાવર",
+                    "hindiPronunciation": "डिसएंपower",
+                    "gujaratiMeaning": "અશક્ત કરવું",
+                    "hindiMeaning": "अशક્ત کرنا"
+                },
+                {
+                    "word": "Restrict",
+                    "gujaratiPronunciation": "રિસ્ટ્રિક્ટ",
+                    "hindiPronunciation": "रिस्ट्रिक्ट",
+                    "gujaratiMeaning": "પ્રતિબંધित કરવું",
+                    "hindiMeaning": "प्रतिबंधित کرنا"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Empower",
+                    "gujaratiPronunciation": "એમ્પાવર",
+                    "hindiPronunciation": "एंपower",
+                    "gujaratiMeaning": "સશક્ત કરવું",
+                    "hindiMeaning": "सशક્ત کرنا",
+                    "difference": "Empower એટલે કોઈને પોતાના નિર્ણયો લેવાની શક્તિ અથવા અધિકાર આપવો."
+                },
+                {
+                    "word": "Overpower",
+                    "gujaratiPronunciation": "ઓવરપાવર",
+                    "hindiPronunciation": "ओवरpower",
+                    "gujaratiMeaning": "હરાવવું",
+                    "hindiMeaning": "हराना",
+                    "difference": "Overpower એટલે કોઈને શક્તિથી હરાવવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "Education can empower individuals to achieve their dreams.",
+                    "gujaratiPronunciation": "એજ્યુકેશન કેન એમ્પાવર ઇન્ડિવિડ्युઅલ્સ ટુ અચીવ ધેર ડ્રીમ્સ.",
+                    "hindiPronunciation": "एजुकेशन कैन एंपower इंडिविजुअल्स टू अचीव देयर ड्रीम्स।",
+                    "gujaratiTranslation": "શિક્ષણ વ્યક્તિઓને તેમના સપના સાકાર કરવા માટે સશક્ત કરી શકે છે.",
+                    "hindiTranslation": "शिक्षा व्यक्तियों को उनके सपने साकार करने के लिए सशक्त बना सकती है।"
+                }
+            ]
+        },
+        {
+            "word": "Expedite",
+            "gujaratiPronunciation": "એક્સપિડાઇટ",
+            "hindiPronunciation": "एक्सpedite",
+            "gujaratiMeaning": "ઝડપી બનાવવું, વેગ આપવો",
+            "hindiMeaning": "तेज کرنا, गति देना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Expedite",
+                    "gujaratiPronunciation": "એક્સપિડાઇટ",
+                    "hindiPronunciation": "एक्सpedite",
+                    "gujaratiMeaning": "ઝડપી બનાવવું",
+                    "hindiMeaning": "तेज کرنا"
+                },
+                "V2 (Past)": {
+                    "word": "Expedited",
+                    "gujaratiPronunciation": "એક્સપિડાઇટેડ",
+                    "hindiPronunciation": "एक्सpedited",
+                    "gujaratiMeaning": "ઝડપી બનાવ્યું",
+                    "hindiMeaning": "तेज किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Expedited",
+                    "gujaratiPronunciation": "એક્સપિડાઇટેડ",
+                    "hindiPronunciation": "एक्सpedited",
+                    "gujaratiMeaning": "ઝડપી બનાવેલું",
+                    "hindiMeaning": "तेज किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Expediting",
+                    "gujaratiPronunciation": "એક્સપિડાઇટિંગ",
+                    "hindiPronunciation": "एक्सpediting",
+                    "gujaratiMeaning": "ઝડપી બનાવી રહ્યું છે",
+                    "hindiMeaning": "तेज कर रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Accelerate",
+                    "gujaratiPronunciation": "એક્સિલરેટ",
+                    "hindiPronunciation": "एक्सेलरेट",
+                    "gujaratiMeaning": "ગતિ ਵਧાવવી",
+                    "hindiMeaning": "गति बढ़ाना"
+                },
+                {
+                    "word": "Hasten",
+                    "gujaratiPronunciation": "હેસન",
+                    "hindiPronunciation": "हेसन",
+                    "gujaratiMeaning": "ઉતાવળ કરવી",
+                    "hindiMeaning": "जल्दी करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Delay",
+                    "gujaratiPronunciation": "ડिले",
+                    "hindiPronunciation": "डिले",
+                    "gujaratiMeaning": "વિલંબ કરવો",
+                    "hindiMeaning": "देरी کرنا"
+                },
+                {
+                    "word": "Hinder",
+                    "gujaratiPronunciation": "હિન્ડર",
+                    "hindiPronunciation": "हिinder",
+                    "gujaratiMeaning": "અવરોधવું",
+                    "hindiMeaning": "बाधा डालना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Expedite",
+                    "gujaratiPronunciation": "એક્સપિડાઇટ",
+                    "hindiPronunciation": "एक्सpedite",
+                    "gujaratiMeaning": "ઝડપી બનાવવું",
+                    "hindiMeaning": "तेज करना",
+                    "difference": "Expedite એટલે કોઈ પ્રક્રિયાને વધુ ઝડપી બનાવવી."
+                },
+                {
+                    "word": "Expand",
+                    "gujaratiPronunciation": "એક્સપાન્ડ",
+                    "hindiPronunciation": "एक्सpand",
+                    "gujaratiMeaning": "વિસ્તાર કરવો",
+                    "hindiMeaning": "विस्तार करना",
+                    "difference": "Expand એટલે કોઈ વસ્તુનું કદ અથવા व्याप्ती વધારવી."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "We need to expedite the delivery of the emergency supplies.",
+                    "gujaratiPronunciation": "વી નીડ ટુ એક્સપિડાઇટ ધ ડિલિવરી ઓફ ધ ઇમરજન્સી સપ્લાઇઝ.",
+                    "hindiPronunciation": "वी नीड टू एक्सpedite द डिलीवरी ऑफ द इमरजेंसी सप्लाईज़।",
+                    "gujaratiTranslation": "આપણે કટોકટીની સામગ્રીની ડિલિવરી ઝડપી બનાવવાની જરૂર છે.",
+                    "hindiTranslation": "हमें आपातकालीन आपूर्ति की डिलीवरी میں تیزی लाने की जरूरत ہے۔"
+                }
+            ]
+        },
+        {
+            "word": "Inflame",
+            "gujaratiPronunciation": "ઇન્ફ્લેમ",
+            "hindiPronunciation": "इन्फ्लेम",
+            "gujaratiMeaning": "ભડકાવવું, ઉશ્કેરવું",
+            "hindiMeaning": "भड़काना, उत्तेजित करना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Inflame",
+                    "gujaratiPronunciation": "ઇન્ફ્લેમ",
+                    "hindiPronunciation": "इन्फ्लेम",
+                    "gujaratiMeaning": "ભડકાવવું",
+                    "hindiMeaning": "भड़काना"
+                },
+                "V2 (Past)": {
+                    "word": "Inflamed",
+                    "gujaratiPronunciation": "ઇન્ફ્લેમ્ડ",
+                    "hindiPronunciation": "इन्फ्लेम्ड",
+                    "gujaratiMeaning": "ભડકાવ્યું",
+                    "hindiMeaning": "भड़काया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Inflamed",
+                    "gujaratiPronunciation": "ઇન્ફ્લેમ્ડ",
+                    "hindiPronunciation": "इन्फ्लेम्ड",
+                    "gujaratiMeaning": "ભડકાવેલું",
+                    "hindiMeaning": "भड़काया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Inflaming",
+                    "gujaratiPronunciation": "ઇન્ફ્લેમિંગ",
+                    "hindiPronunciation": "इन्फ्लेमिंग",
+                    "gujaratiMeaning": "ભડકાવી રહ્યું છે",
+                    "hindiMeaning": "भड़का रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Provoke",
+                    "gujaratiPronunciation": "પ્રોવોક",
+                    "hindiPronunciation": "प्रोवोक",
+                    "gujaratiMeaning": "ઉશ્કેરવું",
+                    "hindiMeaning": "उकसाना"
+                },
+                {
+                    "word": "Incite",
+                    "gujaratiPronunciation": "ઇન્સાઇટ",
+                    "hindiPronunciation": "इन्साइट",
+                    "gujaratiMeaning": "ભડકાવવું",
+                    "hindiMeaning": "भड़काना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Calm",
+                    "gujaratiPronunciation": "કામ",
+                    "hindiPronunciation": "काम",
+                    "gujaratiMeaning": "શાંત કરવું",
+                    "hindiMeaning": "शांत करना"
+                },
+                {
+                    "word": "Soothe",
+                    "gujaratiPronunciation": "સૂધ",
+                    "hindiPronunciation": "सूद",
+                    "gujaratiMeaning": "શાંત પાડવું",
+                    "hindiMeaning": "शांत करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Inflame",
+                    "gujaratiPronunciation": "ઇન્ફ્લેમ",
+                    "hindiPronunciation": "इन्फ्लेम",
+                    "gujaratiMeaning": "ભડકાવવું",
+                    "hindiMeaning": "भड़काना",
+                    "difference": "Inflame એટલે ગુસ્સો અથવા હિંસા જેવી તીવ્ર भावनाओને ઉશ્કેરવી."
+                },
+                {
+                    "word": "Inhale",
+                    "gujaratiPronunciation": "ઇનહેલ",
+                    "hindiPronunciation": "इन्हेल",
+                    "gujaratiMeaning": "શ્વાસ લેવો",
+                    "hindiMeaning": "सांस लेना",
+                    "difference": "Inhale એટલે શ્વાસ અંદર લેવો."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "His controversial remarks only served to inflame the situation.",
+                    "gujaratiPronunciation": "હિઝ કોન્ટ્રોવર્શિયલ રિમાર્ક્સ ઓન્લી સર્વ્ડ ટુ ઇન્ફ્લેમ ધ સિચ્યુએશન.",
+                    "hindiPronunciation": "हिज़ कॉन्ट्रोवर्शियल रिमार्క్స్ ओनली सर्व्ड टू इन्फ्लेम द सिचुएशन।",
+                    "gujaratiTranslation": "તેની વિવાदाસ્પદ ટિપ્पણીઓએ ફક્ત પરિસ્થિતિને ભડકાવવાનું काम કર્યું.",
+                    "hindiTranslation": "उनकी विवादास्पद टिप्पणियों نے صرف स्थिति کو بھड़काने کا काम किया۔"
+                }
+            ]
+        },
+        {
+            "word": "Exert",
+            "gujaratiPronunciation": "એક્ઝર્ટ",
+            "hindiPronunciation": "एक् exert",
+            "gujaratiMeaning": "પ્રયોગ કરવો, દબાણ કરવું",
+            "hindiMeaning": "प्रयोग करना, दबाव डालना",
+            "partOfSpeech": "Verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Exert",
+                    "gujaratiPronunciation": "એક્ઝર્ટ",
+                    "hindiPronunciation": "एक् exert",
+                    "gujaratiMeaning": "પ્રયોગ કરવો",
+                    "hindiMeaning": "प्रयोग کرنا"
+                },
+                "V2 (Past)": {
+                    "word": "Exerted",
+                    "gujaratiPronunciation": "એक्ઝર્ટેડ",
+                    "hindiPronunciation": "एक् exerted",
+                    "gujaratiMeaning": "પ્રयोग કર્યો",
+                    "hindiMeaning": "प्रयोग किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Exerted",
+                    "gujaratiPronunciation": "એક્ઝર્ટેડ",
+                    "hindiPronunciation": "एक् exerted",
+                    "gujaratiMeaning": "પ્રयोग કરેલો",
+                    "hindiMeaning": "प्रयोग किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Exerting",
+                    "gujaratiPronunciation": "એक्ઝર્ટિંગ",
+                    "hindiPronunciation": "एक् exerting",
+                    "gujaratiMeaning": "પ્રयोग કરી રહ્યું છે",
+                    "hindiMeaning": "प्रयोग कर रहा"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Apply",
+                    "gujaratiPronunciation": "એપ્લાય",
+                    "hindiPronunciation": "अप्लाई",
+                    "gujaratiMeaning": "લાगू કરવું",
+                    "hindiMeaning": "लागू करना"
+                },
+                {
+                    "word": "Wield",
+                    "gujaratiPronunciation": "વીલ્ડ",
+                    "hindiPronunciation": "वील्ड",
+                    "gujaratiMeaning": "પ્રયોગ કરવો",
+                    "hindiMeaning": "इस्तेमाल करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Relax",
+                    "gujaratiPronunciation": "રિલેક્સ",
+                    "hindiPronunciation": "रिलैक्स",
+                    "gujaratiMeaning": "આરામ કરવો",
+                    "hindiMeaning": "आराम करना"
+                },
+                {
+                    "word": "Withhold",
+                    "gujaratiPronunciation": "વિથહોલ્ડ",
+                    "hindiPronunciation": "विदहोल्ड",
+                    "gujaratiMeaning": "અટકાવી રાખવું",
+                    "hindiMeaning": "रोक लेना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Exert",
+                    "gujaratiPronunciation": "એક્ઝર્ટ",
+                    "hindiPronunciation": "एक् exert",
+                    "gujaratiMeaning": "પ્રયોગ કરવો",
+                    "hindiMeaning": "प्रयोग करना",
+                    "difference": "Exert એટલે શક્તિ, પ્રભાવ અથવા દબાણનો उपयोग કરવો."
+                },
+                {
+                    "word": "Exist",
+                    "gujaratiPronunciation": "એક્ઝિસ્ટ",
+                    "hindiPronunciation": "एक्जिस्ट",
+                    "gujaratiMeaning": "अस्तित्व ધરાવવું",
+                    "hindiMeaning": "अस्तित्व में होना",
+                    "difference": "Exist એટલે અસ્તિત્વમાં હોવું."
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The company needs to exert more control over its spending.",
+                    "gujaratiPronunciation": "ધ કંપની નીડ્સ ટુ એક્ઝર્ટ મોર કંટ્રોલ ઓવર ઇટ્સ સ્પેન્ડિંગ.",
+                    "hindiPronunciation": "द कंपनी नीड्स टू एक् exert मोर कंट्रोल ओवर इट्स स्पेंडिंग।",
+                    "gujaratiTranslation": "કંપનીએ તેના ખર્ચ પર વધુ નિયંત્રણ રાખવાની જરૂર છે.",
+                    "hindiTranslation": "कंपनी को अपने खर्च पर अधिक नियंत्रण रखने की जरूरत है।"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Hear",
+      "gujaratiPronunciation": "હિઅર",
+      "hindiPronunciation": "हियर",
+      "gujaratiMeaning": "સાંભળવું",
+      "hindiMeaning": "सुनना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Hear", "gujaratiPronunciation": "હિઅર", "hindiPronunciation": "हियर", "gujaratiMeaning": "સાંભળવું", "hindiMeaning": "सुनना" },
+        "V2": { "word": "Heard", "gujaratiPronunciation": "હર્ડ", "hindiPronunciation": "हर्ड", "gujaratiMeaning": "સાંભળ્યું", "hindiMeaning": "सुना" },
+        "V3": { "word": "Heard", "gujaratiPronunciation": "હર્ડ", "hindiPronunciation": "हर्ड", "gujaratiMeaning": "સાંભળેલું", "hindiMeaning": "सुना हुआ" },
+        "V4": { "word": "Hearing", "gujaratiPronunciation": "હિઅરિંગ", "hindiPronunciation": "हियरिंग", "gujaratiMeaning": "સાંભળી રહ્યું છે", "hindiMeaning": "सुन रहा है" }
+      },
+      "synonyms": [
+        { "word": "Listen", "gujaratiPronunciation": "લિસન", "hindiPronunciation": "लिसन", "gujaratiMeaning": "ધ્યાનથી સાંભળવું", "hindiMeaning": "ध्यान से सुनना" },
+        { "word": "Eavesdrop", "gujaratiPronunciation": "ઇવ્સડ્રોપ", "hindiPronunciation": "ईव्सड्रॉप", "gujaratiMeaning": "છૂપી રીતે સાંભળવું", "hindiMeaning": "चुपके से सुनना" }
+      ],
+      "antonyms": [
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" },
+        { "word": "Be deaf to", "gujaratiPronunciation": "બી ડેફ ટુ", "hindiPronunciation": "बी डेफ टू", "gujaratiMeaning": "કાન આડા હાથ કરવા", "hindiMeaning": "अनसुना करना" }
+      ],
+      "confusingWords": [
+        { "word": "Here", "gujaratiPronunciation": "હિઅર", "hindiPronunciation": "हियर", "gujaratiMeaning": "અહીં", "hindiMeaning": "यहाँ" },
+        { "word": "Hair", "gujaratiPronunciation": "હેર", "hindiPronunciation": "हेयर", "gujaratiMeaning": "વાળ", "hindiMeaning": "बाल" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Can you hear the music?",
+          "gujaratiPronunciation": "કેન યુ હિઅર ધ મ્યુઝિક?",
+          "hindiPronunciation": "कैन यू हियर द म्यूजिक?",
+          "gujaratiTranslation": "શું તમે સંગીત સાંભળી શકો છો?",
+          "hindiTranslation": "क्या आप संगीत सुन सकते हैं?"
+        }
+      ]
+    },
+    {
+      "word": "Taste",
+      "gujaratiPronunciation": "ટેસ્ટ",
+      "hindiPronunciation": "टेस्ट",
+      "gujaratiMeaning": "સ્વાદ, ચાખવું",
+      "hindiMeaning": "स्वाद, चखना",
+      "partOfSpeech": "noun/verb",
+      "verbForms": {
+        "V1": { "word": "Taste", "gujaratiPronunciation": "ટેસ્ટ", "hindiPronunciation": "टेस्ट", "gujaratiMeaning": "ચાખવું", "hindiMeaning": "चखना" },
+        "V2": { "word": "Tasted", "gujaratiPronunciation": "ટેસ્ટેડ", "hindiPronunciation": "टेस्टेड", "gujaratiMeaning": "ચાખ્યું", "hindiMeaning": "चखा" },
+        "V3": { "word": "Tasted", "gujaratiPronunciation": "ટેસ્ટેડ", "hindiPronunciation": "टेस्टेड", "gujaratiMeaning": "ચાખેલું", "hindiMeaning": "चखा हुआ" },
+        "V4": { "word": "Tasting", "gujaratiPronunciation": "ટેસ્ટિંગ", "hindiPronunciation": "टेस्टिंग", "gujaratiMeaning": "ચાખી રહ્યું છે", "hindiMeaning": "चख रहा है" }
+      },
+      "synonyms": [
+        { "word": "Flavor", "gujaratiPronunciation": "ફ્લેવર", "hindiPronunciation": "फ्लेवर", "gujaratiMeaning": "સ્વાદ", "hindiMeaning": "स्वाद" },
+        { "word": "Savor", "gujaratiPronunciation": "સેવર", "hindiPronunciation": "सेवर", "gujaratiMeaning": "આનંદ માણવો", "hindiMeaning": "आनंद लेना" }
+      ],
+      "antonyms": [
+        { "word": "Tastelessness", "gujaratiPronunciation": "ટેસ્ટલેસનેસ", "hindiPronunciation": "टेस्टलेसनेस", "gujaratiMeaning": "સ્વાદહીનતા", "hindiMeaning": "स्वादहीनता" },
+        { "word": "Blandness", "gujaratiPronunciation": "બ્લેન્ડનેસ", "hindiPronunciation": "ब्लैंडनेस", "gujaratiMeaning": "ફીકાશ", "hindiMeaning": "फीकापन" }
+      ],
+      "confusingWords": [
+        { "word": "Test", "gujaratiPronunciation": "ટેસ્ટ", "hindiPronunciation": "टेस्ट", "gujaratiMeaning": "પરીક્ષણ", "hindiMeaning": "परीक्षण" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "This soup has a strange taste.",
+          "gujaratiPronunciation": "ધીસ સૂપ હેઝ અ સ્ટ્રેન્જ ટેસ્ટ.",
+          "hindiPronunciation": "दिस सूप हैज़ ए स्ट्रेंज टेस्ट।",
+          "gujaratiTranslation": "આ સૂપનો સ્વાદ વિચિત્ર છે.",
+          "hindiTranslation": "इस सूप का स्वाद अजीब है।"
+        }
+      ]
+    },
+    {
+      "word": "Touch",
+      "gujaratiPronunciation": "ટચ",
+      "hindiPronunciation": "टच",
+      "gujaratiMeaning": "સ્પર્શ, અડકવું",
+      "hindiMeaning": "स्पर्श, छूना",
+      "partOfSpeech": "noun/verb",
+      "verbForms": {
+        "V1": { "word": "Touch", "gujaratiPronunciation": "ટચ", "hindiPronunciation": "टच", "gujaratiMeaning": "અડકવું", "hindiMeaning": "छूना" },
+        "V2": { "word": "Touched", "gujaratiPronunciation": "ટચ્ડ", "hindiPronunciation": "टच्ड", "gujaratiMeaning": "અડક્યું", "hindiMeaning": "छुआ" },
+        "V3": { "word": "Touched", "gujaratiPronunciation": "ટચ્ડ", "hindiPronunciation": "टच्ड", "gujaratiMeaning": "અડકેલું", "hindiMeaning": "छुआ हुआ" },
+        "V4": { "word": "Touching", "gujaratiPronunciation": "ટચિંગ", "hindiPronunciation": "टचिंग", "gujaratiMeaning": "અડકી રહ્યું છે", "hindiMeaning": "छू रहा है" }
+      },
+      "synonyms": [
+        { "word": "Feel", "gujaratiPronunciation": "ફીલ", "hindiPronunciation": "फील", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" },
+        { "word": "Contact", "gujaratiPronunciation": "કોન્ટેક્ટ", "hindiPronunciation": "कांटेक्ट", "gujaratiMeaning": "સંપર્ક", "hindiMeaning": "संपर्क" }
+      ],
+      "antonyms": [
+        { "word": "Avoid", "gujaratiPronunciation": "અવોઇડ", "hindiPronunciation": "अवॉयड", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" },
+        { "word": "Separate", "gujaratiPronunciation": "સેપરેટ", "hindiPronunciation": "सेपरेट", "gujaratiMeaning": "અલગ કરવું", "hindiMeaning": "अलग करना" }
+      ],
+      "confusingWords": [
+        { "word": "Teach", "gujaratiPronunciation": "ટીચ", "hindiPronunciation": "टीच", "gujaratiMeaning": "ભણાવવું", "hindiMeaning": "पढ़ाना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Don't touch the hot stove.",
+          "gujaratiPronunciation": "ડોન્ટ ટચ ધ હોટ સ્ટોવ.",
+          "hindiPronunciation": "डोंट टच द हॉट स्टोव।",
+          "gujaratiTranslation": "ગરમ ચૂલાને અડકશો નહીં.",
+          "hindiTranslation": "गर्म चूल्हे को मत छुओ।"
+        }
+      ]
+    },
+    {
+      "word": "Intuit",
+      "gujaratiPronunciation": "ઇન્ટ્યુટ",
+      "hindiPronunciation": "इंट्यूट",
+      "gujaratiMeaning": "સહજજ્ઞાનથી જાણવું",
+      "hindiMeaning": "सहज ज्ञान से जानना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Intuit", "gujaratiPronunciation": "ઇન્ટ્યુટ", "hindiPronunciation": "इंट्यूट", "gujaratiMeaning": "સહજજ્ઞાનથી જાણવું", "hindiMeaning": "सहज ज्ञान से जानना" },
+        "V2": { "word": "Intuited", "gujaratiPronunciation": "ઇન્ટ્યુટેડ", "hindiPronunciation": "इंट्यूटेड", "gujaratiMeaning": "સહજજ્ઞાનથી જાણ્યું", "hindiMeaning": "सहज ज्ञान से जाना" },
+        "V3": { "word": "Intuited", "gujaratiPronunciation": "ઇન્ટ્યુટેડ", "hindiPronunciation": "इंट्यूटेड", "gujaratiMeaning": "સહજજ્ઞાનથી જાણેલું", "hindiMeaning": "सहज ज्ञान से जाना हुआ" },
+        "V4": { "word": "Intuiting", "gujaratiPronunciation": "ઇન્ટ્યુટિંગ", "hindiPronunciation": "इंट्यूटिंग", "gujaratiMeaning": "સહજજ્ઞાનથી જાણી રહ્યું છે", "hindiMeaning": "सहज ज्ञान से जान रहा है" }
+      },
+      "synonyms": [
+        { "word": "Sense", "gujaratiPronunciation": "સેન્સ", "hindiPronunciation": "सेंस", "gujaratiMeaning": "અનુભવવું", "hindiMeaning": "महसूस करना" },
+        { "word": "Perceive", "gujaratiPronunciation": "પર્સીવ", "hindiPronunciation": "परसीव", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" }
+      ],
+      "antonyms": [
+        { "word": "Reason", "gujaratiPronunciation": "રીઝન", "hindiPronunciation": "रीज़न", "gujaratiMeaning": "તર્ક કરવો", "hindiMeaning": "तर्क करना" },
+        { "word": "Analyze", "gujaratiPronunciation": "એનલાઈઝ", "hindiPronunciation": "एनालाइज़", "gujaratiMeaning": "વિશ્લેષણ કરવું", "hindiMeaning": "विश्लेषण करना" }
+      ],
+      "confusingWords": [
+        { "word": "Invite", "gujaratiPronunciation": "ઇન્વાઇટ", "hindiPronunciation": "इनवाइट", "gujaratiMeaning": "આમંત્રણ આપવું", "hindiMeaning": "आमंत्रित करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She could intuit the answer without any calculation.",
+          "gujaratiPronunciation": "શી કુડ ઇન્ટ્યુટ ધ આન્સર વિધાઉટ એની કેલ્ક્યુલેશન.",
+          "hindiPronunciation": "शी कुड इंट्यूट द आंसर विदाउट एनी कैलकुलेशन।",
+          "gujaratiTranslation": "તેણી કોઈપણ ગણતરી વિના જવાબનું સહજજ્ઞાન કરી શકતી હતી.",
+          "hindiTranslation": "वह बिना किसी गणना के उत्तर का सहज ज्ञान कर सकती थी।"
+        }
+      ]
+    },
+    {
+      "word": "Perceive",
+      "gujaratiPronunciation": "પર્સીવ",
+      "hindiPronunciation": "परसीव",
+      "gujaratiMeaning": "સમજવું, ગ્રહણ કરવું",
+      "hindiMeaning": "समझना, अनुभव करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "V1": { "word": "Perceive", "gujaratiPronunciation": "પર્સીવ", "hindiPronunciation": "परसीव", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        "V2": { "word": "Perceived", "gujaratiPronunciation": "પર્સીવ્ડ", "hindiPronunciation": "परसीव्ड", "gujaratiMeaning": "સમજ્યું", "hindiMeaning": "समझा" },
+        "V3": { "word": "Perceived", "gujaratiPronunciation": "પર્સીવ્ડ", "hindiPronunciation": "परसीव्ड", "gujaratiMeaning": "સમજેલું", "hindiMeaning": "समझा हुआ" },
+        "V4": { "word": "Perceiving", "gujaratiPronunciation": "પર્સીવિંગ", "hindiPronunciation": "परसीविंग", "gujaratiMeaning": "સમજી રહ્યું છે", "hindiMeaning": "समझ रहा है" }
+      },
+      "synonyms": [
+        { "word": "Understand", "gujaratiPronunciation": "અંડરસ્ટેન્ડ", "hindiPronunciation": "अंडरस्टैंड", "gujaratiMeaning": "સમજવું", "hindiMeaning": "समझना" },
+        { "word": "Recognize", "gujaratiPronunciation": "રેકગ્નાઇઝ", "hindiPronunciation": "रेकग्नाइज़", "gujaratiMeaning": "ઓળખવું", "hindiMeaning": "पहचानना" }
+      ],
+      "antonyms": [
+        { "word": "Misperceive", "gujaratiPronunciation": "મિસપર્સીવ", "hindiPronunciation": "मिसपरसीव", "gujaratiMeaning": "ખોટું સમજવું", "hindiMeaning": "गलत समझना" },
+        { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણવું", "hindiMeaning": "अनदेखा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Receive", "gujaratiPronunciation": "રિસીવ", "hindiPronunciation": "रिसीव", "gujaratiMeaning": "મેળવવું", "hindiMeaning": "प्राप्त करना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "How do you perceive the situation?",
+          "gujaratiPronunciation": "હાઉ ડુ યુ પર્સીવ ધ સિચ્યુએશન?",
+          "hindiPronunciation": "हाउ डू यू परसीव द सिचुएशन?",
+          "gujaratiTranslation": "તમે પરિસ્થિતિને કેવી રીતે સમજો છો?",
+          "hindiTranslation": "आप स्थिति को कैसे समझते हैं?"
+        }
+      ]
+    }
+  ]
+}

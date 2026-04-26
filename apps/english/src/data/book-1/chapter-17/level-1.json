@@ -1,0 +1,15 @@
+{
+    "id": "level-1",
+    "title": "Basic Actions 1",
+    "words": [
+        { "word": "Next", "icon": "➡️", "gujaratiMeaning": "આગળ", "hindiMeaning": "अगला", "gujaratiPronunciation": "નેક્સ્ટ", "hindiPronunciation": "नेक्स्ट" },
+        { "word": "Previous", "icon": "⬅️", "gujaratiMeaning": "પાછળ", "hindiMeaning": "पिछला", "gujaratiPronunciation": "પ્રીવિયસ", "hindiPronunciation": "प्रीवियस" },
+        { "word": "Exit", "icon": "🚪", "gujaratiMeaning": "બહાર", "hindiMeaning": "बाहर", "gujaratiPronunciation": "એક્ઝિટ", "hindiPronunciation": "एग्जिट" },
+        { "word": "Open", "icon": "🔓", "gujaratiMeaning": "ખોલો", "hindiMeaning": "खोलें", "gujaratiPronunciation": "ઓપન", "hindiPronunciation": "ओपन" },
+        { "word": "Setting", "icon": "⚙️", "gujaratiMeaning": "સેટિંગ", "hindiMeaning": "सेटिंग", "gujaratiPronunciation": "સેટિંગ", "hindiPronunciation": "सेटिंग" },
+        { "word": "Start", "icon": "▶️", "gujaratiMeaning": "શરૂ કરો", "hindiMeaning": "शुरू करें", "gujaratiPronunciation": "સ્ટાર્ટ", "hindiPronunciation": "स्टार्ट" },
+        { "word": "End", "icon": "⏹️", "gujaratiMeaning": "અંત", "hindiMeaning": "अंत", "gujaratiPronunciation": "એન્ડ", "hindiPronunciation": "एंड" },
+        { "word": "Close", "icon": "🔒", "gujaratiMeaning": "બંધ", "hindiMeaning": "बंद", "gujaratiPronunciation": "ક્લોઝ", "hindiPronunciation": "क्लोज" },
+        { "word": "Continue", "icon": "⏭️", "gujaratiMeaning": "ચાલુ રાખો", "hindiMeaning": "जारी रखें", "gujaratiPronunciation": "કન્ટીન્યુ", "hindiPronunciation": "कंटिन्यू" }
+    ]
+}

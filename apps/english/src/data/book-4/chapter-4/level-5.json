@@ -1,0 +1,432 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Restore",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "પુનઃસ્થાપિત કરવું",
+      "hindiMeaning": "पुनर्स्थापित करना",
+      "gujaratiPronunciation": "રિસ્ટોર",
+      "hindiPronunciation": "रिस्टोर",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Restore",
+          "gujaratiPronunciation": "રિસ્ટોર",
+          "hindiPronunciation": "रिस्टोर",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કરવું",
+          "hindiMeaning": "पुनर्स्थापित करना"
+        },
+        "V2 (Past)": {
+          "word": "Restored",
+          "gujaratiPronunciation": "રિસ્ટોર્ડ",
+          "hindiPronunciation": "रिस्टोर्ड",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કર્યું",
+          "hindiMeaning": "पुनर्स्थापित किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Restored",
+          "gujaratiPronunciation": "રિસ્ટોર્ડ",
+          "hindiPronunciation": "रिस्टोर्ड",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કરેલું",
+          "hindiMeaning": "पुनर्स्थापित किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Restoring",
+          "gujaratiPronunciation": "રિસ્ટોરિંગ",
+          "hindiPronunciation": "रिस्टोरिंग",
+          "gujaratiMeaning": "પુનઃસ્થાપિત કરી રહ્યું",
+          "hindiMeaning": "पुनर्स्थापित कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Reinstate",
+          "gujaratiPronunciation": "રિઇનસ્ટેટ",
+          "hindiPronunciation": "रीइंस्टेट",
+          "gujaratiMeaning": "ફરીથી સ્થાપિત કરવું",
+          "hindiMeaning": "फिर से स्थापित करना"
+        },
+        {
+          "word": "Renew",
+          "gujaratiPronunciation": "રિન્યૂ",
+          "hindiPronunciation": "रिन्यू",
+          "gujaratiMeaning": "નવીનીકરણ કરવું",
+          "hindiMeaning": "नवीनीकृत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Damage",
+          "gujaratiPronunciation": "ડેમેજ",
+          "hindiPronunciation": "डैमेज",
+          "gujaratiMeaning": "નુકસાન કરવું",
+          "hindiMeaning": "क्षति पहुँचाना"
+        },
+        {
+          "word": "Destroy",
+          "gujaratiPronunciation": "ડિસ્ટ્રોય",
+          "hindiPronunciation": "डिस्ट्रॉय",
+          "gujaratiMeaning": "નાશ કરવો",
+          "hindiMeaning": "नष्ट करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Re-store",
+          "gujaratiPronunciation": "રિ-સ્ટોર",
+          "hindiPronunciation": "री-स्टोर",
+          "gujaratiMeaning": "ફરીથી સંગ્રહ કરવો",
+          "hindiMeaning": "फिर से संग्रहीत करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They want to restore the old building to its original condition.",
+          "gujaratiPronunciation": "ધે વોન્ટ ટુ રિસ્ટોર ધ ઓલ્ડ બિલ્ડિંગ ટુ ઇટ્સ ઓરિજિનલ કન્ડિશન.",
+          "hindiPronunciation": "दे वॉन्ट टू रिस्टोर द ओल्ड बिल्डिंग टू इट्स ओरिजिनल कंडीशन।",
+          "gujaratiTranslation": "તેઓ જૂની ઇમારતને તેની મૂળ સ્થિતિમાં પુનઃસ્થાપિત કરવા માગે છે.",
+          "hindiTranslation": "वे पुरानी इमारत को उसकी मूल स्थिति में पुनर्स्थापित करना चाहते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Retrofit",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "નવા ભાગો ઉમેરવા",
+      "hindiMeaning": "नए हिस्से जोड़ना",
+      "gujaratiPronunciation": "રેટ્રોફિટ",
+      "hindiPronunciation": "रेट्रोफिट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Retrofit",
+          "gujaratiPronunciation": "રેટ્રોફિટ",
+          "hindiPronunciation": "रेट्रोफिट",
+          "gujaratiMeaning": "નવા ભાગો ઉમેરવા",
+          "hindiMeaning": "नए हिस्से जोड़ना"
+        },
+        "V2 (Past)": {
+          "word": "Retrofitted",
+          "gujaratiPronunciation": "રેટ્રોફિટેડ",
+          "hindiPronunciation": "रेट्रोफिटेड",
+          "gujaratiMeaning": "નવા ભાગો ઉમેર્યા",
+          "hindiMeaning": "नए हिस्से जोड़े"
+        },
+        "V3 (Past Participle)": {
+          "word": "Retrofitted",
+          "gujaratiPronunciation": "રેટ્રોફિટેડ",
+          "hindiPronunciation": "रेट्रोफिटेड",
+          "gujaratiMeaning": "નવા ભાગો ઉમેરેલા",
+          "hindiMeaning": "नए हिस्से जोड़े हुए"
+        },
+        "V4 (Present Participle)": {
+          "word": "Retrofitting",
+          "gujaratiPronunciation": "રેટ્રોફિટિંગ",
+          "hindiPronunciation": "रेट्रोफिटिंग",
+          "gujaratiMeaning": "નવા ભાગો ઉમેરી રહ્યું",
+          "hindiMeaning": "नए हिस्से जोड़ रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Modernize",
+          "gujaratiPronunciation": "મોર્ડનાઇઝ",
+          "hindiPronunciation": "मॉडर्नाइज़",
+          "gujaratiMeaning": "આધુનિકીકરણ કરવું",
+          "hindiMeaning": "आधुनिकीकरण करना"
+        },
+        {
+          "word": "Upgrade",
+          "gujaratiPronunciation": "અપગ્રેડ",
+          "hindiPronunciation": "अपग्रेड",
+          "gujaratiMeaning": "સુધારવું",
+          "hindiMeaning": "उन्नत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Degrade",
+          "gujaratiPronunciation": "ડિગ્રેડ",
+          "hindiPronunciation": "डिग्रेड",
+          "gujaratiMeaning": "અધોગતિ કરવી",
+          "hindiMeaning": "अवमूल्यन करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Refit",
+          "gujaratiPronunciation": "રીફિટ",
+          "hindiPronunciation": "रिफिट",
+          "gujaratiMeaning": "ફરીથી બેસાડવું",
+          "hindiMeaning": "फिर से लगाना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "We need to retrofit the old machinery with new safety features.",
+          "gujaratiPronunciation": "વી નીડ ટુ રેટ્રોફિટ ધ ઓલ્ડ મશીનરી વિથ ન્યૂ સેફ્ટી ફીચર્સ.",
+          "hindiPronunciation": "वी नीड टू रेट्रोफिट द ओल्ड मशीनरी विद न्यू सेफ्टी फीचर्स।",
+          "gujaratiTranslation": "આપણે જૂની મશીનરીમાં નવી સલામતી સુવિધાઓ ઉમેરવાની જરૂર છે.",
+          "hindiTranslation": "हमें पुरानी मशीनरी में नई सुरक्षा सुविधाएँ लगानी होंगी।"
+        }
+      ]
+    },
+    {
+      "word": "Integrate",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "એકીકૃત કરવું",
+      "hindiMeaning": "एकीकृत करना",
+      "gujaratiPronunciation": "ઇન્ટિગ્રેટ",
+      "hindiPronunciation": "इंटीग्रेट",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Integrate",
+          "gujaratiPronunciation": "ઇન્ટિગ્રેટ",
+          "hindiPronunciation": "इंटीग्रेट",
+          "gujaratiMeaning": "એકીકૃત કરવું",
+          "hindiMeaning": "एकीकृत करना"
+        },
+        "V2 (Past)": {
+          "word": "Integrated",
+          "gujaratiPronunciation": "ઇન્ટિગ્રેટેડ",
+          "hindiPronunciation": "इंटीग्रेटेड",
+          "gujaratiMeaning": "એકીકૃત કર્યું",
+          "hindiMeaning": "एकीकृत किया"
+        },
+        "V3 (Past Participle)": {
+          "word": "Integrated",
+          "gujaratiPronunciation": "ઇન્ટિગ્રેટેડ",
+          "hindiPronunciation": "इंटीग्रेटेड",
+          "gujaratiMeaning": "એકીકૃત કરેલું",
+          "hindiMeaning": "एकीकृत किया हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Integrating",
+          "gujaratiPronunciation": "ઇન્ટિગ્રેટિંગ",
+          "hindiPronunciation": "इंटीग्रेटिंग",
+          "gujaratiMeaning": "એકીકૃત કરી રહ્યું",
+          "hindiMeaning": "एकीकृत कर रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Combine",
+          "gujaratiPronunciation": "કમ્બાઇન",
+          "hindiPronunciation": "कंबाइन",
+          "gujaratiMeaning": "ભેગું કરવું",
+          "hindiMeaning": "मिलाना"
+        },
+        {
+          "word": "Merge",
+          "gujaratiPronunciation": "મર્જ",
+          "hindiPronunciation": "मर्ज",
+          "gujaratiMeaning": "વિલીન કરવું",
+          "hindiMeaning": "विलय करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Separate",
+          "gujaratiPronunciation": "સેપરેટ",
+          "hindiPronunciation": "सेपरेट",
+          "gujaratiMeaning": "અલગ કરવું",
+          "hindiMeaning": "अलग करना"
+        },
+        {
+          "word": "Disintegrate",
+          "gujaratiPronunciation": "ડિસઇન્ટિગ્રેટ",
+          "hindiPronunciation": "डिसइंटीग्रेट",
+          "gujaratiMeaning": "વિઘટિત કરવું",
+          "hindiMeaning": "विघटित करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Interrogate",
+          "gujaratiPronunciation": "ઇન્ટરોગેટ",
+          "hindiPronunciation": "इंटररोगेट",
+          "gujaratiMeaning": "પૂછપરછ કરવી",
+          "hindiMeaning": "पूछताछ करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The new system will integrate all the company's data.",
+          "gujaratiPronunciation": "ધ ન્યૂ સિસ્ટમ વિલ ઇન્ટિગ્રેટ ઓલ ધ કંપનીઝ ડેટા.",
+          "hindiPronunciation": "द न्यू सिस्टम विल इंटीग्रेट ऑल द कंपनीज़ डेटा।",
+          "gujaratiTranslation": "નવી સિસ્ટમ કંપનીના તમામ ડેટાને એકીકૃત કરશે.",
+          "hindiTranslation": "नई प्रणाली कंपनी के सभी डेटा को एकीकृत करेगी।"
+        }
+      ]
+    },
+    {
+      "word": "Mend",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "સાંધવું",
+      "hindiMeaning": "सुधारना",
+      "gujaratiPronunciation": "મેન્ડ",
+      "hindiPronunciation": "मेंड",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Mend",
+          "gujaratiPronunciation": "મેન્ડ",
+          "hindiPronunciation": "मेंड",
+          "gujaratiMeaning": "સાંધવું",
+          "hindiMeaning": "सुधारना"
+        },
+        "V2 (Past)": {
+          "word": "Mended",
+          "gujaratiPronunciation": "મેન્ડેડ",
+          "hindiPronunciation": "मेंडेड",
+          "gujaratiMeaning": "સાંધ્યું",
+          "hindiMeaning": "सुधारा"
+        },
+        "V3 (Past Participle)": {
+          "word": "Mended",
+          "gujaratiPronunciation": "મેન્ડેડ",
+          "hindiPronunciation": "मेंडेड",
+          "gujaratiMeaning": "સાંધેલું",
+          "hindiMeaning": "सुधारा हुआ"
+        },
+        "V4 (Present Participle)": {
+          "word": "Mending",
+          "gujaratiPronunciation": "મેન્ડિંગ",
+          "hindiPronunciation": "मेंडिंग",
+          "gujaratiMeaning": "સાંધી રહ્યું",
+          "hindiMeaning": "सुधार रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Repair",
+          "gujaratiPronunciation": "રિપેર",
+          "hindiPronunciation": "रिपेयर",
+          "gujaratiMeaning": "સમારકામ કરવું",
+          "hindiMeaning": "मरम्मत करना"
+        },
+        {
+          "word": "Fix",
+          "gujaratiPronunciation": "ફિક્સ",
+          "hindiPronunciation": "फिक्स",
+          "gujaratiMeaning": "ઠીક કરવું",
+          "hindiMeaning": "ठीक करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Break",
+          "gujaratiPronunciation": "બ્રેક",
+          "hindiPronunciation": "ब्रेक",
+          "gujaratiMeaning": "તોડવું",
+          "hindiMeaning": "तोड़ना"
+        },
+        {
+          "word": "Tear",
+          "gujaratiPronunciation": "ટેર",
+          "hindiPronunciation": "टेयर",
+          "gujaratiMeaning": "ફાડવું",
+          "hindiMeaning": "फाड़ना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Bend",
+          "gujaratiPronunciation": "બેન્ડ",
+          "hindiPronunciation": "बेंड",
+          "gujaratiMeaning": "વાળવું",
+          "hindiMeaning": "झुकना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She tried to mend her broken relationship.",
+          "gujaratiPronunciation": "શી ટ્રાઇડ ટુ મેન્ડ હર બ્રોકન રિલેશનશિપ.",
+          "hindiPronunciation": "शी ट्राइड टू मेंड हर ब्रोकन रिलेशनशिप।",
+          "gujaratiTranslation": "તેણીએ તેના તૂટેલા સંબંધને સુધારવાનો પ્રયાસ કર્યો.",
+          "hindiTranslation": "उसने अपने टूटे रिश्ते को सुधारने की कोशिश की।"
+        }
+      ]
+    },
+    {
+      "word": "Lattice",
+      "partOfSpeech": "Verb",
+      "gujaratiMeaning": "જાળી બનાવવી",
+      "hindiMeaning": "जाली बनाना",
+      "gujaratiPronunciation": "લેટિસ",
+      "hindiPronunciation": "लैटिस",
+      "verbForms": {
+        "V1 (Base)": {
+          "word": "Lattice",
+          "gujaratiPronunciation": "લેટિસ",
+          "hindiPronunciation": "लैटिस",
+          "gujaratiMeaning": "જાળી બનાવવી",
+          "hindiMeaning": "जाली बनाना"
+        },
+        "V2 (Past)": {
+          "word": "Latticed",
+          "gujaratiPronunciation": "લેટિસ્ડ",
+          "hindiPronunciation": "लैटिस्ड",
+          "gujaratiMeaning": "જાળી બનાવી",
+          "hindiMeaning": "जाली बनाई"
+        },
+        "V3 (Past Participle)": {
+          "word": "Latticed",
+          "gujaratiPronunciation": "લેટિસ્ડ",
+          "hindiPronunciation": "लैटिस्ड",
+          "gujaratiMeaning": "જાળી બનાવેલી",
+          "hindiMeaning": "जाली बनाई हुई"
+        },
+        "V4 (Present Participle)": {
+          "word": "Latticing",
+          "gujaratiPronunciation": "લેટિસિંગ",
+          "hindiPronunciation": "लैटिसिंग",
+          "gujaratiMeaning": "જાળી બનાવી રહ્યું",
+          "hindiMeaning": "जाली बना रहा"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Weave",
+          "gujaratiPronunciation": "વીવ",
+          "hindiPronunciation": "वीव",
+          "gujaratiMeaning": "ગૂંથવું",
+          "hindiMeaning": "बुनना"
+        },
+        {
+          "word": "Interlace",
+          "gujaratiPronunciation": "ઇન્ટરલેસ",
+          "hindiPronunciation": "इंटरलेस",
+          "gujaratiMeaning": "એકબીજામાં ગૂંથવું",
+          "hindiMeaning": "एक दूसरे में बुनना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Unravel",
+          "gujaratiPronunciation": "અનરેવલ",
+          "hindiPronunciation": "अनरेवल",
+          "gujaratiMeaning": "ઉકેલવું",
+          "hindiMeaning": "सुलझाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Lettuce",
+          "gujaratiPronunciation": "લેટસ",
+          "hindiPronunciation": "लेट्यूस",
+          "gujaratiMeaning": "એક પ્રકારની ભાજી",
+          "hindiMeaning": "सलाद पत्ता"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The baker latticed the top of the pie with strips of dough.",
+          "gujaratiPronunciation": "ધ બેકર લેટિસ્ડ ધ ટોપ ઓફ ધ પાઇ વિથ સ્ટ્રિપ્સ ઓફ ડો.",
+          "hindiPronunciation": "द बेकर लैटिस्ड द टॉप ऑफ द पाई विद स्ट्रिप्स ऑफ डो।",
+          "gujaratiTranslation": "બેકરે કણકની પટ્ટીઓ વડે પાઇની ટોચ પર જાળી બનાવી.",
+          "hindiTranslation": "बेकर ने आटे की पट्टियों से पाई के ऊपर जाली बनाई।"
+        }
+      ]
+    }
+  ]
+}

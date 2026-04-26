@@ -1,0 +1,151 @@
+{
+  "id": "level-5",
+  "title": "Level 5",
+  "words": [
+    {
+      "word": "Subvert",
+      "gujaratiPronunciation": "સબવર્ટ",
+      "hindiPronunciation": "सबवर्ट",
+      "gujaratiMeaning": "ઉથલાવી દેવું",
+      "hindiMeaning": "उखाड़ फेंकना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Subvert", "gujaratiPronunciation": "સબવર્ટ", "hindiPronunciation": "सबवर्ट", "gujaratiMeaning": "ઉથલાવી દેવું", "hindiMeaning": "उखाड़ फेंकना" },
+        "v2": { "word": "Subverted", "gujaratiPronunciation": "સબવર્ટેડ", "hindiPronunciation": "सबवर्टेड", "gujaratiMeaning": "ઉથલાવી દીધું", "hindiMeaning": "उखाड़ फेंका" },
+        "v3": { "word": "Subverted", "gujaratiPronunciation": "સબવર્ટેડ", "hindiPronunciation": "सबवर्टेड", "gujaratiMeaning": "ઉથલાવી દીધેલું", "hindiMeaning": "उखाड़ फेंक चुका" },
+        "v4": { "word": "Subverting", "gujaratiPronunciation": "સબવર્ટિંગ", "hindiPronunciation": "सबवर्टिंग", "gujaratiMeaning": "ઉથલાવી રહ્યું છે", "hindiMeaning": "उखाड़ फेंक रहा है" }
+      },
+      "synonyms": [
+        { "word": "Undermine", "gujaratiPronunciation": "અન્ડરમાઇન", "hindiPronunciation": "अंडरमाइन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमजोर करना" },
+        { "word": "Overthrow", "gujaratiPronunciation": "ઓવરથ્રો", "hindiPronunciation": "ओवरथ्रो", "gujaratiMeaning": "ઉથલાવી નાખવું", "hindiMeaning": "उखाड़ फेंकना" }
+      ],
+      "antonyms": [
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" },
+        { "word": "Uphold", "gujaratiPronunciation": "અપહોલ્ડ", "hindiPronunciation": "अपहोल्ड", "gujaratiMeaning": "ટકી રહેવું", "hindiMeaning": "बनाए रखना" }
+      ],
+      "confusingWords": [
+        { "word": "Submit", "gujaratiPronunciation": "સબમિટ", "hindiPronunciation": "सबमिट", "gujaratiMeaning": "જમા કરવું", "hindiMeaning": "जमा करना" },
+        { "word": "Convert", "gujaratiPronunciation": "કન્વર્ટ", "hindiPronunciation": "कन्वर्ट", "gujaratiMeaning": "રૂપાંતર કરવું", "hindiMeaning": "परिवर्तित करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "They tried to subvert the government.", "gujaratiPronunciation": "ધે ટ્રાઇડ ટુ સબવર્ટ ધ ગવર્નમેન્ટ.", "hindiPronunciation": "दे ट्राइड टू सबवर्ट द गवर्नमेंट।", "gujaratiTranslation": "તેઓએ સરકારને ઉથલાવી દેવાનો પ્રયાસ કર્યો.", "hindiTranslation": "उन्होंने सरकार को उखाड़ फेंकने की कोशिश की।" }
+      ]
+    },
+    {
+      "word": "Vanquish",
+      "gujaratiPronunciation": "વેન્ક્વિશ",
+      "hindiPronunciation": "वैंक्विश",
+      "gujaratiMeaning": "પરાજિત કરવું",
+      "hindiMeaning": "पराजित करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Vanquish", "gujaratiPronunciation": "વેન્ક્વિશ", "hindiPronunciation": "वैंक्विश", "gujaratiMeaning": "પરાજિત કરવું", "hindiMeaning": "पराजित करना" },
+        "v2": { "word": "Vanquished", "gujaratiPronunciation": "વેન્ક્વિશ્ડ", "hindiPronunciation": "वैंक्विश्ड", "gujaratiMeaning": "પરાજિત કર્યું", "hindiMeaning": "पराजित किया" },
+        "v3": { "word": "Vanquished", "gujaratiPronunciation": "વેન્ક્વિશ્ડ", "hindiPronunciation": "वैंक्विश्ड", "gujaratiMeaning": "પરાજિત કરેલું", "hindiMeaning": "पराजित कर चुका" },
+        "v4": { "word": "Vanquishing", "gujaratiPronunciation": "વેન્ક્વિશિંગ", "hindiPronunciation": "वैंक्विशिंग", "gujaratiMeaning": "પરાજિત કરી રહ્યું છે", "hindiMeaning": "पराजित कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Conquer", "gujaratiPronunciation": "કોન્કર", "hindiPronunciation": "कॉन्कर", "gujaratiMeaning": "જીતવું", "hindiMeaning": "जीतना" },
+        { "word": "Defeat", "gujaratiPronunciation": "ડિફીટ", "hindiPronunciation": "डिफीट", "gujaratiMeaning": "હરાવવું", "hindiMeaning": "हराना" }
+      ],
+      "antonyms": [
+        { "word": "Surrender", "gujaratiPronunciation": "સરેન્ડર", "hindiPronunciation": "सरेंडर", "gujaratiMeaning": "શરણાગતિ સ્વીકારવી", "hindiMeaning": "आत्मसमर्पण करना" },
+        { "word": "Lose", "gujaratiPronunciation": "લૂઝ", "hindiPronunciation": "लूज़", "gujaratiMeaning": "હારવું", "hindiMeaning": "हारना" }
+      ],
+      "confusingWords": [
+        { "word": "Vanish", "gujaratiPronunciation": "વેનિશ", "hindiPronunciation": "वैनिश", "gujaratiMeaning": "અદૃશ્ય થવું", "hindiMeaning": "गायब हो जाना" },
+        { "word": "Relinquish", "gujaratiPronunciation": "રિલિન્ક્વિશ", "hindiPronunciation": "रिलिंक्विश", "gujaratiMeaning": "ત્યાગ કરવો", "hindiMeaning": "त्याग देना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The hero's quest was to vanquish the evil dragon.", "gujaratiPronunciation": "ધ હીરોઝ ક્વેસ્ટ વોઝ ટુ વેન્ક્વિશ ધ ઇવિલ ડ્રેગન.", "hindiPronunciation": "द हीरोज़ क्वेस्ट वॉज़ टू वैंक्विश द इविल ड्रैगन।", "gujaratiTranslation": "હીરોની શોધ દુષ્ટ ડ્રેગનને પરાજિત કરવાની હતી.", "hindiTranslation": "नायक की खोज दुष्ट ड्रैगन को हराने की थी।" }
+      ]
+    },
+    {
+      "word": "Liquidate",
+      "gujaratiPronunciation": "લિક્વિડેટ",
+      "hindiPronunciation": "लिक्विडेट",
+      "gujaratiMeaning": "વેચી નાખવું",
+      "hindiMeaning": "बेच देना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Liquidate", "gujaratiPronunciation": "લિક્વિડેટ", "hindiPronunciation": "लिक्विडेट", "gujaratiMeaning": "વેચી નાખવું", "hindiMeaning": "बेच देना" },
+        "v2": { "word": "Liquidated", "gujaratiPronunciation": "લિક્વિડેટેડ", "hindiPronunciation": "लिक्विडेटेड", "gujaratiMeaning": "વેચી નાખ્યું", "hindiMeaning": "बेच दिया" },
+        "v3": { "word": "Liquidated", "gujaratiPronunciation": "લિક્વિડેટેડ", "hindiPronunciation": "लिक्विडेटेड", "gujaratiMeaning": "વેચી નાખેલું", "hindiMeaning": "बेच चुका" },
+        "v4": { "word": "Liquidating", "gujaratiPronunciation": "લિક્વિડેટિંગ", "hindiPronunciation": "लिक्विडेटिंग", "gujaratiMeaning": "વેચી રહ્યું છે", "hindiMeaning": "बेच रहा है" }
+      },
+      "synonyms": [
+        { "word": "Sell off", "gujaratiPronunciation": "સેલ ઓફ", "hindiPronunciation": "सेल ऑफ", "gujaratiMeaning": "વેચી કાઢવું", "hindiMeaning": "बेच डालना" },
+        { "word": "Eliminate", "gujaratiPronunciation": "એલિમિનેટ", "hindiPronunciation": "एलिमिनेट", "gujaratiMeaning": "નાબૂદ કરવું", "hindiMeaning": "खत्म करना" }
+      ],
+      "antonyms": [
+        { "word": "Invest", "gujaratiPronunciation": "ઇન્વેસ્ટ", "hindiPronunciation": "इन्वेस्ट", "gujaratiMeaning": "રોકાણ કરવું", "hindiMeaning": "निवेश करना" },
+        { "word": "Establish", "gujaratiPronunciation": "એસ્ટાબ્લિશ", "hindiPronunciation": "एस्टैब्लिश", "gujaratiMeaning": "સ્થાપના કરવી", "hindiMeaning": "स्थापित करना" }
+      ],
+      "confusingWords": [
+        { "word": "Liquid", "gujaratiPronunciation": "લિક્વિડ", "hindiPronunciation": "लिक्विड", "gujaratiMeaning": "પ્રવાહી", "hindiMeaning": "तरल" },
+        { "word": "Elucidate", "gujaratiPronunciation": "ઇલ્યુસિડેટ", "hindiPronunciation": "एल्यूसिडेट", "gujaratiMeaning": "સ્પષ્ટ કરવું", "hindiMeaning": "स्पष्ट करना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The company had to liquidate its assets to pay debts.", "gujaratiPronunciation": "ધ કંપની હેડ ટુ લિક્વિડેટ ઇટ્સ એસેટ્સ ટુ પે ડેટ્સ.", "hindiPronunciation": "द कंपनी हैड टू लिक्विडेट इट्स एसेट्स टू पे डेट्स।", "gujaratiTranslation": "કંપનીને દેવું ચૂકવવા માટે તેની મિલકતો વેચી નાખવી પડી.", "hindiTranslation": "कंपनी को कर्ज चुकाने के लिए अपनी संपत्ति बेचनी पड़ी।" }
+      ]
+    },
+    {
+      "word": "Wreck",
+      "gujaratiPronunciation": "રેક",
+      "hindiPronunciation": "रेक",
+      "gujaratiMeaning": "નાશ કરવો",
+      "hindiMeaning": "नाश करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Wreck", "gujaratiPronunciation": "રેક", "hindiPronunciation": "रेक", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नाश करना" },
+        "v2": { "word": "Wrecked", "gujaratiPronunciation": "રેક્ડ", "hindiPronunciation": "रेक्ड", "gujaratiMeaning": "નાશ કર્યો", "hindiMeaning": "नाश किया" },
+        "v3": { "word": "Wrecked", "gujaratiPronunciation": "રેક્ડ", "hindiPronunciation": "रेक्ड", "gujaratiMeaning": "નાશ કરેલો", "hindiMeaning": "नाश कर चुका" },
+        "v4": { "word": "Wrecking", "gujaratiPronunciation": "રેકિંગ", "hindiPronunciation": "रेकिंग", "gujaratiMeaning": "નાશ કરી રહ્યું છે", "hindiMeaning": "नाश कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Destroy", "gujaratiPronunciation": "ડિસ્ટ્રોય", "hindiPronunciation": "डिस्ट्रॉय", "gujaratiMeaning": "નાશ કરવો", "hindiMeaning": "नष्ट करना" },
+        { "word": "Ruin", "gujaratiPronunciation": "રુઇન", "hindiPronunciation": "रुइन", "gujaratiMeaning": "બરબાદ કરવું", "hindiMeaning": "बर्बाद करना" }
+      ],
+      "antonyms": [
+        { "word": "Build", "gujaratiPronunciation": "બિલ્ડ", "hindiPronunciation": "बिल्ड", "gujaratiMeaning": "બનાવવું", "hindiMeaning": "बनाना" },
+        { "word": "Repair", "gujaratiPronunciation": "રિપેર", "hindiPronunciation": "रिपेयर", "gujaratiMeaning": "સમારકામ કરવું", "hindiMeaning": "मरम्मत करना" }
+      ],
+      "confusingWords": [
+        { "word": "Rack", "gujaratiPronunciation": "રેક", "hindiPronunciation": "रैक", "gujaratiMeaning": "ઘોડી", "hindiMeaning": "रैक" },
+        { "word": "Reek", "gujaratiPronunciation": "રીક", "hindiPronunciation": "रीक", "gujaratiMeaning": "દુર્ગંધ આવવી", "hindiMeaning": "दुर्गंध आना" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The storm could wreck the entire coastal town.", "gujaratiPronunciation": "ધ સ્ટોર્મ કુડ રેક ધ એન્ટાયર કોસ્ટલ ટાઉન.", "hindiPronunciation": "द स्टॉर्म कुड रेक द एंटायर कोस्टल टाઉન।", "gujaratiTranslation": "વાવાઝોડું આખા દરિયાકાંઠાના શહેરને નષ્ટ કરી શકે છે.", "hindiTranslation": "तूफान पूरे तटीय शहर को नष्ट कर सकता है।" }
+      ]
+    },
+    {
+      "word": "Disband",
+      "gujaratiPronunciation": "ડિસબેન્ડ",
+      "hindiPronunciation": "डिसबैंड",
+      "gujaratiMeaning": "વિખેરી નાખવું",
+      "hindiMeaning": "भंग करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Disband", "gujaratiPronunciation": "ડિસબેન્ડ", "hindiPronunciation": "डिसबैंड", "gujaratiMeaning": "વિખેરી નાખવું", "hindiMeaning": "भंग करना" },
+        "v2": { "word": "Disbanded", "gujaratiPronunciation": "ડિસબેન્ડેડ", "hindiPronunciation": "डिसबैंडेड", "gujaratiMeaning": "વિખેરી નાખ્યું", "hindiMeaning": "भंग किया" },
+        "v3": { "word": "Disbanded", "gujaratiPronunciation": "ડિસબેન્ડેડ", "hindiPronunciation": "डिसबैंडेड", "gujaratiMeaning": "વિખેરી નાખેલું", "hindiMeaning": "भंग कर चुका" },
+        "v4": { "word": "Disbanding", "gujaratiPronunciation": "ડિસબેન્ડિંગ", "hindiPronunciation": "डिसबैंडिंग", "gujaratiMeaning": "વિખેરી રહ્યું છે", "hindiMeaning": "भंग कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Disperse", "gujaratiPronunciation": "ડિસ્પર્સ", "hindiPronunciation": "डिस्पर्स", "gujaratiMeaning": "વિખેરાઈ જવું", "hindiMeaning": "बिखेरना" },
+        { "word": "Dissolve", "gujaratiPronunciation": "ડિઝોલ્વ", "hindiPronunciation": "डिजॉल्व", "gujaratiMeaning": "વિસર્જન કરવું", "hindiMeaning": "भंग करना" }
+      ],
+      "antonyms": [
+        { "word": "Form", "gujaratiPronunciation": "ફોર્મ", "hindiPronunciation": "फॉर्म", "gujaratiMeaning": "રચના કરવી", "hindiMeaning": "गठन करना" },
+        { "word": "Assemble", "gujaratiPronunciation": "એસેમ્બલ", "hindiPronunciation": "असेंबल", "gujaratiMeaning": "એકત્ર કરવું", "hindiMeaning": "इकट्ठा करना" }
+      ],
+      "confusingWords": [
+        { "word": "Demand", "gujaratiPronunciation": "ડિમાન્ડ", "hindiPronunciation": "डिमांड", "gujaratiMeaning": "માંગ", "hindiMeaning": "मांग" },
+        { "word": "Husband", "gujaratiPronunciation": "હસબન્ડ", "hindiPronunciation": "हस्बैंड", "gujaratiMeaning": "પતિ", "hindiMeaning": "पति" }
+      ],
+      "exampleSentences": [
+        { "sentence": "The band decided to disband after ten years.", "gujaratiPronunciation": "ધ બેન્ડ ડિસાઇડેડ ટુ ડિસબેન્ડ આફ્ટર ટેન યર્સ.", "hindiPronunciation": "द बैंड डिसाइडेड टू डिसबैंड आफ्टर टेन इयर्स।", "gujaratiTranslation": "દસ વર્ષ પછી બેન્ડે વિખેરી નાખવાનો નિર્ણય કર્યો.", "hindiTranslation": "बैंड ने दस साल बाद भंग करने का फैसला किया।" }
+      ]
+    }
+  ]
+}

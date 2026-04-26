@@ -1,0 +1,146 @@
+{
+    "id": "level-1",
+    "title": "Level 1: Basic Actions",
+    "words": [
+        {
+            "word": "Heal",
+            "gujaratiPronunciation": "હીલ",
+            "hindiPronunciation": "हील",
+            "gujaratiMeaning": "સાજા થવું / રુઝાવું",
+            "hindiMeaning": "ठीक होना / घाव भरना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Heal", "gujaratiPronunciation": "હીલ", "hindiPronunciation": "हील", "gujaratiMeaning": "સાજા થવું", "hindiMeaning": "ठीक होना" },
+                "V2 (Past)": { "word": "Healed", "gujaratiPronunciation": "હીલ્ડ", "hindiPronunciation": "हील्ड", "gujaratiMeaning": "સાજા થયા", "hindiMeaning": "ठीक हो गया" },
+                "V3 (Past Participle)": { "word": "Healed", "gujaratiPronunciation": "હીલ્ડ", "hindiPronunciation": "हील्ड", "gujaratiMeaning": "સાજા થયેલ", "hindiMeaning": "ठीक हो चुका" },
+                "V4 (Present Participle)": { "word": "Healing", "gujaratiPronunciation": "હીલિંગ", "hindiPronunciation": "हीलिंग", "gujaratiMeaning": "સાજા થઈ રહ્યું છે", "hindiMeaning": "ठीक हो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Cure", "gujaratiPronunciation": "ક્યોર", "hindiPronunciation": "क्योर", "gujaratiMeaning": "ઇલાજ કરવો", "hindiMeaning": "इलाज करना" },
+                { "word": "Recover", "gujaratiPronunciation": "રિકવર", "hindiPronunciation": "रिकवर", "gujaratiMeaning": "પુનઃપ્રાપ્ત કરવું", "hindiMeaning": "पुनर्प्राप्त करना" }
+            ],
+            "antonyms": [
+                { "word": "Worsen", "gujaratiPronunciation": "વર્સન", "hindiPronunciation": "वर्सन", "gujaratiMeaning": "વધુ ખરાબ થવું", "hindiMeaning": "और बिगड़ना" },
+                { "word": "Injure", "gujaratiPronunciation": "ઇન્જર", "hindiPronunciation": "इन्जर", "gujaratiMeaning": "ઈજા પહોંચાડવી", "hindiMeaning": "घायल करना" }
+            ],
+            "confusingWords": [
+                { "word": "Heel", "gujaratiPronunciation": "હીલ", "hindiPronunciation": "हील", "gujaratiMeaning": "પગની એડી", "hindiMeaning": "पैर की एड़ी", "difference": "Heal એ ક્રિયાપદ છે (સાજા થવું), જ્યારે Heel એ શરીરનો ભાગ (એડી) છે." }
+            ],
+            "exampleSentences": [
+                { "sentence": "The wound will heal over time.", "gujaratiPronunciation": "ધ વુન્ડ વિલ હીલ ઓવર ટાઇમ.", "hindiPronunciation": "द वून्ड विल हील ओवर टाइम।", "gujaratiTranslation": "સમય જતાં ઘા રુઝાઈ જશે.", "hindiTranslation": "समय के साथ घाव भर जाएगा।" }
+            ]
+        },
+        {
+            "word": "Rest",
+            "gujaratiPronunciation": "રેસ્ટ",
+            "hindiPronunciation": "रेस्ट",
+            "gujaratiMeaning": "આરામ કરવો",
+            "hindiMeaning": "आराम करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Rest", "gujaratiPronunciation": "રેસ્ટ", "hindiPronunciation": "रेस्ट", "gujaratiMeaning": "આરામ કરવો", "hindiMeaning": "आराम करना" },
+                "V2 (Past)": { "word": "Rested", "gujaratiPronunciation": "રેસ્ટેડ", "hindiPronunciation": "रेस्टेड", "gujaratiMeaning": "આરામ કર્યો", "hindiMeaning": "आराम किया" },
+                "V3 (Past Participle)": { "word": "Rested", "gujaratiPronunciation": "રેસ્ટેડ", "hindiPronunciation": "रेस्टेड", "gujaratiMeaning": "આરામ કરેલ", "hindiMeaning": "आराम कर चुका" },
+                "V4 (Present Participle)": { "word": "Resting", "gujaratiPronunciation": "રેસ્ટિંગ", "hindiPronunciation": "रेस्टिंग", "gujaratiMeaning": "આરામ કરી રહ્યું છે", "hindiMeaning": "आराम कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Relax", "gujaratiPronunciation": "રિલેક્સ", "hindiPronunciation": "रिलैक्स", "gujaratiMeaning": "આરામ કરવો", "hindiMeaning": "आराम करना" },
+                { "word": "Repose", "gujaratiPronunciation": "રિપોઝ", "hindiPronunciation": "रिपोज़", "gujaratiMeaning": "વિશ્રામ કરવો", "hindiMeaning": "विश्राम करना" }
+            ],
+            "antonyms": [
+                { "word": "Work", "gujaratiPronunciation": "વર્ક", "hindiPronunciation": "वर्क", "gujaratiMeaning": "કામ કરવું", "hindiMeaning": "काम करना" },
+                { "word": "Toil", "gujaratiPronunciation": "ટોઇલ", "hindiPronunciation": "टॉयल", "gujaratiMeaning": "મહેનત કરવી", "hindiMeaning": "परिश्रम करना" }
+            ],
+            "confusingWords": [
+                { "word": "Arrest", "gujaratiPronunciation": "અરેસ્ટ", "hindiPronunciation": "अरेस्ट", "gujaratiMeaning": "ધરપકડ કરવી", "hindiMeaning": "गिरफ्तार करना", "difference": "Rest એટલે આરામ, જ્યારે Arrest એટલે ધરપકડ." }
+            ],
+            "exampleSentences": [
+                { "sentence": "You need to rest after a long day.", "gujaratiPronunciation": "યુ નીડ ટુ રેસ્ટ આફ્ટર અ લોંગ ડે.", "hindiPronunciation": "यू नीड टू रेस्ट आफ्टर अ लॉन्ग डे।", "gujaratiTranslation": "લાંબા દિવસ પછી તમારે આરામ કરવાની જરૂર છે.", "hindiTranslation": "एक लंबे दिन के बाद आपको आराम करने की ज़रूरत है।" }
+            ]
+        },
+        {
+            "word": "Exercise",
+            "gujaratiPronunciation": "એક્સરસાઇઝ",
+            "hindiPronunciation": "एक्सरसाइज़",
+            "gujaratiMeaning": "કસરત કરવી",
+            "hindiMeaning": "व्यायाम करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Exercise", "gujaratiPronunciation": "એક્સરસાઇઝ", "hindiPronunciation": "एक्सरसाइज़", "gujaratiMeaning": "કસરત કરવી", "hindiMeaning": "व्यायाम करना" },
+                "V2 (Past)": { "word": "Exercised", "gujaratiPronunciation": "એક્સરસાઇઝ્ડ", "hindiPronunciation": "एक्सरसाइज़्ड", "gujaratiMeaning": "કસરત કરી", "hindiMeaning": "व्यायाम किया" },
+                "V3 (Past Participle)": { "word": "Exercised", "gujaratiPronunciation": "એક્સરસાઇઝ્ડ", "hindiPronunciation": "एक्सरसाइज़्ड", "gujaratiMeaning": "કસરત કરેલ", "hindiMeaning": "व्यायाम कर चुका" },
+                "V4 (Present Participle)": { "word": "Exercising", "gujaratiPronunciation": "એક્સરસાઇઝિંગ", "hindiPronunciation": "एक्सरसाइज़िंग", "gujaratiMeaning": "કસરત કરી રહ્યું છે", "hindiMeaning": "व्यायाम कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Workout", "gujaratiPronunciation": "વર્કઆઉટ", "hindiPronunciation": "वर्कआउट", "gujaratiMeaning": "કસરત", "hindiMeaning": "कसरत" },
+                { "word": "Train", "gujaratiPronunciation": "ટ્રેન", "hindiPronunciation": "ट्रेन", "gujaratiMeaning": "તાલીમ લેવી", "hindiMeaning": "प्रशिक्षण लेना" }
+            ],
+            "antonyms": [
+                { "word": "Idle", "gujaratiPronunciation": "આઇડલ", "hindiPronunciation": "आइडल", "gujaratiMeaning": "નિષ્ક્રિય રહેવું", "hindiMeaning": "निष्क्रिय रहना" },
+                { "word": "Laze", "gujaratiPronunciation": "લેઝ", "hindiPronunciation": "लेज़", "gujaratiMeaning": "આળસ કરવી", "hindiMeaning": "आलस्य करना" }
+            ],
+            "confusingWords": [
+                { "word": "Exorcise", "gujaratiPronunciation": "એક્સૉરસાઇઝ", "hindiPronunciation": "एक्सॉरसाइज़", "gujaratiMeaning": "ભૂત ઉતારવું", "hindiMeaning": "भूत-प्रेत निकालना", "difference": "Exercise એટલે શારીરિક કસરત, જ્યારે Exorcise એટલે ભૂત-પ્રેત જેવી નકારાત્મક શક્તિને દૂર કરવી." }
+            ],
+            "exampleSentences": [
+                { "sentence": "Daily exercise is important for good health.", "gujaratiPronunciation": "ડેઇલી એક્સરસાઇઝ ઇઝ ઇમ્પોર્ટન્ટ ફોર ગુડ હેલ્થ.", "hindiPronunciation": "डेली एक्सरसाइज़ इज़ इम्पोर्टेंट फॉर गुड हेल्थ।", "gujaratiTranslation": "સારા સ્વાસ્થ્ય માટે દૈનિક કસરત મહત્વપૂર્ણ છે.", "hindiTranslation": "अच्छे स्वास्थ्य के लिए दैनिक व्यायाम महत्वपूर्ण है।" }
+            ]
+        },
+        {
+            "word": "Breathe",
+            "gujaratiPronunciation": "બ્રીધ",
+            "hindiPronunciation": "ब्रीद",
+            "gujaratiMeaning": "શ્વાસ લેવો",
+            "hindiMeaning": "सांस लेना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Breathe", "gujaratiPronunciation": "બ્રીધ", "hindiPronunciation": "ब्रीद", "gujaratiMeaning": "શ્વાસ લેવો", "hindiMeaning": "सांस लेना" },
+                "V2 (Past)": { "word": "Breathed", "gujaratiPronunciation": "બ્રીધ્ડ", "hindiPronunciation": "ब्रीद्ड", "gujaratiMeaning": "શ્વાસ લીધો", "hindiMeaning": "सांस ली" },
+                "V3 (Past Participle)": { "word": "Breathed", "gujaratiPronunciation": "બ્રીધ્ડ", "hindiPronunciation": "ब्रीद्ड", "gujaratiMeaning": "શ્વાસ લીધેલ", "hindiMeaning": "सांस ले चुका" },
+                "V4 (Present Participle)": { "word": "Breathing", "gujaratiPronunciation": "બ્રીધિંગ", "hindiPronunciation": "ब्रीदिंग", "gujaratiMeaning": "શ્વાસ લઈ રહ્યું છે", "hindiMeaning": "सांस ले रहा है" }
+            },
+            "synonyms": [
+                { "word": "Inhale", "gujaratiPronunciation": "ઇન્હેલ", "hindiPronunciation": "इन्हेल", "gujaratiMeaning": "શ્વાસ અંદર લેવો", "hindiMeaning": "सांस अंदर लेना" },
+                { "word": "Respire", "gujaratiPronunciation": "રસ્પાયર", "hindiPronunciation": "रेस्पायर", "gujaratiMeaning": "શ્વસન કરવું", "hindiMeaning": "श्वसन करना" }
+            ],
+            "antonyms": [
+                { "word": "Exhale", "gujaratiPronunciation": "એક્સહેલ", "hindiPronunciation": "एक्सहेल", "gujaratiMeaning": "શ્વાસ બહાર કાઢવો", "hindiMeaning": "सांस बाहर छोड़ना" },
+                { "word": "Suffocate", "gujaratiPronunciation": "સફોકેટ", "hindiPronunciation": "सफ़ोकेट", "gujaratiMeaning": "ગૂંગળાવું", "hindiMeaning": "दम घुटना" }
+            ],
+            "confusingWords": [
+                { "word": "Breath", "gujaratiPronunciation": "બ્રેથ", "hindiPronunciation": "ब्रेथ", "gujaratiMeaning": "શ્વાસ", "hindiMeaning": "सांस", "difference": "Breathe એ ક્રિયાપદ છે (શ્વાસ લેવો), જ્યારે Breath એ સંજ્ઞા છે (શ્વાસ)." }
+            ],
+            "exampleSentences": [
+                { "sentence": "It's important to breathe deeply.", "gujaratiPronunciation": "ઇટ્સ ઇમ્પોર્ટન્ટ ટુ બ્રીધ ડીપ્લી.", "hindiPronunciation": "इट्स इम्पोर्टेंट टू ब्रीद डीपली।", "gujaratiTranslation": "ઊંડો શ્વાસ લેવો મહત્વપૂર્ણ છે.", "hindiTranslation": "गहरी सांस लेना महत्वपूर्ण है।" }
+            ]
+        },
+        {
+            "word": "Sleep",
+            "gujaratiPronunciation": "સ્લીપ",
+            "hindiPronunciation": "स्लीप",
+            "gujaratiMeaning": "સૂવું",
+            "hindiMeaning": "सोना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": { "word": "Sleep", "gujaratiPronunciation": "સ્લીપ", "hindiPronunciation": "स्लीप", "gujaratiMeaning": "સૂવું", "hindiMeaning": "सोना" },
+                "V2 (Past)": { "word": "Slept", "gujaratiPronunciation": "સ્લેપ્ટ", "hindiPronunciation": "स्लेप्ट", "gujaratiMeaning": "સૂઈ ગયા", "hindiMeaning": "सोया" },
+                "V3 (Past Participle)": { "word": "Slept", "gujaratiPronunciation": "સ્લેપ્ટ", "hindiPronunciation": "स्लेप्ट", "gujaratiMeaning": "સૂઈ ગયેલ", "hindiMeaning": "सो चुका" },
+                "V4 (Present Participle)": { "word": "Sleeping", "gujaratiPronunciation": "સ્લીપિંગ", "hindiPronunciation": "स्लीपिंग", "gujaratiMeaning": "સૂઈ રહ્યું છે", "hindiMeaning": "सो रहा है" }
+            },
+            "synonyms": [
+                { "word": "Slumber", "gujaratiPronunciation": "સ્લમ્બર", "hindiPronunciation": "स्लम्बर", "gujaratiMeaning": "ઊંઘવું", "hindiMeaning": "ऊँघना" },
+                { "word": "Doze", "gujaratiPronunciation": "ડોઝ", "hindiPronunciation": "डोज़", "gujaratiMeaning": "ઝોકું ખાવું", "hindiMeaning": "झपकी लेना" }
+            ],
+            "antonyms": [
+                { "word": "Awake", "gujaratiPronunciation": "અવેક", "hindiPronunciation": "अवेक", "gujaratiMeaning": "જાગવું", "hindiMeaning": "जागना" },
+                { "word": "Rouse", "gujaratiPronunciation": "રાઉઝ", "hindiPronunciation": "राउज़", "gujaratiMeaning": "જગાડવું", "hindiMeaning": "जगाना" }
+            ],
+            "confusingWords": [
+                { "word": "Slip", "gujaratiPronunciation": "સ્લિપ", "hindiPronunciation": "स्लिप", "gujaratiMeaning": "લપસવું", "hindiMeaning": "फिसलना", "difference": "Sleep એટલે સૂવું, જ્યારે Slip એટલે લપસી જવું." }
+            ],
+            "exampleSentences": [
+                { "sentence": "You should sleep for at least 8 hours.", "gujaratiPronunciation": "યુ શુડ સ્લીપ ફોર એટ લિસ્ટ 8 અવર્સ.", "hindiPronunciation": "यू शुड स्लीप फॉर एट लीस्ट 8 आवर्स।", "gujaratiTranslation": "તમારે ઓછામાં ઓછી 8 કલાક ઊંઘ લેવી જોઈએ.", "hindiTranslation": "आपको कम से कम 8 घंटे सोना चाहिए।" }
+            ]
+        }
+    ]
+}

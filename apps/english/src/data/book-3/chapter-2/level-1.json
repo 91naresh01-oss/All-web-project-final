@@ -1,0 +1,446 @@
+{
+  "id": "level-1",
+  "title": "Movement Verbs 1",
+  "words": [
+    {
+      "word": "Vault",
+      "gujaratiPronunciation": "વૉલ્ટ",
+      "hindiPronunciation": "वॉल्ट",
+      "gujaratiMeaning": "કૂદકો મારવો, તિજોરી",
+      "hindiMeaning": "छलाँग लगाना, तिजोरी",
+      "partOfSpeech": "Verb / Noun",
+      "verbForms": {
+        "V1": {
+          "word": "Vault",
+          "gujaratiPronunciation": "વૉલ્ટ",
+          "hindiPronunciation": "वॉल्ट",
+          "gujaratiMeaning": "કૂદકો મારવો",
+          "hindiMeaning": "छलाँग लगाना"
+        },
+        "V2": {
+          "word": "Vaulted",
+          "gujaratiPronunciation": "વૉલ્ટેડ",
+          "hindiPronunciation": "वॉल्टेड",
+          "gujaratiMeaning": "કૂદકો માર્યો",
+          "hindiMeaning": "छलाँग लगाई"
+        },
+        "V3": {
+          "word": "Vaulted",
+          "gujaratiPronunciation": "વૉલ્ટેડ",
+          "hindiPronunciation": "वॉल्टेड",
+          "gujaratiMeaning": "કૂદકો મારેલો",
+          "hindiMeaning": "छलाँग लगा चुका"
+        },
+        "V4": {
+          "word": "Vaulting",
+          "gujaratiPronunciation": "વૉલ્ટિંગ",
+          "hindiPronunciation": "वॉल्टिंग",
+          "gujaratiMeaning": "કૂદકો મારી રહ્યો છે",
+          "hindiMeaning": "छलाँग लगा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Leap",
+          "gujaratiPronunciation": "લીપ",
+          "hindiPronunciation": "लीप",
+          "gujaratiMeaning": "લાંબી છલાંગ",
+          "hindiMeaning": "ऊँची छलाँग"
+        },
+        {
+          "word": "Jump",
+          "gujaratiPronunciation": "જમ્પ",
+          "hindiPronunciation": "जम्प",
+          "gujaratiMeaning": "કૂદવું",
+          "hindiMeaning": "कूदना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Stand",
+          "gujaratiPronunciation": "સ્ટેન્ડ",
+          "hindiPronunciation": "स्टैंड",
+          "gujaratiMeaning": "ઊભા રહેવું",
+          "hindiMeaning": "खड़े रहना"
+        },
+        {
+          "word": "Stay",
+          "gujaratiPronunciation": "સ્ટે",
+          "hindiPronunciation": "स्टे",
+          "gujaratiMeaning": "રહેવું",
+          "hindiMeaning": "रहना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Volt",
+          "gujaratiPronunciation": "વોલ્ટ",
+          "hindiPronunciation": "वोल्ट",
+          "gujaratiMeaning": "વિદ્યુત દબાણનો એકમ",
+          "hindiMeaning": "विद्युत दाब की इकाई"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The athlete had to vault over the high bar.",
+          "gujaratiTranslation": "એથ્લીટને ઊંચા બાર પરથી કૂદકો મારવો પડ્યો.",
+          "hindiTranslation": "एथलीट को ऊँचे बार पर से छलाँग लगानी पड़ी।",
+          "gujaratiPronunciation": "ધી એથ્લીટ હેડ ટુ વૉલ્ટ ઓવર ધ હાઇ બાર.",
+          "hindiPronunciation": "द एथलीट हैड टू वॉल्ट ओवर द हाई बार।"
+        }
+      ]
+    },
+    {
+      "word": "Hurl",
+      "gujaratiPronunciation": "હર્લ",
+      "hindiPronunciation": "हर्ल",
+      "gujaratiMeaning": "જોરથી ફેંકવું",
+      "hindiMeaning": "जोर से फेंकना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Hurl",
+          "gujaratiPronunciation": "હર્લ",
+          "hindiPronunciation": "हर्ल",
+          "gujaratiMeaning": "ફેંકવું",
+          "hindiMeaning": "फेंकना"
+        },
+        "V2": {
+          "word": "Hurled",
+          "gujaratiPronunciation": "હર્લ્ડ",
+          "hindiPronunciation": "हर्ल्ड",
+          "gujaratiMeaning": "ફેંક્યું",
+          "hindiMeaning": "फेंका"
+        },
+        "V3": {
+          "word": "Hurled",
+          "gujaratiPronunciation": "હર્લ્ડ",
+          "hindiPronunciation": "हर्ल्ड",
+          "gujaratiMeaning": "ફેંકેલું",
+          "hindiMeaning": "फेंक चुका"
+        },
+        "V4": {
+          "word": "Hurling",
+          "gujaratiPronunciation": "હર્લિંગ",
+          "hindiPronunciation": "हर्लिंग",
+          "gujaratiMeaning": "ફેંકી રહ્યો છે",
+          "hindiMeaning": "फेंक रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Throw",
+          "gujaratiPronunciation": "થ્રો",
+          "hindiPronunciation": "थ्रो",
+          "gujaratiMeaning": "ફેંકવું",
+          "hindiMeaning": "फेंकना"
+        },
+        {
+          "word": "Toss",
+          "gujaratiPronunciation": "ટૉસ",
+          "hindiPronunciation": "टॉस",
+          "gujaratiMeaning": "ઉછાળવું",
+          "hindiMeaning": "उछालना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Catch",
+          "gujaratiPronunciation": "કેચ",
+          "hindiPronunciation": "कैच",
+          "gujaratiMeaning": "પકડવું",
+          "hindiMeaning": "पकड़ना"
+        },
+        {
+          "word": "Hold",
+          "gujaratiPronunciation": "હોલ્ડ",
+          "hindiPronunciation": "होल्ड",
+          "gujaratiMeaning": "પકડી રાખવું",
+          "hindiMeaning": "पकड़ कर रखना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Hurdle",
+          "gujaratiPronunciation": "હર્ડલ",
+          "hindiPronunciation": "हर्डल",
+          "gujaratiMeaning": "અવરોધ",
+          "hindiMeaning": "बाधा"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He hurled the stone into the river.",
+          "gujaratiTranslation": "તેણે પથ્થર નદીમાં જોરથી ફેંક્યો.",
+          "hindiTranslation": "उसने पत्थर नदी में जोर से फेंका।",
+          "gujaratiPronunciation": "હી હર્લ્ડ ધ સ્ટોન ઇનટુ ધ રિવર.",
+          "hindiPronunciation": "ही हर्ल्ड द स्टोन इनटू द रिवर।"
+        }
+      ]
+    },
+    {
+      "word": "Hoist",
+      "gujaratiPronunciation": "હોઇસ્ટ",
+      "hindiPronunciation": "होइस्ट",
+      "gujaratiMeaning": "ઊંચકવું, ફરકાવવું",
+      "hindiMeaning": "ऊपर उठाना, फहराना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Hoist",
+          "gujaratiPronunciation": "હોઇસ્ટ",
+          "hindiPronunciation": "होइस्ट",
+          "gujaratiMeaning": "ઊંચકવું",
+          "hindiMeaning": "उठाना"
+        },
+        "V2": {
+          "word": "Hoisted",
+          "gujaratiPronunciation": "હોઇસ્ટેડ",
+          "hindiPronunciation": "होइस्टेड",
+          "gujaratiMeaning": "ઊંચક્યું",
+          "hindiMeaning": "उठाया"
+        },
+        "V3": {
+          "word": "Hoisted",
+          "gujaratiPronunciation": "હોઇસ્ટેડ",
+          "hindiPronunciation": "होइस्टेड",
+          "gujaratiMeaning": "ઊંચકેલું",
+          "hindiMeaning": "उठा चुका"
+        },
+        "V4": {
+          "word": "Hoisting",
+          "gujaratiPronunciation": "હોઇસ્ટિંગ",
+          "hindiPronunciation": "होइस्टिंग",
+          "gujaratiMeaning": "ઊંચકી રહ્યો છે",
+          "hindiMeaning": "उठा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Lift",
+          "gujaratiPronunciation": "લિફ્ટ",
+          "hindiPronunciation": "लिफ्ट",
+          "gujaratiMeaning": "ઊંચકવું",
+          "hindiMeaning": "उठाना"
+        },
+        {
+          "word": "Raise",
+          "gujaratiPronunciation": "રેઇઝ",
+          "hindiPronunciation": "रेज़",
+          "gujaratiMeaning": "ઉપર કરવું",
+          "hindiMeaning": "ऊपर करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Lower",
+          "gujaratiPronunciation": "લોઅર",
+          "hindiPronunciation": "लोअर",
+          "gujaratiMeaning": "નીચે કરવું",
+          "hindiMeaning": "नीचे करना"
+        },
+        {
+          "word": "Drop",
+          "gujaratiPronunciation": "ડ્રૉપ",
+          "hindiPronunciation": "ड्रॉप",
+          "gujaratiMeaning": "મૂકી દેવું",
+          "hindiMeaning": "गिरा देना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Moist",
+          "gujaratiPronunciation": "મૉઇસ્ટ",
+          "hindiPronunciation": "मॉइस्ट",
+          "gujaratiMeaning": "ભીનું",
+          "hindiMeaning": "गीला"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "They hoisted the flag at sunrise.",
+          "gujaratiTranslation": "તેઓએ સૂર્યોદય સમયે ધ્વજ ફરકાવ્યો.",
+          "hindiTranslation": "उन्होंने सूर्योदय के समय झंडा फहराया।",
+          "gujaratiPronunciation": "ધે હોઇસ્ટેડ ધ ફ્લેગ એટ સનરાઇઝ.",
+          "hindiPronunciation": "दे होइस्टेड द फ्लैग ऐट सनराइज़।"
+        }
+      ]
+    },
+    {
+      "word": "Pinch",
+      "gujaratiPronunciation": "પિંચ",
+      "hindiPronunciation": "पिंच",
+      "gujaratiMeaning": "ચૂંટલી ભરવી",
+      "hindiMeaning": "चुटकी भरना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Pinch",
+          "gujaratiPronunciation": "પિંચ",
+          "hindiPronunciation": "पिंच",
+          "gujaratiMeaning": "ચૂંટલી ભરવી",
+          "hindiMeaning": "चुटकी भरना"
+        },
+        "V2": {
+          "word": "Pinched",
+          "gujaratiPronunciation": "પિંચ્ડ",
+          "hindiPronunciation": "पिंच्ड",
+          "gujaratiMeaning": "ચૂંટલી ભરી",
+          "hindiMeaning": "चुटकी भरी"
+        },
+        "V3": {
+          "word": "Pinched",
+          "gujaratiPronunciation": "પિંચ્ડ",
+          "hindiPronunciation": "पिंच्ड",
+          "gujaratiMeaning": "ચૂંટલી ભરેલી",
+          "hindiMeaning": "चुटकी भर चुका"
+        },
+        "V4": {
+          "word": "Pinching",
+          "gujaratiPronunciation": "પિંચિંગ",
+          "hindiPronunciation": "पिंचिंग",
+          "gujaratiMeaning": "ચૂંટલી ભરી રહ્યો છે",
+          "hindiMeaning": "चुटकी भर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Squeeze",
+          "gujaratiPronunciation": "સ્ક્વીઝ",
+          "hindiPronunciation": "स्क्वीज़",
+          "gujaratiMeaning": "દબાવવું",
+          "hindiMeaning": "दबाना"
+        },
+        {
+          "word": "Nip",
+          "gujaratiPronunciation": "નિપ",
+          "hindiPronunciation": "निप",
+          "gujaratiMeaning": "ચપટી ભરવી",
+          "hindiMeaning": "चुटकी काटना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Release",
+          "gujaratiPronunciation": "રિલીઝ",
+          "hindiPronunciation": "रिलीज़",
+          "gujaratiMeaning": "છોડી દેવું",
+          "hindiMeaning": "छोड़ देना"
+        },
+        {
+          "word": "Caress",
+          "gujaratiPronunciation": "કૅરેસ",
+          "hindiPronunciation": "कैरेस",
+          "gujaratiMeaning": "પંપાળવું",
+          "hindiMeaning": "सहलाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Punch",
+          "gujaratiPronunciation": "પંચ",
+          "hindiPronunciation": "पंच",
+          "gujaratiMeaning": "મુક્કો મારવો",
+          "hindiMeaning": "घूंसा मारना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "She gave me a pinch on the arm.",
+          "gujaratiTranslation": "તેણીએ મારા હાથ પર ચૂંટલી ભરી.",
+          "hindiTranslation": "उसने मेरी बाँह पर चुटकी भरी।",
+          "gujaratiPronunciation": "શી ગેવ મી અ પિંચ ઓન ધ આર્મ.",
+          "hindiPronunciation": "शी गेव मी अ पिंच ऑन द आर्म।"
+        }
+      ]
+    },
+    {
+      "word": "Crouch",
+      "gujaratiPronunciation": "ક્રાઉચ",
+      "hindiPronunciation": "क्राउच",
+      "gujaratiMeaning": "ઊભડક બેસવું",
+      "hindiMeaning": "उकड़ू बैठना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Crouch",
+          "gujaratiPronunciation": "ક્રાઉચ",
+          "hindiPronunciation": "क्राउच",
+          "gujaratiMeaning": "ઊભડક બેસવું",
+          "hindiMeaning": "उकड़ू बैठना"
+        },
+        "V2": {
+          "word": "Crouched",
+          "gujaratiPronunciation": "ક્રાઉચ્ડ",
+          "hindiPronunciation": "क्राउच्ड",
+          "gujaratiMeaning": "ઊભડક બેઠો",
+          "hindiMeaning": "उकड़ू बैठा"
+        },
+        "V3": {
+          "word": "Crouched",
+          "gujaratiPronunciation": "ક્રાઉચ્ડ",
+          "hindiPronunciation": "क्राउच्ड",
+          "gujaratiMeaning": "ઊભડક બેઠેલો",
+          "hindiMeaning": "उकड़ू बैठ चुका"
+        },
+        "V4": {
+          "word": "Crouching",
+          "gujaratiPronunciation": "ક્રાઉચિંગ",
+          "hindiPronunciation": "क्राउचिंग",
+          "gujaratiMeaning": "ઊભડક બેસી રહ્યો છે",
+          "hindiMeaning": "उकड़ू बैठ रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Squat",
+          "gujaratiPronunciation": "સ્ક્વૉટ",
+          "hindiPronunciation": "स्क्वैट",
+          "gujaratiMeaning": "પલાંઠી વાળીને બેસવું",
+          "hindiMeaning": "पालथी मारकर बैठना"
+        },
+        {
+          "word": "Hunch",
+          "gujaratiPronunciation": "હંચ",
+          "hindiPronunciation": "हंच",
+          "gujaratiMeaning": "ખૂંધ વળીને બેસવું",
+          "hindiMeaning": "कुबड़ा होकर बैठना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Stand",
+          "gujaratiPronunciation": "સ્ટેન્ડ",
+          "hindiPronunciation": "स्टैंड",
+          "gujaratiMeaning": "ઊભા રહેવું",
+          "hindiMeaning": "खड़े रहना"
+        },
+        {
+          "word": "Stretch",
+          "gujaratiPronunciation": "સ્ટ્રેચ",
+          "hindiPronunciation": "स्ट्रेच",
+          "gujaratiMeaning": "ખેંચાવું",
+          "hindiMeaning": "खिंचाव"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Coach",
+          "gujaratiPronunciation": "કોચ",
+          "hindiPronunciation": "कोच",
+          "gujaratiMeaning": "પ્રશિક્ષક",
+          "hindiMeaning": "प्रशिक्षक"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The cat crouched in the bushes, ready to pounce.",
+          "gujaratiTranslation": "બિલાડી ઝાડીઓમાં ઊભડક બેઠી, હુમલો કરવા તૈયાર.",
+          "hindiTranslation": "बिल्ली झाड़ियों में उकड़ू बैठी, हमला करने को तैयार।",
+          "gujaratiPronunciation": "ધ કેટ ક્રાઉચ્ડ ઇન ધ બુશિસ, રેડી ટુ પાઉન્સ.",
+          "hindiPronunciation": "द कैट क्राउच्ड इन द बुशेस, रेडी टू पाउंस।"
+        }
+      ]
+    }
+  ]
+}

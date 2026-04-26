@@ -1,0 +1,76 @@
+{
+  "id": "level-1",
+  "title": "Time and Position",
+  "words": [
+    {
+      "word": "Hour",
+      "gujaratiPronunciation": "અવર",
+      "hindiPronunciation": "आवर",
+      "gujaratiMeaning": "કલાક",
+      "hindiMeaning": "घंटा",
+      "exampleSentences": [
+        {
+          "sentence": "The meeting will last for one hour.",
+          "gujaratiTranslation": "મીટિંગ એક કલાક ચાલશે.",
+          "hindiTranslation": "बैठक एक घंटे तक चलेगी।"
+        }
+      ]
+    },
+    {
+      "word": "Minute",
+      "gujaratiPronunciation": "મિનિટ",
+      "hindiPronunciation": "मिनट",
+      "gujaratiMeaning": "મિનિટ",
+      "hindiMeaning": "मिनट",
+      "exampleSentences": [
+        {
+          "sentence": "Wait for a minute.",
+          "gujaratiTranslation": "એક મિનિટ રાહ જુઓ.",
+          "hindiTranslation": "एक मिनट रुकिए।"
+        }
+      ]
+    },
+    {
+      "word": "Second",
+      "gujaratiPronunciation": "સેકન્ડ",
+      "hindiPronunciation": "सेकंड",
+      "gujaratiMeaning": "સેકન્ડ",
+      "hindiMeaning": "सेकंड",
+      "exampleSentences": [
+        {
+          "sentence": "There are 60 seconds in a minute.",
+          "gujaratiTranslation": "એક મિનિટમાં 60 સેકન્ડ હોય છે.",
+          "hindiTranslation": "एक मिनट में 60 सेकंड होते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Morning",
+      "gujaratiPronunciation": "મોર્નિંગ",
+      "hindiPronunciation": "मॉर्निंग",
+      "gujaratiMeaning": "સવાર",
+      "hindiMeaning": "सुबह",
+      "exampleSentences": [
+        {
+          "sentence": "Good morning!",
+          "gujaratiTranslation": "શુભ સવાર!",
+          "hindiTranslation": " सुप्रभात!"
+        }
+      ]
+    },
+    {
+      "word": "Night",
+      "gujaratiPronunciation": "નાઇટ",
+      "hindiPronunciation": "नाइट",
+      "gujaratiMeaning": "રાત",
+      "hindiMeaning": "रात",
+      "exampleSentences": [
+        {
+          "sentence": "The stars shine at night.",
+          "gujaratiTranslation": "રાત્રે તારાઓ ચમકે છે.",
+          "hindiTranslation": "रात में तारे चमकते हैं।"
+        }
+      ]
+    }
+  ]
+}

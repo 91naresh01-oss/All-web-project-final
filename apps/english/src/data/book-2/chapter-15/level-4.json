@@ -1,0 +1,76 @@
+{
+  "id": "level-4",
+  "title": "Measurements 4",
+  "words": [
+    {
+      "word": "Volume",
+      "gujaratiPronunciation": "વોલ્યુમ",
+      "hindiPronunciation": "वॉल्यूम",
+      "gujaratiMeaning": "કદ",
+      "hindiMeaning": "आयतन",
+      "exampleSentences": [
+        {
+          "sentence": "The volume of this bottle is one liter.",
+          "gujaratiTranslation": "આ બોટલનું કદ એક લિટર છે.",
+          "hindiTranslation": "इस बोतल का आयतन एक लीटर है।"
+        }
+      ]
+    },
+    {
+      "word": "Liter",
+      "gujaratiPronunciation": "લિટર",
+      "hindiPronunciation": "लीटर",
+      "gujaratiMeaning": "લિટર",
+      "hindiMeaning": "लीटर",
+      "exampleSentences": [
+        {
+          "sentence": "I need one liter of milk.",
+          "gujaratiTranslation": "મારે એક લિટર દૂધ જોઈએ છે.",
+          "hindiTranslation": "मुझे एक लीटर दूध चाहिए।"
+        }
+      ]
+    },
+    {
+      "word": "Milliliter",
+      "gujaratiPronunciation": "મિલિલિટર",
+      "hindiPronunciation": "मिलिलीटर",
+      "gujaratiMeaning": "મિલિલિટર",
+      "hindiMeaning": "मिलीलीटर",
+      "exampleSentences": [
+        {
+          "sentence": "Add 100 milliliters of water.",
+          "gujaratiTranslation": "100 મિલિલિટર પાણી ઉમેરો.",
+          "hindiTranslation": "100 मिलीलीटर पानी डालें।"
+        }
+      ]
+    },
+    {
+      "word": "Capacity",
+      "gujaratiPronunciation": "કેપેસિટી",
+      "hindiPronunciation": "कैपेसिटी",
+      "gujaratiMeaning": "ક્ષમતા",
+      "hindiMeaning": "क्षमता",
+      "exampleSentences": [
+        {
+          "sentence": "The tank has a capacity of 1000 liters.",
+          "gujaratiTranslation": "ટાંકીની ક્ષમતા 1000 લિટર છે.",
+          "hindiTranslation": "टैंक की क्षमता 1000 लीटर है।"
+        }
+      ]
+    },
+    {
+      "word": "Container",
+      "gujaratiPronunciation": "કન્ટેનર",
+      "hindiPronunciation": "कंटेनर",
+      "gujaratiMeaning": "પાત્ર",
+      "hindiMeaning": "कंटेनर",
+      "exampleSentences": [
+        {
+          "sentence": "Store the food in an airtight container.",
+          "gujaratiTranslation": "ખોરાકને હવાચુસ્ત પાત્રમાં સંગ્રહિત કરો.",
+          "hindiTranslation": "भोजन को एक एयरटाइट कंटेनर में स्टोर करें।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "level-4",
+  "title": "Level 4: Oscillate, Eject, Gravitate, Stabilize, Accelerate",
+  "words": [
+    {
+      "word": "Oscillate",
+      "gujaratiPronunciation": "ઓસિલેટ",
+      "hindiPronunciation": "ऑसिलेट",
+      "gujaratiMeaning": "આંદોલન કરવું",
+      "hindiMeaning": "दोलन करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Oscillate", "gujaratiPronunciation": "ઓસિલેટ", "hindiPronunciation": "ऑसिलेट", "gujaratiMeaning": "આંદોલન કરવું", "hindiMeaning": "दोलन करना" },
+        "v2": { "word": "Oscillated", "gujaratiPronunciation": "ઓસિલેટેડ", "hindiPronunciation": "ऑसिलेटेड", "gujaratiMeaning": "આંદોલન કર્યું", "hindiMeaning": "दोलन किया" },
+        "v3": { "word": "Oscillated", "gujaratiPronunciation": "ઓસિલેટેડ", "hindiPronunciation": "ऑसिलेटेड", "gujaratiMeaning": "આંદોલન કરેલું", "hindiMeaning": "दोलन किया हुआ" },
+        "v4": { "word": "Oscillating", "gujaratiPronunciation": "ઓસિલેટિંગ", "hindiPronunciation": "ऑसिलेटिंग", "gujaratiMeaning": "આંદોલન કરી રહ્યો છે", "hindiMeaning": "दोलन कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Swing", "gujaratiPronunciation": "સ્વિંગ", "hindiPronunciation": "स्विंग", "gujaratiMeaning": "ઝૂલવું", "hindiMeaning": "झूलना" },
+        { "word": "Vibrate", "gujaratiPronunciation": "વાઇબ્રેટ", "hindiPronunciation": "वाइब्रेट", "gujaratiMeaning": "ધ્રુજારી કરવી", "hindiMeaning": "कंपन करना" }
+      ],
+      "antonyms": [
+        { "word": "Remain", "gujaratiPronunciation": "રિમેઇન", "hindiPronunciation": "रिमेन", "gujaratiMeaning": "સ્થિર રહેવું", "hindiMeaning": "स्थिर रहना" }
+      ],
+      "confusingWords": [
+        { "word": "Ocelot", "gujaratiPronunciation": "ઓસેલોટ", "hindiPronunciation": "ओसेलॉट", "gujaratiMeaning": "એક જંગલી બિલાડી", "hindiMeaning": "एक जंगली बिल्ली" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The pendulum of the clock continued to oscillate.",
+          "gujaratiPronunciation": "ધ પેન્ડુલમ ઓફ ધ ક્લોક કન્ટીન્યુડ ટુ ઓસિલેટ.",
+          "hindiPronunciation": "द पेंडुलम ऑफ़ द क्लॉक कंटीन्यूड टू ऑसिलेट।",
+          "gujaratiTranslation": "ઘડિયાળનું લોલક આંદોલન કરતું રહ્યું.",
+          "hindiTranslation": "घड़ी का पेंडुलम दोलन करता रहा।"
+        }
+      ]
+    },
+    {
+      "word": "Eject",
+      "gujaratiPronunciation": "ઇજેક્ટ",
+      "hindiPronunciation": "इजेक्ट",
+      "gujaratiMeaning": "બહાર કાઢી નાખવું",
+      "hindiMeaning": "बाहर निकालना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Eject", "gujaratiPronunciation": "ઇજેક્ટ", "hindiPronunciation": "इजेक्ट", "gujaratiMeaning": "બહાર કાઢી નાખવું", "hindiMeaning": "बाहर निकालना" },
+        "v2": { "word": "Ejected", "gujaratiPronunciation": "ઇજેક્ટેડ", "hindiPronunciation": "इजेक्टेड", "gujaratiMeaning": "બહાર કાઢી નાખ્યું", "hindiMeaning": "बाहर निकाला" },
+        "v3": { "word": "Ejected", "gujaratiPronunciation": "ઇજેક્ટેડ", "hindiPronunciation": "इजेक्टेड", "gujaratiMeaning": "બહાર કાઢી નાખેલું", "hindiMeaning": "बाहर निकाला हुआ" },
+        "v4": { "word": "Ejecting", "gujaratiPronunciation": "ઇજેક્ટિંગ", "hindiPronunciation": "इजेक्टिंग", "gujaratiMeaning": "બહાર કાઢી રહ્યો છે", "hindiMeaning": "बाहर निकाल रहा है" }
+      },
+      "synonyms": [
+        { "word": "Expel", "gujaratiPronunciation": "એક્સપેલ", "hindiPronunciation": "एक्सपेल", "gujaratiMeaning": "બહિષ્કાર કરવો", "hindiMeaning": "निकाल देना" },
+        { "word": "Remove", "gujaratiPronunciation": "રિમૂવ", "hindiPronunciation": "रिमूव", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "हटाना" }
+      ],
+      "antonyms": [
+        { "word": "Insert", "gujaratiPronunciation": "ઇન્સર્ટ", "hindiPronunciation": "इन्सर्ट", "gujaratiMeaning": "અંદર નાખવું", "hindiMeaning": "डालना" },
+        { "word": "Inject", "gujaratiPronunciation": "ઇન્જેક્ટ", "hindiPronunciation": "इंजेक्ट", "gujaratiMeaning": "ઇન્જેક્શન આપવું", "hindiMeaning": "अंदर डालना" }
+      ],
+      "confusingWords": [
+        { "word": "Inject", "gujaratiPronunciation": "ઇન્જેક્ટ", "hindiPronunciation": "इंजेक्ट", "gujaratiMeaning": "ઇન્જેક્શન આપવું", "hindiMeaning": "अंदर डालना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The pilot had to eject from the damaged plane.",
+          "gujaratiPronunciation": "ધ પાઇલટ હેડ ટુ ઇજેક્ટ ફ્રોમ ધ ડેમેજ્ડ પ્લેન.",
+          "hindiPronunciation": "द पायलट हैड टू इजेक्ट फ्रॉम द डैमेज्ड प्लेन।",
+          "gujaratiTranslation": "ક્ષતિગ્રસ્ત વિમાનમાંથી પાઇલટને બહાર કૂદી પડવું પડ્યું.",
+          "hindiTranslation": "पायलट को क्षतिग्रस्त विमान से बाहर निकलना पड़ा।"
+        }
+      ]
+    },
+    {
+      "word": "Gravitate",
+      "gujaratiPronunciation": "ગ્રેવિટેટ",
+      "hindiPronunciation": "ग्रैविटेट",
+      "gujaratiMeaning": "આકર્ષાવું",
+      "hindiMeaning": "आकर्षित होना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Gravitate", "gujaratiPronunciation": "ગ્રેવિટેટ", "hindiPronunciation": "ग्रैविटेट", "gujaratiMeaning": "આકર્ષાવું", "hindiMeaning": "आकर्षित होना" },
+        "v2": { "word": "Gravitated", "gujaratiPronunciation": "ગ્રેવિટેટેડ", "hindiPronunciation": "ग्रैविटेटेड", "gujaratiMeaning": "આકર્ષાયો", "hindiMeaning": "आकर्षित हुआ" },
+        "v3": { "word": "Gravitated", "gujaratiPronunciation": "ગ્રેવિટેટેડ", "hindiPronunciation": "ग्रैविटेटेड", "gujaratiMeaning": "આકર્ષાયેલો", "hindiMeaning": "आकर्षित हुआ" },
+        "v4": { "word": "Gravitating", "gujaratiPronunciation": "ગ્રેવિટેટિંગ", "hindiPronunciation": "ग्रैविटेटिंग", "gujaratiMeaning": "આકર્ષાઈ રહ્યો છે", "hindiMeaning": "आकर्षित हो रहा है" }
+      },
+      "synonyms": [
+        { "word": "Incline", "gujaratiPronunciation": "ઇન્ક્લાઇન", "hindiPronunciation": "इंक्लाइन", "gujaratiMeaning": "ઝુકાવ હોવો", "hindiMeaning": "झुकाव होना" },
+        { "word": "Lean", "gujaratiPronunciation": "લીન", "hindiPronunciation": "लीन", "gujaratiMeaning": "નમવું", "hindiMeaning": "झुकना" }
+      ],
+      "antonyms": [
+        { "word": "Retreat", "gujaratiPronunciation": "રિટ્રીટ", "hindiPronunciation": "रिट्रीट", "gujaratiMeaning": "પાછળ હટવું", "hindiMeaning": "पीछे हटना" }
+      ],
+      "confusingWords": [
+        { "word": "Gravity", "gujaratiPronunciation": "ગ્રેવિટી", "hindiPronunciation": "ग्रैविटी", "gujaratiMeaning": "ગુરુત્વાકર્ષણ", "hindiMeaning": "गुरुत्वाकर्षण" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "People tend to gravitate towards leaders who are confident.",
+          "gujaratiPronunciation": "પીપલ ટેન્ડ ટુ ગ્રેવિટેટ ટુવર્ડ્સ લીડર્સ હુ આર કોન્ફિડન્ટ.",
+          "hindiPronunciation": "पीपल टेंड टू ग्रैविटेट टुवर्ड्स लीडर्स हू आर कॉन्फिडेंट।",
+          "gujaratiTranslation": "લોકો આત્મવિશ્વાસુ નેતાઓ તરફ આકર્ષાતા હોય છે.",
+          "hindiTranslation": "लोग आत्मविश्वासी नेताओं की ओर आकर्षित होते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Stabilize",
+      "gujaratiPronunciation": "સ્ટેબિલાઇઝ",
+      "hindiPronunciation": "स्टेबिलाइज़",
+      "gujaratiMeaning": "સ્થિર કરવું",
+      "hindiMeaning": "स्थिर करना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Stabilize", "gujaratiPronunciation": "સ્ટેબિલાઇઝ", "hindiPronunciation": "स्टेबिलाइज़", "gujaratiMeaning": "સ્થિર કરવું", "hindiMeaning": "स्थिर करना" },
+        "v2": { "word": "Stabilized", "gujaratiPronunciation": "સ્ટેબિલાઇઝ્ડ", "hindiPronunciation": "स्टेबिलाइज़्ड", "gujaratiMeaning": "સ્થિર કર્યું", "hindiMeaning": "स्थिर किया" },
+        "v3": { "word": "Stabilized", "gujaratiPronunciation": "સ્ટેબિલાઇઝ્ડ", "hindiPronunciation": "स्टेबिलाइज़्ड", "gujaratiMeaning": "સ્થિર કરેલું", "hindiMeaning": "स्थिर किया हुआ" },
+        "v4": { "word": "Stabilizing", "gujaratiPronunciation": "સ્ટેબિલાઇઝિંગ", "hindiPronunciation": "स्टेबिलाइज़िंग", "gujaratiMeaning": "સ્થિર કરી રહ્યો છે", "hindiMeaning": "स्थिर कर रहा है" }
+      },
+      "synonyms": [
+        { "word": "Balance", "gujaratiPronunciation": "બેલેન્સ", "hindiPronunciation": "बैलेंस", "gujaratiMeaning": "સંતુલિત કરવું", "hindiMeaning": "संतुलित करना" },
+        { "word": "Secure", "gujaratiPronunciation": "સિક્યોર", "hindiPronunciation": "सिक्योर", "gujaratiMeaning": "સુરક્ષિત કરવું", "hindiMeaning": "सुरक्षित करना" }
+      ],
+      "antonyms": [
+        { "word": "Upset", "gujaratiPronunciation": "અપસેટ", "hindiPronunciation": "अपसेट", "gujaratiMeaning": "અસ્થિર કરવું", "hindiMeaning": "अस्थिर करना" },
+        { "word": "Weaken", "gujaratiPronunciation": "વીકન", "hindiPronunciation": "वीकन", "gujaratiMeaning": "નબળું પાડવું", "hindiMeaning": "कमजोर करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The government is trying to stabilize the economy.",
+          "gujaratiPronunciation": "ધ ગવર્નમેન્ટ ઇઝ ટ્રાઇંગ ટુ સ્ટેબિલાઇઝ ધ ઇકોનોમી.",
+          "hindiPronunciation": "द गवर्नमेंट इज़ ट्राइंग टू स्टेबिलाइज़ द इकोनॉमी।",
+          "gujaratiTranslation": "સરકાર અર્થતંત્રને સ્થિર કરવાનો પ્રયાસ કરી રહી છે.",
+          "hindiTranslation": "सरकार अर्थव्यवस्था को स्थिर करने की कोशिश कर रही है।"
+        }
+      ]
+    },
+    {
+      "word": "Accelerate",
+      "gujaratiPronunciation": "એક્સિલરેટ",
+      "hindiPronunciation": "एक्सेलरेट",
+      "gujaratiMeaning": "ગતિ વધારવી",
+      "hindiMeaning": "गति बढ़ाना",
+      "partOfSpeech": "verb",
+      "verbForms": {
+        "v1": { "word": "Accelerate", "gujaratiPronunciation": "એક્સિલરેટ", "hindiPronunciation": "एक्सेलरेट", "gujaratiMeaning": "ગતિ વધારવી", "hindiMeaning": "गति बढ़ाना" },
+        "v2": { "word": "Accelerated", "gujaratiPronunciation": "એક્સિલરેટેડ", "hindiPronunciation": "एक्सेलरेटेड", "gujaratiMeaning": "ગતિ વધારી", "hindiMeaning": "गति बढ़ाई" },
+        "v3": { "word": "Accelerated", "gujaratiPronunciation": "એક્સિલરેટેડ", "hindiPronunciation": "एक्सेलरेटेड", "gujaratiMeaning": "ગતિ વધારેલી", "hindiMeaning": "गति बढ़ाई हुई" },
+        "v4": { "word": "Accelerating", "gujaratiPronunciation": "એક્સિલરેટિંગ", "hindiPronunciation": "एक्सेलरेटिंग", "gujaratiMeaning": "ગતિ વધારી રહ્યો છે", "hindiMeaning": "गति बढ़ा रहा है" }
+      },
+      "synonyms": [
+        { "word": "Speed up", "gujaratiPronunciation": "સ્પીડ અપ", "hindiPronunciation": "स्पीड अप", "gujaratiMeaning": "ઝડપ વધારવી", "hindiMeaning": "तेज़ी लाना" },
+        { "word": "Hasten", "gujaratiPronunciation": "હેસન", "hindiPronunciation": "हेसन", "gujaratiMeaning": "ઉતાવળ કરવી", "hindiMeaning": "जल्दी करना" }
+      ],
+      "antonyms": [
+        { "word": "Decelerate", "gujaratiPronunciation": "ડીસિલરેટ", "hindiPronunciation": "डीसेलरेट", "gujaratiMeaning": "ગતિ ઘટાડવી", "hindiMeaning": "गति कम करना" },
+        { "word": "Slow down", "gujaratiPronunciation": "સ્લો ડાઉન", "hindiPronunciation": "स्लो डाउन", "gujaratiMeaning": "ધીમું કરવું", "hindiMeaning": "धीमा करना" }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The driver started to accelerate the car.",
+          "gujaratiPronunciation": "ધ ડ્રાઇવર સ્ટાર્ટેડ ટુ એક્સિલરેટ ધ કાર.",
+          "hindiPronunciation": "द ड्राइवर स्टार्टेड टू एक्सेलरेट द कार।",
+          "gujaratiTranslation": "ડ્રાઇવરે કારની ગતિ વધારવાનું શરૂ કર્યું.",
+          "hindiTranslation": "ड्राइवर ने कार की गति बढ़ानी शुरू कर दी।"
+        }
+      ]
+    }
+  ]
+}

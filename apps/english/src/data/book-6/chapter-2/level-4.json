@@ -1,0 +1,465 @@
+{
+    "id": "level-4",
+    "title": "Level 4",
+    "words": [
+        {
+            "word": "Innovate",
+            "gujaratiPronunciation": "ઇનોવેટ",
+            "hindiPronunciation": "इनोवेट",
+            "gujaratiMeaning": "નવીનતા લાવવી",
+            "hindiMeaning": "नयापन लाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Innovate",
+                    "gujaratiPronunciation": "ઇનોવેટ",
+                    "hindiPronunciation": "इनोवेट",
+                    "gujaratiMeaning": "નવીનતા લાવવી",
+                    "hindiMeaning": "नयापन लाना"
+                },
+                "V2 (Past)": {
+                    "word": "Innovated",
+                    "gujaratiPronunciation": "ઇનોવેટેડ",
+                    "hindiPronunciation": "इनोवेटेड",
+                    "gujaratiMeaning": "નવીનતા લાવી",
+                    "hindiMeaning": "नयापन लाया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Innovated",
+                    "gujaratiPronunciation": "ઇનોવેટેડ",
+                    "hindiPronunciation": "इनोवेटेड",
+                    "gujaratiMeaning": "નવીનતા લાવેલી",
+                    "hindiMeaning": "नयापन लाया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Innovating",
+                    "gujaratiPronunciation": "ઇનોવેટિંગ",
+                    "hindiPronunciation": "इनोवेटिंग",
+                    "gujaratiMeaning": "નવીનતા લાવી રહ્યું છે",
+                    "hindiMeaning": "नयापन ला रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Invent",
+                    "gujaratiPronunciation": "ઇન્વેન્ટ",
+                    "hindiPronunciation": "इन्वेंट",
+                    "gujaratiMeaning": "શોધ કરવી",
+                    "hindiMeaning": "आविष्कार करना"
+                },
+                {
+                    "word": "Modernize",
+                    "gujaratiPronunciation": "મોર્ડનાઇઝ",
+                    "hindiPronunciation": "मॉडर्नाइज़",
+                    "gujaratiMeaning": "આધુનિકીકરણ કરવું",
+                    "hindiMeaning": "आधुनिकीकरण करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Copy",
+                    "gujaratiPronunciation": "કોપી",
+                    "hindiPronunciation": "कॉपी",
+                    "gujaratiMeaning": "નકલ કરવી",
+                    "hindiMeaning": "नकल करना"
+                },
+                {
+                    "word": "Stagnate",
+                    "gujaratiPronunciation": "સ્ટેગ્નેટ",
+                    "hindiPronunciation": "स्टैग्नेट",
+                    "gujaratiMeaning": "स्थिर રહેવું",
+                    "hindiMeaning": "स्थिर रहना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Innovate",
+                    "gujaratiMeaning": "નવીનતા લાવવી",
+                    "hindiMeaning": "नयापन लाना"
+                },
+                {
+                    "word": "Innervate",
+                    "gujaratiMeaning": "ઉત્તેજિત કરવું",
+                    "hindiMeaning": "उत्तेजित करना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The company continues to innovate and develop new products.",
+                    "gujaratiPronunciation": "ધ કંપની કન્ટિન્યુઝ ટુ ઇનોવેટ એન્ડ ડેવલપ ન્યૂ પ્રોડક્ટ્સ.",
+                    "hindiPronunciation": "द कंपनी कंटीन्यूज टू इनोवेट एंड डेवलप न्यू प्रोडक्ट्स।",
+                    "gujaratiTranslation": "આ કંપની નવીનતા લાવવાનું અને નવા ઉત્પાદનો વિકસાવવાનું ચાલુ રાખે છે.",
+                    "hindiTranslation": "यह कंपनी नयापन लाना और नए उत्पाद विकसित करना जारी रखती है।"
+                }
+            ]
+        },
+        {
+            "word": "Articulate",
+            "gujaratiPronunciation": "આર્ટિક્યુલેટ",
+            "hindiPronunciation": "आर्टिक्यूलेट",
+            "gujaratiMeaning": "સ્પષ્ટપણે બોલવું",
+            "hindiMeaning": "स्पष्ट रूप से बोलना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Articulate",
+                    "gujaratiPronunciation": "આર્ટિક્યુલેટ",
+                    "hindiPronunciation": "आर्टिक्यूलेट",
+                    "gujaratiMeaning": "સ્પષ્ટપણે બોલવું",
+                    "hindiMeaning": "स्पष्ट रूप से बोलना"
+                },
+                "V2 (Past)": {
+                    "word": "Articulated",
+                    "gujaratiPronunciation": "આર્ટિક્યુલેટેડ",
+                    "hindiPronunciation": "आर्टिक्यूलेटेड",
+                    "gujaratiMeaning": "સ્પષ્ટપણે બોલ્યું",
+                    "hindiMeaning": "स्पष्ट रूप से बोला"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Articulated",
+                    "gujaratiPronunciation": "આર્ટિક્યુલેટેડ",
+                    "hindiPronunciation": "आर्टिक्यूलेटेड",
+                    "gujaratiMeaning": "સ્પષ્ટપણે બોલેલું",
+                    "hindiMeaning": "स्पष्ट रूप से बोला हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Articulating",
+                    "gujaratiPronunciation": "આર્ટિક્યુલેટિંગ",
+                    "hindiPronunciation": "आर्टिक्यूलेटिंग",
+                    "gujaratiMeaning": "સ્પષ્ટપણે બોલી રહ્યું છે",
+                    "hindiMeaning": "स्पष्ट रूप से बोल रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Express",
+                    "gujaratiPronunciation": "એક્સપ્રેસ",
+                    "hindiPronunciation": "एक्सप्रेस",
+                    "gujaratiMeaning": "વ્યક્ત કરવું",
+                    "hindiMeaning": "व्यक्त करना"
+                },
+                {
+                    "word": "Voice",
+                    "gujaratiPronunciation": "વોઇસ",
+                    "hindiPronunciation": "वॉइस",
+                    "gujaratiMeaning": "વાચા આપવી",
+                    "hindiMeaning": "आवाज़ देना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Mumble",
+                    "gujaratiPronunciation": "મમ્બલ",
+                    "hindiPronunciation": "मंबल",
+                    "gujaratiMeaning": "બડબડવું",
+                    "hindiMeaning": "बड़बड़ाना"
+                },
+                {
+                    "word": "Stammer",
+                    "gujaratiPronunciation": "સ્ટેમર",
+                    "hindiPronunciation": "स्टammer",
+                    "gujaratiMeaning": "હકલાવું",
+                    "hindiMeaning": "हकलाना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Articulate",
+                    "gujaratiMeaning": "સ્પષ્ટપણે બોલવું",
+                    "hindiMeaning": "स्पष्ट रूप से बोलना"
+                },
+                {
+                    "word": "Article",
+                    "gujaratiMeaning": "લેખ",
+                    "hindiMeaning": "लेख"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "She was able to articulate her feelings very clearly.",
+                    "gujaratiPronunciation": "શી વોઝ એબલ ટુ આર્ટિક્યુલેટ હર ફીલિંગ્સ વેરી ક્લીયરલી.",
+                    "hindiPronunciation": "शी वॉज एबल टू आर्टिक्यूलेट हर फीलिंग्स वेरी क्लियरली।",
+                    "gujaratiTranslation": "તે તેની લાગણીઓને ખૂબ સ્પષ્ટપણે વ્યક્ત કરી શકતી હતી.",
+                    "hindiTranslation": "वह अपनी भावनाओं को बहुत स्पष्ट रूप سے व्यक्त करने में सक्षम थी।"
+                }
+            ]
+        },
+        {
+            "word": "Evoke",
+            "gujaratiPronunciation": "ઇવોક",
+            "hindiPronunciation": "इवोक",
+            "gujaratiMeaning": "જાગૃત કરવું",
+            "hindiMeaning": "जाग्रत करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Evoke",
+                    "gujaratiPronunciation": "ઇવોક",
+                    "hindiPronunciation": "इवोक",
+                    "gujaratiMeaning": "જાગૃત કરવું",
+                    "hindiMeaning": "जाग्रत करना"
+                },
+                "V2 (Past)": {
+                    "word": "Evoked",
+                    "gujaratiPronunciation": "ઇવોક્ડ",
+                    "hindiPronunciation": "इवोक्ड",
+                    "gujaratiMeaning": "જાગૃત કર્યું",
+                    "hindiMeaning": "जाग्रत किया"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Evoked",
+                    "gujaratiPronunciation": "ઇવોક્ડ",
+                    "hindiPronunciation": "इवोक्ड",
+                    "gujaratiMeaning": "જાગૃત કરેલું",
+                    "hindiMeaning": "जाग्रत किया हुआ"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Evoking",
+                    "gujaratiPronunciation": "ઇવોકિંગ",
+                    "hindiPronunciation": "इवोकिंग",
+                    "gujaratiMeaning": "જાગૃત કરી રહ્યું છે",
+                    "hindiMeaning": "जाग्रत कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Arouse",
+                    "gujaratiPronunciation": "અરાઉઝ",
+                    "hindiPronunciation": "अराउज",
+                    "gujaratiMeaning": "ઉશ્કેરવું",
+                    "hindiMeaning": "उत्तेजित करना"
+                },
+                {
+                    "word": "Induce",
+                    "gujaratiPronunciation": "ઇન્ડ્યુસ",
+                    "hindiPronunciation": "इंड्यूस",
+                    "gujaratiMeaning": "પ્રેરણા આપવી",
+                    "hindiMeaning": "પ્રેરિત करना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Suppress",
+                    "gujaratiPronunciation": "સપ્રેસ",
+                    "hindiPronunciation": "सप्रेस",
+                    "gujaratiMeaning": "દબાવી દેવું",
+                    "hindiMeaning": "दबाना"
+                },
+                {
+                    "word": "Ignore",
+                    "gujaratiPronunciation": "ઇગ્નોર",
+                    "hindiPronunciation": "इग्नोर",
+                    "gujaratiMeaning": "અવગણવું",
+                    "hindiMeaning": "अनदेखा کرنا"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Evoke",
+                    "gujaratiMeaning": "જાગૃત કરવું",
+                    "hindiMeaning": "जाग्रत करना"
+                },
+                {
+                    "word": "Invoke",
+                    "gujaratiPronunciation": "ઇન્વોક",
+                    "hindiPronunciation": "इन्वोक",
+                    "gujaratiMeaning": "આહ્વાન કરવું",
+                    "hindiMeaning": "आह्वान करना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The music evoked memories of her childhood.",
+                    "gujaratiPronunciation": "ધ મ્યુઝિક ઇવોક્ડ મેમરીઝ ઓફ હર ચાઇલ્ડહુડ.",
+                    "hindiPronunciation": "द म्यूजिक इवोक्ड मेमोरीज ऑफ हर चाइल्डहुड।",
+                    "gujaratiTranslation": "આ સંગીતે તેના બાળપણની યાદોને જાગૃત કરી.",
+                    "hindiTranslation": "इस संगीत نے उसके बचपन की यादें ताजा कर दीं।"
+                }
+            ]
+        },
+        {
+            "word": "Conceptualize",
+            "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝ",
+            "hindiPronunciation": "कॉन्सेप्ट्यूअलाइज",
+            "gujaratiMeaning": "વિભાવના બનાવવી",
+            "hindiMeaning": "अवधारणा बनाना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Conceptualize",
+                    "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝ",
+                    "hindiPronunciation": "कॉन्सेप्ट्यूअलाइज",
+                    "gujaratiMeaning": "વિભાવના બનાવવી",
+                    "hindiMeaning": "अवधारणा बनाना"
+                },
+                "V2 (Past)": {
+                    "word": "Conceptualized",
+                    "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝ્ડ",
+                    "hindiPronunciation": "कॉन्सेप्ट्यूअलाइज्ड",
+                    "gujaratiMeaning": "વિભાવના બનાવી",
+                    "hindiMeaning": "अवधारणा बनाई"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Conceptualized",
+                    "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝ્ડ",
+                    "hindiPronunciation": "कॉन्सेप्ट्यूअलाइज्ड",
+                    "gujaratiMeaning": "વિભાવના બનાવેલી",
+                    "hindiMeaning": "अवधारणा बनाई हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Conceptualizing",
+                    "gujaratiPronunciation": "કન્સેપ્ચ્યુઅલાઇઝિંગ",
+                    "hindiPronunciation": "कॉन्सेप्ट्यूअलाइजिंग",
+                    "gujaratiMeaning": "વિભાવના બનાવી રહ્યું છે",
+                    "hindiMeaning": "अवधारणा बना रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Imagine",
+                    "gujaratiPronunciation": "ઇમેજિન",
+                    "hindiPronunciation": "इमेजिन",
+                    "gujaratiMeaning": "કલ્પના કરવી",
+                    "hindiMeaning": "कल्पना کرنا"
+                },
+                {
+                    "word": "Envision",
+                    "gujaratiPronunciation": "એન્વિઝન",
+                    "hindiPronunciation": "एन्विजन",
+                    "gujaratiMeaning": "વિચારવું",
+                    "hindiMeaning": "परिकल्पना کرنا"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Execute",
+                    "gujaratiPronunciation": "એક્ઝિક્યુટ",
+                    "hindiPronunciation": "एક્ઝીક્યુટ",
+                    "gujaratiMeaning": "અમલ કરવું",
+                    "hindiMeaning": "निष्पादित करना"
+                },
+                {
+                    "word": "Materialize",
+                    "gujaratiPronunciation": "મટીરીયલાઇઝ",
+                    "hindiPronunciation": "मटेरियलाइज",
+                    "gujaratiMeaning": "સાકાર કરવું",
+                    "hindiMeaning": "साकार करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Conceptualize",
+                    "gujaratiMeaning": "વિભાવના બનાવવી",
+                    "hindiMeaning": "अवधारणा बनाना"
+                },
+                {
+                    "word": "Actualize",
+                    "gujaratiPronunciation": "એક્ચ્યુઅલાઇઝ",
+                    "hindiPronunciation": "एक्चुअलाइज",
+                    "gujaratiMeaning": "વાસ્તવિક બનાવવું",
+                    "hindiMeaning": "वास्तविक बनाना"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "It is difficult to conceptualize the size of the universe.",
+                    "gujaratiPronunciation": "ઇટ ઇઝ ડિફિકલ્ટ ટુ કન્સેપ્ચ્યુઅલાઇઝ ધ સાઇઝ ઓફ ધ યુનિવર્સ.",
+                    "hindiPronunciation": "इट इज डिफिकल्ट टू कॉन्सेप्ट्यूअलाइज द साइज ऑफ द यूनिवर्स।",
+                    "gujaratiTranslation": "બ્રહ્માંડના કદની વિભાવના બનાવવી મુશ્કેલ છે.",
+                    "hindiTranslation": "ब्रह्मांड के आकार की अवधारणा बनाना मुश्किल है।"
+                }
+            ]
+        },
+        {
+            "word": "Etch",
+            "gujaratiPronunciation": "એચ",
+            "hindiPronunciation": "एच",
+            "gujaratiMeaning": "નકશીકામ કરવું",
+            "hindiMeaning": "नक़्क़ाशी करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Present)": {
+                    "word": "Etch",
+                    "gujaratiPronunciation": "એચ",
+                    "hindiPronunciation": "एच",
+                    "gujaratiMeaning": "નકશીકામ કરવું",
+                    "hindiMeaning": "नक़्क़ाशी करना"
+                },
+                "V2 (Past)": {
+                    "word": "Etched",
+                    "gujaratiPronunciation": "એચ્ડ",
+                    "hindiPronunciation": "एचड",
+                    "gujaratiMeaning": "નકશીકામ કર્યું",
+                    "hindiMeaning": "नक़्क़ाशी की"
+                },
+                "V3 (Past Participle)": {
+                    "word": "Etched",
+                    "gujaratiPronunciation": "એચ્ડ",
+                    "hindiPronunciation": "एचड",
+                    "gujaratiMeaning": "નકશીકામ કરેલું",
+                    "hindiMeaning": "नक़्क़ाशी की हुई"
+                },
+                "V4 (Present Participle)": {
+                    "word": "Etching",
+                    "gujaratiPronunciation": "એચિંગ",
+                    "hindiPronunciation": "एचिंग",
+                    "gujaratiMeaning": "નકશીકામ કરી રહ્યું છે",
+                    "hindiMeaning": "नक़्क़ाशी कर रहा है"
+                }
+            },
+            "synonyms": [
+                {
+                    "word": "Engrave",
+                    "gujaratiPronunciation": "એન્ગ્રેવ",
+                    "hindiPronunciation": "एन्ग्रेव",
+                    "gujaratiMeaning": "કોતરવું",
+                    "hindiMeaning": "उत्कीर्ण کرنا"
+                },
+                {
+                    "word": "Carve",
+                    "gujaratiPronunciation": "કાર્વ",
+                    "hindiPronunciation": "कार्व",
+                    "gujaratiMeaning": "કોતરकाम કરવું",
+                    "hindiMeaning": "तराशना"
+                }
+            ],
+            "antonyms": [
+                {
+                    "word": "Smooth",
+                    "gujaratiPronunciation": "સ્મૂધ",
+                    "hindiPronunciation": "स्मूथ",
+                    "gujaratiMeaning": "સરળ બનાવવું",
+                    "hindiMeaning": "चिकना करना"
+                },
+                {
+                    "word": "Polish",
+                    "gujaratiPronunciation": "પોલિશ",
+                    "hindiPronunciation": "पॉलिश",
+                    "gujaratiMeaning": "ચમકાવવું",
+                    "hindiMeaning": "पॉलिश करना"
+                }
+            ],
+            "confusingWords": [
+                {
+                    "word": "Etch",
+                    "gujaratiMeaning": "નકશીકામ કરવું",
+                    "hindiMeaning": "नक़्क़ाशी करना"
+                },
+                {
+                    "word": "Itch",
+                    "gujaratiMeaning": "ખંજવાળ",
+                    "hindiMeaning": "खुजली"
+                }
+            ],
+            "exampleSentences": [
+                {
+                    "sentence": "The artist will etch a design onto the glass.",
+                    "gujaratiPronunciation": "ધ આર્ટિસ્ટ વિલ એચ અ ડિઝાઇન ઓન્ટુ ધ ગ્લાસ.",
+                    "hindiPronunciation": "द आर्टिस्ट विल एच अ डिजाइन ऑनटू द ग्लास।",
+                    "gujaratiTranslation": "આ કલાકાર ગ્લાસ પર એક ડિઝાઇનનું નકશીકામ કરશે.",
+                    "hindiTranslation": "यह कलाकार कांच पर एक डिजाइन की नक़्क़ਾશી करेगा।"
+                }
+            ]
+        }
+    ]
+}

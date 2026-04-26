@@ -1,0 +1,442 @@
+
+{
+  "id": "level-3",
+  "title": "Level 3: Document | Register | Construe | Evoke | Commemorate",
+  "words": [
+    {
+      "word": "Document",
+      "gujaratiPronunciation": "ડોક્યુમેન્ટ",
+      "hindiPronunciation": "डॉक्यूमेंट",
+      "gujaratiMeaning": "દસ્તાવેજીકરણ કરવું",
+      "hindiMeaning": "दस्तावेजीकरण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Document",
+          "gujaratiPronunciation": "ડોક્યુમેન્ટ",
+          "hindiPronunciation": "डॉक्यूमेंट",
+          "gujaratiMeaning": "દસ્તાવેજીકરણ કરવું",
+          "hindiMeaning": "दस्तावेजीकरण करना"
+        },
+        "V2": {
+          "word": "Documented",
+          "gujaratiPronunciation": "ડોક્યુમેન્ટેડ",
+          "hindiPronunciation": "डॉक्यूमेंटेड",
+          "gujaratiMeaning": "દસ્તાવેજીકરણ કર્યું",
+          "hindiMeaning": "दस्तावेजीकरण किया"
+        },
+        "V3": {
+          "word": "Documented",
+          "gujaratiPronunciation": "ડોક્યુમેન્ટેડ",
+          "hindiPronunciation": "डॉक्यूमेंटेड",
+          "gujaratiMeaning": "દસ્તાવેજીકરણ કરેલું",
+          "hindiMeaning": "प्रलेखित"
+        },
+        "V4": {
+          "word": "Documenting",
+          "gujaratiPronunciation": "ડોક્યુમેન્ટિંગ",
+          "hindiPronunciation": "डॉक्यूमेंटिंग",
+          "gujaratiMeaning": "દસ્તાવેજીકરણ કરી રહ્યું છે",
+          "hindiMeaning": "दस्तावेजीकरण कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Record",
+          "gujaratiPronunciation": "રેકોર્ડ",
+          "hindiPronunciation": "रिकॉर्ड",
+          "gujaratiMeaning": "નોંધવું",
+          "hindiMeaning": "दर्ज करना"
+        },
+        {
+          "word": "Register",
+          "gujaratiPronunciation": "રજિસ્ટર",
+          "hindiPronunciation": "रजिस्टर",
+          "gujaratiMeaning": "નોંધણી કરવી",
+          "hindiMeaning": "पंजीकृत करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Erase",
+          "gujaratiPronunciation": "ઇરેઝ",
+          "hindiPronunciation": "इरेज़",
+          "gujaratiMeaning": "ભૂંસી નાખવું",
+          "hindiMeaning": "मिटाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Docent",
+          "gujaratiPronunciation": "ડોસેન્ટ",
+          "hindiPronunciation": "डोसेंट",
+          "gujaratiMeaning": "માર્ગદર્શક (મ્યુઝિયમમાં)",
+          "hindiMeaning": "मार्गदर्शक (संग्रहालय में)"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "It's important to document your sources when writing a paper.",
+          "gujaratiTranslation": "લેખ લખતી વખતે તમારા સ્ત્રોતોનું દસ્તાવેજીકરણ કરવું મહત્વપૂર્ણ છે.",
+          "hindiTranslation": "एक पेपर लिखते समय अपने स्रोतों का दस्तावेजीकरण करना महत्वपूर्ण है।",
+          "gujaratiPronunciation": "ઇટ્સ ઇમ્પોર્ટન્ટ ટુ ડોક્યુમેન્ટ યોર સોર્સિસ વેન રાઇટિંગ અ પેપર.",
+          "hindiPronunciation": "इट्स इम्पोर्टेंट टू डॉक्यूमेंट योर सोर्सेज़ वेन राइटिंग अ पेपर।"
+        }
+      ]
+    },
+    {
+      "word": "Register",
+      "gujaratiPronunciation": "રજિસ્ટર",
+      "hindiPronunciation": "रजिस्टर",
+      "gujaratiMeaning": "નોંધણી કરવી",
+      "hindiMeaning": "पंजीकृत करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Register",
+          "gujaratiPronunciation": "રજિસ્ટર",
+          "hindiPronunciation": "रजिस्टर",
+          "gujaratiMeaning": "નોંધણી કરવી",
+          "hindiMeaning": "पंजीकृत करना"
+        },
+        "V2": {
+          "word": "Registered",
+          "gujaratiPronunciation": "રજિસ્ટર્ડ",
+          "hindiPronunciation": "रजिस्टर्ड",
+          "gujaratiMeaning": "નોંધણી કરી",
+          "hindiMeaning": "पंजीकृत किया"
+        },
+        "V3": {
+          "word": "Registered",
+          "gujaratiPronunciation": "રજિસ્ટર્ડ",
+          "hindiPronunciation": "रजिस्टर्ड",
+          "gujaratiMeaning": "નોંધણી કરેલી",
+          "hindiMeaning": "पंजीकृत"
+        },
+        "V4": {
+          "word": "Registering",
+          "gujaratiPronunciation": "રજિસ્ટરિંગ",
+          "hindiPronunciation": "रजिस्टरिंग",
+          "gujaratiMeaning": "નોંધણી કરી રહ્યું છે",
+          "hindiMeaning": "पंजीकृत कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Enroll",
+          "gujaratiPronunciation": "એનરોલ",
+          "hindiPronunciation": "एनरोल",
+          "gujaratiMeaning": "નામ નોંધાવવું",
+          "hindiMeaning": "नामांकन करना"
+        },
+        {
+          "word": "Record",
+          "gujaratiPronunciation": "રેકોર્ડ",
+          "hindiPronunciation": "रिकॉर्ड",
+          "gujaratiMeaning": "નોંધવું",
+          "hindiMeaning": "दर्ज करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Unregister",
+          "gujaratiPronunciation": "અનરજિસ્ટર",
+          "hindiPronunciation": "अन-रजिस्टर",
+          "gujaratiMeaning": "નોંધણી રદ કરવી",
+          "hindiMeaning": "पंजीकरण रद्द करना"
+        },
+        {
+          "word": "Delete",
+          "gujaratiPronunciation": "ડિલીટ",
+          "hindiPronunciation": "डिलीट",
+          "gujaratiMeaning": "કાઢી નાખવું",
+          "hindiMeaning": "हटाना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Resistor",
+          "gujaratiPronunciation": "રેઝિસ્ટર",
+          "hindiPronunciation": "रेज़िस्टर",
+          "gujaratiMeaning": "અવરોધક (વિદ્યુત)",
+          "hindiMeaning": "प्रतिरोधक (विद्युत)"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "You need to register for the course before it starts.",
+          "gujaratiTranslation": "કોર્સ શરૂ થાય તે પહેલાં તમારે નોંધણી કરાવવાની જરૂર છે.",
+          "hindiTranslation": "पाठ्यक्रम शुरू होने से पहले आपको पंजीकरण कराना होगा।",
+          "gujaratiPronunciation": "યુ નીડ ટુ રજિસ્ટર ફોર ધ કોર્સ બિફોર ઇટ સ્ટાર્ટ્સ.",
+          "hindiPronunciation": "यू नीड टू रजिस्टर फॉर द कोर्स बिफोर इट स्टार्ट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Construe",
+      "gujaratiPronunciation": "કન્સ્ટ્રૂ",
+      "hindiPronunciation": "कन्स्ट्रू",
+      "gujaratiMeaning": "અર્થઘટન કરવું",
+      "hindiMeaning": "अर्थ लगाना, व्याख्या करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Construe",
+          "gujaratiPronunciation": "કન્સ્ટ્રૂ",
+          "hindiPronunciation": "कन्स्ट्रू",
+          "gujaratiMeaning": "અર્થઘટન કરવું",
+          "hindiMeaning": "अर्थ लगाना"
+        },
+        "V2": {
+          "word": "Construed",
+          "gujaratiPronunciation": "કન્સ્ટ્રૂડ",
+          "hindiPronunciation": "कन्स्ट्रूड",
+          "gujaratiMeaning": "અર્થઘટન કર્યું",
+          "hindiMeaning": "अर्थ लगाया"
+        },
+        "V3": {
+          "word": "Construed",
+          "gujaratiPronunciation": "કન્સ્ટ્રૂડ",
+          "hindiPronunciation": "कन्स्ट्रूड",
+          "gujaratiMeaning": "અર્થઘટન કરેલું",
+          "hindiMeaning": "अर्थ लगाया हुआ"
+        },
+        "V4": {
+          "word": "Construing",
+          "gujaratiPronunciation": "કન્સ્ટ્રુઇંગ",
+          "hindiPronunciation": "कन्स्ट्रूइंग",
+          "gujaratiMeaning": "અર્થઘટન કરી રહ્યું છે",
+          "hindiMeaning": "अर्थ लगा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Interpret",
+          "gujaratiPronunciation": "ઇન્ટરપ્રિટ",
+          "hindiPronunciation": "इंटरप्रेट",
+          "gujaratiMeaning": "અર્થઘટન કરવું",
+          "hindiMeaning": "व्याख्या करना"
+        },
+        {
+          "word": "Understand",
+          "gujaratiPronunciation": "અન્ડરસ્ટેન્ડ",
+          "hindiPronunciation": "अंडरस्टैंड",
+          "gujaratiMeaning": "સમજવું",
+          "hindiMeaning": "समझना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Misconstrue",
+          "gujaratiPronunciation": "મિસકન્સ્ટ્રૂ",
+          "hindiPronunciation": "मिसकन्स्ट्रू",
+          "gujaratiMeaning": "ખોટું અર્થઘટન કરવું",
+          "hindiMeaning": "गलत अर्थ लगाना"
+        },
+        {
+          "word": "Misunderstand",
+          "gujaratiPronunciation": "મિસઅન્ડરસ્ટેન્ડ",
+          "hindiPronunciation": "मिसअंडरस्टैंड",
+          "gujaratiMeaning": "ખોટું સમજવું",
+          "hindiMeaning": "गलत समझना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Construct",
+          "gujaratiPronunciation": "કન્સ્ટ્રક્ટ",
+          "hindiPronunciation": "कन्स्ट्रक्ट",
+          "gujaratiMeaning": "બાંધકામ કરવું",
+          "hindiMeaning": "निर्माण करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "His comments were wrongly construed as criticism.",
+          "gujaratiTranslation": "તેની ટિપ્પણીઓને ભૂલથી ટીકા તરીકે અર્થઘટન કરવામાં આવી.",
+          "hindiTranslation": "उनकी टिप्पणियों को गलती से आलोचना के रूप में लिया गया।",
+          "gujaratiPronunciation": "હિઝ કમેન્ટ્સ વર રોંગલી કન્સ્ટ્રૂડ એઝ ક્રિટિસિઝમ.",
+          "hindiPronunciation": "हिज़ कमेंट्स वर रॉन्गली कन्स्ट्रूड एज़ क्रिटिसिज़्म।"
+        }
+      ]
+    },
+    {
+      "word": "Evoke",
+      "gujaratiPronunciation": "ઇવોક",
+      "hindiPronunciation": "इवोक",
+      "gujaratiMeaning": "જગાડવું, યાદ અપાવવું",
+      "hindiMeaning": "जगाना, याद दिलाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Evoke",
+          "gujaratiPronunciation": "ઇવોક",
+          "hindiPronunciation": "इवोक",
+          "gujaratiMeaning": "જગાડવું",
+          "hindiMeaning": "जगाना"
+        },
+        "V2": {
+          "word": "Evoked",
+          "gujaratiPronunciation": "ઇવોક્ડ",
+          "hindiPronunciation": "इवोक्ड",
+          "gujaratiMeaning": "જગાડ્યું",
+          "hindiMeaning": "जगाया"
+        },
+        "V3": {
+          "word": "Evoked",
+          "gujaratiPronunciation": "ઇવોક્ડ",
+          "hindiPronunciation": "इवोक्ड",
+          "gujaratiMeaning": "જગાડેલું",
+          "hindiMeaning": "जगाया हुआ"
+        },
+        "V4": {
+          "word": "Evoking",
+          "gujaratiPronunciation": "ઇવોકિંગ",
+          "hindiPronunciation": "इवोकिंग",
+          "gujaratiMeaning": "જગાડી રહ્યું છે",
+          "hindiMeaning": "जगा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Induce",
+          "gujaratiPronunciation": "ઇન્ડ્યુસ",
+          "hindiPronunciation": "इंड्यूस",
+          "gujaratiMeaning": "પ્રેરણા આપવી",
+          "hindiMeaning": "પ્રેરણા देना"
+        },
+        {
+          "word": "Arouse",
+          "gujaratiPronunciation": "અરાઉઝ",
+          "hindiPronunciation": "अराउज़",
+          "gujaratiMeaning": "જગાડવું",
+          "hindiMeaning": "जगाना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Suppress",
+          "gujaratiPronunciation": "સપ્રેસ",
+          "hindiPronunciation": "सप्रेस",
+          "gujaratiMeaning": "દબાવવું",
+          "hindiMeaning": "दबाना"
+        },
+        {
+          "word": "Stifle",
+          "gujaratiPronunciation": "સ્ટાઇફલ",
+          "hindiPronunciation": "स्टाइफल",
+          "gujaratiMeaning": "ગૂંગળાવવું",
+          "hindiMeaning": "दम घोंटना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Invoke",
+          "gujaratiPronunciation": "ઇન્વોક",
+          "hindiPronunciation": "इन्वोक",
+          "gujaratiMeaning": "આહ્વાન કરવું",
+          "hindiMeaning": "आह्वान करना"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The smell of the sea evoked memories of his childhood.",
+          "gujaratiTranslation": "દરિયાની સુગંધે તેના બાળપણની યાદો જગાડી.",
+          "hindiTranslation": "समुद्र की गंध ने उसके बचपन की यादें ताजा कर दीं।",
+          "gujaratiPronunciation": "ધ સ્મેલ ઓફ ધ સી ઇવોક્ડ મેમરીઝ ઓફ હિઝ ચાઇલ્ડહુડ.",
+          "hindiPronunciation": "द स्मेल ऑफ़ द सी इवोक्ड मेमोरीज़ ऑफ़ हिज़ चाइल्डहुड।"
+        }
+      ]
+    },
+    {
+      "word": "Commemorate",
+      "gujaratiPronunciation": "કમેમરેટ",
+      "hindiPronunciation": "कमेमोरेट",
+      "gujaratiMeaning": "યાદગીરીમાં ઉજવવું",
+      "hindiMeaning": "स्मरणोत्सव मनाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Commemorate",
+          "gujaratiPronunciation": "કમેમરેટ",
+          "hindiPronunciation": "कमेमोरेट",
+          "gujaratiMeaning": "યાદગીરીમાં ઉજવવું",
+          "hindiMeaning": "स्मरणोत्सव मनाना"
+        },
+        "V2": {
+          "word": "Commemorated",
+          "gujaratiPronunciation": "કમેમરેટેડ",
+          "hindiPronunciation": "कमेमोरेटेड",
+          "gujaratiMeaning": "ઉજવણી કરી",
+          "hindiMeaning": "स्मरणोत्सव मनाया"
+        },
+        "V3": {
+          "word": "Commemorated",
+          "gujaratiPronunciation": "કમેમરેટેડ",
+          "hindiPronunciation": "कमेमोरेटेड",
+          "gujaratiMeaning": "ઉજવણી કરેલી",
+          "hindiMeaning": "स्मरणोत्सव मनाया हुआ"
+        },
+        "V4": {
+          "word": "Commemorating",
+          "gujaratiPronunciation": "કમેમરેટિંગ",
+          "hindiPronunciation": "कमेमोरेटिंग",
+          "gujaratiMeaning": "ઉજવણી કરી રહ્યું છે",
+          "hindiMeaning": "स्मरणोत्सव मना रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Celebrate",
+          "gujaratiPronunciation": "સેલિબ્રેટ",
+          "hindiPronunciation": "सेलिब्रेट",
+          "gujaratiMeaning": "ઉજવણી કરવી",
+          "hindiMeaning": "जश्न मनाना"
+        },
+        {
+          "word": "Honor",
+          "gujaratiPronunciation": "ઓનર",
+          "hindiPronunciation": "ऑनर",
+          "gujaratiMeaning": "સન્માન કરવું",
+          "hindiMeaning": "सम्मान करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Forget",
+          "gujaratiPronunciation": "ફરગેટ",
+          "hindiPronunciation": "फॉरगेट",
+          "gujaratiMeaning": "ભૂલી જવું",
+          "hindiMeaning": "भूल जाना"
+        },
+        {
+          "word": "Ignore",
+          "gujaratiPronunciation": "ઇગ્નોર",
+          "hindiPronunciation": "इग्नोर",
+          "gujaratiMeaning": "અવગણવું",
+          "hindiMeaning": "नजरअंदाज करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Commensurate",
+          "gujaratiPronunciation": "કમેન્સરેટ",
+          "hindiPronunciation": "कमेन्सरेट",
+          "gujaratiMeaning": "અનુરૂપ",
+          "hindiMeaning": "अनुरूप"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "A statue was built to commemorate the victory.",
+          "gujaratiTranslation": "જીતની યાદમાં એક પ્રતિમા બનાવવામાં આવી હતી.",
+          "hindiTranslation": "जीत के उपलक्ष्य में एक मूर्ति बनाई गई थी।",
+          "gujaratiPronunciation": "અ સ્ટેચ્યુ વોઝ બિલ્ટ ટુ કમેમરેટ ધ વિક્ટરી.",
+          "hindiPronunciation": "अ स्टैच्यू वॉज़ बिल्ट टू कमेमोरेट द विक्ट्री।"
+        }
+      ]
+    }
+  ]
+}
+
+    

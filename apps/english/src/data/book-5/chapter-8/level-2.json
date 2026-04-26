@@ -1,0 +1,403 @@
+
+{
+  "id": "level-2",
+  "title": "Level 2",
+  "words": [
+    {
+      "word": "Erode",
+      "gujaratiPronunciation": "ઇરોડ",
+      "hindiPronunciation": "इरोड",
+      "gujaratiMeaning": "ઘસાઈ જવું",
+      "hindiMeaning": "घिस जाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Erode",
+          "gujaratiPronunciation": "ઇરોડ",
+          "hindiPronunciation": "इरोड",
+          "gujaratiMeaning": "ઘસાઈ જવું",
+          "hindiMeaning": "घिस जाना"
+        },
+        "V2": {
+          "word": "Eroded",
+          "gujaratiPronunciation": "ઇરોડેડ",
+          "hindiPronunciation": "इरोडेड",
+          "gujaratiMeaning": "ઘસાઈ ગયું",
+          "hindiMeaning": "घिस गया"
+        },
+        "V3": {
+          "word": "Eroded",
+          "gujaratiPronunciation": "ઇરોડેડ",
+          "hindiPronunciation": "इरोडेड",
+          "gujaratiMeaning": "ઘસાયેલું",
+          "hindiMeaning": "घिस चुका"
+        },
+        "V4": {
+          "word": "Eroding",
+          "gujaratiPronunciation": "ઇરોડિંગ",
+          "hindiPronunciation": "इरोडिंग",
+          "gujaratiMeaning": "ઘસાઈ રહ્યું છે",
+          "hindiMeaning": "घिस रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Wear away",
+          "gujaratiPronunciation": "વેર અવે",
+          "hindiPronunciation": "वेयर अवे",
+          "gujaratiMeaning": "ઘસાઈ જવું",
+          "hindiMeaning": "घिस जाना"
+        },
+        {
+          "word": "Corrode",
+          "gujaratiPronunciation": "કોરોડ",
+          "hindiPronunciation": "कोरोड",
+          "gujaratiMeaning": "કાટ લાગવો",
+          "hindiMeaning": "जंग लगना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Build",
+          "gujaratiPronunciation": "બિલ્ડ",
+          "hindiPronunciation": "बिल्ड",
+          "gujaratiMeaning": "બનાવવું",
+          "hindiMeaning": "बनाना"
+        },
+        {
+          "word": "Strengthen",
+          "gujaratiPronunciation": "સ્ટ્રેન્થન",
+          "hindiPronunciation": "स्ट्रेंग्थेन",
+          "gujaratiMeaning": "મજબૂત કરવું",
+          "hindiMeaning": "मजबूत करना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Aroad",
+          "gujaratiPronunciation": "અરોડ",
+          "hindiPronunciation": "अरोड",
+          "gujaratiMeaning": "આ શબ્દ અસ્તિત્વમાં નથી",
+          "hindiMeaning": "यह शब्द मौजूद नहीं है",
+          "difference": "Erode એ એક ક્રિયાપદ છે જેનો અર્થ ઘસાઈ જવું છે. Aroad કોઈ માન્ય શબ્દ નથી."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The coastline is slowly being eroded by the sea.",
+          "gujaratiPronunciation": "ધ કોસ્ટલાઇન ઇઝ સ્લોલી બીઇંગ ઇરોડેડ બાય ધ સી.",
+          "hindiPronunciation": "द कोस्टलाइन इज़ स्लोली बीइंग इरोडेड बाय द सी।",
+          "gujaratiTranslation": "દરિયાકિનારો ધીમે ધીમે દરિયા દ્વારા ઘસાઈ રહ્યો છે.",
+          "hindiTranslation": "समुद्र तट धीरे-धीरे समुद्र द्वारा घिस रहा है।"
+        }
+      ]
+    },
+    {
+      "word": "Hibernate",
+      "gujaratiPronunciation": "હાઇબરનેટ",
+      "hindiPronunciation": "हाइबरनेट",
+      "gujaratiMeaning": "શીતનિદ્રામાં જવું",
+      "hindiMeaning": "शीतनिद्रा में जाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Hibernate",
+          "gujaratiPronunciation": "હાઇબરનેટ",
+          "hindiPronunciation": "हाइबरनेट",
+          "gujaratiMeaning": "શીતનિદ્રામાં જવું",
+          "hindiMeaning": "शीतनिद्रा में जाना"
+        },
+        "V2": {
+          "word": "Hibernated",
+          "gujaratiPronunciation": "હાઇબરનેટેડ",
+          "hindiPronunciation": "हाइबरनेटेड",
+          "gujaratiMeaning": "શીતનિદ્રામાં ગયું",
+          "hindiMeaning": "शीतनिद्रा में गया"
+        },
+        "V3": {
+          "word": "Hibernated",
+          "gujaratiPronunciation": "હાઇબરનેટેડ",
+          "hindiPronunciation": "हाइबरनेटेड",
+          "gujaratiMeaning": "શીતનિદ્રામાં ગયેલું",
+          "hindiMeaning": "शीतनिद्रा में जा चुका"
+        },
+        "V4": {
+          "word": "Hibernating",
+          "gujaratiPronunciation": "હાઇબરનેટિંગ",
+          "hindiPronunciation": "हाइबरनेटिंग",
+          "gujaratiMeaning": "શીતનિદ્રામાં જઈ રહ્યું છે",
+          "hindiMeaning": "शीतनिद्रा में जा रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Sleep",
+          "gujaratiPronunciation": "સ્લીપ",
+          "hindiPronunciation": "स्लीप",
+          "gujaratiMeaning": "ઊંઘવું",
+          "hindiMeaning": "सोना"
+        },
+        {
+          "word": "Dormant",
+          "gujaratiPronunciation": "ડોર્મન્ટ",
+          "hindiPronunciation": "डॉर्मेंट",
+          "gujaratiMeaning": "નિષ્ક્રિય",
+          "hindiMeaning": "निष्क्रिय"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Awaken",
+          "gujaratiPronunciation": "અવેકન",
+          "hindiPronunciation": "अवेकन",
+          "gujaratiMeaning": "જાગવું",
+          "hindiMeaning": "जागना"
+        },
+        {
+          "word": "Active",
+          "gujaratiPronunciation": "એક્ટિવ",
+          "hindiPronunciation": "एक्टिव",
+          "gujaratiMeaning": "સક્રિય",
+          "hindiMeaning": "सक्रिय"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Bears hibernate during the winter.",
+          "gujaratiPronunciation": "બેર્સ હાઇબરનેટ ડ્યુરિંગ ધ વિન્ટર.",
+          "hindiPronunciation": "बेयर्स हाइबरनेट ड्यूरिंग द विंटर।",
+          "gujaratiTranslation": "રીંછ શિયાળામાં શીતનિદ્રામાં જાય છે.",
+          "hindiTranslation": "भालू सर्दियों के दौरान शीतनिद्रा में चले जाते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Migrate",
+      "gujaratiPronunciation": "માઇગ્રેટ",
+      "hindiPronunciation": "माइग्रेट",
+      "gujaratiMeaning": "સ્થળાંતર કરવું",
+      "hindiMeaning": "पलायन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Migrate",
+          "gujaratiPronunciation": "માઇગ્રેટ",
+          "hindiPronunciation": "माइग्रेट",
+          "gujaratiMeaning": "સ્થળાંતર કરવું",
+          "hindiMeaning": "पलायन करना"
+        },
+        "V2": {
+          "word": "Migrated",
+          "gujaratiPronunciation": "માઇગ્રેટેડ",
+          "hindiPronunciation": "माइग्रेटेड",
+          "gujaratiMeaning": "સ્થળાંતર કર્યું",
+          "hindiMeaning": "पलायन किया"
+        },
+        "V3": {
+          "word": "Migrated",
+          "gujaratiPronunciation": "માઇગ્રેટેડ",
+          "hindiPronunciation": "माइग्रेटेड",
+          "gujaratiMeaning": "સ્થળાંતર કરેલું",
+          "hindiMeaning": "पलायन कर चुका"
+        },
+        "V4": {
+          "word": "Migrating",
+          "gujaratiPronunciation": "માઇગ્રેટિંગ",
+          "hindiPronunciation": "माइग्रेटिंग",
+          "gujaratiMeaning": "સ્થળાંતર કરી રહ્યું છે",
+          "hindiMeaning": "पलायन कर रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Move",
+          "gujaratiPronunciation": "મૂવ",
+          "hindiPronunciation": "मूव",
+          "gujaratiMeaning": "ખસવું",
+          "hindiMeaning": "स्थानांतरित होना"
+        },
+        {
+          "word": "Relocate",
+          "gujaratiPronunciation": "રિલોકેટ",
+          "hindiPronunciation": "रिलोकेट",
+          "gujaratiMeaning": "બીજે વસવું",
+          "hindiMeaning": "पुनर्वास करना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Stay",
+          "gujaratiPronunciation": "સ્ટે",
+          "hindiPronunciation": "स्टे",
+          "gujaratiMeaning": "રહેવું",
+          "hindiMeaning": "रहना"
+        },
+        {
+          "word": "Settle",
+          "gujaratiPronunciation": "સેટલ",
+          "hindiPronunciation": "सेटल",
+          "gujaratiMeaning": "સ્થાયી થવું",
+          "hindiMeaning": "बसना"
+        }
+      ],
+      "confusingWords": [
+        {
+          "word": "Immigrate",
+          "gujaratiPronunciation": "ઇમિગ્રેટ",
+          "hindiPronunciation": "इमिग्रेट",
+          "gujaratiMeaning": "આવીને વસવું",
+          "hindiMeaning": "आप्रवास करना",
+          "difference": "Migrate એ સામાન્ય સ્થળાંતર છે, જ્યારે Immigrate એ કોઈ દેશમાં આવીને વસવા માટે વપરાય છે."
+        },
+        {
+          "word": "Emigrate",
+          "gujaratiPronunciation": "એમિગ્રેટ",
+          "hindiPronunciation": "एमिग्रेट",
+          "gujaratiMeaning": "દેશ છોડીને જવું",
+          "hindiMeaning": "उत्प्रवास करना",
+          "difference": "Migrate એ સામાન્ય સ્થળાંતર છે, જ્યારે Emigrate એ પોતાનો દેશ છોડીને બીજા દેશમાં જવા માટે વપરાય છે."
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Many birds migrate to warmer countries in the winter.",
+          "gujaratiPronunciation": "મેની બર્ડ્સ માઇગ્રેટ ટુ વોર્મર કન્ટ્રીઝ ઇન ધ વિન્ટર.",
+          "hindiPronunciation": "मेनी बर्ड्स माइग्रेट टू वार्मर कंट्रीज इन द विंटर।",
+          "gujaratiTranslation": "ઘણા પક્ષીઓ શિયાળામાં ગરમ દેશોમાં સ્થળાંતર કરે છે.",
+          "hindiTranslation": "कई पक्षी सर्दियों में गर्म देशों में चले जाते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Submerge",
+      "gujaratiPronunciation": "સબમર્જ",
+      "hindiPronunciation": "सबमर्ज",
+      "gujaratiMeaning": "ડૂબી જવું",
+      "hindiMeaning": "डूब जाना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Submerge",
+          "gujaratiPronunciation": "સબમર્જ",
+          "hindiPronunciation": "सबमर्ज",
+          "gujaratiMeaning": "ડૂબી જવું",
+          "hindiMeaning": "डूब जाना"
+        },
+        "V2": {
+          "word": "Submerged",
+          "gujaratiPronunciation": "સબમર્જ્ડ",
+          "hindiPronunciation": "सबमर्ज्ड",
+          "gujaratiMeaning": "ડૂબી ગયું",
+          "hindiMeaning": "डूब गया"
+        },
+        "V3": {
+          "word": "Submerged",
+          "gujaratiPronunciation": "સબમર્જ્ડ",
+          "hindiPronunciation": "सबमर्ज्ड",
+          "gujaratiMeaning": "ડૂબેલું",
+          "hindiMeaning": "डूब चुका"
+        },
+        "V4": {
+          "word": "Submerging",
+          "gujaratiPronunciation": "સબમર્જિંગ",
+          "hindiPronunciation": "सबमर्जिंग",
+          "gujaratiMeaning": "ડૂબી રહ્યું છે",
+          "hindiMeaning": "डूब रहा है"
+        }
+      },
+      "synonyms": [
+        {
+          "word": "Immerse",
+          "gujaratiPronunciation": "ઇમર્સ",
+          "hindiPronunciation": "इमर्स",
+          "gujaratiMeaning": "ડુબાડવું",
+          "hindiMeaning": "डुबाना"
+        },
+        {
+          "word": "Sink",
+          "gujaratiPronunciation": "સિંક",
+          "hindiPronunciation": "सिंक",
+          "gujaratiMeaning": "ડૂબવું",
+          "hindiMeaning": "डूबना"
+        }
+      ],
+      "antonyms": [
+        {
+          "word": "Emerge",
+          "gujaratiPronunciation": "ઇમર્જ",
+          "hindiPronunciation": "इमर्ज",
+          "gujaratiMeaning": "બહાર આવવું",
+          "hindiMeaning": "उभरना"
+        },
+        {
+          "word": "Float",
+          "gujaratiPronunciation": "ફ્લોટ",
+          "hindiPronunciation": "फ्लोट",
+          "gujaratiMeaning": "તરવું",
+          "hindiMeaning": "तैरना"
+        }
+      ],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "The submarine submerged to avoid detection.",
+          "gujaratiPronunciation": "ધ સબમરીન સબમર્જ્ડ ટુ અવોઇડ ડિટેક્શન.",
+          "hindiPronunciation": "द सबमरीन सबमर्ज्ड टू अवॉइड डिटेक्शन।",
+          "gujaratiTranslation": "પકડાઈ જવાથી બચવા માટે સબમરીન પાણીમાં ડૂબી ગઈ.",
+          "hindiTranslation": "पनडुब्बी पता लगने से बचने के लिए पानी में डूब गई।"
+        }
+      ]
+    },
+    {
+      "word": "Photosynthesize",
+      "gujaratiPronunciation": "ફોટોસિન્થેસાઇઝ",
+      "hindiPronunciation": "फोटोसिंथेसाइज़",
+      "gujaratiMeaning": "પ્રકાશસંશ્લેષણ કરવું",
+      "hindiMeaning": "प्रकाश संश्लेषण करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1": {
+          "word": "Photosynthesize",
+          "gujaratiPronunciation": "ફોટોસિન્થેસાઇઝ",
+          "hindiPronunciation": "फोटोसिंथेसाइज़",
+          "gujaratiMeaning": "પ્રકાશસંશ્લેષણ કરવું",
+          "hindiMeaning": "प्रकाश संश्लेषण करना"
+        },
+        "V2": {
+          "word": "Photosynthesized",
+          "gujaratiPronunciation": "ફોટોસિન્થેસાઇઝ્ડ",
+          "hindiPronunciation": "फोटोसिंथेसाइज़्ड",
+          "gujaratiMeaning": "પ્રકાશસંશ્લેષણ કર્યું",
+          "hindiMeaning": "प्रकाश संश्लेषण किया"
+        },
+        "V3": {
+          "word": "Photosynthesized",
+          "gujaratiPronunciation": "ફોટોસિન્થેસાઇઝ્ડ",
+          "hindiPronunciation": "फोटोसिंथेसाइज़्ड",
+          "gujaratiMeaning": "પ્રકાશસંશ્લેષણ કરેલું",
+          "hindiMeaning": "प्रकाश संश्लेषण कर चुका"
+        },
+        "V4": {
+          "word": "Photosynthesizing",
+          "gujaratiPronunciation": "ફોટોસિન્થેસાઇઝિંગ",
+          "hindiPronunciation": "फोटोसिंथेसाइज़िंग",
+          "gujaratiMeaning": "પ્રકાશસંશ્લેષણ કરી રહ્યું છે",
+          "hindiMeaning": "प्रकाश संश्लेषण कर रहा है"
+        }
+      },
+      "synonyms": [],
+      "antonyms": [],
+      "confusingWords": [],
+      "exampleSentences": [
+        {
+          "sentence": "Plants photosynthesize to create their own food.",
+          "gujaratiPronunciation": "પ્લાન્ટ્સ ફોટોસિન્થેસાઇઝ ટુ ક્રિએટ ધેર ઓન ફૂડ.",
+          "hindiPronunciation": "प्लांट्स फोटोसिंथेसाइज़ टू क्रिएट देयर ओन फूड।",
+          "gujaratiTranslation": "છોડ પોતાનો ખોરાક બનાવવા માટે પ્રકાશસંશ્લેષણ કરે છે.",
+          "hindiTranslation": "पौधे अपना भोजन बनाने के लिए प्रकाश संश्लेषण करते हैं।"
+        }
+      ]
+    }
+  ]
+}

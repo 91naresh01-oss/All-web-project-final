@@ -1,0 +1,77 @@
+
+{
+  "id": "level-4",
+  "title": "Sports Places & Terms",
+  "words": [
+    {
+      "word": "Gym",
+      "gujaratiPronunciation": "જિમ",
+      "hindiPronunciation": "जिम",
+      "gujaratiMeaning": "વ્યાયામશાળા",
+      "hindiMeaning": "व्यायामशाला",
+      "exampleSentences": [
+        {
+          "sentence": "I go to the gym three times a week.",
+          "gujaratiTranslation": "હું અઠવાડિયામાં ત્રણ વખત વ્યાયામશાળામાં જાઉં છું.",
+          "hindiTranslation": "मैं हफ्ते में तीन बार जिम जाता हूँ।"
+        }
+      ]
+    },
+    {
+      "word": "Court",
+      "gujaratiPronunciation": "કોર્ટ",
+      "hindiPronunciation": "कोर्ट",
+      "gujaratiMeaning": "મેદાન",
+      "hindiMeaning": "मैदान",
+      "exampleSentences": [
+        {
+          "sentence": "The tennis court is wet.",
+          "gujaratiTranslation": "ટેનિસ કોર્ટ ભીનો છે.",
+          "hindiTranslation": "टेनिस कोर्ट गीला है।"
+        }
+      ]
+    },
+    {
+      "word": "Field",
+      "gujaratiPronunciation": "ફીલ્ડ",
+      "hindiPronunciation": "फील्ड",
+      "gujaratiMeaning": "ખેતર/મેદાન",
+      "hindiMeaning": "खेत/मैदान",
+      "exampleSentences": [
+        {
+          "sentence": "The players are on the football field.",
+          "gujaratiTranslation": "ખેલાડીઓ ફૂટબોલના મેદાન પર છે.",
+          "hindiTranslation": "खिलाड़ी फुटबॉल के मैदान पर हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Team",
+      "gujaratiPronunciation": "ટીમ",
+      "hindiPronunciation": "टीम",
+      "gujaratiMeaning": "ટુકડી",
+      "hindiMeaning": "दल",
+      "exampleSentences": [
+        {
+          "sentence": "Our team won the championship.",
+          "gujaratiTranslation": "અમારી ટુકડીએ ચેમ્પિયનશિપ જીતી.",
+          "hindiTranslation": "हमारी टीम ने चैंपियनशिप जीती।"
+        }
+      ]
+    },
+    {
+      "word": "Match",
+      "gujaratiPronunciation": "મેચ",
+      "hindiPronunciation": "मैच",
+      "gujaratiMeaning": "મેચ/સ્પર્ધા",
+      "hindiMeaning": "मैच/प्रतियोगिता",
+      "exampleSentences": [
+        {
+          "sentence": "Are you going to watch the match tonight?",
+          "gujaratiTranslation": "શું તમે આજે રાત્રે મેચ જોવા જશો?",
+          "hindiTranslation": "क्या तुम आज रात मैच देखने जा रहे हो?"
+        }
+      ]
+    }
+  ]
+}

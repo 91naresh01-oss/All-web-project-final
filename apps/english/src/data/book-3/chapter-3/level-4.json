@@ -1,0 +1,177 @@
+
+{
+  "id": "level-4",
+  "title": "Level 4",
+  "words": [
+    {
+      "word": "Affirm",
+      "gujaratiPronunciation": "અફર્મ",
+      "hindiPronunciation": "अफर्म",
+      "gujaratiMeaning": "દ્રઢપણે કહેવું",
+      "hindiMeaning": "दृढ़ता से कहना, पुष्टि करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Affirm", "gujaratiPronunciation": "અફર્મ", "hindiPronunciation": "अफर्म", "gujaratiMeaning": "દ્રઢપણે કહેવું", "hindiMeaning": "पुष्टि करना" },
+        "V2 (Past)": { "word": "Affirmed", "gujaratiPronunciation": "અફર્મ્ડ", "hindiPronunciation": "अफर्म्ड", "gujaratiMeaning": "દ્રઢપણે કહ્યું", "hindiMeaning": "पुष्टि की" },
+        "V3 (Past Participle)": { "word": "Affirmed", "gujaratiPronunciation": "અફર્મ્ડ", "hindiPronunciation": "अफर्म्ड", "gujaratiMeaning": "દ્રઢપણે કહેલું", "hindiMeaning": "पुष्टि की हुई" },
+        "V4 (Present Participle)": { "word": "Affirming", "gujaratiPronunciation": "અફર્મિંગ", "hindiPronunciation": "अफर्मिंग", "gujaratiMeaning": "દ્રઢપણે કહેતા", "hindiMeaning": "पुष्टि करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" },
+        { "word": "Assert", "gujaratiPronunciation": "એસર્ટ", "hindiPronunciation": "असर्ट", "gujaratiMeaning": "દાવો કરવો", "hindiMeaning": "दावा करना" }
+      ],
+      "antonyms": [
+        { "word": "Deny", "gujaratiPronunciation": "ડિનાય", "hindiPronunciation": "डिनाई", "gujaratiMeaning": "ઇનકાર કરવો", "hindiMeaning": "इनकार करना" },
+        { "word": "Contradict", "gujaratiPronunciation": "કોન્ટ્રાડિક્ટ", "hindiPronunciation": "कॉन्ट्राडिक्ट", "gujaratiMeaning": "ખંડન કરવું", "hindiMeaning": "खंडन करना" }
+      ],
+      "confusingWords": [
+        { "word": "A firm", "gujaratiPronunciation": "અ ફર્મ", "hindiPronunciation": "अ फर्म", "gujaratiMeaning": "એક કંપની", "hindiMeaning": "एक कंपनी" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He affirmed his commitment to the project.",
+          "gujaratiTranslation": "તેમણે પ્રોજેક્ટ પ્રત્યે તેમની પ્રતિબદ્ધતાની પુષ્ટિ કરી.",
+          "hindiTranslation": "उन्होंने परियोजना के प्रति अपनी प्रतिबद्धता की पुष्टि की।",
+          "gujaratiPronunciation": "હી અફર્મ્ડ હિઝ કમિટમેન્ટ ટુ ધ પ્રોજેક્ટ.",
+          "hindiPronunciation": "ही अफर्म्ड हिज कमिटमेंट टू द प्रोजेक्ट।"
+        }
+      ]
+    },
+    {
+      "word": "Rebut",
+      "gujaratiPronunciation": "રિબટ",
+      "hindiPronunciation": "रिबट",
+      "gujaratiMeaning": "ખંડન કરવું",
+      "hindiMeaning": "खंडन करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Rebut", "gujaratiPronunciation": "રિબટ", "hindiPronunciation": "रिबट", "gujaratiMeaning": "ખંડન કરવું", "hindiMeaning": "खंडन करना" },
+        "V2 (Past)": { "word": "Rebutted", "gujaratiPronunciation": "રિબટેડ", "hindiPronunciation": "रिबटेड", "gujaratiMeaning": "ખંડન કર્યું", "hindiMeaning": "खंडन किया" },
+        "V3 (Past Participle)": { "word": "Rebutted", "gujaratiPronunciation": "રિબટેડ", "hindiPronunciation": "रिबटेड", "gujaratiMeaning": "ખંડન કરેલું", "hindiMeaning": "खंडन किया हुआ" },
+        "V4 (Present Participle)": { "word": "Rebutting", "gujaratiPronunciation": "રિબટિંગ", "hindiPronunciation": "रिबटिंग", "gujaratiMeaning": "ખંડન કરતા", "hindiMeaning": "खंडन करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Refute", "gujaratiPronunciation": "રિફ્યુટ", "hindiPronunciation": "रिफ्यूट", "gujaratiMeaning": "ખંડન કરવું", "hindiMeaning": "खंडन करना" },
+        { "word": "Deny", "gujaratiPronunciation": "ડિનાય", "hindiPronunciation": "डिनाई", "gujaratiMeaning": "ઇનકાર કરવો", "hindiMeaning": "इनकार करना" }
+      ],
+      "antonyms": [
+        { "word": "Confirm", "gujaratiPronunciation": "કન્ફર્મ", "hindiPronunciation": "कन्फर्म", "gujaratiMeaning": "પુષ્ટિ કરવી", "hindiMeaning": "पुष्टि करना" },
+        { "word": "Support", "gujaratiPronunciation": "સપોર્ટ", "hindiPronunciation": "सपोर्ट", "gujaratiMeaning": "સમર્થન કરવું", "hindiMeaning": "समर्थन करना" }
+      ],
+      "confusingWords": [
+        { "word": "Robot", "gujaratiPronunciation": "રોબોટ", "hindiPronunciation": "रोबोट", "gujaratiMeaning": "યંત્રમાનવ", "hindiMeaning": "यंत्रमानव" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "The lawyer tried to rebut the witness's testimony.",
+          "gujaratiTranslation": "વકીલે સાક્ષીની જુબાનીનું ખંડન કરવાનો પ્રયાસ કર્યો.",
+          "hindiTranslation": "वकील ने गवाह की गवाही का खंडन करने की कोशिश की।",
+          "gujaratiPronunciation": "ધ લોયર ટ્રાઇડ ટુ રિબટ ધ વિટનેસ'સ ટેસ્ટિમની.",
+          "hindiPronunciation": "द लॉयर ट्राइड टू रिबट द विटनेस'स टेस्टिमनी।"
+        }
+      ]
+    },
+    {
+      "word": "Impart",
+      "gujaratiPronunciation": "ઇમ્પાર્ટ",
+      "hindiPronunciation": "इम्पार्ट",
+      "gujaratiMeaning": "આપવું, પ્રદાન કરવું (જ્ઞાન, માહિતી)",
+      "hindiMeaning": "प्रदान करना, देना (ज्ञान, सूचना)",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Impart", "gujaratiPronunciation": "ઇમ્પાર્ટ", "hindiPronunciation": "इम्पार्ट", "gujaratiMeaning": "આપવું", "hindiMeaning": "प्रदान करना" },
+        "V2 (Past)": { "word": "Imparted", "gujaratiPronunciation": "ઇમ્પાર્ટેડ", "hindiPronunciation": "इम्पार्टेड", "gujaratiMeaning": "આપ્યું", "hindiMeaning": "प्रदान किया" },
+        "V3 (Past Participle)": { "word": "Imparted", "gujaratiPronunciation": "ઇમ્પાર્ટેડ", "hindiPronunciation": "इम्पार्टेड", "gujaratiMeaning": "આપેલું", "hindiMeaning": "प्रदान किया हुआ" },
+        "V4 (Present Participle)": { "word": "Imparting", "gujaratiPronunciation": "ઇમ્પાર્ટિંગ", "hindiPronunciation": "इम्पार्टिंग", "gujaratiMeaning": "આપતા", "hindiMeaning": "प्रदान करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Communicate", "gujaratiPronunciation": "કમ્યુનિકેટ", "hindiPronunciation": "कम्यूनिकेट", "gujaratiMeaning": "વાતચીત કરવી", "hindiMeaning": "संचार करना" },
+        { "word": "Convey", "gujaratiPronunciation": "કન્વે", "hindiPronunciation": "कन्वे", "gujaratiMeaning": "પહોંચાડવું", "hindiMeaning": "पहुँचाना" }
+      ],
+      "antonyms": [
+        { "word": "Withhold", "gujaratiPronunciation": "વિથહોલ્ડ", "hindiPronunciation": "विथहोल्ड", "gujaratiMeaning": "અટકાવી રાખવું", "hindiMeaning": "रोक रखना" },
+        { "word": "Conceal", "gujaratiPronunciation": "કન્સીલ", "hindiPronunciation": "कंसील", "gujaratiMeaning": "છુપાવવું", "hindiMeaning": "छिपाना" }
+      ],
+      "confusingWords": [
+        { "word": "Apart", "gujaratiPronunciation": "અપાર્ટ", "hindiPronunciation": "अपार्ट", "gujaratiMeaning": "અલગ", "hindiMeaning": "अलग" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Teachers impart knowledge to their students.",
+          "gujaratiTranslation": "શિક્ષકો તેમના વિદ્યાર્થીઓને જ્ઞાન આપે છે.",
+          "hindiTranslation": "शिक्षक अपने छात्रों को ज्ञान प्रदान करते हैं।",
+          "gujaratiPronunciation": "ટીચર્સ ઇમ્પાર્ટ નોલેજ ટુ ધેર સ્ટુડન્ટ્સ.",
+          "hindiPronunciation": "टीचर्स इम्पार्ट नॉलेज टू देयर स्टूडेंट्स।"
+        }
+      ]
+    },
+    {
+      "word": "Decode",
+      "gujaratiPronunciation": "ડીકોડ",
+      "hindiPronunciation": "डिकोड",
+      "gujaratiMeaning": "ગુપ્ત લખાણ ઉકેલવું",
+      "hindiMeaning": "गुप्त लेख को समझना, डिकोड करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Decode", "gujaratiPronunciation": "ડીકોડ", "hindiPronunciation": "डिकोड", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "डिकोड करना" },
+        "V2 (Past)": { "word": "Decoded", "gujaratiPronunciation": "ડીકોડેડ", "hindiPronunciation": "डिकोडेड", "gujaratiMeaning": "ઉકેલ્યું", "hindiMeaning": "डिकोड किया" },
+        "V3 (Past Participle)": { "word": "Decoded", "gujaratiPronunciation": "ડીકોડેડ", "hindiPronunciation": "डिकोडेड", "gujaratiMeaning": "ઉકેલેલું", "hindiMeaning": "डिकोड किया हुआ" },
+        "V4 (Present Participle)": { "word": "Decoding", "gujaratiPronunciation": "ડીકોડિંગ", "hindiPronunciation": "डिकोडिंग", "gujaratiMeaning": "ઉકેલતા", "hindiMeaning": "डिकोड करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Decipher", "gujaratiPronunciation": "ડિસાઇફર", "hindiPronunciation": "डेसिफर", "gujaratiMeaning": "ઉકેલવું", "hindiMeaning": "गूढ़लिपि पढ़ना" },
+        { "word": "Interpret", "gujaratiPronunciation": "ઇન્ટરપ્રિટ", "hindiPronunciation": "इंटरप्रेट", "gujaratiMeaning": "અર્થઘટન કરવું", "hindiMeaning": "व्याख्या करना" }
+      ],
+      "antonyms": [
+        { "word": "Encode", "gujaratiPronunciation": "એનકોડ", "hindiPronunciation": "एनकोड", "gujaratiMeaning": "સંકેતમાં ફેરવવું", "hindiMeaning": "सांकेतिक शब्दों में बदलना" },
+        { "word": "Encrypt", "gujaratiPronunciation": "એન્ક્રિપ્ટ", "hindiPronunciation": "एन्क्रिप्ट", "gujaratiMeaning": "ગુપ્ત કરવું", "hindiMeaning": "एन्क्रिप्ट करना" }
+      ],
+      "confusingWords": [
+        { "word": "Decade", "gujaratiPronunciation": "ડેકેડ", "hindiPronunciation": "डेकेड", "gujaratiMeaning": "દાયકો", "hindiMeaning": "दशक" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "He was able to decode the secret message.",
+          "gujaratiTranslation": "તે ગુપ્ત સંદેશ ઉકેલવામાં સક્ષમ હતો.",
+          "hindiTranslation": "वह गुप्त संदेश को डिकोड करने में सक्षम था।",
+          "gujaratiPronunciation": "હી વોઝ એબલ ટુ ડીકોડ ધ સિક્રેટ મેસેજ.",
+          "hindiPronunciation": "ही वॉज एबल टू डिकोड द सीक्रेट मेसेज।"
+        }
+      ]
+    },
+    {
+      "word": "Captivate",
+      "gujaratiPronunciation": "કેપ્ટિવેટ",
+      "hindiPronunciation": "कैप्टिवेट",
+      "gujaratiMeaning": "મોહિત કરવું",
+      "hindiMeaning": "मोहित करना, आकर्षित करना",
+      "partOfSpeech": "Verb",
+      "verbForms": {
+        "V1 (Base)": { "word": "Captivate", "gujaratiPronunciation": "કેપ્ટિવેટ", "hindiPronunciation": "कैप्टिवेट", "gujaratiMeaning": "મોહિત કરવું", "hindiMeaning": "मोहित करना" },
+        "V2 (Past)": { "word": "Captivated", "gujaratiPronunciation": "કેપ્ટિવેટેડ", "hindiPronunciation": "कैप्टिवेटेड", "gujaratiMeaning": "મોહિત કર્યું", "hindiMeaning": "मोहित किया" },
+        "V3 (Past Participle)": { "word": "Captivated", "gujaratiPronunciation": "કેપ્ટિવેટેડ", "hindiPronunciation": "कैप्टिवेटेड", "gujaratiMeaning": "મોહિત કરેલું", "hindiMeaning": "मोहित किया हुआ" },
+        "V4 (Present Participle)": { "word": "Captivating", "gujaratiPronunciation": "કેપ્ટિવેટિંગ", "hindiPronunciation": "कैप्टिवेटिंग", "gujaratiMeaning": "મોહિત કરતા", "hindiMeaning": "मोहित करते हुए" }
+      },
+      "synonyms": [
+        { "word": "Enchant", "gujaratiPronunciation": "એન્ચેન્ટ", "hindiPronunciation": "एन्चैन्ट", "gujaratiMeaning": "મંત્રમુગ્ધ કરવું", "hindiMeaning": "मंत्रमुग्ध करना" },
+        { "word": "Fascinate", "gujaratiPronunciation": "ફેસિનેટ", "hindiPronunciation": "फैसिनेट", "gujaratiMeaning": "આકર્ષિત કરવું", "hindiMeaning": "आकर्षित करना" }
+      ],
+      "antonyms": [
+        { "word": "Repel", "gujaratiPronunciation": "રિપેલ", "hindiPronunciation": "रिपेल", "gujaratiMeaning": "દૂર કરવું", "hindiMeaning": "प्रतिकर्षित करना" },
+        { "word": "Bore", "gujaratiPronunciation": "બોર", "hindiPronunciation": "बोर", "gujaratiMeaning": "કંટાળો આપવો", "hindiMeaning": "उबाना" }
+      ],
+      "confusingWords": [
+        { "word": "Capture", "gujaratiPronunciation": "કેપ્ચર", "hindiPronunciation": "कैप्चर", "gujaratiMeaning": "પકડવું", "hindiMeaning": "पकड़ना" }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "Her performance captivated the audience.",
+          "gujaratiTranslation": "તેના પ્રદર્શને પ્રેક્ષકોને મોહિત કરી દીધા.",
+          "hindiTranslation": "उसके प्रदर्शन ने दर्शकों को मोहित कर लिया।",
+          "gujaratiPronunciation": "હર પરફોર્મન્સ કેપ્ટિવેટેડ ધ ઓડિયન્સ.",
+          "hindiPronunciation": "हर परफॉरमेंस कैप्टिवेटेड द ऑडियंस।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "level-8",
+    "title": "Ordinal Numbers",
+    "words": [
+        {
+            "word": "First",
+            "icon": "🥇",
+            "gujaratiPronunciation": "ફર્સ્ટ",
+            "hindiPronunciation": "फर्स्ट",
+            "gujaratiMeaning": "પહેલું",
+            "hindiMeaning": "पहला"
+        },
+        {
+            "word": "Second",
+            "icon": "🥈",
+            "gujaratiPronunciation": "સેકન્ડ",
+            "hindiPronunciation": "सेकंड",
+            "gujaratiMeaning": "બીજું",
+            "hindiMeaning": "दूसरा"
+        },
+        {
+            "word": "Third",
+            "icon": "🥉",
+            "gujaratiPronunciation": "થર્ડ",
+            "hindiPronunciation": "थर्ड",
+            "gujaratiMeaning": "ત્રીજું",
+            "hindiMeaning": "तीसरा"
+        },
+        {
+            "word": "Fourth",
+            "icon": "🏅",
+            "gujaratiPronunciation": "ફોર્થ",
+            "hindiPronunciation": "फोर्थ",
+            "gujaratiMeaning": "ચોથું",
+            "hindiMeaning": "चौथा"
+        },
+        {
+            "word": "Fifth",
+            "icon": "🏅",
+            "gujaratiPronunciation": "ફિફ્થ",
+            "hindiPronunciation": "फिफ्थ",
+            "gujaratiMeaning": "પાંચમું",
+            "hindiMeaning": "पांचवां"
+        }
+    ]
+}

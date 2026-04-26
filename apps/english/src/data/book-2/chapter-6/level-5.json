@@ -1,0 +1,77 @@
+
+{
+  "id": "level-5",
+  "title": "Major Buildings",
+  "words": [
+    {
+      "word": "Parliament",
+      "gujaratiPronunciation": "પાર્લામેન્ટ",
+      "hindiPronunciation": "पार्लियामेंट",
+      "gujaratiMeaning": "સંસદ",
+      "hindiMeaning": "संसद",
+      "exampleSentences": [
+        {
+          "sentence": "The new law was passed in the Parliament.",
+          "gujaratiTranslation": "નવો કાયદો સંસદમાં પસાર કરવામાં આવ્યો હતો.",
+          "hindiTranslation": "नया कानून संसद में पारित किया गया।"
+        }
+      ]
+    },
+    {
+      "word": "Observatory",
+      "gujaratiPronunciation": "ઓબ્ઝર્વેટરી",
+      "hindiPronunciation": "ऑब्जर्वेटरी",
+      "gujaratiMeaning": "વેધશાળા",
+      "hindiMeaning": "वेधशाला",
+      "exampleSentences": [
+        {
+          "sentence": "We can see stars from the observatory.",
+          "gujaratiTranslation": "આપણે વેધશાળામાંથી તારાઓ જોઈ શકીએ છીએ.",
+          "hindiTranslation": "हम वेधशाला से तारे देख सकते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Laboratory",
+      "gujaratiPronunciation": "લેબોરેટરી",
+      "hindiPronunciation": "लेबोरेटरी",
+      "gujaratiMeaning": "પ્રયોગશાળા",
+      "hindiMeaning": "प्रयोगशाला",
+      "exampleSentences": [
+        {
+          "sentence": "Scientists conduct experiments in a laboratory.",
+          "gujaratiTranslation": "વૈજ્ઞાનિકો પ્રયોગશાળામાં પ્રયોગો કરે છે.",
+          "hindiTranslation": "वैज्ञानिक प्रयोगशाला में प्रयोग करते हैं।"
+        }
+      ]
+    },
+    {
+      "word": "Monument",
+      "gujaratiPronunciation": "મોન્યુમેન્ટ",
+      "hindiPronunciation": "मोन्यूमेंट",
+      "gujaratiMeaning": "સ્મારક",
+      "hindiMeaning": "स्मारक",
+      "exampleSentences": [
+        {
+          "sentence": "The Taj Mahal is a famous monument.",
+          "gujaratiTranslation": "તાજમહેલ એક પ્રખ્યાત સ્મારક છે.",
+          "hindiTranslation": "ताजमहल एक प्रसिद्ध स्मारक है।"
+        }
+      ]
+    },
+    {
+      "word": "Skyscraper",
+      "gujaratiPronunciation": "સ્કાયસ્ક્રેપર",
+      "hindiPronunciation": "स्काईस्क्रेपर",
+      "gujaratiMeaning": "ગગનચુંબી ઇમારત",
+      "hindiMeaning": "गगनचुंबी इमारत",
+      "exampleSentences": [
+        {
+          "sentence": "Dubai has many skyscrapers.",
+          "gujaratiTranslation": "દુબઈમાં ઘણી ગગનચુંબી ઇમારતો છે.",
+          "hindiTranslation": "दुबई में कई गगनचुंबी इमारतें हैं।"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+
+{
+    "id": "level-5",
+    "title": "Level 5",
+    "words": [
+        {
+            "word": "Defer",
+            "gujaratiPronunciation": "ડિફર",
+            "hindiPronunciation": "डिफर",
+            "gujaratiMeaning": "ટાળવું, મુલતવી રાખવું",
+            "hindiMeaning": "टालना, स्थगित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Defer", "gujaratiPronunciation": "ડિફર", "hindiPronunciation": "डिफर", "gujaratiMeaning": "ટાળવું", "hindiMeaning": "टालना" },
+                "V2 (Past)": { "word": "Deferred", "gujaratiPronunciation": "ડિફર્ડ", "hindiPronunciation": "डिफर्ड", "gujaratiMeaning": "ટાળ્યું", "hindiMeaning": "टाला" },
+                "V3 (Past Participle)": { "word": "Deferred", "gujaratiPronunciation": "ડિફર્ડ", "hindiPronunciation": "डिफर्ड", "gujaratiMeaning": "ટાળેલું", "hindiMeaning": "टाला हुआ" },
+                "V4 (Present Participle)": { "word": "Deferring", "gujaratiPronunciation": "ડિફરિંગ", "hindiPronunciation": "डिफरिंग", "gujaratiMeaning": "ટાળી રહ્યું છે", "hindiMeaning": "टाल रहा है" }
+            },
+            "synonyms": [
+                { "word": "Postpone", "gujaratiPronunciation": "પોસ્ટપોન", "hindiPronunciation": "पोस्टपोन", "gujaratiMeaning": "મુલ્તવી રાખવું", "hindiMeaning": "स्थगित करना" },
+                { "word": "Delay", "gujaratiPronunciation": "ડિલે", "hindiPronunciation": "डिले", "gujaratiMeaning": "વિલંબ કરવો", "hindiMeaning": "देर करना" }
+            ],
+            "antonyms": [
+                { "word": "Expedite", "gujaratiPronunciation": "એક્સપિડાઇટ", "hindiPronunciation": "एक्सपिडाइट", "gujaratiMeaning": "ઝડપી બનાવવું", "hindiMeaning": "जल्दी करना" },
+                { "word": "Advance", "gujaratiPronunciation": "એડવાન્સ", "hindiPronunciation": "एडवांस", "gujaratiMeaning": "આગળ વધારવું", "hindiMeaning": "आगे बढ़ाना" }
+            ],
+            "confusingWords": [
+                { "word": "Differ", "gujaratiPronunciation": "ડિફર", "hindiPronunciation": "डिफर", "gujaratiMeaning": "અલગ હોવું", "hindiMeaning": "भिन्न होना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "The court decided to defer the decision.", "gujaratiTranslation": "કોર્ટે નિર્ણય મુલતવી રાખવાનું નક્કી કર્યું.", "hindiTranslation": "अदालत ने फैसला टालने का फैसला किया।", "gujaratiPronunciation": "ધ કોર્ટ ડિસાઈડેડ ટુ ડિફર ધ ડિસિઝન.", "hindiPronunciation": "द कोर्ट डिसाइडेड टू डिफर द डिसीजन।" }
+            ]
+        },
+        {
+            "word": "Compress",
+            "gujaratiPronunciation": "કમ્પ્રેસ",
+            "hindiPronunciation": "कंप्रेस",
+            "gujaratiMeaning": "દબાવવું, સંકોચવું",
+            "hindiMeaning": "दबाना, संकुचित करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Compress", "gujaratiPronunciation": "કમ્પ્રેસ", "hindiPronunciation": "कंप्रेस", "gujaratiMeaning": "દબાવવું", "hindiMeaning": "दबाना" },
+                "V2 (Past)": { "word": "Compressed", "gujaratiPronunciation": "કમ્પ્રેસ્ડ", "hindiPronunciation": "कंप्रेस्ड", "gujaratiMeaning": "દબાવ્યું", "hindiMeaning": "दबाया" },
+                "V3 (Past Participle)": { "word": "Compressed", "gujaratiPronunciation": "કમ્પ્રેસ્ડ", "hindiPronunciation": "कंप्रेस्ड", "gujaratiMeaning": "દબાવેલું", "hindiMeaning": "दबाया हुआ" },
+                "V4 (Present Participle)": { "word": "Compressing", "gujaratiPronunciation": "કમ્પ્રેસિંગ", "hindiPronunciation": "कंप्रेसिंग", "gujaratiMeaning": "દબાવી રહ્યું છે", "hindiMeaning": "दबा रहा है" }
+            },
+            "synonyms": [
+                { "word": "Squeeze", "gujaratiPronunciation": "સ્ક્વીઝ", "hindiPronunciation": "स्क्वीज़", "gujaratiMeaning": "નિચોવવું", "hindiMeaning": "निचोड़ना" },
+                { "word": "Condense", "gujaratiPronunciation": "કન્ડેન્સ", "hindiPronunciation": "कंडेंस", "gujaratiMeaning": "ઘટ્ટ કરવું", "hindiMeaning": "गाढ़ा करना" }
+            ],
+            "antonyms": [
+                { "word": "Expand", "gujaratiPronunciation": "એક્સપાન્ડ", "hindiPronunciation": "एक्सपैंड", "gujaratiMeaning": "વિસ્તારવું", "hindiMeaning": "विस्तार करना" },
+                { "word": "Stretch", "gujaratiPronunciation": "સ્ટ્રેચ", "hindiPronunciation": "स्ट्रेच", "gujaratiMeaning": "ખેંચવું", "hindiMeaning": "खींचना" }
+            ],
+            "confusingWords": [],
+            "exampleSentences": [
+                { "sentence": "You can compress the file to save space.", "gujaratiTranslation": "જગ્યા બચાવવા માટે તમે ફાઇલને સંકોચી શકો છો.", "hindiTranslation": "जगह बचाने के लिए आप फ़ाइल को कंप्रेस कर सकते हैं।", "gujaratiPronunciation": "યુ કેન કમ્પ્રેસ ધ ફાઈલ ટુ સેવ સ્પેસ.", "hindiPronunciation": "यू कैन कंप्रेस द फ़ाइल टू सेव स्पेस।" }
+            ]
+        },
+        {
+            "word": "Intercede",
+            "gujaratiPronunciation": "ઇન્ટરસિડ",
+            "hindiPronunciation": "इंटरसीड",
+            "gujaratiMeaning": "વચમાં પડવું, મધ્યસ્થી કરવી",
+            "hindiMeaning": "बीच-बचाव करना, मध्यस्थता करना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Intercede", "gujaratiPronunciation": "ઇન્ટરસિડ", "hindiPronunciation": "इंटरसीड", "gujaratiMeaning": "મધ્યસ્થી કરવી", "hindiMeaning": "मध्यस्थता करना" },
+                "V2 (Past)": { "word": "Interceded", "gujaratiPronunciation": "ઇન્ટરસિડેડ", "hindiPronunciation": "इंटरसीडेड", "gujaratiMeaning": "મધ્યસ્થી કરી", "hindiMeaning": "मध्यस्थता की" },
+                "V3 (Past Participle)": { "word": "Interceded", "gujaratiPronunciation": "ઇન્ટરસિડેડ", "hindiPronunciation": "इंटरसीडेड", "gujaratiMeaning": "મધ્યસ્થી કરેલી", "hindiMeaning": "मध्यस्थता की हुई" },
+                "V4 (Present Participle)": { "word": "Interceding", "gujaratiPronunciation": "ઇન્ટરસિડિંગ", "hindiPronunciation": "इंटरसीडिंग", "gujaratiMeaning": "મધ્યસ્થી કરી રહ્યું છે", "hindiMeaning": "मध्यस्थता कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Mediate", "gujaratiPronunciation": "મિડિએટ", "hindiPronunciation": "मिडिएट", "gujaratiMeaning": "વચેટિયા તરીકે કામ કરવું", "hindiMeaning": "मध्यस्थता करना" },
+                { "word": "Intervene", "gujaratiPronunciation": "ઇન્ટરવીન", "hindiPronunciation": "इंटरवीन", "gujaratiMeaning": "દખલ કરવી", "hindiMeaning": "हस्तक्षेप करना" }
+            ],
+            "antonyms": [
+                { "word": "Ignore", "gujaratiPronunciation": "ઇગ્નોર", "hindiPronunciation": "इग्नोर", "gujaratiMeaning": "અવગણના કરવી", "hindiMeaning": "अनदेखा करना" }
+            ],
+            "confusingWords": [
+                { "word": "Intercept", "gujaratiPronunciation": "ઇન્ટરસેપ્ટ", "hindiPronunciation": "इंटरसेप्ट", "gujaratiMeaning": "વચ્ચેથી અટકાવવું", "hindiMeaning": "बीच में रोकना" }
+            ],
+            "exampleSentences": [
+                { "sentence": "She asked her friend to intercede with her parents.", "gujaratiTranslation": "તેણીએ તેની મિત્રને તેના માતાપિતા સાથે મધ્યસ્થી કરવા કહ્યું.", "hindiTranslation": "उसने अपनी दोस्त से अपने माता-पिता के साथ मध्यस्थता करने के लिए कहा।", "gujaratiPronunciation": "શી આસ્ક્ડ હર ફ્રેન્ડ ટુ ઇન્ટરસિડ વિથ હર પેરેન્ટ્સ.", "hindiPronunciation": "शी आस्क्ड हर फ्रेंड टू इंटरसीड विद हर पेरेंट्स।" }
+            ]
+        },
+        {
+            "word": "Tarry",
+            "gujaratiPronunciation": "ટેરી",
+            "hindiPronunciation": "टैरी",
+            "gujaratiMeaning": "વિલંબ કરવો, રોકાવું",
+            "hindiMeaning": "देर करना, रुकना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Tarry", "gujaratiPronunciation": "ટેરી", "hindiPronunciation": "टैरी", "gujaratiMeaning": "રોકાવું", "hindiMeaning": "रुकना" },
+                "V2 (Past)": { "word": "Tarried", "gujaratiPronunciation": "ટેરીડ", "hindiPronunciation": "टैरीड", "gujaratiMeaning": "રોકાયું", "hindiMeaning": "रुका" },
+                "V3 (Past Participle)": { "word": "Tarried", "gujaratiPronunciation": "ટેરીડ", "hindiPronunciation": "टैरीड", "gujaratiMeaning": "રોકાયેલું", "hindiMeaning": "रुका हुआ" },
+                "V4 (Present Participle)": { "word": "Tarrying", "gujaratiPronunciation": "ટેરીઇંગ", "hindiPronunciation": "टैरीइंग", "gujaratiMeaning": "રોકાઈ રહ્યું છે", "hindiMeaning": "रुक रहा है" }
+            },
+            "synonyms": [
+                { "word": "Linger", "gujaratiPronunciation": "લિંગર", "hindiPronunciation": "लिंगर", "gujaratiMeaning": "ટકી રહેવું", "hindiMeaning": "बने रहना" },
+                { "word": "Dally", "gujaratiPronunciation": "ડેલી", "hindiPronunciation": "डैली", "gujaratiMeaning": "સમય બગાડવો", "hindiMeaning": "समय बर्बाद करना" }
+            ],
+            "antonyms": [
+                { "word": "Hurry", "gujaratiPronunciation": "હરી", "hindiPronunciation": "हरी", "gujaratiMeaning": "ઉતાવળ કરવી", "hindiMeaning": "जल्दी करना" },
+                { "word": "Rush", "gujaratiPronunciation": "રશ", "hindiPronunciation": "रश", "gujaratiMeaning": "દોડવું", "hindiMeaning": "दौड़ना" }
+            ],
+            "confusingWords": [
+                { "word": "Teary", "gujaratiPronunciation": "ટિયરી", "hindiPronunciation": "टियरी", "gujaratiMeaning": "આંસુ ભરેલું", "hindiMeaning": "आँसू भरा" }
+            ],
+            "exampleSentences": [
+                { "sentence": "Do not tarry, for we must leave soon.", "gujaratiTranslation": "વિલંબ કરશો નહીં, કારણ કે આપણે જલ્દી નીકળવું પડશે.", "hindiTranslation": "देर मत करो, क्योंकि हमें जल्द ही निकलना है।", "gujaratiPronunciation": "ડુ નોટ ટેરી, ફોર વી મસ્ટ લીવ સૂન.", "hindiPronunciation": "डू नॉट टैरी, फॉर वी मस्ट लीव सून।" }
+            ]
+        },
+        {
+            "word": "Abide",
+            "gujaratiPronunciation": "અબાઇડ",
+            "hindiPronunciation": "अबाइड",
+            "gujaratiMeaning": "પાલન કરવું, રહેવું",
+            "hindiMeaning": "पालन करना, रहना",
+            "partOfSpeech": "verb",
+            "verbForms": {
+                "V1 (Base)": { "word": "Abide", "gujaratiPronunciation": "અબાઇડ", "hindiPronunciation": "अबाइड", "gujaratiMeaning": "પાલન કરવું", "hindiMeaning": "पालन करना" },
+                "V2 (Past)": { "word": "Abode", "gujaratiPronunciation": "અબોડ", "hindiPronunciation": "अबॉड", "gujaratiMeaning": "પાલન કર્યું", "hindiMeaning": "पालन किया" },
+                "V3 (Past Participle)": { "word": "Abode", "gujaratiPronunciation": "અબોડ", "hindiPronunciation": "अबॉड", "gujaratiMeaning": "પાલન કરેલું", "hindiMeaning": "पालन किया हुआ" },
+                "V4 (Present Participle)": { "word": "Abiding", "gujaratiPronunciation": "અબાઇડિંગ", "hindiPronunciation": "अबाइडिंग", "gujaratiMeaning": "પાલન કરી રહ્યું છે", "hindiMeaning": "पालन कर रहा है" }
+            },
+            "synonyms": [
+                { "word": "Obey", "gujaratiPronunciation": "ઓબે", "hindiPronunciation": "ओबे", "gujaratiMeaning": "આજ્ઞાનું પાલન કરવું", "hindiMeaning": "आज्ञा का पालन करना" },
+                { "word": "Dwell", "gujaratiPronunciation": "ડ્વેલ", "hindiPronunciation": "ड्वेल", "gujaratiMeaning": "રહેવું", "hindiMeaning": "रहना" }
+            ],
+            "antonyms": [
+                { "word": "Disobey", "gujaratiPronunciation": "ડિસોબે", "hindiPronunciation": "डिसोबे", "gujaratiMeaning": "અવજ્ઞા કરવી", "hindiMeaning": "अवज्ञा करना" },
+                { "word": "Leave", "gujaratiPronunciation": "લીવ", "hindiPronunciation": "लीव", "gujaratiMeaning": "જતું રહેવું", "hindiMeaning": "चले जाना" }
+            ],
+            "confusingWords": [
+                { "word": "Aboard", "gujaratiPronunciation": "અબોર્ડ", "hindiPronunciation": "अबॉर्ड", "gujaratiMeaning": "વાહન પર", "hindiMeaning": "सवार" }
+            ],
+            "exampleSentences": [
+                { "sentence": "You must abide by the rules.", "gujaratiTranslation": "તમારે નિયમોનું પાલન કરવું જ જોઈએ.", "hindiTranslation": "आपको नियमों का पालन करना ही होगा।", "gujaratiPronunciation": "યુ મસ્ટ અબાઇડ બાય ધ રૂલ્સ.", "hindiPronunciation": "यू मस्ट अबाइड बाय द रूल्स।" }
+            ]
+        }
+    ]
+}
